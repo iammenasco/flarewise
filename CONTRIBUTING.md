@@ -46,13 +46,14 @@ CI (`.github/workflows/ci.yml`) runs the same gate on every pull request.
 
 1. `/submit` → fill the form → **Submit for review** (pre-filled GitHub issue)
 2. Maintainer applies `approved-food`
-3. Ingest workflow opens a PR that adds the JSON file
+3. Ingest workflow validates (same gates as CI), commits the JSON to `main`,
+   closes the issue, and deploy follows from that push
 
 Offline drafts park in on-device storage; when back online, finish them one at
 a time from the waiting list.
 
 Labels to create on a new repo: [`.github/LABELS.md`](.github/LABELS.md)
-(`new-food`, `approved-food`, `data-ingestion`).
+(`new-food`, `approved-food`).
 
 ### Manual offline check
 
@@ -80,7 +81,7 @@ Live app: **https://flarewise.menas.co**
 | CNAME file | `public/CNAME` → `flarewise.menas.co` (copied into `dist/`) |
 | Cloudflare DNS | Zone `menas.co`: `flarewise` **CNAME** → `iammenasco.github.io` (**DNS only** / grey cloud so GitHub can issue HTTPS) |
 | Share / unfurl | Site OG in `index.html` + `/og.png`; per-food pages at `/f/<id>/` (built by `npm run export-catalog`) |
-| Labels | `new-food`, `approved-food`, `data-ingestion` (see [LABELS.md](.github/LABELS.md)) |
+| Labels | `new-food`, `approved-food` (see [LABELS.md](.github/LABELS.md)) |
 
 Push to `main` runs deploy. Issue submit links use `VITE_GITHUB_OWNER=iammenasco` / `VITE_GITHUB_REPO=flarewise`.
 

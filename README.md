@@ -45,8 +45,8 @@ after the first visit.
 ## Suggest a food
 
 In the app, tap **Add**, fill out the form, then **Submit for review**. That
-opens a pre-filled GitHub issue. A maintainer applies `approved-food`, and
-automation turns it into a catalog update.
+opens a pre-filled GitHub issue. A maintainer applies `approved-food`;
+automation validates, commits to `main`, and deploys.
 
 If you’re offline, the form saves on your phone; when you’re back online you
 can finish those reviews one at a time.
