@@ -1,0 +1,34 @@
+{
+  "id": "release-test-plain-rice-porridge",
+  "name": "Release Test Plain Rice Porridge",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Flarewise Release Check",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "typicalPriceText": "$2 test item",
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "porridge",
+    "release-test",
+    "rice-base"
+  ],
+  "searchKeywords": [
+    "release test porridge",
+    "plain rice mush"
+  ],
+  "whyItWorks": "Ultra-soft white rice cooked down in water; release-pipeline verification item only.",
+  "prepOrOrderInstructions": "Simmer white rice in water until mushy. Discard after verification if desired."
+}
