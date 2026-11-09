@@ -1,0 +1,36 @@
+{
+  "name": "Grilled Sourdough Ham & Cheese",
+  "categoryFolder": "lunch",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 2,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sandwich",
+    "melt",
+    "ham",
+    "cheese",
+    "sourdough"
+  ],
+  "searchKeywords": [
+    "grilled",
+    "ham",
+    "cheese",
+    "sourdough",
+    "melt"
+  ],
+  "whyItWorks": "Provides satisfying protein and fat with easily digestible sourdough bread.",
+  "prepOrOrderInstructions": "Butter the sourdough slices and grill in a skillet over medium heat until the cheese is melted and the bread is golden brown.",
+  "id": "grilled-sourdough-ham-cheese"
+}
