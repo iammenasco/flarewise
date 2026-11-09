@@ -10,16 +10,19 @@
   --line: rgba(22, 58, 99, 0.14);
   --muted: rgba(22, 58, 99, 0.72);
   --touch: 2.75rem;
+  --page-top: #e8f2fb;
   color: var(--brand-ink);
   font-family: Manrope, ui-sans-serif, system-ui, sans-serif;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background:
+  /* Solid base first so iOS paints the status / Dynamic Island area brand-soft, not white. */
+  background-color: var(--page-top);
+  background-image:
     radial-gradient(1200px 600px at 10% -10%, rgba(54, 141, 218, 0.22), transparent 55%),
     radial-gradient(900px 500px at 100% 0%, rgba(54, 141, 218, 0.12), transparent 50%),
-    linear-gradient(180deg, #f7fbff 0%, #eef5fb 45%, #f8fafc 100%);
+    linear-gradient(180deg, #e8f2fb 0%, #eef5fb 42%, #f5f9fc 100%);
   background-attachment: fixed;
 }
 
@@ -28,6 +31,7 @@ body,
 #root {
   height: 100%;
   overflow: hidden;
+  background-color: var(--page-top);
 }
 
 body {
