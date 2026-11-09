@@ -1,0 +1,3251 @@
+[
+  {
+    "id": "malt-o-meal-original-farina",
+    "name": "Malt-O-Meal Original Hot Farina (\"Brulee\" Style)",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "typicalPriceText": "$4.98 - $5.99 (36 oz box)",
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "hot-cereal",
+      "malt-o-meal",
+      "farina",
+      "iron-fortified",
+      "porridge"
+    ],
+    "searchKeywords": [
+      "cream of wheat",
+      "hot wheat",
+      "oatmeal alternative",
+      "breakfast"
+    ],
+    "whyItWorks": "Finely milled wheat endosperm (~1g fiber), fortified with iron and B vitamins, requiring zero mechanical grinding for the bowel.",
+    "prepOrOrderInstructions": "Cook smooth with lactose-free or oat milk. Top with a thin pat of butter and 1 tsp brown sugar (melted on top), or swirl in 1 tbsp smooth peanut butter and pure maple syrup.",
+    "watchOuts": [
+      "Never use chunky peanut butter"
+    ]
+  },
+  {
+    "id": "malt-o-meal-crispy-rice",
+    "name": "Malt-O-Meal Crispy Rice / Rice Chex",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "typicalPriceText": "$5.54 - $5.97 (36 oz bag)",
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "rice-base",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "rice krispies",
+      "chex",
+      "bagged cereal",
+      "puffed rice"
+    ],
+    "whyItWorks": "Puffed white rice has 0g insoluble fiber and dissolves into harmless starch the second it hits liquid. Rice Chex is also certified gluten-free.",
+    "prepOrOrderInstructions": "Let soak in cold lactose-free or almond milk for 60-90 seconds with a drizzle of honey or maple syrup."
+  },
+  {
+    "id": "malt-o-meal-dyno-bites",
+    "name": "Fruity or Cocoa Dyno-Bites",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "typicalPriceText": "$5.86 - $5.97 (30-32 oz bag)",
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "rice-base",
+      "gluten-free",
+      "marshmallow"
+    ],
+    "searchKeywords": [
+      "fruity pebbles",
+      "cocoa pebbles",
+      "bagged cereal"
+    ],
+    "whyItWorks": "Puffed rice base with zero roughage. The marshmallow version adds great mouthfeel that melts completely without adding fiber.",
+    "prepOrOrderInstructions": "Pour lactose-free or almond milk and let sit 60 seconds before eating.",
+    "watchOuts": [
+      "Food dyes and high sugar can slightly speed up transit in ultra-sensitive guts during a severe flare"
+    ]
+  },
+  {
+    "id": "prosciutto-provolone-croissant",
+    "name": "Prosciutto & Provolone Croissant Roll-Up",
+    "categoryFolder": "breakfast",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "region": "Euro/Bistro",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "toaster-oven",
+      "no-microwave"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pastry",
+      "sandwich",
+      "cheese",
+      "prosciutto",
+      "provolone",
+      "havarti",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "bakery",
+      "croissant",
+      "ham and cheese",
+      "breakfast sandwich"
+    ],
+    "whyItWorks": "Refined white pastry flour and aged cheese dissolve fast; thin cured meat gives high protein and sodium without tough muscle fibers.",
+    "prepOrOrderInstructions": "Layer thin prosciutto and plain provolone or Havarti inside a bakery croissant. Toast in the toaster oven at 350F for 4-5 minutes until flaky, never soggy."
+  },
+  {
+    "id": "egg-havarti-tortilla-melt",
+    "name": "Egg & Havarti Tortilla Melt",
+    "categoryFolder": "breakfast",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet",
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "eggs",
+      "cheese",
+      "havarti",
+      "tortilla",
+      "wrap",
+      "melt"
+    ],
+    "searchKeywords": [
+      "breakfast burrito",
+      "quesadilla",
+      "scrambled eggs"
+    ],
+    "whyItWorks": "Soft eggs and white flour tortillas are near-zero residue; Havarti is naturally lactose-free (~0g lactose) and melts cleanly.",
+    "prepOrOrderInstructions": "Soft-scramble 2 eggs, wrap in a warm white flour tortilla with a slice of plain Havarti, and press in a dry skillet for 60 seconds per side until crispy."
+  },
+  {
+    "id": "cream-cheese-english-muffin",
+    "name": "Silky Cream Cheese or Ricotta English Muffin",
+    "categoryFolder": "breakfast",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "bread",
+      "english-muffin",
+      "honey",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "toast alternative",
+      "bagel alternative",
+      "morning"
+    ],
+    "whyItWorks": "White English muffins have zero whole-grain husks and toast up crisp without sharp edges.",
+    "prepOrOrderInstructions": "Toast light-to-medium in the toaster oven, spread with lactose-free cream cheese (or whole-milk ricotta in remission) and a drizzle of honey."
+  },
+  {
+    "id": "dutch-baby-german-pancake",
+    "name": "Dutch Baby / Skillet German Pancake",
+    "categoryFolder": "breakfast",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "region": "Euro/Bistro",
+    "costTier": 1,
+    "convenienceScore": 3,
+    "prepMethod": [
+      "skillet",
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pancake",
+      "eggs",
+      "baked",
+      "sweet"
+    ],
+    "searchKeywords": [
+      "crepe",
+      "yorkshire pudding",
+      "waffle",
+      "syrup"
+    ],
+    "whyItWorks": "Egg-heavy, zero-fiber batter that puffs up like a Yorkshire pudding - feels fancy, costs pennies, and takes almost no digestive work.",
+    "prepOrOrderInstructions": "Whisk 2 eggs, 1/2 cup white flour, 1/2 cup lactose-free milk, and a pinch of salt. Pour into a hot skillet with 2 tbsp melted butter. Bake at 425F for 15 mins until puffed and golden. Dust with powdered sugar and maple syrup."
+  },
+  {
+    "id": "savory-bacon-cheddar-grits",
+    "name": "Savory Bacon & Cheddar Corn Grits",
+    "categoryFolder": "breakfast",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "breakfast",
+      "dinner"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "grits",
+      "polenta",
+      "cheese",
+      "cheddar",
+      "bacon",
+      "eggs",
+      "broth",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "hot cereal",
+      "porridge",
+      "southern",
+      "cornmeal"
+    ],
+    "whyItWorks": "Quick-cooking white hominy grits cook down ultra-soft and soothing.",
+    "prepOrOrderInstructions": "Simmer 1/4 cup quick grits in 1 cup chicken bone broth for 5 mins. Stir in butter and sharp cheddar. Top with finely crumbled crispy bacon and a soft-poached egg."
+  },
+  {
+    "id": "malt-o-meal-golden-puffs",
+    "name": "Golden Puffs / Honey Buzzers / Corn Bursts",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "typicalPriceText": "$5.97 (32 oz bag)",
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "puffed-grain"
+    ],
+    "searchKeywords": [
+      "honey smacks",
+      "sugar crisp",
+      "honeycomb",
+      "kix",
+      "bagged cereal"
+    ],
+    "whyItWorks": "Puffed wheat and refined corn meal break down quickly (~1g fiber) in liquid.",
+    "prepOrOrderInstructions": "Serve with lactose-free or almond milk.",
+    "watchOuts": [
+      "High sugar content in Golden Puffs can pull water into the colon (osmotic effect) if eaten in huge bowls during an active flare"
+    ]
+  },
+  {
+    "id": "standard-pop-tarts",
+    "name": "Standard Pop-Tarts (Strawberry or Brown Sugar)",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Pop-Tarts",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "toaster-oven",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pastry",
+      "toaster-oven",
+      "grab-and-go",
+      "sweet"
+    ],
+    "searchKeywords": [
+      "toaster pastry",
+      "brown sugar cinnamon",
+      "strawberry"
+    ],
+    "whyItWorks": "Refined white flour crust with smooth pectin fruit gel - zero seeds, skins, or roughage.",
+    "prepOrOrderInstructions": "Run through the toaster oven until the edges crisp up.",
+    "watchOuts": [
+      "Skip whole-wheat, unfrosted high-fiber, or nutty toaster pastries"
+    ]
+  },
+  {
+    "id": "buttermilk-brioche-french-toast",
+    "name": "Buttermilk Brioche French Toast",
+    "categoryFolder": "breakfast",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 3,
+    "prepMethod": [
+      "skillet"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "bread",
+      "brioche",
+      "eggs",
+      "french-toast",
+      "sweet"
+    ],
+    "searchKeywords": [
+      "challah",
+      "pancakes",
+      "maple syrup"
+    ],
+    "whyItWorks": "Brioche and Challah have no whole grains or seeds and soak up egg custard completely.",
+    "prepOrOrderInstructions": "Dip thick brioche slices in beaten egg + splash of vanilla + cinnamon. Pan-fry in butter until golden."
+  },
+  {
+    "id": "malt-o-meal-marshmallow-mateys",
+    "name": "Malt-O-Meal Marshmallow Mateys",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 7.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "typicalPriceText": "$5.97 (33 oz bag)",
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "oat-flour",
+      "marshmallow"
+    ],
+    "searchKeywords": [
+      "lucky charms",
+      "bagged cereal",
+      "frosted oats"
+    ],
+    "whyItWorks": "Made from pulverized oat flour rather than sharp whole rolled oats (~1.5g fiber).",
+    "prepOrOrderInstructions": "Let sit in lactose-free or almond milk for 90 seconds before eating so the oat anchors soften up."
+  },
+  {
+    "id": "malt-o-meal-cinnamon-toasters",
+    "name": "Malt-O-Meal Cinnamon Toasters",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 7,
+    "safetyTier": "remission-road",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "typicalPriceText": "$5.97 (33 oz bag)",
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "cinnamon"
+    ],
+    "searchKeywords": [
+      "cinnamon toast crunch",
+      "ctc",
+      "bagged cereal"
+    ],
+    "whyItWorks": "Wheat and rice flour squares (~1.5g fiber), though they hold their crunch longer than puffed rice.",
+    "prepOrOrderInstructions": "Soak for 2 minutes in milk and chew thoroughly so you aren't swallowing jagged corners."
+  },
+  {
+    "id": "malt-o-meal-berry-colossal-crunch",
+    "name": "Malt-O-Meal Berry Colossal Crunch",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 6.5,
+    "safetyTier": "remission-road",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "typicalPriceText": "$5.97 - $6.79 (34.5 oz bag)",
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "corn-base"
+    ],
+    "searchKeywords": [
+      "capn crunch",
+      "captain crunch",
+      "crunch berries",
+      "bagged cereal"
+    ],
+    "whyItWorks": "Low fiber (~1g), but dense corn meal pellets are mechanically abrasive if eaten dry.",
+    "prepOrOrderInstructions": "Mandatory 2-minute milk soak before taking a bite so pellets soften."
+  },
+  {
+    "id": "malt-o-meal-frosted-mini-spooners",
+    "name": "Malt-O-Meal Frosted Mini Spooners (WARNING / REMISSION HACK)",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 2.5,
+    "safetyTier": "danger-zone",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 6,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "high-fiber",
+      "warning",
+      "shredded-wheat"
+    ],
+    "searchKeywords": [
+      "frosted mini wheats",
+      "shredded wheat",
+      "bagged cereal"
+    ],
+    "whyItWorks": "6g of dense, tightly bound insoluble whole wheat twigs. Acts like rough sandpaper in an active flare or stricture.",
+    "prepOrOrderInstructions": "NEVER touch during a flare. Remission-Only Hack: Pour warm lactose-free milk over a half-serving (25g) and wait 3-4 full minutes until it collapses into a soft porridge, and chew to liquid.",
+    "flareEmergencySwap": "Swap immediately to Malt-O-Meal Original Hot Farina (10/10) or Crispy Rice (9.5/10) at the first sign of cramping."
+  },
+  {
+    "id": "malt-o-meal-oat-blenders-almonds",
+    "name": "Malt-O-Meal Oat Blenders with Almonds (HARD AVOID)",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 2,
+    "safetyTier": "danger-zone",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 3,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "warning",
+      "nuts"
+    ],
+    "searchKeywords": [
+      "honey bunches of oats",
+      "almonds",
+      "rolled oats"
+    ],
+    "whyItWorks": "Sliced almonds do not break down when chewed quickly; sharp nut shards can lodge directly in inflamed fissures or strictures.",
+    "prepOrOrderInstructions": "Hard avoid during flares or if strictures are present."
+  },
+  {
+    "id": "malt-o-meal-raisin-bran",
+    "name": "Malt-O-Meal Raisin Bran (HARD AVOID)",
+    "categoryFolder": "breakfast",
+    "brandOrRestaurant": "Malt-O-Meal",
+    "crohnsScore": 1,
+    "safetyTier": "danger-zone",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 8,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cereal",
+      "cold-cereal",
+      "malt-o-meal",
+      "warning",
+      "high-fiber",
+      "dried-fruit"
+    ],
+    "searchKeywords": [
+      "bran flakes",
+      "raisins",
+      "blockage risk"
+    ],
+    "whyItWorks": "8g of coarse wheat bran flakes paired with dehydrated raisin skins that do not digest and can cause mechanical blockages.",
+    "prepOrOrderInstructions": "Leave on the grocery shelf."
+  },
+  {
+    "id": "smooth-egg-salad-brioche",
+    "name": "Smooth Egg Salad on Brioche",
+    "categoryFolder": "lunch",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "breakfast"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "sandwich",
+      "eggs",
+      "brioche",
+      "hawaiian-rolls",
+      "high-protein"
+    ],
+    "searchKeywords": [
+      "egg salad",
+      "potato bread",
+      "lunch"
+    ],
+    "whyItWorks": "Pure protein and fat, zero plant fiber, dissolves effortlessly in the stomach.",
+    "prepOrOrderInstructions": "Mash 2 hard-boiled eggs fine with 1 tbsp mayo, 1/2 tsp smooth yellow or Dijon mustard (no whole seeds), salt, and paprika. Serve on potato bread, brioche, or sweet Hawaiian rolls."
+  },
+  {
+    "id": "wonton-ramen-noodle-broth-bowl",
+    "name": "Wonton or Ramen Noodle Broth Bowl",
+    "categoryFolder": "lunch",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "Chinese",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "soup",
+      "broth",
+      "noodles",
+      "ramen",
+      "wonton",
+      "dumplings"
+    ],
+    "searchKeywords": [
+      "bone broth",
+      "chicken noodle",
+      "instant ramen"
+    ],
+    "whyItWorks": "Hot bone broth hydrates an irritated bowel and replaces sodium, while refined wheat noodles and thin wonton wrappers require almost zero digestive effort.",
+    "prepOrOrderInstructions": "Simmer ramen noodles (ditch spicy chili packets) or frozen chicken/pork wontons in rich chicken bone broth. Add 1 drop toasted sesame oil and a soft-boiled egg."
+  },
+  {
+    "id": "turkey-havarti-toaster-oven-melt",
+    "name": "Turkey & Havarti Toaster-Oven Melt",
+    "categoryFolder": "lunch",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "toaster-oven",
+      "no-microwave"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "sandwich",
+      "melt",
+      "turkey",
+      "cheese",
+      "havarti",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "deli sandwich",
+      "panini",
+      "grilled cheese",
+      "pita"
+    ],
+    "whyItWorks": "Lean deli protein + zero-lactose Havarti on soft refined bread gives you a proper hot sandwich with zero friction.",
+    "prepOrOrderInstructions": "Layer thin-sliced deli turkey and plain Havarti on potato bread or soft pita. Toast open-faced at 375F for 5 mins until crisp, never microwave-soggy."
+  },
+  {
+    "id": "tuna-salmon-cracker-stacks",
+    "name": "Tuna or Salmon Salad Cracker Stacks",
+    "categoryFolder": "lunch",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "fish",
+      "tuna",
+      "salmon",
+      "crackers",
+      "ritz",
+      "saltines",
+      "high-protein"
+    ],
+    "searchKeywords": [
+      "tuna salad",
+      "canned fish",
+      "omega 3",
+      "quick lunch"
+    ],
+    "whyItWorks": "Canned fish is pre-cooked to complete softness and loaded with anti-inflammatory omega-3s.",
+    "prepOrOrderInstructions": "Mash drained canned tuna or pink salmon smooth with mayo and a pinch of garlic powder (skip celery or pickle relish chunks). Spoon onto Ritz crackers or Saltines."
+  },
+  {
+    "id": "french-dip-roast-beef-swiss",
+    "name": "The French Dip (Roast Beef & Swiss Melt)",
+    "categoryFolder": "lunch",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "American",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "toaster-oven",
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "sandwich",
+      "melt",
+      "beef",
+      "roast-beef",
+      "cheese",
+      "swiss",
+      "broth",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "au jus",
+      "sub",
+      "hoagie"
+    ],
+    "whyItWorks": "Dipping the bread in warm broth pre-softens the entire meal before you even swallow.",
+    "prepOrOrderInstructions": "Warm thin deli roast beef in a mug of beef broth/au jus. Pile onto a soft white French roll with melted Swiss cheese (toaster oven for 3 mins). Dip every bite."
+  },
+  {
+    "id": "ham-swiss-hawaiian-sliders",
+    "name": "Ham & Swiss Hawaiian Sliders",
+    "categoryFolder": "lunch",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "toaster-oven",
+      "no-microwave"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "sandwich",
+      "sliders",
+      "ham",
+      "cheese",
+      "swiss",
+      "hawaiian-rolls",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "kings hawaiian",
+      "party rolls",
+      "hot ham and cheese"
+    ],
+    "whyItWorks": "King's Hawaiian rolls have virtually zero fiber and a pillow-soft texture.",
+    "prepOrOrderInstructions": "Split 3-4 rolls, layer with thin deli ham and Swiss, brush tops with melted butter and garlic powder, and bake in the toaster oven at 350F for 6-8 minutes."
+  },
+  {
+    "id": "shredded-chicken-jack-quesadilla",
+    "name": "Shredded Chicken & Jack Quesadilla",
+    "categoryFolder": "lunch",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet",
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "quesadilla",
+      "chicken",
+      "cheese",
+      "tortilla",
+      "mexican"
+    ],
+    "searchKeywords": [
+      "taco bell dupe",
+      "cheese melt",
+      "avocado"
+    ],
+    "whyItWorks": "Finely shredded chicken and white flour tortillas are super easy on strictures.",
+    "prepOrOrderInstructions": "Crisp in a dry skillet and dip in plain strained Greek yogurt or smooth avocado mash. Skip chunky tomato salsa."
+  },
+  {
+    "id": "safe-blt-bacon-avocado-pocket",
+    "name": "The \"Safe BLT\" (Bacon & Avocado Soft Pocket)",
+    "categoryFolder": "lunch",
+    "crohnsScore": 7.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch"
+    ],
+    "region": "American",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet",
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 2,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "sandwich",
+      "bacon",
+      "avocado",
+      "pita",
+      "wrap"
+    ],
+    "searchKeywords": [
+      "blt swap",
+      "no lettuce",
+      "no tomato"
+    ],
+    "whyItWorks": "Replaces gut-shredding raw lettuce and acidic tomato skins/seeds with creamy, soluble-fiber avocado.",
+    "prepOrOrderInstructions": "Stuff crispy bacon (chewed well), mashed ripe avocado, and mayo into a warm white flour pita pocket."
+  },
+  {
+    "id": "drive-thru-plain-cheeseburger",
+    "name": "Drive-Thru Plain Single or Double Cheeseburger",
+    "categoryFolder": "lunch",
+    "brandOrRestaurant": "McDonald's / Wendy's / In-N-Out",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "drive-thru",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": false,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "burger",
+      "beef",
+      "drive-thru",
+      "fast-food",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "mcdonalds",
+      "wendys",
+      "culvers",
+      "road trip"
+    ],
+    "whyItWorks": "White bun and finely ground beef patty require very little mechanical breakdown when stripped of raw roughage.",
+    "prepOrOrderInstructions": "Order PLAIN (white bun, beef patty, cheese, ketchup/smooth mustard only). Strictly no pickles, raw onions, or lettuce."
+  },
+  {
+    "id": "taco-bell-quesadilla-pintos",
+    "name": "Taco Bell Quesadilla, Cheesy Roll-Up & Pintos",
+    "categoryFolder": "lunch",
+    "brandOrRestaurant": "Taco Bell",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "drive-thru",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 2,
+    "lactoseSafe": false,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "quesadilla",
+      "drive-thru",
+      "fast-food",
+      "takeout",
+      "mexican"
+    ],
+    "searchKeywords": [
+      "taco bell",
+      "cheesy roll up",
+      "refried beans",
+      "road trip"
+    ],
+    "whyItWorks": "Soft flour tortillas and pureed pintos avoid the sharp corn hulls and raw lettuce of standard tacos.",
+    "prepOrOrderInstructions": "Order Cheese or Chicken Quesadilla (no creamy jalapeno sauce if flaring), Cheesy Roll-Up, or Pintos & Cheese stirred smooth (no red strips or pico)."
+  },
+  {
+    "id": "pan-seared-salmon-cheddar-polenta",
+    "name": "Pan-Seared Salmon & Cheddar Polenta (or Grits)",
+    "categoryFolder": "dinner",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "dinner"
+    ],
+    "region": "American",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet",
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "fish",
+      "salmon",
+      "polenta",
+      "grits",
+      "cheese",
+      "cheddar",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "seafood",
+      "omega 3",
+      "teriyaki salmon"
+    ],
+    "whyItWorks": "Salmon flakes apart with zero tough connective tissue; corn grits/polenta cook down completely smooth.",
+    "prepOrOrderInstructions": "Pan-sear skinless salmon bites or fillet with a sweet soy or teriyaki glaze. Serve over soft-cooked quick corn grits stirred with butter and sharp cheddar or grated parmesan."
+  },
+  {
+    "id": "loaded-baked-potato-bowl",
+    "name": "Loaded Baked Potato Bowl (Strictly No Skins)",
+    "categoryFolder": "dinner",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "potato",
+      "mashed-potatoes",
+      "turkey",
+      "cheese",
+      "cheddar",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "russet potato",
+      "yukon gold",
+      "sweet potato",
+      "baked potato"
+    ],
+    "whyItWorks": "Peeled russet, Yukon gold, or sweet potatoes provide soluble potassium and soothing starch without roughage.",
+    "prepOrOrderInstructions": "Bake or microwave potato until tender, scoop out the inside (discard the fibrous skin), and mash with butter, lactose-free sour cream, melted sharp cheddar, and browned ground turkey."
+  },
+  {
+    "id": "cheese-ravioli-brown-butter",
+    "name": "Cheese or Meat Ravioli with Brown Butter",
+    "categoryFolder": "dinner",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "region": "Italian/Med",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": false,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pasta",
+      "ravioli",
+      "italian",
+      "cheese"
+    ],
+    "searchKeywords": [
+      "tortellini",
+      "fresh pasta",
+      "no red sauce"
+    ],
+    "whyItWorks": "Refrigerated fresh pasta uses finely milled white flour and smooth filling that digests rapidly.",
+    "prepOrOrderInstructions": "Boil refrigerated cheese, chicken, or beef ravioli for 4 minutes. Toss in melted browned butter, salt, and grated parmesan (skip acidic tomato marinara during flares)."
+  },
+  {
+    "id": "shepherds-pie-skillet-mash",
+    "name": "Shepherd's Pie Skillet Mash",
+    "categoryFolder": "dinner",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dinner"
+    ],
+    "region": "Euro/Bistro",
+    "costTier": 1,
+    "convenienceScore": 3,
+    "prepMethod": [
+      "skillet",
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "beef",
+      "turkey",
+      "potato",
+      "mashed-potatoes",
+      "broth",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "cottage pie",
+      "ground beef",
+      "comfort food"
+    ],
+    "whyItWorks": "Finely ground meat takes 80% of the mechanical work away from your stomach.",
+    "prepOrOrderInstructions": "Brown lean ground beef, lamb, or turkey with garlic powder, onion powder, Worcestershire sauce, and beef broth (thickened with 1 tsp cornstarch). Top with peeled mashed Yukon Gold potatoes and broil in the toaster oven for 3-4 minutes until golden."
+  },
+  {
+    "id": "gut-safe-egg-roll-in-a-bowl",
+    "name": "Gut-Safe \"Egg Roll in a Bowl\" (Peeled Zucchini Swap)",
+    "categoryFolder": "dinner",
+    "crohnsScore": 7.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "region": "Chinese",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "pork",
+      "turkey",
+      "zucchini",
+      "skillet",
+      "asian"
+    ],
+    "searchKeywords": [
+      "crack slaw",
+      "no cabbage",
+      "stir fry"
+    ],
+    "whyItWorks": "Swaps rough shredded cabbage for peeled, seedless zucchini ribbons that cook down into silk.",
+    "prepOrOrderInstructions": "Brown ground pork or turkey with ground ginger, garlic powder, soy sauce, and a drop of sesame oil. Add peeled zucchini ribbons (seed core removed) and cook until completely translucent and tender."
+  },
+  {
+    "id": "nigiri-sashimi-sushi",
+    "name": "Nigiri & Sashimi (Salmon, Tuna, Yellowtail, Tamago)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Japanese",
+    "costTier": 3,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "sushi",
+      "fish",
+      "salmon",
+      "tuna",
+      "rice-base",
+      "japanese",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "raw fish",
+      "sweet egg",
+      "tamago",
+      "eel sauce"
+    ],
+    "whyItWorks": "Raw or seared sushi-grade fish and sweet Japanese omelet (Tamago) over seasoned white sushi rice is arguably the cleanest, highest-protein, zero-fiber meal on earth.",
+    "prepOrOrderInstructions": "Ask for no sesame seeds on the rice. Dip in plain soy sauce and sweet eel sauce (skip spicy mayo, ponzu, and wasabi during flares)."
+  },
+  {
+    "id": "japanese-chicken-udon-soup",
+    "name": "Japanese Chicken or Tamago Udon Soup",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Japanese",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "soup",
+      "broth",
+      "noodles",
+      "udon",
+      "chicken",
+      "japanese",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "dashi",
+      "thick noodles",
+      "sick day soup"
+    ],
+    "whyItWorks": "Thick white wheat udon noodles are ultra-soft and slippery; mild dashi and soy broth settles cramps and restores electrolytes.",
+    "prepOrOrderInstructions": "Simmer pre-cooked vacuum-packed udon noodles in chicken broth with a splash of soy sauce and mirin. Top with thinly sliced skinless chicken breast and swirled egg drop."
+  },
+  {
+    "id": "soy-paper-sushi-rolls",
+    "name": "Soy-Paper Sushi Rolls (Salmon Avocado or Shrimp Tempura)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Japanese",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "sushi",
+      "fish",
+      "salmon",
+      "shrimp",
+      "avocado",
+      "japanese",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "california roll",
+      "no seaweed",
+      "no nori",
+      "sushi roll"
+    ],
+    "whyItWorks": "Swapping dark green nori seaweed for soy paper eliminates the tough wrapper that can catch on inflamed tissue.",
+    "prepOrOrderInstructions": "Order with soy paper and no sesame seeds. Safe fillings: salmon, tuna, cooked crab stick (kanikama), steamed shrimp, and smooth avocado. Skip raw cucumber sticks, jalapeno, or roe."
+  },
+  {
+    "id": "chicken-salmon-teriyaki-bowl",
+    "name": "Chicken or Salmon Teriyaki Rice Bowl",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Japanese",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "skillet",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "chicken",
+      "salmon",
+      "rice-base",
+      "teriyaki",
+      "japanese",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "rice bowl",
+      "donburi",
+      "hibachi"
+    ],
+    "whyItWorks": "Skinless grilled chicken thigh or salmon glazed in sweet soy-mirin reduction over steamed white rice digests cleanly.",
+    "prepOrOrderInstructions": "Order white rice only and skip the side cabbage salad, sesame seeds, and fibrous broccoli stalks."
+  },
+  {
+    "id": "chawanmushi-steamed-egg-custard",
+    "name": "Chawanmushi (Savory Japanese Steamed Egg Custard)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "region": "Japanese",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "eggs",
+      "custard",
+      "broth",
+      "japanese",
+      "flare-recovery"
+    ],
+    "searchKeywords": [
+      "steamed egg",
+      "dashi egg",
+      "liquid diet"
+    ],
+    "whyItWorks": "Silky dashi-infused steamed egg custard requires zero chewing and soothes an angry stomach immediately.",
+    "prepOrOrderInstructions": "Whisk eggs gently with warm dashi or chicken broth (1:3 ratio), strain through a sieve, and steam covered on low heat for 10-12 minutes."
+  },
+  {
+    "id": "custom-shoyu-chicken-ramen",
+    "name": "Shoyu or Chicken Paitan Ramen (Gut-Safe Custom Order)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Japanese",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "soup",
+      "broth",
+      "noodles",
+      "ramen",
+      "pork",
+      "chicken",
+      "eggs",
+      "japanese",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "tonkotsu",
+      "chashu",
+      "ajitama",
+      "noodle soup"
+    ],
+    "whyItWorks": "Refined wheat alkaline noodles + rich broth + marinated soft-boiled egg (Ajitama) + tender braised pork belly (Chashu).",
+    "prepOrOrderInstructions": "Choose Shoyu or Chicken Paitan broth over heavy Tonkotsu if fat triggers transit. Hold the wood ear mushrooms (kikurage), corn kernels, raw scallions, and chili oil."
+  },
+  {
+    "id": "korean-seolleongtang-ox-bone-soup",
+    "name": "Seolleongtang or Samgyetang (Korean Bone Broth Soup)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Korean",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "soup",
+      "broth",
+      "beef",
+      "chicken",
+      "rice-base",
+      "korean",
+      "takeout",
+      "flare-recovery"
+    ],
+    "searchKeywords": [
+      "ox bone soup",
+      "ginseng chicken soup",
+      "collagen",
+      "gomtang"
+    ],
+    "whyItWorks": "Korean ox-bone soup is simmered for 12+ hours until pure collagen and protein, served with soft white rice and thin beef slices - zero spice, zero fiber, pure gut healing.",
+    "prepOrOrderInstructions": "Season with sea salt at the table to taste. Skip the radish/cabbage kimchi and raw chopped green onions."
+  },
+  {
+    "id": "korean-gyeranjjim-volcano-eggs",
+    "name": "Gyeran-jjim (Korean Volcano Steamed Eggs)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Korean",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "eggs",
+      "broth",
+      "korean",
+      "gluten-free",
+      "flare-recovery"
+    ],
+    "searchKeywords": [
+      "steamed eggs",
+      "korean bbq side",
+      "banchan"
+    ],
+    "whyItWorks": "Eggs whisked with kelp/anchovy or chicken broth and steamed until fluffy and cloud-like with a drop of sesame oil.",
+    "prepOrOrderInstructions": "Simmer whisked eggs and salted chicken broth in a small pot for 5-6 minutes covered, drizzle with 1 drop toasted sesame oil, and skip the raw scallion garnish."
+  },
+  {
+    "id": "custom-gut-safe-gimbap",
+    "name": "Custom Gut-Safe Gimbap (Korean Rice Rolls)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Korean",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "gimbap",
+      "sushi",
+      "rice-base",
+      "beef",
+      "eggs",
+      "cheese",
+      "korean",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "kimbap",
+      "korean sushi",
+      "bulgogi roll"
+    ],
+    "whyItWorks": "Seasoned with sweet toasted sesame oil and salt instead of vinegar, with fully cooked fillings.",
+    "prepOrOrderInstructions": "Make or order Egg, Crab Stick, Bulgogi Beef, and American/Havarti Cheese Gimbap with peeled cucumber/zucchini ribbons. Skip burdock root, raw carrots, and spinach; use soy wrapper if flaring."
+  },
+  {
+    "id": "korean-japchae-glass-noodles",
+    "name": "Japchae (Korean Sweet Potato Glass Noodles)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Korean",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "noodles",
+      "glass-noodles",
+      "beef",
+      "korean",
+      "gluten-free",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "dangmyeon",
+      "sweet potato noodles",
+      "stir fry noodles"
+    ],
+    "whyItWorks": "Dangmyeon noodles are made from purified sweet potato starch - 0g insoluble fiber, gluten-free, and super slippery.",
+    "prepOrOrderInstructions": "Order or make with thinly sliced beef and soy-sesame-sugar sauce, and pick around any tough onion, mushroom, or bell pepper skins."
+  },
+  {
+    "id": "mild-beef-bulgogi-rice",
+    "name": "Mild Beef Bulgogi or Non-Spicy Dakgalbi",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Korean",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "beef",
+      "chicken",
+      "rice-base",
+      "korean",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "korean bbq",
+      "shaved beef",
+      "marinated beef"
+    ],
+    "whyItWorks": "Thinly shaved ribeye or chicken marinated in soy sauce, sugar, garlic powder, and sesame oil digests effortlessly because the meat is shaved paper-thin.",
+    "prepOrOrderInstructions": "Serve over steamed white rice and skip raw onion slices or gochujang chili paste."
+  },
+  {
+    "id": "chinese-egg-drop-wonton-soup",
+    "name": "Chinese Egg Drop Soup or Pork Wonton Soup",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Chinese",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "soup",
+      "broth",
+      "eggs",
+      "wonton",
+      "dumplings",
+      "chinese",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "chinese takeout",
+      "sick day soup",
+      "clear broth"
+    ],
+    "whyItWorks": "Silky cornstarch-thickened chicken broth with ribbons of cooked egg and thin wheat wonton skins.",
+    "prepOrOrderInstructions": "Order standard Egg Drop or Wonton Soup and skip the deep-fried crunchy noodle strips during an active flare."
+  },
+  {
+    "id": "cantonese-steamed-egg-minced-pork",
+    "name": "Cantonese Steamed Egg with Minced Pork",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "Chinese",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "eggs",
+      "pork",
+      "rice-base",
+      "chinese",
+      "high-protein"
+    ],
+    "searchKeywords": [
+      "steamed egg custard",
+      "comfort food"
+    ],
+    "whyItWorks": "Silky steamed egg custard topped with finely minced savory pork and soy sauce over white rice.",
+    "prepOrOrderInstructions": "Steam whisked eggs with warm chicken broth for 10 mins, top with browned finely minced pork and a splash of soy sauce and sesame oil."
+  },
+  {
+    "id": "char-siu-bao-har-gow",
+    "name": "Char Siu Bao (Steamed BBQ Pork Buns) or Har Gow",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "snack",
+      "takeout"
+    ],
+    "region": "Chinese",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "dumplings",
+      "bao",
+      "pork",
+      "shrimp",
+      "dim-sum",
+      "chinese",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "steamed buns",
+      "shrimp dumplings",
+      "dim sum"
+    ],
+    "whyItWorks": "Fluffy steamed white flour buns and translucent tapioca/wheat starch dumpling wrappers digest easily with zero fried grease.",
+    "prepOrOrderInstructions": "Choose steamed buns and steamed dumplings over pan-fried potstickers during flares."
+  },
+  {
+    "id": "chinese-congee-savory-rice-porridge",
+    "name": "Congee (Jook / Savory Chicken & Egg Rice Porridge)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Chinese",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop",
+      "slow-cooker"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "porridge",
+      "rice-base",
+      "broth",
+      "chicken",
+      "eggs",
+      "chinese",
+      "flare-recovery"
+    ],
+    "searchKeywords": [
+      "jook",
+      "rice soup",
+      "sick day"
+    ],
+    "whyItWorks": "White rice simmered in chicken bone broth until it completely breaks down into a thick, velvety savory porridge.",
+    "prepOrOrderInstructions": "Simmer 1 part white jasmine rice in 7 parts chicken bone broth with ginger powder. Top with finely shredded chicken, soft-boiled egg, and soy sauce."
+  },
+  {
+    "id": "plain-chicken-beef-lo-mein",
+    "name": "Plain Chicken or Beef Lo Mein (No Veggies)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Chinese",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "noodles",
+      "chicken",
+      "beef",
+      "chinese",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "chow mein",
+      "egg noodles",
+      "chinese takeout"
+    ],
+    "whyItWorks": "Soft wheat egg noodles tossed in savory brown soy-oyster sauce digest cleanly without roughage.",
+    "prepOrOrderInstructions": "Order plain chicken or beef lo mein with no vegetables, or push the fibrous cabbage and celery stalks to the side."
+  },
+  {
+    "id": "mild-butter-chicken-white-naan",
+    "name": "Mild Murgh Makhani (Butter Chicken) & White Naan",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dinner",
+      "lunch",
+      "takeout"
+    ],
+    "region": "Indian",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop",
+      "toaster-oven",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "chicken",
+      "curry",
+      "naan",
+      "turmeric",
+      "indian",
+      "takeout",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "tikka masala",
+      "mild indian",
+      "zero spice"
+    ],
+    "whyItWorks": "Turmeric, ginger, cumin, and fenugreek provide massive flavor and natural anti-inflammatory action without chili heat; white naan is pillow-soft.",
+    "prepOrOrderInstructions": "Order '0/10 spice / Mild / Kid-friendly.' At home, simmer chicken thighs in strained tomato puree, coconut milk or heavy cream/ghee, garam masala, and turmeric. Warm white naan in the toaster oven."
+  },
+  {
+    "id": "mild-chicken-lamb-korma",
+    "name": "Mild Chicken or Lamb Korma (Smooth Sauce)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dinner",
+      "lunch",
+      "takeout"
+    ],
+    "region": "Indian",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat",
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": false,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "chicken",
+      "lamb",
+      "curry",
+      "rice-base",
+      "indian",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "cashew sauce",
+      "mild curry",
+      "basmati rice"
+    ],
+    "whyItWorks": "Braised meat in a mild, velvety sauce made from cream/yogurt, mild aromatic spices, and smooth nut paste (zero whole nut shards).",
+    "prepOrOrderInstructions": "Order 0/10 mild over white basmati rice and verify no whole raisins or whole cashews are mixed into the sauce."
+  },
+  {
+    "id": "savory-ground-turkey-beef-keema",
+    "name": "Savory Ground Turkey or Beef Keema (Mild)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "region": "Indian",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "turkey",
+      "beef",
+      "potato",
+      "turmeric",
+      "indian",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "ground meat curry",
+      "keema aloo",
+      "mild spice"
+    ],
+    "whyItWorks": "Finely ground meat simmered in broth with warm, non-chili seasonings (cumin, turmeric, coriander) and peeled, fork-soft diced potatoes.",
+    "prepOrOrderInstructions": "Simmer ground turkey or beef in chicken broth with soy sauce, turmeric, and cumin alongside peeled, finely diced red potatoes until fork-crumbling soft."
+  },
+  {
+    "id": "yellow-moong-dal-khichdi",
+    "name": "Yellow Moong Dal Khichdi (With Ghee)",
+    "categoryFolder": "asian-indian",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "Indian",
+    "costTier": 1,
+    "convenienceScore": 3,
+    "prepMethod": [
+      "stovetop",
+      "slow-cooker"
+    ],
+    "fiberGramsPerServing": 2,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "porridge",
+      "rice-base",
+      "turmeric",
+      "indian",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "split yellow lentils",
+      "ghee",
+      "ayurvedic",
+      "congee alternative"
+    ],
+    "whyItWorks": "Unlike whole brown lentils or chickpeas, split yellow moong dal has the outer hulls completely removed and cooks into a velvety pudding with basmati rice and zero-lactose ghee.",
+    "prepOrOrderInstructions": "Pressure-cook or simmer equal parts white basmati rice and split yellow moong dal with water/broth, turmeric, salt, and a spoonful of clarified butter (ghee) until completely smooth."
+  },
+  {
+    "id": "crispy-toaster-oven-chicken-flautas",
+    "name": "Crispy Toaster-Oven Chicken or Beef Flautas (Flour Tortilla)",
+    "categoryFolder": "mexican-southwest",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "toaster-oven",
+      "no-microwave"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "chicken",
+      "beef",
+      "tortilla",
+      "cheese",
+      "mexican",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "taquitos",
+      "rolled tacos",
+      "crunchy"
+    ],
+    "whyItWorks": "Rolling finely shredded chicken or ground beef inside a soft white flour tortilla and baking it gives a loud crunch without sharp corn chip hulls.",
+    "prepOrOrderInstructions": "Roll shredded rotisserie chicken (skin removed) and Monterey Jack inside a white flour tortilla, brush lightly with oil or butter, and bake in the toaster oven at 375F for 7-8 minutes. Dip in lactose-free sour cream or smooth avocado mash."
+  },
+  {
+    "id": "mexican-shredded-chicken-rice-caldo",
+    "name": "Shredded Chicken & White Rice Caldo (Mexican Chicken Soup)",
+    "categoryFolder": "mexican-southwest",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "soup",
+      "broth",
+      "chicken",
+      "rice-base",
+      "mexican",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "caldo de pollo",
+      "chicken rice soup",
+      "avocado"
+    ],
+    "whyItWorks": "Rich chicken bone broth simmered with jasmine rice, shredded chicken breast, a pinch of cumin, and soft-cooked peeled carrots and diced peeled zucchini.",
+    "prepOrOrderInstructions": "Top with cubed ripe avocado and skip raw onions, jalapenos, and lime peel extracts."
+  },
+  {
+    "id": "smooth-masa-pork-chicken-tamales",
+    "name": "Pork or Chicken Tamales (Smooth Masa, Mild Sauce)",
+    "categoryFolder": "mexican-southwest",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "pork",
+      "chicken",
+      "tamales",
+      "mexican",
+      "gluten-free",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "masa",
+      "steamed corn",
+      "mexican food"
+    ],
+    "whyItWorks": "Tamale masa harina is ground into an ultra-fine flour and steamed with broth/fat until sponge-soft, avoiding un-ground corn kernel hulls.",
+    "prepOrOrderInstructions": "Choose mild shredded pork or chicken/cheese fillings and skip spicy red chile sauces."
+  },
+  {
+    "id": "smooth-queso-blanco-flour-tortilla-strips",
+    "name": "Smooth Queso Blanco & Warm Flour Tortilla Strips",
+    "categoryFolder": "mexican-southwest",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "snack",
+      "lunch"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "toaster-oven",
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": false,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "cheese",
+      "dip",
+      "tortilla",
+      "mexican",
+      "snack",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "chips and queso",
+      "cheese dip",
+      "no corn chips"
+    ],
+    "whyItWorks": "Melted white American or Monterey Jack cheese with warm toasted white flour tortillas gives you the chips-and-queso experience without corn chip shrapnel.",
+    "prepOrOrderInstructions": "Skip diced pickled jalapenos and tomatoes in the queso. Dip warm toasted flour tortilla triangles or soft pretzel bites instead of corn tortilla chips."
+  },
+  {
+    "id": "cafe-rio-sweet-pork-burrito-mod",
+    "name": "Cafe Rio / Costa Vida Style Sweet Pork Burrito (Gut-Safe Mod)",
+    "categoryFolder": "mexican-southwest",
+    "brandOrRestaurant": "Cafe Rio / Costa Vida",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat",
+      "slow-cooker"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pork",
+      "burrito",
+      "tortilla",
+      "rice-base",
+      "mexican",
+      "takeout"
+    ],
+    "searchKeywords": [
+      "cafe rio",
+      "costa vida",
+      "sweet pork",
+      "qdoba",
+      "chipotle"
+    ],
+    "whyItWorks": "Slow-braised pork shoulder falls apart into gelatinous, zero-friction strands wrapped in a soft white flour tortilla.",
+    "prepOrOrderInstructions": "Order white flour tortilla + white rice + sweet shredded pork + melted Jack cheese. Skip whole black/pinto beans, raw lettuce, and pico de gallo."
+  },
+  {
+    "id": "carnitas-avocado-soft-flour-tacos",
+    "name": "Carnitas & Avocado Soft Flour Tacos",
+    "categoryFolder": "mexican-southwest",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 2,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet"
+    ],
+    "fiberGramsPerServing": 1.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pork",
+      "tacos",
+      "avocado",
+      "tortilla",
+      "mexican"
+    ],
+    "searchKeywords": [
+      "pulled pork tacos",
+      "soft tacos",
+      "street tacos"
+    ],
+    "whyItWorks": "Slow-cooked pork carnitas crisped briefly in a skillet, served on warm street-size white flour tortillas with mashed ripe avocado and cheddar.",
+    "prepOrOrderInstructions": "Use white flour street tortillas instead of corn tortillas, and skip raw diced onions and hot salsa."
+  },
+  {
+    "id": "potato-gnocchi-brown-butter-parmesan",
+    "name": "Potato Gnocchi in Brown Butter & Parmesan",
+    "categoryFolder": "italian-med",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "region": "Italian/Med",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pasta",
+      "gnocchi",
+      "potato",
+      "cheese",
+      "italian"
+    ],
+    "searchKeywords": [
+      "3 minute dinner",
+      "dumplings",
+      "parmigiano"
+    ],
+    "whyItWorks": "Shelf-stable or refrigerated potato gnocchi are pillows of mashed peeled potato and white flour that boil in 180 seconds and require almost zero chewing.",
+    "prepOrOrderInstructions": "Boil gnocchi until they float, then toss in a skillet with melted butter, a splash of pasta water, garlic powder, and aged Parmigiano-Reggiano (~0g lactose)."
+  },
+  {
+    "id": "pastina-italian-penicillin-egg-broth",
+    "name": "Pastina (\"Italian Penicillin\" Egg & Broth Stars)",
+    "categoryFolder": "italian-med",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "breakfast"
+    ],
+    "region": "Italian/Med",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pasta",
+      "soup",
+      "broth",
+      "eggs",
+      "cheese",
+      "italian",
+      "flare-recovery"
+    ],
+    "searchKeywords": [
+      "stelline",
+      "orzo",
+      "sick day soup",
+      "italian penicillin"
+    ],
+    "whyItWorks": "Tiny star-shaped white pasta simmered directly in chicken bone broth, finished with a beaten egg, butter, and aged parmesan for instant soothing calories.",
+    "prepOrOrderInstructions": "Simmer pastina or orzo in chicken bone broth for 5 mins until tender, remove from heat, and whisk in 1 beaten egg, a pat of butter, and grated parmesan."
+  },
+  {
+    "id": "creamy-parmesan-chicken-risotto",
+    "name": "Creamy Parmesan & Chicken Risotto",
+    "categoryFolder": "italian-med",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "dinner"
+    ],
+    "region": "Italian/Med",
+    "costTier": 2,
+    "convenienceScore": 3,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "rice-base",
+      "chicken",
+      "cheese",
+      "broth",
+      "italian",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "arborio rice",
+      "creamy rice",
+      "scallops"
+    ],
+    "whyItWorks": "Arborio white rice releases starch that creates a velvety sauce using only chicken bone broth, butter, and aged parmesan - zero heavy cream needed.",
+    "prepOrOrderInstructions": "Simmer arborio rice in warm chicken broth, finish with butter and aged parmesan, and top with pan-seared chicken tenders or scallops."
+  },
+  {
+    "id": "chicken-marsala-strained-gravy",
+    "name": "Chicken Marsala or Piccata (Strained Savory Gravy)",
+    "categoryFolder": "italian-med",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dinner"
+    ],
+    "region": "Italian/Med",
+    "costTier": 2,
+    "convenienceScore": 3,
+    "prepMethod": [
+      "skillet"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "chicken",
+      "pasta",
+      "potato",
+      "italian"
+    ],
+    "searchKeywords": [
+      "chicken cutlets",
+      "umami gravy",
+      "angel hair"
+    ],
+    "whyItWorks": "Thinly pounded chicken cutlets dredged in white flour and pan-seared in butter and broth.",
+    "prepOrOrderInstructions": "Use mushroom powder or strain the gravy to get rich umami flavor without rubbery, indigestible whole mushroom pieces or capers. Serve over angel hair pasta or mashed potatoes."
+  },
+  {
+    "id": "greek-avgolemono-egg-velvet-soup",
+    "name": "Greek Avgolemono (Egg-Velvet Chicken & Rice Soup)",
+    "categoryFolder": "italian-med",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "Italian/Med",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "soup",
+      "broth",
+      "chicken",
+      "rice-base",
+      "eggs",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "greek chicken soup",
+      "orzo soup",
+      "creamy soup"
+    ],
+    "whyItWorks": "Thickens rich chicken bone broth and white rice using tempered egg yolks instead of heavy dairy.",
+    "prepOrOrderInstructions": "Temper whisked eggs with hot chicken broth and stir into cooked white rice and shredded chicken. Skip citrus zest/peel extracts; season with salt and a pinch of dried dill."
+  },
+  {
+    "id": "smooth-hummus-warm-pita-souvlaki",
+    "name": "Smooth Hummus & Warm White Pita with Chicken Souvlaki",
+    "categoryFolder": "italian-med",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "region": "Italian/Med",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "toaster-oven",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 2,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "chicken",
+      "pita",
+      "dip",
+      "hummus",
+      "mediterranean"
+    ],
+    "searchKeywords": [
+      "greek food",
+      "kebab",
+      "flatbread"
+    ],
+    "whyItWorks": "Ultra-smooth commercial hummus (peeled pureed chickpeas) in small portions is much gentler than whole beans when paired with white pita and grilled chicken breast.",
+    "prepOrOrderInstructions": "Buy classic plain hummus (skip pine nut, roasted red pepper skin, or spicy toppings) and serve with warm white pita toasted in the toaster oven."
+  },
+  {
+    "id": "pulled-pork-brisket-brioche-sliders",
+    "name": "Pulled Pork or Brisket Brioche Sliders (Mild Sweet BBQ)",
+    "categoryFolder": "diner-bbq",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "takeout"
+    ],
+    "region": "American",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "slow-cooker",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pork",
+      "beef",
+      "sandwich",
+      "sliders",
+      "brioche",
+      "hawaiian-rolls",
+      "bbq"
+    ],
+    "searchKeywords": [
+      "smoked brisket",
+      "pulled pork sandwich",
+      "kings hawaiian"
+    ],
+    "whyItWorks": "8-to-12-hour slow-cooked pork shoulder and beef brisket have had all their tough collagen melted into gelatin.",
+    "prepOrOrderInstructions": "Trim off any hard, charred bark edges during a flare, use a smooth sweet brown-sugar BBQ sauce (zero cayenne), and serve on King's Hawaiian or brioche buns. Skip raw cabbage coleslaw."
+  },
+  {
+    "id": "diner-patty-melt-white-sourdough",
+    "name": "Diner-Style Patty Melt on White Sourdough",
+    "categoryFolder": "diner-bbq",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet",
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "burger",
+      "sandwich",
+      "melt",
+      "beef",
+      "cheese",
+      "swiss",
+      "bread"
+    ],
+    "searchKeywords": [
+      "sourdough burger",
+      "grilled cheese burger",
+      "diner"
+    ],
+    "whyItWorks": "Finely ground beef patty + 2 slices of zero-lactose Swiss cheese on white sourdough bread.",
+    "prepOrOrderInstructions": "Pan-toast in butter with onion powder for classic patty melt flavor while skipping stringy caramelized whole onions."
+  },
+  {
+    "id": "open-faced-hot-turkey-manhattan",
+    "name": "Open-Faced Hot Turkey or Roast Beef Manhattan",
+    "categoryFolder": "diner-bbq",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "turkey",
+      "beef",
+      "potato",
+      "mashed-potatoes",
+      "bread",
+      "gravy"
+    ],
+    "searchKeywords": [
+      "thanksgiving dinner",
+      "hot turkey sandwich",
+      "diner comfort"
+    ],
+    "whyItWorks": "Soft white or potato bread topped with warm deli turkey, mashed peeled potatoes, and smooth bone-broth gravy - eats with a fork with zero tough crusts.",
+    "prepOrOrderInstructions": "Layer potato bread, warm sliced turkey breast, and mashed potatoes, then ladle warm savory bone-broth gravy over the top so the bread softens completely."
+  },
+  {
+    "id": "aged-cheddar-gruyere-mac-and-cheese",
+    "name": "Mac & Cheese with Aged White Cheddar & Gruyere",
+    "categoryFolder": "diner-bbq",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "stovetop",
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "pasta",
+      "cheese",
+      "cheddar",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "macaroni and cheese",
+      "cavatappi",
+      "comfort food"
+    ],
+    "whyItWorks": "White elbow macaroni or cavatappi in a smooth roux sauce made with lactose-free milk and naturally lactose-free aged cheddar and Gruyere.",
+    "prepOrOrderInstructions": "Top with crushed Ritz crackers and broil in the toaster oven for 2 minutes until crisp."
+  },
+  {
+    "id": "crispy-smashburger-flour-tacos",
+    "name": "Crispy Smashburger Tacos (Flour Tortilla)",
+    "categoryFolder": "diner-bbq",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "skillet"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "burger",
+      "tacos",
+      "beef",
+      "tortilla",
+      "cheese",
+      "havarti"
+    ],
+    "searchKeywords": [
+      "big mac taco",
+      "smash burger",
+      "skillet dinner"
+    ],
+    "whyItWorks": "Pressing thin lean ground beef onto a small white flour tortilla gives crispy lacy edges with less bread bulk than a thick burger bun.",
+    "prepOrOrderInstructions": "Smash a thin ball of ground beef onto a flour tortilla in a hot skillet for 2 mins, flip, top with Havarti or American cheese, and drizzle with gut-safe burger sauce (no pickle chunks)."
+  },
+  {
+    "id": "pirates-booty-chesters-puffcorn",
+    "name": "Pirate's Booty or Chester's Butter Puffcorn",
+    "categoryFolder": "snacks-desserts",
+    "brandOrRestaurant": "Pirate's Booty / Chester's",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "snack",
+      "puffed-grain",
+      "corn-base",
+      "cheese",
+      "gluten-free",
+      "grab-and-go"
+    ],
+    "searchKeywords": [
+      "popcorn",
+      "hulless popcorn",
+      "cheese puffs",
+      "chips alternative",
+      "movie snack"
+    ],
+    "whyItWorks": "Extruded corn and rice meal with 0% hulls. Gives you the exact salty, crunchy movie-popcorn fix, but melts into foam on your tongue so nothing scrapes your intestine.",
+    "prepOrOrderInstructions": "Grab and eat straight from the bag."
+  },
+  {
+    "id": "outshine-bars-fudgsicles",
+    "name": "Outshine Fruit Bars (Smooth Varieties) or Fudgsicles",
+    "categoryFolder": "snacks-desserts",
+    "brandOrRestaurant": "Outshine / Popsicle",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "snack",
+      "dessert"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "dessert",
+      "popsicle",
+      "frozen",
+      "sweet",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "ice pop",
+      "fudge bar",
+      "ice cream alternative"
+    ],
+    "whyItWorks": "Cold, hydrating, soothing, and zero residue.",
+    "prepOrOrderInstructions": "Stick to Fudgsicles or smooth Peach/Grape bars. Verify zero real berry seeds and check labels to avoid grapefruit or citrus peel extracts."
+  },
+  {
+    "id": "biscoff-cookie-butter-ritz-crackers",
+    "name": "Biscoff Cookie Butter on Ritz Crackers",
+    "categoryFolder": "snacks-desserts",
+    "brandOrRestaurant": "Lotus Biscoff / Ritz",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "snack",
+      "dessert"
+    ],
+    "region": "Euro/Bistro",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "snack",
+      "dessert",
+      "crackers",
+      "ritz",
+      "cookie-butter",
+      "cinnamon",
+      "sweet"
+    ],
+    "searchKeywords": [
+      "speculoos",
+      "peanut butter alternative",
+      "nut free"
+    ],
+    "whyItWorks": "Smooth Biscoff spread has the thick, rich mouthfeel of peanut butter with a spiced cinnamon-graham flavor and zero nut fragments. Ritz crackers turn to soft paste almost instantly.",
+    "prepOrOrderInstructions": "Spread smooth Biscoff (never crunchy) between two Ritz crackers for quick, high-calorie energy."
+  },
+  {
+    "id": "warm-bavarian-soft-pretzel-cheese",
+    "name": "Warm Bavarian Soft Pretzel & Smooth Cheese Dip",
+    "categoryFolder": "snacks-desserts",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "snack"
+    ],
+    "region": "Euro/Bistro",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "toaster-oven",
+      "no-microwave"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "snack",
+      "pretzel",
+      "cheese",
+      "toaster-oven",
+      "salty"
+    ],
+    "searchKeywords": [
+      "superpretzel",
+      "mall pretzel",
+      "pub snack"
+    ],
+    "whyItWorks": "Soft Bavarian pretzels are made from refined white flour and yeast - much safer than hard, jagged pretzel sticks or corn tortilla chips.",
+    "prepOrOrderInstructions": "Bake a frozen soft pretzel in the toaster oven at 375F for 4-5 minutes (crisp outside, pillow-soft inside, never microwave-rubbery). Dip in warm melted cheddar."
+  },
+  {
+    "id": "japanese-custard-taiyaki-mochi",
+    "name": "Japanese Taiyaki (Custard Filled) or Mochi Ice Cream",
+    "categoryFolder": "snacks-desserts",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "dessert",
+      "snack"
+    ],
+    "region": "Japanese",
+    "costTier": 2,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "toaster-oven",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": false,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "dessert",
+      "japanese",
+      "custard",
+      "mochi",
+      "rice-base",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "fish waffle",
+      "rice cake",
+      "sweet"
+    ],
+    "whyItWorks": "Taiyaki is a warm waffle fish filled with smooth vanilla custard; Mochi is pounded glutinous sweet rice flour (0g fiber).",
+    "prepOrOrderInstructions": "Crisp frozen custard taiyaki in the toaster oven for 5 minutes. Skip red bean (anko) fillings that contain bean skins during flares."
+  },
+  {
+    "id": "soft-glazed-doughnut-cruller",
+    "name": "Soft Glazed Doughnut or French Cruller",
+    "categoryFolder": "snacks-desserts",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dessert",
+      "snack",
+      "breakfast"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "dessert",
+      "pastry",
+      "sweet",
+      "grab-and-go"
+    ],
+    "searchKeywords": [
+      "krispy kreme",
+      "donut",
+      "weight gain",
+      "calories"
+    ],
+    "whyItWorks": "Pure refined white flour, sugar, and egg/fat. Melts into nothing and delivers fast, zero-fiber calories when struggling to keep weight on.",
+    "prepOrOrderInstructions": "Stick to plain glazed yeast rings or egg crullers; skip coconut, chopped nuts, or seed toppings."
+  },
+  {
+    "id": "banana-free-pudding-parfait",
+    "name": "Banana-Free Pudding Parfait (Fudge or Butterscotch)",
+    "categoryFolder": "snacks-desserts",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dessert",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": false,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "dessert",
+      "pudding",
+      "chocolate",
+      "sweet"
+    ],
+    "searchKeywords": [
+      "jello pudding",
+      "nilla wafers",
+      "graham crackers",
+      "no banana"
+    ],
+    "whyItWorks": "Smooth calories that require zero mechanical chewing.",
+    "prepOrOrderInstructions": "Layer chocolate fudge, vanilla, or butterscotch pudding cups with lactose-free whipped cream and crushed graham crackers or Nilla wafers (let sit 5 mins to soften into cake texture)."
+  },
+  {
+    "id": "crispy-rice-marshmallow-treats",
+    "name": "Crispy Rice Marshmallow Treats",
+    "categoryFolder": "snacks-desserts",
+    "crohnsScore": 8.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "snack",
+      "dessert"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat",
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "snack",
+      "dessert",
+      "cereal",
+      "malt-o-meal",
+      "rice-base",
+      "marshmallow",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "rice krispie treats",
+      "sweet snack"
+    ],
+    "whyItWorks": "Uses the 9.5/10 Malt-O-Meal Crispy Rice base bound together with melted marshmallows and butter - zero insoluble roughage.",
+    "prepOrOrderInstructions": "Make a batch with Malt-O-Meal Crispy Rice or grab pre-packaged treats."
+  },
+  {
+    "id": "toaster-oven-eggo-ice-cream-sandwich",
+    "name": "Toaster-Oven Eggo Ice Cream Sandwich",
+    "categoryFolder": "snacks-desserts",
+    "crohnsScore": 8,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "dessert",
+      "snack"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "toaster-oven"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "dessert",
+      "waffles",
+      "ice-cream",
+      "toaster-oven",
+      "sweet"
+    ],
+    "searchKeywords": [
+      "eggo",
+      "lactaid ice cream",
+      "midnight snack"
+    ],
+    "whyItWorks": "Crispy, warm, and cold all at once with almost no fiber (~0.5g-1g).",
+    "prepOrOrderInstructions": "Toast two plain or blueberry Eggo waffles in the toaster oven until crisp, sandwich a scoop of lactose-free vanilla ice cream between them, and eat immediately."
+  },
+  {
+    "id": "baked-cinnamon-sugar-tortilla-crisps",
+    "name": "Baked Cinnamon-Sugar Flour Tortilla Crisps",
+    "categoryFolder": "snacks-desserts",
+    "crohnsScore": 7.5,
+    "safetyTier": "low-risk",
+    "mealTypes": [
+      "snack",
+      "dessert"
+    ],
+    "region": "Mexican/Southwest",
+    "costTier": 1,
+    "convenienceScore": 4,
+    "prepMethod": [
+      "toaster-oven",
+      "no-microwave"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "snack",
+      "dessert",
+      "tortilla",
+      "cinnamon",
+      "toaster-oven"
+    ],
+    "searchKeywords": [
+      "bu\u00f1uelos",
+      "churro chips",
+      "pita chips alternative"
+    ],
+    "whyItWorks": "Easily beats corn tortilla chips (which have sharp, un-ground corn kernel edges).",
+    "prepOrOrderInstructions": "Brush a soft white flour tortilla with melted butter, sprinkle generously with cinnamon and sugar, cut into triangles, and bake in the toaster oven at 375F for 5 minutes until crisp."
+  },
+  {
+    "id": "castle-hot-cocoa-lactose-free",
+    "name": "Castle Hot Cocoa (With Lactose-Free or Oat Milk)",
+    "categoryFolder": "drinks-sauces",
+    "brandOrRestaurant": "Castle",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "drink",
+      "dessert"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0.5,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "drink",
+      "hot-cocoa",
+      "chocolate",
+      "coffee-alternative"
+    ],
+    "searchKeywords": [
+      "hot chocolate",
+      "castle cocoa",
+      "morning drink",
+      "no coffee"
+    ],
+    "whyItWorks": "Comforting, rich calories without coffee acidity or dairy lactase issues when mixed into warm oat or lactose-free milk.",
+    "prepOrOrderInstructions": "Whisk Castle hot cocoa mix into warm lactose-free milk, oat milk, or almond milk."
+  },
+  {
+    "id": "warm-salted-bone-broth-mug",
+    "name": "Warm Bone Broth Mug (Chicken or Beef)",
+    "categoryFolder": "drinks-sauces",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "drink",
+      "snack"
+    ],
+    "region": "Global",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "drink",
+      "broth",
+      "soup",
+      "flare-recovery",
+      "hydration"
+    ],
+    "searchKeywords": [
+      "electrolytes",
+      "collagen",
+      "sick day"
+    ],
+    "whyItWorks": "Sipping salted chicken or beef bone broth with a drop of toasted sesame oil or ground ginger restores sodium and hydrates an inflamed gut faster than plain water.",
+    "prepOrOrderInstructions": "Heat 1 cup bone broth on the stovetop with a pinch of sea salt and 1 drop toasted sesame oil."
+  },
+  {
+    "id": "peppermint-chamomile-ginger-tea",
+    "name": "Peppermint, Chamomile, or Ginger Herbal Tea",
+    "categoryFolder": "drinks-sauces",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "drink"
+    ],
+    "region": "Global",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "drink",
+      "tea",
+      "herbal",
+      "flare-recovery",
+      "coffee-alternative"
+    ],
+    "searchKeywords": [
+      "cramp relief",
+      "soothing drink",
+      "no caffeine"
+    ],
+    "whyItWorks": "Natural antispasmodics that calm smooth muscle cramping in the intestinal tract.",
+    "prepOrOrderInstructions": "Steep pure peppermint, chamomile, or ginger tea bags in hot water with honey.",
+    "watchOuts": [
+      "Always check herbal tea labels to ensure zero Earl Grey/bergamot, hibiscus, or citrus peel fillers"
+    ]
+  },
+  {
+    "id": "golden-milk-turmeric-oat-latte",
+    "name": "Golden Milk (Turmeric & Ginger Oat Latte)",
+    "categoryFolder": "drinks-sauces",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "drink"
+    ],
+    "region": "Indian",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "drink",
+      "turmeric",
+      "indian",
+      "coffee-alternative",
+      "flare-recovery"
+    ],
+    "searchKeywords": [
+      "curcumin",
+      "curqd",
+      "haldi doodh",
+      "anti-inflammatory"
+    ],
+    "whyItWorks": "Warm oat milk whisked with anti-inflammatory turmeric, cinnamon, ginger, and maple syrup.",
+    "prepOrOrderInstructions": "Warm 1 cup oat or lactose-free milk with 1/2 tsp ground turmeric, a pinch of cinnamon, ground ginger, and 1 tsp maple syrup or honey."
+  },
+  {
+    "id": "maple-salted-hydration-water",
+    "name": "Maple-Salted Hydration Water (Clean ORS)",
+    "categoryFolder": "drinks-sauces",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "drink"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "drink",
+      "hydration",
+      "flare-recovery",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "electrolytes",
+      "liquid iv alternative",
+      "gatorade alternative",
+      "oral rehydration"
+    ],
+    "whyItWorks": "Uses sodium-glucose co-transport to pull water into the bloodstream without artificial sweeteners (sucralose/sorbitol) or citrus extracts that trigger osmotic diarrhea.",
+    "prepOrOrderInstructions": "Mix 16 oz cold water + 1 tbsp pure maple syrup + 1/8 to 1/4 tsp sea salt."
+  },
+  {
+    "id": "sweet-eel-sauce-unagi-tare",
+    "name": "Sweet Eel Sauce (Unagi No Tare)",
+    "categoryFolder": "drinks-sauces",
+    "crohnsScore": 10,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "sauce"
+    ],
+    "region": "Japanese",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop",
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "sauce",
+      "japanese",
+      "teriyaki",
+      "sushi"
+    ],
+    "searchKeywords": [
+      "unagi sauce",
+      "sushi glaze",
+      "rice condiment"
+    ],
+    "whyItWorks": "Equal parts soy sauce, mirin, and sugar simmered until syrupy - 10/10 umami flavor with 0g fiber and zero citrus extracts.",
+    "prepOrOrderInstructions": "Drizzle over white rice, salmon, chicken, udon, or eggs."
+  },
+  {
+    "id": "gut-safe-yum-yum-burger-sauce",
+    "name": "Gut-Safe \"Yum Yum\" / Burger Sauce",
+    "categoryFolder": "drinks-sauces",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "sauce"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "sauce",
+      "dip",
+      "burger",
+      "japanese"
+    ],
+    "searchKeywords": [
+      "hibachi white sauce",
+      "fry sauce",
+      "thousand island",
+      "secret sauce"
+    ],
+    "whyItWorks": "Provides creamy, tangy hibachi and burger flavor using smooth powders instead of raw onion or pickle chunks.",
+    "prepOrOrderInstructions": "Whisk 1/2 cup mayo + 1 tbsp smooth ketchup + 1 tsp melted butter + 1/2 tsp garlic powder + 1/2 tsp onion powder + 1 tsp sugar + splash of water."
+  },
+  {
+    "id": "smooth-peanut-satay-sauce",
+    "name": "Smooth Peanut Satay Noodle & Chicken Sauce",
+    "categoryFolder": "drinks-sauces",
+    "crohnsScore": 9,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "sauce"
+    ],
+    "region": "Global",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "stovetop"
+    ],
+    "fiberGramsPerServing": 1,
+    "lactoseSafe": true,
+    "glutenFree": false,
+    "citrusFree": true,
+    "tags": [
+      "sauce",
+      "dip",
+      "noodles",
+      "chicken"
+    ],
+    "searchKeywords": [
+      "peanut butter sauce",
+      "thai peanut",
+      "ramen upgrade"
+    ],
+    "whyItWorks": "Smooth creamy peanut butter thinned with warm chicken broth delivers rich calories and savory flavor with zero nut shards.",
+    "prepOrOrderInstructions": "Whisk 2 tbsp smooth peanut butter with 1/4 cup warm chicken bone broth, 1 tsp soy sauce, 1 tsp maple syrup, and a pinch of ground ginger."
+  },
+  {
+    "id": "lactose-free-herbed-ranch-swap",
+    "name": "Lactose-Free Greek Yogurt Herbed Ranch Dip",
+    "categoryFolder": "drinks-sauces",
+    "crohnsScore": 9.5,
+    "safetyTier": "flare-safe",
+    "mealTypes": [
+      "sauce"
+    ],
+    "region": "American",
+    "costTier": 1,
+    "convenienceScore": 5,
+    "prepMethod": [
+      "ready-to-eat"
+    ],
+    "fiberGramsPerServing": 0,
+    "lactoseSafe": true,
+    "glutenFree": true,
+    "citrusFree": true,
+    "tags": [
+      "sauce",
+      "dip",
+      "high-protein",
+      "gluten-free"
+    ],
+    "searchKeywords": [
+      "ranch dressing",
+      "quesadilla dip",
+      "flauta dip"
+    ],
+    "whyItWorks": "Uses strained Greek yogurt or lactose-free sour cream with savory powders to avoid high-lactose buttermilk and MSG/preservatives.",
+    "prepOrOrderInstructions": "Whisk plain strained Greek yogurt with a splash of lactose-free milk, garlic powder, onion powder, salt, and finely rubbed dried dill."
+  }
+]

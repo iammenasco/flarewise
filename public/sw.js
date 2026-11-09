@@ -1,0 +1,69 @@
+/* Flarewise offline shell + runtime asset cache */
+const CACHE = 'flarewise-v3'
+const PRECACHE = [
+  './',
+  './index.html',
+  './manifest.webmanifest',
+  './favicon.svg',
+  './favicon.png',
+  './icons/icon-192.png',
+  './icons/icon-512.png',
+  './catalog.json',
+  './schema.json',
+  './build-info.json',
+  './llms.txt',
+]
+
+self.addEventListener('install', (event) => {
+  self.skipWaiting()
+  event.waitUntil(
+    caches.open(CACHE).then((cache) =>
+      Promise.all(
+        PRECACHE.map((url) =>
+          cache.add(url).catch(() => undefined),
+        ),
+      ),
+    ),
+  )
+})
+
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches
+      .keys()
+      .then((keys) =>
+        Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k))),
+      )
+      .then(() => self.clients.claim()),
+  )
+})
+
+self.addEventListener('fetch', (event) => {
+  const { request } = event
+  if (request.method !== 'GET') return
+
+  const url = new URL(request.url)
+  if (url.origin !== self.location.origin) return
+
+  event.respondWith(
+    caches.open(CACHE).then(async (cache) => {
+      const cached = await cache.match(request)
+      const network = fetch(request)
+        .then((response) => {
+          if (response.ok) cache.put(request, response.clone())
+          return response
+        })
+        .catch(() => cached)
+
+      // App shell: prefer cache when offline; otherwise network-first for freshness.
+      if (request.mode === 'navigate') {
+        return network.then((response) => response || cached || cache.match('./index.html'))
+      }
+      return cached || network
+    }),
+  )
+})
+
+self.addEventListener('message', (event) => {
+  if (event.data === 'SKIP_WAITING') self.skipWaiting()
+})

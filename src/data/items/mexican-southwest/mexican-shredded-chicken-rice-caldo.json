@@ -1,0 +1,36 @@
+{
+  "id": "mexican-shredded-chicken-rice-caldo",
+  "name": "Shredded Chicken & White Rice Caldo (Mexican Chicken Soup)",
+  "categoryFolder": "mexican-southwest",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "broth",
+    "chicken",
+    "rice-base",
+    "mexican",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "caldo de pollo",
+    "chicken rice soup",
+    "avocado"
+  ],
+  "whyItWorks": "Rich chicken bone broth simmered with jasmine rice, shredded chicken breast, a pinch of cumin, and soft-cooked peeled carrots and diced peeled zucchini.",
+  "prepOrOrderInstructions": "Top with cubed ripe avocado and skip raw onions, jalapenos, and lime peel extracts."
+}

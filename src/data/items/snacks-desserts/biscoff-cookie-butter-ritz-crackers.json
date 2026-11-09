@@ -1,0 +1,38 @@
+{
+  "id": "biscoff-cookie-butter-ritz-crackers",
+  "name": "Biscoff Cookie Butter on Ritz Crackers",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Lotus Biscoff / Ritz",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "dessert",
+    "crackers",
+    "ritz",
+    "cookie-butter",
+    "cinnamon",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "speculoos",
+    "peanut butter alternative",
+    "nut free"
+  ],
+  "whyItWorks": "Smooth Biscoff spread has the thick, rich mouthfeel of peanut butter with a spiced cinnamon-graham flavor and zero nut fragments. Ritz crackers turn to soft paste almost instantly.",
+  "prepOrOrderInstructions": "Spread smooth Biscoff (never crunchy) between two Ritz crackers for quick, high-calorie energy."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "turkey-havarti-toaster-oven-melt",
+  "name": "Turkey & Havarti Toaster-Oven Melt",
+  "categoryFolder": "lunch",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven",
+    "no-microwave"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "sandwich",
+    "melt",
+    "turkey",
+    "cheese",
+    "havarti",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "deli sandwich",
+    "panini",
+    "grilled cheese",
+    "pita"
+  ],
+  "whyItWorks": "Lean deli protein + zero-lactose Havarti on soft refined bread gives you a proper hot sandwich with zero friction.",
+  "prepOrOrderInstructions": "Layer thin-sliced deli turkey and plain Havarti on potato bread or soft pita. Toast open-faced at 375F for 5 mins until crisp, never microwave-soggy."
+}

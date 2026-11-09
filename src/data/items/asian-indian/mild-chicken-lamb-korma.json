@@ -1,0 +1,38 @@
+{
+  "id": "mild-chicken-lamb-korma",
+  "name": "Mild Chicken or Lamb Korma (Smooth Sauce)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "lamb",
+    "curry",
+    "rice-base",
+    "indian",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "cashew sauce",
+    "mild curry",
+    "basmati rice"
+  ],
+  "whyItWorks": "Braised meat in a mild, velvety sauce made from cream/yogurt, mild aromatic spices, and smooth nut paste (zero whole nut shards).",
+  "prepOrOrderInstructions": "Order 0/10 mild over white basmati rice and verify no whole raisins or whole cashews are mixed into the sauce."
+}

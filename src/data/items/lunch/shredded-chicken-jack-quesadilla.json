@@ -1,0 +1,36 @@
+{
+  "id": "shredded-chicken-jack-quesadilla",
+  "name": "Shredded Chicken & Jack Quesadilla",
+  "categoryFolder": "lunch",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "quesadilla",
+    "chicken",
+    "cheese",
+    "tortilla",
+    "mexican"
+  ],
+  "searchKeywords": [
+    "taco bell dupe",
+    "cheese melt",
+    "avocado"
+  ],
+  "whyItWorks": "Finely shredded chicken and white flour tortillas are super easy on strictures.",
+  "prepOrOrderInstructions": "Crisp in a dry skillet and dip in plain strained Greek yogurt or smooth avocado mash. Skip chunky tomato salsa."
+}

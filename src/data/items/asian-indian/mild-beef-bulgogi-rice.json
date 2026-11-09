@@ -1,0 +1,37 @@
+{
+  "id": "mild-beef-bulgogi-rice",
+  "name": "Mild Beef Bulgogi or Non-Spicy Dakgalbi",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "rice-base",
+    "korean",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "korean bbq",
+    "shaved beef",
+    "marinated beef"
+  ],
+  "whyItWorks": "Thinly shaved ribeye or chicken marinated in soy sauce, sugar, garlic powder, and sesame oil digests effortlessly because the meat is shaved paper-thin.",
+  "prepOrOrderInstructions": "Serve over steamed white rice and skip raw onion slices or gochujang chili paste."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "lactose-free-herbed-ranch-swap",
+  "name": "Lactose-Free Greek Yogurt Herbed Ranch Dip",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "dip",
+    "high-protein",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "ranch dressing",
+    "quesadilla dip",
+    "flauta dip"
+  ],
+  "whyItWorks": "Uses strained Greek yogurt or lactose-free sour cream with savory powders to avoid high-lactose buttermilk and MSG/preservatives.",
+  "prepOrOrderInstructions": "Whisk plain strained Greek yogurt with a splash of lactose-free milk, garlic powder, onion powder, salt, and finely rubbed dried dill."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "smooth-peanut-satay-sauce",
+  "name": "Smooth Peanut Satay Noodle & Chicken Sauce",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "dip",
+    "noodles",
+    "chicken"
+  ],
+  "searchKeywords": [
+    "peanut butter sauce",
+    "thai peanut",
+    "ramen upgrade"
+  ],
+  "whyItWorks": "Smooth creamy peanut butter thinned with warm chicken broth delivers rich calories and savory flavor with zero nut shards.",
+  "prepOrOrderInstructions": "Whisk 2 tbsp smooth peanut butter with 1/4 cup warm chicken bone broth, 1 tsp soy sauce, 1 tsp maple syrup, and a pinch of ground ginger."
+}

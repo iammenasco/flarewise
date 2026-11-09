@@ -1,0 +1,39 @@
+{
+  "id": "savory-bacon-cheddar-grits",
+  "name": "Savory Bacon & Cheddar Corn Grits",
+  "categoryFolder": "breakfast",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "grits",
+    "polenta",
+    "cheese",
+    "cheddar",
+    "bacon",
+    "eggs",
+    "broth",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "hot cereal",
+    "porridge",
+    "southern",
+    "cornmeal"
+  ],
+  "whyItWorks": "Quick-cooking white hominy grits cook down ultra-soft and soothing.",
+  "prepOrOrderInstructions": "Simmer 1/4 cup quick grits in 1 cup chicken bone broth for 5 mins. Stir in butter and sharp cheddar. Top with finely crumbled crispy bacon and a soft-poached egg."
+}

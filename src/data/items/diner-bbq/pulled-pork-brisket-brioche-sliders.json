@@ -1,0 +1,39 @@
+{
+  "id": "pulled-pork-brisket-brioche-sliders",
+  "name": "Pulled Pork or Brisket Brioche Sliders (Mild Sweet BBQ)",
+  "categoryFolder": "diner-bbq",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "slow-cooker",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "beef",
+    "sandwich",
+    "sliders",
+    "brioche",
+    "hawaiian-rolls",
+    "bbq"
+  ],
+  "searchKeywords": [
+    "smoked brisket",
+    "pulled pork sandwich",
+    "kings hawaiian"
+  ],
+  "whyItWorks": "8-to-12-hour slow-cooked pork shoulder and beef brisket have had all their tough collagen melted into gelatin.",
+  "prepOrOrderInstructions": "Trim off any hard, charred bark edges during a flare, use a smooth sweet brown-sugar BBQ sauce (zero cayenne), and serve on King's Hawaiian or brioche buns. Skip raw cabbage coleslaw."
+}

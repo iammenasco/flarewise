@@ -1,0 +1,37 @@
+{
+  "id": "pan-seared-salmon-cheddar-polenta",
+  "name": "Pan-Seared Salmon & Cheddar Polenta (or Grits)",
+  "categoryFolder": "dinner",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "salmon",
+    "polenta",
+    "grits",
+    "cheese",
+    "cheddar",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "seafood",
+    "omega 3",
+    "teriyaki salmon"
+  ],
+  "whyItWorks": "Salmon flakes apart with zero tough connective tissue; corn grits/polenta cook down completely smooth.",
+  "prepOrOrderInstructions": "Pan-sear skinless salmon bites or fillet with a sweet soy or teriyaki glaze. Serve over soft-cooked quick corn grits stirred with butter and sharp cheddar or grated parmesan."
+}

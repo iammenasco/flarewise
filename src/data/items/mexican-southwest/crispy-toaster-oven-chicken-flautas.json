@@ -1,0 +1,38 @@
+{
+  "id": "crispy-toaster-oven-chicken-flautas",
+  "name": "Crispy Toaster-Oven Chicken or Beef Flautas (Flour Tortilla)",
+  "categoryFolder": "mexican-southwest",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "no-microwave"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "tortilla",
+    "cheese",
+    "mexican",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "taquitos",
+    "rolled tacos",
+    "crunchy"
+  ],
+  "whyItWorks": "Rolling finely shredded chicken or ground beef inside a soft white flour tortilla and baking it gives a loud crunch without sharp corn chip hulls.",
+  "prepOrOrderInstructions": "Roll shredded rotisserie chicken (skin removed) and Monterey Jack inside a white flour tortilla, brush lightly with oil or butter, and bake in the toaster oven at 375F for 7-8 minutes. Dip in lactose-free sour cream or smooth avocado mash."
+}

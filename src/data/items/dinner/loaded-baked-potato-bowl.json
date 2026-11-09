@@ -1,0 +1,37 @@
+{
+  "id": "loaded-baked-potato-bowl",
+  "name": "Loaded Baked Potato Bowl (Strictly No Skins)",
+  "categoryFolder": "dinner",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "mashed-potatoes",
+    "turkey",
+    "cheese",
+    "cheddar",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "russet potato",
+    "yukon gold",
+    "sweet potato",
+    "baked potato"
+  ],
+  "whyItWorks": "Peeled russet, Yukon gold, or sweet potatoes provide soluble potassium and soothing starch without roughage.",
+  "prepOrOrderInstructions": "Bake or microwave potato until tender, scoop out the inside (discard the fibrous skin), and mash with butter, lactose-free sour cream, melted sharp cheddar, and browned ground turkey."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "drive-thru-plain-cheeseburger",
+  "name": "Drive-Thru Plain Single or Double Cheeseburger",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "McDonald's / Wendy's / In-N-Out",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "burger",
+    "beef",
+    "drive-thru",
+    "fast-food",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "mcdonalds",
+    "wendys",
+    "culvers",
+    "road trip"
+  ],
+  "whyItWorks": "White bun and finely ground beef patty require very little mechanical breakdown when stripped of raw roughage.",
+  "prepOrOrderInstructions": "Order PLAIN (white bun, beef patty, cheese, ketchup/smooth mustard only). Strictly no pickles, raw onions, or lettuce."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "taco-bell-quesadilla-pintos",
+  "name": "Taco Bell Quesadilla, Cheesy Roll-Up & Pintos",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Taco Bell",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "quesadilla",
+    "drive-thru",
+    "fast-food",
+    "takeout",
+    "mexican"
+  ],
+  "searchKeywords": [
+    "taco bell",
+    "cheesy roll up",
+    "refried beans",
+    "road trip"
+  ],
+  "whyItWorks": "Soft flour tortillas and pureed pintos avoid the sharp corn hulls and raw lettuce of standard tacos.",
+  "prepOrOrderInstructions": "Order Cheese or Chicken Quesadilla (no creamy jalapeno sauce if flaring), Cheesy Roll-Up, or Pintos & Cheese stirred smooth (no red strips or pico)."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cafe-rio-sweet-pork-burrito-mod",
+  "name": "Cafe Rio / Costa Vida Style Sweet Pork Burrito (Gut-Safe Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cafe Rio / Costa Vida",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "burrito",
+    "tortilla",
+    "rice-base",
+    "mexican",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "cafe rio",
+    "costa vida",
+    "sweet pork",
+    "qdoba",
+    "chipotle"
+  ],
+  "whyItWorks": "Slow-braised pork shoulder falls apart into gelatinous, zero-friction strands wrapped in a soft white flour tortilla.",
+  "prepOrOrderInstructions": "Order white flour tortilla + white rice + sweet shredded pork + melted Jack cheese. Skip whole black/pinto beans, raw lettuce, and pico de gallo."
+}

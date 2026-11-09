@@ -1,0 +1,36 @@
+{
+  "id": "shepherds-pie-skillet-mash",
+  "name": "Shepherd's Pie Skillet Mash",
+  "categoryFolder": "dinner",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "turkey",
+    "potato",
+    "mashed-potatoes",
+    "broth",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "cottage pie",
+    "ground beef",
+    "comfort food"
+  ],
+  "whyItWorks": "Finely ground meat takes 80% of the mechanical work away from your stomach.",
+  "prepOrOrderInstructions": "Brown lean ground beef, lamb, or turkey with garlic powder, onion powder, Worcestershire sauce, and beef broth (thickened with 1 tsp cornstarch). Top with peeled mashed Yukon Gold potatoes and broil in the toaster oven for 3-4 minutes until golden."
+}

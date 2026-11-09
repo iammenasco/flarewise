@@ -1,0 +1,35 @@
+{
+  "id": "malt-o-meal-oat-blenders-almonds",
+  "name": "Malt-O-Meal Oat Blenders with Almonds (HARD AVOID)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "warning",
+    "nuts"
+  ],
+  "searchKeywords": [
+    "honey bunches of oats",
+    "almonds",
+    "rolled oats"
+  ],
+  "whyItWorks": "Sliced almonds do not break down when chewed quickly; sharp nut shards can lodge directly in inflamed fissures or strictures.",
+  "prepOrOrderInstructions": "Hard avoid during flares or if strictures are present."
+}

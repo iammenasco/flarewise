@@ -1,0 +1,38 @@
+{
+  "id": "japanese-chicken-udon-soup",
+  "name": "Japanese Chicken or Tamago Udon Soup",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "broth",
+    "noodles",
+    "udon",
+    "chicken",
+    "japanese",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "dashi",
+    "thick noodles",
+    "sick day soup"
+  ],
+  "whyItWorks": "Thick white wheat udon noodles are ultra-soft and slippery; mild dashi and soy broth settles cramps and restores electrolytes.",
+  "prepOrOrderInstructions": "Simmer pre-cooked vacuum-packed udon noodles in chicken broth with a splash of soy sauce and mirin. Top with thinly sliced skinless chicken breast and swirled egg drop."
+}

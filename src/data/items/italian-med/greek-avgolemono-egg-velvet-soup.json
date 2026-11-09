@@ -1,0 +1,36 @@
+{
+  "id": "greek-avgolemono-egg-velvet-soup",
+  "name": "Greek Avgolemono (Egg-Velvet Chicken & Rice Soup)",
+  "categoryFolder": "italian-med",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "broth",
+    "chicken",
+    "rice-base",
+    "eggs",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "greek chicken soup",
+    "orzo soup",
+    "creamy soup"
+  ],
+  "whyItWorks": "Thickens rich chicken bone broth and white rice using tempered egg yolks instead of heavy dairy.",
+  "prepOrOrderInstructions": "Temper whisked eggs with hot chicken broth and stir into cooked white rice and shredded chicken. Skip citrus zest/peel extracts; season with salt and a pinch of dried dill."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "crispy-smashburger-flour-tacos",
+  "name": "Crispy Smashburger Tacos (Flour Tortilla)",
+  "categoryFolder": "diner-bbq",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "burger",
+    "tacos",
+    "beef",
+    "tortilla",
+    "cheese",
+    "havarti"
+  ],
+  "searchKeywords": [
+    "big mac taco",
+    "smash burger",
+    "skillet dinner"
+  ],
+  "whyItWorks": "Pressing thin lean ground beef onto a small white flour tortilla gives crispy lacy edges with less bread bulk than a thick burger bun.",
+  "prepOrOrderInstructions": "Smash a thin ball of ground beef onto a flour tortilla in a hot skillet for 2 mins, flip, top with Havarti or American cheese, and drizzle with gut-safe burger sauce (no pickle chunks)."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "yellow-moong-dal-khichdi",
+  "name": "Yellow Moong Dal Khichdi (With Ghee)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "porridge",
+    "rice-base",
+    "turmeric",
+    "indian",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "split yellow lentils",
+    "ghee",
+    "ayurvedic",
+    "congee alternative"
+  ],
+  "whyItWorks": "Unlike whole brown lentils or chickpeas, split yellow moong dal has the outer hulls completely removed and cooks into a velvety pudding with basmati rice and zero-lactose ghee.",
+  "prepOrOrderInstructions": "Pressure-cook or simmer equal parts white basmati rice and split yellow moong dal with water/broth, turmeric, salt, and a spoonful of clarified butter (ghee) until completely smooth."
+}

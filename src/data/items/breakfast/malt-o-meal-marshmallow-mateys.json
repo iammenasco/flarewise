@@ -1,0 +1,37 @@
+{
+  "id": "malt-o-meal-marshmallow-mateys",
+  "name": "Malt-O-Meal Marshmallow Mateys",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "typicalPriceText": "$5.97 (33 oz bag)",
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "oat-flour",
+    "marshmallow"
+  ],
+  "searchKeywords": [
+    "lucky charms",
+    "bagged cereal",
+    "frosted oats"
+  ],
+  "whyItWorks": "Made from pulverized oat flour rather than sharp whole rolled oats (~1.5g fiber).",
+  "prepOrOrderInstructions": "Let sit in lactose-free or almond milk for 90 seconds before eating so the oat anchors soften up."
+}

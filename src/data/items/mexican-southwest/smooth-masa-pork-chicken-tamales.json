@@ -1,0 +1,38 @@
+{
+  "id": "smooth-masa-pork-chicken-tamales",
+  "name": "Pork or Chicken Tamales (Smooth Masa, Mild Sauce)",
+  "categoryFolder": "mexican-southwest",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "chicken",
+    "tamales",
+    "mexican",
+    "gluten-free",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "masa",
+    "steamed corn",
+    "mexican food"
+  ],
+  "whyItWorks": "Tamale masa harina is ground into an ultra-fine flour and steamed with broth/fat until sponge-soft, avoiding un-ground corn kernel hulls.",
+  "prepOrOrderInstructions": "Choose mild shredded pork or chicken/cheese fillings and skip spicy red chile sauces."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "chicken-marsala-strained-gravy",
+  "name": "Chicken Marsala or Piccata (Strained Savory Gravy)",
+  "categoryFolder": "italian-med",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pasta",
+    "potato",
+    "italian"
+  ],
+  "searchKeywords": [
+    "chicken cutlets",
+    "umami gravy",
+    "angel hair"
+  ],
+  "whyItWorks": "Thinly pounded chicken cutlets dredged in white flour and pan-seared in butter and broth.",
+  "prepOrOrderInstructions": "Use mushroom powder or strain the gravy to get rich umami flavor without rubbery, indigestible whole mushroom pieces or capers. Serve over angel hair pasta or mashed potatoes."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "soy-paper-sushi-rolls",
+  "name": "Soy-Paper Sushi Rolls (Salmon Avocado or Shrimp Tempura)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "sushi",
+    "fish",
+    "salmon",
+    "shrimp",
+    "avocado",
+    "japanese",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "california roll",
+    "no seaweed",
+    "no nori",
+    "sushi roll"
+  ],
+  "whyItWorks": "Swapping dark green nori seaweed for soy paper eliminates the tough wrapper that can catch on inflamed tissue.",
+  "prepOrOrderInstructions": "Order with soy paper and no sesame seeds. Safe fillings: salmon, tuna, cooked crab stick (kanikama), steamed shrimp, and smooth avocado. Skip raw cucumber sticks, jalapeno, or roe."
+}

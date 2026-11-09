@@ -1,0 +1,35 @@
+{
+  "id": "golden-milk-turmeric-oat-latte",
+  "name": "Golden Milk (Turmeric & Ginger Oat Latte)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "turmeric",
+    "indian",
+    "coffee-alternative",
+    "flare-recovery"
+  ],
+  "searchKeywords": [
+    "curcumin",
+    "curqd",
+    "haldi doodh",
+    "anti-inflammatory"
+  ],
+  "whyItWorks": "Warm oat milk whisked with anti-inflammatory turmeric, cinnamon, ginger, and maple syrup.",
+  "prepOrOrderInstructions": "Warm 1 cup oat or lactose-free milk with 1/2 tsp ground turmeric, a pinch of cinnamon, ground ginger, and 1 tsp maple syrup or honey."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "smooth-egg-salad-brioche",
+  "name": "Smooth Egg Salad on Brioche",
+  "categoryFolder": "lunch",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "sandwich",
+    "eggs",
+    "brioche",
+    "hawaiian-rolls",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "egg salad",
+    "potato bread",
+    "lunch"
+  ],
+  "whyItWorks": "Pure protein and fat, zero plant fiber, dissolves effortlessly in the stomach.",
+  "prepOrOrderInstructions": "Mash 2 hard-boiled eggs fine with 1 tbsp mayo, 1/2 tsp smooth yellow or Dijon mustard (no whole seeds), salt, and paprika. Serve on potato bread, brioche, or sweet Hawaiian rolls."
+}

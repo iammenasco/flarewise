@@ -1,0 +1,35 @@
+{
+  "id": "safe-blt-bacon-avocado-pocket",
+  "name": "The \"Safe BLT\" (Bacon & Avocado Soft Pocket)",
+  "categoryFolder": "lunch",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "sandwich",
+    "bacon",
+    "avocado",
+    "pita",
+    "wrap"
+  ],
+  "searchKeywords": [
+    "blt swap",
+    "no lettuce",
+    "no tomato"
+  ],
+  "whyItWorks": "Replaces gut-shredding raw lettuce and acidic tomato skins/seeds with creamy, soluble-fiber avocado.",
+  "prepOrOrderInstructions": "Stuff crispy bacon (chewed well), mashed ripe avocado, and mayo into a warm white flour pita pocket."
+}

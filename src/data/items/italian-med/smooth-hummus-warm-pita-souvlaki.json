@@ -1,0 +1,37 @@
+{
+  "id": "smooth-hummus-warm-pita-souvlaki",
+  "name": "Smooth Hummus & Warm White Pita with Chicken Souvlaki",
+  "categoryFolder": "italian-med",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pita",
+    "dip",
+    "hummus",
+    "mediterranean"
+  ],
+  "searchKeywords": [
+    "greek food",
+    "kebab",
+    "flatbread"
+  ],
+  "whyItWorks": "Ultra-smooth commercial hummus (peeled pureed chickpeas) in small portions is much gentler than whole beans when paired with white pita and grilled chicken breast.",
+  "prepOrOrderInstructions": "Buy classic plain hummus (skip pine nut, roasted red pepper skin, or spicy toppings) and serve with warm white pita toasted in the toaster oven."
+}

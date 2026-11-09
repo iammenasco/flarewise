@@ -1,0 +1,37 @@
+{
+  "id": "malt-o-meal-frosted-mini-spooners",
+  "name": "Malt-O-Meal Frosted Mini Spooners (WARNING / REMISSION HACK)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 2.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "high-fiber",
+    "warning",
+    "shredded-wheat"
+  ],
+  "searchKeywords": [
+    "frosted mini wheats",
+    "shredded wheat",
+    "bagged cereal"
+  ],
+  "whyItWorks": "6g of dense, tightly bound insoluble whole wheat twigs. Acts like rough sandpaper in an active flare or stricture.",
+  "prepOrOrderInstructions": "NEVER touch during a flare. Remission-Only Hack: Pour warm lactose-free milk over a half-serving (25g) and wait 3-4 full minutes until it collapses into a soft porridge, and chew to liquid.",
+  "flareEmergencySwap": "Swap immediately to Malt-O-Meal Original Hot Farina (10/10) or Crispy Rice (9.5/10) at the first sign of cramping."
+}

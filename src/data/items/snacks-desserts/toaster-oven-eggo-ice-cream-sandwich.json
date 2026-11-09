@@ -1,0 +1,35 @@
+{
+  "id": "toaster-oven-eggo-ice-cream-sandwich",
+  "name": "Toaster-Oven Eggo Ice Cream Sandwich",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "waffles",
+    "ice-cream",
+    "toaster-oven",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "eggo",
+    "lactaid ice cream",
+    "midnight snack"
+  ],
+  "whyItWorks": "Crispy, warm, and cold all at once with almost no fiber (~0.5g-1g).",
+  "prepOrOrderInstructions": "Toast two plain or blueberry Eggo waffles in the toaster oven until crisp, sandwich a scoop of lactose-free vanilla ice cream between them, and eat immediately."
+}

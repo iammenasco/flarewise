@@ -1,0 +1,36 @@
+{
+  "id": "baked-cinnamon-sugar-tortilla-crisps",
+  "name": "Baked Cinnamon-Sugar Flour Tortilla Crisps",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "no-microwave"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "dessert",
+    "tortilla",
+    "cinnamon",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "buñuelos",
+    "churro chips",
+    "pita chips alternative"
+  ],
+  "whyItWorks": "Easily beats corn tortilla chips (which have sharp, un-ground corn kernel edges).",
+  "prepOrOrderInstructions": "Brush a soft white flour tortilla with melted butter, sprinkle generously with cinnamon and sugar, cut into triangles, and bake in the toaster oven at 375F for 5 minutes until crisp."
+}

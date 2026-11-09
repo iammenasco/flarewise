@@ -1,0 +1,36 @@
+{
+  "id": "malt-o-meal-cinnamon-toasters",
+  "name": "Malt-O-Meal Cinnamon Toasters",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "typicalPriceText": "$5.97 (33 oz bag)",
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "cinnamon"
+  ],
+  "searchKeywords": [
+    "cinnamon toast crunch",
+    "ctc",
+    "bagged cereal"
+  ],
+  "whyItWorks": "Wheat and rice flour squares (~1.5g fiber), though they hold their crunch longer than puffed rice.",
+  "prepOrOrderInstructions": "Soak for 2 minutes in milk and chew thoroughly so you aren't swallowing jagged corners."
+}

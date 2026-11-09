@@ -1,0 +1,36 @@
+{
+  "id": "wonton-ramen-noodle-broth-bowl",
+  "name": "Wonton or Ramen Noodle Broth Bowl",
+  "categoryFolder": "lunch",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "broth",
+    "noodles",
+    "ramen",
+    "wonton",
+    "dumplings"
+  ],
+  "searchKeywords": [
+    "bone broth",
+    "chicken noodle",
+    "instant ramen"
+  ],
+  "whyItWorks": "Hot bone broth hydrates an irritated bowel and replaces sodium, while refined wheat noodles and thin wonton wrappers require almost zero digestive effort.",
+  "prepOrOrderInstructions": "Simmer ramen noodles (ditch spicy chili packets) or frozen chicken/pork wontons in rich chicken bone broth. Add 1 drop toasted sesame oil and a soft-boiled egg."
+}

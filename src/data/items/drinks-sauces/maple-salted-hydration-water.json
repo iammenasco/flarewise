@@ -1,0 +1,34 @@
+{
+  "id": "maple-salted-hydration-water",
+  "name": "Maple-Salted Hydration Water (Clean ORS)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "hydration",
+    "flare-recovery",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "electrolytes",
+    "liquid iv alternative",
+    "gatorade alternative",
+    "oral rehydration"
+  ],
+  "whyItWorks": "Uses sodium-glucose co-transport to pull water into the bloodstream without artificial sweeteners (sucralose/sorbitol) or citrus extracts that trigger osmotic diarrhea.",
+  "prepOrOrderInstructions": "Mix 16 oz cold water + 1 tbsp pure maple syrup + 1/8 to 1/4 tsp sea salt."
+}

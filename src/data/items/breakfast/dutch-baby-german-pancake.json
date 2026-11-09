@@ -1,0 +1,35 @@
+{
+  "id": "dutch-baby-german-pancake",
+  "name": "Dutch Baby / Skillet German Pancake",
+  "categoryFolder": "breakfast",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pancake",
+    "eggs",
+    "baked",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "crepe",
+    "yorkshire pudding",
+    "waffle",
+    "syrup"
+  ],
+  "whyItWorks": "Egg-heavy, zero-fiber batter that puffs up like a Yorkshire pudding - feels fancy, costs pennies, and takes almost no digestive work.",
+  "prepOrOrderInstructions": "Whisk 2 eggs, 1/2 cup white flour, 1/2 cup lactose-free milk, and a pinch of salt. Pour into a hot skillet with 2 tbsp melted butter. Bake at 425F for 15 mins until puffed and golden. Dust with powdered sugar and maple syrup."
+}

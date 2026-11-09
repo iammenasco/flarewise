@@ -1,0 +1,34 @@
+{
+  "id": "buttermilk-brioche-french-toast",
+  "name": "Buttermilk Brioche French Toast",
+  "categoryFolder": "breakfast",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "brioche",
+    "eggs",
+    "french-toast",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "challah",
+    "pancakes",
+    "maple syrup"
+  ],
+  "whyItWorks": "Brioche and Challah have no whole grains or seeds and soak up egg custard completely.",
+  "prepOrOrderInstructions": "Dip thick brioche slices in beaten egg + splash of vanilla + cinnamon. Pan-fry in butter until golden."
+}

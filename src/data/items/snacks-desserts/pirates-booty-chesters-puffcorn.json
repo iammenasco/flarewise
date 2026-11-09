@@ -1,0 +1,38 @@
+{
+  "id": "pirates-booty-chesters-puffcorn",
+  "name": "Pirate's Booty or Chester's Butter Puffcorn",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pirate's Booty / Chester's",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "puffed-grain",
+    "corn-base",
+    "cheese",
+    "gluten-free",
+    "grab-and-go"
+  ],
+  "searchKeywords": [
+    "popcorn",
+    "hulless popcorn",
+    "cheese puffs",
+    "chips alternative",
+    "movie snack"
+  ],
+  "whyItWorks": "Extruded corn and rice meal with 0% hulls. Gives you the exact salty, crunchy movie-popcorn fix, but melts into foam on your tongue so nothing scrapes your intestine.",
+  "prepOrOrderInstructions": "Grab and eat straight from the bag."
+}

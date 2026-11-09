@@ -1,0 +1,39 @@
+{
+  "id": "standard-pop-tarts",
+  "name": "Standard Pop-Tarts (Strawberry or Brown Sugar)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Pop-Tarts",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pastry",
+    "toaster-oven",
+    "grab-and-go",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "toaster pastry",
+    "brown sugar cinnamon",
+    "strawberry"
+  ],
+  "whyItWorks": "Refined white flour crust with smooth pectin fruit gel - zero seeds, skins, or roughage.",
+  "prepOrOrderInstructions": "Run through the toaster oven until the edges crisp up.",
+  "watchOuts": [
+    "Skip whole-wheat, unfrosted high-fiber, or nutty toaster pastries"
+  ]
+}

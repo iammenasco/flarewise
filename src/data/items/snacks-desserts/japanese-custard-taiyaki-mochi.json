@@ -1,0 +1,37 @@
+{
+  "id": "japanese-custard-taiyaki-mochi",
+  "name": "Japanese Taiyaki (Custard Filled) or Mochi Ice Cream",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "japanese",
+    "custard",
+    "mochi",
+    "rice-base",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "fish waffle",
+    "rice cake",
+    "sweet"
+  ],
+  "whyItWorks": "Taiyaki is a warm waffle fish filled with smooth vanilla custard; Mochi is pounded glutinous sweet rice flour (0g fiber).",
+  "prepOrOrderInstructions": "Crisp frozen custard taiyaki in the toaster oven for 5 minutes. Skip red bean (anko) fillings that contain bean skins during flares."
+}

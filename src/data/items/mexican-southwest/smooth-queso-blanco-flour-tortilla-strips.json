@@ -1,0 +1,37 @@
+{
+  "id": "smooth-queso-blanco-flour-tortilla-strips",
+  "name": "Smooth Queso Blanco & Warm Flour Tortilla Strips",
+  "categoryFolder": "mexican-southwest",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "dip",
+    "tortilla",
+    "mexican",
+    "snack",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "chips and queso",
+    "cheese dip",
+    "no corn chips"
+  ],
+  "whyItWorks": "Melted white American or Monterey Jack cheese with warm toasted white flour tortillas gives you the chips-and-queso experience without corn chip shrapnel.",
+  "prepOrOrderInstructions": "Skip diced pickled jalapenos and tomatoes in the queso. Dip warm toasted flour tortilla triangles or soft pretzel bites instead of corn tortilla chips."
+}

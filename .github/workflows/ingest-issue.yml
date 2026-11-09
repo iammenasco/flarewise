@@ -1,0 +1,43 @@
+name: Ingest Approved Food Issue to PR
+
+on:
+  issues:
+    types: [labeled]
+
+concurrency:
+  group: ingest-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  ingest-food:
+    if: github.event.label.name == 'approved-food'
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Parse Issue JSON & Write Atomic File
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: node scripts/ingest-issue.mjs
+      - name: Validate Dataset Against Schema
+        run: npm run validate-data
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "feat(data): add food from issue #${{ github.event.issue.number }}"
+          branch: "ingest/issue-${{ github.event.issue.number }}"
+          title: "Add Food Item (Issue #${{ github.event.issue.number }})"
+          body: |
+            Automated ingestion from approved Issue #${{ github.event.issue.number }}.
+            Closes #${{ github.event.issue.number }}.
+          labels: data-ingestion

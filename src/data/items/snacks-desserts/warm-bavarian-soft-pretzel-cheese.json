@@ -1,0 +1,35 @@
+{
+  "id": "warm-bavarian-soft-pretzel-cheese",
+  "name": "Warm Bavarian Soft Pretzel & Smooth Cheese Dip",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "no-microwave"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "pretzel",
+    "cheese",
+    "toaster-oven",
+    "salty"
+  ],
+  "searchKeywords": [
+    "superpretzel",
+    "mall pretzel",
+    "pub snack"
+  ],
+  "whyItWorks": "Soft Bavarian pretzels are made from refined white flour and yeast - much safer than hard, jagged pretzel sticks or corn tortilla chips.",
+  "prepOrOrderInstructions": "Bake a frozen soft pretzel in the toaster oven at 375F for 4-5 minutes (crisp outside, pillow-soft inside, never microwave-rubbery). Dip in warm melted cheddar."
+}

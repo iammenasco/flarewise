@@ -1,0 +1,39 @@
+{
+  "id": "custom-gut-safe-gimbap",
+  "name": "Custom Gut-Safe Gimbap (Korean Rice Rolls)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "gimbap",
+    "sushi",
+    "rice-base",
+    "beef",
+    "eggs",
+    "cheese",
+    "korean",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "kimbap",
+    "korean sushi",
+    "bulgogi roll"
+  ],
+  "whyItWorks": "Seasoned with sweet toasted sesame oil and salt instead of vinegar, with fully cooked fillings.",
+  "prepOrOrderInstructions": "Make or order Egg, Crab Stick, Bulgogi Beef, and American/Havarti Cheese Gimbap with peeled cucumber/zucchini ribbons. Skip burdock root, raw carrots, and spinach; use soy wrapper if flaring."
+}

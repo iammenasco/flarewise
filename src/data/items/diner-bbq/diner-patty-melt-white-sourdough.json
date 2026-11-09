@@ -1,0 +1,38 @@
+{
+  "id": "diner-patty-melt-white-sourdough",
+  "name": "Diner-Style Patty Melt on White Sourdough",
+  "categoryFolder": "diner-bbq",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "burger",
+    "sandwich",
+    "melt",
+    "beef",
+    "cheese",
+    "swiss",
+    "bread"
+  ],
+  "searchKeywords": [
+    "sourdough burger",
+    "grilled cheese burger",
+    "diner"
+  ],
+  "whyItWorks": "Finely ground beef patty + 2 slices of zero-lactose Swiss cheese on white sourdough bread.",
+  "prepOrOrderInstructions": "Pan-toast in butter with onion powder for classic patty melt flavor while skipping stringy caramelized whole onions."
+}

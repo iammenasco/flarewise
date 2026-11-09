@@ -1,0 +1,37 @@
+{
+  "id": "korean-gyeranjjim-volcano-eggs",
+  "name": "Gyeran-jjim (Korean Volcano Steamed Eggs)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "broth",
+    "korean",
+    "gluten-free",
+    "flare-recovery"
+  ],
+  "searchKeywords": [
+    "steamed eggs",
+    "korean bbq side",
+    "banchan"
+  ],
+  "whyItWorks": "Eggs whisked with kelp/anchovy or chicken broth and steamed until fluffy and cloud-like with a drop of sesame oil.",
+  "prepOrOrderInstructions": "Simmer whisked eggs and salted chicken broth in a small pot for 5-6 minutes covered, drizzle with 1 drop toasted sesame oil, and skip the raw scallion garnish."
+}

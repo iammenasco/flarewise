@@ -1,0 +1,39 @@
+{
+  "id": "nigiri-sashimi-sushi",
+  "name": "Nigiri & Sashimi (Salmon, Tuna, Yellowtail, Tamago)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "sushi",
+    "fish",
+    "salmon",
+    "tuna",
+    "rice-base",
+    "japanese",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "raw fish",
+    "sweet egg",
+    "tamago",
+    "eel sauce"
+  ],
+  "whyItWorks": "Raw or seared sushi-grade fish and sweet Japanese omelet (Tamago) over seasoned white sushi rice is arguably the cleanest, highest-protein, zero-fiber meal on earth.",
+  "prepOrOrderInstructions": "Ask for no sesame seeds on the rice. Dip in plain soy sauce and sweet eel sauce (skip spicy mayo, ponzu, and wasabi during flares)."
+}

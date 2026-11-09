@@ -1,0 +1,35 @@
+{
+  "id": "aged-cheddar-gruyere-mac-and-cheese",
+  "name": "Mac & Cheese with Aged White Cheddar & Gruyere",
+  "categoryFolder": "diner-bbq",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "cheddar",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "macaroni and cheese",
+    "cavatappi",
+    "comfort food"
+  ],
+  "whyItWorks": "White elbow macaroni or cavatappi in a smooth roux sauce made with lactose-free milk and naturally lactose-free aged cheddar and Gruyere.",
+  "prepOrOrderInstructions": "Top with crushed Ritz crackers and broil in the toaster oven for 2 minutes until crisp."
+}

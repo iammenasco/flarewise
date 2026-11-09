@@ -1,0 +1,34 @@
+{
+  "id": "cantonese-steamed-egg-minced-pork",
+  "name": "Cantonese Steamed Egg with Minced Pork",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "rice-base",
+    "chinese",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "steamed egg custard",
+    "comfort food"
+  ],
+  "whyItWorks": "Silky steamed egg custard topped with finely minced savory pork and soy sauce over white rice.",
+  "prepOrOrderInstructions": "Steam whisked eggs with warm chicken broth for 10 mins, top with browned finely minced pork and a splash of soy sauce and sesame oil."
+}

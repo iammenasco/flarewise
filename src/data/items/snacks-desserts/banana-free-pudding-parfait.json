@@ -1,0 +1,35 @@
+{
+  "id": "banana-free-pudding-parfait",
+  "name": "Banana-Free Pudding Parfait (Fudge or Butterscotch)",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pudding",
+    "chocolate",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "jello pudding",
+    "nilla wafers",
+    "graham crackers",
+    "no banana"
+  ],
+  "whyItWorks": "Smooth calories that require zero mechanical chewing.",
+  "prepOrOrderInstructions": "Layer chocolate fudge, vanilla, or butterscotch pudding cups with lactose-free whipped cream and crushed graham crackers or Nilla wafers (let sit 5 mins to soften into cake texture)."
+}

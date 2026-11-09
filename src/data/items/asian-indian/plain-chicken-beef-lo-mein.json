@@ -1,0 +1,36 @@
+{
+  "id": "plain-chicken-beef-lo-mein",
+  "name": "Plain Chicken or Beef Lo Mein (No Veggies)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "noodles",
+    "chicken",
+    "beef",
+    "chinese",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "chow mein",
+    "egg noodles",
+    "chinese takeout"
+  ],
+  "whyItWorks": "Soft wheat egg noodles tossed in savory brown soy-oyster sauce digest cleanly without roughage.",
+  "prepOrOrderInstructions": "Order plain chicken or beef lo mein with no vegetables, or push the fibrous cabbage and celery stalks to the side."
+}

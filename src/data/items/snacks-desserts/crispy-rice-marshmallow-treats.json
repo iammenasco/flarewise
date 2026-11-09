@@ -1,0 +1,37 @@
+{
+  "id": "crispy-rice-marshmallow-treats",
+  "name": "Crispy Rice Marshmallow Treats",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "dessert",
+    "cereal",
+    "malt-o-meal",
+    "rice-base",
+    "marshmallow",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "rice krispie treats",
+    "sweet snack"
+  ],
+  "whyItWorks": "Uses the 9.5/10 Malt-O-Meal Crispy Rice base bound together with melted marshmallows and butter - zero insoluble roughage.",
+  "prepOrOrderInstructions": "Make a batch with Malt-O-Meal Crispy Rice or grab pre-packaged treats."
+}

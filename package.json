@@ -1,0 +1,42 @@
+{
+  "name": "flarewise",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Flarewise — Crohn's-friendly food catalog (static GitHub Pages PWA)",
+  "scripts": {
+    "dev": "node scripts/export-catalog.mjs && vite",
+    "prebuild": "node scripts/export-catalog.mjs && npm run validate-data",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "seed-split": "node scripts/split-seed-bundle.mjs",
+    "validate-data": "node scripts/validate-data.mjs",
+    "export-catalog": "node scripts/export-catalog.mjs",
+    "icons": "node scripts/generate-icons.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "fuse.js": "^7.1.0",
+    "lucide-react": "^0.544.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.9.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "ajv-cli": "^5.0.0",
+    "oxlint": "^1.90.0",
+    "tailwindcss": "^4.1.13",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.6",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "castle-hot-cocoa-lactose-free",
+  "name": "Castle Hot Cocoa (With Lactose-Free or Oat Milk)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Castle",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "hot-cocoa",
+    "chocolate",
+    "coffee-alternative"
+  ],
+  "searchKeywords": [
+    "hot chocolate",
+    "castle cocoa",
+    "morning drink",
+    "no coffee"
+  ],
+  "whyItWorks": "Comforting, rich calories without coffee acidity or dairy lactase issues when mixed into warm oat or lactose-free milk.",
+  "prepOrOrderInstructions": "Whisk Castle hot cocoa mix into warm lactose-free milk, oat milk, or almond milk."
+}

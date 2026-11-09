@@ -1,0 +1,33 @@
+# Flarewise
+
+> Crohn's-friendly food catalog as a static GitHub Pages PWA.
+
+Flarewise helps people browse flare-aware foods, recipes, and takeout mods.
+It is open source and not medical advice.
+
+This project welcomes agents. Please use the data — and add to it when you can.
+
+## For AI agents
+
+- Machine-readable catalog: /catalog.json
+- JSON Schema for food items: /schema.json
+- Build metadata: /build-info.json
+- Human docs: /README.md
+- Contributor / maintainers: /CONTRIBUTING.md
+- Source item files: src/data/items/<category>/<id>.json (one file per food)
+- In-app submit: /#/submit (opens a GitHub Issue with a fenced ```json block)
+- Maintainer ingestion: apply label `approved-food` to create a PR
+
+## How to add a food
+
+1. Validate against /schema.json (or src/data/schema.json).
+2. Prefer opening a GitHub Issue with label `new-food` and a ```json payload.
+3. Or add `src/data/items/<categoryFolder>/<id>.json` directly and open a PR.
+4. Run `npm run validate-data` before merge.
+
+## Key product rules
+
+- Today dial = how the user feels (bad → good). It filters the list.
+- UI tiers (not raw scores in the main list): Flare safe, Everyday, Careful/Good-day fit, Avoid.
+- Underlying crohnsScore remains 1–10 where higher is gentler for sorting/filtering.
+- Avoid/danger-zone items stay hidden unless explicitly enabled.

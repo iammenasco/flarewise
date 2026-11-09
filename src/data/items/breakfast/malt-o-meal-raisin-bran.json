@@ -1,0 +1,36 @@
+{
+  "id": "malt-o-meal-raisin-bran",
+  "name": "Malt-O-Meal Raisin Bran (HARD AVOID)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 8,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "warning",
+    "high-fiber",
+    "dried-fruit"
+  ],
+  "searchKeywords": [
+    "bran flakes",
+    "raisins",
+    "blockage risk"
+  ],
+  "whyItWorks": "8g of coarse wheat bran flakes paired with dehydrated raisin skins that do not digest and can cause mechanical blockages.",
+  "prepOrOrderInstructions": "Leave on the grocery shelf."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "custom-shoyu-chicken-ramen",
+  "name": "Shoyu or Chicken Paitan Ramen (Gut-Safe Custom Order)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "broth",
+    "noodles",
+    "ramen",
+    "pork",
+    "chicken",
+    "eggs",
+    "japanese",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "tonkotsu",
+    "chashu",
+    "ajitama",
+    "noodle soup"
+  ],
+  "whyItWorks": "Refined wheat alkaline noodles + rich broth + marinated soft-boiled egg (Ajitama) + tender braised pork belly (Chashu).",
+  "prepOrOrderInstructions": "Choose Shoyu or Chicken Paitan broth over heavy Tonkotsu if fat triggers transit. Hold the wood ear mushrooms (kikurage), corn kernels, raw scallions, and chili oil."
+}

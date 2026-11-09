@@ -1,0 +1,35 @@
+{
+  "id": "gut-safe-egg-roll-in-a-bowl",
+  "name": "Gut-Safe \"Egg Roll in a Bowl\" (Peeled Zucchini Swap)",
+  "categoryFolder": "dinner",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "turkey",
+    "zucchini",
+    "skillet",
+    "asian"
+  ],
+  "searchKeywords": [
+    "crack slaw",
+    "no cabbage",
+    "stir fry"
+  ],
+  "whyItWorks": "Swaps rough shredded cabbage for peeled, seedless zucchini ribbons that cook down into silk.",
+  "prepOrOrderInstructions": "Brown ground pork or turkey with ground ginger, garlic powder, soy sauce, and a drop of sesame oil. Add peeled zucchini ribbons (seed core removed) and cook until completely translucent and tender."
+}

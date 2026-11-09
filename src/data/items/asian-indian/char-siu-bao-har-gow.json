@@ -1,0 +1,40 @@
+{
+  "id": "char-siu-bao-har-gow",
+  "name": "Char Siu Bao (Steamed BBQ Pork Buns) or Har Gow",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "dumplings",
+    "bao",
+    "pork",
+    "shrimp",
+    "dim-sum",
+    "chinese",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "steamed buns",
+    "shrimp dumplings",
+    "dim sum"
+  ],
+  "whyItWorks": "Fluffy steamed white flour buns and translucent tapioca/wheat starch dumpling wrappers digest easily with zero fried grease.",
+  "prepOrOrderInstructions": "Choose steamed buns and steamed dumplings over pan-fried potstickers during flares."
+}

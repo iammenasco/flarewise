@@ -1,0 +1,34 @@
+{
+  "id": "cream-cheese-english-muffin",
+  "name": "Silky Cream Cheese or Ricotta English Muffin",
+  "categoryFolder": "breakfast",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "english-muffin",
+    "honey",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "toast alternative",
+    "bagel alternative",
+    "morning"
+  ],
+  "whyItWorks": "White English muffins have zero whole-grain husks and toast up crisp without sharp edges.",
+  "prepOrOrderInstructions": "Toast light-to-medium in the toaster oven, spread with lactose-free cream cheese (or whole-milk ricotta in remission) and a drizzle of honey."
+}

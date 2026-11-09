@@ -1,0 +1,41 @@
+{
+  "id": "korean-seolleongtang-ox-bone-soup",
+  "name": "Seolleongtang or Samgyetang (Korean Bone Broth Soup)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "broth",
+    "beef",
+    "chicken",
+    "rice-base",
+    "korean",
+    "takeout",
+    "flare-recovery"
+  ],
+  "searchKeywords": [
+    "ox bone soup",
+    "ginseng chicken soup",
+    "collagen",
+    "gomtang"
+  ],
+  "whyItWorks": "Korean ox-bone soup is simmered for 12+ hours until pure collagen and protein, served with soft white rice and thin beef slices - zero spice, zero fiber, pure gut healing.",
+  "prepOrOrderInstructions": "Season with sea salt at the table to taste. Skip the radish/cabbage kimchi and raw chopped green onions."
+}

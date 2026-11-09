@@ -1,0 +1,36 @@
+{
+  "id": "open-faced-hot-turkey-manhattan",
+  "name": "Open-Faced Hot Turkey or Roast Beef Manhattan",
+  "categoryFolder": "diner-bbq",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "potato",
+    "mashed-potatoes",
+    "bread",
+    "gravy"
+  ],
+  "searchKeywords": [
+    "thanksgiving dinner",
+    "hot turkey sandwich",
+    "diner comfort"
+  ],
+  "whyItWorks": "Soft white or potato bread topped with warm deli turkey, mashed peeled potatoes, and smooth bone-broth gravy - eats with a fork with zero tough crusts.",
+  "prepOrOrderInstructions": "Layer potato bread, warm sliced turkey breast, and mashed potatoes, then ladle warm savory bone-broth gravy over the top so the bread softens completely."
+}

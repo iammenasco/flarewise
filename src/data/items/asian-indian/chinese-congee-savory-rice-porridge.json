@@ -1,0 +1,40 @@
+{
+  "id": "chinese-congee-savory-rice-porridge",
+  "name": "Congee (Jook / Savory Chicken & Egg Rice Porridge)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "porridge",
+    "rice-base",
+    "broth",
+    "chicken",
+    "eggs",
+    "chinese",
+    "flare-recovery"
+  ],
+  "searchKeywords": [
+    "jook",
+    "rice soup",
+    "sick day"
+  ],
+  "whyItWorks": "White rice simmered in chicken bone broth until it completely breaks down into a thick, velvety savory porridge.",
+  "prepOrOrderInstructions": "Simmer 1 part white jasmine rice in 7 parts chicken bone broth with ginger powder. Top with finely shredded chicken, soft-boiled egg, and soy sauce."
+}

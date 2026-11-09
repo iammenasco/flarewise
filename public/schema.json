@@ -1,0 +1,184 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CrohnsFoodItem",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "categoryFolder",
+    "crohnsScore",
+    "safetyTier",
+    "mealTypes",
+    "region",
+    "costTier",
+    "convenienceScore",
+    "prepMethod",
+    "fiberGramsPerServing",
+    "lactoseSafe",
+    "citrusFree",
+    "tags",
+    "searchKeywords",
+    "whyItWorks",
+    "prepOrOrderInstructions"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "kebab-case unique filename slug"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "categoryFolder": {
+      "type": "string",
+      "enum": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "asian-indian",
+        "mexican-southwest",
+        "italian-med",
+        "diner-bbq",
+        "snacks-desserts",
+        "drinks-sauces",
+        "produce-sides",
+        "high-protein",
+        "frozen-aisle"
+      ]
+    },
+    "brandOrRestaurant": {
+      "type": "string"
+    },
+    "crohnsScore": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 10
+    },
+    "safetyTier": {
+      "type": "string",
+      "enum": ["flare-safe", "low-risk", "remission-road", "danger-zone"]
+    },
+    "mealTypes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "enum": [
+          "breakfast",
+          "lunch",
+          "dinner",
+          "snack",
+          "dessert",
+          "drink",
+          "sauce",
+          "takeout"
+        ]
+      }
+    },
+    "region": {
+      "type": "string",
+      "enum": [
+        "American",
+        "Japanese",
+        "Korean",
+        "Chinese",
+        "Indian",
+        "Mexican/Southwest",
+        "Italian/Med",
+        "Euro/Bistro",
+        "Global"
+      ]
+    },
+    "costTier": {
+      "type": "number",
+      "enum": [1, 2, 3]
+    },
+    "typicalPriceText": {
+      "type": "string"
+    },
+    "convenienceScore": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "prepMethod": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "enum": [
+          "ready-to-eat",
+          "toaster-oven",
+          "stovetop",
+          "skillet",
+          "slow-cooker",
+          "drive-thru",
+          "no-microwave"
+        ]
+      }
+    },
+    "fiberGramsPerServing": {
+      "type": "number",
+      "minimum": 0
+    },
+    "lactoseSafe": {
+      "type": "boolean"
+    },
+    "glutenFree": {
+      "type": "boolean"
+    },
+    "citrusFree": {
+      "type": "boolean"
+    },
+    "groceryIngredients": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "familyMealMod": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 2,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "searchKeywords": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" }
+    },
+    "whyItWorks": {
+      "type": "string",
+      "minLength": 1
+    },
+    "prepOrOrderInstructions": {
+      "type": "string",
+      "minLength": 1
+    },
+    "flareEmergencySwap": {
+      "type": "string"
+    },
+    "watchOuts": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "label": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    }
+  }
+}

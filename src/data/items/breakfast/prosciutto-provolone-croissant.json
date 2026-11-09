@@ -1,0 +1,39 @@
+{
+  "id": "prosciutto-provolone-croissant",
+  "name": "Prosciutto & Provolone Croissant Roll-Up",
+  "categoryFolder": "breakfast",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "no-microwave"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pastry",
+    "sandwich",
+    "cheese",
+    "prosciutto",
+    "provolone",
+    "havarti",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "bakery",
+    "croissant",
+    "ham and cheese",
+    "breakfast sandwich"
+  ],
+  "whyItWorks": "Refined white pastry flour and aged cheese dissolve fast; thin cured meat gives high protein and sodium without tough muscle fibers.",
+  "prepOrOrderInstructions": "Layer thin prosciutto and plain provolone or Havarti inside a bakery croissant. Toast in the toaster oven at 350F for 4-5 minutes until flaky, never soggy."
+}

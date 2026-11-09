@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Flarewise">
+  <rect width="64" height="64" rx="14" fill="#368dda"/>
+  <path fill="#ffffff" d="M14 40c0-1.2.5-2.3 1.4-3.1C20.2 32.3 26.7 30 32 30s11.8 2.3 16.6 6.9c.9.8 1.4 1.9 1.4 3.1v1.2c0 1.3-1.1 2.4-2.4 2.4H16.4c-1.3 0-2.4-1.1-2.4-2.4V40z"/>
+  <path fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" d="M18 28c4.8-7.2 11-10.8 14-10.8 3.2 0 8.8 3.2 13.2 9.6"/>
+  <circle cx="45.5" cy="27.2" r="3.4" fill="#ffffff"/>
+</svg>

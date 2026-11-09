@@ -1,0 +1,38 @@
+{
+  "id": "malt-o-meal-crispy-rice",
+  "name": "Malt-O-Meal Crispy Rice / Rice Chex",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "typicalPriceText": "$5.54 - $5.97 (36 oz bag)",
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "rice-base",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "rice krispies",
+    "chex",
+    "bagged cereal",
+    "puffed rice"
+  ],
+  "whyItWorks": "Puffed white rice has 0g insoluble fiber and dissolves into harmless starch the second it hits liquid. Rice Chex is also certified gluten-free.",
+  "prepOrOrderInstructions": "Let soak in cold lactose-free or almond milk for 60-90 seconds with a drizzle of honey or maple syrup."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "soft-glazed-doughnut-cruller",
+  "name": "Soft Glazed Doughnut or French Cruller",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pastry",
+    "sweet",
+    "grab-and-go"
+  ],
+  "searchKeywords": [
+    "krispy kreme",
+    "donut",
+    "weight gain",
+    "calories"
+  ],
+  "whyItWorks": "Pure refined white flour, sugar, and egg/fat. Melts into nothing and delivers fast, zero-fiber calories when struggling to keep weight on.",
+  "prepOrOrderInstructions": "Stick to plain glazed yeast rings or egg crullers; skip coconut, chopped nuts, or seed toppings."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "egg-havarti-tortilla-melt",
+  "name": "Egg & Havarti Tortilla Melt",
+  "categoryFolder": "breakfast",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "cheese",
+    "havarti",
+    "tortilla",
+    "wrap",
+    "melt"
+  ],
+  "searchKeywords": [
+    "breakfast burrito",
+    "quesadilla",
+    "scrambled eggs"
+  ],
+  "whyItWorks": "Soft eggs and white flour tortillas are near-zero residue; Havarti is naturally lactose-free (~0g lactose) and melts cleanly.",
+  "prepOrOrderInstructions": "Soft-scramble 2 eggs, wrap in a warm white flour tortilla with a slice of plain Havarti, and press in a dry skillet for 60 seconds per side until crispy."
+}

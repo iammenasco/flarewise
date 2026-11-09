@@ -1,0 +1,35 @@
+{
+  "id": "carnitas-avocado-soft-flour-tacos",
+  "name": "Carnitas & Avocado Soft Flour Tacos",
+  "categoryFolder": "mexican-southwest",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "tacos",
+    "avocado",
+    "tortilla",
+    "mexican"
+  ],
+  "searchKeywords": [
+    "pulled pork tacos",
+    "soft tacos",
+    "street tacos"
+  ],
+  "whyItWorks": "Slow-cooked pork carnitas crisped briefly in a skillet, served on warm street-size white flour tortillas with mashed ripe avocado and cheddar.",
+  "prepOrOrderInstructions": "Use white flour street tortillas instead of corn tortillas, and skip raw diced onions and hot salsa."
+}

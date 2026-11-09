@@ -1,0 +1,41 @@
+{
+  "id": "malt-o-meal-golden-puffs",
+  "name": "Golden Puffs / Honey Buzzers / Corn Bursts",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "typicalPriceText": "$5.97 (32 oz bag)",
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "puffed-grain"
+  ],
+  "searchKeywords": [
+    "honey smacks",
+    "sugar crisp",
+    "honeycomb",
+    "kix",
+    "bagged cereal"
+  ],
+  "whyItWorks": "Puffed wheat and refined corn meal break down quickly (~1g fiber) in liquid.",
+  "prepOrOrderInstructions": "Serve with lactose-free or almond milk.",
+  "watchOuts": [
+    "High sugar content in Golden Puffs can pull water into the colon (osmotic effect) if eaten in huge bowls during an active flare"
+  ]
+}

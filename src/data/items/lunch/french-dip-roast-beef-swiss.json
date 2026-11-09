@@ -1,0 +1,39 @@
+{
+  "id": "french-dip-roast-beef-swiss",
+  "name": "The French Dip (Roast Beef & Swiss Melt)",
+  "categoryFolder": "lunch",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "sandwich",
+    "melt",
+    "beef",
+    "roast-beef",
+    "cheese",
+    "swiss",
+    "broth",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "au jus",
+    "sub",
+    "hoagie"
+  ],
+  "whyItWorks": "Dipping the bread in warm broth pre-softens the entire meal before you even swallow.",
+  "prepOrOrderInstructions": "Warm thin deli roast beef in a mug of beef broth/au jus. Pile onto a soft white French roll with melted Swiss cheese (toaster oven for 3 mins). Dip every bite."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "malt-o-meal-original-farina",
+  "name": "Malt-O-Meal Original Hot Farina (\"Brulee\" Style)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "typicalPriceText": "$4.98 - $5.99 (36 oz box)",
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "hot-cereal",
+    "malt-o-meal",
+    "farina",
+    "iron-fortified",
+    "porridge"
+  ],
+  "searchKeywords": [
+    "cream of wheat",
+    "hot wheat",
+    "oatmeal alternative",
+    "breakfast"
+  ],
+  "whyItWorks": "Finely milled wheat endosperm (~1g fiber), fortified with iron and B vitamins, requiring zero mechanical grinding for the bowel.",
+  "prepOrOrderInstructions": "Cook smooth with lactose-free or oat milk. Top with a thin pat of butter and 1 tsp brown sugar (melted on top), or swirl in 1 tbsp smooth peanut butter and pure maple syrup.",
+  "watchOuts": [
+    "Never use chunky peanut butter"
+  ]
+}

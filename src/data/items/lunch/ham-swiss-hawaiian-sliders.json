@@ -1,0 +1,38 @@
+{
+  "id": "ham-swiss-hawaiian-sliders",
+  "name": "Ham & Swiss Hawaiian Sliders",
+  "categoryFolder": "lunch",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "no-microwave"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "sandwich",
+    "sliders",
+    "ham",
+    "cheese",
+    "swiss",
+    "hawaiian-rolls",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "kings hawaiian",
+    "party rolls",
+    "hot ham and cheese"
+  ],
+  "whyItWorks": "King's Hawaiian rolls have virtually zero fiber and a pillow-soft texture.",
+  "prepOrOrderInstructions": "Split 3-4 rolls, layer with thin deli ham and Swiss, brush tops with melted butter and garlic powder, and bake in the toaster oven at 350F for 6-8 minutes."
+}

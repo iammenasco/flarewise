@@ -1,0 +1,38 @@
+{
+  "id": "chicken-salmon-teriyaki-bowl",
+  "name": "Chicken or Salmon Teriyaki Rice Bowl",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salmon",
+    "rice-base",
+    "teriyaki",
+    "japanese",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "rice bowl",
+    "donburi",
+    "hibachi"
+  ],
+  "whyItWorks": "Skinless grilled chicken thigh or salmon glazed in sweet soy-mirin reduction over steamed white rice digests cleanly.",
+  "prepOrOrderInstructions": "Order white rice only and skip the side cabbage salad, sesame seeds, and fibrous broccoli stalks."
+}

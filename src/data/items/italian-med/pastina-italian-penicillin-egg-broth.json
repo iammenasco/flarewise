@@ -1,0 +1,39 @@
+{
+  "id": "pastina-italian-penicillin-egg-broth",
+  "name": "Pastina (\"Italian Penicillin\" Egg & Broth Stars)",
+  "categoryFolder": "italian-med",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "breakfast"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "soup",
+    "broth",
+    "eggs",
+    "cheese",
+    "italian",
+    "flare-recovery"
+  ],
+  "searchKeywords": [
+    "stelline",
+    "orzo",
+    "sick day soup",
+    "italian penicillin"
+  ],
+  "whyItWorks": "Tiny star-shaped white pasta simmered directly in chicken bone broth, finished with a beaten egg, butter, and aged parmesan for instant soothing calories.",
+  "prepOrOrderInstructions": "Simmer pastina or orzo in chicken bone broth for 5 mins until tender, remove from heat, and whisk in 1 beaten egg, a pat of butter, and grated parmesan."
+}

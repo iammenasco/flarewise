@@ -1,0 +1,41 @@
+{
+  "id": "malt-o-meal-dyno-bites",
+  "name": "Fruity or Cocoa Dyno-Bites",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "typicalPriceText": "$5.86 - $5.97 (30-32 oz bag)",
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "rice-base",
+    "gluten-free",
+    "marshmallow"
+  ],
+  "searchKeywords": [
+    "fruity pebbles",
+    "cocoa pebbles",
+    "bagged cereal"
+  ],
+  "whyItWorks": "Puffed rice base with zero roughage. The marshmallow version adds great mouthfeel that melts completely without adding fiber.",
+  "prepOrOrderInstructions": "Pour lactose-free or almond milk and let sit 60 seconds before eating.",
+  "watchOuts": [
+    "Food dyes and high sugar can slightly speed up transit in ultra-sensitive guts during a severe flare"
+  ]
+}

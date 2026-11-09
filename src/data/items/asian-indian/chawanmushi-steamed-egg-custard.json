@@ -1,0 +1,36 @@
+{
+  "id": "chawanmushi-steamed-egg-custard",
+  "name": "Chawanmushi (Savory Japanese Steamed Egg Custard)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "custard",
+    "broth",
+    "japanese",
+    "flare-recovery"
+  ],
+  "searchKeywords": [
+    "steamed egg",
+    "dashi egg",
+    "liquid diet"
+  ],
+  "whyItWorks": "Silky dashi-infused steamed egg custard requires zero chewing and soothes an angry stomach immediately.",
+  "prepOrOrderInstructions": "Whisk eggs gently with warm dashi or chicken broth (1:3 ratio), strain through a sieve, and steam covered on low heat for 10-12 minutes."
+}

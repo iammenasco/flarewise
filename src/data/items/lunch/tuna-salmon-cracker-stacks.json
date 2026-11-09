@@ -1,0 +1,38 @@
+{
+  "id": "tuna-salmon-cracker-stacks",
+  "name": "Tuna or Salmon Salad Cracker Stacks",
+  "categoryFolder": "lunch",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "tuna",
+    "salmon",
+    "crackers",
+    "ritz",
+    "saltines",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "tuna salad",
+    "canned fish",
+    "omega 3",
+    "quick lunch"
+  ],
+  "whyItWorks": "Canned fish is pre-cooked to complete softness and loaded with anti-inflammatory omega-3s.",
+  "prepOrOrderInstructions": "Mash drained canned tuna or pink salmon smooth with mayo and a pinch of garlic powder (skip celery or pickle relish chunks). Spoon onto Ritz crackers or Saltines."
+}

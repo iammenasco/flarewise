@@ -1,0 +1,36 @@
+{
+  "id": "savory-ground-turkey-beef-keema",
+  "name": "Savory Ground Turkey or Beef Keema (Mild)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "potato",
+    "turmeric",
+    "indian",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "ground meat curry",
+    "keema aloo",
+    "mild spice"
+  ],
+  "whyItWorks": "Finely ground meat simmered in broth with warm, non-chili seasonings (cumin, turmeric, coriander) and peeled, fork-soft diced potatoes.",
+  "prepOrOrderInstructions": "Simmer ground turkey or beef in chicken broth with soy sauce, turmeric, and cumin alongside peeled, finely diced red potatoes until fork-crumbling soft."
+}

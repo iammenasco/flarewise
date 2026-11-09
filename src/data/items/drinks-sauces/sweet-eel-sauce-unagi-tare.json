@@ -1,0 +1,34 @@
+{
+  "id": "sweet-eel-sauce-unagi-tare",
+  "name": "Sweet Eel Sauce (Unagi No Tare)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "japanese",
+    "teriyaki",
+    "sushi"
+  ],
+  "searchKeywords": [
+    "unagi sauce",
+    "sushi glaze",
+    "rice condiment"
+  ],
+  "whyItWorks": "Equal parts soy sauce, mirin, and sugar simmered until syrupy - 10/10 umami flavor with 0g fiber and zero citrus extracts.",
+  "prepOrOrderInstructions": "Drizzle over white rice, salmon, chicken, udon, or eggs."
+}

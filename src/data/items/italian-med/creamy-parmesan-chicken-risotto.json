@@ -1,0 +1,35 @@
+{
+  "id": "creamy-parmesan-chicken-risotto",
+  "name": "Creamy Parmesan & Chicken Risotto",
+  "categoryFolder": "italian-med",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "rice-base",
+    "chicken",
+    "cheese",
+    "broth",
+    "italian",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "arborio rice",
+    "creamy rice",
+    "scallops"
+  ],
+  "whyItWorks": "Arborio white rice releases starch that creates a velvety sauce using only chicken bone broth, butter, and aged parmesan - zero heavy cream needed.",
+  "prepOrOrderInstructions": "Simmer arborio rice in warm chicken broth, finish with butter and aged parmesan, and top with pan-seared chicken tenders or scallops."
+}

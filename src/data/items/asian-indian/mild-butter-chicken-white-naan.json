@@ -1,0 +1,40 @@
+{
+  "id": "mild-butter-chicken-white-naan",
+  "name": "Mild Murgh Makhani (Butter Chicken) & White Naan",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "curry",
+    "naan",
+    "turmeric",
+    "indian",
+    "takeout",
+    "toaster-oven"
+  ],
+  "searchKeywords": [
+    "tikka masala",
+    "mild indian",
+    "zero spice"
+  ],
+  "whyItWorks": "Turmeric, ginger, cumin, and fenugreek provide massive flavor and natural anti-inflammatory action without chili heat; white naan is pillow-soft.",
+  "prepOrOrderInstructions": "Order '0/10 spice / Mild / Kid-friendly.' At home, simmer chicken thighs in strained tomato puree, coconut milk or heavy cream/ghee, garam masala, and turmeric. Warm white naan in the toaster oven."
+}

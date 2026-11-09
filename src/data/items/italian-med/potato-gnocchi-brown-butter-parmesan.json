@@ -1,0 +1,35 @@
+{
+  "id": "potato-gnocchi-brown-butter-parmesan",
+  "name": "Potato Gnocchi in Brown Butter & Parmesan",
+  "categoryFolder": "italian-med",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "gnocchi",
+    "potato",
+    "cheese",
+    "italian"
+  ],
+  "searchKeywords": [
+    "3 minute dinner",
+    "dumplings",
+    "parmigiano"
+  ],
+  "whyItWorks": "Shelf-stable or refrigerated potato gnocchi are pillows of mashed peeled potato and white flour that boil in 180 seconds and require almost zero chewing.",
+  "prepOrOrderInstructions": "Boil gnocchi until they float, then toss in a skillet with melted butter, a splash of pasta water, garlic powder, and aged Parmigiano-Reggiano (~0g lactose)."
+}

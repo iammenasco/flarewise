@@ -1,0 +1,38 @@
+{
+  "id": "korean-japchae-glass-noodles",
+  "name": "Japchae (Korean Sweet Potato Glass Noodles)",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "noodles",
+    "glass-noodles",
+    "beef",
+    "korean",
+    "gluten-free",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "dangmyeon",
+    "sweet potato noodles",
+    "stir fry noodles"
+  ],
+  "whyItWorks": "Dangmyeon noodles are made from purified sweet potato starch - 0g insoluble fiber, gluten-free, and super slippery.",
+  "prepOrOrderInstructions": "Order or make with thinly sliced beef and soy-sesame-sugar sauce, and pick around any tough onion, mushroom, or bell pepper skins."
+}

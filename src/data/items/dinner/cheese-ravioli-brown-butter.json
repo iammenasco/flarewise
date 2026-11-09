@@ -1,0 +1,34 @@
+{
+  "id": "cheese-ravioli-brown-butter",
+  "name": "Cheese or Meat Ravioli with Brown Butter",
+  "categoryFolder": "dinner",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "ravioli",
+    "italian",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "tortellini",
+    "fresh pasta",
+    "no red sauce"
+  ],
+  "whyItWorks": "Refrigerated fresh pasta uses finely milled white flour and smooth filling that digests rapidly.",
+  "prepOrOrderInstructions": "Boil refrigerated cheese, chicken, or beef ravioli for 4 minutes. Toss in melted browned butter, salt, and grated parmesan (skip acidic tomato marinara during flares)."
+}

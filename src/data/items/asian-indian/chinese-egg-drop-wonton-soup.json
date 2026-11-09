@@ -1,0 +1,39 @@
+{
+  "id": "chinese-egg-drop-wonton-soup",
+  "name": "Chinese Egg Drop Soup or Pork Wonton Soup",
+  "categoryFolder": "asian-indian",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "broth",
+    "eggs",
+    "wonton",
+    "dumplings",
+    "chinese",
+    "takeout"
+  ],
+  "searchKeywords": [
+    "chinese takeout",
+    "sick day soup",
+    "clear broth"
+  ],
+  "whyItWorks": "Silky cornstarch-thickened chicken broth with ribbons of cooked egg and thin wheat wonton skins.",
+  "prepOrOrderInstructions": "Order standard Egg Drop or Wonton Soup and skip the deep-fried crunchy noodle strips during an active flare."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "malt-o-meal-berry-colossal-crunch",
+  "name": "Malt-O-Meal Berry Colossal Crunch",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "typicalPriceText": "$5.97 - $6.79 (34.5 oz bag)",
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "glutenFree": false,
+  "citrusFree": true,
+  "tags": [
+    "cereal",
+    "cold-cereal",
+    "malt-o-meal",
+    "corn-base"
+  ],
+  "searchKeywords": [
+    "capn crunch",
+    "captain crunch",
+    "crunch berries",
+    "bagged cereal"
+  ],
+  "whyItWorks": "Low fiber (~1g), but dense corn meal pellets are mechanically abrasive if eaten dry.",
+  "prepOrOrderInstructions": "Mandatory 2-minute milk soak before taking a bite so pellets soften."
+}

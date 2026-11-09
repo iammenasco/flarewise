@@ -1,0 +1,37 @@
+{
+  "id": "peppermint-chamomile-ginger-tea",
+  "name": "Peppermint, Chamomile, or Ginger Herbal Tea",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "glutenFree": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "tea",
+    "herbal",
+    "flare-recovery",
+    "coffee-alternative"
+  ],
+  "searchKeywords": [
+    "cramp relief",
+    "soothing drink",
+    "no caffeine"
+  ],
+  "whyItWorks": "Natural antispasmodics that calm smooth muscle cramping in the intestinal tract.",
+  "prepOrOrderInstructions": "Steep pure peppermint, chamomile, or ginger tea bags in hot water with honey.",
+  "watchOuts": [
+    "Always check herbal tea labels to ensure zero Earl Grey/bergamot, hibiscus, or citrus peel fillers"
+  ]
+}
