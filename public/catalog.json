@@ -1,11 +1,12 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-09T20:43:46.035Z",
+  "builtAt": "2026-11-09T22:17:23.265Z",
   "itemCount": 88,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "submitPath": "/#/submit",
+  "sharePathTemplate": "/f/{id}/",
   "githubLabels": [
     "new-food",
     "approved-food",

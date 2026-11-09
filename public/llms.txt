@@ -16,6 +16,8 @@ This project welcomes agents. Please use the data — and add to it when you can
 - Contributor / maintainers: /CONTRIBUTING.md
 - Source item files: src/data/items/<category>/<id>.json (one file per food)
 - In-app submit: /#/submit (opens a GitHub Issue with a fenced ```json block)
+- Per-food share / unfurl pages: /f/{id}/ (OG tags; redirects into /#/?item={id})
+- Site Open Graph image: /og.png
 - Maintainer ingestion: apply label `approved-food` to create a PR
 
 ## How to add a food

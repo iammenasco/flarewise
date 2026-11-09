@@ -1,9 +1,11 @@
+import { useState } from 'react'
 import {
   AlertTriangle,
   Ban,
   Check,
   ExternalLink,
   Minus,
+  Share2,
   ShoppingCart,
   Star,
   X,
@@ -15,6 +17,7 @@ import {
   tierHintForFeeling,
   tierLabelForFeeling,
 } from '../lib/score'
+import { shareFood } from '../lib/share'
 import type { CrohnsFoodItem, PersonalStatus } from '../types'
 
 interface FoodDrawerProps {
@@ -53,9 +56,29 @@ export function FoodDrawer({
   onSetStatus,
   onTag,
 }: FoodDrawerProps) {
+  const [shareNote, setShareNote] = useState<string | null>(null)
+
   if (!item) return null
 
-  const chipClass = tierChipClass(item.safetyTier, feeling)
+  const food = item
+  const chipClass = tierChipClass(food.safetyTier, feeling)
+
+  async function onShare() {
+    const result = await shareFood({
+      id: food.id,
+      name: food.name,
+      text: food.whyItWorks,
+    })
+    if (result === 'copied') {
+      setShareNote('Link copied')
+      window.setTimeout(() => setShareNote(null), 1800)
+    } else if (result === 'failed') {
+      setShareNote('Couldn’t share — copy from the address later')
+      window.setTimeout(() => setShareNote(null), 2200)
+    } else {
+      setShareNote(null)
+    }
+  }
 
   return (
     <div className="fixed inset-0 z-50 flex items-end justify-center sm:items-center">
@@ -115,7 +138,21 @@ export function FoodDrawer({
             <ShoppingCart className="h-4 w-4" />
             {inCart ? 'In cart' : 'Add to cart'}
           </button>
+          <button
+            type="button"
+            onClick={() => void onShare()}
+            className="inline-flex items-center justify-center gap-2 rounded-xl border border-[var(--line)] bg-white/80 px-3 py-2.5 text-sm font-semibold text-[var(--brand-ink)]"
+            aria-label={`Share ${item.name}`}
+            title="Share"
+          >
+            <Share2 className="h-4 w-4" />
+          </button>
         </div>
+        {shareNote ? (
+          <p className="mb-3 text-center text-xs font-semibold text-[var(--brand)]">
+            {shareNote}
+          </p>
+        ) : null}
 
         <div className="mb-4">
           <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">

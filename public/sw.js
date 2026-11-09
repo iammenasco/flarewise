@@ -1,11 +1,12 @@
 /* Flarewise offline shell + runtime asset cache */
-const CACHE = 'flarewise-v3'
+const CACHE = 'flarewise-v4'
 const PRECACHE = [
   './',
   './index.html',
   './manifest.webmanifest',
   './favicon.svg',
   './favicon.png',
+  './og.png',
   './icons/icon-192.png',
   './icons/icon-512.png',
   './catalog.json',

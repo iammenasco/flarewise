@@ -79,6 +79,7 @@ Live app: **https://flarewise.menas.co**
 | Build base | `VITE_BASE=/` (hostname root, not `/flarewise/`) |
 | CNAME file | `public/CNAME` → `flarewise.menas.co` (copied into `dist/`) |
 | Cloudflare DNS | Zone `menas.co`: `flarewise` **CNAME** → `iammenasco.github.io` (**DNS only** / grey cloud so GitHub can issue HTTPS) |
+| Share / unfurl | Site OG in `index.html` + `/og.png`; per-food pages at `/f/<id>/` (built by `npm run export-catalog`) |
 | Labels | `new-food`, `approved-food`, `data-ingestion` (see [LABELS.md](.github/LABELS.md)) |
 
 Push to `main` runs deploy. Issue submit links use `VITE_GITHUB_OWNER=iammenasco` / `VITE_GITHUB_REPO=flarewise`.

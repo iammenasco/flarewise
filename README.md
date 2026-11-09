@@ -33,6 +33,7 @@ varies; when in doubt, check with your care team.
 - **Surprise me** for three ideas that match your filters
 - Works offline after you’ve opened it once (installable PWA)
 - **Suggest a food** — fills a review form so maintainers can add it
+- **Share a food** — iMessage / chat unfurls with a real preview card (`/f/<id>/`)
 
 ### Add to Home Screen
 
