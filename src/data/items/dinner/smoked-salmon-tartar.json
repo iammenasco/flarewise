@@ -1,0 +1,30 @@
+{
+  "id": "smoked-salmon-tartar",
+  "name": "Smoked Salmon Tartar",
+  "categoryFolder": "dinner",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "tartar",
+    "fish"
+  ],
+  "searchKeywords": [
+    "salmon-tartar"
+  ],
+  "whyItWorks": "Rich in healthy fats.",
+  "prepOrOrderInstructions": "Serve cold."
+}
