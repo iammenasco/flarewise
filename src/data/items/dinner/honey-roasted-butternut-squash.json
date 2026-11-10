@@ -1,0 +1,32 @@
+{
+  "name": "Honey-Roasted Butternut Squash",
+  "categoryFolder": "dinner",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 2,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "squash",
+    "vegetable",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "butternut",
+    "squash",
+    "honey"
+  ],
+  "whyItWorks": "High fiber and nutrient-dense, though honey adds some sugar.",
+  "prepOrOrderInstructions": "Roast until tender and caramelized.",
+  "id": "honey-roasted-butternut-squash"
+}
