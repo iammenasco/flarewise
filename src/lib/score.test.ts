@@ -1,5 +1,8 @@
 import { describe, expect, it } from 'vitest'
+import rubric from '../data/rubric.json'
 import {
+  DIAL_MIN_FOOD_SCORE,
+  DIAL_MAX_FOOD_SCORE,
   feelingFromMinScore,
   feelingScopeHint,
   minScoreFromFeeling,
@@ -39,7 +42,15 @@ describe('score mapping', () => {
   })
 
   it('scopes the list hint from mapped food floor', () => {
-    expect(feelingScopeHint(1)).toBe('Flare-safe foods only')
-    expect(feelingScopeHint(10)).toBe('Includes careful options')
+    expect(feelingScopeHint(1)).toBe(rubric.dial.roughScope)
+    expect(feelingScopeHint(10)).toBe(rubric.dial.steadyPlusScope)
+  })
+
+  it('keeps dial floors and tiers wired to src/data/rubric.json', () => {
+    expect(DIAL_MIN_FOOD_SCORE).toBe(rubric.dial.foodScoreFloorMin)
+    expect(DIAL_MAX_FOOD_SCORE).toBe(rubric.dial.foodScoreFloorMax)
+    const flareSafeMin = rubric.bands.find((b) => b.tier === 'flare-safe')!.min
+    expect(tierFromScore(flareSafeMin)).toBe('flare-safe')
+    expect(tierFromScore(flareSafeMin - 0.1)).toBe('low-risk')
   })
 })

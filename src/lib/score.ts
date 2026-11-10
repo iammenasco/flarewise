@@ -1,9 +1,14 @@
 import type { SafetyTier } from '../types'
+import rubric from '../data/rubric.json'
+
+const flareSafeMin = rubric.bands.find((b) => b.tier === 'flare-safe')!.min
+const everydayMin = rubric.bands.find((b) => b.tier === 'low-risk')!.min
+const carefulMin = rubric.bands.find((b) => b.tier === 'remission-road')!.min
 
 export function tierFromScore(score: number): SafetyTier {
-  if (score >= 9) return 'flare-safe'
-  if (score >= 7.5) return 'low-risk'
-  if (score >= 6.5) return 'remission-road'
+  if (score >= flareSafeMin) return 'flare-safe'
+  if (score >= everydayMin) return 'low-risk'
+  if (score >= carefulMin) return 'remission-road'
   return 'danger-zone'
 }
 
@@ -25,7 +30,14 @@ export function tierLabel(tier: SafetyTier): string {
  * does not still nag "wait until you feel stronger."
  */
 export function tierLabelForFeeling(tier: SafetyTier, feeling: number): string {
-  if (tier === 'remission-road' && feeling >= 7) return 'Good-day fit'
+  const careful = rubric.bands.find((b) => b.tier === 'remission-road')
+  if (
+    tier === 'remission-road'
+    && careful?.goodDayFeelingMin != null
+    && feeling >= careful.goodDayFeelingMin
+  ) {
+    return careful.goodDayLabel || 'Good-day fit'
+  }
   return tierLabel(tier)
 }
 
@@ -160,8 +172,8 @@ export function feelingLabel(feeling: number): string {
  * that range so Good day still changes the list (old 11-feeling mapping hit
  * 6.5 by "Cautious" and went dead for the rest of the slider).
  */
-export const DIAL_MIN_FOOD_SCORE = 6.5
-export const DIAL_MAX_FOOD_SCORE = 10
+export const DIAL_MIN_FOOD_SCORE = rubric.dial.foodScoreFloorMin
+export const DIAL_MAX_FOOD_SCORE = rubric.dial.foodScoreFloorMax
 
 export function costLabel(tier: 1 | 2 | 3): string {
   return '$'.repeat(tier)
@@ -192,9 +204,9 @@ export function feelingFromMinScore(minScore: number) {
 /** What the list is doing — based on the mapped food floor, not dead feeling zones. */
 export function feelingScopeHint(feeling: number): string {
   const minScore = minScoreFromFeeling(feeling)
-  if (minScore >= 9) return 'Flare-safe foods only'
-  if (minScore >= 7.5) return 'Flare-safe + everyday'
-  return 'Includes careful options'
+  if (minScore >= flareSafeMin) return rubric.dial.roughScope
+  if (minScore >= everydayMin) return rubric.dial.cautiousScope
+  return rubric.dial.steadyPlusScope
 }
 
 export const MEAL_CHIPS = [

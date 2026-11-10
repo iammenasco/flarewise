@@ -1,10 +1,11 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-09T22:17:23.265Z",
-  "itemCount": 88,
+  "builtAt": "2026-11-10T23:48:44.352Z",
+  "itemCount": 100,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
+  "rubricPath": "/rubric.json",
   "submitPath": "/#/submit",
   "sharePathTemplate": "/f/{id}/",
   "githubLabels": [
@@ -12,6 +13,53 @@
     "approved-food",
     "data-ingestion"
   ],
+  "rubric": {
+    "version": 1,
+    "scoreScale": {
+      "min": 1,
+      "max": 10,
+      "higherIsGentler": true
+    },
+    "bands": [
+      {
+        "tier": "flare-safe",
+        "label": "Flare safe",
+        "min": 9,
+        "max": 10
+      },
+      {
+        "tier": "low-risk",
+        "label": "Everyday",
+        "min": 7.5,
+        "max": 8.9
+      },
+      {
+        "tier": "remission-road",
+        "label": "Careful",
+        "goodDayLabel": "Good-day fit",
+        "goodDayFeelingMin": 7,
+        "min": 6.5,
+        "max": 7.4
+      },
+      {
+        "tier": "danger-zone",
+        "label": "Avoid",
+        "min": 1,
+        "max": 6.4,
+        "hiddenByDefault": true
+      }
+    ],
+    "dial": {
+      "feelingMin": 1,
+      "feelingMax": 10,
+      "foodScoreFloorMin": 6.5,
+      "foodScoreFloorMax": 10,
+      "roughScope": "Flare-safe foods only",
+      "cautiousScope": "Flare-safe + everyday",
+      "steadyPlusScope": "Includes careful options"
+    },
+    "agentBrief": "Flarewise rubric (cite briefly): crohnsScore 1–10 higher = gentler. Bands: 9–10 Flare safe; 7.5–8.9 Everyday; 6.5–7.4 Careful (Good-day fit when feeling ≥7); <6.5 Avoid (hide). Today dial (feeling 1 rough → 10 great) sets a min crohnsScore floor: rough ≈ Flare-safe only; cautious ≈ Flare-safe+Everyday; steady/good/great opens Careful. Draft/rank from live neighbors + these bands — cite score/tier, not vibes. Skip medical-disclaimer boilerplate in SMS."
+  },
   "items": [
     {
       "id": "chawanmushi-steamed-egg-custard",
@@ -362,6 +410,39 @@
       "_sourcePath": "src/data/items/drinks-sauces/sweet-eel-sauce-unagi-tare.json"
     },
     {
+      "id": "turkish-eggs-cilbir",
+      "name": "Turkish Eggs (Çılbir)",
+      "categoryFolder": "breakfast",
+      "crohnsScore": 10,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "eggs",
+        "yogurt",
+        "breakfast"
+      ],
+      "searchKeywords": [
+        "çılbir",
+        "turkish eggs",
+        "yogurt",
+        "chili butter"
+      ],
+      "whyItWorks": "Creamy yogurt base with soft eggs and warm chili butter.",
+      "prepOrOrderInstructions": "Warm seasoned yogurt, top with soft poached eggs and warm chili butter.",
+      "_sourcePath": "src/data/items/breakfast/turkish-eggs-cilbir.json"
+    },
+    {
       "id": "warm-salted-bone-broth-mug",
       "name": "Warm Bone Broth Mug (Chicken or Beef)",
       "categoryFolder": "drinks-sauces",
@@ -508,6 +589,36 @@
       "whyItWorks": "Silky cornstarch-thickened chicken broth with ribbons of cooked egg and thin wheat wonton skins.",
       "prepOrOrderInstructions": "Order standard Egg Drop or Wonton Soup and skip the deep-fried crunchy noodle strips during an active flare.",
       "_sourcePath": "src/data/items/asian-indian/chinese-egg-drop-wonton-soup.json"
+    },
+    {
+      "id": "creamy-butternut-squash-soup",
+      "name": "Creamy Butternut Squash Soup",
+      "categoryFolder": "dinner",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "soup",
+        "butternut-squash"
+      ],
+      "searchKeywords": [
+        "butternut-squash-soup"
+      ],
+      "whyItWorks": "Warm and soothing.",
+      "prepOrOrderInstructions": "Serve warm.",
+      "_sourcePath": "src/data/items/dinner/creamy-butternut-squash-soup.json"
     },
     {
       "id": "creamy-parmesan-chicken-risotto",
@@ -1030,6 +1141,37 @@
       "_sourcePath": "src/data/items/mexican-southwest/mexican-shredded-chicken-rice-caldo.json"
     },
     {
+      "id": "smoked-salmon-tartar",
+      "name": "Smoked Salmon Tartar",
+      "categoryFolder": "dinner",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "salmon",
+        "tartar",
+        "fish"
+      ],
+      "searchKeywords": [
+        "salmon-tartar"
+      ],
+      "whyItWorks": "Rich in healthy fats.",
+      "prepOrOrderInstructions": "Serve cold.",
+      "_sourcePath": "src/data/items/dinner/smoked-salmon-tartar.json"
+    },
+    {
       "id": "smooth-egg-salad-brioche",
       "name": "Smooth Egg Salad on Brioche",
       "categoryFolder": "lunch",
@@ -1101,6 +1243,37 @@
       "whyItWorks": "Hot bone broth hydrates an irritated bowel and replaces sodium, while refined wheat noodles and thin wonton wrappers require almost zero digestive effort.",
       "prepOrOrderInstructions": "Simmer ramen noodles (ditch spicy chili packets) or frozen chicken/pork wontons in rich chicken bone broth. Add 1 drop toasted sesame oil and a soft-boiled egg.",
       "_sourcePath": "src/data/items/lunch/wonton-ramen-noodle-broth-bowl.json"
+    },
+    {
+      "id": "baked-potato-and-cheddar-cheese-soup",
+      "name": "Baked Potato & Cheddar Cheese Soup",
+      "categoryFolder": "dinner",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "potato",
+        "cheese",
+        "soup"
+      ],
+      "searchKeywords": [
+        "potato-cheese-soup"
+      ],
+      "whyItWorks": "Filling and warm.",
+      "prepOrOrderInstructions": "Serve hot.",
+      "_sourcePath": "src/data/items/dinner/baked-potato-and-cheddar-cheese-soup.json"
     },
     {
       "id": "biscoff-cookie-butter-ritz-crackers",
@@ -1376,6 +1549,43 @@
       "_sourcePath": "src/data/items/breakfast/malt-o-meal-dyno-bites.json"
     },
     {
+      "name": "Grilled Sourdough Ham & Cheese",
+      "categoryFolder": "lunch",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 2,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "sandwich",
+        "melt",
+        "ham",
+        "cheese",
+        "sourdough"
+      ],
+      "searchKeywords": [
+        "grilled",
+        "ham",
+        "cheese",
+        "sourdough",
+        "melt"
+      ],
+      "whyItWorks": "Provides satisfying protein and fat with easily digestible sourdough bread.",
+      "prepOrOrderInstructions": "Butter the sourdough slices and grill in a skillet over medium heat until the cheese is melted and the bread is golden brown.",
+      "id": "grilled-sourdough-ham-cheese",
+      "_sourcePath": "src/data/items/lunch/grilled-sourdough-ham-cheese.json"
+    },
+    {
       "id": "japanese-custard-taiyaki-mochi",
       "name": "Japanese Taiyaki (Custard Filled) or Mochi Ice Cream",
       "categoryFolder": "snacks-desserts",
@@ -1450,6 +1660,42 @@
       "whyItWorks": "Peeled russet, Yukon gold, or sweet potatoes provide soluble potassium and soothing starch without roughage.",
       "prepOrOrderInstructions": "Bake or microwave potato until tender, scoop out the inside (discard the fibrous skin), and mash with butter, lactose-free sour cream, melted sharp cheddar, and browned ground turkey.",
       "_sourcePath": "src/data/items/dinner/loaded-baked-potato-bowl.json"
+    },
+    {
+      "id": "peanut-butter-and-jelly-sandwich",
+      "name": "Peanut Butter and Jelly Sandwich",
+      "categoryFolder": "lunch",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sandwich",
+        "peanut-butter",
+        "jelly",
+        "sweet"
+      ],
+      "searchKeywords": [
+        "peanut",
+        "butter",
+        "jelly",
+        "sandwich",
+        "pbj"
+      ],
+      "whyItWorks": "Simple protein and energy source.",
+      "prepOrOrderInstructions": "Ready to eat.",
+      "_sourcePath": "src/data/items/lunch/peanut-butter-and-jelly-sandwich.json"
     },
     {
       "id": "prosciutto-provolone-croissant",
@@ -2476,6 +2722,39 @@
       "_sourcePath": "src/data/items/asian-indian/yellow-moong-dal-khichdi.json"
     },
     {
+      "name": "Ahi Tuna Tartare",
+      "categoryFolder": "lunch",
+      "crohnsScore": 8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 3,
+      "convenienceScore": 2,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "tuna",
+        "fish",
+        "raw"
+      ],
+      "searchKeywords": [
+        "ahi",
+        "tuna",
+        "tartare"
+      ],
+      "whyItWorks": "High protein and easily digestible, though watch for citrus/acid.",
+      "prepOrOrderInstructions": "Ensure fish is fresh and properly chilled.",
+      "id": "ahi-tuna-tartare",
+      "_sourcePath": "src/data/items/lunch/ahi-tuna-tartare.json"
+    },
+    {
       "id": "buttermilk-brioche-french-toast",
       "name": "Buttermilk Brioche French Toast",
       "categoryFolder": "breakfast",
@@ -3055,6 +3334,39 @@
       "_sourcePath": "src/data/items/snacks-desserts/baked-cinnamon-sugar-tortilla-crisps.json"
     },
     {
+      "name": "Boudin Sausage Fritters",
+      "categoryFolder": "diner-bbq",
+      "crohnsScore": 7.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sausage",
+        "pork",
+        "fried"
+      ],
+      "searchKeywords": [
+        "boudin",
+        "sausage",
+        "fritters"
+      ],
+      "whyItWorks": "A protein-dense option.",
+      "prepOrOrderInstructions": "Minimize greasy intake.",
+      "id": "boudin-sausage-fritters",
+      "_sourcePath": "src/data/items/diner-bbq/boudin-sausage-fritters.json"
+    },
+    {
       "id": "gut-safe-egg-roll-in-a-bowl",
       "name": "Gut-Safe \"Egg Roll in a Bowl\" (Peeled Zucchini Swap)",
       "categoryFolder": "dinner",
@@ -3089,6 +3401,39 @@
       "whyItWorks": "Swaps rough shredded cabbage for peeled, seedless zucchini ribbons that cook down into silk.",
       "prepOrOrderInstructions": "Brown ground pork or turkey with ground ginger, garlic powder, soy sauce, and a drop of sesame oil. Add peeled zucchini ribbons (seed core removed) and cook until completely translucent and tender.",
       "_sourcePath": "src/data/items/dinner/gut-safe-egg-roll-in-a-bowl.json"
+    },
+    {
+      "name": "Honey-Roasted Butternut Squash",
+      "categoryFolder": "dinner",
+      "crohnsScore": 7.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 2,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "squash",
+        "vegetable",
+        "sweet"
+      ],
+      "searchKeywords": [
+        "butternut",
+        "squash",
+        "honey"
+      ],
+      "whyItWorks": "High fiber and nutrient-dense, though honey adds some sugar.",
+      "prepOrOrderInstructions": "Roast until tender and caramelized.",
+      "id": "honey-roasted-butternut-squash",
+      "_sourcePath": "src/data/items/dinner/honey-roasted-butternut-squash.json"
     },
     {
       "id": "malt-o-meal-marshmallow-mateys",
@@ -3165,6 +3510,70 @@
       "_sourcePath": "src/data/items/lunch/safe-blt-bacon-avocado-pocket.json"
     },
     {
+      "id": "ginger-teriyaki-angus-beef-tenderloin",
+      "name": "Ginger-Teriyaki Dusted Angus Beef Tenderloin",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 7,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 3,
+      "convenienceScore": 2,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "beef",
+        "tenderloin",
+        "ginger",
+        "teriyaki"
+      ],
+      "searchKeywords": [
+        "teriyaki-beef"
+      ],
+      "whyItWorks": "High protein source.",
+      "prepOrOrderInstructions": "Serve warm.",
+      "_sourcePath": "src/data/items/high-protein/ginger-teriyaki-angus-beef-tenderloin.json"
+    },
+    {
+      "name": "Iceberg Wedge",
+      "categoryFolder": "lunch",
+      "crohnsScore": 7,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "lettuce",
+        "vegetable",
+        "salad"
+      ],
+      "searchKeywords": [
+        "iceberg",
+        "wedge",
+        "lettuce"
+      ],
+      "whyItWorks": "Good hydration and crunch, but often paired with high-fat dressings.",
+      "prepOrOrderInstructions": "Serve cold with preferred toppings.",
+      "id": "iceberg-wedge",
+      "_sourcePath": "src/data/items/lunch/iceberg-wedge.json"
+    },
+    {
       "id": "malt-o-meal-cinnamon-toasters",
       "name": "Malt-O-Meal Cinnamon Toasters",
       "categoryFolder": "breakfast",
@@ -3238,6 +3647,41 @@
       "whyItWorks": "Low fiber (~1g), but dense corn meal pellets are mechanically abrasive if eaten dry.",
       "prepOrOrderInstructions": "Mandatory 2-minute milk soak before taking a bite so pellets soften.",
       "_sourcePath": "src/data/items/breakfast/malt-o-meal-berry-colossal-crunch.json"
+    },
+    {
+      "name": "Prince Naveen's Cajun Charcuterie Board",
+      "categoryFolder": "diner-bbq",
+      "crohnsScore": 6.5,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 2,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "charcuterie",
+        "pork",
+        "cheese",
+        "cured"
+      ],
+      "searchKeywords": [
+        "charcuterie",
+        "pork",
+        "duck"
+      ],
+      "whyItWorks": "High protein, but higher risk due to processed meats and cheese.",
+      "prepOrOrderInstructions": "Monitor portion sizes and cheese/meat variety.",
+      "id": "prince-naveen-s-cajun-charcuterie-board",
+      "_sourcePath": "src/data/items/diner-bbq/prince-naveen-s-cajun-charcuterie-board.json"
     },
     {
       "id": "malt-o-meal-frosted-mini-spooners",

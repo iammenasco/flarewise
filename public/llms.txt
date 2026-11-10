@@ -9,7 +9,8 @@ This project welcomes agents. Please use the data — and add to it when you can
 
 ## For AI agents
 
-- Machine-readable catalog: /catalog.json
+- Machine-readable catalog: /catalog.json (includes embedded `rubric`)
+- Scoring rubric (SoT): /rubric.json — also `catalog.rubric`; do not hardcode bands elsewhere
 - JSON Schema for food items: /schema.json
 - Build metadata: /build-info.json
 - Human docs: /README.md
@@ -33,3 +34,9 @@ This project welcomes agents. Please use the data — and add to it when you can
 - UI tiers (not raw scores in the main list): Flare safe, Everyday, Careful/Good-day fit, Avoid.
 - Underlying crohnsScore remains 1–10 where higher is gentler for sorting/filtering.
 - Avoid/danger-zone items stay hidden unless explicitly enabled.
+
+## Scoring rubric (for agents)
+
+Canonical machine rubric: `/rubric.json` (same object as `catalog.rubric`; source `src/data/rubric.json`).
+Use `agentBrief` + `bands` / `dial` from that file when ranking or drafting — do not invent vibes or mirror the numbers in other repos.
+Today dial maps feeling → min crohnsScore floor. For catalog growth or an unspecified/steady+ dial, suggest Everyday and Careful too — not only Flare safe. Keep user-facing replies short; do not repeat a medical-disclaimer boilerplate every turn.
