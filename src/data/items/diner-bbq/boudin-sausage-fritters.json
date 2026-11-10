@@ -1,0 +1,32 @@
+{
+  "name": "Boudin Sausage Fritters",
+  "categoryFolder": "diner-bbq",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sausage",
+    "pork",
+    "fried"
+  ],
+  "searchKeywords": [
+    "boudin",
+    "sausage",
+    "fritters"
+  ],
+  "whyItWorks": "A protein-dense option.",
+  "prepOrOrderInstructions": "Minimize greasy intake.",
+  "id": "boudin-sausage-fritters"
+}
