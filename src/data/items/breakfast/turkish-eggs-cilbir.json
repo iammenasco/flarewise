@@ -1,0 +1,32 @@
+{
+  "id": "turkish-eggs-cilbir",
+  "name": "Turkish Eggs (Çılbir)",
+  "categoryFolder": "breakfast",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "yogurt",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "çılbir",
+    "turkish eggs",
+    "yogurt",
+    "chili butter"
+  ],
+  "whyItWorks": "Creamy yogurt base with soft eggs and warm chili butter.",
+  "prepOrOrderInstructions": "Warm seasoned yogurt, top with soft poached eggs and warm chili butter."
+}
