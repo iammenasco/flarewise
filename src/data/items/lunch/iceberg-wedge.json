@@ -1,0 +1,32 @@
+{
+  "name": "Iceberg Wedge",
+  "categoryFolder": "lunch",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "lettuce",
+    "vegetable",
+    "salad"
+  ],
+  "searchKeywords": [
+    "iceberg",
+    "wedge",
+    "lettuce"
+  ],
+  "whyItWorks": "Good hydration and crunch, but often paired with high-fat dressings.",
+  "prepOrOrderInstructions": "Serve cold with preferred toppings.",
+  "id": "iceberg-wedge"
+}
