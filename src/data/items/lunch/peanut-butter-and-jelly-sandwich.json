@@ -1,0 +1,35 @@
+{
+  "id": "peanut-butter-and-jelly-sandwich",
+  "name": "Peanut Butter and Jelly Sandwich",
+  "categoryFolder": "lunch",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sandwich",
+    "peanut-butter",
+    "jelly",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "peanut",
+    "butter",
+    "jelly",
+    "sandwich",
+    "pbj"
+  ],
+  "whyItWorks": "Simple protein and energy source.",
+  "prepOrOrderInstructions": "Ready to eat."
+}
