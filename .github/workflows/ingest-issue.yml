@@ -4,9 +4,11 @@ on:
   issues:
     types: [labeled]
 
+# Serialize all approved-food pushes onto main. Per-issue groups raced when
+# several foods were approved in one pass and lost non-fast-forward pushes.
 concurrency:
-  group: ingest-${{ github.event.issue.number }}
-  cancel-in-progress: true
+  group: ingest-main
+  cancel-in-progress: false
 
 jobs:
   ingest-food:
@@ -53,7 +55,17 @@ jobs:
           ISSUE_NUMBER="${{ github.event.issue.number }}"
           git commit -m "feat(data): add food from issue #${ISSUE_NUMBER}" \
             -m "Automated ingestion from approved issue #${ISSUE_NUMBER}."
-          git push origin HEAD:main
+          # Rebase once if another serialized ingest landed first.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Push still rejected after retries."
+              exit 1
+            fi
+            git pull --rebase origin main
+          done
           echo "sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
       - name: Close issue
         if: success()
@@ -68,4 +80,4 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh issue comment "${{ github.event.issue.number }}" \
-            --body "Ingest failed for \`approved-food\`. Checks did not pass, so nothing was pushed to \`main\`. Fix the issue body (or data), then remove and re-apply \`approved-food\` to retry. Workflow: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            --body "Ingest failed for \`approved-food\` (validation or push). Nothing new was left on \`main\`. Fix the issue body if needed, then remove and re-apply \`approved-food\` to retry. Workflow: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
