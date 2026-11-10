@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "scoreScale": {
+    "min": 1,
+    "max": 10,
+    "higherIsGentler": true
+  },
+  "bands": [
+    {
+      "tier": "flare-safe",
+      "label": "Flare safe",
+      "min": 9,
+      "max": 10
+    },
+    {
+      "tier": "low-risk",
+      "label": "Everyday",
+      "min": 7.5,
+      "max": 8.9
+    },
+    {
+      "tier": "remission-road",
+      "label": "Careful",
+      "goodDayLabel": "Good-day fit",
+      "goodDayFeelingMin": 7,
+      "min": 6.5,
+      "max": 7.4
+    },
+    {
+      "tier": "danger-zone",
+      "label": "Avoid",
+      "min": 1,
+      "max": 6.4,
+      "hiddenByDefault": true
+    }
+  ],
+  "dial": {
+    "feelingMin": 1,
+    "feelingMax": 10,
+    "foodScoreFloorMin": 6.5,
+    "foodScoreFloorMax": 10,
+    "roughScope": "Flare-safe foods only",
+    "cautiousScope": "Flare-safe + everyday",
+    "steadyPlusScope": "Includes careful options"
+  },
+  "agentBrief": "Flarewise rubric (cite briefly): crohnsScore 1–10 higher = gentler. Bands: 9–10 Flare safe; 7.5–8.9 Everyday; 6.5–7.4 Careful (Good-day fit when feeling ≥7); <6.5 Avoid (hide). Today dial (feeling 1 rough → 10 great) sets a min crohnsScore floor: rough ≈ Flare-safe only; cautious ≈ Flare-safe+Everyday; steady/good/great opens Careful. Draft/rank from live neighbors + these bands — cite score/tier, not vibes. Skip medical-disclaimer boilerplate in SMS."
+}

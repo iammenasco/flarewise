@@ -9,7 +9,8 @@ This project welcomes agents. Please use the data — and add to it when you can
 
 ## For AI agents
 
-- Machine-readable catalog: /catalog.json
+- Machine-readable catalog: /catalog.json (includes embedded `rubric`)
+- Scoring rubric (SoT): /rubric.json — also `catalog.rubric`; do not hardcode bands elsewhere
 - JSON Schema for food items: /schema.json
 - Build metadata: /build-info.json
 - Human docs: /README.md
@@ -36,13 +37,6 @@ This project welcomes agents. Please use the data — and add to it when you can
 
 ## Scoring rubric (for agents)
 
-Use these bands when ranking or drafting foods — cite them, do not invent “catalog patterns”:
-
-| crohnsScore | safetyTier | UI label |
-| --- | --- | --- |
-| 9–10 | flare-safe | Flare safe |
-| 7.5–8.9 | low-risk | Everyday |
-| 6.5–7.4 | remission-road | Careful (Good-day fit when feeling ≥7) |
-| <6.5 | danger-zone | Avoid (hide by default) |
-
-Today dial (feeling 1 rough → 10 great) maps to a min crohnsScore floor so rough days stay Flare-safe-only, cautious opens Everyday, and steady/good/great unlocks Careful. For catalog growth or an unspecified/steady+ dial, suggest Everyday and Careful candidates too — not only Flare safe. Keep user-facing replies short; do not repeat a medical-disclaimer boilerplate every turn (the site already states it is not medical advice).
+Canonical machine rubric: `/rubric.json` (same object as `catalog.rubric`; source `src/data/rubric.json`).
+Use `agentBrief` + `bands` / `dial` from that file when ranking or drafting — do not invent vibes or mirror the numbers in other repos.
+Today dial maps feeling → min crohnsScore floor. For catalog growth or an unspecified/steady+ dial, suggest Everyday and Careful too — not only Flare safe. Keep user-facing replies short; do not repeat a medical-disclaimer boilerplate every turn.

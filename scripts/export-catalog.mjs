@@ -7,6 +7,9 @@ const itemsRoot = path.join(root, 'src', 'data', 'items')
 const schema = JSON.parse(
   fs.readFileSync(path.join(root, 'src', 'data', 'schema.json'), 'utf8'),
 )
+const rubric = JSON.parse(
+  fs.readFileSync(path.join(root, 'src', 'data', 'rubric.json'), 'utf8'),
+)
 
 const items = []
 
@@ -188,9 +191,12 @@ const payload = {
   itemCount: items.length,
   schemaTitle: schema.title,
   schemaPath: 'src/data/schema.json',
+  rubricPath: '/rubric.json',
   submitPath: '/#/submit',
   sharePathTemplate: '/f/{id}/',
   githubLabels: ['new-food', 'approved-food', 'data-ingestion'],
+  // Agent scoring SoT — also published as /rubric.json (no extra HomeBot RTT: already on catalog fetch).
+  rubric,
   items,
 }
 
@@ -211,12 +217,16 @@ fs.writeFileSync(
   `${JSON.stringify({ builtAt, itemCount: items.length, version: '1.0.0' }, null, 2)}\n`,
 )
 
-// Keep schema discoverable next to the export
+// Keep schema + rubric discoverable next to the export
 fs.copyFileSync(
   path.join(root, 'src', 'data', 'schema.json'),
   path.join(publicDir, 'schema.json'),
 )
+fs.writeFileSync(
+  path.join(publicDir, 'rubric.json'),
+  `${JSON.stringify(rubric, null, 2)}\n`,
+)
 
 console.log(
-  `Exported ${items.length} items to public/catalog.json + ${items.length} share pages under public/f/`,
+  `Exported ${items.length} items to public/catalog.json + rubric.json + ${items.length} share pages under public/f/`,
 )

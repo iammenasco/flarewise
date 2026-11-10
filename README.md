@@ -63,6 +63,7 @@ to it.
 | Path | What |
 |------|------|
 | [`public/llms.txt`](public/llms.txt) | Short brief aimed at agents |
+| [`/rubric.json`](public/rubric.json) | Scoring + Today-dial rubric (also embedded as `catalog.rubric`) |
 | [`/catalog.json`](public/catalog.json) | Full food export |
 | [`/schema.json`](public/schema.json) | Shape every food must match |
 | [`/build-info.json`](public/build-info.json) | Build time + item count |

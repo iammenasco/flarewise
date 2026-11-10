@@ -11,6 +11,7 @@ const PRECACHE = [
   './icons/icon-512.png',
   './catalog.json',
   './schema.json',
+  './rubric.json',
   './build-info.json',
   './llms.txt',
 ]
