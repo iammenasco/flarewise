@@ -1,0 +1,30 @@
+{
+  "id": "baked-potato-and-cheddar-cheese-soup",
+  "name": "Baked Potato & Cheddar Cheese Soup",
+  "categoryFolder": "dinner",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "cheese",
+    "soup"
+  ],
+  "searchKeywords": [
+    "potato-cheese-soup"
+  ],
+  "whyItWorks": "Filling and warm.",
+  "prepOrOrderInstructions": "Serve hot."
+}
