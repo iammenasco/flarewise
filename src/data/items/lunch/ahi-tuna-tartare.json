@@ -1,0 +1,32 @@
+{
+  "name": "Ahi Tuna Tartare",
+  "categoryFolder": "lunch",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 2,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "tuna",
+    "fish",
+    "raw"
+  ],
+  "searchKeywords": [
+    "ahi",
+    "tuna",
+    "tartare"
+  ],
+  "whyItWorks": "High protein and easily digestible, though watch for citrus/acid.",
+  "prepOrOrderInstructions": "Ensure fish is fresh and properly chilled.",
+  "id": "ahi-tuna-tartare"
+}
