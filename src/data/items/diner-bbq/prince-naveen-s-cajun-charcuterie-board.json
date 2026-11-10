@@ -1,0 +1,34 @@
+{
+  "name": "Prince Naveen's Cajun Charcuterie Board",
+  "categoryFolder": "diner-bbq",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 2,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "charcuterie",
+    "pork",
+    "cheese",
+    "cured"
+  ],
+  "searchKeywords": [
+    "charcuterie",
+    "pork",
+    "duck"
+  ],
+  "whyItWorks": "High protein, but higher risk due to processed meats and cheese.",
+  "prepOrOrderInstructions": "Monitor portion sizes and cheese/meat variety.",
+  "id": "prince-naveen-s-cajun-charcuterie-board"
+}
