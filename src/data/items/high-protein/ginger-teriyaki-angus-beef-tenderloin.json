@@ -1,0 +1,30 @@
+{
+  "id": "ginger-teriyaki-angus-beef-tenderloin",
+  "name": "Ginger-Teriyaki Dusted Angus Beef Tenderloin",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 2,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "beef",
+    "tenderloin",
+    "ginger",
+    "teriyaki"
+  ],
+  "searchKeywords": [
+    "teriyaki-beef"
+  ],
+  "whyItWorks": "High protein source.",
+  "prepOrOrderInstructions": "Serve warm."
+}
