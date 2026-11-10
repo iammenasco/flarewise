@@ -1,0 +1,29 @@
+{
+  "id": "creamy-butternut-squash-soup",
+  "name": "Creamy Butternut Squash Soup",
+  "categoryFolder": "dinner",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "butternut-squash"
+  ],
+  "searchKeywords": [
+    "butternut-squash-soup"
+  ],
+  "whyItWorks": "Warm and soothing.",
+  "prepOrOrderInstructions": "Serve warm."
+}
