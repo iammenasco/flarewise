@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T13:04:26.673Z",
-  "itemCount": 1386,
+  "builtAt": "2026-11-11T13:59:12.710Z",
+  "itemCount": 1373,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -21167,44 +21167,6 @@
       "_sourcePath": "src/data/items/italian-med/gourmandise-draper-butternut-squash-pasta-salmon.json"
     },
     {
-      "id": "codys-gastro-garage-garden-city-grilled-chicken-brioche",
-      "name": "Grilled Chicken Breast Sandwich on Toasted Brioche",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City, UT)",
-      "crohnsScore": 8.2,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.1,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "bear-lake",
-        "garden-city",
-        "chicken-sandwich",
-        "comfort-food"
-      ],
-      "searchKeywords": [
-        "codys gastro garage",
-        "grilled chicken sandwich",
-        "brioche bun",
-        "bear lake"
-      ],
-      "whyItWorks": "Tender, boneless chicken breast grilled cleanly without heavy blackening spices served on a soft bakery brioche bun provides lean bioavailable protein that is gentle on sensitive intestinal lining.",
-      "prepOrOrderInstructions": "Order the chicken sandwich plain with meat and bun only. Skip bacon, house garage sauce, raw onions, and pickles. Pair with a side of white toast or applesauce.",
-      "_sourcePath": "src/data/items/lunch/codys-gastro-garage-garden-city-grilled-chicken-brioche.json"
-    },
-    {
       "id": "le-nonne-logan-gnocchi-al-pomodoro",
       "name": "Handmade Potato Gnocchi with Mild Pomodoro Sauce",
       "categoryFolder": "italian-med",
@@ -28838,47 +28800,6 @@
       "_sourcePath": "src/data/items/diner-bbq/chom-burger-utah-lil-chom-cheddar-burger.json"
     },
     {
-      "id": "codys-gastro-garage-bear-lake-classic-breakfast-burrito",
-      "name": "Cody's Gastro Garage (Garden City, UT) Classic Breakfast Burrito (Salsa on Side)",
-      "categoryFolder": "breakfast",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 7.8,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "breakfast",
-        "takeout"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2.5,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "breakfast",
-        "burrito",
-        "eggs"
-      ],
-      "searchKeywords": [
-        "codys breakfast burrito",
-        "bear lake breakfast burrito",
-        "garden city eggs burrito"
-      ],
-      "whyItWorks": "A staple morning meal at Bear Lake. Scrambled eggs, diced ham or bacon, and breakfast potatoes wrapped in a soft flour tortilla digest smoothly.",
-      "prepOrOrderInstructions": "Order the Breakfast Burrito with diced ham, scrambled eggs, and potatoes; ask for salsa on the side.",
-      "watchOuts": [
-        "Salsa served on side lets you control acidity"
-      ],
-      "_sourcePath": "src/data/items/breakfast/codys-gastro-garage-bear-lake-classic-breakfast-burrito.json"
-    },
-    {
       "id": "costa-vida-draper-herriman-logan-sweet-pork-naked-bowl-white-rice",
       "name": "Costa Vida (Draper / Herriman / Orem / Logan) Grilled Chicken or Sweet Pork Bowl (Cilantro-Free Rice, No Beans/Lime)",
       "categoryFolder": "mexican-southwest",
@@ -30296,90 +30217,6 @@
       "whyItWorks": "Grilled marinated flank steak diced tender and served on double warm soft corn tortillas provides clean, dairy-free iron and protein without greasy deep-frying.",
       "prepOrOrderInstructions": "Ask for tacos plain with meat and corn tortillas only. Skip spicy salsa and cilantro-onion relish.",
       "_sourcePath": "src/data/items/mexican-southwest/dca-cocina-cucamonga-carne-asada-tacos.json"
-    },
-    {
-      "id": "codys-gastro-garage-bear-lake-bbq-chicken-flatbread",
-      "name": "Cody's Gastro Garage (Garden City, UT) BBQ Chicken Flatbread Pizza (Hold Red Onion)",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 7.7,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "flatbread",
-        "pizza",
-        "chicken"
-      ],
-      "searchKeywords": [
-        "codys flatbread pizza",
-        "bbq chicken flatbread bear lake",
-        "garden city flatbread"
-      ],
-      "whyItWorks": "Thin, crispy artisan flatbread topped with grilled chicken breast, mild mozzarella, and sweet BBQ sauce. Lighter than deep-dish crust.",
-      "prepOrOrderInstructions": "Order the BBQ Chicken Flatbread with no red onions.",
-      "watchOuts": [
-        "Hold red onions to eliminate allium fructan gas"
-      ],
-      "_sourcePath": "src/data/items/lunch/codys-gastro-garage-bear-lake-bbq-chicken-flatbread.json"
-    },
-    {
-      "id": "codys-gastro-garage-bear-lake-philly-cheesesteak",
-      "name": "Cody's Gastro Garage (Garden City, UT) Shaved Ribeye Philly Cheesesteak (Hold Peppers Mod)",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 7.7,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "beef",
-        "cheesesteak",
-        "sandwich"
-      ],
-      "searchKeywords": [
-        "codys philly cheesesteak",
-        "bear lake cheesesteak",
-        "garden city shaved ribeye"
-      ],
-      "whyItWorks": "Thinly shaved tender ribeye steak with melted provolone cheese on a soft hoagie roll. Holding grilled peppers eliminates gas-inducing fibers.",
-      "prepOrOrderInstructions": "Order the Philly Cheesesteak with melted provolone on a soft roll; ask to hold grilled bell peppers and raw onions.",
-      "watchOuts": [
-        "Hold bell peppers and onions to prevent gas and bloating"
-      ],
-      "_sourcePath": "src/data/items/lunch/codys-gastro-garage-bear-lake-philly-cheesesteak.json"
     },
     {
       "id": "costco-food-court-all-beef-hot-dog",
@@ -31841,47 +31678,6 @@
       "whyItWorks": "Slow braising breaks beef short rib connective fibers until it falls apart on the fork without effort. The smooth polenta provides gentle starch without skin or seeds.",
       "prepOrOrderInstructions": "Trim any visible ribbon of soft fat from the meat before eating. Ask for polenta made with light butter if lactose sensitive.",
       "_sourcePath": "src/data/items/dinner/disneyland-cafe-orleans-braised-beef-short-rib.json"
-    },
-    {
-      "id": "codys-gastro-garage-bear-lake-cod-fish-and-chips-basket",
-      "name": "Cody's Gastro Garage (Garden City, UT) Golden Fried Pacific Cod Fish & Chips",
-      "categoryFolder": "dinner",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 7.6,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "seafood",
-        "fish"
-      ],
-      "searchKeywords": [
-        "codys fish and chips",
-        "bear lake fried cod",
-        "garden city seafood basket"
-      ],
-      "whyItWorks": "Flaky Pacific cod fillets are naturally lean, low-residue, and gentle on digestion. The fried coating is light and crispy in remission.",
-      "prepOrOrderInstructions": "Order the Fish & Chips basket with tartar sauce on the side and a lemon wedge on the side (discard lemon).",
-      "watchOuts": [
-        "Peel off outer batter if feeling sensitive to frying oil"
-      ],
-      "_sourcePath": "src/data/items/dinner/codys-gastro-garage-bear-lake-cod-fish-and-chips-basket.json"
     },
     {
       "id": "dans-drive-in-montpelier-double-cheeseburger",
@@ -34066,126 +33862,6 @@
         "Dairy in cake/whipped cream"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/rapunzels-sacher-torte.json"
-    },
-    {
-      "id": "codys-gastro-garage-bear-lake-carne-asada-breakfast-quesadilla",
-      "name": "Cody's Gastro Garage (Garden City, UT) Carne Asada Breakfast Quesadilla (Mild Mod)",
-      "categoryFolder": "breakfast",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 7.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "breakfast"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "breakfast",
-        "quesadilla",
-        "beef"
-      ],
-      "searchKeywords": [
-        "codys breakfast quesadilla",
-        "carne asada quesadilla bear lake",
-        "garden city breakfast"
-      ],
-      "whyItWorks": "Fluffy scrambled eggs, tender skirt steak (carne asada), and melted cheese folded in a griddled flour tortilla. Hearty high-protein morning meal.",
-      "prepOrOrderInstructions": "Order the Carne Asada Breakfast Quesadilla with salsa on the side (hold pickled jalapeños).",
-      "watchOuts": [
-        "Hold pickled jalapeños and spicy salsa"
-      ],
-      "_sourcePath": "src/data/items/breakfast/codys-gastro-garage-bear-lake-carne-asada-breakfast-quesadilla.json"
-    },
-    {
-      "id": "codys-gastro-garage-slow-roasted-pork-burger",
-      "name": "Cody's Gastro Garage (Garden City) Plain Burger or Slow-Roasted Pulled Pork",
-      "categoryFolder": "diner-bbq",
-      "brandOrRestaurant": "Cody's Gastro Garage (Water's Edge Resort · Garden City / Bear Lake, UT)",
-      "crohnsScore": 7.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "beef",
-        "pork",
-        "burger",
-        "sandwich",
-        "bear-lake",
-        "garden-city",
-        "utah"
-      ],
-      "searchKeywords": [
-        "codys gastro garage",
-        "gastro garage bear lake",
-        "waters edge garden city"
-      ],
-      "whyItWorks": "Hot-rod gastropub at Water's Edge Resort offering tender slow-roasted pork sandwiches, grilled chicken, and burgers that can be ordered plain on a soft bun.",
-      "prepOrOrderInstructions": "Order a plain Cheeseburger or Slow-Roasted Pork Sandwich with sauce on the side—strictly avoid the \"Hellcat Jalapeño Burger\" and spicy wings.",
-      "watchOuts": [
-        "Avoid the Hellcat Jalapeño Burger and buffalo wings"
-      ],
-      "_sourcePath": "src/data/items/diner-bbq/codys-gastro-garage-slow-roasted-pork-burger.json"
-    },
-    {
-      "id": "codys-gastro-garage-pulled-pork-sliders-plain",
-      "name": "Cody's Gastro Garage Slow-Smoked Pulled Pork or Plain Burger Sliders",
-      "categoryFolder": "diner-bbq",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 7.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "pork",
-        "beef",
-        "burger",
-        "bear-lake",
-        "utah"
-      ],
-      "searchKeywords": [
-        "codys gastro garage sliders",
-        "garden city pulled pork",
-        "bear lake pub food"
-      ],
-      "whyItWorks": "Smaller slider portions on soft Hawaiian/brioche rolls let you keep meal volume and fat load modest while dining out with a group at Cody's.",
-      "prepOrOrderInstructions": "Order the Beef or Pulled Pork Sliders plain with cheddar cheese on the soft rolls—ask for BBQ sauce, coleslaw, and crispy onions on the side or omitted.",
-      "watchOuts": [
-        "Skip jalapeno poppers, buffalo wings, and raw cabbage slaw"
-      ],
-      "_sourcePath": "src/data/items/diner-bbq/codys-gastro-garage-pulled-pork-sliders-plain.json"
     },
     {
       "id": "cookies-and-cream-sundae-animators",
@@ -40134,46 +39810,6 @@
       "_sourcePath": "src/data/items/snacks-desserts/aggie-ice-cream-usu-logan-salted-caramel-truffle.json"
     },
     {
-      "id": "codys-gastro-garage-bear-lake-buttermilk-biscuits-and-gravy",
-      "name": "Cody's Gastro Garage (Garden City, UT) Warm Buttermilk Biscuits with Sausage Country Gravy",
-      "categoryFolder": "breakfast",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 7.2,
-      "safetyTier": "remission-road",
-      "mealTypes": [
-        "breakfast"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "breakfast",
-        "biscuits",
-        "gravy"
-      ],
-      "searchKeywords": [
-        "codys biscuits and gravy",
-        "bear lake breakfast biscuits",
-        "garden city country breakfast"
-      ],
-      "whyItWorks": "Soft, doughy biscuits smothered in creamy country sausage gravy provide easily chewed, comforting calories before heading out on the water.",
-      "prepOrOrderInstructions": "Order Biscuits & Gravy with two scrambled eggs; request gravy light or on the side to manage fat intake.",
-      "watchOuts": [
-        "Sausage grease and dairy cream in gravy can speed transit during active flare periods"
-      ],
-      "_sourcePath": "src/data/items/breakfast/codys-gastro-garage-bear-lake-buttermilk-biscuits-and-gravy.json"
-    },
-    {
       "id": "costco-bakery-tuxedo-cake-muffins",
       "name": "Costco Kirkland Bakery Giant Corn, Blueberry or Double Chocolate Muffin (Half Portion)",
       "categoryFolder": "snacks-desserts",
@@ -42043,48 +41679,6 @@
       "whyItWorks": "A fresh ground beef patty seared on the flat top with melted Swiss cheese on toasted sourdough provides hearty protein and simple fermented carbs. Swiss cheese is low in lactose.",
       "prepOrOrderInstructions": "Crucial order note: Request NO grilled onions and light butter on the sourdough to protect sensitive digestion.",
       "_sourcePath": "src/data/items/lunch/angies-restaurant-logan-sourdough-patty-melt.json"
-    },
-    {
-      "id": "codys-gastro-garage-bear-lake-giant-cinnamon-roll",
-      "name": "Cody's Gastro Garage (Garden City, UT) Giant \"Head-Sized\" Warm Cinnamon Roll",
-      "categoryFolder": "breakfast",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 7,
-      "safetyTier": "remission-road",
-      "mealTypes": [
-        "breakfast",
-        "dessert",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "breakfast",
-        "pastry",
-        "cinnamon-roll"
-      ],
-      "searchKeywords": [
-        "codys giant cinnamon roll",
-        "bear lake huge cinnamon roll",
-        "garden city breakfast pastry"
-      ],
-      "whyItWorks": "Famous across Bear Lake for being 'as large as your head'! Completely seed-free and soft yeast dough. Share it among 2-3 people to enjoy the comforting flavor without an overwhelming sugar rush.",
-      "prepOrOrderInstructions": "Order the Giant Cinnamon Roll warm with cream cheese frosting on the side so you can regulate the richness.",
-      "watchOuts": [
-        "Enormous portion: split with tablemates to prevent sugar-induced diarrhea"
-      ],
-      "_sourcePath": "src/data/items/breakfast/codys-gastro-garage-bear-lake-giant-cinnamon-roll.json"
     },
     {
       "id": "costco-food-court-all-beef-hot-dog-cheese-pizza",
@@ -53382,48 +52976,6 @@
       "_sourcePath": "src/data/items/lunch/dans-drive-in-montpelier-corn-dog-warning.json"
     },
     {
-      "id": "codys-gastro-garage-bear-lake-unbelievable-burger-warning",
-      "name": "Cody's Gastro Garage (Garden City, UT) \"The Unbelievable Burger\" (Massive Grease Warning)",
-      "categoryFolder": "diner-bbq",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 4.8,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 3,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 3,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "beef",
-        "burger",
-        "grease",
-        "trigger-warning"
-      ],
-      "searchKeywords": [
-        "codys unbelievable burger",
-        "massive burger bear lake",
-        "triple bacon burger codys"
-      ],
-      "whyItWorks": "Massive specialty burger loaded with multiple smash patties, bacon, fried onion strings, and barbecue sauce. Excessive fat and volume overload cause severe cramping.",
-      "prepOrOrderInstructions": "Trigger warning item: avoid during active disease. Choose a single plain garage smash burger instead.",
-      "watchOuts": [
-        "Extreme fat volume and fried onion straws trigger severe digestive distress"
-      ],
-      "_sourcePath": "src/data/items/diner-bbq/codys-gastro-garage-bear-lake-unbelievable-burger-warning.json"
-    },
-    {
       "id": "dans-drive-in-montpelier-beer-battered-onion-rings-warning",
       "name": "Dan's Drive-In (Montpelier, ID) Large Beer-Battered Onion Rings (High FODMAP Warning)",
       "categoryFolder": "produce-sides",
@@ -53872,50 +53424,6 @@
         "Whole bean skins and chili spices cause severe abdominal pain and bloating"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/dca-cozy-cone-motel-chili-cone-queso-warning.json"
-    },
-    {
-      "id": "codys-gastro-garage-bear-lake-nacho-saurus-warning",
-      "name": "Cody's Gastro Garage (Garden City, UT) \"Nacho-Saurus\" Loaded Nachos (High Risk Warning)",
-      "categoryFolder": "mexican-southwest",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
-      "crohnsScore": 4.6,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 8,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "nachos",
-        "spicy",
-        "chips",
-        "trigger-warning"
-      ],
-      "searchKeywords": [
-        "codys nacho saurus",
-        "loaded nachos bear lake",
-        "giant nachos garden city"
-      ],
-      "whyItWorks": "Loaded with hard fried corn tortilla chips, pickled jalapeño slices, spicy chili, whole beans, and melted cheese sauce. Severe obstruction and irritation hazard.",
-      "prepOrOrderInstructions": "Trigger warning item: absolute avoid during flares and strictures. Choose a flatbread pizza or grilled chicken sandwich instead.",
-      "watchOuts": [
-        "Sharp tortilla chip fragments can scrape inflamed strictures",
-        "Pickled jalapeños cause severe burning"
-      ],
-      "_sourcePath": "src/data/items/mexican-southwest/codys-gastro-garage-bear-lake-nacho-saurus-warning.json"
     },
     {
       "id": "knotts-sutters-boysenberry-funnel-cake-warning",
@@ -56529,46 +56037,6 @@
       "whyItWorks": "Batter poured straight into a deep-fat fryer creates a web of crispy pastry that acts like a sponge for hot frying oil, topped with refined sugar. It frequently provokes acute dumping syndrome and bowel distress.",
       "prepOrOrderInstructions": "Extreme Grease Warning: Share a single forkful if in stable remission, or skip entirely in favor of a soft Mickey pretzel.",
       "_sourcePath": "src/data/items/snacks-desserts/disneyland-stage-door-funnel-cake-warning.json"
-    },
-    {
-      "id": "codys-gastro-garage-garden-city-bacon-cheddar-burger-warning",
-      "name": "The Piston Bacon Cheddar Burger with Onion Rings",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Cody's Gastro Garage (Garden City, UT)",
-      "crohnsScore": 3.5,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 3.2,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "bear-lake",
-        "garden-city",
-        "burger",
-        "high-fat",
-        "danger-food"
-      ],
-      "searchKeywords": [
-        "codys gastro garage",
-        "piston burger",
-        "bacon cheeseburger",
-        "onion rings",
-        "bear lake"
-      ],
-      "whyItWorks": "Thick ground beef topped with smoked bacon strips, melted cheddar cheese, sweet BBQ sauce, and towering battered deep-fried onion rings. Heavy grease, alliums, and dairy trigger acute gut irritation.",
-      "prepOrOrderInstructions": "Grease & Allium Warning: Avoid during flares. Order a plain grilled chicken sandwich or plain single hamburger without onion rings.",
-      "_sourcePath": "src/data/items/lunch/codys-gastro-garage-garden-city-bacon-cheddar-burger-warning.json"
     },
     {
       "id": "pirate-night-tia-dalmas-jerk-chicken",
