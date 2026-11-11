@@ -1,0 +1,37 @@
+{
+  "id": "panda-express-steamed-white-rice-entree",
+  "name": "Panda Express Steamed White Rice (Side / Bowl Base)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Panda Express",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "steamed-white-rice",
+    "zero-fiber",
+    "dairy-free",
+    "gluten-free-friendly",
+    "ultimate-safe-carb"
+  ],
+  "searchKeywords": [
+    "panda express white rice",
+    "steamed rice panda",
+    "safe mall food",
+    "safe airport food"
+  ],
+  "whyItWorks": "Pure, plain steamed long-grain white rice prepared with water only. Zero added oils, zero garlic, zero onion, zero dairy, and zero citrus. Available at virtually every airport, mall, and roadside travel plaza across the country.",
+  "prepOrOrderInstructions": "Order a large or medium carton of \"Steamed White Rice.\" Ask them not to pour any sauce over it.",
+  "safetyTier": "flare-safe"
+}

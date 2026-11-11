@@ -1,0 +1,35 @@
+{
+  "id": "starbucks-iced-lemon-loaf-warning",
+  "name": "Starbucks Iced Lemon Loaf Cake (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Starbucks",
+  "crohnsScore": 3.8,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "citrus-lemon-oil",
+    "high-sugar",
+    "high-saturated-fat",
+    "acid-reflux"
+  ],
+  "searchKeywords": [
+    "starbucks lemon loaf",
+    "lemon cake warning",
+    "citrus dessert"
+  ],
+  "whyItWorks": "Packed with concentrated lemon oil, lemon zest extract, 470 calories, 20g fat, and 42g refined sugar. The intense citrus acid and heavy fat combo provokes sharp upper GI reflux and intestinal spasms.",
+  "prepOrOrderInstructions": "AVOID during active flares. Choose the Marshmallow Dream Bar instead.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chick-fil-a-chicken-noodle-soup",
+  "name": "Chick-fil-A Chicken Noodle Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Chick-fil-A",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "comfort-food",
+    "shredded-chicken",
+    "broth",
+    "road-trip-safe"
+  ],
+  "searchKeywords": [
+    "chick fil a soup",
+    "cfa chicken noodle",
+    "fast food soup",
+    "flare safe soup"
+  ],
+  "whyItWorks": "A classic road-trip soothing bowl made with tender shredded chicken breast, soft egg noodles, and diced carrots simmered in chicken broth. Gentle on an irritated digestive tract and easily digested.",
+  "prepOrOrderInstructions": "Ask for a bowl with a spoon. Skip the saltine crackers if sensitive to gluten, or crush a few into the broth.",
+  "safetyTier": "low-risk"
+}

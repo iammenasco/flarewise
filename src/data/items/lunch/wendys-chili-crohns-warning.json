@@ -1,0 +1,38 @@
+{
+  "id": "wendys-chili-crohns-warning",
+  "name": "Wendy's Chili (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Wendy's",
+  "crohnsScore": 2.9,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 7,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "high-fodmap",
+    "beans-warning",
+    "chili-peppers",
+    "gas-explosion",
+    "stricture-hazard"
+  ],
+  "searchKeywords": [
+    "wendys chili",
+    "fast food chili warning",
+    "beans crohns trigger",
+    "chili gas"
+  ],
+  "whyItWorks": "Contains red kidney beans and pinto beans loaded with insoluble skins and fermentable oligosaccharides, simmered with diced onions, garlic, green peppers, chili powder, and greasy burger trimmings. A notorious cause of severe cramps, bloating, and painful bowel obstruction.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. One of the highest-risk items on any fast-food menu for inflammatory bowel disease.",
+  "safetyTier": "danger-zone"
+}

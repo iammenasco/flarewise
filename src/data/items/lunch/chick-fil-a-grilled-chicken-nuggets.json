@@ -1,0 +1,39 @@
+{
+  "id": "chick-fil-a-grilled-chicken-nuggets",
+  "name": "Chick-fil-A Grilled Nuggets (8 or 12 count)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Chick-fil-A",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "grilled-poultry",
+    "high-protein",
+    "dairy-free",
+    "gluten-free",
+    "drive-thru-staple"
+  ],
+  "searchKeywords": [
+    "chick fil a",
+    "grilled nuggets",
+    "cfa grilled chicken",
+    "fast food flare safe",
+    "clean chicken"
+  ],
+  "whyItWorks": "Bite-sized boneless chicken breast grilled with a mild herb seasoning rather than deep-fried in peanut oil with heavy wheat batter. Delivers 25g pure protein, 1g fat, zero dairy, and zero insoluble fiber.",
+  "prepOrOrderInstructions": "Order standard 8 or 12 count grilled nuggets. Request no dipping sauce or dip lightly in honey or yellow mustard rather than garlic-rich CFA sauce or spicy sriracha.",
+  "safetyTier": "low-risk"
+}

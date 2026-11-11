@@ -1,0 +1,38 @@
+{
+  "id": "taco-bell-bean-burrito-with-onions-warning",
+  "name": "Taco Bell Bean Burrito with Onions & Red Sauce (WARNING)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Taco Bell",
+  "crohnsScore": 2.1,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 11,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "refried-beans",
+    "raw-diced-onions",
+    "red-chili-sauce",
+    "severe-gas",
+    "obstruction-risk"
+  ],
+  "searchKeywords": [
+    "taco bell bean burrito",
+    "refried beans warning",
+    "taco bell gas",
+    "crohns disaster food"
+  ],
+  "whyItWorks": "Delivers 11g of fiber predominantly from refried pinto beans, topped with raw diced onions (concentrated fructans) and spicy chili red sauce. Produces massive bowel distention, violent cramping, and explosive diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. One of the single most dangerous fast-food items for inflammatory bowel disease.",
+  "safetyTier": "danger-zone"
+}

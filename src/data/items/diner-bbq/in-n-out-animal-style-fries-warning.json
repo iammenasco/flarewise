@@ -1,0 +1,39 @@
+{
+  "id": "in-n-out-animal-style-fries-warning",
+  "name": "In-N-Out Animal Style Fries (WARNING)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "In-N-Out Burger",
+  "crohnsScore": 3.4,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "animal-style",
+    "grilled-onions",
+    "high-fat",
+    "fodmap-bomb",
+    "spread"
+  ],
+  "searchKeywords": [
+    "in n out animal style",
+    "animal style fries warning",
+    "grilled onions crohns",
+    "grease bomb"
+  ],
+  "whyItWorks": "Fresh-cut potato fries smothered in two melted cheese slices, sweet caramelized grilled onions (immense prebiotic fructan dose!), and Thousand Island spread (oil, relish, pickles). A catastrophic trigger for severe gas, bloating, and painful cramps.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. If craving In-N-Out fries, order standard fries lightly salted, or stick to a plain burger.",
+  "safetyTier": "danger-zone"
+}

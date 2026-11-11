@@ -1,0 +1,37 @@
+{
+  "id": "wendys-plain-baked-potato-no-skin",
+  "name": "Wendy's Plain Baked Potato (Flesh Only)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Wendy's",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "baked-potato",
+    "low-residue",
+    "dairy-free",
+    "pure-starch",
+    "road-trip-lifesaver"
+  ],
+  "searchKeywords": [
+    "wendys baked potato",
+    "plain baked potato drive thru",
+    "fast food potato",
+    "flare safe fast food"
+  ],
+  "whyItWorks": "A true road trip lifesaver for IBD patients across North America! A steaming hot, oven-baked Idaho russet potato served plain with zero butter, dairy, or bacon. The fluffy interior flesh is 100% gentle starch and potassium that calms inflamed bowels.",
+  "prepOrOrderInstructions": "Order \"One Plain Baked Potato, nothing on it.\" Slit open the top, scoop out the soft white potato flesh with a fork, and DISCARD the fibrous outer skin entirely.",
+  "safetyTier": "flare-safe"
+}

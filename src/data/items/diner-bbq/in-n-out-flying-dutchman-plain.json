@@ -1,0 +1,37 @@
+{
+  "id": "in-n-out-flying-dutchman-plain",
+  "name": "In-N-Out Burger \"Flying Dutchman\" (Plain Meat & Cheese)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "In-N-Out Burger",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "flying-dutchman",
+    "zero-fiber",
+    "zero-carb",
+    "100-beef",
+    "keto-friendly"
+  ],
+  "searchKeywords": [
+    "in n out flying dutchman",
+    "flying dutchman plain",
+    "in n out no bun",
+    "low residue fast food"
+  ],
+  "whyItWorks": "Two fresh 100% ground beef patties (additive-free, ground in In-N-Out's own facilities) grilled plain with two slices of American cheese in between. Contains ZERO bread, ZERO seeds, ZERO fiber, and zero onion/spread irritants.",
+  "prepOrOrderInstructions": "Order at drive-thru: \"Flying Dutchman, plain, no grilled onions, no spread, salt only.\" If lactose-sensitive, ask for \"No cheese - just two plain beef patties in a box.\"",
+  "safetyTier": "low-risk"
+}

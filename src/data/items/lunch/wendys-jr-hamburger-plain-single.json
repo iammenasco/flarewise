@@ -1,0 +1,36 @@
+{
+  "id": "wendys-jr-hamburger-plain-single",
+  "name": "Wendy's Jr. Hamburger (Plain on White Bun)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Wendy's",
+  "crohnsScore": 7.9,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fresh-beef",
+    "plain-burger",
+    "dairy-free",
+    "drive-thru-emergency"
+  ],
+  "searchKeywords": [
+    "wendys jr hamburger",
+    "wendys plain burger",
+    "cheap flare safe burger",
+    "fresh beef patty"
+  ],
+  "whyItWorks": "Wendy's uses 100% fresh, never-frozen North American beef grilled without added marinades or fillers. Served plain on a soft white sandwich bun, it provides easy animal protein with zero dairy, onions, or spices.",
+  "prepOrOrderInstructions": "Order at the drive-thru: \"Jr. Hamburger, totally PLAIN—meat and bun only. No pickles, no onions, no ketchup, no mustard.\"",
+  "safetyTier": "low-risk"
+}

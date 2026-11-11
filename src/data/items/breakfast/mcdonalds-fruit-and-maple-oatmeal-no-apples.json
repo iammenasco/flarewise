@@ -1,0 +1,35 @@
+{
+  "id": "mcdonalds-fruit-and-maple-oatmeal-no-apples",
+  "name": "McDonald's Fruit & Maple Oatmeal (Plain, No Cranberries)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "McDonald's",
+  "crohnsScore": 8.1,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warm-oatmeal",
+    "soluble-fiber",
+    "breakfast",
+    "hearty",
+    "dairy-free-option"
+  ],
+  "searchKeywords": [
+    "mcdonalds oatmeal",
+    "fruit and maple oatmeal",
+    "hot breakfast drive thru"
+  ],
+  "whyItWorks": "Whole grain rolled oats cooked with hot water and light cream (or water upon request). Rich in soothing soluble beta-glucan fiber that forms a gentle mucosal gel, bulking watery stools without abrasive roughness.",
+  "prepOrOrderInstructions": "Order Fruit & Maple Oatmeal, asking to HOLD the dried cranberries and raisins (which present stricture risks). Stir in diced apples if tolerated.",
+  "safetyTier": "low-risk"
+}

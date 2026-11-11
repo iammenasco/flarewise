@@ -1,0 +1,37 @@
+{
+  "id": "taco-bell-cheesy-roll-up",
+  "name": "Taco Bell Cheesy Roll-Up",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Taco Bell",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheesy-roll-up",
+    "soft-flour-tortilla",
+    "zero-spice",
+    "budget-snack",
+    "drive-thru"
+  ],
+  "searchKeywords": [
+    "taco bell cheesy roll up",
+    "cheesy roll up",
+    "taco bell flare safe",
+    "non spicy taco bell"
+  ],
+  "whyItWorks": "A warm, soft flour tortilla rolled around melted three-cheese blend (cheddar, mozzarella, and pepper jack in tiny proportion). Completely free from hot peppers, onions, beans, crunchy shells, or greasy beef.",
+  "prepOrOrderInstructions": "Order: \"Cheesy Roll-Up, no sauce, nothing extra.\" A simple, gentle emergency road snack.",
+  "safetyTier": "low-risk"
+}

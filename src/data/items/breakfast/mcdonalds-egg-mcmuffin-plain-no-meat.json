@@ -1,0 +1,34 @@
+{
+  "id": "mcdonalds-egg-mcmuffin-plain-no-meat",
+  "name": "McDonald's Egg McMuffin (No Canadian Bacon / Plain)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "McDonald's",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "breakfast-sandwich",
+    "fresh-egg",
+    "english-muffin",
+    "easy-protein"
+  ],
+  "searchKeywords": [
+    "mcdonalds egg mcmuffin",
+    "egg mcmuffin plain",
+    "mcdonalds breakfast"
+  ],
+  "whyItWorks": "Uses a real Grade A egg freshly cracked into a circular cooking ring on the grill. Served on a toasted English muffin with light butter or American cheese, avoiding greasy pork sausages or processed bacon.",
+  "prepOrOrderInstructions": "Order an Egg McMuffin without Canadian bacon. If lactose intolerant, ask for \"No cheese\" as well.",
+  "safetyTier": "low-risk"
+}

@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T18:21:18.539Z",
-  "itemCount": 1708,
+  "builtAt": "2026-11-11T18:23:31.740Z",
+  "itemCount": 1743,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -3417,6 +3417,44 @@
       "_sourcePath": "src/data/items/dinner/pan-seared-salmon-cheddar-polenta.json"
     },
     {
+      "id": "panda-express-steamed-white-rice-entree",
+      "name": "Panda Express Steamed White Rice (Side / Bowl Base)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Panda Express",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Chinese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "steamed-white-rice",
+        "zero-fiber",
+        "dairy-free",
+        "gluten-free-friendly",
+        "ultimate-safe-carb"
+      ],
+      "searchKeywords": [
+        "panda express white rice",
+        "steamed rice panda",
+        "safe mall food",
+        "safe airport food"
+      ],
+      "whyItWorks": "Pure, plain steamed long-grain white rice prepared with water only. Zero added oils, zero garlic, zero onion, zero dairy, and zero citrus. Available at virtually every airport, mall, and roadside travel plaza across the country.",
+      "prepOrOrderInstructions": "Order a large or medium carton of \"Steamed White Rice.\" Ask them not to pour any sauce over it.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/panda-express-steamed-white-rice-entree.json"
+    },
+    {
       "id": "pirates-booty-chesters-puffcorn",
       "name": "Pirate's Booty or Chester's Butter Puffcorn",
       "categoryFolder": "snacks-desserts",
@@ -5668,6 +5706,44 @@
         "None; pristine flare-safe Japanese seafood entree"
       ],
       "_sourcePath": "src/data/items/asian-indian/takara-sushi-logan-grilled-hamachi-kama.json"
+    },
+    {
+      "id": "wendys-plain-baked-potato-no-skin",
+      "name": "Wendy's Plain Baked Potato (Flesh Only)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Wendy's",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "baked-potato",
+        "low-residue",
+        "dairy-free",
+        "pure-starch",
+        "road-trip-lifesaver"
+      ],
+      "searchKeywords": [
+        "wendys baked potato",
+        "plain baked potato drive thru",
+        "fast food potato",
+        "flare safe fast food"
+      ],
+      "whyItWorks": "A true road trip lifesaver for IBD patients across North America! A steaming hot, oven-baked Idaho russet potato served plain with zero butter, dairy, or bacon. The fluffy interior flesh is 100% gentle starch and potassium that calms inflamed bowels.",
+      "prepOrOrderInstructions": "Order \"One Plain Baked Potato, nothing on it.\" Slit open the top, scoop out the soft white potato flesh with a fork, and DISCARD the fibrous outer skin entirely.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/wendys-plain-baked-potato-no-skin.json"
     },
     {
       "id": "fresh-bakery-angel-food-cake",
@@ -13847,6 +13923,42 @@
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-chicken-to-go-bucket-biscuits-soup.json"
     },
     {
+      "id": "starbucks-marshmallow-dream-bar",
+      "name": "Starbucks Marshmallow Dream Bar",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Starbucks",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "marshmallow-bar",
+        "crispy-rice",
+        "zero-fiber",
+        "gluten-free",
+        "airport-safe-snack"
+      ],
+      "searchKeywords": [
+        "starbucks marshmallow dream bar",
+        "rice krispie starbucks",
+        "airport snack flare safe"
+      ],
+      "whyItWorks": "Certified gluten-free crispy puffed rice cereal bound with marshmallow fluff and butter. Contains 0g fiber, zero seeds, zero nuts, and zero citrus. One of the safest sweet snacks when traveling through airports or interstate rest stops.",
+      "prepOrOrderInstructions": "Grab from the pastry case. Split in half if looking for a smaller sugar portion.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/starbucks-marshmallow-dream-bar.json"
+    },
+    {
       "id": "steamed-peeled-parsnips-puree",
       "name": "Steamed Peeled Parsnip Puree (Fork-Mashed)",
       "categoryFolder": "produce-sides",
@@ -14354,6 +14466,46 @@
         "Contains wheat and dairy; moderate fat content (8g) is safe for remission and mild recovery."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/cheez-it-original-baked-snack-crackers.json"
+    },
+    {
+      "id": "chick-fil-a-grilled-chicken-nuggets",
+      "name": "Chick-fil-A Grilled Nuggets (8 or 12 count)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Chick-fil-A",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "grilled-poultry",
+        "high-protein",
+        "dairy-free",
+        "gluten-free",
+        "drive-thru-staple"
+      ],
+      "searchKeywords": [
+        "chick fil a",
+        "grilled nuggets",
+        "cfa grilled chicken",
+        "fast food flare safe",
+        "clean chicken"
+      ],
+      "whyItWorks": "Bite-sized boneless chicken breast grilled with a mild herb seasoning rather than deep-fried in peanut oil with heavy wheat batter. Delivers 25g pure protein, 1g fat, zero dairy, and zero insoluble fiber.",
+      "prepOrOrderInstructions": "Order standard 8 or 12 count grilled nuggets. Request no dipping sauce or dip lightly in honey or yellow mustard rather than garlic-rich CFA sauce or spicy sriracha.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/chick-fil-a-grilled-chicken-nuggets.json"
     },
     {
       "id": "knotts-buena-park-claim-jumper-rotisserie-chicken-baked-potato",
@@ -16862,6 +17014,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/starburst-original-fruit-chews.json"
     },
     {
+      "id": "subway-oven-roasted-turkey-white-bread-plain",
+      "name": "Subway Oven-Roasted Turkey Breast on Artisan Italian White",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Subway",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "turkey-sub",
+        "italian-white-bread",
+        "lean-protein",
+        "dairy-free",
+        "customizable"
+      ],
+      "searchKeywords": [
+        "subway turkey",
+        "artisan italian subway",
+        "plain turkey sandwich",
+        "safe subway order"
+      ],
+      "whyItWorks": "Sliced lean oven-roasted turkey breast served on soft Artisan Italian white bread (refined white flour, low in fiber and seedless). Ordered plain or with light olive oil and salt, it is dairy-free, citrus-free, and remarkably soothing.",
+      "prepOrOrderInstructions": "Order: \"6-inch Turkey on Artisan Italian white bread. Not toasted. No cheese, no onions, no jalapeños, no peppers. Add light olive oil and a dash of oregano or salt.\"",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/subway-oven-roasted-turkey-white-bread-plain.json"
+    },
+    {
       "id": "thomas-cuisine-bamboohr-protein-snack-pack",
       "name": "Thomas2Go @ BambooHR (Lindon, UT) Grab-and-Go Hard-Boiled Egg & Cheddar Snack Pack",
       "categoryFolder": "high-protein",
@@ -17390,6 +17580,44 @@
         "Contains mild natural citric acid; avoid during acute gastritis or active flare-ups."
       ],
       "_sourcePath": "src/data/items/produce-sides/canned-mandarin-oranges-light-juice.json"
+    },
+    {
+      "id": "chick-fil-a-chicken-noodle-soup",
+      "name": "Chick-fil-A Chicken Noodle Soup",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Chick-fil-A",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "soup",
+        "comfort-food",
+        "shredded-chicken",
+        "broth",
+        "road-trip-safe"
+      ],
+      "searchKeywords": [
+        "chick fil a soup",
+        "cfa chicken noodle",
+        "fast food soup",
+        "flare safe soup"
+      ],
+      "whyItWorks": "A classic road-trip soothing bowl made with tender shredded chicken breast, soft egg noodles, and diced carrots simmered in chicken broth. Gentle on an irritated digestive tract and easily digested.",
+      "prepOrOrderInstructions": "Ask for a bowl with a spoon. Skip the saltine crackers if sensitive to gluten, or crush a few into the broth.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/chick-fil-a-chicken-noodle-soup.json"
     },
     {
       "id": "coopers-bear-lake-west-ny-strip-steak-potato",
@@ -18737,6 +18965,44 @@
         "Standard buttermilk batter and whipped butter contain dairy unless you request the dairy-free preparation; skip lemon curd or seedy berry compotes"
       ],
       "_sourcePath": "src/data/items/breakfast/stacked-logan-the-purist-pancakes.json"
+    },
+    {
+      "id": "taco-bell-cheesy-roll-up",
+      "name": "Taco Bell Cheesy Roll-Up",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Taco Bell",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "snack",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "cheesy-roll-up",
+        "soft-flour-tortilla",
+        "zero-spice",
+        "budget-snack",
+        "drive-thru"
+      ],
+      "searchKeywords": [
+        "taco bell cheesy roll up",
+        "cheesy roll up",
+        "taco bell flare safe",
+        "non spicy taco bell"
+      ],
+      "whyItWorks": "A warm, soft flour tortilla rolled around melted three-cheese blend (cheddar, mozzarella, and pepper jack in tiny proportion). Completely free from hot peppers, onions, beans, crunchy shells, or greasy beef.",
+      "prepOrOrderInstructions": "Order: \"Cheesy Roll-Up, no sauce, nothing extra.\" A simple, gentle emergency road snack.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/mexican-southwest/taco-bell-cheesy-roll-up.json"
     },
     {
       "id": "pesto-italian-kitchen-draper-herriman-fettuccine-grilled-chicken-marinara-free",
@@ -21114,6 +21380,44 @@
         "Skip heavy peppery sausage gravy on the biscuits if flaring"
       ],
       "_sourcePath": "src/data/items/breakfast/holiday-inn-express-herriman-one-touch-pancake-machine-eggs.json"
+    },
+    {
+      "id": "in-n-out-flying-dutchman-plain",
+      "name": "In-N-Out Burger \"Flying Dutchman\" (Plain Meat & Cheese)",
+      "categoryFolder": "diner-bbq",
+      "brandOrRestaurant": "In-N-Out Burger",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "flying-dutchman",
+        "zero-fiber",
+        "zero-carb",
+        "100-beef",
+        "keto-friendly"
+      ],
+      "searchKeywords": [
+        "in n out flying dutchman",
+        "flying dutchman plain",
+        "in n out no bun",
+        "low residue fast food"
+      ],
+      "whyItWorks": "Two fresh 100% ground beef patties (additive-free, ground in In-N-Out's own facilities) grilled plain with two slices of American cheese in between. Contains ZERO bread, ZERO seeds, ZERO fiber, and zero onion/spread irritants.",
+      "prepOrOrderInstructions": "Order at drive-thru: \"Flying Dutchman, plain, no grilled onions, no spread, salt only.\" If lactose-sensitive, ask for \"No cheese - just two plain beef patties in a box.\"",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/diner-bbq/in-n-out-flying-dutchman-plain.json"
     },
     {
       "id": "james-roasted-pork-tenderloin",
@@ -24210,6 +24514,42 @@
       "_sourcePath": "src/data/items/asian-indian/worlds-of-marvel-steamed-pork-bao-bun.json"
     },
     {
+      "id": "subway-rotisserie-style-chicken-sub",
+      "name": "Subway Rotisserie-Style Chicken on Italian White",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Subway",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rotisserie-chicken",
+        "tender-poultry",
+        "italian-white",
+        "high-protein"
+      ],
+      "searchKeywords": [
+        "subway rotisserie chicken",
+        "chicken sub subway",
+        "clean fast food chicken"
+      ],
+      "whyItWorks": "Tender hand-pulled white and dark chicken meat that is seasoned simply and heated. Soft and easy to chew without the tough fibrous texture of whole fried cuts.",
+      "prepOrOrderInstructions": "Ask for the chicken warmed on Artisan Italian bread. Skip all raw crunchy veggies during a flare, or add peeled cucumber slices in remission.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/subway-rotisserie-style-chicken-sub.json"
+    },
+    {
       "id": "freezing-the-night-away-svens-carrot-soup",
       "name": "Sven's Creamy Carrot Soup (Disney Wonder Alaska / Frozen Night)",
       "categoryFolder": "dinner",
@@ -25855,6 +26195,42 @@
       "_sourcePath": "src/data/items/dinner/holiday-slow-roasted-prime-rib-au-jus.json"
     },
     {
+      "id": "in-n-out-plain-hamburger-protein-style",
+      "name": "In-N-Out Burger Plain Hamburger (Standard Bun, Plain)",
+      "categoryFolder": "diner-bbq",
+      "brandOrRestaurant": "In-N-Out Burger",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "plain-hamburger",
+        "fresh-beef",
+        "dairy-free",
+        "drive-thru"
+      ],
+      "searchKeywords": [
+        "in n out plain hamburger",
+        "in n out burger plain",
+        "fresh beef fast food"
+      ],
+      "whyItWorks": "Made with a fresh 100% chuck patty grilled to order and served on an old-fashioned toasted sponge-dough white bun. Ordered plain, it has zero dairy, zero onion fructans, zero tomato acid, and zero pickle seeds.",
+      "prepOrOrderInstructions": "Order: \"Hamburger, plain: meat and bun only. No spread, no lettuce, no tomato, no onion.\"",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/diner-bbq/in-n-out-plain-hamburger-protein-style.json"
+    },
+    {
       "id": "kirkland-signature-greek-yogurt-plain-nonfat",
       "name": "Kirkland Signature Organic Plain Nonfat Greek Yogurt",
       "categoryFolder": "breakfast",
@@ -26096,6 +26472,42 @@
         "Hold raw red onions"
       ],
       "_sourcePath": "src/data/items/lunch/mad-moose-cafe-eden-turkey-havarti-panini.json"
+    },
+    {
+      "id": "mcdonalds-hotcakes-with-syrup",
+      "name": "McDonald's Hotcakes (Pancakes with Syrup)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "McDonald's",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pancakes",
+        "breakfast",
+        "low-fiber",
+        "soft-texture",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "mcdonalds hotcakes",
+        "mcdonalds pancakes",
+        "fast food breakfast flare safe"
+      ],
+      "whyItWorks": "Golden, fluffy white flour pancakes with a soft, spongy texture that dissolves effortlessly in the stomach. Low in dietary fiber and gentle on strictures; paired with maple-flavored syrup for rapid morning energy.",
+      "prepOrOrderInstructions": "Order Hotcakes with syrup. Spread a tiny touch of butter or enjoy with just syrup. Skip the sausage patty during active flares.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/mcdonalds-hotcakes-with-syrup.json"
     },
     {
       "id": "owyn-pro-elite-vegan-protein-shake",
@@ -27668,6 +28080,44 @@
       "_sourcePath": "src/data/items/lunch/labeaus-garden-city-grilled-ham-and-cheese-sourdough.json"
     },
     {
+      "id": "mcdonalds-plain-hamburger",
+      "name": "McDonald's Plain Hamburger (Meat & Bun Only)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "McDonald's",
+      "crohnsScore": 8.3,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pure-beef",
+        "plain-burger",
+        "dairy-free",
+        "drive-thru-staple",
+        "low-fiber"
+      ],
+      "searchKeywords": [
+        "mcdonalds hamburger",
+        "plain mcdonalds burger",
+        "mcdonalds plain",
+        "drive thru plain burger"
+      ],
+      "whyItWorks": "McDonald's 10:1 beef patties are 100% pure USDA-inspected beef seasoned only with a pinch of salt and pepper after grilling. Ordered plain on the standard soft white bun, it is entirely free of dairy, onions, pickles, and acidic tomato paste.",
+      "prepOrOrderInstructions": "Order at the speaker: \"One regular hamburger, totally PLAIN. No onions, no pickles, no mustard, no ketchup—meat and bun only.\"",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/mcdonalds-plain-hamburger.json"
+    },
+    {
       "id": "orgain-clean-protein-grass-fed",
       "name": "Orgain Clean Protein Grass Fed RTD Shake (Creamy Chocolate)",
       "categoryFolder": "drinks-sauces",
@@ -27828,6 +28278,43 @@
         "Skip extra-greasy hash browns if your stomach is sensitive to griddle oil"
       ],
       "_sourcePath": "src/data/items/breakfast/stacked-logan-potato-bun-burger-egg-sandwich.json"
+    },
+    {
+      "id": "starbucks-sous-vide-egg-whites-red-pepper",
+      "name": "Starbucks Egg White & Roasted Red Pepper Sous Vide Bites",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Starbucks",
+      "crohnsScore": 8.3,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "egg-whites",
+        "sous-vide",
+        "soft-texture",
+        "high-protein",
+        "airport-staple"
+      ],
+      "searchKeywords": [
+        "starbucks egg bites",
+        "egg white sous vide",
+        "starbucks breakfast safe"
+      ],
+      "whyItWorks": "Cooked sous-vide in a vacuum pouch to achieve a silken, custard-like texture that melts in the mouth without chewing effort. High in protein (12g) and low in fat, with sweet tender roasted red peppers that lack harsh skins.",
+      "prepOrOrderInstructions": "Ask for them warmed. Consume slowly with herbal tea or water.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/starbucks-sous-vide-egg-whites-red-pepper.json"
     },
     {
       "id": "summit-pizza-co-bear-lake-gluten-free-cheese-pizza",
@@ -28282,6 +28769,42 @@
       "whyItWorks": "Tender beef chuck roast slow-braised until fork-tender and served in savory brown beef gravy over smooth mashed potatoes. Low in fiber and highly comforting.",
       "prepOrOrderInstructions": "Ask for extra tender meat and smooth mashed potatoes with light brown gravy. Skip whole baby carrots or green beans if adhering to strict low-residue.",
       "_sourcePath": "src/data/items/dinner/black-bear-diner-american-fork-slow-cooked-pot-roast.json"
+    },
+    {
+      "id": "chick-fil-a-grilled-chicken-sandwich-plain",
+      "name": "Chick-fil-A Grilled Chicken Sandwich (Plain Bun)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Chick-fil-A",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "grilled-chicken",
+        "sandwich",
+        "dairy-free",
+        "drive-thru"
+      ],
+      "searchKeywords": [
+        "chick fil a grilled sandwich",
+        "cfa plain chicken",
+        "fast food sandwich"
+      ],
+      "whyItWorks": "Boneless grilled chicken breast served on a toasted white multigrain bun (or white bun upon request) without butter or mayo. Mild, non-greasy, and high in lean protein.",
+      "prepOrOrderInstructions": "Order \"Grilled Chicken Sandwich PLAIN - no lettuce, no tomato, no pickles.\" Ask for a standard toasted white bun if high-fiber multigrain irritates your gut.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/chick-fil-a-grilled-chicken-sandwich-plain.json"
     },
     {
       "id": "disneyland-rancho-del-zocalo-citrus-chicken-platter",
@@ -30663,6 +31186,42 @@
         "Skip Pepperoni/Meat Lovers pizza, spicy marinara, and Italian bean salad"
       ],
       "_sourcePath": "src/data/items/italian-med/knotts-prop-shop-pizzeria-chicken-pasta-pizza.json"
+    },
+    {
+      "id": "mcdonalds-fruit-and-maple-oatmeal-no-apples",
+      "name": "McDonald's Fruit & Maple Oatmeal (Plain, No Cranberries)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "McDonald's",
+      "crohnsScore": 8.1,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warm-oatmeal",
+        "soluble-fiber",
+        "breakfast",
+        "hearty",
+        "dairy-free-option"
+      ],
+      "searchKeywords": [
+        "mcdonalds oatmeal",
+        "fruit and maple oatmeal",
+        "hot breakfast drive thru"
+      ],
+      "whyItWorks": "Whole grain rolled oats cooked with hot water and light cream (or water upon request). Rich in soothing soluble beta-glucan fiber that forms a gentle mucosal gel, bulking watery stools without abrasive roughness.",
+      "prepOrOrderInstructions": "Order Fruit & Maple Oatmeal, asking to HOLD the dried cranberries and raisins (which present stricture risks). Stir in diced apples if tolerated.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/mcdonalds-fruit-and-maple-oatmeal-no-apples.json"
     },
     {
       "id": "ore-ida-golden-crinkle-french-fries",
@@ -33640,6 +34199,41 @@
       "_sourcePath": "src/data/items/breakfast/dcl-very-very-french-toast.json"
     },
     {
+      "id": "mcdonalds-egg-mcmuffin-plain-no-meat",
+      "name": "McDonald's Egg McMuffin (No Canadian Bacon / Plain)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "McDonald's",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "breakfast-sandwich",
+        "fresh-egg",
+        "english-muffin",
+        "easy-protein"
+      ],
+      "searchKeywords": [
+        "mcdonalds egg mcmuffin",
+        "egg mcmuffin plain",
+        "mcdonalds breakfast"
+      ],
+      "whyItWorks": "Uses a real Grade A egg freshly cracked into a circular cooking ring on the grill. Served on a toasted English muffin with light butter or American cheese, avoiding greasy pork sausages or processed bacon.",
+      "prepOrOrderInstructions": "Order an Egg McMuffin without Canadian bacon. If lactose intolerant, ask for \"No cheese\" as well.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/mcdonalds-egg-mcmuffin-plain-no-meat.json"
+    },
+    {
       "id": "members-mark-deli-sliced-honey-ham",
       "name": "Member's Mark Extra Lean Sliced Honey Ham (Deli 2 lb)",
       "categoryFolder": "high-protein",
@@ -34930,6 +35524,42 @@
       "_sourcePath": "src/data/items/breakfast/standard-pop-tarts.json"
     },
     {
+      "id": "subway-tuna-salad-sub-plain",
+      "name": "Subway Classic Tuna Salad Sub (Artisan Italian)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Subway",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "tuna-salad",
+        "omega-3",
+        "soft-protein",
+        "dairy-free"
+      ],
+      "searchKeywords": [
+        "subway tuna",
+        "tuna sub subway",
+        "tuna salad sandwich"
+      ],
+      "whyItWorks": "Flaked skipjack wild tuna blended with real mayonnaise on soft Italian white bread. Provides soft, chewable marine protein and healthy lipids with 0g dairy lactose and minimal fiber.",
+      "prepOrOrderInstructions": "Order on Artisan Italian bread without cheese or raw vegetable toppings during a flare.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/subway-tuna-salad-sub-plain.json"
+    },
+    {
       "id": "summit-pizza-co-bear-lake-baked-traditional-wings-plain",
       "name": "Summit Pizza Co. (Garden City & Logan, UT) Oven-Baked Bone-In Chicken Wings (Plain / Mild BBQ)",
       "categoryFolder": "diner-bbq",
@@ -35600,6 +36230,41 @@
         "Chewy outer crust if eaten quickly"
       ],
       "_sourcePath": "src/data/items/dinner/tritons-lumieres-french-country-bread.json"
+    },
+    {
+      "id": "wendys-apple-bites-fresh",
+      "name": "Wendy's Fresh Apple Bites",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Wendy's",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "fresh-fruit",
+        "apple-slices",
+        "vitamins",
+        "snack-pack"
+      ],
+      "searchKeywords": [
+        "wendys apple bites",
+        "apple slices fast food",
+        "kid apple bites"
+      ],
+      "whyItWorks": "Pre-sliced fresh apple pouches washed with calcium ascorbate to prevent browning. Mild, hydrating, and naturally sweet without heavy fats or added sugars.",
+      "prepOrOrderInstructions": "Eat chilled. If skins are present and you have a stricture, peel the thin skin off with your teeth or knife before chewing.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/wendys-apple-bites-fresh.json"
     },
     {
       "id": "wbpc-panama-canal-california-grill-pork-tenderloin",
@@ -36995,6 +37660,42 @@
       "_sourcePath": "src/data/items/asian-indian/silverlake-ramen-riverton-chashu-rice-bowl.json"
     },
     {
+      "id": "starbucks-butter-croissant-warmed",
+      "name": "Starbucks Butter Croissant (Warmed)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Starbucks",
+      "crohnsScore": 7.9,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "croissant",
+        "refined-flour",
+        "flaky-pastry",
+        "breakfast",
+        "low-fiber"
+      ],
+      "searchKeywords": [
+        "starbucks croissant",
+        "warmed butter croissant",
+        "starbucks bakery"
+      ],
+      "whyItWorks": "Traditional laminated pastry made with unbleached enriched flour and real butter. Low in residue and easy to chew when warmed.",
+      "prepOrOrderInstructions": "Ask for it warmed. Pair with a chamomile or mint herbal tea rather than espresso.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/starbucks-butter-croissant-warmed.json"
+    },
+    {
       "id": "steamed-tender-green-beans",
       "name": "Steamed Tender Green Beans (Fork-Soft)",
       "categoryFolder": "produce-sides",
@@ -37073,6 +37774,43 @@
       "whyItWorks": "Strained Greek yogurt provides rich protein and probiotic cultures, while soft ripe strawberries deliver antioxidants. Skipping hard seed-heavy oat granola protects narrowing gut lumen.",
       "prepOrOrderInstructions": "Ask for the parfait without granola topping (or discard granola packet). Safe if lactose tolerant or taking lactase.",
       "_sourcePath": "src/data/items/breakfast/disneyland-galactic-grill-yogurt-parfait.json"
+    },
+    {
+      "id": "wendys-jr-hamburger-plain-single",
+      "name": "Wendy's Jr. Hamburger (Plain on White Bun)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Wendy's",
+      "crohnsScore": 7.9,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "fresh-beef",
+        "plain-burger",
+        "dairy-free",
+        "drive-thru-emergency"
+      ],
+      "searchKeywords": [
+        "wendys jr hamburger",
+        "wendys plain burger",
+        "cheap flare safe burger",
+        "fresh beef patty"
+      ],
+      "whyItWorks": "Wendy's uses 100% fresh, never-frozen North American beef grilled without added marinades or fillers. Served plain on a soft white sandwich bun, it provides easy animal protein with zero dairy, onions, or spices.",
+      "prepOrOrderInstructions": "Order at the drive-thru: \"Jr. Hamburger, totally PLAIN—meat and bun only. No pickles, no onions, no ketchup, no mustard.\"",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/wendys-jr-hamburger-plain-single.json"
     },
     {
       "id": "bear-lake-pizza-co-garlic-butter-breadsticks",
@@ -37198,6 +37936,42 @@
         "Standard preparation includes raw cabbage slaw, mango pico de gallo (raw onion/jalapeño/lime), and citrus—must request plain grilled fish/shrimp"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/cafe-sabor-mango-shrimp-seafood-tacos.json"
+    },
+    {
+      "id": "chick-fil-a-fruit-cup-mandarin-apples",
+      "name": "Chick-fil-A Fresh Fruit Cup",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Chick-fil-A",
+      "crohnsScore": 7.8,
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "fresh-fruit",
+        "apples",
+        "blueberries",
+        "vitamins",
+        "refreshing"
+      ],
+      "searchKeywords": [
+        "cfa fruit cup",
+        "chick fil a fruit",
+        "fast food fruit side"
+      ],
+      "whyItWorks": "A mix of chopped red and green apples, mandarin orange segments, and blueberries. Provides natural hydration and soluble pectin; suitable for remission or mild symptoms when thoroughly chewed.",
+      "prepOrOrderInstructions": "Order chilled. If citrus triggers acid reflux or strictures, eat only the soft chopped apple pieces.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/chick-fil-a-fruit-cup-mandarin-apples.json"
     },
     {
       "id": "chom-burger-utah-lil-chom-cheddar-burger",
@@ -39913,6 +40687,43 @@
         "Skip the fiery Blue Fire Burger (jalapeños/buffalo sauce) and Sunrise Burger if sensitive to greasy hash browns"
       ],
       "_sourcePath": "src/data/items/diner-bbq/mortys-cafe-logan-the-iconic-burger-sweet-potato-fries.json"
+    },
+    {
+      "id": "panda-express-string-bean-chicken-breast",
+      "name": "Panda Express String Bean Chicken Breast",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Panda Express",
+      "crohnsScore": 7.7,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Chinese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "lean-chicken",
+        "green-beans",
+        "wok-seared",
+        "non-fried",
+        "dairy-free"
+      ],
+      "searchKeywords": [
+        "string bean chicken",
+        "panda express string bean",
+        "non fried panda express"
+      ],
+      "whyItWorks": "Lean chicken breast strips and green beans wok-tossed in a mild ginger-soy sauce. Unlike Orange Chicken or Beijing Beef, the chicken is completely un-breaded and not deep-fried.",
+      "prepOrOrderInstructions": "Order a Bowl with Steamed White Rice and String Bean Chicken Breast. Chew string beans thoroughly.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/asian-indian/panda-express-string-bean-chicken-breast.json"
     },
     {
       "id": "quick-n-tasty-garden-city-charbroiled-cheeseburger",
@@ -54299,6 +55110,42 @@
       "_sourcePath": "src/data/items/dinner/labeaus-halibut-and-chips-basket.json"
     },
     {
+      "id": "mcdonalds-world-famous-fries-small",
+      "name": "McDonald's World Famous Fries (Small Size)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "McDonald's",
+      "crohnsScore": 6.8,
+      "mealTypes": [
+        "lunch",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "remission-road",
+        "french-fries",
+        "salty-snack",
+        "small-portion"
+      ],
+      "searchKeywords": [
+        "mcdonalds french fries",
+        "small fries mcdonalds",
+        "fries crohns"
+      ],
+      "whyItWorks": "Skinless shoestring potatoes fried crisp. While high in fat, sticking strictly to a small size satisfies road-trip cravings without overwhelming gallbladder and small bowel bile reabsorption.",
+      "prepOrOrderInstructions": "NOTE: In the US, McDonald's fry oil contains \"Natural Beef Flavor\" made from hydrolyzed wheat and milk derivatives. AVOID during severe milk allergy or active flares; enjoy small portion in remission.",
+      "safetyTier": "remission-road",
+      "_sourcePath": "src/data/items/lunch/mcdonalds-world-famous-fries-small.json"
+    },
+    {
       "id": "members-mark-fully-cooked-thick-cut-bacon-sams-club",
       "name": "Member's Mark Fully Cooked Thick Cut Bacon (Refrigerated 100-Pack)",
       "categoryFolder": "breakfast",
@@ -58543,6 +59390,45 @@
         "High fat density from peanut butter cups and dairy cream accelerates gastric emptying"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/aggie-ice-cream-usu-logan-bull-tracks-peanut-warning.json"
+    },
+    {
+      "id": "chick-fil-a-waffle-potato-fries-warning",
+      "name": "Chick-fil-A Waffle Potato Fries (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Chick-fil-A",
+      "crohnsScore": 5.6,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "deep-fried",
+        "potato-skins",
+        "high-fat",
+        "stricture-risk"
+      ],
+      "searchKeywords": [
+        "chick fil a fries",
+        "cfa waffle fries",
+        "fried potato warning",
+        "greasy fries"
+      ],
+      "whyItWorks": "Large skin-on waffle potatoes deep-fried in canola oil. Contains 24g fat and 5g fiber with tough skin edges that are difficult to chew smooth. High fat delays stomach emptying and triggers rapid gastrocolic dumping.",
+      "prepOrOrderInstructions": "Avoid during active flares. If in deep remission, eat only 3-4 soft inner wedges and chew thoroughly.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/chick-fil-a-waffle-potato-fries-warning.json"
     },
     {
       "id": "costco-food-court-chicken-bake-warning",
@@ -63829,6 +64715,43 @@
       "_sourcePath": "src/data/items/frozen-aisle/marie-callenders-chicken-pot-pie-warning.json"
     },
     {
+      "id": "mcdonalds-mcchicken-sandwich-warning",
+      "name": "McDonald's McChicken Sandwich (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "McDonald's",
+      "crohnsScore": 4.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "deep-fried-patty",
+        "black-pepper-breading",
+        "mayo",
+        "shredded-lettuce"
+      ],
+      "searchKeywords": [
+        "mcchicken",
+        "mcdonalds chicken warning",
+        "cheap fried chicken"
+      ],
+      "whyItWorks": "A processed chicken patty battered in wheat flour seasoned with heavy black pepper and fried in commercial oil, dressed with mayonnaise and raw shredded iceberg lettuce ribs. Can trigger cramps and rapid loose stools.",
+      "prepOrOrderInstructions": "AVOID during active flares. Choose a plain grilled burger or pancakes instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/mcdonalds-mcchicken-sandwich-warning.json"
+    },
+    {
       "id": "muscle-milk-genuine-protein-shake-warning",
       "name": "Muscle Milk Genuine Protein Shake (Chocolate WARNING)",
       "categoryFolder": "drinks-sauces",
@@ -64432,6 +65355,43 @@
       "whyItWorks": "Weighing over 5 pounds, this massive pie features an all-butter/shortening crust filled with heavy cream roux, whole green peas, diced carrots, and pulled rotisserie chicken. The intense saturated fat from the crust and gravy induces vigorous gallbladder contractions and bile dumping.",
       "prepOrOrderInstructions": "High Fat & Dairy Warning: Avoid during flares. If dining in solid remission, scoop out the inner chicken and potatoes while leaving behind the greasy bottom crust and whole peas.",
       "_sourcePath": "src/data/items/dinner/kirkland-signature-chicken-pot-pie-take-and-bake-warning.json"
+    },
+    {
+      "id": "panda-express-chow-mein-cabbage-warning",
+      "name": "Panda Express Chow Mein (WARNING)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Panda Express",
+      "crohnsScore": 4.6,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Chinese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "shredded-cabbage",
+        "celery-fibers",
+        "greasy-noodles",
+        "gas-trigger"
+      ],
+      "searchKeywords": [
+        "panda express chow mein",
+        "chow mein warning",
+        "cabbage noodles gas"
+      ],
+      "whyItWorks": "Stir-fried wheat noodles mixed with coarse shredded cabbage, celery strings, and sliced onions in vegetable oil. Coarse fibrous cabbage and celery strings easily irritate ulcerated intestines and cause rapid gas buildup.",
+      "prepOrOrderInstructions": "AVOID during flares or strictures. Always select plain Steamed White Rice as your side.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/panda-express-chow-mein-cabbage-warning.json"
     },
     {
       "id": "dca-magic-key-terrace-banh-mi-sliders-warning",
@@ -67726,6 +68686,42 @@
       "_sourcePath": "src/data/items/produce-sides/raw-broccoli-florets-warning.json"
     },
     {
+      "id": "starbucks-iced-lemon-loaf-warning",
+      "name": "Starbucks Iced Lemon Loaf Cake (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Starbucks",
+      "crohnsScore": 3.8,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "citrus-lemon-oil",
+        "high-sugar",
+        "high-saturated-fat",
+        "acid-reflux"
+      ],
+      "searchKeywords": [
+        "starbucks lemon loaf",
+        "lemon cake warning",
+        "citrus dessert"
+      ],
+      "whyItWorks": "Packed with concentrated lemon oil, lemon zest extract, 470 calories, 20g fat, and 42g refined sugar. The intense citrus acid and heavy fat combo provokes sharp upper GI reflux and intestinal spasms.",
+      "prepOrOrderInstructions": "AVOID during active flares. Choose the Marshmallow Dream Bar instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/starbucks-iced-lemon-loaf-warning.json"
+    },
+    {
       "id": "whole-raw-almonds-walnuts-stricture-warning",
       "name": "Whole Raw or Roasted Almonds & Walnuts (Stricture Hazard Warning)",
       "categoryFolder": "snacks-desserts",
@@ -68779,6 +69775,46 @@
       "_sourcePath": "src/data/items/lunch/dca-award-wieners-bacon-street-dog-warning.json"
     },
     {
+      "id": "in-n-out-animal-style-fries-warning",
+      "name": "In-N-Out Animal Style Fries (WARNING)",
+      "categoryFolder": "diner-bbq",
+      "brandOrRestaurant": "In-N-Out Burger",
+      "crohnsScore": 3.4,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "animal-style",
+        "grilled-onions",
+        "high-fat",
+        "fodmap-bomb",
+        "spread"
+      ],
+      "searchKeywords": [
+        "in n out animal style",
+        "animal style fries warning",
+        "grilled onions crohns",
+        "grease bomb"
+      ],
+      "whyItWorks": "Fresh-cut potato fries smothered in two melted cheese slices, sweet caramelized grilled onions (immense prebiotic fructan dose!), and Thousand Island spread (oil, relish, pickles). A catastrophic trigger for severe gas, bloating, and painful cramps.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. If craving In-N-Out fries, order standard fries lightly salted, or stick to a plain burger.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/diner-bbq/in-n-out-animal-style-fries-warning.json"
+    },
+    {
       "id": "tabasco-original-red-pepper-sauce-warning",
       "name": "McIlhenny Tabasco Original Red Pepper Sauce (Acid & Capsaicin Warning)",
       "categoryFolder": "drinks-sauces",
@@ -69147,6 +70183,44 @@
         "High-FODMAP fructan concentrate that severely inflames sensitive or ulcerated bowels."
       ],
       "_sourcePath": "src/data/items/produce-sides/raw-garlic-cloves-warning.json"
+    },
+    {
+      "id": "subway-spicy-italian-sub-warning",
+      "name": "Subway Spicy Italian Sub (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Subway",
+      "crohnsScore": 3.1,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "cured-meats",
+        "nitrates",
+        "pepperoni-salami",
+        "greasy-spices"
+      ],
+      "searchKeywords": [
+        "spicy italian subway",
+        "pepperoni sub warning",
+        "salami cramps",
+        "cured meat warning"
+      ],
+      "whyItWorks": "Piled high with Genoa salami and spicy pepperoni loaded with sodium nitrates, red pepper flakes, whole peppercorns, and high saturated pork fat. Triggers severe biliary spasm, acid reflux, and mucosal inflammation.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Opt for lean turkey breast or rotisserie chicken instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/subway-spicy-italian-sub-warning.json"
     },
     {
       "id": "dcl-room-service-buffalo-wings",
@@ -69699,6 +70773,82 @@
       "_sourcePath": "src/data/items/snacks-desserts/triscuit-original-woven-wheat-hazard-warning.json"
     },
     {
+      "id": "wendys-chili-crohns-warning",
+      "name": "Wendy's Chili (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Wendy's",
+      "crohnsScore": 2.9,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 7,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "high-fodmap",
+        "beans-warning",
+        "chili-peppers",
+        "gas-explosion",
+        "stricture-hazard"
+      ],
+      "searchKeywords": [
+        "wendys chili",
+        "fast food chili warning",
+        "beans crohns trigger",
+        "chili gas"
+      ],
+      "whyItWorks": "Contains red kidney beans and pinto beans loaded with insoluble skins and fermentable oligosaccharides, simmered with diced onions, garlic, green peppers, chili powder, and greasy burger trimmings. A notorious cause of severe cramps, bloating, and painful bowel obstruction.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. One of the highest-risk items on any fast-food menu for inflammatory bowel disease.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/wendys-chili-crohns-warning.json"
+    },
+    {
+      "id": "panda-express-orange-chicken-warning",
+      "name": "Panda Express The Original Orange Chicken (WARNING)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Panda Express",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Chinese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "citrus-orange-peel",
+        "chili-flakes",
+        "deep-fried-batter",
+        "high-sugar"
+      ],
+      "searchKeywords": [
+        "orange chicken warning",
+        "panda express orange chicken",
+        "citrus chili chicken"
+      ],
+      "whyItWorks": "Dark meat chicken chunks coated in thick flour batter, deep-fried until crisp, and tossed in a sweet-spicy chili sauce made with citrus orange peel, chili peppers, garlic, and vinegar. High acid + capsaicin + frying oil guarantees mucosal irritation.",
+      "prepOrOrderInstructions": "AVOID during active flares. Choose Grilled Teriyaki Chicken (without sauce) or String Bean Chicken instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/panda-express-orange-chicken-warning.json"
+    },
+    {
       "id": "raw-kale-salad-chips-warning",
       "name": "Raw Kale Salad & Baked Kale Chips (Coarse Insoluble Cellulose Warning)",
       "categoryFolder": "produce-sides",
@@ -69856,6 +71006,82 @@
       "prepOrOrderInstructions": "AVOID during active flares. Greens blends and raw inulin are among the most notorious IBD flare triggers.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/vega-one-all-in-one-shake-warning.json"
+    },
+    {
+      "id": "wendys-spicy-chicken-sandwich-warning",
+      "name": "Wendy's Spicy Chicken Sandwich (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Wendy's",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "capsaicin",
+        "deep-fried-chicken",
+        "mayonnaise",
+        "spicy-breading"
+      ],
+      "searchKeywords": [
+        "wendys spicy chicken",
+        "spicy sandwich warning",
+        "fast food spicy breading"
+      ],
+      "whyItWorks": "A thick chicken breast dredged in seasoned batter with black pepper, cayenne, and paprika, deep-fried in vegetable oil and slathered with mayonnaise. High capsaicin and trans fats spark immediate gut hypermotility and diarrhea.",
+      "prepOrOrderInstructions": "AVOID. Choose a plain Jr. Hamburger or plain baked potato instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/wendys-spicy-chicken-sandwich-warning.json"
+    },
+    {
+      "id": "chick-fil-a-spicy-deluxe-sandwich-warning",
+      "name": "Chick-fil-A Spicy Deluxe Chicken Sandwich (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Chick-fil-A",
+      "crohnsScore": 2.7,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "spicy-capsaicin",
+        "deep-fried",
+        "dairy-cheese",
+        "pickle-brine",
+        "flare-trigger"
+      ],
+      "searchKeywords": [
+        "spicy deluxe chick fil a",
+        "cfa spicy chicken",
+        "spicy sandwich warning",
+        "capsaicin burn"
+      ],
+      "whyItWorks": "Marinated in spicy pepper blend and dill pickle brine, dipped in milk/egg wash, breaded with cayenne and paprika spices, pressure-fried in peanut oil, and topped with pepper jack cheese. A guaranteed severe mucosal irritant.",
+      "prepOrOrderInstructions": "STRICTLY AVOID during flares, strictures, or active proctitis. The capsaicin and hot oil provoke immediate intestinal burning and urgency.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/chick-fil-a-spicy-deluxe-sandwich-warning.json"
     },
     {
       "id": "animators-arugula-beet-orange-salad",
@@ -70140,6 +71366,42 @@
       "_sourcePath": "src/data/items/breakfast/granola-muesli-whole-nut-stricture-hazard.json"
     },
     {
+      "id": "starbucks-nitro-cold-brew-warning",
+      "name": "Starbucks Nitro Cold Brew Coffee (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Starbucks",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "high-caffeine",
+        "acidic",
+        "gastrocolic-trigger",
+        "hypermotility"
+      ],
+      "searchKeywords": [
+        "starbucks nitro cold brew",
+        "cold brew warning",
+        "caffeine diarrhea",
+        "crohns coffee trigger"
+      ],
+      "whyItWorks": "Delivers 280mg+ of concentrated caffeine infused with nitrogen microbubbles. Hyper-activates the sympathetic nervous system and triggers violent gastrocolic spasms, provoking immediate severe diarrhea and tenesmus.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. If you need a warm beverage at Starbucks, order Steamed Almond Milk with vanilla or decaf Chamomile tea.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/starbucks-nitro-cold-brew-warning.json"
+    },
+    {
       "id": "whole-sweet-corn-on-the-cob-warning",
       "name": "Sweet Corn on the Cob & Whole Kernel Corn (Extreme Stricture Hazard)",
       "categoryFolder": "produce-sides",
@@ -70302,6 +71564,45 @@
       "whyItWorks": "Whole roasted nuts have hard, sharp edges when broken down by teeth. In patients with active Crohn's, strictures, or previous bowel resections, nut particles frequently cause mechanical bowel obstructions.",
       "prepOrOrderInstructions": "Mechanical Obstruction Warning: Strictly avoid whole nuts. Switch to smooth creamy seedless nut butter in remission.",
       "_sourcePath": "src/data/items/snacks-desserts/members-mark-roasted-mixed-nuts-salted-warning.json"
+    },
+    {
+      "id": "taco-bell-bean-burrito-with-onions-warning",
+      "name": "Taco Bell Bean Burrito with Onions & Red Sauce (WARNING)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Taco Bell",
+      "crohnsScore": 2.1,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "drive-thru"
+      ],
+      "fiberGramsPerServing": 11,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "refried-beans",
+        "raw-diced-onions",
+        "red-chili-sauce",
+        "severe-gas",
+        "obstruction-risk"
+      ],
+      "searchKeywords": [
+        "taco bell bean burrito",
+        "refried beans warning",
+        "taco bell gas",
+        "crohns disaster food"
+      ],
+      "whyItWorks": "Delivers 11g of fiber predominantly from refried pinto beans, topped with raw diced onions (concentrated fructans) and spicy chili red sauce. Produces massive bowel distention, violent cramping, and explosive diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. One of the single most dangerous fast-food items for inflammatory bowel disease.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/mexican-southwest/taco-bell-bean-burrito-with-onions-warning.json"
     },
     {
       "id": "angies-restaurant-logan-clean-the-sink-warning",

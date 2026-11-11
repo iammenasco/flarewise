@@ -1,0 +1,36 @@
+{
+  "id": "wendys-spicy-chicken-sandwich-warning",
+  "name": "Wendy's Spicy Chicken Sandwich (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Wendy's",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "capsaicin",
+    "deep-fried-chicken",
+    "mayonnaise",
+    "spicy-breading"
+  ],
+  "searchKeywords": [
+    "wendys spicy chicken",
+    "spicy sandwich warning",
+    "fast food spicy breading"
+  ],
+  "whyItWorks": "A thick chicken breast dredged in seasoned batter with black pepper, cayenne, and paprika, deep-fried in vegetable oil and slathered with mayonnaise. High capsaicin and trans fats spark immediate gut hypermotility and diarrhea.",
+  "prepOrOrderInstructions": "AVOID. Choose a plain Jr. Hamburger or plain baked potato instead.",
+  "safetyTier": "danger-zone"
+}

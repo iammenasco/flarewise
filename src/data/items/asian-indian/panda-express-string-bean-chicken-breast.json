@@ -1,0 +1,36 @@
+{
+  "id": "panda-express-string-bean-chicken-breast",
+  "name": "Panda Express String Bean Chicken Breast",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Panda Express",
+  "crohnsScore": 7.7,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "lean-chicken",
+    "green-beans",
+    "wok-seared",
+    "non-fried",
+    "dairy-free"
+  ],
+  "searchKeywords": [
+    "string bean chicken",
+    "panda express string bean",
+    "non fried panda express"
+  ],
+  "whyItWorks": "Lean chicken breast strips and green beans wok-tossed in a mild ginger-soy sauce. Unlike Orange Chicken or Beijing Beef, the chicken is completely un-breaded and not deep-fried.",
+  "prepOrOrderInstructions": "Order a Bowl with Steamed White Rice and String Bean Chicken Breast. Chew string beans thoroughly.",
+  "safetyTier": "low-risk"
+}

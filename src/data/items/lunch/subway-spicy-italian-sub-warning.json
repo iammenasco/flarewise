@@ -1,0 +1,37 @@
+{
+  "id": "subway-spicy-italian-sub-warning",
+  "name": "Subway Spicy Italian Sub (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Subway",
+  "crohnsScore": 3.1,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "cured-meats",
+    "nitrates",
+    "pepperoni-salami",
+    "greasy-spices"
+  ],
+  "searchKeywords": [
+    "spicy italian subway",
+    "pepperoni sub warning",
+    "salami cramps",
+    "cured meat warning"
+  ],
+  "whyItWorks": "Piled high with Genoa salami and spicy pepperoni loaded with sodium nitrates, red pepper flakes, whole peppercorns, and high saturated pork fat. Triggers severe biliary spasm, acid reflux, and mucosal inflammation.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Opt for lean turkey breast or rotisserie chicken instead.",
+  "safetyTier": "danger-zone"
+}

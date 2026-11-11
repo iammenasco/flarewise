@@ -1,0 +1,35 @@
+{
+  "id": "mcdonalds-world-famous-fries-small",
+  "name": "McDonald's World Famous Fries (Small Size)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "McDonald's",
+  "crohnsScore": 6.8,
+  "mealTypes": [
+    "lunch",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "remission-road",
+    "french-fries",
+    "salty-snack",
+    "small-portion"
+  ],
+  "searchKeywords": [
+    "mcdonalds french fries",
+    "small fries mcdonalds",
+    "fries crohns"
+  ],
+  "whyItWorks": "Skinless shoestring potatoes fried crisp. While high in fat, sticking strictly to a small size satisfies road-trip cravings without overwhelming gallbladder and small bowel bile reabsorption.",
+  "prepOrOrderInstructions": "NOTE: In the US, McDonald's fry oil contains \"Natural Beef Flavor\" made from hydrolyzed wheat and milk derivatives. AVOID during severe milk allergy or active flares; enjoy small portion in remission.",
+  "safetyTier": "remission-road"
+}

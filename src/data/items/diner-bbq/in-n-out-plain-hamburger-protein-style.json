@@ -1,0 +1,35 @@
+{
+  "id": "in-n-out-plain-hamburger-protein-style",
+  "name": "In-N-Out Burger Plain Hamburger (Standard Bun, Plain)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "In-N-Out Burger",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "plain-hamburger",
+    "fresh-beef",
+    "dairy-free",
+    "drive-thru"
+  ],
+  "searchKeywords": [
+    "in n out plain hamburger",
+    "in n out burger plain",
+    "fresh beef fast food"
+  ],
+  "whyItWorks": "Made with a fresh 100% chuck patty grilled to order and served on an old-fashioned toasted sponge-dough white bun. Ordered plain, it has zero dairy, zero onion fructans, zero tomato acid, and zero pickle seeds.",
+  "prepOrOrderInstructions": "Order: \"Hamburger, plain: meat and bun only. No spread, no lettuce, no tomato, no onion.\"",
+  "safetyTier": "low-risk"
+}

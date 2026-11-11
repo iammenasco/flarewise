@@ -1,0 +1,35 @@
+{
+  "id": "subway-rotisserie-style-chicken-sub",
+  "name": "Subway Rotisserie-Style Chicken on Italian White",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Subway",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rotisserie-chicken",
+    "tender-poultry",
+    "italian-white",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "subway rotisserie chicken",
+    "chicken sub subway",
+    "clean fast food chicken"
+  ],
+  "whyItWorks": "Tender hand-pulled white and dark chicken meat that is seasoned simply and heated. Soft and easy to chew without the tough fibrous texture of whole fried cuts.",
+  "prepOrOrderInstructions": "Ask for the chicken warmed on Artisan Italian bread. Skip all raw crunchy veggies during a flare, or add peeled cucumber slices in remission.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "subway-oven-roasted-turkey-white-bread-plain",
+  "name": "Subway Oven-Roasted Turkey Breast on Artisan Italian White",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Subway",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey-sub",
+    "italian-white-bread",
+    "lean-protein",
+    "dairy-free",
+    "customizable"
+  ],
+  "searchKeywords": [
+    "subway turkey",
+    "artisan italian subway",
+    "plain turkey sandwich",
+    "safe subway order"
+  ],
+  "whyItWorks": "Sliced lean oven-roasted turkey breast served on soft Artisan Italian white bread (refined white flour, low in fiber and seedless). Ordered plain or with light olive oil and salt, it is dairy-free, citrus-free, and remarkably soothing.",
+  "prepOrOrderInstructions": "Order: \"6-inch Turkey on Artisan Italian white bread. Not toasted. No cheese, no onions, no jalapeños, no peppers. Add light olive oil and a dash of oregano or salt.\"",
+  "safetyTier": "low-risk"
+}

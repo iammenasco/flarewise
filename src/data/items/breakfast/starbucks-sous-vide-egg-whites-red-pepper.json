@@ -1,0 +1,36 @@
+{
+  "id": "starbucks-sous-vide-egg-whites-red-pepper",
+  "name": "Starbucks Egg White & Roasted Red Pepper Sous Vide Bites",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Starbucks",
+  "crohnsScore": 8.3,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg-whites",
+    "sous-vide",
+    "soft-texture",
+    "high-protein",
+    "airport-staple"
+  ],
+  "searchKeywords": [
+    "starbucks egg bites",
+    "egg white sous vide",
+    "starbucks breakfast safe"
+  ],
+  "whyItWorks": "Cooked sous-vide in a vacuum pouch to achieve a silken, custard-like texture that melts in the mouth without chewing effort. High in protein (12g) and low in fat, with sweet tender roasted red peppers that lack harsh skins.",
+  "prepOrOrderInstructions": "Ask for them warmed. Consume slowly with herbal tea or water.",
+  "safetyTier": "low-risk"
+}

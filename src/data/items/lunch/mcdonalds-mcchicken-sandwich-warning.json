@@ -1,0 +1,36 @@
+{
+  "id": "mcdonalds-mcchicken-sandwich-warning",
+  "name": "McDonald's McChicken Sandwich (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "McDonald's",
+  "crohnsScore": 4.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "deep-fried-patty",
+    "black-pepper-breading",
+    "mayo",
+    "shredded-lettuce"
+  ],
+  "searchKeywords": [
+    "mcchicken",
+    "mcdonalds chicken warning",
+    "cheap fried chicken"
+  ],
+  "whyItWorks": "A processed chicken patty battered in wheat flour seasoned with heavy black pepper and fried in commercial oil, dressed with mayonnaise and raw shredded iceberg lettuce ribs. Can trigger cramps and rapid loose stools.",
+  "prepOrOrderInstructions": "AVOID during active flares. Choose a plain grilled burger or pancakes instead.",
+  "safetyTier": "danger-zone"
+}

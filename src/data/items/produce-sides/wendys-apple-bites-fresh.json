@@ -1,0 +1,34 @@
+{
+  "id": "wendys-apple-bites-fresh",
+  "name": "Wendy's Fresh Apple Bites",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Wendy's",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fresh-fruit",
+    "apple-slices",
+    "vitamins",
+    "snack-pack"
+  ],
+  "searchKeywords": [
+    "wendys apple bites",
+    "apple slices fast food",
+    "kid apple bites"
+  ],
+  "whyItWorks": "Pre-sliced fresh apple pouches washed with calcium ascorbate to prevent browning. Mild, hydrating, and naturally sweet without heavy fats or added sugars.",
+  "prepOrOrderInstructions": "Eat chilled. If skins are present and you have a stricture, peel the thin skin off with your teeth or knife before chewing.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mcdonalds-plain-hamburger",
+  "name": "McDonald's Plain Hamburger (Meat & Bun Only)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "McDonald's",
+  "crohnsScore": 8.3,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pure-beef",
+    "plain-burger",
+    "dairy-free",
+    "drive-thru-staple",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "mcdonalds hamburger",
+    "plain mcdonalds burger",
+    "mcdonalds plain",
+    "drive thru plain burger"
+  ],
+  "whyItWorks": "McDonald's 10:1 beef patties are 100% pure USDA-inspected beef seasoned only with a pinch of salt and pepper after grilling. Ordered plain on the standard soft white bun, it is entirely free of dairy, onions, pickles, and acidic tomato paste.",
+  "prepOrOrderInstructions": "Order at the speaker: \"One regular hamburger, totally PLAIN. No onions, no pickles, no mustard, no ketchup—meat and bun only.\"",
+  "safetyTier": "low-risk"
+}

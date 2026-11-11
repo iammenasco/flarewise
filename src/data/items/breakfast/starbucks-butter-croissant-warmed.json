@@ -1,0 +1,35 @@
+{
+  "id": "starbucks-butter-croissant-warmed",
+  "name": "Starbucks Butter Croissant (Warmed)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Starbucks",
+  "crohnsScore": 7.9,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "croissant",
+    "refined-flour",
+    "flaky-pastry",
+    "breakfast",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "starbucks croissant",
+    "warmed butter croissant",
+    "starbucks bakery"
+  ],
+  "whyItWorks": "Traditional laminated pastry made with unbleached enriched flour and real butter. Low in residue and easy to chew when warmed.",
+  "prepOrOrderInstructions": "Ask for it warmed. Pair with a chamomile or mint herbal tea rather than espresso.",
+  "safetyTier": "low-risk"
+}

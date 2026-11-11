@@ -1,0 +1,35 @@
+{
+  "id": "starbucks-nitro-cold-brew-warning",
+  "name": "Starbucks Nitro Cold Brew Coffee (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Starbucks",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "high-caffeine",
+    "acidic",
+    "gastrocolic-trigger",
+    "hypermotility"
+  ],
+  "searchKeywords": [
+    "starbucks nitro cold brew",
+    "cold brew warning",
+    "caffeine diarrhea",
+    "crohns coffee trigger"
+  ],
+  "whyItWorks": "Delivers 280mg+ of concentrated caffeine infused with nitrogen microbubbles. Hyper-activates the sympathetic nervous system and triggers violent gastrocolic spasms, provoking immediate severe diarrhea and tenesmus.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. If you need a warm beverage at Starbucks, order Steamed Almond Milk with vanilla or decaf Chamomile tea.",
+  "safetyTier": "danger-zone"
+}

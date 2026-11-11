@@ -1,0 +1,35 @@
+{
+  "id": "starbucks-marshmallow-dream-bar",
+  "name": "Starbucks Marshmallow Dream Bar",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Starbucks",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "marshmallow-bar",
+    "crispy-rice",
+    "zero-fiber",
+    "gluten-free",
+    "airport-safe-snack"
+  ],
+  "searchKeywords": [
+    "starbucks marshmallow dream bar",
+    "rice krispie starbucks",
+    "airport snack flare safe"
+  ],
+  "whyItWorks": "Certified gluten-free crispy puffed rice cereal bound with marshmallow fluff and butter. Contains 0g fiber, zero seeds, zero nuts, and zero citrus. One of the safest sweet snacks when traveling through airports or interstate rest stops.",
+  "prepOrOrderInstructions": "Grab from the pastry case. Split in half if looking for a smaller sugar portion.",
+  "safetyTier": "low-risk"
+}

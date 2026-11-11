@@ -1,0 +1,35 @@
+{
+  "id": "subway-tuna-salad-sub-plain",
+  "name": "Subway Classic Tuna Salad Sub (Artisan Italian)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Subway",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "tuna-salad",
+    "omega-3",
+    "soft-protein",
+    "dairy-free"
+  ],
+  "searchKeywords": [
+    "subway tuna",
+    "tuna sub subway",
+    "tuna salad sandwich"
+  ],
+  "whyItWorks": "Flaked skipjack wild tuna blended with real mayonnaise on soft Italian white bread. Provides soft, chewable marine protein and healthy lipids with 0g dairy lactose and minimal fiber.",
+  "prepOrOrderInstructions": "Order on Artisan Italian bread without cheese or raw vegetable toppings during a flare.",
+  "safetyTier": "low-risk"
+}

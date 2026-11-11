@@ -1,0 +1,38 @@
+{
+  "id": "chick-fil-a-spicy-deluxe-sandwich-warning",
+  "name": "Chick-fil-A Spicy Deluxe Chicken Sandwich (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Chick-fil-A",
+  "crohnsScore": 2.7,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "spicy-capsaicin",
+    "deep-fried",
+    "dairy-cheese",
+    "pickle-brine",
+    "flare-trigger"
+  ],
+  "searchKeywords": [
+    "spicy deluxe chick fil a",
+    "cfa spicy chicken",
+    "spicy sandwich warning",
+    "capsaicin burn"
+  ],
+  "whyItWorks": "Marinated in spicy pepper blend and dill pickle brine, dipped in milk/egg wash, breaded with cayenne and paprika spices, pressure-fried in peanut oil, and topped with pepper jack cheese. A guaranteed severe mucosal irritant.",
+  "prepOrOrderInstructions": "STRICTLY AVOID during flares, strictures, or active proctitis. The capsaicin and hot oil provoke immediate intestinal burning and urgency.",
+  "safetyTier": "danger-zone"
+}

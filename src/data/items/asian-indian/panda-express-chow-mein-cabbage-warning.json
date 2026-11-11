@@ -1,0 +1,36 @@
+{
+  "id": "panda-express-chow-mein-cabbage-warning",
+  "name": "Panda Express Chow Mein (WARNING)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Panda Express",
+  "crohnsScore": 4.6,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "shredded-cabbage",
+    "celery-fibers",
+    "greasy-noodles",
+    "gas-trigger"
+  ],
+  "searchKeywords": [
+    "panda express chow mein",
+    "chow mein warning",
+    "cabbage noodles gas"
+  ],
+  "whyItWorks": "Stir-fried wheat noodles mixed with coarse shredded cabbage, celery strings, and sliced onions in vegetable oil. Coarse fibrous cabbage and celery strings easily irritate ulcerated intestines and cause rapid gas buildup.",
+  "prepOrOrderInstructions": "AVOID during flares or strictures. Always select plain Steamed White Rice as your side.",
+  "safetyTier": "danger-zone"
+}

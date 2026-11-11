@@ -1,0 +1,36 @@
+{
+  "id": "panda-express-orange-chicken-warning",
+  "name": "Panda Express The Original Orange Chicken (WARNING)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Panda Express",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "citrus-orange-peel",
+    "chili-flakes",
+    "deep-fried-batter",
+    "high-sugar"
+  ],
+  "searchKeywords": [
+    "orange chicken warning",
+    "panda express orange chicken",
+    "citrus chili chicken"
+  ],
+  "whyItWorks": "Dark meat chicken chunks coated in thick flour batter, deep-fried until crisp, and tossed in a sweet-spicy chili sauce made with citrus orange peel, chili peppers, garlic, and vinegar. High acid + capsaicin + frying oil guarantees mucosal irritation.",
+  "prepOrOrderInstructions": "AVOID during active flares. Choose Grilled Teriyaki Chicken (without sauce) or String Bean Chicken instead.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mcdonalds-hotcakes-with-syrup",
+  "name": "McDonald's Hotcakes (Pancakes with Syrup)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "McDonald's",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pancakes",
+    "breakfast",
+    "low-fiber",
+    "soft-texture",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "mcdonalds hotcakes",
+    "mcdonalds pancakes",
+    "fast food breakfast flare safe"
+  ],
+  "whyItWorks": "Golden, fluffy white flour pancakes with a soft, spongy texture that dissolves effortlessly in the stomach. Low in dietary fiber and gentle on strictures; paired with maple-flavored syrup for rapid morning energy.",
+  "prepOrOrderInstructions": "Order Hotcakes with syrup. Spread a tiny touch of butter or enjoy with just syrup. Skip the sausage patty during active flares.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chick-fil-a-grilled-chicken-sandwich-plain",
+  "name": "Chick-fil-A Grilled Chicken Sandwich (Plain Bun)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Chick-fil-A",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "grilled-chicken",
+    "sandwich",
+    "dairy-free",
+    "drive-thru"
+  ],
+  "searchKeywords": [
+    "chick fil a grilled sandwich",
+    "cfa plain chicken",
+    "fast food sandwich"
+  ],
+  "whyItWorks": "Boneless grilled chicken breast served on a toasted white multigrain bun (or white bun upon request) without butter or mayo. Mild, non-greasy, and high in lean protein.",
+  "prepOrOrderInstructions": "Order \"Grilled Chicken Sandwich PLAIN - no lettuce, no tomato, no pickles.\" Ask for a standard toasted white bun if high-fiber multigrain irritates your gut.",
+  "safetyTier": "low-risk"
+}

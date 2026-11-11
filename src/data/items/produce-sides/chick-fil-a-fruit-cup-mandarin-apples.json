@@ -1,0 +1,35 @@
+{
+  "id": "chick-fil-a-fruit-cup-mandarin-apples",
+  "name": "Chick-fil-A Fresh Fruit Cup",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Chick-fil-A",
+  "crohnsScore": 7.8,
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "fresh-fruit",
+    "apples",
+    "blueberries",
+    "vitamins",
+    "refreshing"
+  ],
+  "searchKeywords": [
+    "cfa fruit cup",
+    "chick fil a fruit",
+    "fast food fruit side"
+  ],
+  "whyItWorks": "A mix of chopped red and green apples, mandarin orange segments, and blueberries. Provides natural hydration and soluble pectin; suitable for remission or mild symptoms when thoroughly chewed.",
+  "prepOrOrderInstructions": "Order chilled. If citrus triggers acid reflux or strictures, eat only the soft chopped apple pieces.",
+  "safetyTier": "low-risk"
+}

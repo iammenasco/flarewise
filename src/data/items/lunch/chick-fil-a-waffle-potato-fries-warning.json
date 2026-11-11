@@ -1,0 +1,38 @@
+{
+  "id": "chick-fil-a-waffle-potato-fries-warning",
+  "name": "Chick-fil-A Waffle Potato Fries (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Chick-fil-A",
+  "crohnsScore": 5.6,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "deep-fried",
+    "potato-skins",
+    "high-fat",
+    "stricture-risk"
+  ],
+  "searchKeywords": [
+    "chick fil a fries",
+    "cfa waffle fries",
+    "fried potato warning",
+    "greasy fries"
+  ],
+  "whyItWorks": "Large skin-on waffle potatoes deep-fried in canola oil. Contains 24g fat and 5g fiber with tough skin edges that are difficult to chew smooth. High fat delays stomach emptying and triggers rapid gastrocolic dumping.",
+  "prepOrOrderInstructions": "Avoid during active flares. If in deep remission, eat only 3-4 soft inner wedges and chew thoroughly.",
+  "safetyTier": "danger-zone"
+}
