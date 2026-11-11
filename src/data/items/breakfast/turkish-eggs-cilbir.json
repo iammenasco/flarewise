@@ -1,32 +1,49 @@
 {
   "id": "turkish-eggs-cilbir",
-  "name": "Turkish Eggs (Çılbir)",
+  "name": "Turkish Eggs (Çılbır — Herb Oil Swap)",
   "categoryFolder": "breakfast",
-  "crohnsScore": 10,
-  "safetyTier": "flare-safe",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
   "mealTypes": [
-    "breakfast"
+    "breakfast",
+    "lunch"
   ],
   "region": "Global",
   "costTier": 1,
-  "convenienceScore": 5,
+  "convenienceScore": 4,
   "prepMethod": [
     "stovetop"
   ],
   "fiberGramsPerServing": 0,
   "lactoseSafe": false,
   "citrusFree": true,
+  "groceryIngredients": [
+    "Eggs",
+    "Plain Strained Greek Yogurt",
+    "Butter",
+    "Sweet Paprika",
+    "Garlic Powder"
+  ],
   "tags": [
     "eggs",
     "yogurt",
-    "breakfast"
+    "breakfast",
+    "high-protein",
+    "gluten-free"
   ],
   "searchKeywords": [
-    "çılbir",
+    "cilbir",
+    "çılbır",
     "turkish eggs",
-    "yogurt",
-    "chili butter"
+    "poached eggs",
+    "greek yogurt eggs"
   ],
-  "whyItWorks": "Creamy yogurt base with soft eggs and warm chili butter.",
-  "prepOrOrderInstructions": "Warm seasoned yogurt, top with soft poached eggs and warm chili butter."
+  "whyItWorks": "Soft-poached eggs over strained Greek yogurt deliver high protein with 0g insoluble fiber; swapping Aleppo chili flakes for sweet paprika avoids capsaicin burn.",
+  "prepOrOrderInstructions": "Warm plain strained Greek yogurt (or lactose-free yogurt) with a pinch of garlic powder and salt. Top with two soft-poached eggs and melted butter infused with sweet paprika or dill — strictly hold chili oil and red pepper flakes.",
+  "flareEmergencySwap": "Use lactose-free Greek yogurt and skip the spiced butter in favor of a plain pat of butter or olive oil.",
+  "watchOuts": [
+    "Aleppo pepper / chili oil",
+    "Raw minced garlic in the yogurt base",
+    "Unstrained high-lactose yogurt"
+  ]
 }
