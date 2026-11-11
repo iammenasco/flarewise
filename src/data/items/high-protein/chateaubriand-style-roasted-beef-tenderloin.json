@@ -1,0 +1,31 @@
+{
+  "name": "Chateaubriand-Style Roasted Beef Tenderloin",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "tenderloin",
+    "roast"
+  ],
+  "searchKeywords": [
+    "beef",
+    "tenderloin",
+    "roast"
+  ],
+  "whyItWorks": "A high-quality protein that fits the careful tier.",
+  "prepOrOrderInstructions": "Cook to desired temperature.",
+  "convenienceScore": 5,
+  "id": "chateaubriand-style-roasted-beef-tenderloin"
+}
