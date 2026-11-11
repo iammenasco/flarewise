@@ -252,8 +252,9 @@ export function FilterPanel({
           </div>
         ) : (
           <p className="muted mt-1.5 text-xs">
-            Off by default — turn on to browse Disneyland, California Adventure,
-            Knott&apos;s Berry Farm, and Disney Cruise menus.
+            Off by default — use <span className="font-semibold">Where are you?</span>{' '}
+            (Parks / Cruise) or turn this on to browse Disneyland, California
+            Adventure, Knott&apos;s Berry Farm, and Disney Cruise menus.
           </p>
         )}
       </div>

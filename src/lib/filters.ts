@@ -3,9 +3,17 @@ import type {
   CrohnsFoodItem,
   MealType,
   Region,
+  SafetyTier,
 } from '../types'
 
 export type ModeFilter = 'all' | 'starred' | 'grocery'
+
+export type PlaceContextId =
+  | 'home'
+  | 'bear-lake-cache'
+  | 'work-hotels'
+  | 'theme-parks'
+  | 'cruise'
 
 export const THEME_PARK_CHIPS = [
   { tag: 'disneyland', label: 'Disneyland', shortLabel: 'Disneyland' },
@@ -32,6 +40,91 @@ export const VACATION_DESTINATION_CHIPS = [
   ...CRUISE_SHIP_CHIPS,
 ] as const
 
+const THEME_PARK_TAGS = [
+  'theme-park',
+  'disneyland',
+  'california-adventure',
+  'dca',
+  'downtown-disney',
+  'knotts-berry-farm',
+  'knotts',
+  'buena-park',
+] as const
+
+const CRUISE_TAGS = [
+  'cruise',
+  'disney-cruise',
+  'disney-wonder',
+  'disney-magic',
+  'disney-treasure',
+  'alaska-cruise',
+  'christmas-cruise',
+  'plaza-de-coco',
+] as const
+
+export const PLACE_CONTEXTS = [
+  {
+    id: 'home' as const,
+    label: 'Home',
+    shortLabel: 'Home',
+    hint: 'Everyday catalog — vacation menus stay tucked away',
+    matchTags: [] as readonly string[],
+    vacation: false as const,
+  },
+  {
+    id: 'bear-lake-cache' as const,
+    label: 'Bear Lake & Cache Valley',
+    shortLabel: 'Bear Lake',
+    hint: 'Logan, Garden City, Montpelier, Laketown',
+    matchTags: [
+      'bear-lake',
+      'cache-valley',
+      'logan',
+      'garden-city',
+      'montpelier',
+      'laketown',
+    ] as const,
+    vacation: false as const,
+  },
+  {
+    id: 'work-hotels' as const,
+    label: 'Workplace & hotels',
+    shortLabel: 'Work',
+    hint: 'BambooHR / Thomas2Go and hotel breakfasts',
+    matchTags: [
+      'bamboohr',
+      'thomas2go',
+      'hotel',
+      'hotel-breakfast',
+      'office-cafe',
+      'lindon',
+    ] as const,
+    vacation: false as const,
+  },
+  {
+    id: 'theme-parks' as const,
+    label: 'Theme parks',
+    shortLabel: 'Parks',
+    hint: "Disneyland, DCA, Knott's",
+    matchTags: THEME_PARK_TAGS,
+    vacation: true as const,
+  },
+  {
+    id: 'cruise' as const,
+    label: 'Cruise',
+    shortLabel: 'Cruise',
+    hint: 'Disney Wonder, Magic, Treasure',
+    matchTags: CRUISE_TAGS,
+    vacation: true as const,
+  },
+] as const
+
+export type PlaceContext = (typeof PLACE_CONTEXTS)[number]
+
+const PLACE_BY_ID = new Map<PlaceContextId, PlaceContext>(
+  PLACE_CONTEXTS.map((ctx) => [ctx.id, ctx]),
+)
+
 const VACATION_TAGS = new Set([
   'cruise',
   'vacation',
@@ -48,6 +141,13 @@ const VACATION_TAGS = new Set([
   'knotts',
 ])
 
+const TIER_RANK: Record<SafetyTier, number> = {
+  'flare-safe': 0,
+  'low-risk': 1,
+  'remission-road': 2,
+  'danger-zone': 3,
+}
+
 export function isVacationTag(tag: string): boolean {
   const lower = tag.trim().toLowerCase()
   return VACATION_TAGS.has(lower) || lower.startsWith('disney-')
@@ -60,6 +160,32 @@ export function isCruiseOrVacationItem(item: CrohnsFoodItem): boolean {
   return item.tags.some((t) => isVacationTag(t))
 }
 
+export function isPlaceContextId(value: string): value is PlaceContextId {
+  return PLACE_BY_ID.has(value as PlaceContextId)
+}
+
+export function getPlaceContext(id: PlaceContextId): PlaceContext {
+  return PLACE_BY_ID.get(id) ?? PLACE_CONTEXTS[0]
+}
+
+/** Vacation browsing is on for Parks/Cruise places, or legacy Vacation mode at Home. */
+export function isVacationBrowsing(
+  place: PlaceContextId,
+  cruiseMode: boolean,
+): boolean {
+  const ctx = getPlaceContext(place)
+  return ctx.vacation || (place === 'home' && cruiseMode)
+}
+
+export function itemMatchesPlaceTags(
+  item: CrohnsFoodItem,
+  place: PlaceContextId,
+): boolean {
+  const ctx = getPlaceContext(place)
+  if (ctx.matchTags.length === 0) return true
+  return ctx.matchTags.some((tag) => item.tags.includes(tag))
+}
+
 export interface CatalogFilters {
   q: string
   mode: ModeFilter
@@ -67,11 +193,16 @@ export interface CatalogFilters {
   region: Region | ''
   tag: string
   cost: '' | '1' | '2' | '3'
+  /** Life-context dial: Home / Bear Lake / Work / Parks / Cruise. */
+  place: PlaceContextId
+  /** Exact brandOrRestaurant venue menu (URL-encoded in the query string). */
+  venue: string
 }
 
 export function readFilters(params: URLSearchParams): CatalogFilters {
   const mode = params.get('mode')
   const cost = params.get('cost')
+  const placeRaw = params.get('place') ?? ''
   return {
     q: params.get('q') ?? '',
     mode: mode === 'starred' || mode === 'grocery' ? mode : 'all',
@@ -79,6 +210,8 @@ export function readFilters(params: URLSearchParams): CatalogFilters {
     region: (params.get('region') as Region) || '',
     tag: params.get('tag') ?? '',
     cost: cost === '1' || cost === '2' || cost === '3' ? cost : '',
+    place: isPlaceContextId(placeRaw) ? placeRaw : 'home',
+    venue: params.get('venue') ?? '',
   }
 }
 
@@ -91,13 +224,26 @@ export function itemPassesFilters(
   if (prefs.personalStatus[item.id] === 'trigger') return false
 
   // Vacation filter: unselected by default so cruise & theme-park items stay
-  // tucked out of everyday browsing unless Vacation mode or a vacation tag is active.
+  // tucked out of everyday browsing unless a vacation place, Vacation mode,
+  // or a vacation destination tag is active.
   const isVacation = isCruiseOrVacationItem(item)
   const tagIsVacation = Boolean(filters.tag && isVacationTag(filters.tag))
-  if (prefs.guardrails.cruiseMode) {
+  const vacationBrowsing = isVacationBrowsing(
+    filters.place,
+    prefs.guardrails.cruiseMode,
+  )
+  if (vacationBrowsing) {
     if (!isVacation) return false
   } else if (isVacation && !tagIsVacation) {
     return false
+  }
+
+  if (!itemMatchesPlaceTags(item, filters.place)) return false
+
+  if (filters.venue) {
+    if ((item.brandOrRestaurant ?? '').trim() !== filters.venue.trim()) {
+      return false
+    }
   }
 
   // Danger-zone / avoid cards only appear when explicitly enabled.
@@ -134,6 +280,37 @@ export function itemPassesFilters(
   return true
 }
 
+/** Rank venue menus flare-safe → everyday → careful → avoid, then score. */
+export function compareVenueMenuItems(
+  a: CrohnsFoodItem,
+  b: CrohnsFoodItem,
+): number {
+  const tierDiff = TIER_RANK[a.safetyTier] - TIER_RANK[b.safetyTier]
+  if (tierDiff !== 0) return tierDiff
+  return b.crohnsScore - a.crohnsScore
+}
+
+export function sortVenueMenu(items: CrohnsFoodItem[]): CrohnsFoodItem[] {
+  return [...items].sort(compareVenueMenuItems)
+}
+
+/** Distinct brands in a filtered list, busiest first (for venue chips). */
+export function listVenues(
+  items: CrohnsFoodItem[],
+  limit = 24,
+): { brand: string; count: number }[] {
+  const counts = new Map<string, number>()
+  for (const item of items) {
+    const brand = (item.brandOrRestaurant ?? '').trim()
+    if (!brand) continue
+    counts.set(brand, (counts.get(brand) ?? 0) + 1)
+  }
+  return [...counts.entries()]
+    .map(([brand, count]) => ({ brand, count }))
+    .sort((a, b) => b.count - a.count || a.brand.localeCompare(b.brand))
+    .slice(0, limit)
+}
+
 export function countActiveFilters(
   filters: CatalogFilters,
   guardrails: {
@@ -150,10 +327,13 @@ export function countActiveFilters(
   if (filters.region) n += 1
   if (filters.tag) n += 1
   if (filters.cost) n += 1
+  if (filters.place !== 'home') n += 1
+  if (filters.venue) n += 1
   if (guardrails.lactoseSafeOnly) n += 1
   if (guardrails.toasterOvenOnly) n += 1
   if (guardrails.grabAndGoOnly) n += 1
-  if (guardrails.cruiseMode) n += 1
+  // Parks/Cruise already counted via place; only count legacy Vacation at Home.
+  if (guardrails.cruiseMode && filters.place === 'home') n += 1
   // citrusFreeOnly defaults on — don't count it as an "extra" filter
   if (guardrails.showDangerZone) n += 1
   return n
