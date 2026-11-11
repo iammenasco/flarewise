@@ -1,0 +1,40 @@
+{
+  "id": "altoids-curiously-strong-peppermints",
+  "name": "Altoids Curiously Strong Peppermints",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Altoids / Mars Wrigley",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "mints",
+    "peppermint",
+    "altoids",
+    "antispasmodic",
+    "soothing"
+  ],
+  "searchKeywords": [
+    "altoids",
+    "peppermints",
+    "curiously strong mints",
+    "breath mints",
+    "peppermint candy"
+  ],
+  "whyItWorks": "Natural peppermint oil has clinically demonstrated antispasmodic properties on gastrointestinal smooth muscle, helping to alleviate painful intestinal cramping and trapped gas.",
+  "prepOrOrderInstructions": "Dissolve 1 mint on the tongue after a meal to reduce postprandial intestinal spasms.",
+  "watchOuts": [
+    "Peppermint relaxes the lower esophageal sphincter; avoid if you suffer from severe GERD or acid reflux."
+  ]
+}

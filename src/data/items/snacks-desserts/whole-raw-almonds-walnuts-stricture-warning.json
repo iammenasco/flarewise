@@ -1,0 +1,40 @@
+{
+  "id": "whole-raw-almonds-walnuts-stricture-warning",
+  "name": "Whole Raw or Roasted Almonds & Walnuts (Stricture Hazard Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 3.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "nuts",
+    "almonds",
+    "walnuts",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "almonds",
+    "walnuts",
+    "whole nuts",
+    "trail mix",
+    "nut obstruction"
+  ],
+  "whyItWorks": "Whole nuts are hard, dense, and shatter during chewing into jagged angular shards. For individuals with Crohn's strictures or bowel narrowing, unchewed nut fragments act like gravel, accumulating into high-risk mechanical obstructions.",
+  "prepOrOrderInstructions": "Stricture Warning: Avoid whole almonds, walnuts, cashews, pecans, and trail mix. If wanting the nutritional benefits of nuts, use completely smooth almond or cashew butter instead.",
+  "watchOuts": [
+    "A leading clinical trigger for acute small bowel obstruction requiring emergency hospitalization."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "roasted-butternut-squash-puree",
+  "name": "Roasted Butternut Squash Puree (Peeled & Blended)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "squash",
+    "butternut-squash",
+    "puree",
+    "soup",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "butternut squash",
+    "squash soup",
+    "butternut puree",
+    "roasted squash"
+  ],
+  "whyItWorks": "Roasted butternut squash yields sweet, velvety flesh loaded with vitamin A. Blending it into a silky soup or puree breaks down any remaining fiber strands, making it soothing and completely low-residue.",
+  "prepOrOrderInstructions": "Peel tough tan rind and scoop out all seeds before roasting. Roast chunks until fork-tender and puree in a blender with warm broth and a pinch of salt.",
+  "watchOuts": [
+    "Ensure all fibrous stringy seed pith and seeds are completely removed prior to blending."
+  ]
+}

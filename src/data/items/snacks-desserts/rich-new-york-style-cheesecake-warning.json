@@ -1,0 +1,38 @@
+{
+  "id": "rich-new-york-style-cheesecake-warning",
+  "name": "Rich New York Style Cheesecake (High Saturated Fat & Dairy Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bakery Grocery Staple",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "cheesecake",
+    "dairy-warning",
+    "high-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "cheesecake",
+    "new york cheesecake",
+    "cream cheese dessert",
+    "cheesecake trigger"
+  ],
+  "whyItWorks": "NY Style Cheesecake combines massive blocks of heavy cream cheese, sour cream, butter, and heavy cream. This extreme saturated fat and lactose payload overwhelms bile and pancreatic enzymes, triggering severe diarrhea and cramping.",
+  "prepOrOrderInstructions": "Severe Fat Trigger Warning: Avoid cheesecake during flares and early recovery. In deep remission, limit to 2 small forkfuls and take a lactase enzyme tablet.",
+  "watchOuts": [
+    "Extreme saturated fat and dairy volume triggers rapid gastrocolic dumping and steatorrhea."
+  ]
+}

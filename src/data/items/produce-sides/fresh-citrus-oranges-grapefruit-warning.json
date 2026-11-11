@@ -1,0 +1,41 @@
+{
+  "id": "fresh-citrus-oranges-grapefruit-warning",
+  "name": "Fresh Oranges & Grapefruit Segments (Acidic Trigger Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.3,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "produce",
+    "citrus",
+    "orange",
+    "grapefruit",
+    "acid-trigger",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "oranges",
+    "grapefruit",
+    "navel orange",
+    "mandarin",
+    "citrus warning"
+  ],
+  "whyItWorks": "Citrus fruits contain high concentrations of free citric acid and tough fibrous pith/membrane walls. The acidity directly burns open mucosal ulcers in the stomach and small intestine, stimulating painful hypermotility and urgent diarrhea.",
+  "prepOrOrderInstructions": "Trigger Warning: Avoid fresh oranges, clementines, and grapefruit during active IBD. If eating in remission, supreme the orange (cut away all white pith and translucent membranes) or choose low-acid canned mandarin oranges in water.",
+  "watchOuts": [
+    "Violates FlareWise Citrus-Free guardrail. Strong acidic stimulation triggers severe burning cramping and reflux."
+  ]
+}

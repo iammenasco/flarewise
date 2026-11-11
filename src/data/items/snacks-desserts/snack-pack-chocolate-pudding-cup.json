@@ -1,0 +1,40 @@
+{
+  "id": "snack-pack-chocolate-pudding-cup",
+  "name": "Snack Pack Chocolate Pudding Cup",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Snack Pack / Conagra",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pudding",
+    "chocolate",
+    "snack-pack",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "chocolate pudding",
+    "snack pack chocolate",
+    "pudding cup",
+    "chocolate treat"
+  ],
+  "whyItWorks": "Rich chocolate taste in an ultra-smooth pudding matrix. Unlike heavy chocolate candy bars with high cocoa butter fats, pudding has minimal fat and negligible theobromine, satisfying sweet cravings safely.",
+  "prepOrOrderInstructions": "Enjoy chilled or room-temperature. Pair with a lactase pill if dairy-sensitive.",
+  "watchOuts": [
+    "Contains mild cocoa and nonfat milk; enjoy in moderation if sensitive to chocolate."
+  ]
+}

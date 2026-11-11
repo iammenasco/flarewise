@@ -1,0 +1,42 @@
+{
+  "id": "nabisco-premium-saltine-crackers",
+  "name": "Nabisco Premium Saltine Crackers (Original Salted)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Nabisco / Mondelēz",
+  "crohnsScore": 9.7,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "crackers",
+    "saltines",
+    "nabisco",
+    "low-residue",
+    "flare-safe",
+    "bland-diet"
+  ],
+  "searchKeywords": [
+    "saltines",
+    "premium saltines",
+    "soda crackers",
+    "soup crackers",
+    "bland crackers"
+  ],
+  "whyItWorks": "The timeless cornerstone of the IBD bland diet. Made of refined white flour, baking soda, yeast, and light salt, saltine crackers provide pure, easily absorbed carbohydrates. The gentle sodium helps replenish electrolytes lost during diarrhea bouts with zero abrasive fiber.",
+  "prepOrOrderInstructions": "Keep a sleeve of Premium Saltines in your pantry or travel bag for acute nausea or flare days. Nibble slowly with sips of water or warm broth.",
+  "watchOuts": [
+    "Contains gluten; choose certified gluten-free table crackers if diagnosed with co-occurring celiac disease."
+  ]
+}

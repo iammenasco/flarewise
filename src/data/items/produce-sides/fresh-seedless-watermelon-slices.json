@@ -1,0 +1,40 @@
+{
+  "id": "fresh-seedless-watermelon-slices",
+  "name": "Fresh Seedless Watermelon Slices",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "watermelon",
+    "hydrating",
+    "seedless",
+    "summer",
+    "fruit"
+  ],
+  "searchKeywords": [
+    "watermelon",
+    "seedless watermelon",
+    "summer melon",
+    "hydrating melon"
+  ],
+  "whyItWorks": "Watermelon delivers superior hydration and virtually zero insoluble fiber (only 0.6g per wedge). It is refreshing and replenishes intracellular fluid during hot weather or illness.",
+  "prepOrOrderInstructions": "Buy strictly seedless watermelon. Discard any stray white or black seeds and do not chew down into the tough white rind.",
+  "watchOuts": [
+    "High in free fructose; eating huge wedges at once can cause osmotic gas or loose stools in fructose-sensitive IBD patients."
+  ]
+}

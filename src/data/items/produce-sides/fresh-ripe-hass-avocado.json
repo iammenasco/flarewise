@@ -1,0 +1,43 @@
+{
+  "id": "fresh-ripe-hass-avocado",
+  "name": "Fresh Ripe Hass Avocado (Mashed or Sliced)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "avocado",
+    "healthy-fat",
+    "potassium",
+    "monounsaturated",
+    "creamy"
+  ],
+  "searchKeywords": [
+    "avocado",
+    "hass avocado",
+    "mashed avocado",
+    "guacamole base",
+    "sliced avocado"
+  ],
+  "whyItWorks": "Rich in calorie-dense monounsaturated oleic fatty acids and potassium, ripe avocado provides crucial calories and micronutrients when weight loss has occurred. Its fiber is mostly soluble, yielding a silky, non-abrasive puree.",
+  "prepOrOrderInstructions": "Eat 1/4 to 1/2 ripe avocado mashed onto white sourdough toast, white rice, or sliced alongside eggs. Mash with a fork to ensure smooth breakdown.",
+  "watchOuts": [
+    "Contains sorbitol and high healthy fat; limit portion to 1/4 or 1/2 avocado at a time to prevent rapid bile dumping."
+  ]
+}

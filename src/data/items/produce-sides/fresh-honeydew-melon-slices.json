@@ -1,0 +1,42 @@
+{
+  "id": "fresh-honeydew-melon-slices",
+  "name": "Fresh Honeydew Melon Slices",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "melon",
+    "fruit",
+    "honeydew",
+    "hydrating",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "honeydew",
+    "green melon",
+    "fresh melon",
+    "sliced honeydew",
+    "hydrating fruit"
+  ],
+  "whyItWorks": "Honeydew melon is over 90% water and provides naturally soft, smooth flesh with almost zero insoluble fiber when ripe. It is completely seedless in the edible portion and non-acidic, making it very gentle on inflamed intestines.",
+  "prepOrOrderInstructions": "Pick ripe, fragrant melon with a slight give at the stem end. Cut away the rind generously and chew the pale green flesh thoroughly.",
+  "watchOuts": [
+    "Avoid unripe, hard, crunchy melon that requires excessive mechanical digestive processing."
+  ]
+}

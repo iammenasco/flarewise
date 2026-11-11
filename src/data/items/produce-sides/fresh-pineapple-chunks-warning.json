@@ -1,0 +1,40 @@
+{
+  "id": "fresh-pineapple-chunks-warning",
+  "name": "Fresh Pineapple Chunks (Woody Fiber & Bromelain Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "pineapple",
+    "woody-fiber",
+    "bromelain",
+    "acidic",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "pineapple",
+    "fresh pineapple",
+    "pineapple core",
+    "dole pineapple"
+  ],
+  "whyItWorks": "Fresh pineapple contains coarse, woody insoluble fibers and a potent protease enzyme called bromelain. While bromelain aids digestion in healthy guts, in ulcerated Crohn's/Colitis it stings open raw mucosal sores and accelerates cramping.",
+  "prepOrOrderInstructions": "Avoid raw fresh pineapple during flare-ups. In deep remission, select well-cooked canned pineapple crushed fine in 100% juice (cooking denatures the caustic bromelain enzyme).",
+  "watchOuts": [
+    "Coarse fibrous threads can tangle and bromelain enzyme burns ulcerated mucosal tissue."
+  ]
+}

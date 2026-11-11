@@ -1,0 +1,43 @@
+{
+  "id": "canned-pears-in-light-juice",
+  "name": "Canned Bartlett Pear Halves in 100% Juice or Water",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Canned Goods Staple",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "canned-fruit",
+    "pears",
+    "del-monte",
+    "dole",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "canned pears",
+    "bartlett pears",
+    "del monte pears",
+    "soft fruit",
+    "peeled pears"
+  ],
+  "whyItWorks": "Canned pears have the abrasive skins and fibrous cores completely removed, and the heat-canning process breaks down hemicellulose into tender, easily digested fruit flesh. They are exceptionally low in acid and gentle on ulcerated intestines.",
+  "prepOrOrderInstructions": "Drain the packing juice or water to reduce free liquid sugars. Eat pear halves with a spoon; they require virtually zero digestive mechanical effort.",
+  "watchOuts": [
+    "Avoid canned pears packed in heavy corn syrup; opt for pear juice, light juice, or water pack."
+  ]
+}

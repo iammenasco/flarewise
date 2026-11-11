@@ -1,0 +1,40 @@
+{
+  "id": "rice-krispies-treats-marshmallow-square",
+  "name": "Kellogg's Rice Krispies Treats Original Marshmallow Square",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kellogg's",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "dessert",
+    "rice-krispies",
+    "marshmallow",
+    "low-residue",
+    "kelloggs"
+  ],
+  "searchKeywords": [
+    "rice krispie treat",
+    "marshmallow square",
+    "rice crispy treat",
+    "kelloggs treat"
+  ],
+  "whyItWorks": "Combines toasted puffed white rice cereal with melted marshmallows and a small amount of butter. The puffed rice has virtually zero insoluble fiber and the marshmallow base is soft, chewable, and comforting.",
+  "prepOrOrderInstructions": "A fantastic on-the-go snack or lunchbox dessert when you need quick energy without digestive irritation.",
+  "watchOuts": [
+    "Contains a tiny amount of milk whey in the butter flavor; safe for almost all lactose intolerances."
+  ]
+}

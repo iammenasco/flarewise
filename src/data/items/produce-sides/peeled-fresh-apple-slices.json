@@ -1,0 +1,41 @@
+{
+  "id": "peeled-fresh-apple-slices",
+  "name": "Fresh Apple Slices (Thoroughly Peeled)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "apple",
+    "peeled-apple",
+    "fuji",
+    "honeycrisp",
+    "fruit"
+  ],
+  "searchKeywords": [
+    "peeled apple",
+    "fuji apple",
+    "gala apple",
+    "apple slices",
+    "skinless apple"
+  ],
+  "whyItWorks": "Peeling an apple completely strips away the insoluble cellulose skin that acts like sandpaper against raw intestine. The inner flesh consists predominantly of soluble pectin, which is well tolerated when chewed to a paste.",
+  "prepOrOrderInstructions": "Use a vegetable peeler to peel away all red/green skin. Slice thinly and chew each slice thoroughly, or steam lightly for enhanced tenderness.",
+  "watchOuts": [
+    "Never eat apple peels during flares or with known strictures; apple peels are notorious intestinal blockage culprits."
+  ]
+}

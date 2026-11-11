@@ -1,0 +1,40 @@
+{
+  "id": "peeled-steamed-yellow-squash",
+  "name": "Peeled & Steamed Yellow Summer Squash",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "yellow-squash",
+    "summer-squash",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "yellow squash",
+    "summer squash",
+    "steamed yellow squash",
+    "peeled squash"
+  ],
+  "whyItWorks": "Yellow summer squash has a delicate, naturally sweet flavor and silky pulp. When peeled and steamed, it breaks down into a soft, non-abrasive vegetable side that provides hydration, potassium, and vitamin C.",
+  "prepOrOrderInstructions": "Peel away yellow exterior skin, slice into thin half-moons, and steam or microwave with 2 tablespoons of water until completely soft and tender.",
+  "watchOuts": [
+    "Discard oversized squashes with large, hard mature seeds."
+  ]
+}

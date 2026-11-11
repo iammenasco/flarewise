@@ -1,0 +1,42 @@
+{
+  "id": "raw-bell-peppers-skin-warning",
+  "name": "Raw Green & Red Bell Peppers (Waxy Skin Indigestion Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "peppers",
+    "bell-pepper",
+    "waxy-skin",
+    "nightshades",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "bell pepper",
+    "raw pepper",
+    "green pepper",
+    "red pepper skin",
+    "pepper indigestion"
+  ],
+  "whyItWorks": "The outer cuticle of raw bell peppers is a tough, waxy layer of cutin that resists stomach acid and digestive enzymes. It commonly triggers severe upper abdominal cramps, gas, and reflux.",
+  "prepOrOrderInstructions": "Avoid raw sliced peppers on vegetable trays. Instead, roast red peppers until charred, steam them in a bag, and peel off the entire waxy skin.",
+  "watchOuts": [
+    "Tough waxy skin passes undigested, irritating delicate intestinal lining."
+  ]
+}

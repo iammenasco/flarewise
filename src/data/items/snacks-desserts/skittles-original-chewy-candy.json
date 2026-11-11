@@ -1,0 +1,39 @@
+{
+  "id": "skittles-original-chewy-candy",
+  "name": "Skittles Original Bite Size Chewy Candies",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "skittles",
+    "chewy-candy",
+    "gluten-free",
+    "fat-free"
+  ],
+  "searchKeywords": [
+    "skittles",
+    "taste the rainbow",
+    "chewy skittles",
+    "fruit candy"
+  ],
+  "whyItWorks": "Crisp sugar shell surrounding a chewy center of sugar, corn syrup, and hydrogenated palm kernel oil. They are gelatin-free, gluten-free, and nut-free with 0g fiber.",
+  "prepOrOrderInstructions": "Chew well. A popular cinema candy that Crohn's and Colitis patients can tolerate safely without nuts or seeds.",
+  "watchOuts": [
+    "Contains tart fruit flavors; chew thoroughly."
+  ]
+}

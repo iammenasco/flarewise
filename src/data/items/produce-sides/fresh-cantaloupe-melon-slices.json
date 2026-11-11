@@ -1,0 +1,42 @@
+{
+  "id": "fresh-cantaloupe-melon-slices",
+  "name": "Fresh Cantaloupe Slices (Rockmelon)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "cantaloupe",
+    "melon",
+    "rockmelon",
+    "fruit",
+    "potassium"
+  ],
+  "searchKeywords": [
+    "cantaloupe",
+    "rockmelon",
+    "orange melon",
+    "fresh cantaloupe",
+    "breakfast melon"
+  ],
+  "whyItWorks": "Cantaloupe is rich in beta-carotene and potassium (replenishing electrolytes lost to diarrhea) while featuring tender, silky flesh that breaks down rapidly in gastric acid. The interior seeds are easily scooped out completely.",
+  "prepOrOrderInstructions": "Ensure seeds and stringy center core are fully discarded. Slice the soft orange flesh into bite-sized cubes and eat chilled.",
+  "watchOuts": [
+    "Eat in modest portions (1 cup) to keep total fructose load comfortably balanced."
+  ]
+}

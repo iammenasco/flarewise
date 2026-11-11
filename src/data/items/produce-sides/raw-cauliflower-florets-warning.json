@@ -1,0 +1,40 @@
+{
+  "id": "raw-cauliflower-florets-warning",
+  "name": "Raw Cauliflower Florets (High Fermentation Bloat Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 3.9,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "cruciferous",
+    "cauliflower",
+    "raw-vegetables",
+    "bloat-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw cauliflower",
+    "cauliflower crudite",
+    "cauliflower gas",
+    "cauliflower trigger"
+  ],
+  "whyItWorks": "Dense cruciferous structure: Raw cauliflower florets are hard, abrasive to inflamed intestinal lining, and packed with complex oligosaccharides that humans cannot digest without severe bacterial gas production.",
+  "prepOrOrderInstructions": "Trigger Warning: Avoid raw cauliflower crudité platters. If eating cauliflower, steam until completely mushy and puree into smooth cauliflower mash.",
+  "watchOuts": [
+    "Severe gas and distension risk; avoid entirely during flares and active disease."
+  ]
+}

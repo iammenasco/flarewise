@@ -1,0 +1,39 @@
+{
+  "id": "red-vines-original-red-twists",
+  "name": "Red Vines Original Red Licorice Twists",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "American Licorice Company",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "red-vines",
+    "licorice",
+    "fat-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "red vines",
+    "red licorice",
+    "american licorice",
+    "movie candy"
+  ],
+  "whyItWorks": "Red Vines are fat-free, made from simple wheat flour and cane syrup without artificial preservatives. Gentle on the stomach with zero residue.",
+  "prepOrOrderInstructions": "Chew well. A great fat-free sweet alternative to chocolate bars.",
+  "watchOuts": [
+    "Contains wheat flour (gluten)."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "lays-classic-salted-potato-chips",
+  "name": "Lay's Classic Salted Potato Chips (Remission Portion)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "potato-chips",
+    "lays",
+    "salty",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "potato chips",
+    "lays chips",
+    "classic lays",
+    "salted chips",
+    "crisps"
+  ],
+  "whyItWorks": "Thinly sliced potatoes fried in vegetable oil and seasoned with salt. They contain minimal fiber (1g), but the moderate fat content (10g per serving) can accelerate transit during active flares.",
+  "prepOrOrderInstructions": "Best enjoyed during remission in a single 1-oz portion (about 15 chips). Chew thoroughly until completely pulverized before swallowing.",
+  "watchOuts": [
+    "The oil content can stimulate rapid gallbladder emptying and loose stools during active flare-ups."
+  ]
+}

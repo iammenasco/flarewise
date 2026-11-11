@@ -1,0 +1,39 @@
+{
+  "id": "raw-green-unripe-banana-warning",
+  "name": "Unripe Green Bananas (Resistant Starch Bloating Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "banana",
+    "green-banana",
+    "resistant-starch",
+    "gas-warning"
+  ],
+  "searchKeywords": [
+    "green banana",
+    "unripe banana",
+    "resistant starch",
+    "banana gas"
+  ],
+  "whyItWorks": "Unlike sweet ripe yellow bananas, unripe greenish bananas are packed with type 2 resistant starch. Resistant starch resists small bowel digestion entirely and ferments rapidly in the colon, producing massive gas, abdominal distension, and severe colonic pain.",
+  "prepOrOrderInstructions": "Never eat bananas with green skins or green necks during flares. Let them sit on the counter until fully golden yellow with light brown freckles.",
+  "watchOuts": [
+    "Massive resistant starch load causes rapid microbial fermentation, severe bloat, and gas pressure against inflamed bowel walls."
+  ]
+}

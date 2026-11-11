@@ -1,0 +1,40 @@
+{
+  "id": "raw-broccoli-florets-warning",
+  "name": "Raw Broccoli Florets & Stalks (Severe Gas & Cellulose Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 3.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "cruciferous",
+    "broccoli",
+    "raw-broccoli",
+    "high-sulfur",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw broccoli",
+    "broccoli florets",
+    "broccoli gas",
+    "broccoli trigger"
+  ],
+  "whyItWorks": "Cruciferous vegetable trigger: Raw broccoli contains tough, crystalline insoluble cellulose and sulfur-rich glucosinolates. It is heavily fermented by colonic bacteria into hydrogen sulfide gas, causing agonizing bloating, spasms, and mechanical scraping.",
+  "prepOrOrderInstructions": "High Trigger Warning: Completely avoid raw broccoli, broccoli slaw, and vegetable tray broccoli. In deep remission, only eat well-cooked, tender-boiled florets in small amounts.",
+  "watchOuts": [
+    "Major cause of gas colic and mechanical mucosal abrasion in both Crohn's and Ulcerative Colitis."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "jif-creamy-smooth-peanut-butter",
+  "name": "Jif Creamy Smooth Peanut Butter (2 Tbsp)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Jif / J.M. Smucker",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "peanut-butter",
+    "creamy",
+    "jif",
+    "high-protein",
+    "healthy-fats"
+  ],
+  "searchKeywords": [
+    "peanut butter",
+    "creamy peanut butter",
+    "smooth peanut butter",
+    "jif creamy",
+    "skippy creamy"
+  ],
+  "whyItWorks": "While whole peanuts are dangerous stricture hazards, commercial creamy peanut butter is micro-milled into a velvety emulsion. It provides calorie-dense fats, protein, and vitamin E without any jagged particles to scrape intestinal walls.",
+  "prepOrOrderInstructions": "Spread a thin layer (1–2 tablespoons) onto white toast, saltines, or rice cakes. Avoid eating heaping thick spoonfuls at once to prevent esophageal sticking.",
+  "watchOuts": [
+    "Must be 100% smooth/creamy; never purchase crunchy varieties."
+  ]
+}

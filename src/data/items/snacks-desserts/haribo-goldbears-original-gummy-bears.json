@@ -1,0 +1,42 @@
+{
+  "id": "haribo-goldbears-original-gummy-bears",
+  "name": "Haribo Goldbears Original Gummy Bears",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Haribo",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "gummy-bears",
+    "haribo",
+    "gelatin",
+    "fat-free",
+    "flare-safe",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "gummy bears",
+    "haribo gummy bears",
+    "goldbears",
+    "gummies",
+    "fat free candy"
+  ],
+  "whyItWorks": "Original Haribo Goldbears are made of pure pork skin gelatin, glucose syrup, and sugar. They contain 0g fiber and 0g fat. Chewed gummy candy dissolves smoothly into gelatinous liquid in the stomach, providing safe quick energy.",
+  "prepOrOrderInstructions": "Chew gummies thoroughly before swallowing. Safe treat during low-residue diets and flare recovery.",
+  "watchOuts": [
+    "Crucial safety distinction: Always choose REGULAR SUGAR Haribo; never eat sugar-free gummy bears!"
+  ]
+}

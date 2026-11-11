@@ -1,0 +1,40 @@
+{
+  "id": "snack-factory-pretzel-crisps-original",
+  "name": "Snack Factory Pretzel Crisps Original (Flat Pretzels)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Snack Factory / Snyder's-Lance",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "pretzel-crisps",
+    "snack-factory",
+    "low-fat",
+    "flare-safe",
+    "crackers"
+  ],
+  "searchKeywords": [
+    "pretzel crisps",
+    "flat pretzels",
+    "snack factory",
+    "thin pretzels"
+  ],
+  "whyItWorks": "Flat, thin, and lightly toasted without the dense interior dough of thick pretzels. They break down effortlessly in the mouth with very little chewing effort and deliver light sodium for electrolyte support.",
+  "prepOrOrderInstructions": "Enjoy straight from the bag or dip into smooth cream cheese, mild hummus (if tolerated), or creamy peanut butter.",
+  "watchOuts": [
+    "Avoid garlic-parmesan or spicy buffalo varieties during sensitive digestive periods."
+  ]
+}

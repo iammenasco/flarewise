@@ -1,0 +1,42 @@
+{
+  "id": "whole-sweet-corn-on-the-cob-warning",
+  "name": "Sweet Corn on the Cob & Whole Kernel Corn (Extreme Stricture Hazard)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 2.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "corn",
+    "sweet-corn",
+    "corn-on-the-cob",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "sweet corn",
+    "corn on the cob",
+    "whole kernel corn",
+    "corn blockage",
+    "corn hull warning"
+  ],
+  "whyItWorks": "The outer yellow shell (pericarp) of whole sweet corn kernels is made of pure, indestructible cellulose that human gastric enzymes cannot break down. These kernels pass through whole and clump together, making them the #1 emergency cause of small bowel obstruction in stricturing Crohn's.",
+  "prepOrOrderInstructions": "Extreme Danger Hazard: Avoid sweet corn on the cob, canned whole corn, and roasted corn kernels. If desiring corn flavor, choose smooth pureed corn chowder (strained) or smooth corn grits/polenta.",
+  "watchOuts": [
+    "Emergency hospital obstruction risk: Undigested corn kernels lodge in narrowed intestinal strictures, requiring surgical intervention."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fresh-strawberries-seed-warning",
+  "name": "Fresh Strawberries (Achene Seed Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 6.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "strawberries",
+    "berries",
+    "seed-warning",
+    "remission-only"
+  ],
+  "searchKeywords": [
+    "strawberries",
+    "fresh berries",
+    "strawberry seed warning",
+    "driscoll strawberries"
+  ],
+  "whyItWorks": "While sweet, hydrating, and packed with vitamin C, each strawberry is studded with dozens of tiny hard exterior seeds (achenes). While benign in remission, in active colitis or stricturing Crohn's, these tiny seeds irritate ulcers.",
+  "prepOrOrderInstructions": "Best reserved for remission. If craving strawberries during a sensitive period, blend into a smoothie and strain through a fine-mesh sieve to remove all seeds, or use smooth seedless strawberry jam.",
+  "watchOuts": [
+    "The tiny exterior seeds pass undigested and can physically abrade inflamed mucosal tissue."
+  ]
+}

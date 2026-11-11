@@ -1,0 +1,41 @@
+{
+  "id": "raw-celery-sticks-warning",
+  "name": "Raw Celery Sticks (Stringy Insoluble Fiber Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "celery",
+    "raw-celery",
+    "stringy-fiber",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "celery",
+    "raw celery",
+    "celery sticks",
+    "celery strings",
+    "celery blockage"
+  ],
+  "whyItWorks": "Celery stalks contain long, longitudinal vascular bundles (the fibrous 'strings') composed of tough collenchyma and lignin. When swallowed, these strings do not dissolve, balling up into a fibrous mass (phytobezoar) that can obstruct the terminal ileum.",
+  "prepOrOrderInstructions": "Stricture Warning: Avoid raw celery sticks and celery crudité. If cooking with celery (mirpoix/soups), dice extremely fine and cook until translucent and soft.",
+  "watchOuts": [
+    "Fibrous celery strings tangle together in the GI tract, posing an acute blockage risk in Crohn's patients with strictures."
+  ]
+}

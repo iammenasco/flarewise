@@ -1,0 +1,41 @@
+{
+  "id": "raw-cabbage-coleslaw-warning",
+  "name": "Raw Green/Red Cabbage & Coleslaw (High Gas & Mechanical Irritant Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 3.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "cabbage",
+    "coleslaw",
+    "raw-cabbage",
+    "roughage",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "coleslaw",
+    "raw cabbage",
+    "shredded cabbage",
+    "cabbage gas",
+    "cabbage warning"
+  ],
+  "whyItWorks": "Shredded raw cabbage is sharp, stiff, and packed with insoluble fibers that scrape inflamed colonic mucosa like miniature razor blades. Its high sulfur compounds generate severe methane and hydrogen sulfide gas.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid restaurant coleslaw, raw cabbage shreds on tacos, and cabbage salads. Substitute with soft cooked vegetables.",
+  "watchOuts": [
+    "A leading trigger for painful tenesmus, severe bloating, and acute flare-up exacerbation."
+  ]
+}

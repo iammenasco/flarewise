@@ -1,0 +1,43 @@
+{
+  "id": "canned-peaches-in-light-juice",
+  "name": "Canned Yellow Cling Peaches in 100% Juice or Water",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Canned Goods Staple",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "canned-fruit",
+    "peaches",
+    "del-monte",
+    "dole",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "canned peaches",
+    "sliced peaches",
+    "cling peaches",
+    "del monte peaches",
+    "soft peaches"
+  ],
+  "whyItWorks": "Peeled and steam-softened canned peaches provide smooth hydration, vitamin C, and gentle soluble fiber without the harsh fuzzy skin that causes mechanical irritation in Crohn's and Colitis.",
+  "prepOrOrderInstructions": "Drain excess packing liquid and eat the soft peach slices. Excellent paired with plain white rice, oatmeal, or plain lactose-free yogurt.",
+  "watchOuts": [
+    "Always verify that skins have been completely removed during processing."
+  ]
+}

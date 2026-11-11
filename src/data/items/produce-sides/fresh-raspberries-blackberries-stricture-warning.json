@@ -1,0 +1,41 @@
+{
+  "id": "fresh-raspberries-blackberries-stricture-warning",
+  "name": "Fresh Raspberries & Blackberries (Dense Seed Stricture Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "raspberries",
+    "blackberries",
+    "stricture-warning",
+    "high-fiber",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raspberries",
+    "blackberries",
+    "bramble berries",
+    "berry seeds",
+    "stricture hazard"
+  ],
+  "whyItWorks": "Blackberries and raspberries have one of the highest insoluble fiber loads of any fruit (8 grams per cup), consisting of hundreds of hard, woody, indigestible drupelet seeds. These seeds clump together and present an extreme obstruction hazard in strictures.",
+  "prepOrOrderInstructions": "Stricture & Flare Warning: Avoid whole fresh or frozen raspberries and blackberries. Consume only strained, seedless seed-free coulis or clear jellies.",
+  "watchOuts": [
+    "Hard woody seeds will not break down in gastric acid and can create partial or complete small bowel blockages in patients with intestinal narrowing."
+  ]
+}

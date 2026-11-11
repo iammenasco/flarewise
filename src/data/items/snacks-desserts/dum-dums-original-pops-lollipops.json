@@ -1,0 +1,41 @@
+{
+  "id": "dum-dums-original-pops-lollipops",
+  "name": "Dum-Dums Original Pops Lollipops",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Spangler Candy",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "lollipops",
+    "dum-dums",
+    "hard-candy",
+    "flare-safe",
+    "zero-residue"
+  ],
+  "searchKeywords": [
+    "dum dums",
+    "lollipops",
+    "suckers",
+    "spangler pops",
+    "hard candy"
+  ],
+  "whyItWorks": "Hard sugar candies dissolve slowly in the mouth via saliva, preventing bolus digestion in the stomach. Sucking on a pop promotes salivary enzymes and eases mild nausea during flare days.",
+  "prepOrOrderInstructions": "Suck on a pop slowly; do not bite down on hard candy to protect dental enamel.",
+  "watchOuts": [
+    "Pure sugar; zero dietary residue."
+  ]
+}

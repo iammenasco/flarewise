@@ -1,0 +1,40 @@
+{
+  "id": "peeps-marshmallow-chicks",
+  "name": "Peeps Yellow Marshmallow Chicks",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Just Born Quality Confections",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "peeps",
+    "marshmallow",
+    "easter",
+    "fat-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "peeps",
+    "marshmallow chicks",
+    "peeps candy",
+    "easter candy"
+  ],
+  "whyItWorks": "Fluffy whipped marshmallow coated with sparkling sugar crystals. Completely fat-free, gluten-free, and residue-free. Melts into liquid sugar in the mouth.",
+  "prepOrOrderInstructions": "Fun, gentle seasonal treat that poses zero mechanical friction in the intestine.",
+  "watchOuts": [
+    "Pure refined sugar; enjoy in moderation."
+  ]
+}

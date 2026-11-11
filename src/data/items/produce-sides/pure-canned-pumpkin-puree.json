@@ -1,0 +1,43 @@
+{
+  "id": "pure-canned-pumpkin-puree",
+  "name": "100% Pure Canned Pumpkin Puree (Unspiced)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Canned Goods Staple",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "pumpkin",
+    "puree",
+    "libbys",
+    "soluble-fiber",
+    "gut-soothing"
+  ],
+  "searchKeywords": [
+    "canned pumpkin",
+    "pumpkin puree",
+    "libbys pumpkin",
+    "pure pumpkin",
+    "pumpkin soup"
+  ],
+  "whyItWorks": "Pure canned pumpkin is steam-cooked and pureed into an ultra-smooth consistency. It is rich in soluble fiber that absorbs excess fluid in watery diarrhea without scraping inflamed tissue.",
+  "prepOrOrderInstructions": "Buy 100% pure pumpkin (such as Libby's), NOT sweetened pumpkin pie mix. Stir into oatmeal, blend into a gentle soup with chicken broth, or mix with white rice.",
+  "watchOuts": [
+    "Do not confuse with Canned Pumpkin Pie Mix, which contains added sugar, cloves, allspice, and irritating spices."
+  ]
+}

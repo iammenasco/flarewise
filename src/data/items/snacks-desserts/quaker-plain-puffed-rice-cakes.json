@@ -1,0 +1,41 @@
+{
+  "id": "quaker-plain-puffed-rice-cakes",
+  "name": "Quaker Plain Salted Puffed Rice Cakes",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Quaker Oats",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "rice-cakes",
+    "quaker",
+    "puffed-rice",
+    "gluten-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "rice cakes",
+    "quaker rice cakes",
+    "plain rice cakes",
+    "salted rice cakes",
+    "gluten free snack"
+  ],
+  "whyItWorks": "Puffed white rice cakes are ultra-light, naturally gluten-free, and practically dissolve on contact with saliva. With zero fat and minimal fiber (0.5g), they provide clean, non-irritating calories.",
+  "prepOrOrderInstructions": "Eat plain as a crunchy flare snack, or spread lightly with smooth creamy peanut butter or seedless jelly.",
+  "watchOuts": [
+    "Avoid multi-seed or multigrain rice cakes with whole sesame or flax seeds."
+  ]
+}

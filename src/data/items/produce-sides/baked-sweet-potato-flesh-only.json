@@ -1,0 +1,42 @@
+{
+  "id": "baked-sweet-potato-flesh-only",
+  "name": "Plain Baked Sweet Potato (Peeled Flesh Only)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "sweet-potato",
+    "yam",
+    "vitamin-a",
+    "soluble-fiber",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sweet potato",
+    "baked sweet potato",
+    "yam",
+    "orange sweet potato",
+    "soft sweet potato"
+  ],
+  "whyItWorks": "Sweet potato flesh is packed with beta-carotene, vitamin C, and predominantly soluble fiber. When baked until caramel-sweet and tender, it provides gentle anti-inflammatory nourishment for the intestinal lining.",
+  "prepOrOrderInstructions": "Pierce sweet potato with a fork and microwave for 6–8 minutes or bake at 400°F for 45 minutes until soft. Scoop out only the orange flesh; completely discard the tough outer skin.",
+  "watchOuts": [
+    "Always discard the tough, fibrous outer peel."
+  ]
+}

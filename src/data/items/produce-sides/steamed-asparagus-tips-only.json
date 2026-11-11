@@ -1,0 +1,39 @@
+{
+  "id": "steamed-asparagus-tips-only",
+  "name": "Steamed Asparagus (Tender Tips Only — Discard Woody Stems)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "asparagus",
+    "remission-road",
+    "asparagus-tips"
+  ],
+  "searchKeywords": [
+    "asparagus",
+    "asparagus tips",
+    "steamed asparagus",
+    "cooked asparagus"
+  ],
+  "whyItWorks": "The delicate top 2 inches (tips) of asparagus spears are tender and low in tough woody lignin fiber, providing prebiotic inulin and folate in remission.",
+  "prepOrOrderInstructions": "Snap spears to discard the bottom half entirely. Steam the upper tips until completely tender. Chew well.",
+  "watchOuts": [
+    "Stricture hazard: Never eat the lower woody fibrous asparagus stalks! They are stringy and resist digestion."
+  ]
+}

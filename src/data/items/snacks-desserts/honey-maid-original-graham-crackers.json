@@ -1,0 +1,38 @@
+{
+  "id": "honey-maid-original-graham-crackers",
+  "name": "Honey Maid Original Graham Crackers",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Honey Maid / Mondelēz",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "graham-crackers",
+    "honey-maid",
+    "low-fat",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "graham crackers",
+    "honey maid",
+    "graham squares",
+    "sweet crackers"
+  ],
+  "whyItWorks": "Graham crackers use finely milled graham flour and real honey. They provide gentle complex carbohydrates and melt into a soft porridge when dipped in warm tea, water, or lactose-free milk.",
+  "prepOrOrderInstructions": "Break along the perforated lines into 4 rectangles. Dunk in warm peppermint or chamomile tea for an ultra-soothing stomach comfort snack.",
+  "watchOuts": [
+    "Contains mild wheat bran; chew thoroughly."
+  ]
+}

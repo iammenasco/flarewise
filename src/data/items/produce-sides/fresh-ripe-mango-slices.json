@@ -1,0 +1,42 @@
+{
+  "id": "fresh-ripe-mango-slices",
+  "name": "Fresh Ripe Mango Slices (Soft & Peeled)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "mango",
+    "tropical",
+    "fruit",
+    "vitamin-a",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "mango",
+    "ataulfo mango",
+    "honey mango",
+    "peeled mango",
+    "fresh mango"
+  ],
+  "whyItWorks": "Soft, fiberless varieties of mango (like Ataulfo / Honey mangoes) have a creamy, custard-like texture that provides vitamins A and C without stringy cellulose. Soluble fiber predominates.",
+  "prepOrOrderInstructions": "Choose Ataulfo or fully ripe Tommy Atkins mangoes. Cut flesh away from the flat center pit and peel off the tough waxy skin completely.",
+  "watchOuts": [
+    "Avoid stringy, fibrous fibrous mangoes where stringy hairs get caught in digestion."
+  ]
+}

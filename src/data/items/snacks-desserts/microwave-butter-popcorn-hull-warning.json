@@ -1,0 +1,40 @@
+{
+  "id": "microwave-butter-popcorn-hull-warning",
+  "name": "Microwave Butter Popcorn (High-Risk Pericarp Hull Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Snack Food Staple",
+  "crohnsScore": 2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "popcorn",
+    "movie-popcorn",
+    "stricture-hazard",
+    "hulls",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "popcorn",
+    "microwave popcorn",
+    "movie theater popcorn",
+    "popcorn hulls",
+    "popcorn obstruction"
+  ],
+  "whyItWorks": "The #1 universally recognized food hazard in Crohn's and Colitis. The popped white starch is harmless, but every kernel retains a razor-sharp, concave brown pericarp hull made of indestructible insoluble cellulose. These hulls adhere to mucosal ulcers and form phytobezoar plugs in strictures.",
+  "prepOrOrderInstructions": "Absolute Warning: Completely avoid popcorn in all forms (microwave, cinema, bagged, kettle corn). If craving a crunchy puffed snack, eat puffed Chester's Puffcorn (which is 100% hull-free) or pirate's booty puffs.",
+  "watchOuts": [
+    "Highest-risk food for small bowel impaction and severe bleeding in IBD. Hulls lodge in intestinal ulcerations and do not digest."
+  ]
+}

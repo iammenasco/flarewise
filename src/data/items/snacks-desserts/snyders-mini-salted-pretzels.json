@@ -1,0 +1,40 @@
+{
+  "id": "snyders-mini-salted-pretzels",
+  "name": "Snyder's of Hanover Mini Salted Pretzels / Pretzel Sticks",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Snyder's of Hanover",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "pretzels",
+    "snyders",
+    "low-fat",
+    "sodium",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "pretzels",
+    "mini pretzels",
+    "pretzel sticks",
+    "snyders pretzels",
+    "low fat snack"
+  ],
+  "whyItWorks": "Hard-baked pretzels are naturally virtually fat-free and made from easily digested enriched flour. They satisfy the desire for salty crunch without the greasy vegetable oils of potato chips.",
+  "prepOrOrderInstructions": "Enjoy a handful of mini pretzels or pretzel sticks between meals. Brush off excessive coarse salt crystals if you are on a restricted-sodium medication regimen (e.g., prednisone).",
+  "watchOuts": [
+    "Brush off excess large salt grains if taking systemic steroids like Prednisone to avoid water retention."
+  ]
+}

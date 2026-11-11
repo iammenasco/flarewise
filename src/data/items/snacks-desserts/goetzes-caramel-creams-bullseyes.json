@@ -1,0 +1,40 @@
+{
+  "id": "goetzes-caramel-creams-bullseyes",
+  "name": "Goetze's Caramel Creams (Bullseyes Chewy Caramels)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Goetze's Candy Company",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "caramels",
+    "bullseyes",
+    "goetzes",
+    "chewy-candy",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "caramel creams",
+    "bullseyes",
+    "goetzes candy",
+    "chewy caramel"
+  ],
+  "whyItWorks": "Unlike sticky tooth-pulling caramels, Goetze's Caramel Creams are made with wheat flour, giving them a soft, cake-like chew with a creamy vanilla center. Low residue and gentle.",
+  "prepOrOrderInstructions": "Chew slowly. A wonderful old-school comfort candy that avoids chocolate and nuts.",
+  "watchOuts": [
+    "Contains wheat flour and milk."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kraft-jello-strawberry-gelatin",
+  "name": "Kraft Jell-O Strawberry Gelatin Dessert (Prepared)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kraft Jell-O",
+  "crohnsScore": 9.6,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "gelatin",
+    "jello",
+    "kraft",
+    "clear-liquid",
+    "flare-safe",
+    "zero-residue"
+  ],
+  "searchKeywords": [
+    "jello",
+    "strawberry jello",
+    "gelatin",
+    "kraft jello",
+    "clear liquid dessert"
+  ],
+  "whyItWorks": "The classic hospital and colonoscopy clear-liquid prep staple. Gelatin is derived from collagen peptides and water. It dissolves into a completely liquid state at body temperature, leaving zero digestive residue in the intestinal tract.",
+  "prepOrOrderInstructions": "Prepare according to box directions or buy pre-made cups. Excellent for acute flare-up hydration and gentle sweetness.",
+  "watchOuts": [
+    "Avoid red-colored gelatin 48 hours prior to a scheduled colonoscopy."
+  ]
+}

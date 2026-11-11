@@ -1,0 +1,39 @@
+{
+  "id": "soft-baked-vanilla-sugar-cookies",
+  "name": "Soft-Baked Vanilla Sugar Cookies",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bakery Grocery Staple",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "cookies",
+    "sugar-cookies",
+    "soft-baked",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "sugar cookies",
+    "soft sugar cookies",
+    "vanilla cookies",
+    "lofthouse style cookies"
+  ],
+  "whyItWorks": "Tender, soft-baked sugar cookies made with refined flour and vanilla have a pillowy texture that crumbles and breaks down rapidly without crunchy edges. They are free from nuts, seeds, and chocolate.",
+  "prepOrOrderInstructions": "Choose plain soft sugar cookies without excessive colored sprinkles or thick fatty frostings during flare periods.",
+  "watchOuts": [
+    "Limit portion to 1–2 cookies to avoid high refined sugar spikes."
+  ]
+}

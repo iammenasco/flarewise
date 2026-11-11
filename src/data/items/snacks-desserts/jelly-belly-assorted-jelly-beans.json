@@ -1,0 +1,39 @@
+{
+  "id": "jelly-belly-assorted-jelly-beans",
+  "name": "Jelly Belly Assorted Gourmet Jelly Beans",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Jelly Belly",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "jelly-beans",
+    "jelly-belly",
+    "fat-free",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "jelly belly",
+    "jelly beans",
+    "gourmet jelly beans",
+    "sweet candy"
+  ],
+  "whyItWorks": "Jelly Belly beans use corn syrup, sugar, modified food starch, and natural flavorings. They are fat-free, gluten-free, peanut-free, and dissolve smoothly in the digestive tract.",
+  "prepOrOrderInstructions": "Chew small handfuls slowly. Avoid super-sour flavors if you experience mouth ulcers or acid reflux.",
+  "watchOuts": [
+    "Skip acidic citrus flavors (e.g., Sunkist lemon/lime) if sensitive to citric acid."
+  ]
+}

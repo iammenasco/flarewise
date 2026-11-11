@@ -1,0 +1,42 @@
+{
+  "id": "steamed-tender-baby-carrots",
+  "name": "Steamed or Boiled Tender Baby Carrots",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "carrots",
+    "cooked-carrots",
+    "beta-carotene",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "cooked carrots",
+    "steamed carrots",
+    "boiled baby carrots",
+    "soft carrots",
+    "safe vegetables"
+  ],
+  "whyItWorks": "Cooking carrots until fork-tender dissolves the tough pectin and hemicellulose cell walls, turning a hard fibrous root into an ultra-gentle, easily digested puree of beta-carotene and soluble nutrients. Completely safe even in strictures when soft.",
+  "prepOrOrderInstructions": "Steam or boil baby carrots for 12–15 minutes until easily mashed with the back of a fork. Season with a pinch of sea salt and a touch of butter or olive oil.",
+  "watchOuts": [
+    "Must be cooked until thoroughly soft; never eat raw or crunchy carrots during an active flare."
+  ]
+}

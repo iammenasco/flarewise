@@ -1,0 +1,40 @@
+{
+  "id": "steamed-tender-green-beans",
+  "name": "Steamed Tender Green Beans (Fork-Soft)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "green-beans",
+    "cooked-vegetables",
+    "low-fodmap"
+  ],
+  "searchKeywords": [
+    "green beans",
+    "steamed green beans",
+    "string beans",
+    "cooked green beans",
+    "french beans"
+  ],
+  "whyItWorks": "Green beans are low-FODMAP and safe for most IBD patients when cooked thoroughly. Steaming breaks down the outer cellulose pod, rendering them soft and non-bloating.",
+  "prepOrOrderInstructions": "Snap off woody stem ends and steam for 10–12 minutes until tender and easily pierced with a fork. Avoid al dente or crunchy snap beans during flare-ups.",
+  "watchOuts": [
+    "Never eat raw or undercooked crunchy green beans during active inflammation."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kraft-jet-puffed-marshmallows",
+  "name": "Kraft Jet-Puffed Regular or Mini Marshmallows",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kraft Jet-Puffed",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "marshmallows",
+    "jet-puffed",
+    "kraft",
+    "zero-fat",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "marshmallows",
+    "jet puffed",
+    "mini marshmallows",
+    "kraft marshmallows",
+    "sweet treat"
+  ],
+  "whyItWorks": "Marshmallows consist purely of whipped sugar, corn syrup, water, and gelatin. They possess zero fiber and zero fat, melting into pure liquid at body temperature. Widely tolerated even during severe flare-ups.",
+  "prepOrOrderInstructions": "Eat straight from the bag or drop into warm herbal tea or lactose-free hot cocoa for a soothing sweet treat.",
+  "watchOuts": [
+    "Virtually zero GI risk, but high in simple sugars—consume in reasonable moderation."
+  ]
+}

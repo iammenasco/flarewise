@@ -1,0 +1,41 @@
+{
+  "id": "frigo-cheese-heads-string-cheese",
+  "name": "Frigo Cheese Heads String Cheese (Part-Skim Mozzarella)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frigo Cheese Heads / Saputo",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "cheese",
+    "string-cheese",
+    "high-protein",
+    "calcium",
+    "low-lactose"
+  ],
+  "searchKeywords": [
+    "string cheese",
+    "mozzarella stick",
+    "cheese heads",
+    "frigo cheese",
+    "portable protein"
+  ],
+  "whyItWorks": "Natural part-skim mozzarella cheese undergoes curd separation during production, which removes nearly all whey and lactose (less than 0.1g lactose per stick). It delivers 6–7g of pure bioavailable protein and calcium without digestive strain.",
+  "prepOrOrderInstructions": "Peel into fine thin strings to encourage slow eating and rapid enzymatic digestion. Safe for virtually all lactose-sensitive individuals.",
+  "watchOuts": [
+    "High in casein protein; avoid if you have an IgE allergy to dairy protein."
+  ]
+}

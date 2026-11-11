@@ -1,0 +1,41 @@
+{
+  "id": "dried-raisins-prunes-figs-warning",
+  "name": "Dried Fruit: Raisins, Prunes & Dried Figs (Extreme Insoluble Fiber Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 7,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "dried-fruit",
+    "raisins",
+    "prunes",
+    "figs",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raisins",
+    "sunsweet prunes",
+    "dried figs",
+    "craisins",
+    "dried fruit danger"
+  ],
+  "whyItWorks": "Dehydrating fruit concentrates tough, shriveled insoluble fiber, sticky fruit skins, and high osmotic sorbitol. Dried fruits expand in the digestive tract, creating dense, leathery boluses that easily cause mechanical bowel obstructions.",
+  "prepOrOrderInstructions": "Severe Stricture Warning: Avoid all dried raisins, prunes, dried cranberries, and dried figs if you have Crohn's disease, strictures, or active inflammation.",
+  "watchOuts": [
+    "Top cause of food-induced small bowel obstruction in IBD. Prunes also contain high natural sorbitol which induces violent diarrhea."
+  ]
+}

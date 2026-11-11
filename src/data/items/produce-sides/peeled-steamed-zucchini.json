@@ -1,0 +1,42 @@
+{
+  "id": "peeled-steamed-zucchini",
+  "name": "Peeled & Steamed Zucchini (Courgette)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "zucchini",
+    "courgette",
+    "squash",
+    "flare-safe",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "zucchini",
+    "steamed zucchini",
+    "peeled zucchini",
+    "courgette",
+    "safe squash"
+  ],
+  "whyItWorks": "Once the dark green outer peel is shaved off, the pale tender interior of zucchini is over 94% water with soft, immature seeds that melt during cooking. It produces virtually zero digestive residue.",
+  "prepOrOrderInstructions": "Use a vegetable peeler to peel off all green skin. Slice into rounds and steam or simmer in broth for 8–10 minutes until translucent and fork-soft.",
+  "watchOuts": [
+    "Always peel the outer green skin during flares, as raw unpeeled zucchini skin is tough insoluble fiber."
+  ]
+}

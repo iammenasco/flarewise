@@ -1,0 +1,42 @@
+{
+  "id": "steamed-baby-spinach-wilted",
+  "name": "Cooked & Wilted Baby Spinach (Steamed or Sautéed)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "greens",
+    "spinach",
+    "cooked-spinach",
+    "iron",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "spinach",
+    "cooked spinach",
+    "wilted spinach",
+    "sauteed spinach",
+    "baby spinach"
+  ],
+  "whyItWorks": "Cooking tender young baby spinach leaves shrinks and wilts the leafy matrix, dramatically decreasing mechanical volume while preserving iron and folate. Far safer than raw spinach salads.",
+  "prepOrOrderInstructions": "Sauté baby spinach in a pan with 1 teaspoon of olive oil or chicken broth for 2–3 minutes until fully wilted and soft.",
+  "watchOuts": [
+    "Avoid raw rough spinach salads; raw leaves can ball up and irritate strictured bowel segments."
+  ]
+}

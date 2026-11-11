@@ -1,0 +1,39 @@
+{
+  "id": "walkers-pure-butter-shortbread",
+  "name": "Walkers Pure Butter Shortbread Fingers",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Walkers Shortbread",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "shortbread",
+    "walkers",
+    "scottish-shortbread",
+    "butter-cookie"
+  ],
+  "searchKeywords": [
+    "shortbread",
+    "walkers shortbread",
+    "shortbread fingers",
+    "butter shortbread"
+  ],
+  "whyItWorks": "Pure Scottish shortbread is made from just 4 ingredients: wheat flour, pure creamery butter, sugar, and salt. It has no chemical leaveners, eggs, or nuts, and literally melts on the tongue.",
+  "prepOrOrderInstructions": "Dunk into hot herbal tea. The butter provides clean, dense calories during recovery periods when weight gain is needed.",
+  "watchOuts": [
+    "High in pure butter fat; enjoy 1–2 fingers at a time to avoid fat-induced rapid transit."
+  ]
+}

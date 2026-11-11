@@ -1,0 +1,40 @@
+{
+  "id": "twizzlers-strawberry-licorice-twists",
+  "name": "Twizzlers Strawberry Licorice Twists",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Hershey's / Twizzlers",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "twizzlers",
+    "licorice",
+    "strawberry",
+    "low-fat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "twizzlers",
+    "strawberry licorice",
+    "red licorice",
+    "twizzler twists"
+  ],
+  "whyItWorks": "Twizzlers are formulated from enriched wheat flour, corn syrup, and sugar with less than 0.5g fat and 0g fiber. They provide satisfying chewy sweetness without chocolate, seeds, dairy, or nuts.",
+  "prepOrOrderInstructions": "Pull twists apart and chew thoroughly. A reliable cinema or road trip sweet for IBD patients.",
+  "watchOuts": [
+    "Contains wheat flour; not suitable for individuals with celiac disease."
+  ]
+}

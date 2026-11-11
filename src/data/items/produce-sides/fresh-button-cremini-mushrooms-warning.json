@@ -1,0 +1,41 @@
+{
+  "id": "fresh-button-cremini-mushrooms-warning",
+  "name": "Raw or Sautéed Whole Mushrooms (Chitin Cell Wall Stricture Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "mushrooms",
+    "chitin",
+    "fungi",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "mushrooms",
+    "button mushrooms",
+    "cremini",
+    "sauteed mushrooms",
+    "mushroom blockage"
+  ],
+  "whyItWorks": "Mushroom cell walls are made of chitin, a tough polymer identical to crustacean shells. Humans lack chitinase enzymes, so mushroom chunks remain rubbery, sponge-like, and intact throughout transit, creating obstruction risks in strictures.",
+  "prepOrOrderInstructions": "Stricture Warning: Avoid whole or sliced button, cremini, or portobello mushrooms. If using mushrooms for umami flavor, use clear mushroom broth or finely pureed mushroom soup in remission.",
+  "watchOuts": [
+    "Indigestible chitin chunks can swell and lodge in narrowed intestinal segments."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "starburst-original-fruit-chews",
+  "name": "Starburst Original Fruit Chews",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "starburst",
+    "fruit-chews",
+    "chewy-candy",
+    "zero-fiber",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "starburst",
+    "fruit chews",
+    "pink starburst",
+    "chewy fruit candy"
+  ],
+  "whyItWorks": "Soft, chewy fruit-flavored squares made with corn syrup, sugar, and fruit juice. They are naturally gluten-free, fat-free, and contain 0g fiber, breaking down cleanly.",
+  "prepOrOrderInstructions": "Unwrap and chew thoroughly. A great portable sweet for pockets or backpacks.",
+  "watchOuts": [
+    "High in sugar; eat in moderation."
+  ]
+}

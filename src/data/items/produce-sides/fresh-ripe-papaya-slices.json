@@ -1,0 +1,41 @@
+{
+  "id": "fresh-ripe-papaya-slices",
+  "name": "Fresh Ripe Papaya Slices",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.7,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "papaya",
+    "tropical",
+    "fruit",
+    "enzymes",
+    "soothing"
+  ],
+  "searchKeywords": [
+    "papaya",
+    "ripe papaya",
+    "tropical fruit",
+    "pawpaw",
+    "digestive enzyme fruit"
+  ],
+  "whyItWorks": "Ripe papaya naturally contains papain, a proteolytic digestive enzyme that helps break down proteins and soothe gastric discomfort. The vibrant orange flesh is buttery soft and very easy on compromised intestines.",
+  "prepOrOrderInstructions": "Scoop out and completely discard all black peppery seeds. Peel the skin cleanly and slice the buttery flesh into tender bite-sized cubes.",
+  "watchOuts": [
+    "Never eat the black seeds, which are peppery and mechanically abrasive."
+  ]
+}

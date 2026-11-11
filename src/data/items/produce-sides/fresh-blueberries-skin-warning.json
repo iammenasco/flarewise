@@ -1,0 +1,40 @@
+{
+  "id": "fresh-blueberries-skin-warning",
+  "name": "Fresh Blueberries (Tough Outer Skin Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "blueberries",
+    "antioxidants",
+    "berries",
+    "skin-warning",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "blueberries",
+    "fresh blueberries",
+    "blueberry skins",
+    "driscoll blueberries"
+  ],
+  "whyItWorks": "Blueberries lack the hard woody seeds of raspberries, but possess a tough outer taut skin made of insoluble cellulose. In sensitive GI tracts or during flare-ups, these skins frequently pass through whole and undigested.",
+  "prepOrOrderInstructions": "Enjoy in remission in small handfuls. During flare-ups, stew blueberries in a saucepan until skins burst and soften, or blend thoroughly into a pureed smoothie.",
+  "watchOuts": [
+    "Tough exterior skins can cause abdominal cramping and appear intact in stool."
+  ]
+}

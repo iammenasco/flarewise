@@ -1,0 +1,41 @@
+{
+  "id": "fresh-bakery-angel-food-cake",
+  "name": "Bakery Angel Food Cake (Fat-Free White Sponge Cake)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bakery Grocery Staple",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "angel-food-cake",
+    "fat-free",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "angel food cake",
+    "sponge cake",
+    "fat free cake",
+    "bakery cake",
+    "safe cake"
+  ],
+  "whyItWorks": "Unlike butter-laden standard cakes, traditional angel food cake is made strictly from whipped egg whites, refined sugar, and cake flour. It contains 0g of fat, melts upon chewing, and creates virtually zero digestive burden.",
+  "prepOrOrderInstructions": "Cut a thick slice with a serrated knife. Top with smooth pureed applesauce, sliced ripe bananas, or a dollop of lactose-free whipped topping.",
+  "watchOuts": [
+    "Contains egg whites and wheat flour; avoid if allergic to eggs or gluten."
+  ]
+}

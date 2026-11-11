@@ -1,0 +1,39 @@
+{
+  "id": "stauffers-original-animal-crackers",
+  "name": "Stauffer's Original Animal Crackers",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Stauffer's",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "cookies",
+    "animal-crackers",
+    "stauffers",
+    "low-fat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "animal crackers",
+    "stauffers animal cookies",
+    "animal cookies",
+    "low fat cookies"
+  ],
+  "whyItWorks": "Traditional animal crackers are semi-sweet, low in fat, and low in sugar compared to standard cookies. Their dense, tender crumb softens rapidly, making them gentle on sensitive intestines.",
+  "prepOrOrderInstructions": "A nostalgic, comforting snack when craving something slightly sweet without dairy butter or chocolate.",
+  "watchOuts": [
+    "Avoid frosted animal cookies with heavy hydrogenated fat glazes."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sugar-free-gummy-bears-sorbitol-warning",
+  "name": "Sugar-Free Gummy Bears & Candies (Extreme Sorbitol Laxative Hazard)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Candy Staple Warning",
+  "crohnsScore": 1.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "sugar-free",
+    "sorbitol",
+    "maltitol",
+    "osmotic-laxative",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "sugar free gummy bears",
+    "sugar free candy",
+    "sorbitol warning",
+    "maltitol diarrhea",
+    "polyols hazard"
+  ],
+  "whyItWorks": "The single most notorious disaster food for IBD and IBS. Sugar-free candies are sweetened with sugar alcohols (polyols) like sorbitol, maltitol, xylitol, or isomalt. Polyols cannot be absorbed in the small intestine, drawing massive volumes of water by osmosis into the colon and fermenting into explosive diarrhea, agonizing cramps, and incontinence.",
+  "prepOrOrderInstructions": "Absolute Warning: NEVER eat sugar-free gummies or polyol-sweetened candies if you have Crohn's or Colitis. Always choose real sugar candy.",
+  "watchOuts": [
+    "Severe medical warning: Causes massive osmotic water dumping and agonizing abdominal cramping even in healthy intestines."
+  ]
+}

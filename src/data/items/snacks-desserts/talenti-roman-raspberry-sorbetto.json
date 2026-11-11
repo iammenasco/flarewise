@@ -1,0 +1,39 @@
+{
+  "id": "talenti-roman-raspberry-sorbetto",
+  "name": "Talenti Dairy-Free Roman Raspberry Sorbetto (Smooth Strained)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Talenti / Unilever",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sorbet",
+    "talenti",
+    "dairy-free",
+    "seedless",
+    "refreshing"
+  ],
+  "searchKeywords": [
+    "talenti sorbetto",
+    "raspberry sorbet",
+    "dairy free sorbet",
+    "fruit sorbet"
+  ],
+  "whyItWorks": "A 100% dairy-free, egg-free frozen dessert made from pureed and finely micro-strained raspberry fruit. Unlike fresh raspberries, all harsh woody seeds have been completely filtered out.",
+  "prepOrOrderInstructions": "A refreshing, icy palate cleanser that satisfies berry cravings without dangerous seeds.",
+  "watchOuts": [
+    "Contains natural raspberry tartness; avoid if sensitive to tart fruit acids during acute gastritis."
+  ]
+}

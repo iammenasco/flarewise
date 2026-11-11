@@ -1,0 +1,39 @@
+{
+  "id": "baked-lays-original-potato-crisps",
+  "name": "Baked Lay's Original Potato Crisps (Lower Fat Option)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "potato-chips",
+    "baked-lays",
+    "low-fat",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "baked lays",
+    "baked potato chips",
+    "low fat chips",
+    "baked crisps"
+  ],
+  "whyItWorks": "Baked instead of deep-fried, Baked Lay's contain 65% less fat than traditional potato chips (only 3g fat per serving). They provide crispy salty gratification without triggering fat-induced diarrhea.",
+  "prepOrOrderInstructions": "A great alternative to standard fried potato chips. Pair with a turkey breast sandwich or eat as an afternoon snack.",
+  "watchOuts": [
+    "Chew each crisp well to avoid swallowing sharp unchewed corners."
+  ]
+}

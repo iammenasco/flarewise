@@ -1,0 +1,43 @@
+{
+  "id": "smooth-unsweetened-applesauce-cup",
+  "name": "Smooth Unsweetened Applesauce Cup",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 9.6,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "fruit",
+    "applesauce",
+    "mott's",
+    "low-residue",
+    "flare-safe",
+    "pectin"
+  ],
+  "searchKeywords": [
+    "applesauce",
+    "smooth applesauce",
+    "motts",
+    "unsweetened applesauce",
+    "pouch applesauce"
+  ],
+  "whyItWorks": "Cooking and pureeing apples completely removes the tough insoluble peel and hydrolyzes cellular fiber into gentle soluble pectin. It acts like a soothing balm in the colon, binding loose bowel movements and supplying easily absorbed energy.",
+  "prepOrOrderInstructions": "Select unsweetened or natural varieties without high-fructose corn syrup or chunked pieces. Serve chilled or room temperature.",
+  "watchOuts": [
+    "Choose smooth pureed varieties rather than chunky homestyle applesauce with leftover skin fragments."
+  ]
+}

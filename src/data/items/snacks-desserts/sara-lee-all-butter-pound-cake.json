@@ -1,0 +1,39 @@
+{
+  "id": "sara-lee-all-butter-pound-cake",
+  "name": "Sara Lee All Butter Pound Cake (Thawed Slice)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sara Lee",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pound-cake",
+    "sara-lee",
+    "butter-cake",
+    "soft-texture"
+  ],
+  "searchKeywords": [
+    "pound cake",
+    "sara lee pound cake",
+    "frozen pound cake",
+    "butter pound cake"
+  ],
+  "whyItWorks": "Sara Lee pound cake is famous for its dense, ultra-fine, velvety crumb that dissolves into a creamy paste with gentle chewing. It has no rough crust, nuts, or seeds.",
+  "prepOrOrderInstructions": "Thaw a slice from the freezer. Delicious plain or topped with sliced ripe bananas and maple syrup.",
+  "watchOuts": [
+    "Contains dairy butter and whole milk; take lactase if severely lactose sensitive."
+  ]
+}

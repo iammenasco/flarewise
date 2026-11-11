@@ -1,0 +1,40 @@
+{
+  "id": "jif-extra-crunchy-peanut-butter-warning",
+  "name": "Extra Crunchy / Chunky Peanut Butter (Jagged Nut Fragment Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "peanut-butter",
+    "crunchy",
+    "nuts",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "crunchy peanut butter",
+    "chunky peanut butter",
+    "extra crunchy jif",
+    "nut chunks warning"
+  ],
+  "whyItWorks": "Crunchy peanut butter intentionally suspends hundreds of hard, jagged roasted peanut fragments within the paste. These sharp fragments do not break down in stomach acid and scrape against active ulcers, causing bleeding and irritation in strictures.",
+  "prepOrOrderInstructions": "Flare & Stricture Warning: Avoid all crunchy, chunky, or super-chunk nut butters. Stick exclusively to ultra-smooth creamy peanut butter or smooth almond butter.",
+  "watchOuts": [
+    "Sharp nut fragments irritate inflamed ulcer beds and can trigger micro-obstructions in narrowed bowel lumens."
+  ]
+}

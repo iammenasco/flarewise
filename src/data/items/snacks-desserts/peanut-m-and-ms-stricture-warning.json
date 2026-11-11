@@ -1,0 +1,41 @@
+{
+  "id": "peanut-m-and-ms-stricture-warning",
+  "name": "Peanut M&M's / Snickers Bar (Whole Peanut Stricture Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "peanut-m-and-ms",
+    "snickers",
+    "whole-peanuts",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "peanut m&ms",
+    "snickers",
+    "peanut candy",
+    "m&ms with nuts",
+    "nut obstruction"
+  ],
+  "whyItWorks": "Peanut M&M's and Snickers bars contain whole and split roasted peanuts encased in candy and chocolate. Incomplete chewing leaves hard, jagged peanut halves that can obstruct strictured bowel segments.",
+  "prepOrOrderInstructions": "Stricture Warning: Avoid candies with whole roasted peanuts or tree nuts. Choose Plain M&M's or smooth chocolate bars instead.",
+  "watchOuts": [
+    "Hard unchewed peanut pieces pose a direct mechanical obstruction hazard in narrowed bowel sections."
+  ]
+}

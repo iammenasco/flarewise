@@ -1,0 +1,40 @@
+{
+  "id": "fudgy-chocolate-brownie-with-walnuts-warning",
+  "name": "Fudgy Chocolate Walnut Brownie (Dense Cocoa & Nut Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bakery Grocery Staple",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "brownie",
+    "chocolate",
+    "walnuts",
+    "nuts-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "brownie",
+    "chocolate brownie",
+    "walnut brownie",
+    "fudge brownie",
+    "brownie trigger"
+  ],
+  "whyItWorks": "Combines dense cocoa fats with hard, angular walnut chunks. Cocoa stimulates colonic motility, while walnut fragments resist digestion and scrape inflamed ulcer beds in the ileum and colon.",
+  "prepOrOrderInstructions": "Avoid brownies baked with whole nuts. If in remission, choose a plain, nut-free cake brownie without chocolate chips.",
+  "watchOuts": [
+    "Hard walnut pieces pose acute stricture blockage risks; heavy cocoa accelerates bowel urgency."
+  ]
+}

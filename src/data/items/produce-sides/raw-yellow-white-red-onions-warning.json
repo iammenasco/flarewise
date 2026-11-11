@@ -1,0 +1,42 @@
+{
+  "id": "raw-yellow-white-red-onions-warning",
+  "name": "Raw Onions (Fructan & Heartburn Flare Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "alliums",
+    "onions",
+    "raw-onions",
+    "fructans",
+    "high-fodmap",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw onion",
+    "red onion",
+    "yellow onion",
+    "diced onions",
+    "onion trigger"
+  ],
+  "whyItWorks": "Raw onions have the highest concentration of fermentable fructan oligosaccharides (FODMAPs) of common foods. In the gut, fructans rapidly draw water and ferment into massive gas, causing intense postprandial cramping and diarrhea.",
+  "prepOrOrderInstructions": "Trigger Warning: Always request 'NO raw onions' on burgers, salads, tacos, and sandwiches. Cooked, translucent onions are much milder, but garlic/onion oils are safest for allium sensitivity.",
+  "watchOuts": [
+    "Extreme fructan trigger that sparks acute colonic spasms, burning acid reflux, and watery diarrhea."
+  ]
+}

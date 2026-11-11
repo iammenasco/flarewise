@@ -1,0 +1,40 @@
+{
+  "id": "brachs-classic-candy-corn",
+  "name": "Brach's Classic Candy Corn",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Brach's / Ferrara",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "candy-corn",
+    "brachs",
+    "halloween",
+    "honey",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "candy corn",
+    "brachs candy corn",
+    "autumn candy",
+    "honey candy"
+  ],
+  "whyItWorks": "Despite its name, candy corn contains ZERO real corn kernels or corn hulls! It is pure honey, sugar, corn syrup, and marshmallow fondant that melts down completely into simple liquid sugars.",
+  "prepOrOrderInstructions": "Safe seasonal Halloween treat for Crohn's patients who must avoid real sweet corn.",
+  "watchOuts": [
+    "High glycemic index; limit portion size if managing steroid-induced hyperglycemia."
+  ]
+}

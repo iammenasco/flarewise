@@ -1,0 +1,39 @@
+{
+  "id": "breyers-lactose-free-vanilla-ice-cream",
+  "name": "Breyers Lactose-Free Vanilla Ice Cream",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Breyers",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "ice-cream",
+    "lactose-free",
+    "breyers",
+    "vanilla",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "lactose free ice cream",
+    "breyers lactose free",
+    "vanilla ice cream",
+    "dairy safe ice cream"
+  ],
+  "whyItWorks": "Made with 100% real cream and milk treated with the lactase enzyme to break down 99.9% of lactose disaccharides into simple glucose and galactose. Delivers authentic ice cream creaminess with zero dairy bloating or cramps.",
+  "prepOrOrderInstructions": "Scoop a modest bowl (1/2 cup) for a cool, soothing throat and stomach treat.",
+  "watchOuts": [
+    "Cold temperatures can trigger mild gastrocolic reflex spasms in hyper-motile individuals; eat slowly."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "baked-russet-potato-flesh-only",
+  "name": "Plain Baked Russet Potato (Fluffy Flesh Only — Discard Skin!)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "potatoes",
+    "baked-potato",
+    "russet",
+    "potassium",
+    "flare-safe",
+    "starch"
+  ],
+  "searchKeywords": [
+    "baked potato",
+    "russet potato",
+    "plain potato",
+    "idaho potato",
+    "potatoes without skin"
+  ],
+  "whyItWorks": "The fluffy white interior of a baked Russet potato is one of the most biocompatible starches on earth for IBD patients. It delivers easily digestible complex carbs, potassium, and comfort with zero mechanical gut irritation.",
+  "prepOrOrderInstructions": "Bake or microwave whole potato until soft to the touch. Slice open and scoop out ONLY the fluffy white interior. Completely discard the leathery, fibrous outer potato skin.",
+  "watchOuts": [
+    "Crucial stricture safety rule: NEVER eat the baked potato skin! Potato skins are insoluble cellulose that cannot be digested."
+  ]
+}

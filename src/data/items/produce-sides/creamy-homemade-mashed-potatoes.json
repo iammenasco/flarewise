@@ -1,0 +1,40 @@
+{
+  "id": "creamy-homemade-mashed-potatoes",
+  "name": "Creamy Mashed Potatoes (Peeled Russet or Yukon Gold)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "potatoes",
+    "mashed-potatoes",
+    "comfort-food",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "mashed potatoes",
+    "peeled mashed potatoes",
+    "yukon gold mashed",
+    "creamy potatoes"
+  ],
+  "whyItWorks": "Boiling peeled potatoes and mashing them into a silky smooth consistency eliminates all physical chewing demands and provides soothing, easily absorbed calories. Highly recommended during flare recovery.",
+  "prepOrOrderInstructions": "Peel potatoes thoroughly before boiling. Mash with chicken broth or lactose-free milk and a touch of butter or olive oil. Avoid skins, raw garlic, or heavy cream.",
+  "watchOuts": [
+    "Ensure no skin fragments remain in the mash. If lactose intolerant, use lactose-free milk or broth."
+  ]
+}

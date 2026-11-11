@@ -1,0 +1,41 @@
+{
+  "id": "raw-garlic-cloves-warning",
+  "name": "Raw Garlic (Extreme Fructan & Mucosal Irritant Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 3.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "alliums",
+    "garlic",
+    "raw-garlic",
+    "fructans",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw garlic",
+    "minced garlic",
+    "garlic cloves",
+    "garlic trigger",
+    "fructans"
+  ],
+  "whyItWorks": "Raw garlic contains pungent allicin and concentrated fructans. Allicin directly irritates the gastric and intestinal mucosa, while fructans cause rapid bacterial gas production and gut distension.",
+  "prepOrOrderInstructions": "Avoid raw garlic dips (toum, tzatziki, aioli). Use garlic-infused olive oil instead to get authentic garlic aroma without the water-soluble fructan irritants.",
+  "watchOuts": [
+    "High-FODMAP fructan concentrate that severely inflames sensitive or ulcerated bowels."
+  ]
+}

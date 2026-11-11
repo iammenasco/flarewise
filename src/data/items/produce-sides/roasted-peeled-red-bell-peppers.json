@@ -1,0 +1,40 @@
+{
+  "id": "roasted-peeled-red-bell-peppers",
+  "name": "Fire-Roasted Peeled Red Bell Peppers (Skin & Seeds Removed)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "peppers",
+    "roasted-peppers",
+    "jarred-peppers",
+    "skinless",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "roasted red peppers",
+    "jarred red peppers",
+    "peeled peppers",
+    "sweet roasted peppers"
+  ],
+  "whyItWorks": "Roasting blisteringly chars the tough outer skin so it slides off cleanly, leaving only the soft, sweet, vitamin-C-rich inner pepper flesh. With skins and seeds removed, it is smooth, non-acidic, and easily digested.",
+  "prepOrOrderInstructions": "Buy jarred roasted red peppers packed in water (drain well) or roast whole peppers at home and peel completely. Add to sourdough sandwiches, rice, or mild pasta.",
+  "watchOuts": [
+    "Verify all waxy skin shreds and seeds have been removed."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hersheys-milk-chocolate-bar",
+  "name": "Hershey's Milk Chocolate Bar (Plain Slices)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "The Hershey Company",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "chocolate",
+    "hersheys",
+    "milk-chocolate",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "hersheys chocolate",
+    "milk chocolate bar",
+    "hershey bar",
+    "plain chocolate"
+  ],
+  "whyItWorks": "Plain milk chocolate has lower caffeine and theobromine than dark chocolate, and melts at body temperature without nuts or seeds. Provides quick comforting sweetness in deep remission.",
+  "prepOrOrderInstructions": "Break off 2–3 rectangular pips (about 15–20g). Let melt slowly on the tongue rather than chewing rapidly.",
+  "watchOuts": [
+    "Contains milk and cocoa butter; excessive amounts can trigger diarrhea in flare-ups."
+  ]
+}

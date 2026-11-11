@@ -1,0 +1,42 @@
+{
+  "id": "fresh-ripe-yellow-banana",
+  "name": "Ripe Yellow Banana (The Gold Standard Flare Fruit)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "fruit",
+    "flare-safe",
+    "potassium",
+    "soluble-fiber",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "banana",
+    "ripe banana",
+    "chiquita",
+    "dole",
+    "yellow banana",
+    "flare fruit"
+  ],
+  "whyItWorks": "The #1 gold-standard fruit for active IBD and flares. Fully ripe yellow bananas (with slight sugar spots) have converted all resistant starches into easily absorbed simple glucose and fructose. They are rich in soluble pectin, which firms loose watery stools and normalizes transit without scratching inflamed mucosa.",
+  "prepOrOrderInstructions": "Choose yellow bananas with light brown speckles (fully ripe). Peel thoroughly and chew well. Avoid greenish bananas during flares as high resistant starch causes fermentation and gas.",
+  "watchOuts": [
+    "Avoid unripe green-tipped bananas during flares—their resistant starch can trigger excess gas and bloating."
+  ]
+}

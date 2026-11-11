@@ -1,0 +1,41 @@
+{
+  "id": "gogo-squeez-original-applesauce-pouch",
+  "name": "GoGo SqueeZ 100% Fruit Applesauce On-The-Go Pouch",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "GoGo SqueeZ / Materne",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "applesauce",
+    "gogo-squeez",
+    "fruit-pouch",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "gogo squeez",
+    "applesauce pouch",
+    "kids applesauce",
+    "portable applesauce",
+    "squeeze pouch"
+  ],
+  "whyItWorks": "100% pure pureed apples with zero skins, seeds, or added sugar. The sealed pouch makes it completely shelf-stable and pocket-friendly for work, school, or travel emergencies.",
+  "prepOrOrderInstructions": "Twist off the helicopter cap and squeeze directly into mouth. Excellent quick energy boost when you cannot tolerate solid food.",
+  "watchOuts": [
+    "Avoid fruit pouch varieties with blended strawberry/raspberry seeds or added citric acid."
+  ]
+}

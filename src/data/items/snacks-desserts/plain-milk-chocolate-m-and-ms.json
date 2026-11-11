@@ -1,0 +1,39 @@
+{
+  "id": "plain-milk-chocolate-m-and-ms",
+  "name": "Plain Milk Chocolate M&M's (Seedless / Nut-Free)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "m-and-ms",
+    "plain-chocolate",
+    "mars",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "plain m&ms",
+    "chocolate m&ms",
+    "milk chocolate m&ms",
+    "nut free m&ms"
+  ],
+  "whyItWorks": "Plain M&M's have a thin, brittle sugar shell that shatters and dissolves, surrounding a smooth milk chocolate center with zero nuts or seeds. Very low residue.",
+  "prepOrOrderInstructions": "Enjoy a fun-size bag during remission. Let the chocolate melt in your mouth.",
+  "watchOuts": [
+    "Contains milk; limit portion if lactose sensitive."
+  ]
+}

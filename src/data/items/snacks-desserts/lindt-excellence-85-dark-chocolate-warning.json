@@ -1,0 +1,40 @@
+{
+  "id": "lindt-excellence-85-dark-chocolate-warning",
+  "name": "Lindt Excellence 85% Cocoa Dark Chocolate (High Caffeine & Motility Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Lindt & Sprüngli",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "chocolate",
+    "dark-chocolate",
+    "caffeine",
+    "high-theobromine",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dark chocolate",
+    "lindt 85",
+    "bittersweet chocolate",
+    "chocolate diarrhea trigger"
+  ],
+  "whyItWorks": "85% dark chocolate contains high concentrations of cocoa solids rich in caffeine and theobromine. These methylxanthine compounds stimulate rapid peristaltic contractions in the colon, triggering sudden urgent diarrhea and cramping.",
+  "prepOrOrderInstructions": "Motility Warning: Avoid dark chocolate (>70% cocoa) during flare-ups or active diarrhea. Choose mild milk chocolate or white chocolate in remission.",
+  "watchOuts": [
+    "Potent gut stimulant: high caffeine and theobromine dramatically accelerate colonic transit."
+  ]
+}

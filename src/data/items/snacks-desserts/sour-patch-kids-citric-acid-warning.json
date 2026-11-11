@@ -1,0 +1,41 @@
+{
+  "id": "sour-patch-kids-citric-acid-warning",
+  "name": "Sour Patch Kids & Sour Gummies (Citric Acid Mucosal Irritant Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mondelēz International",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "candy",
+    "sour-patch-kids",
+    "citric-acid",
+    "sour-candy",
+    "mucosal-irritant",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "sour patch kids",
+    "sour gummies",
+    "sour candy",
+    "citric acid candy",
+    "sour danger"
+  ],
+  "whyItWorks": "Sour Patch Kids are coated in a heavy crystalline layer of malic and citric acid. In active Crohn's or Colitis with aphthous ulcers or intestinal denudation, these concentrated acids burn raw tissue and stimulate burning, painful cramps.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid heavily sour candies. Choose standard sweet gummy bears or Swedish Fish instead.",
+  "watchOuts": [
+    "Violates citrus-free guardrail; high citric and malic acid concentrations irritate gut ulcerations."
+  ]
+}

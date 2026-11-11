@@ -1,0 +1,42 @@
+{
+  "id": "snack-pack-vanilla-pudding-cup",
+  "name": "Snack Pack Vanilla Pudding Cup",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Snack Pack / Conagra",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pudding",
+    "snack-pack",
+    "vanilla",
+    "comfort-food",
+    "flare-safe",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "vanilla pudding",
+    "snack pack",
+    "pudding cup",
+    "hunt snack pack",
+    "soft dessert"
+  ],
+  "whyItWorks": "Silky smooth, completely non-abrasive comfort food. Snack Pack vanilla pudding requires zero chewing, provides quick sugar calories, and contains 0g fiber. It coats the esophagus and stomach comfortably.",
+  "prepOrOrderInstructions": "Peel foil lid and eat with a spoon. Contains nonfat milk—take a lactase enzyme tablet if you have primary lactase deficiency.",
+  "watchOuts": [
+    "Contains nonfat milk; individuals with severe lactose intolerance should take a lactase enzyme tablet."
+  ]
+}
