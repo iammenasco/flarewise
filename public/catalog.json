@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T14:07:08.897Z",
-  "itemCount": 1473,
+  "builtAt": "2026-11-11T14:13:51.747Z",
+  "itemCount": 1441,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -10602,44 +10602,6 @@
       "_sourcePath": "src/data/items/breakfast/penny-anns-cafe-scrambled-eggs-ham-white-toast.json"
     },
     {
-      "id": "knotts-mrs-knotts-roasted-chicken-mashed-potatoes",
-      "name": "Skinless Oven-Roasted Chicken Breast with Mashed Potatoes",
-      "categoryFolder": "dinner",
-      "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant",
-      "crohnsScore": 8.8,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "knotts-berry-farm",
-        "theme-park",
-        "roasted-chicken",
-        "mashed-potatoes",
-        "comfort-food"
-      ],
-      "searchKeywords": [
-        "mrs knotts chicken dinner",
-        "roasted chicken",
-        "mashed potatoes",
-        "knotts berry farm"
-      ],
-      "whyItWorks": "While famous for fried chicken, requesting oven-roasted skinless chicken breast paired with peeled, creamy mashed potatoes provides top-quality lean protein and gut-soothing starch with zero heavy frying fat.",
-      "prepOrOrderInstructions": "Specify roasted chicken breast rather than fried chicken. Remove skin and enjoy with peeled mashed potatoes and light chicken gravy.",
-      "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-roasted-chicken-mashed-potatoes.json"
-    },
-    {
       "id": "thomas-cuisine-bamboohr-custom-grain-bowl-chicken-rice",
       "name": "Thomas2Go @ BambooHR (Lindon, UT) Build-Your-Own Grain Bowl (Grilled Chicken & White Rice)",
       "categoryFolder": "lunch",
@@ -12061,48 +12023,6 @@
       "_sourcePath": "src/data/items/snacks-desserts/dca-sonoma-mendocino-terrace-bavarian-pretzel-cheese-plate.json"
     },
     {
-      "id": "disneyland-bengal-barbecue-chieftain-chicken-skewer",
-      "name": "Disneyland Bengal Barbecue \"Chieftain Chicken\" Skewer with Sweet Polynesian Glaze",
-      "categoryFolder": "diner-bbq",
-      "brandOrRestaurant": "Bengal Barbecue (Disneyland Park)",
-      "crohnsScore": 8.6,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 0.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "disneyland",
-        "restaurant",
-        "chicken",
-        "skewer",
-        "lean-protein",
-        "high-protein"
-      ],
-      "searchKeywords": [
-        "chieftain chicken skewer",
-        "bengal barbecue chicken",
-        "disneyland chicken skewer"
-      ],
-      "whyItWorks": "Boneless, skinless chicken breast cubes grilled on a wooden skewer with a sweet Polynesian barbecue glaze. Lean, unbreaded, and packed with bioavailable protein.",
-      "prepOrOrderInstructions": "Order the Chieftain Chicken Skewer with a side of white rice or Tiger Tail breadstick.",
-      "watchOuts": [
-        "None; premier park snack for high-protein sustenance"
-      ],
-      "_sourcePath": "src/data/items/diner-bbq/disneyland-bengal-barbecue-chieftain-chicken-skewer.json"
-    },
-    {
       "id": "disneyland-cafe-orleans-grilled-chicken-rice",
       "name": "Disneyland Cafe Orleans Roasted Chicken or Petite Steak with Potatoes/Rice (No Blackening Mod)",
       "categoryFolder": "dinner",
@@ -12301,47 +12221,6 @@
         "Avoid raw crudité veggies, whole almonds/pistachios, seeded multigrain crackers, olives, and spicy calabrese salami"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/holiday-charcuterie-aged-cheese-prosciutto-crackers.json"
-    },
-    {
-      "id": "holiday-honey-baked-spiral-sliced-ham",
-      "name": "Holiday Honey-Glazed Spiral Cut Ham (Tender Lean Slices)",
-      "categoryFolder": "dinner",
-      "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
-      "crohnsScore": 8.6,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "dinner",
-        "lunch"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat",
-        "toaster-oven"
-      ],
-      "fiberGramsPerServing": 0,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "holiday",
-        "thanksgiving",
-        "christmas",
-        "pork",
-        "ham",
-        "high-protein"
-      ],
-      "searchKeywords": [
-        "honey baked ham",
-        "spiral sliced ham holiday",
-        "christmas ham thanksgiving dinner"
-      ],
-      "whyItWorks": "Spiral-cut ham is pre-cooked, tender, and provides pure lean animal protein. The caramelized brown sugar glaze is seed-free and easy to digest.",
-      "prepOrOrderInstructions": "Carve lean slices from the bone, trimming any visible exterior ribbon of fat. Enjoy warm with soft white dinner rolls.",
-      "watchOuts": [
-        "Ham has cured sodium; drink plenty of water"
-      ],
-      "_sourcePath": "src/data/items/dinner/holiday-honey-baked-spiral-sliced-ham.json"
     },
     {
       "id": "holiday-inn-express-herriman-one-touch-pancakes",
@@ -12672,47 +12551,6 @@
         "If ordering Maddox's famous homemade Root Beer, let the carbonation settle or sip slowly so gas bubbles don't cause bloating"
       ],
       "_sourcePath": "src/data/items/diner-bbq/maddox-drive-in-bison-turkey-burger-root-beer.json"
-    },
-    {
-      "id": "mo-bettahs-hawaiian-teriyaki-chicken-white-rice",
-      "name": "Mo' Bettahs (Logan, Draper & Orem, UT) Grilled Teriyaki Chicken with White Steamed Rice",
-      "categoryFolder": "asian-indian",
-      "brandOrRestaurant": "Mo' Bettahs Hawaiian Style Food (Utah Locations)",
-      "crohnsScore": 8.6,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "Global",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "chicken",
-        "rice",
-        "hawaiian",
-        "high-protein"
-      ],
-      "searchKeywords": [
-        "mo bettahs teriyaki chicken",
-        "mo bettahs utah",
-        "hawaiian plate lunch logan draper"
-      ],
-      "whyItWorks": "Flame-grilled boneless skinless chicken thighs marinated in sweet teriyaki glaze, served over fluffy steamed white rice. Tender, low-residue, and soothing.",
-      "prepOrOrderInstructions": "Order the Mini or Regular Teriyaki Chicken Plate with double white rice (substitute extra white rice for the macaroni salad if dairy/mayo sensitive).",
-      "watchOuts": [
-        "Macaroni salad contains mayonnaise and gluten; substitute extra white rice if sensitive"
-      ],
-      "_sourcePath": "src/data/items/asian-indian/mo-bettahs-hawaiian-teriyaki-chicken-white-rice.json"
     },
     {
       "id": "knotts-mrs-knotts-country-breakfast-pancakes-eggs-biscuits",
@@ -14250,48 +14088,6 @@
       "_sourcePath": "src/data/items/breakfast/costco-bakery-butter-croissants-artisan-rolls.json"
     },
     {
-      "id": "crepes-and-coffee-bear-lake-ham-cheese-egg-savory-crepe",
-      "name": "Crepes and Coffee (Garden City, UT) Ham, Swiss Cheese & Egg Savory Crepe",
-      "categoryFolder": "breakfast",
-      "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
-      "crohnsScore": 8.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "breakfast",
-        "lunch"
-      ],
-      "region": "Euro/Bistro",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "garden-city",
-        "bear-lake",
-        "crepes",
-        "eggs",
-        "ham",
-        "cheese"
-      ],
-      "searchKeywords": [
-        "crepes and coffee savory crepe",
-        "ham and cheese crepe bear lake",
-        "garden city breakfast"
-      ],
-      "whyItWorks": "Thin flour crepe folded around tender country ham, a soft scrambled egg, and melted naturally low-lactose Swiss cheese. Protein-rich and low in digestive residue.",
-      "prepOrOrderInstructions": "Order the Savory Ham, Cheese & Egg Crepe with Swiss cheese and light butter.",
-      "watchOuts": [
-        "None; gentle high-protein lake breakfast"
-      ],
-      "_sourcePath": "src/data/items/breakfast/crepes-and-coffee-bear-lake-ham-cheese-egg-savory-crepe.json"
-    },
-    {
       "id": "crepes-and-coffee-bear-lake-savory-ham-egg-crepe",
       "name": "Crepes and Coffee (Garden City) Savory Ham, Egg & Cheese or Turkey-Avocado Crepe",
       "categoryFolder": "breakfast",
@@ -14420,56 +14216,6 @@
       "_sourcePath": "src/data/items/snacks-desserts/crispy-rice-marshmallow-treats.json"
     },
     {
-      "id": "cupbop-crack-shack-herriman-draper-bop-bowl",
-      "name": "Cupbop Korean BBQ (Draper / Herriman / Logan) Spice Level #1–#2 Chicken or Beef Bop Bowl",
-      "categoryFolder": "asian-indian",
-      "brandOrRestaurant": "Cupbop — Korean BBQ in a Cup (Draper, Herriman, South Jordan & Logan, UT)",
-      "crohnsScore": 8.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "Korean",
-      "costTier": 1,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat",
-        "drive-thru"
-      ],
-      "fiberGramsPerServing": 1,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "chicken",
-        "beef",
-        "pork",
-        "rice",
-        "noodles",
-        "high-protein",
-        "dairy-free",
-        "draper",
-        "herriman",
-        "south-jordan",
-        "logan",
-        "utah"
-      ],
-      "searchKeywords": [
-        "cupbop",
-        "kko kko bop",
-        "bop",
-        "korean bbq bowl utah",
-        "cupbop spice level 1"
-      ],
-      "whyItWorks": "Utah's homegrown Korean BBQ bowl chain lets you choose your exact heat level from #1 (Sweet & Zero Spice) to #10, and layers steamed white rice, sweet potato glass noodles (japchae), and grilled chicken (KKO KKO) or beef bulgogi (B Bop).",
-      "prepOrOrderInstructions": "Order the KKO KKO Bop (grilled chicken) or B Bop (beef bulgogi) at **Spice Level #1 (Sweet, 0% spicy)** or **#2**, ask for **\"No Cabbage\"** (double rice and glass noodles instead), and light mayo/teriyaki drizzle.",
-      "watchOuts": [
-        "Always ask for \"No Raw Cabbage\" and stay at Spice Level #1 or #2!"
-      ],
-      "_sourcePath": "src/data/items/asian-indian/cupbop-crack-shack-herriman-draper-bop-bowl.json"
-    },
-    {
       "id": "dca-flos-v8-cafe-ramones-low-and-slow-turkey-club",
       "name": "DCA Flo's V8 Cafe \"Ramone's Low & Slow\" Turkey Bacon Avocado Club on Brioche",
       "categoryFolder": "lunch",
@@ -14508,48 +14254,6 @@
         "Remove raw tomato slices and lettuce before eating"
       ],
       "_sourcePath": "src/data/items/lunch/dca-flos-v8-cafe-ramones-low-and-slow-turkey-club.json"
-    },
-    {
-      "id": "dca-lucky-fortune-cookery-teriyaki-chicken-rice-bowl",
-      "name": "DCA Lucky Fortune Cookery Teriyaki Chicken & Steamed White Rice Bowl",
-      "categoryFolder": "asian-indian",
-      "brandOrRestaurant": "Lucky Fortune Cookery (Disney California Adventure)",
-      "crohnsScore": 8.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "Japanese",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "california-adventure",
-        "restaurant",
-        "chicken",
-        "rice",
-        "san-fransokyo",
-        "high-protein"
-      ],
-      "searchKeywords": [
-        "lucky fortune chicken bowl",
-        "san fransokyo teriyaki chicken",
-        "dca rice bowl"
-      ],
-      "whyItWorks": "Grilled chicken breast pieces glazed with sweet teriyaki sauce over fluffy steamed white jasmine rice. White rice is ultra-low residue, and tender chicken is easily absorbed.",
-      "prepOrOrderInstructions": "Order the Teriyaki Chicken Rice Bowl; request steamed broccoli served soft or hold broccoli entirely during active flares.",
-      "watchOuts": [
-        "Hold broccoli if cruciferous vegetables cause bloating"
-      ],
-      "_sourcePath": "src/data/items/asian-indian/dca-lucky-fortune-cookery-teriyaki-chicken-rice-bowl.json"
     },
     {
       "id": "diner-patty-melt-white-sourdough",
@@ -14628,46 +14332,6 @@
         "Disney can make dairy-free/gluten-free Mickey waffles on request at any table-service or buffet breakfast!"
       ],
       "_sourcePath": "src/data/items/breakfast/disneyland-plaza-inn-character-breakfast-mickey-waffles.json"
-    },
-    {
-      "id": "disneyland-plaza-inn-slow-cooked-pot-roast",
-      "name": "Disneyland Plaza Inn Slow-Cooked Beef Pot Roast with Mashed Potatoes",
-      "categoryFolder": "dinner",
-      "brandOrRestaurant": "Plaza Inn (Disneyland Park)",
-      "crohnsScore": 8.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "disneyland",
-        "restaurant",
-        "beef",
-        "pot-roast",
-        "mashed-potatoes"
-      ],
-      "searchKeywords": [
-        "plaza inn pot roast",
-        "disneyland pot roast",
-        "main street comfort dinner"
-      ],
-      "whyItWorks": "Tender, slow-braised chuck roast in savory brown beef gravy over smooth mashed potatoes. The slow braise breaks down beef fibers into easily digested protein.",
-      "prepOrOrderInstructions": "Order the Pot Roast platter with extra mashed potatoes; enjoy tender beef with gravy.",
-      "watchOuts": [
-        "None; gentle, tender beef meal"
-      ],
-      "_sourcePath": "src/data/items/dinner/disneyland-plaza-inn-slow-cooked-pot-roast.json"
     },
     {
       "id": "disneyland-royal-street-veranda-cinnamon-roll-sourdough-bowl",
@@ -21195,86 +20859,6 @@
       "_sourcePath": "src/data/items/drinks-sauces/disneyland-downtown-disney-jamba-mango-peach-banana-smoothie.json"
     },
     {
-      "id": "dp-cheesesteaks-american-fork-chicken-provolone-witout",
-      "name": "DP Cheesesteaks (American Fork / Lehi, UT) Grilled Chicken & Provolone (\"Wiz Witout\")",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "DP Cheesesteaks (Utah Locations)",
-      "crohnsScore": 8.3,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "american-fork",
-        "lehi",
-        "chicken",
-        "cheesesteak",
-        "sandwich"
-      ],
-      "searchKeywords": [
-        "dp cheesesteaks american fork",
-        "chicken cheesesteak lehi",
-        "witout cheesesteak utah"
-      ],
-      "whyItWorks": "Freshly sliced chicken breast chopped on the flat-top with melted provolone cheese on a soft Amoroso-style Italian roll. 'Witout' ordering omits fried onions completely.",
-      "prepOrOrderInstructions": "Order the Chicken Cheesesteak with provolone cheese 'Witout' (meaning no onions) and no hot peppers.",
-      "watchOuts": [
-        "Specify 'Witout' so no fried onions or peppers are added to the grill"
-      ],
-      "_sourcePath": "src/data/items/lunch/dp-cheesesteaks-american-fork-chicken-provolone-witout.json"
-    },
-    {
-      "id": "tandoori-oven-logan-plain-tandoori-naan",
-      "name": "Freshly Baked Plain Tandoori Naan Bread",
-      "categoryFolder": "produce-sides",
-      "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
-      "crohnsScore": 8.3,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "Indian",
-      "costTier": 1,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "logan",
-        "indian",
-        "naan",
-        "bread"
-      ],
-      "searchKeywords": [
-        "tandoori oven",
-        "plain naan",
-        "tandoori bread",
-        "logan utah indian"
-      ],
-      "whyItWorks": "Slapped against the fiery walls of a traditional clay tandoor oven, plain naan made with refined wheat flour bakes up light, fluffy, and tender. It provides gut-soothing starch without seeds, herbs, or irritating garlic.",
-      "prepOrOrderInstructions": "Specify PLAIN naan without butter glaze or minced garlic. Tear into small pieces to accompany mild curries or basmati rice.",
-      "_sourcePath": "src/data/items/produce-sides/tandoori-oven-logan-plain-tandoori-naan.json"
-    },
-    {
       "id": "gourmandise-draper-croissant-french-toast-grilled-cheese",
       "name": "Gourmandise the Euro Bakery (Draper) Butter Croissant, Brioche French Toast or Brie Grilled Cheese",
       "categoryFolder": "breakfast",
@@ -21400,45 +20984,6 @@
         "Avoid everything bagels containing abrasive sesame and poppy seeds"
       ],
       "_sourcePath": "src/data/items/breakfast/holiday-inn-express-herriman-plain-bagel-cream-cheese.json"
-    },
-    {
-      "id": "disneyland-plaza-inn-slow-roasted-pot-roast",
-      "name": "Home-Style Slow-Roasted Pot Roast with Mashed Potatoes",
-      "categoryFolder": "dinner",
-      "brandOrRestaurant": "Plaza Inn (Disneyland)",
-      "crohnsScore": 8.3,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.8,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "disneyland",
-        "theme-park",
-        "pot-roast",
-        "mashed-potatoes",
-        "comfort-food"
-      ],
-      "searchKeywords": [
-        "plaza inn",
-        "disneyland",
-        "pot roast",
-        "main street usa",
-        "mashed potatoes"
-      ],
-      "whyItWorks": "Melt-in-your-mouth slow braised beef chuck roast served in savory brown beef gravy over smooth mashed potatoes. It provides rich complete protein and low-fiber starch with zero fried crust.",
-      "prepOrOrderInstructions": "Ask for extra smooth mashed potatoes and tender roast meat. Skip whole glazed baby carrots or whole green beans if currently adhering to a strict low-residue diet.",
-      "_sourcePath": "src/data/items/dinner/disneyland-plaza-inn-slow-roasted-pot-roast.json"
     },
     {
       "id": "kneaders-bakery-draper-herriman-logan-turkey-bacon-avocado-french-toast",
@@ -22948,7 +22493,7 @@
     },
     {
       "id": "knotts-mrs-knotts-chicken-and-dumplings-pot-pie",
-      "name": "Mrs. Knott's Old-Fashioned Chicken & Dumplings or Homemade Chicken Pot Pie",
+      "name": "Mrs. Knott's Old-Fashioned Chicken & Dumplings",
       "categoryFolder": "dinner",
       "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (California Marketplace · Knott's Berry Farm)",
       "crohnsScore": 8.2,
@@ -22978,10 +22523,10 @@
         "mrs knotts chicken pot pie",
         "knotts comfort food"
       ],
-      "whyItWorks": "Simmered white-meat chicken with pillowy soft flour dumplings (or flaky pie crust with tender carrots and potatoes) offers zero fried breading and soft, easily digested textures.",
-      "prepOrOrderInstructions": "Order the Old-Fashioned Chicken & Dumplings for the softest texture, and take a lactase tablet for the rich chicken-cream velouté gravy.",
+      "whyItWorks": "Simmered tender white-meat chicken with pillowy soft steamed flour dumplings offers zero fried breading and soft, easily digested textures for sensitive digestion.",
+      "prepOrOrderInstructions": "Order the Old-Fashioned Chicken & Dumplings for the softest texture, and take a lactase tablet for the rich chicken-cream velouté broth.",
       "watchOuts": [
-        "Contains dairy in the creamy gravy/crust—take lactase; pick around green peas in the pot pie if sensitive to pea skins"
+        "Contains dairy in the velouté broth—take lactase enzyme if sensitive"
       ],
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-chicken-and-dumplings-pot-pie.json"
     },
@@ -23520,44 +23065,6 @@
       "_sourcePath": "src/data/items/asian-indian/tandoori-oven-logan-warm-garlic-plain-naan.json"
     },
     {
-      "id": "dca-lucky-fortune-teriyaki-chicken-rice",
-      "name": "Tender Teriyaki Chicken over Steamed White Rice",
-      "categoryFolder": "asian-indian",
-      "brandOrRestaurant": "Lucky Fortune Cookery (Disney California Adventure)",
-      "crohnsScore": 8.2,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "Chinese",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "california-adventure",
-        "theme-park",
-        "teriyaki-chicken",
-        "san-fransokyo"
-      ],
-      "searchKeywords": [
-        "lucky fortune cookery",
-        "dca",
-        "teriyaki chicken",
-        "white rice",
-        "san fransokyo"
-      ],
-      "whyItWorks": "Tender pieces of chicken tossed in mild sweet soy glaze over hot steamed white rice provide gentle fuel and quality protein without deep-fried batter or chili peppers.",
-      "prepOrOrderInstructions": "Ask for NO green onion garnish, no sesame seeds, and request the sauce served lightly or on the side.",
-      "_sourcePath": "src/data/items/asian-indian/dca-lucky-fortune-teriyaki-chicken-rice.json"
-    },
-    {
       "id": "towneplace-suites-draper-chobani-vanilla-greek-yogurt",
       "name": "TownePlace Suites (Draper, UT) Individual Chobani Vanilla Greek Yogurt Cup",
       "categoryFolder": "breakfast",
@@ -23803,46 +23310,6 @@
         "Hold raw diced white onions and discard the lime wedge"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/dca-cocina-cucamonga-pollo-asado-soft-tacos.json"
-    },
-    {
-      "id": "dca-pym-test-kitchen-pym-ini-focaccia-sandwich",
-      "name": "DCA Pym Test Kitchen \"Pym-ini\" Toasted Salami, Rosemary Ham & Provolone Panini",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Pym Test Kitchen (Disney California Adventure)",
-      "crohnsScore": 8.1,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "Italian/Med",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "california-adventure",
-        "restaurant",
-        "sandwich",
-        "panini",
-        "avengers-campus"
-      ],
-      "searchKeywords": [
-        "pym ini sandwich",
-        "pym test kitchen panini",
-        "avengers campus sandwich"
-      ],
-      "whyItWorks": "Rosemary ham, cured salami, and melted provolone on toasted olive oil focaccia bread with mild marinara dip. Warm, savory, and low in lactose.",
-      "prepOrOrderInstructions": "Order the Pym-ini Panini with a side of marinara sauce or potato bites.",
-      "watchOuts": [
-        "Cured salami has sodium and spices; eat moderate portion"
-      ],
-      "_sourcePath": "src/data/items/lunch/dca-pym-test-kitchen-pym-ini-focaccia-sandwich.json"
     },
     {
       "id": "disneyland-jolly-holiday-roast-beef-white-cheddar-sandwich",
@@ -24287,45 +23754,6 @@
         "Skip Pepperoni/Meat Lovers pizza, spicy marinara, and Italian bean salad"
       ],
       "_sourcePath": "src/data/items/italian-med/knotts-prop-shop-pizzeria-chicken-pasta-pizza.json"
-    },
-    {
-      "id": "disneyland-plaza-inn-penne-marinara",
-      "name": "Penne Pasta with Smooth Italian Marinara Sauce",
-      "categoryFolder": "italian-med",
-      "brandOrRestaurant": "Plaza Inn (Disneyland)",
-      "crohnsScore": 8.1,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "Italian/Med",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "disneyland",
-        "theme-park",
-        "pasta",
-        "penne-marinara",
-        "italian"
-      ],
-      "searchKeywords": [
-        "plaza inn",
-        "disneyland",
-        "penne marinara",
-        "pasta",
-        "main street usa"
-      ],
-      "whyItWorks": "Boiled tender penne pasta topped with smooth, strained sweet tomato marinara sauce without seeds or skins provides clean, gut-friendly complex carbohydrates and easy energy for a long day in the park.",
-      "prepOrOrderInstructions": "Request plain penne pasta with smooth marinara sauce. Skip meatballs or heavy parmesan if watching saturated fat and dairy.",
-      "_sourcePath": "src/data/items/italian-med/disneyland-plaza-inn-penne-marinara.json"
     },
     {
       "id": "knotts-buena-park-portillos-charbroiled-burger-chicken",
@@ -27392,45 +26820,6 @@
       "_sourcePath": "src/data/items/italian-med/north-italia-mountain-view-village-bolognese-margherita.json"
     },
     {
-      "id": "angies-restaurant-logan-hot-roast-beef-sandwich",
-      "name": "Open-Faced Hot Roast Beef Sandwich with Brown Gravy",
-      "categoryFolder": "dinner",
-      "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
-      "crohnsScore": 8,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "logan",
-        "cache-valley",
-        "comfort-food",
-        "roast-beef"
-      ],
-      "searchKeywords": [
-        "angies restaurant",
-        "hot roast beef",
-        "open faced sandwich",
-        "mashed potatoes",
-        "logan"
-      ],
-      "whyItWorks": "Tender, slow-roasted beef sliced over soft white bread and topped with warm savory gravy and smooth mashed potatoes provides low-fiber, gentle, comforting nourishment that is easy on the GI tract.",
-      "prepOrOrderInstructions": "Ask for smooth peeled mashed potatoes without skin. Request gravy lightly ladled on top.",
-      "_sourcePath": "src/data/items/dinner/angies-restaurant-logan-hot-roast-beef-sandwich.json"
-    },
-    {
       "id": "til-we-meet-again-roasted-cornish-hen",
       "name": "Oven-Roasted Half Cornish Hen with Israeli Couscous ('Til We Meet Again)",
       "categoryFolder": "high-protein",
@@ -29968,45 +29357,6 @@
       "_sourcePath": "src/data/items/breakfast/some-beaches-laketown-french-toast.json"
     },
     {
-      "id": "dca-cocina-cucamonga-pollo-asado-tacos",
-      "name": "Grilled Pollo Asado Tacos on Soft Corn Tortillas",
-      "categoryFolder": "mexican-southwest",
-      "brandOrRestaurant": "Cocina Cucamonga (Disney California Adventure)",
-      "crohnsScore": 7.9,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "Mexican/Southwest",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.8,
-      "lactoseSafe": true,
-      "citrusFree": false,
-      "tags": [
-        "vacation",
-        "california-adventure",
-        "theme-park",
-        "pollo-asado",
-        "tacos",
-        "san-fransokyo"
-      ],
-      "searchKeywords": [
-        "cocina cucamonga",
-        "dca",
-        "pollo asado tacos",
-        "grilled chicken tacos",
-        "san fransokyo"
-      ],
-      "whyItWorks": "Citrus-marinated grilled chicken breast served in double warm soft corn tortillas provides clean, dairy-free lean protein with gentle corn starch.",
-      "prepOrOrderInstructions": "Request tacos plain without pickled habanero onions or spicy salsa. Eat with side Mexican rice.",
-      "_sourcePath": "src/data/items/mexican-southwest/dca-cocina-cucamonga-pollo-asado-tacos.json"
-    },
-    {
       "id": "herms-inn-logan-classic-buttermilk-pancakes",
       "name": "Herm's Giant Buttermilk Pancakes with Pure Maple Syrup",
       "categoryFolder": "breakfast",
@@ -30445,49 +29795,6 @@
       "whyItWorks": "Strained Greek yogurt provides rich protein and probiotic cultures, while soft ripe strawberries deliver antioxidants. Skipping hard seed-heavy oat granola protects narrowing gut lumen.",
       "prepOrOrderInstructions": "Ask for the parfait without granola topping (or discard granola packet). Safe if lactose tolerant or taking lactase.",
       "_sourcePath": "src/data/items/breakfast/disneyland-galactic-grill-yogurt-parfait.json"
-    },
-    {
-      "id": "takara-sushi-logan-chicken-katsu-don",
-      "name": "Takara Sushi (Logan, UT) Chicken Katsu Don (Simmered Cutlet & Egg over Rice)",
-      "categoryFolder": "asian-indian",
-      "brandOrRestaurant": "Takara Sushi (Logan, UT)",
-      "crohnsScore": 7.9,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "Japanese",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "logan",
-        "cache-valley",
-        "japanese",
-        "chicken",
-        "rice",
-        "donburi"
-      ],
-      "searchKeywords": [
-        "takara chicken katsu don",
-        "katsudon logan",
-        "japanese rice bowl takara"
-      ],
-      "whyItWorks": "Tender chicken cutlet simmered in sweet dashi broth with beaten eggs until soft, served over hot steamed white sticky rice. The simmering softens the breading.",
-      "prepOrOrderInstructions": "Order Chicken Katsu Don with extra white rice (hold sliced onions if sensitive to cooked alliums).",
-      "watchOuts": [
-        "None; gentle comfort rice bowl"
-      ],
-      "_sourcePath": "src/data/items/asian-indian/takara-sushi-logan-chicken-katsu-don.json"
     },
     {
       "id": "bear-lake-pizza-co-garlic-butter-breadsticks",
@@ -32436,46 +31743,6 @@
       "_sourcePath": "src/data/items/mexican-southwest/dca-cocina-cucamonga-mild-chicken-tacos-rice.json"
     },
     {
-      "id": "dca-flos-v8-cafe-famous-fried-chicken-dinner",
-      "name": "DCA Flo's V8 Cafe Flo's Famous Fried Chicken & Roasted Garlic Mashed Potatoes",
-      "categoryFolder": "dinner",
-      "brandOrRestaurant": "Flo's V8 Cafe (Disney California Adventure)",
-      "crohnsScore": 7.7,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "california-adventure",
-        "restaurant",
-        "chicken",
-        "comfort-food",
-        "cars-land"
-      ],
-      "searchKeywords": [
-        "flos v8 fried chicken",
-        "cars land fried chicken",
-        "flos famous fried chicken"
-      ],
-      "whyItWorks": "Crispy fried chicken breast served with smooth roasted garlic mashed potatoes and savory poultry gravy. Tender and high in protein in remission.",
-      "prepOrOrderInstructions": "Order Flo's Famous Fried Chicken with mashed potatoes; peel off crispy skin if feeling digestive sensitivity.",
-      "watchOuts": [
-        "Peel off outer seasoned fried skin during active symptoms"
-      ],
-      "_sourcePath": "src/data/items/dinner/dca-flos-v8-cafe-famous-fried-chicken-dinner.json"
-    },
-    {
       "id": "dca-pym-test-kitchen-pymini-sandwich",
       "name": "DCA Pym Test Kitchen \"The Pym-ini\" Toasted Ham, Turkey, Salami & Provolone Panini (No Marinara Dip)",
       "categoryFolder": "lunch",
@@ -32516,46 +31783,6 @@
         "Skip the acidic marinara dipping sauce; remove cured salami slices if sensitive to peppercorns/nitrates"
       ],
       "_sourcePath": "src/data/items/lunch/dca-pym-test-kitchen-pymini-sandwich.json"
-    },
-    {
-      "id": "disneyland-bengal-barbecue-tiger-tail-breadstick",
-      "name": "Disneyland Bengal Barbecue \"Tiger Tail\" Warm Cheddar Garlic Breadstick",
-      "categoryFolder": "produce-sides",
-      "brandOrRestaurant": "Bengal Barbecue (Disneyland Park)",
-      "crohnsScore": 7.7,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "snack",
-        "lunch"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "disneyland",
-        "restaurant",
-        "breadstick",
-        "snack",
-        "adventureland"
-      ],
-      "searchKeywords": [
-        "tiger tail breadstick",
-        "bengal barbecue breadstick",
-        "cheddar garlic breadstick disneyland"
-      ],
-      "whyItWorks": "Warm twisted soft breadstick baked with garlic butter and melted cheddar stripes. Soft, doughy, and seed-free carb boost between rides.",
-      "prepOrOrderInstructions": "Order a warm Tiger Tail breadstick; pair with a chicken or beef skewer.",
-      "watchOuts": [
-        "Contains mild garlic butter seasoning and cheddar cheese"
-      ],
-      "_sourcePath": "src/data/items/produce-sides/disneyland-bengal-barbecue-tiger-tail-breadstick.json"
     },
     {
       "id": "disneyland-carnation-cafe-apple-pie-a-la-mode",
@@ -36751,45 +35978,6 @@
       "_sourcePath": "src/data/items/italian-med/eudoras-artichoke-ravioli.json"
     },
     {
-      "id": "disneyland-harbour-galley-lobster-roll",
-      "name": "Fisherman's Style Chilled Lobster Roll on Butter Bun",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Harbour Galley (Disneyland)",
-      "crohnsScore": 7.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 3,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1,
-      "lactoseSafe": true,
-      "citrusFree": false,
-      "tags": [
-        "vacation",
-        "disneyland",
-        "theme-park",
-        "lobster-roll",
-        "seafood",
-        "critter-country"
-      ],
-      "searchKeywords": [
-        "harbour galley",
-        "disneyland",
-        "lobster roll",
-        "seafood roll",
-        "critter country"
-      ],
-      "whyItWorks": "Sweet, tender Atlantic lobster claw and knuckle meat tossed in light mayonnaise and served in a soft toasted split-top brioche roll. Pure shellfish protein with low roughage.",
-      "prepOrOrderInstructions": "Ask for light mayonnaise and skip side kettle chips, choosing a soft banana or water instead.",
-      "_sourcePath": "src/data/items/lunch/disneyland-harbour-galley-lobster-roll.json"
-    },
-    {
       "id": "garage-grill-cliff-dining-pub-draper-burger-flatbread",
       "name": "Garage Grill & The Cliff Dining Pub (Draper) Grilled Salmon, Brioche Burger & Flatbread",
       "categoryFolder": "diner-bbq",
@@ -40620,46 +39808,6 @@
       "_sourcePath": "src/data/items/snacks-desserts/dca-lamplight-lounge-warm-cinnamon-donuts.json"
     },
     {
-      "id": "dca-lucky-fortune-cookery-beef-bulgogi-rice",
-      "name": "DCA Lucky Fortune Cookery Beef Bulgogi Burrito or Rice Bowl (Hold Spicy Sauce/Chips Mod)",
-      "categoryFolder": "asian-indian",
-      "brandOrRestaurant": "Lucky Fortune Cookery (San Fransokyo Square · Disney California Adventure)",
-      "crohnsScore": 7.4,
-      "safetyTier": "remission-road",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "Korean",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "beef",
-        "rice",
-        "high-protein",
-        "vacation",
-        "california-adventure"
-      ],
-      "searchKeywords": [
-        "lucky fortune beef bulgogi burrito",
-        "dca bulgogi",
-        "san fransokyo beef burrito"
-      ],
-      "whyItWorks": "Tender sweet-savory Korean bulgogi beef and garlic rice wrapped in a warm flour tortilla, though you should ask to hold the spicy gochujang mayo and cabbage slaw.",
-      "prepOrOrderInstructions": "Ask for no spicy mayo and no raw cabbage slaw—or stick to the simpler Teriyaki Chicken & White Rice bowl on sensitive days.",
-      "watchOuts": [
-        "Default Beef Bulgogi Burrito includes spicy mayo, raw cabbage slaw, and crunchy garlic chips"
-      ],
-      "_sourcePath": "src/data/items/asian-indian/dca-lucky-fortune-cookery-beef-bulgogi-rice.json"
-    },
-    {
       "id": "dca-shawarma-palace-chicken-shawarma-wrap",
       "name": "DCA Shawarma Palace \"New York's Tastiest\" Chicken Shawarma Pita Wrap (Sauce on Side Mod)",
       "categoryFolder": "lunch",
@@ -41691,47 +40839,6 @@
       "_sourcePath": "src/data/items/produce-sides/dca-lamplight-lounge-potato-skins.json"
     },
     {
-      "id": "disneyland-docking-bay-7-chicken-tip-yip-macaroni",
-      "name": "Disneyland Docking Bay 7 \"Fried Chicken Tip-Yip\" with Macaroni & Cheese or Mashed Potato",
-      "categoryFolder": "dinner",
-      "brandOrRestaurant": "Docking Bay 7 Food and Cargo (Star Wars: Galaxy's Edge · Disneyland Park)",
-      "crohnsScore": 7.3,
-      "safetyTier": "remission-road",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "chicken",
-        "pasta",
-        "potato",
-        "high-protein",
-        "vacation",
-        "disneyland"
-      ],
-      "searchKeywords": [
-        "docking bay 7 chicken tip yip",
-        "galaxys edge food disneyland",
-        "endorian chicken tip yip"
-      ],
-      "whyItWorks": "A solid white-meat chicken cutlet served over creamy macaroni & cheese (or mashed potatoes with herb gravy on the side) with cooked broccoli—peeling off part of the crispy breading makes it a reliable Galaxy's Edge meal.",
-      "prepOrOrderInstructions": "Order the Fried Chicken Tip-Yip (adult or kids' portion with macaroni & cheese and steamed rice/potatoes), ask for gravy on the side, and peel off excess breading if sensitive to fryer oil.",
-      "watchOuts": [
-        "Contains dairy in the mac & cheese—take lactase; skip the spicy Tuna Poke and Felucian chickpea hummus kefta during flares"
-      ],
-      "_sourcePath": "src/data/items/dinner/disneyland-docking-bay-7-chicken-tip-yip-macaroni.json"
-    },
-    {
       "id": "disneyland-gibson-girl-firehouse-dalmatian-sundae",
       "name": "Disneyland Gibson Girl Firehouse Dalmatian Mint Chocolate Chip Sundae",
       "categoryFolder": "snacks-desserts",
@@ -42345,46 +41452,6 @@
         "Avoid the Chili Cone Queso (beans + chili spice + Fritos) and take lactase for the cheese sauce"
       ],
       "_sourcePath": "src/data/items/lunch/dca-cozy-cone-motel-mac-and-cheese-bread-cone.json"
-    },
-    {
-      "id": "dca-cozy-cone-motel-bacon-mac-cheese-cone",
-      "name": "DCA Cozy Cone Motel Cone 3: Bacon Macaroni & Cheese Bread Cone",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Cozy Cone Motel (Disney California Adventure)",
-      "crohnsScore": 7.2,
-      "safetyTier": "remission-road",
-      "mealTypes": [
-        "lunch",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "california-adventure",
-        "restaurant",
-        "mac-and-cheese",
-        "bacon",
-        "cars-land"
-      ],
-      "searchKeywords": [
-        "cozy cone mac and cheese",
-        "bacon mac cone dca",
-        "cars land cozy cone 3"
-      ],
-      "whyItWorks": "Creamy macaroni and cheese topped with crumbled bacon inside a warm, soft dough bread cone. Soft, carb-rich, and seed-free comfort food in Cars Land.",
-      "prepOrOrderInstructions": "Order the Bacon Mac & Cheese Cone; avoid the spicy Chili Cone Queso.",
-      "watchOuts": [
-        "High dairy cheese and bacon fat; eat slowly in remission"
-      ],
-      "_sourcePath": "src/data/items/lunch/dca-cozy-cone-motel-bacon-mac-cheese-cone.json"
     },
     {
       "id": "disneyland-cafe-daisy-toontown-cheesy-pizza-flop-over",
@@ -47575,47 +46642,6 @@
       "_sourcePath": "src/data/items/lunch/some-beaches-laketown-pulled-pork-melt.json"
     },
     {
-      "id": "costco-food-court-chicken-bake",
-      "name": "Costco Food Court Chicken Bake (Eat Warm Bread & Chicken Center)",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Costco Wholesale Food Court (Logan / Lehi / South Jordan / Sandy, UT)",
-      "crohnsScore": 6.7,
-      "safetyTier": "remission-road",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "takeout"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "chicken",
-        "pork",
-        "cheese",
-        "budget-friendly",
-        "logan",
-        "utah"
-      ],
-      "searchKeywords": [
-        "costco chicken bake",
-        "costco food court",
-        "logan costco lunch"
-      ],
-      "whyItWorks": "Soft baked pizza-dough crust filled with tender chicken breast strips, bacon, provolone, mozzarella, and parmesan; zero insoluble vegetable roughage, though rich in cheese and Caesar dressing.",
-      "prepOrOrderInstructions": "Share half a Chicken Bake for a quick remission lunch, take a lactase enzyme for the mozzarella/Caesar filling, and brush off any charred parmesan crust bits.",
-      "watchOuts": [
-        "Contains Caesar dressing (garlic/soybean oil) and melted mozzarella—save for remission and take lactase"
-      ],
-      "_sourcePath": "src/data/items/lunch/costco-food-court-chicken-bake.json"
-    },
-    {
       "id": "dca-terran-treats-cosmic-cream-orb-churro",
       "name": "DCA Terran Treats (Avengers Campus) \"Cosmic Cream Orb\" Cream Puff & Sweet Spiral Churro",
       "categoryFolder": "snacks-desserts",
@@ -51347,45 +50373,6 @@
       "_sourcePath": "src/data/items/snacks-desserts/costco-food-court-chocolate-chunk-cookie-warning.json"
     },
     {
-      "id": "mortys-cafe-logan-sweet-potato-fries-warning",
-      "name": "Crispy Sweet Potato Waffle Fries Side",
-      "categoryFolder": "produce-sides",
-      "brandOrRestaurant": "Morty's Cafe (Logan, UT)",
-      "crohnsScore": 5.8,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 3.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "utah",
-        "logan",
-        "sweet-potato-fries",
-        "fried-food",
-        "side"
-      ],
-      "searchKeywords": [
-        "mortys cafe",
-        "sweet potato fries",
-        "waffle fries",
-        "logan utah"
-      ],
-      "whyItWorks": "Sweet potato fries contain high levels of insoluble fiber from the skin and cell walls, combined with significant oil absorption from deep-frying. Sweet potatoes also contain polyols that can produce gas in IBS/IBD.",
-      "prepOrOrderInstructions": "Fiber & Grease Warning: Stick to a small handful if in remission. Avoid during active flare-ups.",
-      "_sourcePath": "src/data/items/produce-sides/mortys-cafe-logan-sweet-potato-fries-warning.json"
-    },
-    {
       "id": "disneyland-cafe-orleans-monte-cristo-sandwich",
       "name": "Disneyland Cafe Orleans / Blue Bayou Deep-Fried Monte Cristo Sandwich (Remission Warning)",
       "categoryFolder": "lunch",
@@ -51701,45 +50688,6 @@
       "_sourcePath": "src/data/items/diner-bbq/costco-food-court-chicken-bake-warning.json"
     },
     {
-      "id": "dans-drive-in-montpelier-golden-tater-tots-warning",
-      "name": "Crispy Golden Tater Tots Side",
-      "categoryFolder": "produce-sides",
-      "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
-      "crohnsScore": 5.6,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "restaurant",
-        "idaho",
-        "bear-lake",
-        "montpelier",
-        "fried-food",
-        "side"
-      ],
-      "searchKeywords": [
-        "dans drive in",
-        "tater tots",
-        "fried potato tots",
-        "montpelier"
-      ],
-      "whyItWorks": "Tater tots are grated potatoes deep-fried in hot commercial shortening. The high surface-area-to-mass ratio absorbs substantial fat, and the crispy fried exterior can irritate inflamed gut mucosa and accelerate intestinal motility.",
-      "prepOrOrderInstructions": "Flare Warning: Limit to 3-4 pieces if in remission, or substitute a plain soft roll or white bun to avoid heavy frying grease.",
-      "_sourcePath": "src/data/items/produce-sides/dans-drive-in-montpelier-golden-tater-tots-warning.json"
-    },
-    {
       "id": "disneyland-milk-stand-green-milk-citrus-warning",
       "name": "Disneyland Milk Stand \"Green Milk\" (Tropical Blossom & Citrus Warning)",
       "categoryFolder": "drinks-sauces",
@@ -51779,46 +50727,6 @@
         "Contains citrus flavor extracts that can cause heartburn"
       ],
       "_sourcePath": "src/data/items/drinks-sauces/disneyland-milk-stand-green-milk-citrus-warning.json"
-    },
-    {
-      "id": "disneyland-golden-horseshoe-chicken-tenders-warning",
-      "name": "Hand-Breaded Golden Chicken Tenders with Crinkle Fries",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "The Golden Horseshoe (Disneyland)",
-      "crohnsScore": 5.6,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "lunch",
-        "dinner",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "disneyland",
-        "theme-park",
-        "chicken-tenders",
-        "fried-food",
-        "frontierland"
-      ],
-      "searchKeywords": [
-        "golden horseshoe",
-        "disneyland",
-        "chicken tenders",
-        "french fries",
-        "frontierland"
-      ],
-      "whyItWorks": "While chicken breast is gentle, the thick seasoned flour coating deep-fried in commercial oil absorbs heavy lipids that delay gastric emptying and accelerate lower GI motility.",
-      "prepOrOrderInstructions": "Fried Food Warning: If dining here, peel off the crispy fried skin/crust to expose the moist inner white chicken breast.",
-      "_sourcePath": "src/data/items/lunch/disneyland-golden-horseshoe-chicken-tenders-warning.json"
     },
     {
       "id": "disneyland-troubadour-tavern-loaded-potato-warning",
@@ -54090,48 +52998,6 @@
       "whyItWorks": "Traditional curd yogurt blended with sweet mango pulp, sugar, and milk. Although yogurt cultures offer probiotics, the high lactose content and concentrated mango fructose can overwhelm compromised enzymes, causing osmotic diarrhea.",
       "prepOrOrderInstructions": "Lactose & High Fructose Warning: Sip just a few ounces in remission with lactase support. Avoid during flares.",
       "_sourcePath": "src/data/items/drinks-sauces/tandoori-oven-logan-sweet-mango-lassi-warning.json"
-    },
-    {
-      "id": "dca-cocina-cucamonga-quesabirria-tacos-warning",
-      "name": "DCA Cocina Cucamonga QuesaBirria Street Tacos (Rich Tallow & Chili Warning)",
-      "categoryFolder": "mexican-southwest",
-      "brandOrRestaurant": "Cocina Cucamonga Mexican Grill (Disney California Adventure)",
-      "crohnsScore": 5.2,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "Mexican/Southwest",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 3,
-      "lactoseSafe": false,
-      "citrusFree": false,
-      "tags": [
-        "vacation",
-        "california-adventure",
-        "restaurant",
-        "beef",
-        "tacos",
-        "birria",
-        "spicy",
-        "trigger-warning"
-      ],
-      "searchKeywords": [
-        "quesabirria tacos dca",
-        "cocina cucamonga birria",
-        "san fransokyo birria tacos"
-      ],
-      "whyItWorks": "Braised beef short rib tacos griddled in rendered beef tallow, melted cheese, and served with rich spiced consommé and fresh lime. The heavy fat, grease, and chili spices trigger rapid diarrhea and cramping.",
-      "prepOrOrderInstructions": "Trigger warning item: avoid during active IBD. Choose the Pollo Asado tacos with corn tortillas instead.",
-      "watchOuts": [
-        "Griddled beef tallow fat and spicy chili consommé cause severe digestive irritation"
-      ],
-      "_sourcePath": "src/data/items/mexican-southwest/dca-cocina-cucamonga-quesabirria-tacos-warning.json"
     },
     {
       "id": "dca-pym-test-kitchen-choco-smash-candy-bar-nut-warning",
@@ -56737,46 +55603,6 @@
       "_sourcePath": "src/data/items/dinner/kirkland-signature-chicken-pot-pie-take-and-bake-warning.json"
     },
     {
-      "id": "knotts-sutters-boysenberry-funnel-cake-warning",
-      "name": "Knott's Sutter's Giant Boysenberry Funnel Cake with Soft Serve (High Risk Warning)",
-      "categoryFolder": "snacks-desserts",
-      "brandOrRestaurant": "Sutter's Fine Pastries (Knott's Berry Farm)",
-      "crohnsScore": 4.6,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "dessert"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 4.5,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "knotts-berry-farm",
-        "restaurant",
-        "funnel-cake",
-        "boysenberry",
-        "seeds",
-        "trigger-warning"
-      ],
-      "searchKeywords": [
-        "giant boysenberry funnel cake",
-        "knotts boysenberry funnel cake",
-        "sutters dessert warning"
-      ],
-      "whyItWorks": "Massive deep-fried funnel cake topped with seeded boysenberry fruit compote, whipped cream, and vanilla soft serve. Combines extreme frying oil, heavy dairy lactose, and abrasive berry seeds.",
-      "prepOrOrderInstructions": "Trigger warning item: avoid during active flares. Choose the plain powdered sugar funnel cake to share.",
-      "watchOuts": [
-        "Boysenberry seeds irritate strictures; frying oil and dairy cause rapid diarrhea"
-      ],
-      "_sourcePath": "src/data/items/snacks-desserts/knotts-sutters-boysenberry-funnel-cake-warning.json"
-    },
-    {
       "id": "dca-magic-key-terrace-banh-mi-sliders-warning",
       "name": "Pork Belly Banh Mi Sliders (High Fat/Roughage Warning)",
       "categoryFolder": "lunch",
@@ -57547,47 +56373,6 @@
       "_sourcePath": "src/data/items/dinner/rapunzels-grilled-knockwurst.json"
     },
     {
-      "id": "herms-inn-logan-inside-out-grilled-cheese-macho",
-      "name": "Herm's Inn (Logan) \"Inside-Out\" Sriracha-Black-Bean Grilled Cheese & \"Macho\" (Avoid)",
-      "categoryFolder": "breakfast",
-      "brandOrRestaurant": "Herm's Inn (Logan, UT)",
-      "crohnsScore": 4.5,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "breakfast",
-        "lunch"
-      ],
-      "region": "Mexican/Southwest",
-      "costTier": 2,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat",
-        "skillet"
-      ],
-      "fiberGramsPerServing": 5,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "cheese",
-        "beans",
-        "pork",
-        "spicy",
-        "logan",
-        "utah"
-      ],
-      "searchKeywords": [
-        "herms inn inside out grilled cheese",
-        "herms inn macho",
-        "diners drive ins and dives logan"
-      ],
-      "whyItWorks": "Featured on Diners, Drive-Ins and Dives, but the Inside-Out Grilled Cheese (stuffed with black beans, guacamole, and Sriracha) and the Macho (chorizo and green chile) are flare bombs.",
-      "prepOrOrderInstructions": "If ordering a grilled cheese at Herm's Inn, ask for a plain Cheddar/Swiss Grilled Cheese on sourdough with no Sriracha and no black beans.",
-      "watchOuts": [
-        "Sriracha hot sauce, spicy pork chorizo, pork chile verde, and whole black beans"
-      ],
-      "_sourcePath": "src/data/items/breakfast/herms-inn-logan-inside-out-grilled-cheese-macho.json"
-    },
-    {
       "id": "kirkland-signature-cauliflower-crust-pizza-warning",
       "name": "Kirkland Signature Supreme Cauliflower Crust Pizza (FODMAP Warning)",
       "categoryFolder": "frozen-aisle",
@@ -57664,45 +56449,6 @@
         "Extremely high saturated fryer oil and sugar load"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/knotts-ghost-town-grub-fried-treats-warning.json"
-    },
-    {
-      "id": "knotts-mrs-knotts-boysenberry-pie-seed-warning",
-      "name": "Mrs. Knott's Famous Double-Crust Boysenberry Pie (Insoluble Berry Seed Warning!)",
-      "categoryFolder": "snacks-desserts",
-      "brandOrRestaurant": "Mrs. Knott's & Farm Bakery (Knott's Berry Farm)",
-      "crohnsScore": 4.5,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "dessert",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 4,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "dessert",
-        "sweet",
-        "high-fiber",
-        "vacation",
-        "knotts-berry-farm"
-      ],
-      "searchKeywords": [
-        "knotts boysenberry pie",
-        "mrs knotts pie seeds",
-        "boysenberry festival warning"
-      ],
-      "whyItWorks": "Reference warning: whole boysenberries (a cross between blackberry, raspberry, dewberry, and loganberry) are packed with hundreds of hard, woody, insoluble drupelet seeds that do not break down in the GI tract and can irritate Crohn's flares.",
-      "prepOrOrderInstructions": "To enjoy Knott's famous boysenberry flavor safely without the seeds, skip whole-berry Boysenberry Pie and instead put **seedless strained Boysenberry Jelly** on a warm buttermilk biscuit or try a small taste of smooth Boysenberry Sherbet/Soft-Serve.",
-      "watchOuts": [
-        "High concentration of hard insoluble boysenberry/blackberry seeds—avoid whole-berry pie filling during flares"
-      ],
-      "_sourcePath": "src/data/items/snacks-desserts/knotts-mrs-knotts-boysenberry-pie-seed-warning.json"
     },
     {
       "id": "tianas-new-orleans-seafood-pepper-pot",
@@ -59946,45 +58692,6 @@
       "whyItWorks": "Bacon-wrapped beef dog topped with sauteed bell peppers, onions, pickled jalapenos, and spicy chipotle crema. The intense combination of cured pork grease, raw capsicums, and alliums is a notorious Crohn's trigger.",
       "prepOrOrderInstructions": "Severe Irritant Warning: Avoid street dogs. Stick to a simple plain hot dog on a white bun.",
       "_sourcePath": "src/data/items/lunch/dca-award-wieners-bacon-street-dog-warning.json"
-    },
-    {
-      "id": "disneyland-cafe-orleans-monte-cristo-warning",
-      "name": "Famous Deep-Fried Monte Cristo Sandwich (Grease/Sugar Warning)",
-      "categoryFolder": "lunch",
-      "brandOrRestaurant": "Cafe Orleans (Disneyland)",
-      "crohnsScore": 3.2,
-      "safetyTier": "danger-zone",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 3,
-      "convenienceScore": 3,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1.5,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "vacation",
-        "disneyland",
-        "theme-park",
-        "monte-cristo",
-        "fried-food",
-        "danger-food"
-      ],
-      "searchKeywords": [
-        "cafe orleans",
-        "disneyland",
-        "monte cristo",
-        "deep fried sandwich",
-        "new orleans square"
-      ],
-      "whyItWorks": "Layers of ham, turkey, and swiss cheese dipped in thick batter, deep-fried in boiling oil, dusted with powdered sugar, and served with seed-heavy blackberry jam. The enormous fat concentration triggers massive bile dumping and acute diarrhea.",
-      "prepOrOrderInstructions": "Extreme Fat Warning: Avoid during Crohn's flares. If in remission, take 1-2 small bites and share the remainder, avoiding the berry seeds.",
-      "_sourcePath": "src/data/items/lunch/disneyland-cafe-orleans-monte-cristo-warning.json"
     },
     {
       "id": "zao-asian-cafe-draper-chili-dragon-sauce-warning",
