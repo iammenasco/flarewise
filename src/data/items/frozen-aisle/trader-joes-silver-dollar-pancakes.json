@@ -1,0 +1,41 @@
+{
+  "id": "trader-joes-silver-dollar-pancakes",
+  "name": "Trader Joe's Mini Silver Dollar Pancakes (Frozen 36-Pack)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trader Joe's",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "trader-joes",
+    "pancakes",
+    "silver-dollar",
+    "breakfast",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "trader joes pancakes",
+    "mini pancakes",
+    "silver dollar pancakes",
+    "frozen pancakes"
+  ],
+  "whyItWorks": "Tiny, bite-sized fluffy pancakes made from refined flour, buttermilk, and sugar. They heat in 60 seconds and dissolve into tender, easily digested carbs. Low in fiber (under 1g).",
+  "prepOrOrderInstructions": "Microwave 6 mini pancakes for 45 seconds or toast lightly. Drizzle with pure maple syrup.",
+  "watchOuts": [
+    "Refined white flour pancake; gentle comfort food for morning nausea."
+  ]
+}

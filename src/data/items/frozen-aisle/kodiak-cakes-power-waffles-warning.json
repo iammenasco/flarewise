@@ -1,0 +1,40 @@
+{
+  "id": "kodiak-cakes-power-waffles-warning",
+  "name": "Kodiak Cakes Buttermilk Power Waffles (High Wheat Protein & Fiber Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Kodiak Cakes",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "waffles",
+    "kodiak-cakes",
+    "protein-waffles",
+    "whole-grain",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "kodiak waffles",
+    "power waffles",
+    "protein waffles",
+    "kodiak cakes",
+    "waffle bloat"
+  ],
+  "whyItWorks": "Made with 100% whole grain wheat flour, oat flour, and concentrated whey/milk protein isolates. Delivering 4g of coarse whole-grain bran and heavy protein per serving, it frequently causes intense upper GI heaviness, gas, and diarrhea during active IBD.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid high-protein whole grain waffles during flares. Choose Eggo Homestyle refined flour waffles or Cream of Rice instead.",
+  "watchOuts": [
+    "Dense whole wheat bran and concentrated dairy protein isolate create digestive heaviness and cramps."
+  ]
+}

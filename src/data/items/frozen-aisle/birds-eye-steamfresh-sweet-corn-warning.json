@@ -1,0 +1,41 @@
+{
+  "id": "birds-eye-steamfresh-sweet-corn-warning",
+  "name": "Birds Eye Steamfresh Sweet Kernel Corn (Indigestible Hull Hazard Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Birds Eye / Conagra",
+  "crohnsScore": 2.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "corn",
+    "sweet-corn",
+    "birds-eye",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "frozen corn",
+    "birds eye corn",
+    "steamfresh sweet corn",
+    "corn blockage risk"
+  ],
+  "whyItWorks": "Every single kernel retains its tough outer pericarp hull made of pure insoluble cellulose. When swallowed, corn kernels remain completely intact, clumping together in narrow strictures and forming emergency bowel obstructions.",
+  "prepOrOrderInstructions": "Severe Medical Hazard: Never eat whole kernel corn if you have Crohn's disease, bowel strictures, or an ostomy. If craving corn flavor, eat smooth corn grits/polenta.",
+  "watchOuts": [
+    "Primary cause of food-induced small bowel impaction requiring emergency hospital intervention."
+  ]
+}

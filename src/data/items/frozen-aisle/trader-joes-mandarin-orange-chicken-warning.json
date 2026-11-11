@@ -1,0 +1,39 @@
+{
+  "id": "trader-joes-mandarin-orange-chicken-warning",
+  "name": "Trader Joe's Mandarin Orange Chicken (Deep-Fried Batter & Citrus Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trader Joe's",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "frozen",
+    "trader-joes",
+    "orange-chicken",
+    "deep-fried",
+    "citrus-acid",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "trader joes orange chicken",
+    "mandarin orange chicken",
+    "tj orange chicken",
+    "fried chicken warning"
+  ],
+  "whyItWorks": "Trader Joe's most famous item consists of dark-meat chicken chunks heavily battered and deep-fried, tossed in a sweet-and-sour sauce made with orange juice, vinegar, garlic, and dried chili. The combination of fryer oil, citrus acid, and alliums frequently sparks severe heartburn and diarrhea.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid during active disease. If eating in remission, bake in an oven without frying and use only a tiny splash of the sauce packet (or substitute sweet soy sauce).",
+  "watchOuts": [
+    "Violates citrus-free guardrail; heavy frying oil and acidic citrus glaze irritate inflamed intestines."
+  ]
+}

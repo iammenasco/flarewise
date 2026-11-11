@@ -1,0 +1,41 @@
+{
+  "id": "birds-eye-steamfresh-riced-cauliflower-warning",
+  "name": "Birds Eye Steamfresh Riced Cauliflower (High Fermentable Gas Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Birds Eye / Conagra",
+  "crohnsScore": 4.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "cauliflower",
+    "riced-cauliflower",
+    "birds-eye",
+    "gas-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "riced cauliflower",
+    "frozen riced cauliflower",
+    "cauliflower rice bloat",
+    "cauliflower gas"
+  ],
+  "whyItWorks": "Grating cauliflower into 'rice' does not remove its high sulfur compounds or complex raffinose oligosaccharides. When it reaches the colon, bacteria rapidly ferment it into massive volumes of gas, creating agonizing distension and painful pressure.",
+  "prepOrOrderInstructions": "Trigger Warning: Do not substitute riced cauliflower for real rice during flares. Stick to genuine white Jasmine or Basmati rice.",
+  "watchOuts": [
+    "Causes severe bloating, painful gas colic, and distension in sensitive bowels."
+  ]
+}

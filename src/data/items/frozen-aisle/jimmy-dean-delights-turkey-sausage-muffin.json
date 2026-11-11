@@ -1,0 +1,40 @@
+{
+  "id": "jimmy-dean-delights-turkey-sausage-muffin",
+  "name": "Jimmy Dean Delights Turkey Sausage, Egg White & Cheese English Muffin",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Jimmy Dean / Tyson Foods",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "breakfast-sandwich",
+    "jimmy-dean",
+    "turkey-sausage",
+    "egg-whites",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "jimmy dean delights",
+    "turkey sausage sandwich",
+    "frozen breakfast sandwich",
+    "egg white muffin"
+  ],
+  "whyItWorks": "Formulated with 50% less fat than standard pork sausage breakfast sandwiches: lean turkey sausage patty, fluffy egg white, and American cheese on an English muffin. Delivers 17g protein with minimal grease.",
+  "prepOrOrderInstructions": "Wrap in a paper towel and microwave for 90 seconds. Let sit 1 minute for heat to equalize.",
+  "watchOuts": [
+    "Contains mild American cheese; safe for remission and mild recovery."
+  ]
+}

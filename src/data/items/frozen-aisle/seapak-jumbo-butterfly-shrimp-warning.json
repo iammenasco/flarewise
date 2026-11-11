@@ -1,0 +1,39 @@
+{
+  "id": "seapak-jumbo-butterfly-shrimp-warning",
+  "name": "SeaPak Jumbo Butterfly Crispy Battered Shrimp (Heavy Batter Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "SeaPak / Rich Products",
+  "crohnsScore": 4.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "shrimp",
+    "seapak",
+    "fried-shrimp",
+    "battered-seafood",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "seapak shrimp",
+    "butterfly shrimp",
+    "frozen fried shrimp",
+    "breaded shrimp warning"
+  ],
+  "whyItWorks": "Over 50% of the weight of each shrimp is thick, heavy wheat flour and cornstarch batter that absorbs massive amounts of fryer oil. The greasy, abrasive crust scrapes inflamed intestines and stimulates rapid transit.",
+  "prepOrOrderInstructions": "Trigger Warning: Avoid heavy battered fried shrimp. Choose plain steamed or peeled boiled shrimp instead.",
+  "watchOuts": [
+    "Heavy frying batter and oil provoke postprandial cramping and loose stools."
+  ]
+}

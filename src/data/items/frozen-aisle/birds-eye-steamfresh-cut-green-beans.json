@@ -1,0 +1,42 @@
+{
+  "id": "birds-eye-steamfresh-cut-green-beans",
+  "name": "Birds Eye Steamfresh Cut Green Beans (Microwave Steam Bag)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Birds Eye / Conagra",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "vegetables",
+    "green-beans",
+    "birds-eye",
+    "steamfresh",
+    "steamer-bag",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "birds eye green beans",
+    "steamfresh green beans",
+    "frozen green beans",
+    "microwave vegetables"
+  ],
+  "whyItWorks": "Flash-frozen tender green beans that steam inside the sealed bag under gentle pressure. Steaming softens the outer cellulose pod walls, rendering them fork-tender, low-FODMAP, and non-bloating.",
+  "prepOrOrderInstructions": "Microwave unopened bag for 4.5 minutes. Toss with a dab of butter and salt.",
+  "watchOuts": [
+    "100% pure green beans without added butter sauces or alliums."
+  ]
+}

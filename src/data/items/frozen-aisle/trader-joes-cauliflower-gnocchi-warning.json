@@ -1,0 +1,41 @@
+{
+  "id": "trader-joes-cauliflower-gnocchi-warning",
+  "name": "Trader Joe's Cauliflower Gnocchi (High Cassava & Insoluble Fiber Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trader Joe's",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "trader-joes",
+    "gnocchi",
+    "cauliflower-gnocchi",
+    "high-fiber",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "cauliflower gnocchi",
+    "trader joes cauliflower gnocchi",
+    "tj gnocchi bloat",
+    "cauliflower pasta"
+  ],
+  "whyItWorks": "While marketed as a health food, this gnocchi is 75% cauliflower combined with dense cassava flour and potato starch. It delivers 6g of dense, fermentable insoluble fiber per cup, triggering intense abdominal gas, bloating, and painful distension.",
+  "prepOrOrderInstructions": "Trigger Warning: Avoid during active flares. If eating in deep remission, pan-sear in olive oil until crispy and eat in a small 1/2 cup portion.",
+  "watchOuts": [
+    "High cruciferous cauliflower and dense cassava starch provoke severe bloating and intestinal spasms."
+  ]
+}

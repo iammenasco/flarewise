@@ -1,0 +1,41 @@
+{
+  "id": "ore-ida-golden-crinkle-french-fries",
+  "name": "Ore-Ida Golden Crinkle Cut French Fries",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Ore-Ida / Kraft Heinz",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "potatoes",
+    "french-fries",
+    "ore-ida",
+    "crinkle-fries",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "crinkle fries",
+    "ore ida fries",
+    "frozen french fries",
+    "baked fries"
+  ],
+  "whyItWorks": "Peeled russet potatoes cut into crinkles. Thick crinkle cuts retain a high proportion of soft, fluffy potato flesh relative to surface oil, providing gentle potassium and comforting carbs.",
+  "prepOrOrderInstructions": "Bake on a parchment-lined baking sheet until crisp on tips. Dip in low-FODMAP ketchup.",
+  "watchOuts": [
+    "Bake or air-fry; do not submerge in deep fryer oil."
+  ]
+}

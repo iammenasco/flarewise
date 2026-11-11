@@ -1,0 +1,41 @@
+{
+  "id": "applegate-naturals-gluten-free-chicken-tenders",
+  "name": "Applegate Naturals Gluten-Free Chicken Breast Tenders",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Applegate Farms / Hormel",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "chicken-tenders",
+    "applegate",
+    "gluten-free",
+    "chicken-breast",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "applegate chicken tenders",
+    "gluten free tenders",
+    "frozen chicken tenders",
+    "organic tenders"
+  ],
+  "whyItWorks": "Whole white meat chicken breast tenders coated in a light, gluten-free rice and corn flour crust. They bake golden and crispy in the oven with far less grease than fast-food fried tenders and zero wheat roughage.",
+  "prepOrOrderInstructions": "Bake at 425°F for 18–20 minutes until crispy. Dip in honey mustard or low-FODMAP ketchup.",
+  "watchOuts": [
+    "Bake in oven or air fryer; do not deep fry."
+  ]
+}

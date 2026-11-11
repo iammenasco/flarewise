@@ -1,0 +1,39 @@
+{
+  "id": "digiorno-four-cheese-rising-crust-warning",
+  "name": "DiGiorno Rising Crust Four Cheese Pizza (Thick Dough & Grease Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "DiGiorno / Nestlé",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "pizza",
+    "digiorno",
+    "rising-crust",
+    "heavy-grease",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "digiorno pizza",
+    "rising crust pizza",
+    "frozen pizza trigger",
+    "digiorno cheese"
+  ],
+  "whyItWorks": "Dense, thick yeast-rising dough loaded with concentrated mozzarella/cheddar grease and garlic-seasoned tomato sauce. A single serving delivers 18g fat and high sodium, creating prolonged gastric retention and bloating.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid thick rising crust pizzas during active IBD. Choose thin gluten-free cheese pizza or homemade sourdough flatbread in remission.",
+  "watchOuts": [
+    "Dense yeast dough and heavy cheese grease trigger severe delayed gastric emptying and cramping."
+  ]
+}

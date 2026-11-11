@@ -1,0 +1,43 @@
+{
+  "id": "tyson-grilled-ready-chicken-breast-strips",
+  "name": "Tyson Grilled & Ready Fully Cooked Frozen Chicken Breast Strips",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Tyson Foods",
+  "crohnsScore": 9.6,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "chicken",
+    "tyson",
+    "grilled-chicken",
+    "high-protein",
+    "zero-breading",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "tyson grilled and ready",
+    "frozen grilled chicken",
+    "chicken breast strips",
+    "precooked chicken",
+    "microwave chicken"
+  ],
+  "whyItWorks": "A lifesaving freezer staple for IBD patients with zero energy to cook: 100% real boneless, skinless chicken breast strips, flame-grilled and flash-frozen. Contains 0g breading, 0g fiber, under 2g fat, and heats in 90 seconds.",
+  "prepOrOrderInstructions": "Microwave 3 oz of strips for 60–90 seconds. Serve over warm white rice, stirred into chicken broth, or in a soft flour tortilla.",
+  "watchOuts": [
+    "Completely unbreaded and lean; safe for acute flares, strictures, and remission."
+  ]
+}

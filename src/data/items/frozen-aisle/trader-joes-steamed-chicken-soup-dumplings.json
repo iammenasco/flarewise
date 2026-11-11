@@ -1,0 +1,44 @@
+{
+  "id": "trader-joes-steamed-chicken-soup-dumplings",
+  "name": "Trader Joe's Steamed Chicken Soup Dumplings (Xiao Long Bao)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trader Joe's",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "trader-joes",
+    "dumplings",
+    "soup-dumplings",
+    "chicken",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "trader joes soup dumplings",
+    "chicken soup dumplings",
+    "xiao long bao",
+    "frozen dumplings",
+    "tj dumplings"
+  ],
+  "whyItWorks": "One of the gentlest convenience meals at Trader Joe's. Steamed thin wheat dough pouches filled with ground chicken breast and gelatinized chicken broth. The meat is soft, the broth provides warm hydration, and the steamed wrapper is non-greasy and low in fiber (1g).",
+  "prepOrOrderInstructions": "Microwave in the provided tray for 1 minute 45 seconds or steam on the stovetop. Poke a small hole to let hot soup cool slightly before eating. Dip in coconut aminos or low-sodium tamari.",
+  "watchOuts": [
+    "Contains mild green onion and ginger in the filling; well-tolerated in remission and mild recovery."
+  ]
+}

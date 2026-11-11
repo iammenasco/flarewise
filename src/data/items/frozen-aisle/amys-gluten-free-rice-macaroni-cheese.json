@@ -1,0 +1,41 @@
+{
+  "id": "amys-gluten-free-rice-macaroni-cheese",
+  "name": "Amy's Kitchen Gluten Free Rice Macaroni & Cheese",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Amy's Kitchen",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "amys-kitchen",
+    "gluten-free",
+    "mac-and-cheese",
+    "rice-pasta",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "amys mac and cheese",
+    "amys gluten free mac",
+    "rice macaroni",
+    "gluten free frozen meal"
+  ],
+  "whyItWorks": "Organic tender white rice macaroni baked in a traditional aged cheddar cheese sauce. With only 1g fiber and no wheat gluten, it satisfies comfort food cravings without mechanical roughage.",
+  "prepOrOrderInstructions": "Microwave for 4 minutes or bake in oven. Take a lactase tablet if sensitive to dairy cheese.",
+  "watchOuts": [
+    "Contains real cheddar cheese and butter; take lactase if lactose intolerant."
+  ]
+}

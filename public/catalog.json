@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T18:00:16.194Z",
-  "itemCount": 1640,
+  "builtAt": "2026-11-11T18:15:55.875Z",
+  "itemCount": 1673,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1741,6 +1741,50 @@
         "100% caffeine-free; gentle on the stomach."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/twinings-pure-chamomile-herbal-tea.json"
+    },
+    {
+      "id": "tyson-grilled-ready-chicken-breast-strips",
+      "name": "Tyson Grilled & Ready Fully Cooked Frozen Chicken Breast Strips",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Tyson Foods",
+      "crohnsScore": 9.6,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "chicken",
+        "tyson",
+        "grilled-chicken",
+        "high-protein",
+        "zero-breading",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "tyson grilled and ready",
+        "frozen grilled chicken",
+        "chicken breast strips",
+        "precooked chicken",
+        "microwave chicken"
+      ],
+      "whyItWorks": "A lifesaving freezer staple for IBD patients with zero energy to cook: 100% real boneless, skinless chicken breast strips, flame-grilled and flash-frozen. Contains 0g breading, 0g fiber, under 2g fat, and heats in 90 seconds.",
+      "prepOrOrderInstructions": "Microwave 3 oz of strips for 60–90 seconds. Serve over warm white rice, stirred into chicken broth, or in a soft flour tortilla.",
+      "watchOuts": [
+        "Completely unbreaded and lean; safe for acute flares, strictures, and remission."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/tyson-grilled-ready-chicken-breast-strips.json"
     },
     {
       "id": "dcl-room-service-chicken-noodle-soup",
@@ -7209,6 +7253,48 @@
         "None; premier corporate office breakfast"
       ],
       "_sourcePath": "src/data/items/breakfast/thomas-cuisine-bamboohr-scrambled-egg-morning-bowl.json"
+    },
+    {
+      "id": "trader-joes-silver-dollar-pancakes",
+      "name": "Trader Joe's Mini Silver Dollar Pancakes (Frozen 36-Pack)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trader Joe's",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "trader-joes",
+        "pancakes",
+        "silver-dollar",
+        "breakfast",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "trader joes pancakes",
+        "mini pancakes",
+        "silver dollar pancakes",
+        "frozen pancakes"
+      ],
+      "whyItWorks": "Tiny, bite-sized fluffy pancakes made from refined flour, buttermilk, and sugar. They heat in 60 seconds and dissolve into tender, easily digested carbs. Low in fiber (under 1g).",
+      "prepOrOrderInstructions": "Microwave 6 mini pancakes for 45 seconds or toast lightly. Drizzle with pure maple syrup.",
+      "watchOuts": [
+        "Refined white flour pancake; gentle comfort food for morning nausea."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/trader-joes-silver-dollar-pancakes.json"
     },
     {
       "id": "twizzlers-strawberry-licorice-twists",
@@ -12820,6 +12906,50 @@
       "_sourcePath": "src/data/items/drinks-sauces/gatorade-original-thirst-quencher.json"
     },
     {
+      "id": "gortons-simply-bake-haddock-filets",
+      "name": "Gorton's Simply Bake Haddock Filets (Bake-in-Bag Mild White Fish)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Gorton's",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "seafood",
+        "fish",
+        "haddock",
+        "gortons",
+        "simply-bake",
+        "lean-protein",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "gortons simply bake",
+        "frozen haddock",
+        "white fish fillets",
+        "bake in bag fish",
+        "gentle fish"
+      ],
+      "whyItWorks": "100% wild haddock fillets seasoned lightly and sealed in parchment bake-bags. The fish steams gently in its own juices in the oven, with ZERO fried breading, under 2g fat, and zero fiber. Extremely light and flaky on sensitive intestines.",
+      "prepOrOrderInstructions": "Bake in bag at 375°F for 24 minutes. Cut bag open and serve tender fish over white rice or mashed potatoes.",
+      "watchOuts": [
+        "Zero fried batter; an exceptional, effortless lean seafood meal."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/gortons-simply-bake-haddock-filets.json"
+    },
+    {
       "id": "eggo-homestyle-frozen-waffles",
       "name": "Kellogg's Eggo Homestyle Frozen Waffles (Toasted)",
       "categoryFolder": "breakfast",
@@ -13273,6 +13403,51 @@
       "_sourcePath": "src/data/items/lunch/tillamook-medium-cheddar-cheese-slices.json"
     },
     {
+      "id": "trader-joes-steamed-chicken-soup-dumplings",
+      "name": "Trader Joe's Steamed Chicken Soup Dumplings (Xiao Long Bao)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trader Joe's",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "Chinese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "trader-joes",
+        "dumplings",
+        "soup-dumplings",
+        "chicken",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "trader joes soup dumplings",
+        "chicken soup dumplings",
+        "xiao long bao",
+        "frozen dumplings",
+        "tj dumplings"
+      ],
+      "whyItWorks": "One of the gentlest convenience meals at Trader Joe's. Steamed thin wheat dough pouches filled with ground chicken breast and gelatinized chicken broth. The meat is soft, the broth provides warm hydration, and the steamed wrapper is non-greasy and low in fiber (1g).",
+      "prepOrOrderInstructions": "Microwave in the provided tray for 1 minute 45 seconds or steam on the stovetop. Poke a small hole to let hot soup cool slightly before eating. Dip in coconut aminos or low-sodium tamari.",
+      "watchOuts": [
+        "Contains mild green onion and ginger in the filling; well-tolerated in remission and mild recovery."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/trader-joes-steamed-chicken-soup-dumplings.json"
+    },
+    {
       "id": "viva-chicken-herriman-st-george-rotisserie-chicken-white-rice",
       "name": "Viva Chicken (Herriman / Mountain View Corridor) Peruvian Rotisserie Chicken & White Rice",
       "categoryFolder": "dinner",
@@ -13526,6 +13701,93 @@
         "Many house dressings contain lemon juice (citrus trigger)—dress with plain extra-virgin olive oil instead; skip raw kale and chickpea salads"
       ],
       "_sourcePath": "src/data/items/dinner/aubergine-kitchen-herriman-draper-lehi-salmon-rice-bowl.json"
+    },
+    {
+      "id": "bibigo-steamed-chicken-vegetable-dumplings",
+      "name": "Bibigo Steamed Chicken & Vegetable Dumplings (Tray with Dipping Sauce)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Bibigo / CJ Foods",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "Korean",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "dumplings",
+        "bibigo",
+        "steamed-dumplings",
+        "chicken",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "bibigo dumplings",
+        "steamed chicken dumplings",
+        "korean dumplings",
+        "microwave dumplings",
+        "bibigo mandu"
+      ],
+      "whyItWorks": "Thin, delicate steamed wrappers filled with minced white chicken breast, cabbage, and soy sauce. The filling is pre-ground fine and steamed tender, requiring virtually zero digestive effort.",
+      "prepOrOrderInstructions": "Tear corner of steam bag and microwave for 1 minute 45 seconds. Dip in low-sodium tamari or coconut aminos.",
+      "watchOuts": [
+        "Filling contains mild alliums; well-tolerated in remission and mild symptoms."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/bibigo-steamed-chicken-vegetable-dumplings.json"
+    },
+    {
+      "id": "birds-eye-steamfresh-cut-green-beans",
+      "name": "Birds Eye Steamfresh Cut Green Beans (Microwave Steam Bag)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Birds Eye / Conagra",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "vegetables",
+        "green-beans",
+        "birds-eye",
+        "steamfresh",
+        "steamer-bag",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "birds eye green beans",
+        "steamfresh green beans",
+        "frozen green beans",
+        "microwave vegetables"
+      ],
+      "whyItWorks": "Flash-frozen tender green beans that steam inside the sealed bag under gentle pressure. Steaming softens the outer cellulose pod walls, rendering them fork-tender, low-FODMAP, and non-bloating.",
+      "prepOrOrderInstructions": "Microwave unopened bag for 4.5 minutes. Toss with a dab of butter and salt.",
+      "watchOuts": [
+        "100% pure green beans without added butter sauces or alliums."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/birds-eye-steamfresh-cut-green-beans.json"
     },
     {
       "id": "cheez-it-original-baked-snack-crackers",
@@ -15605,6 +15867,47 @@
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-herb-roasted-half-chicken.json"
     },
     {
+      "id": "lean-cuisine-glazed-chicken-white-rice",
+      "name": "Lean Cuisine Favorites Glazed Chicken with White Rice & Green Beans",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Lean Cuisine / Nestlé",
+      "crohnsScore": 8.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "lean-cuisine",
+        "glazed-chicken",
+        "white-rice",
+        "low-fat",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "lean cuisine glazed chicken",
+        "frozen glazed chicken",
+        "chicken and rice frozen",
+        "diet frozen meal"
+      ],
+      "whyItWorks": "One of the cleanest frozen meals in the grocery store: tender white meat chicken tenderloins in a sweet lemon-tarragon glaze, served over white rice and soft green beans. Very low in fat (under 4g) and low in sodium.",
+      "prepOrOrderInstructions": "Microwave for 4 minutes. Stir chicken and rice into the glaze before eating.",
+      "watchOuts": [
+        "A gentle, low-fat frozen meal ideal for fatigue days."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/lean-cuisine-glazed-chicken-white-rice.json"
+    },
+    {
       "id": "lee-kum-kee-premium-oyster-sauce",
       "name": "Lee Kum Kee Premium Oyster Flavored Sauce",
       "categoryFolder": "drinks-sauces",
@@ -16089,6 +16392,48 @@
         "Avoid raw cabbage slaw and spicy chili sambal sauces"
       ],
       "_sourcePath": "src/data/items/asian-indian/zao-asian-cafe-draper-seared-steak-rice-bowl.json"
+    },
+    {
+      "id": "amys-rice-mac-and-dairy-free-cheeze",
+      "name": "Amy's Kitchen Gluten-Free Dairy-Free Rice Mac & Cheeze (Vegan Cheeze)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Amy's Kitchen",
+      "crohnsScore": 8.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "amys-kitchen",
+        "gluten-free",
+        "dairy-free",
+        "vegan-mac",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "amys dairy free mac",
+        "amys vegan mac and cheese",
+        "dairy free mac",
+        "lactose free mac and cheese"
+      ],
+      "whyItWorks": "The ultimate dual-allergy comfort meal: certified gluten-free rice macaroni combined with dairy-free cheddar-style cheeze. Contains zero milk, zero lactose, zero wheat, and minimal fiber.",
+      "prepOrOrderInstructions": "Microwave for 4–5 minutes until piping hot and bubbly. Stir well before eating.",
+      "watchOuts": [
+        "Safe for individuals with severe primary lactose intolerance or cow's milk protein allergies."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/amys-rice-mac-and-dairy-free-cheeze.json"
     },
     {
       "id": "bamboohr-thomas2go-grill-station-burger-chicken",
@@ -17357,6 +17702,48 @@
       "_sourcePath": "src/data/items/dinner/dca-wine-country-trattoria-roasted-salmon.json"
     },
     {
+      "id": "pillsbury-grands-flaky-layers-biscuits",
+      "name": "Pillsbury Grands! Flaky Layers Buttermilk Biscuits (Oven-Baked)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Pillsbury / General Mills",
+      "crohnsScore": 8.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "biscuits",
+        "pillsbury",
+        "flaky-biscuits",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "pillsbury grands",
+        "canned biscuits",
+        "frozen biscuits",
+        "flaky biscuits",
+        "buttermilk biscuits"
+      ],
+      "whyItWorks": "Baked from refined enriched flour into soft, peelable, buttery layers. The interior crumb is delicate, moist, and low in fiber (1g), melting on the tongue without rough edges.",
+      "prepOrOrderInstructions": "Bake in oven or toaster oven at 375°F for 13–15 minutes until golden brown. Drizzle with pure honey or maple syrup.",
+      "watchOuts": [
+        "Soft, refined white dough; chew each bite well."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/pillsbury-grands-flaky-layers-biscuits.json"
+    },
+    {
       "id": "knotts-buena-park-portos-bakery-medianoche-turkey-sandwich",
       "name": "Porto's Bakery (Buena Park — Near Knott's) Medianoche Roasted Pork, Ham & Swiss on Sweet Egg Bread or Turkey Sandwich",
       "categoryFolder": "lunch",
@@ -17941,6 +18328,48 @@
         "Take a Lactaid for buttermilk pancakes"
       ],
       "_sourcePath": "src/data/items/breakfast/angies-logan-all-day-breakfast-scramble-pancakes.json"
+    },
+    {
+      "id": "applegate-naturals-gluten-free-chicken-tenders",
+      "name": "Applegate Naturals Gluten-Free Chicken Breast Tenders",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Applegate Farms / Hormel",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "chicken-tenders",
+        "applegate",
+        "gluten-free",
+        "chicken-breast",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "applegate chicken tenders",
+        "gluten free tenders",
+        "frozen chicken tenders",
+        "organic tenders"
+      ],
+      "whyItWorks": "Whole white meat chicken breast tenders coated in a light, gluten-free rice and corn flour crust. They bake golden and crispy in the oven with far less grease than fast-food fried tenders and zero wheat roughage.",
+      "prepOrOrderInstructions": "Bake at 425°F for 18–20 minutes until crispy. Dip in honey mustard or low-FODMAP ketchup.",
+      "watchOuts": [
+        "Bake in oven or air fryer; do not deep fry."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/applegate-naturals-gluten-free-chicken-tenders.json"
     },
     {
       "id": "baked-potato-and-cheddar-cheese-soup",
@@ -20066,6 +20495,47 @@
         "Must be 100% smooth/creamy; never purchase crunchy varieties."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/jif-creamy-smooth-peanut-butter.json"
+    },
+    {
+      "id": "jimmy-dean-delights-turkey-sausage-muffin",
+      "name": "Jimmy Dean Delights Turkey Sausage, Egg White & Cheese English Muffin",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Jimmy Dean / Tyson Foods",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "breakfast-sandwich",
+        "jimmy-dean",
+        "turkey-sausage",
+        "egg-whites",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "jimmy dean delights",
+        "turkey sausage sandwich",
+        "frozen breakfast sandwich",
+        "egg white muffin"
+      ],
+      "whyItWorks": "Formulated with 50% less fat than standard pork sausage breakfast sandwiches: lean turkey sausage patty, fluffy egg white, and American cheese on an English muffin. Delivers 17g protein with minimal grease.",
+      "prepOrOrderInstructions": "Wrap in a paper towel and microwave for 90 seconds. Let sit 1 minute for heat to equalize.",
+      "watchOuts": [
+        "Contains mild American cheese; safe for remission and mild recovery."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/jimmy-dean-delights-turkey-sausage-muffin.json"
     },
     {
       "id": "ken-steak-house-honey-mustard",
@@ -23871,6 +24341,48 @@
       "_sourcePath": "src/data/items/snacks-desserts/zipz-dole-whip-mango-pineapple-swirl.json"
     },
     {
+      "id": "amys-gluten-free-rice-macaroni-cheese",
+      "name": "Amy's Kitchen Gluten Free Rice Macaroni & Cheese",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Amy's Kitchen",
+      "crohnsScore": 8.4,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "amys-kitchen",
+        "gluten-free",
+        "mac-and-cheese",
+        "rice-pasta",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "amys mac and cheese",
+        "amys gluten free mac",
+        "rice macaroni",
+        "gluten free frozen meal"
+      ],
+      "whyItWorks": "Organic tender white rice macaroni baked in a traditional aged cheddar cheese sauce. With only 1g fiber and no wheat gluten, it satisfies comfort food cravings without mechanical roughage.",
+      "prepOrOrderInstructions": "Microwave for 4 minutes or bake in oven. Take a lactase tablet if sensitive to dairy cheese.",
+      "watchOuts": [
+        "Contains real cheddar cheese and butter; take lactase if lactose intolerant."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/amys-gluten-free-rice-macaroni-cheese.json"
+    },
+    {
       "id": "amylu-apple-gouda-chicken-sausage-costco",
       "name": "Amylu Organic Apple & Gouda Fully Cooked Chicken Sausage (Costco)",
       "categoryFolder": "high-protein",
@@ -26590,6 +27102,48 @@
       "_sourcePath": "src/data/items/breakfast/the-crepery-logan-sugar-butter-sweet-crepe.json"
     },
     {
+      "id": "trader-joes-chicken-tikka-masala-frozen",
+      "name": "Trader Joe's Frozen Chicken Tikka Masala with Cumin Basmati Rice",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trader Joe's",
+      "crohnsScore": 8.3,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Indian",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "trader-joes",
+        "indian",
+        "chicken-tikka-masala",
+        "basmati-rice",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "trader joes tikka masala",
+        "frozen tikka masala",
+        "chicken tikka basmati",
+        "tj indian meal"
+      ],
+      "whyItWorks": "Trader Joe's top-selling frozen meal: tender roasted chicken breast pieces simmered in a creamy, mild tomato-fenugreek curry paired with fluffy steamed white basmati rice. Basmati rice is an elite soothing starch, and the sauce is mild without fiery chili heat.",
+      "prepOrOrderInstructions": "Microwave for 4–5 minutes until steaming. Take a lactase enzyme tablet for the cream in the tikka sauce.",
+      "watchOuts": [
+        "Contains heavy cream and butter in the sauce; take lactase if dairy sensitive."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/trader-joes-chicken-tikka-masala-frozen.json"
+    },
+    {
       "id": "zao-asian-cafe-draper-yellow-curry-jasmine-rice",
       "name": "Zao Asian Cafe (Draper & South Jordan, UT) Mild Yellow Coconut Chicken Curry & Rice",
       "categoryFolder": "asian-indian",
@@ -27479,6 +28033,47 @@
         "Verify all waxy skin shreds and seeds have been removed."
       ],
       "_sourcePath": "src/data/items/produce-sides/roasted-peeled-red-bell-peppers.json"
+    },
+    {
+      "id": "freschetta-gluten-free-four-cheese-pizza",
+      "name": "Freschetta Gluten Free Four Cheese Pizza (Thin Rice & Tapioca Crust)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Freschetta / Schwan's",
+      "crohnsScore": 8.2,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "pizza",
+        "freschetta",
+        "gluten-free-pizza",
+        "cheese-pizza",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "freschetta gluten free",
+        "gf frozen pizza",
+        "gluten free cheese pizza",
+        "rice flour pizza"
+      ],
+      "whyItWorks": "Crust crafted from milled rice flour, tapioca starch, and potato starch. It bakes into a crisp, delicate crust that breaks down easily without heavy gluten dough or rough grain flours. Mild mozzarella and provolone cheese.",
+      "prepOrOrderInstructions": "Bake directly on oven rack for 11–13 minutes. Take a lactase tablet for the cheese topping.",
+      "watchOuts": [
+        "Contains real cheese; take lactase enzyme if sensitive to dairy."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/freschetta-gluten-free-four-cheese-pizza.json"
     },
     {
       "id": "gourmandise-draper-butternut-squash-pasta-salmon",
@@ -29180,6 +29775,48 @@
         "Skip Pepperoni/Meat Lovers pizza, spicy marinara, and Italian bean salad"
       ],
       "_sourcePath": "src/data/items/italian-med/knotts-prop-shop-pizzeria-chicken-pasta-pizza.json"
+    },
+    {
+      "id": "ore-ida-golden-crinkle-french-fries",
+      "name": "Ore-Ida Golden Crinkle Cut French Fries",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Ore-Ida / Kraft Heinz",
+      "crohnsScore": 8.1,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "potatoes",
+        "french-fries",
+        "ore-ida",
+        "crinkle-fries",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "crinkle fries",
+        "ore ida fries",
+        "frozen french fries",
+        "baked fries"
+      ],
+      "whyItWorks": "Peeled russet potatoes cut into crinkles. Thick crinkle cuts retain a high proportion of soft, fluffy potato flesh relative to surface oil, providing gentle potassium and comforting carbs.",
+      "prepOrOrderInstructions": "Bake on a parchment-lined baking sheet until crisp on tips. Dip in low-FODMAP ketchup.",
+      "watchOuts": [
+        "Bake or air-fry; do not submerge in deep fryer oil."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/ore-ida-golden-crinkle-french-fries.json"
     },
     {
       "id": "knotts-buena-park-portillos-charbroiled-burger-chicken",
@@ -33787,6 +34424,48 @@
       "_sourcePath": "src/data/items/italian-med/1923-tortiglioni-prosecco-cream-pasta.json"
     },
     {
+      "id": "trader-joes-gluten-free-mac-and-cheese",
+      "name": "Trader Joe's Gluten Free Macaroni & Cheese (Cheddar & Swiss)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trader Joe's",
+      "crohnsScore": 8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "trader-joes",
+        "mac-and-cheese",
+        "gluten-free",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "trader joes gluten free mac",
+        "gf mac and cheese",
+        "frozen mac and cheese",
+        "rice pasta mac"
+      ],
+      "whyItWorks": "Made with tender elbow macaroni crafted from rice flour and corn flour. The cheese sauce blends cheddar, Swiss, and Havarti. Rice pasta is soft and easily broken down, avoiding wheat gluten irritation.",
+      "prepOrOrderInstructions": "Bake in oven or microwave for 5 minutes. Take a lactase enzyme tablet for the cheese sauce.",
+      "watchOuts": [
+        "Contains dairy cheese and milk; take lactase enzyme if sensitive to lactose."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/trader-joes-gluten-free-mac-and-cheese.json"
+    },
+    {
       "id": "rapunzels-trio-of-veal",
       "name": "Trio of Veal: Grilled Tenderloin, Pulled Shank & Tortellacci Pasta (Night 2)",
       "categoryFolder": "dinner",
@@ -35182,6 +35861,50 @@
       "whyItWorks": "Lean chunks of boneless chicken breast marinated in yogurt and mild Indian spices, skewered and roasted in the dry heat of the tandoor. It is ultra-lean protein without heavy cream gravies.",
       "prepOrOrderInstructions": "Ask for mild seasoning and skip the raw sliced red onion and lemon wedge garnish. Pair with plain basmati rice.",
       "_sourcePath": "src/data/items/dinner/tandoori-oven-logan-murgh-tikka-dry.json"
+    },
+    {
+      "id": "ore-ida-golden-tater-tots-air-fryer",
+      "name": "Ore-Ida Golden Tater Tots (Air-Fried or Oven-Baked)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Ore-Ida / Kraft Heinz",
+      "crohnsScore": 7.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "potatoes",
+        "tater-tots",
+        "ore-ida",
+        "air-fryer",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "ore ida tater tots",
+        "tater tots",
+        "frozen tots",
+        "air fryer tater tots"
+      ],
+      "whyItWorks": "Finely shredded Idaho russet potatoes seasoned with salt and par-fried. When baked in the oven or air fryer without added oil, they crisp up on the outside while the interior melts into fluffy potato starch.",
+      "prepOrOrderInstructions": "Bake at 425°F for 20 minutes until golden. Do not deep-fry in oil to keep fat levels manageable.",
+      "watchOuts": [
+        "Contains par-fried oil; enjoy in standard 3-oz servings."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/ore-ida-golden-tater-tots-air-fryer.json"
     },
     {
       "id": "portos-bakery-buena-park-croquetas-de-jamon",
@@ -37168,6 +37891,49 @@
       "_sourcePath": "src/data/items/asian-indian/takara-sushi-logan-okdol-bibimbap.json"
     },
     {
+      "id": "trader-joes-japanese-style-fried-rice",
+      "name": "Trader Joe's Japanese Style Fried Rice (Hijiki Seaweed & Tofu Skin)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trader Joe's",
+      "crohnsScore": 7.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "skillet",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "trader-joes",
+        "fried-rice",
+        "japanese",
+        "rice",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "trader joes fried rice",
+        "japanese fried rice",
+        "hijiki rice",
+        "tj rice"
+      ],
+      "whyItWorks": "Short-grain white rice tossed with mirin, soy sauce, hijiki seaweed, and tender fried tofu skin (aburaage). It is much lower in grease than typical Chinese takeout fried rice and has no onions or garlic chunks.",
+      "prepOrOrderInstructions": "Sauté in a dry nonstick skillet for 4–5 minutes until hot. Pick around whole green edamame pods if sensitive to whole soy legumes.",
+      "watchOuts": [
+        "Contains whole shelled edamame soybeans; pick around them during active flares if sensitive to legumes."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/trader-joes-japanese-style-fried-rice.json"
+    },
+    {
       "id": "zao-asian-cafe-draper-yakisoba-noodles-chicken",
       "name": "Zao Asian Cafe Yakisoba Noodles with Seared Chicken (Mild)",
       "categoryFolder": "asian-indian",
@@ -38467,6 +39233,48 @@
       "whyItWorks": "Al dente spaghetti tossed in a slow-simmered bolognese sauce of finely ground beef and strained tomatoes. Cooking the beef thoroughly breaks down muscle fibers for effortless digestion.",
       "prepOrOrderInstructions": "Ask for light sauce and skip crushed red pepper flakes or heavy grated cheese.",
       "_sourcePath": "src/data/items/italian-med/dca-wine-country-trattoria-spaghetti-bolognese.json"
+    },
+    {
+      "id": "stouffers-classics-macaroni-and-cheese",
+      "name": "Stouffer's Classics Macaroni & Cheese (Single-Serve Comfort Tray)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Stouffer's / Nestlé",
+      "crohnsScore": 7.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "stouffers",
+        "mac-and-cheese",
+        "comfort-food",
+        "cheddar",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "stouffers mac and cheese",
+        "frozen mac and cheese",
+        "cheddar mac",
+        "stouffers single serve"
+      ],
+      "whyItWorks": "Enriched semolina elbow macaroni smothered in real cheddar cheese sauce. Soft, pillowy pasta provides gentle calories during weight-loss recovery with zero roughage, nuts, or seeds.",
+      "prepOrOrderInstructions": "Microwave for 5 minutes. Take a lactase tablet for the cheddar/whey sauce.",
+      "watchOuts": [
+        "Contains dairy milk and cheese; enjoy in moderate single-serve portions."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/stouffers-classics-macaroni-and-cheese.json"
     },
     {
       "id": "summit-pizza-co-bear-lake-cheese-doodles-breadsticks",
@@ -42469,6 +43277,48 @@
         "Liquid dairy ice cream and fudge sugar"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/1923-hollywood-hills-hot-fudge-sundae.json"
+    },
+    {
+      "id": "hot-pockets-hickory-ham-and-cheddar",
+      "name": "Hot Pockets Hickory Ham & Cheddar (Crispy Buttery Crust)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Hot Pockets / Nestlé",
+      "crohnsScore": 7.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "hot-pockets",
+        "ham-and-cheese",
+        "handheld",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "hot pockets",
+        "ham and cheese hot pocket",
+        "frozen handheld",
+        "microwave sandwich"
+      ],
+      "whyItWorks": "Unlike spicy pepperoni Hot Pockets, the Hickory Ham & Cheddar variety uses tender diced cured ham and mild cheddar cheese sauce wrapped in a flaky crust. It contains zero seeds, zero chili peppers, and zero tomato acid.",
+      "prepOrOrderInstructions": "Microwave in crisping sleeve for 2 minutes. Let cool for 2 minutes so hot cheese does not burn oral mucosa.",
+      "watchOuts": [
+        "Contains cheese sauce (lactose); take a lactase enzyme tablet if sensitive."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/hot-pockets-hickory-ham-and-cheddar.json"
     },
     {
       "id": "jumbeauxs-sweets-gelato-ice-cream",
@@ -56810,6 +57660,46 @@
       "_sourcePath": "src/data/items/diner-bbq/costco-food-court-chicken-bake-warning.json"
     },
     {
+      "id": "digiorno-four-cheese-rising-crust-warning",
+      "name": "DiGiorno Rising Crust Four Cheese Pizza (Thick Dough & Grease Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "DiGiorno / Nestlé",
+      "crohnsScore": 5.6,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "pizza",
+        "digiorno",
+        "rising-crust",
+        "heavy-grease",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "digiorno pizza",
+        "rising crust pizza",
+        "frozen pizza trigger",
+        "digiorno cheese"
+      ],
+      "whyItWorks": "Dense, thick yeast-rising dough loaded with concentrated mozzarella/cheddar grease and garlic-seasoned tomato sauce. A single serving delivers 18g fat and high sodium, creating prolonged gastric retention and bloating.",
+      "prepOrOrderInstructions": "Flare Warning: Avoid thick rising crust pizzas during active IBD. Choose thin gluten-free cheese pizza or homemade sourdough flatbread in remission.",
+      "watchOuts": [
+        "Dense yeast dough and heavy cheese grease trigger severe delayed gastric emptying and cramping."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/digiorno-four-cheese-rising-crust-warning.json"
+    },
+    {
       "id": "disneyland-milk-stand-green-milk-citrus-warning",
       "name": "Disneyland Milk Stand \"Green Milk\" (Tropical Blossom & Citrus Warning)",
       "categoryFolder": "drinks-sauces",
@@ -57852,6 +58742,47 @@
         "Tough cucumber skins and seeds; avoid Spicy Chamoy/Hot Pickles completely"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/knotts-pemmican-pickle-skin-seed-warning.json"
+    },
+    {
+      "id": "kodiak-cakes-power-waffles-warning",
+      "name": "Kodiak Cakes Buttermilk Power Waffles (High Wheat Protein & Fiber Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Kodiak Cakes",
+      "crohnsScore": 5.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "waffles",
+        "kodiak-cakes",
+        "protein-waffles",
+        "whole-grain",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "kodiak waffles",
+        "power waffles",
+        "protein waffles",
+        "kodiak cakes",
+        "waffle bloat"
+      ],
+      "whyItWorks": "Made with 100% whole grain wheat flour, oat flour, and concentrated whey/milk protein isolates. Delivering 4g of coarse whole-grain bran and heavy protein per serving, it frequently causes intense upper GI heaviness, gas, and diarrhea during active IBD.",
+      "prepOrOrderInstructions": "Flare Warning: Avoid high-protein whole grain waffles during flares. Choose Eggo Homestyle refined flour waffles or Cream of Rice instead.",
+      "watchOuts": [
+        "Dense whole wheat bran and concentrated dairy protein isolate create digestive heaviness and cramps."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/kodiak-cakes-power-waffles-warning.json"
     },
     {
       "id": "members-mark-southern-style-waffle-fries-frozen-warning",
@@ -59814,6 +60745,46 @@
         "Deep-fried pastry is high in grease"
       ],
       "_sourcePath": "src/data/items/asian-indian/tandoori-oven-logan-crisp-vegetable-samosas-warning.json"
+    },
+    {
+      "id": "trader-joes-mandarin-orange-chicken-warning",
+      "name": "Trader Joe's Mandarin Orange Chicken (Deep-Fried Batter & Citrus Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trader Joe's",
+      "crohnsScore": 5.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Chinese",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "frozen",
+        "trader-joes",
+        "orange-chicken",
+        "deep-fried",
+        "citrus-acid",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "trader joes orange chicken",
+        "mandarin orange chicken",
+        "tj orange chicken",
+        "fried chicken warning"
+      ],
+      "whyItWorks": "Trader Joe's most famous item consists of dark-meat chicken chunks heavily battered and deep-fried, tossed in a sweet-and-sour sauce made with orange juice, vinegar, garlic, and dried chili. The combination of fryer oil, citrus acid, and alliums frequently sparks severe heartburn and diarrhea.",
+      "prepOrOrderInstructions": "Flare Warning: Avoid during active disease. If eating in remission, bake in an oven without frying and use only a tiny splash of the sauce packet (or substitute sweet soy sauce).",
+      "watchOuts": [
+        "Violates citrus-free guardrail; heavy frying oil and acidic citrus glaze irritate inflamed intestines."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/trader-joes-mandarin-orange-chicken-warning.json"
     },
     {
       "id": "raw-green-unripe-banana-warning",
@@ -61857,6 +62828,46 @@
       "_sourcePath": "src/data/items/snacks-desserts/knotts-sutters-funnel-cake-warning.json"
     },
     {
+      "id": "marie-callenders-chicken-pot-pie-warning",
+      "name": "Marie Callender's Chicken Pot Pie (Heavy Saturated Fat & Flaky Crust Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Marie Callender's / Conagra",
+      "crohnsScore": 4.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "pot-pie",
+        "marie-callenders",
+        "high-fat",
+        "flaky-crust",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "marie callenders pot pie",
+        "chicken pot pie frozen",
+        "frozen pot pie trigger",
+        "heavy pot pie"
+      ],
+      "whyItWorks": "A single 15-oz pie delivers 50g+ of fat (including 18g saturated fat from lard/shortening) and hundreds of whole green peas with tough insoluble skins. The massive lipid volume triggers rapid biliary dumping, nausea, and loose stools.",
+      "prepOrOrderInstructions": "Severe Fat Trigger Warning: Avoid commercial frozen pot pies during flares. If in deep remission, eat half a pie and leave the whole green pea skins.",
+      "watchOuts": [
+        "Extreme fat load (50g+) and insoluble pea skins provoke acute cramping and diarrhea."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/marie-callenders-chicken-pot-pie-warning.json"
+    },
+    {
       "id": "disneyland-cafe-orleans-pommes-frites-warning",
       "name": "Pommes Frites with Garlic, Parmesan & Cajun Remoulade",
       "categoryFolder": "produce-sides",
@@ -62463,6 +63474,46 @@
       "whyItWorks": "Fatty braised pork belly served with pickled daikon and carrots, raw sliced jalapenos, and spicy sriracha aioli. Dense pork belly fat and raw stringy pickled roots can trigger cramping and obstruction.",
       "prepOrOrderInstructions": "Fat & Pickled Veggie Warning: Skip pickled vegetables and jalapenos if ordering during remission.",
       "_sourcePath": "src/data/items/lunch/dca-magic-key-terrace-banh-mi-sliders-warning.json"
+    },
+    {
+      "id": "seapak-jumbo-butterfly-shrimp-warning",
+      "name": "SeaPak Jumbo Butterfly Crispy Battered Shrimp (Heavy Batter Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "SeaPak / Rich Products",
+      "crohnsScore": 4.6,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "shrimp",
+        "seapak",
+        "fried-shrimp",
+        "battered-seafood",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "seapak shrimp",
+        "butterfly shrimp",
+        "frozen fried shrimp",
+        "breaded shrimp warning"
+      ],
+      "whyItWorks": "Over 50% of the weight of each shrimp is thick, heavy wheat flour and cornstarch batter that absorbs massive amounts of fryer oil. The greasy, abrasive crust scrapes inflamed intestines and stimulates rapid transit.",
+      "prepOrOrderInstructions": "Trigger Warning: Avoid heavy battered fried shrimp. Choose plain steamed or peeled boiled shrimp instead.",
+      "watchOuts": [
+        "Heavy frying batter and oil provoke postprandial cramping and loose stools."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/seapak-jumbo-butterfly-shrimp-warning.json"
     },
     {
       "id": "sweet-lake-biscuits-draper-the-hoss-warning",
@@ -63782,6 +64833,48 @@
       "_sourcePath": "src/data/items/dinner/tianas-vegetable-gumbo.json"
     },
     {
+      "id": "trader-joes-cauliflower-gnocchi-warning",
+      "name": "Trader Joe's Cauliflower Gnocchi (High Cassava & Insoluble Fiber Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trader Joe's",
+      "crohnsScore": 4.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "trader-joes",
+        "gnocchi",
+        "cauliflower-gnocchi",
+        "high-fiber",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "cauliflower gnocchi",
+        "trader joes cauliflower gnocchi",
+        "tj gnocchi bloat",
+        "cauliflower pasta"
+      ],
+      "whyItWorks": "While marketed as a health food, this gnocchi is 75% cauliflower combined with dense cassava flour and potato starch. It delivers 6g of dense, fermentable insoluble fiber per cup, triggering intense abdominal gas, bloating, and painful distension.",
+      "prepOrOrderInstructions": "Trigger Warning: Avoid during active flares. If eating in deep remission, pan-sear in olive oil until crispy and eat in a small 1/2 cup portion.",
+      "watchOuts": [
+        "High cruciferous cauliflower and dense cassava starch provoke severe bloating and intestinal spasms."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/trader-joes-cauliflower-gnocchi-warning.json"
+    },
+    {
       "id": "holiday-green-bean-casserole-fried-onions-avoid",
       "name": "Traditional Green Bean Casserole with Crispy Fried Onions & Mushroom Soup (Flare Avoid)",
       "categoryFolder": "produce-sides",
@@ -64019,6 +65112,46 @@
       "whyItWorks": "Tender penne pasta and chicken smothered in a heavy cream, butter, and parmesan sauce. Over 28g of dairy fat per serving triggers intense gastrocolic reflexes and diarrhea in sensitive bowels.",
       "prepOrOrderInstructions": "Heavy Cream & Lipid Hazard: Avoid during flare-ups. In remission, eat a small portion paired with extra plain chicken.",
       "_sourcePath": "src/data/items/dinner/members-mark-chicken-alfredo-with-penne-bake-warning.json"
+    },
+    {
+      "id": "jimmy-dean-sausage-croissant-warning",
+      "name": "Jimmy Dean Sausage, Egg & Cheese Croissant (Greasy Pork Sausage Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Jimmy Dean / Tyson Foods",
+      "crohnsScore": 4.3,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "breakfast-sandwich",
+        "jimmy-dean",
+        "croissant",
+        "greasy-sausage",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "jimmy dean croissant",
+        "sausage egg cheese croissant",
+        "greasy breakfast sandwich"
+      ],
+      "whyItWorks": "Combines a butter-layered croissant with a heavily spiced, greasy pork sausage patty and processed cheese, packing 27g of fat (11g saturated). The extreme morning grease triggers an aggressive gastrocolic reflex, leading to immediate postprandial cramping and diarrhea.",
+      "prepOrOrderInstructions": "Severe Fat Trigger Warning: Avoid standard pork sausage croissants. Choose Jimmy Dean Delights Turkey Sausage English Muffin instead.",
+      "watchOuts": [
+        "High saturated pork fat stimulates rapid intestinal emptying and acute morning diarrhea."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/jimmy-dean-sausage-croissant-warning.json"
     },
     {
       "id": "dca-lamplight-lounge-lobster-nachos-warning",
@@ -64541,6 +65674,48 @@
       "whyItWorks": "Blended with whole milk, heavy soft-serve ice cream, and butterscotch syrup, this thick shake packs over 25g of lactose and high refined sugar, which triggers rapid osmotic diarrhea, bloating, and painful gas in sensitive bowels.",
       "prepOrOrderInstructions": "Lactose & Sugar Warning: Best avoided or split with companions if in solid remission with lactase enzyme support.",
       "_sourcePath": "src/data/items/snacks-desserts/dans-drive-in-montpelier-butterscotch-shake-warning.json"
+    },
+    {
+      "id": "birds-eye-steamfresh-riced-cauliflower-warning",
+      "name": "Birds Eye Steamfresh Riced Cauliflower (High Fermentable Gas Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Birds Eye / Conagra",
+      "crohnsScore": 4.1,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "cauliflower",
+        "riced-cauliflower",
+        "birds-eye",
+        "gas-warning",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "riced cauliflower",
+        "frozen riced cauliflower",
+        "cauliflower rice bloat",
+        "cauliflower gas"
+      ],
+      "whyItWorks": "Grating cauliflower into 'rice' does not remove its high sulfur compounds or complex raffinose oligosaccharides. When it reaches the colon, bacteria rapidly ferment it into massive volumes of gas, creating agonizing distension and painful pressure.",
+      "prepOrOrderInstructions": "Trigger Warning: Do not substitute riced cauliflower for real rice during flares. Stick to genuine white Jasmine or Basmati rice.",
+      "watchOuts": [
+        "Causes severe bloating, painful gas colic, and distension in sensitive bowels."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/birds-eye-steamfresh-riced-cauliflower-warning.json"
     },
     {
       "id": "dcl-room-service-mixed-garden-arugula-salad",
@@ -65363,6 +66538,48 @@
       "_sourcePath": "src/data/items/lunch/some-beaches-laketown-double-bacon-cheeseburger-warning.json"
     },
     {
+      "id": "green-giant-simply-steam-broccoli-cheese-warning",
+      "name": "Green Giant Simply Steam Broccoli in Cheese Sauce (High Sulfur & Dairy Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Green Giant / B&G Foods",
+      "crohnsScore": 3.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "broccoli",
+        "green-giant",
+        "cheese-sauce",
+        "cruciferous",
+        "gas-warning",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "green giant broccoli cheese",
+        "frozen broccoli cheese",
+        "broccoli cheese sauce",
+        "broccoli trigger"
+      ],
+      "whyItWorks": "A double trigger: crunchy, fibrous cruciferous broccoli florets and stems combined with a thick, processed cheese sauce containing dairy whey, lactose, and garlic powder. Provokes intense bloating, spasms, and loose stools.",
+      "prepOrOrderInstructions": "Flare Warning: Avoid frozen broccoli and cheese steamer bags.",
+      "watchOuts": [
+        "Cruciferous sulfur gas plus dairy cheese sauce creates severe abdominal distension."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/green-giant-simply-steam-broccoli-cheese-warning.json"
+    },
+    {
       "id": "raw-broccoli-florets-warning",
       "name": "Raw Broccoli Florets & Stalks (Severe Gas & Cellulose Warning)",
       "categoryFolder": "produce-sides",
@@ -65641,6 +66858,47 @@
       "whyItWorks": "Stringy artichoke heart bracts and whole spinach leaves combined with sour cream, cream cheese, parmesan, and garlic. Artichokes are notoriously fibrous and tough to digest, posing a major stricture risk.",
       "prepOrOrderInstructions": "Severe Stricture & Dairy Warning: Strictly avoid. The fibrous stringy artichoke leaves can cause severe blockages.",
       "_sourcePath": "src/data/items/produce-sides/members-mark-spinach-artichoke-dip-tub-warning.json"
+    },
+    {
+      "id": "trader-joes-vegetable-birds-nests-warning",
+      "name": "Trader Joe's Vegetable Bird's Nests (Deep-Fried Onion & Carrot Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trader Joe's",
+      "crohnsScore": 3.6,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "trader-joes",
+        "birds-nests",
+        "deep-fried",
+        "fried-onions",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "vegetable birds nests",
+        "trader joes birds nests",
+        "fried vegetable nests",
+        "onion tempura"
+      ],
+      "whyItWorks": "Tangled birds-nest clusters of shredded yellow onions, carrots, and kale bound in tempura batter and deep-fried. The primary ingredient is fried whole onion shreds (massive allium fructans) saturated in frying oil, which creates agonizing gas colic and rapid transit.",
+      "prepOrOrderInstructions": "Severe Trigger Warning: Avoid this fried onion tangle during active IBD.",
+      "watchOuts": [
+        "Massive concentration of fried allium fructans and grease causes acute abdominal cramping."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/trader-joes-vegetable-birds-nests-warning.json"
     },
     {
       "id": "roasted-brussels-sprouts-gas-warning",
@@ -66181,6 +67439,49 @@
       "_sourcePath": "src/data/items/dinner/pirate-night-tia-dalmas-jerk-chicken.json"
     },
     {
+      "id": "totinos-supreme-pizza-rolls-warning",
+      "name": "Totino's Pizza Rolls (Deep-Fried Pepperoni Grease & Pepper Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Totino's / General Mills",
+      "crohnsScore": 3.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "pizza-rolls",
+        "totinos",
+        "pepperoni",
+        "deep-fried",
+        "spicy-grease",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "totinos pizza rolls",
+        "pizza rolls",
+        "pepperoni pizza rolls",
+        "pizza snacks trigger"
+      ],
+      "whyItWorks": "A notorious flare trigger: deep-fried pastry pockets filled with mechanically separated pepperoni, sausage grease, tomato paste, garlic powder, and diced green peppers. The pockets trap molten, spicy pork grease that causes severe heartburn and acute diarrhea.",
+      "prepOrOrderInstructions": "Severe Trigger Warning: Avoid pizza rolls during active Crohn's or Colitis. If craving pizza flavor, eat a soft flour tortilla quesadilla with mild marinara.",
+      "watchOuts": [
+        "Trapped spicy pork grease and concentrated alliums trigger rapid, painful gastrocolic spasms."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/totinos-supreme-pizza-rolls-warning.json"
+    },
+    {
       "id": "merrytime-carrot-beet-orange-salad",
       "name": "Very Merrytime Roasted Carrot, Yellow & Red Beet Salad with Orange Dressing (Citrus Avoid)",
       "categoryFolder": "produce-sides",
@@ -66383,6 +67684,47 @@
         "High capsaicin, raw garlic fructans, and chili seeds irritate intestinal ulcerations and cause painful spasms."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/sriracha-hot-chili-sauce-warning.json"
+    },
+    {
+      "id": "ore-ida-crispy-onion-rings-warning",
+      "name": "Ore-Ida Crispy Onion Rings (Deep-Fried Allium Ring Hazard Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Ore-Ida / Kraft Heinz",
+      "crohnsScore": 3.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "onion-rings",
+        "ore-ida",
+        "fried-onions",
+        "fructans",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "onion rings",
+        "ore ida onion rings",
+        "frozen onion rings",
+        "fried onion trigger"
+      ],
+      "whyItWorks": "Thick concentric rings of whole raw white onions coated in beer batter and par-fried. Eating 4–5 rings delivers a massive blast of concentrated allium fructans and grease, triggering agonizing gas distension and loose stools.",
+      "prepOrOrderInstructions": "Severe Trigger Warning: Avoid frozen and restaurant onion rings. Choose plain tater tots or crinkle fries instead.",
+      "watchOuts": [
+        "Heavy frying batter combined with whole raw onion rings causes severe colonic spasms and gas colic."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/ore-ida-crispy-onion-rings-warning.json"
     },
     {
       "id": "raw-cabbage-coleslaw-warning",
@@ -67555,6 +68897,48 @@
         "Emergency hospital obstruction risk: Undigested corn kernels lodge in narrowed intestinal strictures, requiring surgical intervention."
       ],
       "_sourcePath": "src/data/items/produce-sides/whole-sweet-corn-on-the-cob-warning.json"
+    },
+    {
+      "id": "birds-eye-steamfresh-sweet-corn-warning",
+      "name": "Birds Eye Steamfresh Sweet Kernel Corn (Indigestible Hull Hazard Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Birds Eye / Conagra",
+      "crohnsScore": 2.1,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "frozen",
+        "corn",
+        "sweet-corn",
+        "birds-eye",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "frozen corn",
+        "birds eye corn",
+        "steamfresh sweet corn",
+        "corn blockage risk"
+      ],
+      "whyItWorks": "Every single kernel retains its tough outer pericarp hull made of pure insoluble cellulose. When swallowed, corn kernels remain completely intact, clumping together in narrow strictures and forming emergency bowel obstructions.",
+      "prepOrOrderInstructions": "Severe Medical Hazard: Never eat whole kernel corn if you have Crohn's disease, bowel strictures, or an ostomy. If craving corn flavor, eat smooth corn grits/polenta.",
+      "watchOuts": [
+        "Primary cause of food-induced small bowel impaction requiring emergency hospital intervention."
+      ],
+      "_sourcePath": "src/data/items/frozen-aisle/birds-eye-steamfresh-sweet-corn-warning.json"
     },
     {
       "id": "lao-gan-ma-spicy-chili-crisp-warning",

@@ -1,0 +1,41 @@
+{
+  "id": "stouffers-classics-macaroni-and-cheese",
+  "name": "Stouffer's Classics Macaroni & Cheese (Single-Serve Comfort Tray)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Stouffer's / Nestlé",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "stouffers",
+    "mac-and-cheese",
+    "comfort-food",
+    "cheddar",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "stouffers mac and cheese",
+    "frozen mac and cheese",
+    "cheddar mac",
+    "stouffers single serve"
+  ],
+  "whyItWorks": "Enriched semolina elbow macaroni smothered in real cheddar cheese sauce. Soft, pillowy pasta provides gentle calories during weight-loss recovery with zero roughage, nuts, or seeds.",
+  "prepOrOrderInstructions": "Microwave for 5 minutes. Take a lactase tablet for the cheddar/whey sauce.",
+  "watchOuts": [
+    "Contains dairy milk and cheese; enjoy in moderate single-serve portions."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "trader-joes-japanese-style-fried-rice",
+  "name": "Trader Joe's Japanese Style Fried Rice (Hijiki Seaweed & Tofu Skin)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trader Joe's",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "trader-joes",
+    "fried-rice",
+    "japanese",
+    "rice",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "trader joes fried rice",
+    "japanese fried rice",
+    "hijiki rice",
+    "tj rice"
+  ],
+  "whyItWorks": "Short-grain white rice tossed with mirin, soy sauce, hijiki seaweed, and tender fried tofu skin (aburaage). It is much lower in grease than typical Chinese takeout fried rice and has no onions or garlic chunks.",
+  "prepOrOrderInstructions": "Sauté in a dry nonstick skillet for 4–5 minutes until hot. Pick around whole green edamame pods if sensitive to whole soy legumes.",
+  "watchOuts": [
+    "Contains whole shelled edamame soybeans; pick around them during active flares if sensitive to legumes."
+  ]
+}

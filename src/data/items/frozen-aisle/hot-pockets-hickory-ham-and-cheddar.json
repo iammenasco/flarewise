@@ -1,0 +1,41 @@
+{
+  "id": "hot-pockets-hickory-ham-and-cheddar",
+  "name": "Hot Pockets Hickory Ham & Cheddar (Crispy Buttery Crust)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Hot Pockets / Nestlé",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "hot-pockets",
+    "ham-and-cheese",
+    "handheld",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "hot pockets",
+    "ham and cheese hot pocket",
+    "frozen handheld",
+    "microwave sandwich"
+  ],
+  "whyItWorks": "Unlike spicy pepperoni Hot Pockets, the Hickory Ham & Cheddar variety uses tender diced cured ham and mild cheddar cheese sauce wrapped in a flaky crust. It contains zero seeds, zero chili peppers, and zero tomato acid.",
+  "prepOrOrderInstructions": "Microwave in crisping sleeve for 2 minutes. Let cool for 2 minutes so hot cheese does not burn oral mucosa.",
+  "watchOuts": [
+    "Contains cheese sauce (lactose); take a lactase enzyme tablet if sensitive."
+  ]
+}

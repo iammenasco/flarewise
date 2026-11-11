@@ -1,0 +1,40 @@
+{
+  "id": "lean-cuisine-glazed-chicken-white-rice",
+  "name": "Lean Cuisine Favorites Glazed Chicken with White Rice & Green Beans",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Lean Cuisine / Nestlé",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "lean-cuisine",
+    "glazed-chicken",
+    "white-rice",
+    "low-fat",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "lean cuisine glazed chicken",
+    "frozen glazed chicken",
+    "chicken and rice frozen",
+    "diet frozen meal"
+  ],
+  "whyItWorks": "One of the cleanest frozen meals in the grocery store: tender white meat chicken tenderloins in a sweet lemon-tarragon glaze, served over white rice and soft green beans. Very low in fat (under 4g) and low in sodium.",
+  "prepOrOrderInstructions": "Microwave for 4 minutes. Stir chicken and rice into the glaze before eating.",
+  "watchOuts": [
+    "A gentle, low-fat frozen meal ideal for fatigue days."
+  ]
+}

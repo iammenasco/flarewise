@@ -1,0 +1,40 @@
+{
+  "id": "freschetta-gluten-free-four-cheese-pizza",
+  "name": "Freschetta Gluten Free Four Cheese Pizza (Thin Rice & Tapioca Crust)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Freschetta / Schwan's",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "pizza",
+    "freschetta",
+    "gluten-free-pizza",
+    "cheese-pizza",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "freschetta gluten free",
+    "gf frozen pizza",
+    "gluten free cheese pizza",
+    "rice flour pizza"
+  ],
+  "whyItWorks": "Crust crafted from milled rice flour, tapioca starch, and potato starch. It bakes into a crisp, delicate crust that breaks down easily without heavy gluten dough or rough grain flours. Mild mozzarella and provolone cheese.",
+  "prepOrOrderInstructions": "Bake directly on oven rack for 11–13 minutes. Take a lactase tablet for the cheese topping.",
+  "watchOuts": [
+    "Contains real cheese; take lactase enzyme if sensitive to dairy."
+  ]
+}

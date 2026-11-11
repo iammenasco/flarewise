@@ -1,0 +1,41 @@
+{
+  "id": "amys-rice-mac-and-dairy-free-cheeze",
+  "name": "Amy's Kitchen Gluten-Free Dairy-Free Rice Mac & Cheeze (Vegan Cheeze)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Amy's Kitchen",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "amys-kitchen",
+    "gluten-free",
+    "dairy-free",
+    "vegan-mac",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "amys dairy free mac",
+    "amys vegan mac and cheese",
+    "dairy free mac",
+    "lactose free mac and cheese"
+  ],
+  "whyItWorks": "The ultimate dual-allergy comfort meal: certified gluten-free rice macaroni combined with dairy-free cheddar-style cheeze. Contains zero milk, zero lactose, zero wheat, and minimal fiber.",
+  "prepOrOrderInstructions": "Microwave for 4–5 minutes until piping hot and bubbly. Stir well before eating.",
+  "watchOuts": [
+    "Safe for individuals with severe primary lactose intolerance or cow's milk protein allergies."
+  ]
+}

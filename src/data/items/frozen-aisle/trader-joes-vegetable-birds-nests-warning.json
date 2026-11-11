@@ -1,0 +1,40 @@
+{
+  "id": "trader-joes-vegetable-birds-nests-warning",
+  "name": "Trader Joe's Vegetable Bird's Nests (Deep-Fried Onion & Carrot Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trader Joe's",
+  "crohnsScore": 3.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "trader-joes",
+    "birds-nests",
+    "deep-fried",
+    "fried-onions",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "vegetable birds nests",
+    "trader joes birds nests",
+    "fried vegetable nests",
+    "onion tempura"
+  ],
+  "whyItWorks": "Tangled birds-nest clusters of shredded yellow onions, carrots, and kale bound in tempura batter and deep-fried. The primary ingredient is fried whole onion shreds (massive allium fructans) saturated in frying oil, which creates agonizing gas colic and rapid transit.",
+  "prepOrOrderInstructions": "Severe Trigger Warning: Avoid this fried onion tangle during active IBD.",
+  "watchOuts": [
+    "Massive concentration of fried allium fructans and grease causes acute abdominal cramping."
+  ]
+}

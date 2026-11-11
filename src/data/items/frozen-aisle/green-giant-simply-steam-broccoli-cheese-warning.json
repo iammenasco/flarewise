@@ -1,0 +1,41 @@
+{
+  "id": "green-giant-simply-steam-broccoli-cheese-warning",
+  "name": "Green Giant Simply Steam Broccoli in Cheese Sauce (High Sulfur & Dairy Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Green Giant / B&G Foods",
+  "crohnsScore": 3.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "broccoli",
+    "green-giant",
+    "cheese-sauce",
+    "cruciferous",
+    "gas-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "green giant broccoli cheese",
+    "frozen broccoli cheese",
+    "broccoli cheese sauce",
+    "broccoli trigger"
+  ],
+  "whyItWorks": "A double trigger: crunchy, fibrous cruciferous broccoli florets and stems combined with a thick, processed cheese sauce containing dairy whey, lactose, and garlic powder. Provokes intense bloating, spasms, and loose stools.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid frozen broccoli and cheese steamer bags.",
+  "watchOuts": [
+    "Cruciferous sulfur gas plus dairy cheese sauce creates severe abdominal distension."
+  ]
+}

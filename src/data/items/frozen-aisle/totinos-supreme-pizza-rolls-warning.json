@@ -1,0 +1,42 @@
+{
+  "id": "totinos-supreme-pizza-rolls-warning",
+  "name": "Totino's Pizza Rolls (Deep-Fried Pepperoni Grease & Pepper Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Totino's / General Mills",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "pizza-rolls",
+    "totinos",
+    "pepperoni",
+    "deep-fried",
+    "spicy-grease",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "totinos pizza rolls",
+    "pizza rolls",
+    "pepperoni pizza rolls",
+    "pizza snacks trigger"
+  ],
+  "whyItWorks": "A notorious flare trigger: deep-fried pastry pockets filled with mechanically separated pepperoni, sausage grease, tomato paste, garlic powder, and diced green peppers. The pockets trap molten, spicy pork grease that causes severe heartburn and acute diarrhea.",
+  "prepOrOrderInstructions": "Severe Trigger Warning: Avoid pizza rolls during active Crohn's or Colitis. If craving pizza flavor, eat a soft flour tortilla quesadilla with mild marinara.",
+  "watchOuts": [
+    "Trapped spicy pork grease and concentrated alliums trigger rapid, painful gastrocolic spasms."
+  ]
+}

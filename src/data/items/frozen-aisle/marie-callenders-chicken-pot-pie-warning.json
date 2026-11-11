@@ -1,0 +1,39 @@
+{
+  "id": "marie-callenders-chicken-pot-pie-warning",
+  "name": "Marie Callender's Chicken Pot Pie (Heavy Saturated Fat & Flaky Crust Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Marie Callender's / Conagra",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "pot-pie",
+    "marie-callenders",
+    "high-fat",
+    "flaky-crust",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "marie callenders pot pie",
+    "chicken pot pie frozen",
+    "frozen pot pie trigger",
+    "heavy pot pie"
+  ],
+  "whyItWorks": "A single 15-oz pie delivers 50g+ of fat (including 18g saturated fat from lard/shortening) and hundreds of whole green peas with tough insoluble skins. The massive lipid volume triggers rapid biliary dumping, nausea, and loose stools.",
+  "prepOrOrderInstructions": "Severe Fat Trigger Warning: Avoid commercial frozen pot pies during flares. If in deep remission, eat half a pie and leave the whole green pea skins.",
+  "watchOuts": [
+    "Extreme fat load (50g+) and insoluble pea skins provoke acute cramping and diarrhea."
+  ]
+}

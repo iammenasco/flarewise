@@ -1,0 +1,43 @@
+{
+  "id": "gortons-simply-bake-haddock-filets",
+  "name": "Gorton's Simply Bake Haddock Filets (Bake-in-Bag Mild White Fish)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Gorton's",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "seafood",
+    "fish",
+    "haddock",
+    "gortons",
+    "simply-bake",
+    "lean-protein",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "gortons simply bake",
+    "frozen haddock",
+    "white fish fillets",
+    "bake in bag fish",
+    "gentle fish"
+  ],
+  "whyItWorks": "100% wild haddock fillets seasoned lightly and sealed in parchment bake-bags. The fish steams gently in its own juices in the oven, with ZERO fried breading, under 2g fat, and zero fiber. Extremely light and flaky on sensitive intestines.",
+  "prepOrOrderInstructions": "Bake in bag at 375°F for 24 minutes. Cut bag open and serve tender fish over white rice or mashed potatoes.",
+  "watchOuts": [
+    "Zero fried batter; an exceptional, effortless lean seafood meal."
+  ]
+}

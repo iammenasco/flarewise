@@ -1,0 +1,41 @@
+{
+  "id": "pillsbury-grands-flaky-layers-biscuits",
+  "name": "Pillsbury Grands! Flaky Layers Buttermilk Biscuits (Oven-Baked)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Pillsbury / General Mills",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "biscuits",
+    "pillsbury",
+    "flaky-biscuits",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "pillsbury grands",
+    "canned biscuits",
+    "frozen biscuits",
+    "flaky biscuits",
+    "buttermilk biscuits"
+  ],
+  "whyItWorks": "Baked from refined enriched flour into soft, peelable, buttery layers. The interior crumb is delicate, moist, and low in fiber (1g), melting on the tongue without rough edges.",
+  "prepOrOrderInstructions": "Bake in oven or toaster oven at 375°F for 13–15 minutes until golden brown. Drizzle with pure honey or maple syrup.",
+  "watchOuts": [
+    "Soft, refined white dough; chew each bite well."
+  ]
+}

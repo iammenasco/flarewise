@@ -1,0 +1,41 @@
+{
+  "id": "trader-joes-chicken-tikka-masala-frozen",
+  "name": "Trader Joe's Frozen Chicken Tikka Masala with Cumin Basmati Rice",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trader Joe's",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "trader-joes",
+    "indian",
+    "chicken-tikka-masala",
+    "basmati-rice",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "trader joes tikka masala",
+    "frozen tikka masala",
+    "chicken tikka basmati",
+    "tj indian meal"
+  ],
+  "whyItWorks": "Trader Joe's top-selling frozen meal: tender roasted chicken breast pieces simmered in a creamy, mild tomato-fenugreek curry paired with fluffy steamed white basmati rice. Basmati rice is an elite soothing starch, and the sauce is mild without fiery chili heat.",
+  "prepOrOrderInstructions": "Microwave for 4–5 minutes until steaming. Take a lactase enzyme tablet for the cream in the tikka sauce.",
+  "watchOuts": [
+    "Contains heavy cream and butter in the sauce; take lactase if dairy sensitive."
+  ]
+}

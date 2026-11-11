@@ -1,0 +1,41 @@
+{
+  "id": "trader-joes-gluten-free-mac-and-cheese",
+  "name": "Trader Joe's Gluten Free Macaroni & Cheese (Cheddar & Swiss)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trader Joe's",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "trader-joes",
+    "mac-and-cheese",
+    "gluten-free",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "trader joes gluten free mac",
+    "gf mac and cheese",
+    "frozen mac and cheese",
+    "rice pasta mac"
+  ],
+  "whyItWorks": "Made with tender elbow macaroni crafted from rice flour and corn flour. The cheese sauce blends cheddar, Swiss, and Havarti. Rice pasta is soft and easily broken down, avoiding wheat gluten irritation.",
+  "prepOrOrderInstructions": "Bake in oven or microwave for 5 minutes. Take a lactase enzyme tablet for the cheese sauce.",
+  "watchOuts": [
+    "Contains dairy cheese and milk; take lactase enzyme if sensitive to lactose."
+  ]
+}

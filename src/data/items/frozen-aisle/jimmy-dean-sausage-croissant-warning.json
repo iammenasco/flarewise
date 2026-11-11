@@ -1,0 +1,39 @@
+{
+  "id": "jimmy-dean-sausage-croissant-warning",
+  "name": "Jimmy Dean Sausage, Egg & Cheese Croissant (Greasy Pork Sausage Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Jimmy Dean / Tyson Foods",
+  "crohnsScore": 4.3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "breakfast-sandwich",
+    "jimmy-dean",
+    "croissant",
+    "greasy-sausage",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "jimmy dean croissant",
+    "sausage egg cheese croissant",
+    "greasy breakfast sandwich"
+  ],
+  "whyItWorks": "Combines a butter-layered croissant with a heavily spiced, greasy pork sausage patty and processed cheese, packing 27g of fat (11g saturated). The extreme morning grease triggers an aggressive gastrocolic reflex, leading to immediate postprandial cramping and diarrhea.",
+  "prepOrOrderInstructions": "Severe Fat Trigger Warning: Avoid standard pork sausage croissants. Choose Jimmy Dean Delights Turkey Sausage English Muffin instead.",
+  "watchOuts": [
+    "High saturated pork fat stimulates rapid intestinal emptying and acute morning diarrhea."
+  ]
+}

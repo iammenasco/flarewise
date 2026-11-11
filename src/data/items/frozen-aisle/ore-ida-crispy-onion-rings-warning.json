@@ -1,0 +1,40 @@
+{
+  "id": "ore-ida-crispy-onion-rings-warning",
+  "name": "Ore-Ida Crispy Onion Rings (Deep-Fried Allium Ring Hazard Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Ore-Ida / Kraft Heinz",
+  "crohnsScore": 3.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "onion-rings",
+    "ore-ida",
+    "fried-onions",
+    "fructans",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "onion rings",
+    "ore ida onion rings",
+    "frozen onion rings",
+    "fried onion trigger"
+  ],
+  "whyItWorks": "Thick concentric rings of whole raw white onions coated in beer batter and par-fried. Eating 4–5 rings delivers a massive blast of concentrated allium fructans and grease, triggering agonizing gas distension and loose stools.",
+  "prepOrOrderInstructions": "Severe Trigger Warning: Avoid frozen and restaurant onion rings. Choose plain tater tots or crinkle fries instead.",
+  "watchOuts": [
+    "Heavy frying batter combined with whole raw onion rings causes severe colonic spasms and gas colic."
+  ]
+}

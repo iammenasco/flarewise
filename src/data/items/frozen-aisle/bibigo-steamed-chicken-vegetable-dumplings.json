@@ -1,0 +1,43 @@
+{
+  "id": "bibigo-steamed-chicken-vegetable-dumplings",
+  "name": "Bibigo Steamed Chicken & Vegetable Dumplings (Tray with Dipping Sauce)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Bibigo / CJ Foods",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Korean",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "dumplings",
+    "bibigo",
+    "steamed-dumplings",
+    "chicken",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "bibigo dumplings",
+    "steamed chicken dumplings",
+    "korean dumplings",
+    "microwave dumplings",
+    "bibigo mandu"
+  ],
+  "whyItWorks": "Thin, delicate steamed wrappers filled with minced white chicken breast, cabbage, and soy sauce. The filling is pre-ground fine and steamed tender, requiring virtually zero digestive effort.",
+  "prepOrOrderInstructions": "Tear corner of steam bag and microwave for 1 minute 45 seconds. Dip in low-sodium tamari or coconut aminos.",
+  "watchOuts": [
+    "Filling contains mild alliums; well-tolerated in remission and mild symptoms."
+  ]
+}

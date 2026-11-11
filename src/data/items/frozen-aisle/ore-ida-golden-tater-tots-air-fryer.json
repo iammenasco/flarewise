@@ -1,0 +1,43 @@
+{
+  "id": "ore-ida-golden-tater-tots-air-fryer",
+  "name": "Ore-Ida Golden Tater Tots (Air-Fried or Oven-Baked)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Ore-Ida / Kraft Heinz",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "frozen",
+    "potatoes",
+    "tater-tots",
+    "ore-ida",
+    "air-fryer",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "ore ida tater tots",
+    "tater tots",
+    "frozen tots",
+    "air fryer tater tots"
+  ],
+  "whyItWorks": "Finely shredded Idaho russet potatoes seasoned with salt and par-fried. When baked in the oven or air fryer without added oil, they crisp up on the outside while the interior melts into fluffy potato starch.",
+  "prepOrOrderInstructions": "Bake at 425°F for 20 minutes until golden. Do not deep-fry in oil to keep fat levels manageable.",
+  "watchOuts": [
+    "Contains par-fried oil; enjoy in standard 3-oz servings."
+  ]
+}
