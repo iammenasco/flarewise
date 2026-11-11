@@ -1,32 +1,52 @@
 {
+  "id": "honey-roasted-butternut-squash",
   "name": "Honey-Roasted Butternut Squash",
   "categoryFolder": "dinner",
-  "crohnsScore": 7.5,
-  "safetyTier": "low-risk",
+  "brandOrRestaurant": "Disney Cruise Line · Main Dining & Cabanas / Marceline Market",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
   "mealTypes": [
     "lunch",
     "dinner"
   ],
   "region": "American",
   "costTier": 1,
-  "convenienceScore": 2,
+  "convenienceScore": 4,
   "prepMethod": [
+    "toaster-oven",
     "ready-to-eat"
   ],
-  "fiberGramsPerServing": 4,
+  "fiberGramsPerServing": 1.5,
   "lactoseSafe": true,
   "citrusFree": true,
+  "groceryIngredients": [
+    "Peeled Cubed Butternut Squash",
+    "Butter or Olive Oil",
+    "Honey or Maple Syrup",
+    "Cinnamon"
+  ],
   "tags": [
     "squash",
+    "butternut-squash",
     "vegetable",
-    "sweet"
+    "sweet",
+    "soluble-fiber",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
   ],
   "searchKeywords": [
-    "butternut",
-    "squash",
-    "honey"
+    "honey roasted butternut squash",
+    "winter squash",
+    "roasted squash side",
+    "peeled squash"
   ],
-  "whyItWorks": "High fiber and nutrient-dense, though honey adds some sugar.",
-  "prepOrOrderInstructions": "Roast until tender and caramelized.",
-  "id": "honey-roasted-butternut-squash"
+  "whyItWorks": "Peeled winter squash flesh cooks down into a velvety, mashable puree rich in soothing soluble pectin with zero stringy husks or skins.",
+  "prepOrOrderInstructions": "Ensure squash is completely peeled with seeds removed, and roast at 375F with butter and a touch of honey until fork-mashable soft. On cruise menus, ask to hold any toasted pepitas/pumpkin seeds or coarse herbs.",
+  "watchOuts": [
+    "Pumpkin seeds / pepita garnishes",
+    "Unpeeled squash skin edges"
+  ]
 }
