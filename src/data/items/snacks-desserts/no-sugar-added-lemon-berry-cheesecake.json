@@ -1,0 +1,31 @@
+{
+  "name": "No-Sugar-Added Lemon Berry Cheesecake",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "cheesecake",
+    "sweet",
+    "no-sugar-added"
+  ],
+  "searchKeywords": [
+    "lemon",
+    "berry",
+    "cheesecake"
+  ],
+  "whyItWorks": "A smooth, low-sugar dessert that fits the everyday tier.",
+  "prepOrOrderInstructions": "Keep refrigerated.",
+  "convenienceScore": 5,
+  "id": "no-sugar-added-lemon-berry-cheesecake"
+}
