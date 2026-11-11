@@ -38,6 +38,7 @@ export function buildSearchParams(
   if (merged.region) sp.set('region', merged.region)
   if (merged.tag) sp.set('tag', merged.tag)
   if (merged.cost) sp.set('cost', merged.cost)
+  if (merged.job !== 'make') sp.set('job', merged.job)
   if (merged.place !== 'home') sp.set('place', merged.place)
   if (merged.venue) sp.set('venue', merged.venue)
   if (item) sp.set('item', item)
