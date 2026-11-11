@@ -1,32 +1,45 @@
 {
-  "name": "Iceberg Wedge",
+  "id": "iceberg-wedge",
+  "name": "Iceberg Wedge Salad",
   "categoryFolder": "lunch",
-  "crohnsScore": 7,
-  "safetyTier": "remission-road",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate / Triton's / Lumiere's",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
   "mealTypes": [
     "lunch",
     "dinner"
   ],
   "region": "American",
   "costTier": 1,
-  "convenienceScore": 3,
+  "convenienceScore": 5,
   "prepMethod": [
     "ready-to-eat"
   ],
   "fiberGramsPerServing": 2,
-  "lactoseSafe": true,
-  "citrusFree": false,
+  "lactoseSafe": false,
+  "citrusFree": true,
   "tags": [
     "lettuce",
     "vegetable",
-    "salad"
+    "salad",
+    "warning",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
   ],
   "searchKeywords": [
-    "iceberg",
-    "wedge",
-    "lettuce"
+    "iceberg wedge",
+    "wedge salad",
+    "lettuce",
+    "blue cheese salad",
+    "cruise salad"
   ],
-  "whyItWorks": "Good hydration and crunch, but often paired with high-fat dressings.",
-  "prepOrOrderInstructions": "Serve cold with preferred toppings.",
-  "id": "iceberg-wedge"
+  "whyItWorks": "Raw iceberg lettuce leaves, tomato skins/seeds, and heavy blue cheese dressing combine insoluble roughage with high dairy fat that can scrape and speed up an inflamed gut.",
+  "prepOrOrderInstructions": "Avoid during flares. In solid remission, eat only the tender inner heart leaves, skip raw tomato skins and red onions, and swap heavy blue cheese dressing for a light drizzle of olive oil or lactose-free ranch.",
+  "flareEmergencySwap": "Swap the salad course for a smooth blended soup (like Baked Potato Soup or Creamy Butternut Squash Soup) or warm bread rolls.",
+  "watchOuts": [
+    "Raw fibrous lettuce ribs",
+    "Tomato skins and seeds",
+    "High-lactose blue cheese / buttermilk dressing"
+  ]
 }
