@@ -57,7 +57,7 @@ export function PickForMe({
               key={item.id}
               type="button"
               onClick={() => onOpenItem(item.id)}
-              className="w-full rounded-2xl border border-[var(--line)] bg-white/80 p-3 text-left"
+              className="w-full rounded-2xl border border-[var(--line)] bg-[var(--elevated)] p-3 text-left"
             >
               <p className="text-xs font-semibold uppercase tracking-wide text-[var(--brand)]">
                 {labels[idx] ?? `Option ${idx + 1}`}

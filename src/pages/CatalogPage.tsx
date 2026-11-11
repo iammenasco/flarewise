@@ -13,6 +13,7 @@ import { foodById } from '../data'
 import { pickForMe, useCatalogFilters } from '../hooks/useCatalogFilters'
 import { useJustReconnected } from '../hooks/useOnline'
 import { usePreferences } from '../hooks/usePreferences'
+import { useTheme } from '../hooks/useTheme'
 import {
   countActiveFilters,
   getCatalogJob,
@@ -35,12 +36,15 @@ export function CatalogPage() {
     setMinScore,
     setGuardrails,
     setShowServerCard,
+    setTheme,
     setPersonalStatus,
     toggleCheckedIngredient,
     clearGrocery,
     downloadBackup,
     restoreBackup,
   } = usePreferences()
+
+  useTheme(prefs.theme)
 
   const { filters, filtered, selectedId, patch, setQuery, setSelected } =
     useCatalogFilters(prefs)
@@ -508,6 +512,7 @@ export function CatalogPage() {
               citrusFreeOnly={prefs.guardrails.citrusFreeOnly}
               showDangerZone={prefs.guardrails.showDangerZone}
               showServerCard={prefs.showServerCard}
+              theme={prefs.theme}
               onToggleGuardrail={(key) => {
                 if (key === 'showDangerZone') {
                   setGuardrails({ showDangerZone: !prefs.guardrails.showDangerZone })
@@ -518,6 +523,7 @@ export function CatalogPage() {
               onToggleShowServerCard={() =>
                 setShowServerCard(!prefs.showServerCard)
               }
+              onTheme={setTheme}
               onSelectVacation={selectVacation}
               onSelectDestination={selectDestination}
               onClearExtra={clearExtraFilters}

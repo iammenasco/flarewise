@@ -165,7 +165,7 @@ export function FoodDrawer({
           <button
             type="button"
             onClick={() => void onShare()}
-            className="inline-flex items-center justify-center gap-2 rounded-xl border border-[var(--line)] bg-white/80 px-3 py-2.5 text-sm font-semibold text-[var(--brand-ink)]"
+            className="inline-flex items-center justify-center gap-2 rounded-xl border border-[var(--line)] bg-[var(--elevated)] px-3 py-2.5 text-sm font-semibold text-[var(--brand-ink)]"
             aria-label={`Share ${item.name}`}
             title="Share"
           >
@@ -194,13 +194,13 @@ export function FoodDrawer({
                   className={`inline-flex items-center justify-center gap-1.5 rounded-xl border px-2 py-2 text-xs font-semibold transition ${
                     active
                       ? option.id === 'safe'
-                        ? 'border-emerald-500 bg-emerald-50 text-emerald-800'
+                        ? 'border-emerald-500 bg-emerald-50 text-emerald-800 dark:bg-emerald-400/15 dark:text-emerald-100'
                         : option.id === 'iffy'
-                          ? 'border-amber-500 bg-amber-50 text-amber-900'
+                          ? 'border-amber-500 bg-amber-50 text-amber-900 dark:bg-amber-400/15 dark:text-amber-100'
                           : option.id === 'trigger'
-                            ? 'border-rose-500 bg-rose-50 text-rose-800'
+                            ? 'border-rose-500 bg-rose-50 text-rose-800 dark:bg-rose-400/15 dark:text-rose-100'
                             : 'border-[var(--brand)] bg-[var(--brand-soft)] text-[var(--brand-ink)]'
-                      : 'border-[var(--line)] bg-white/70 text-[var(--brand-ink)]/70'
+                      : 'border-[var(--line)] bg-[var(--elevated)] text-[var(--brand-ink)]/70'
                   }`}
                 >
                   <Icon className="h-3.5 w-3.5" />

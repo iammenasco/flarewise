@@ -6,7 +6,12 @@ import {
   loadPreferences,
   savePreferences,
 } from '../lib/storage'
-import type { CatalogPreferences, Guardrails, PersonalStatus } from '../types'
+import type {
+  CatalogPreferences,
+  Guardrails,
+  PersonalStatus,
+  ThemePreference,
+} from '../types'
 
 export function usePreferences() {
   const [prefs, setPrefs] = useState<CatalogPreferences>(() =>
@@ -53,6 +58,10 @@ export function usePreferences() {
 
   function setShowServerCard(showServerCard: boolean) {
     setPrefs((prev) => ({ ...prev, showServerCard }))
+  }
+
+  function setTheme(theme: ThemePreference) {
+    setPrefs((prev) => ({ ...prev, theme }))
   }
 
   function setPersonalStatus(id: string, status: PersonalStatus | undefined) {
@@ -109,6 +118,7 @@ export function usePreferences() {
     setMinScore,
     setGuardrails,
     setShowServerCard,
+    setTheme,
     setPersonalStatus,
     toggleCheckedIngredient,
     clearGrocery,
