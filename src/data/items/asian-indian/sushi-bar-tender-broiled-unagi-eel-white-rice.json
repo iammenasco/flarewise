@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-tender-broiled-unagi-eel-white-rice",
+  "name": "Sushi Bar Broiled Freshwater Eel (Unagi over White Rice, Light Tare)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "unagi",
+    "freshwater-eel",
+    "tender",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "unagi nigiri eel",
+    "broiled eel sushi bar",
+    "unadon plain rice"
+  ],
+  "whyItWorks": "Freshwater eel steamed and broiled until meltingly tender with a delicate sweet soy glaze. High in vitamin A, vitamin E, and bioavailable protein; very soft on intestinal mucosa.",
+  "prepOrOrderInstructions": "Order: 'Unagi Nigiri with light sweet tare sauce on top, NO wasabi, NO sesame seeds.'",
+  "safetyTier": "low-risk"
+}

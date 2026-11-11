@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:31:12.046Z",
-  "itemCount": 2133,
+  "builtAt": "2026-11-11T20:36:32.618Z",
+  "itemCount": 2165,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -4555,6 +4555,84 @@
       "_sourcePath": "src/data/items/high-protein/starkist-chunk-light-tuna-in-water.json"
     },
     {
+      "id": "sushi-bar-steamed-white-sushi-rice-shari",
+      "name": "Sushi Bar Steamed White Sushi Rice Bowl (Shari)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "sushi-rice",
+        "shari",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sushi rice bowl",
+        "plain shari sushi bar",
+        "seasoned white rice sushi"
+      ],
+      "whyItWorks": "Premium Japanese short-grain white rice steamed tender and lightly seasoned with mild rice vinegar, sugar, and sea salt. One of the single most reliable, soothing, non-inflammatory carbohydrates on earth.",
+      "prepOrOrderInstructions": "Order a side bowl of plain sushi rice (shari). Drizzle with a few drops of gluten-free tamari or eat plain.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-steamed-white-sushi-rice-shari.json"
+    },
+    {
+      "id": "sushi-bar-tamago-sweet-egg-nigiri",
+      "name": "Sushi Bar Tamago Nigiri (Sweet Folded Egg Omelet over Sushi Rice)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "tamago",
+        "egg-nigiri",
+        "comfort-food",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "tamago nigiri sushi",
+        "sweet egg sushi crohns",
+        "safe sushi bar food"
+      ],
+      "whyItWorks": "One of the safest, most comforting items in all of Japanese cuisine. Layered sweet egg custard cooked with dashi, mirin, and sea salt, served over tender vinegared sushi rice. Zero raw fish, zero roughage, zero fat strain, and rich in gentle protein.",
+      "prepOrOrderInstructions": "Order: 'Tamago Nigiri (2 pieces)—please omit the thin nori seaweed belt if you have strictures.' Dip lightly in gluten-free tamari.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-tamago-sweet-egg-nigiri.json"
+    },
+    {
       "id": "takara-sushi-logan-nigiri-california-roll",
       "name": "Takara Sushi (Logan) Salmon, Tuna & Yellowtail Nigiri + Miso Soup",
       "categoryFolder": "asian-indian",
@@ -5847,6 +5925,45 @@
         "Must be cooked until thoroughly soft; never eat raw or crunchy carrots during an active flare."
       ],
       "_sourcePath": "src/data/items/produce-sides/steamed-tender-baby-carrots.json"
+    },
+    {
+      "id": "sushi-bar-yellowtail-hamachi-sashimi-plain",
+      "name": "Sushi Bar Yellowtail Sashimi (Hamachi Slices, Plain)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "hamachi",
+        "yellowtail-sashimi",
+        "zero-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "hamachi sashimi plain",
+        "yellowtail sashimi sushi bar",
+        "sashimi no rice crohns"
+      ],
+      "whyItWorks": "Buttery, tender slices of Pacific yellowtail without rice, seaweed, or sauces. Delivers pure, delicate marine protein and healthy fats with zero digestive residue or fiber.",
+      "prepOrOrderInstructions": "Order: 'Hamachi Sashimi plain—NO jalapeño slices, NO ponzu citrus sauce, NO daikon radish garnish.' Dip in tamari.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-yellowtail-hamachi-sashimi-plain.json"
     },
     {
       "id": "swanson-sipping-bone-broth-chicken-ginger-turmeric",
@@ -7663,6 +7780,84 @@
       "_sourcePath": "src/data/items/produce-sides/mashed-taro-root-poi-style.json"
     },
     {
+      "id": "sushi-bar-clear-osuimono-broth-with-tofu",
+      "name": "Sushi Bar Clear Fish Broth (Osuimono with Silken Tofu)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "osuimono",
+        "clear-broth",
+        "silken-tofu",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "osuimono clear soup",
+        "japanese clear broth sushi bar",
+        "tofu clear soup crohns"
+      ],
+      "whyItWorks": "Clear Japanese broth made from kombu kelp and bonito fish flakes (dashi) with delicate cubes of soft silken tofu. Unlike miso soup (which can trigger soy fermentation gas), clear osuimono is pure, gentle hydration.",
+      "prepOrOrderInstructions": "Order: 'Osuimono clear fish soup with soft tofu cubes—please omit mushrooms and scallions if sensitive.'",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-clear-osuimono-broth-with-tofu.json"
+    },
+    {
+      "id": "sushi-bar-salmon-sake-nigiri-plain",
+      "name": "Sushi Bar Fresh Salmon Nigiri (Sake - Fresh Raw Salmon over White Rice)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "salmon-nigiri",
+        "sake",
+        "omega-3",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "salmon nigiri sushi",
+        "sake sushi raw salmon",
+        "fresh salmon sushi crohns"
+      ],
+      "whyItWorks": "High-grade fresh raw Atlantic salmon draped over a finger of seasoned white sushi rice. Rich in anti-inflammatory marine omega-3 fatty acids (EPA/DHA) that help resolve mucosal irritation. Soft, tender, and requires minimal digestive effort.",
+      "prepOrOrderInstructions": "Order: 'Salmon Nigiri (Sake)—Sabi-nuki (NO wasabi inside). Please serve with gluten-free tamari.'",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-salmon-sake-nigiri-plain.json"
+    },
+    {
       "id": "swanson-premium-white-chunk-chicken-breast",
       "name": "Swanson Premium White Chunk Chicken Breast in Water",
       "categoryFolder": "high-protein",
@@ -7812,6 +8007,45 @@
       "prepOrOrderInstructions": "Soak noodles in boiling water for 3 minutes until tender. Drain and add to warm chicken or vegetable broth.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/asian-indian/thai-kitchen-thin-rice-vermicelli-noodles.json"
+    },
+    {
+      "id": "traditional-taqueria-caldo-de-pollo-soup-bowl",
+      "name": "Traditional Caldo de Pollo (Mexican Chicken Soup with Rice & Peeled Zucchini)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "caldo-de-pollo",
+        "mexican-soup",
+        "chicken-soup",
+        "healing-broth",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "caldo de pollo taqueria",
+        "mexican chicken soup plain",
+        "gut healing mexican soup"
+      ],
+      "whyItWorks": "Rich, deeply nourishing chicken soup simmered with bone-in poultry, white rice, peeled zucchini (calabacitas), and tender peeled carrots. Exceptionally hydrating and restorative during flares.",
+      "prepOrOrderInstructions": "Order: 'Caldo de Pollo—con arroz y calabacitas; please leave out the cabbage wedge, corn on the cob, and raw onion garnish.' Sip broth warm.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/mexican-southwest/traditional-taqueria-caldo-de-pollo-soup-bowl.json"
     },
     {
       "id": "wendys-plain-baked-potato-no-skin",
@@ -9384,6 +9618,45 @@
       "_sourcePath": "src/data/items/snacks-desserts/swedish-fish-red-chewy-candy.json"
     },
     {
+      "id": "traditional-taqueria-pollo-asado-plain-rice-platter",
+      "name": "Taqueria Pollo Asado Platter (Grilled Chicken, White Rice & Corn Tortillas)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "taqueria",
+        "pollo-asado",
+        "white-rice",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "pollo asado taqueria",
+        "grilled chicken mexican platter",
+        "safe mexican restaurant order"
+      ],
+      "whyItWorks": "Citrus-marinated chicken breast or boneless thigh grilled over charcoal until juicy. Paired with plain Mexican white rice (arroz blanco) and soft warm corn tortillas, avoiding refried beans and heavy cheeses.",
+      "prepOrOrderInstructions": "Order: 'Pollo Asado platter with plain white rice and corn tortillas—NO refried beans, NO pico de gallo, NO sour cream.' Enjoy with a side of smooth avocado.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/mexican-southwest/traditional-taqueria-pollo-asado-plain-rice-platter.json"
+    },
+    {
       "id": "texas-roadhouse-grilled-chicken-tenderloins-plain",
       "name": "Texas Roadhouse Grilled Chicken Tenders (Plain, No Marinade)",
       "categoryFolder": "dinner",
@@ -9834,6 +10107,45 @@
         "None; premier flare-safe comfort dinner"
       ],
       "_sourcePath": "src/data/items/dinner/angies-restaurant-logan-open-face-hot-turkey-sandwich.json"
+    },
+    {
+      "id": "traditional-taqueria-carnitas-soft-corn-tacos",
+      "name": "Authentic Taqueria Carnitas Soft Tacos (Slow-Braised Pork, Cilantro Only)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "taqueria",
+        "carnitas",
+        "corn-tortillas",
+        "tender-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "taqueria carnitas tacos",
+        "soft carnitas corn tortillas",
+        "mexican food crohns safe"
+      ],
+      "whyItWorks": "Traditional Michoacán carnitas are slow-braised in their own rendered juices with Mexican oregano and salt until melt-in-your-mouth tender. Served on warm soft corn tortillas with fresh cilantro only (avoiding diced raw white onions, salsa verde, and jalapeños). Pure, easily digested fuel.",
+      "prepOrOrderInstructions": "Order: 'Tacos de Carnitas on soft corn tortillas—con cilantro solamente, SIN cebolla (NO onions), NO salsa, NO jalapeños.' Season with a squeeze of fresh lime and table salt.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/mexican-southwest/traditional-taqueria-carnitas-soft-corn-tacos.json"
     },
     {
       "id": "bamboohr-thomas2go-hot-entree-protein-rice-station",
@@ -11403,6 +11715,46 @@
       "prepOrOrderInstructions": "Peel outer skin with a peeler, cut into rounds, and steam over simmering water for 8–10 minutes until completely tender.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/produce-sides/steamed-tender-crookneck-squash.json"
+    },
+    {
+      "id": "sushi-bar-avocado-roll-soy-paper-mod",
+      "name": "Sushi Bar Avocado Roll (Wrapped in Soft Soy Paper / Mamenori)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "avocado-roll",
+        "soy-paper",
+        "nori-free",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "avocado roll soy paper",
+        "sushi soy paper wrapper",
+        "nori free sushi roll crohns"
+      ],
+      "whyItWorks": "Ripe, creamy Hass avocado wrapped with seasoned white sushi rice in paper-thin soy paper (mamenori). Bypasses tough, fibrous sheets of nori seaweed which can be difficult to break down for patients with strictures.",
+      "prepOrOrderInstructions": "Order: 'Avocado Roll wrapped in soy paper (soy wrapper) instead of nori—NO sesame seeds on top, NO wasabi.'",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-avocado-roll-soy-paper-mod.json"
     },
     {
       "id": "texas-roadhouse-hand-cut-sirloin-plain-no-seasoning",
@@ -16579,6 +16931,45 @@
       "_sourcePath": "src/data/items/snacks-desserts/stauffers-original-animal-crackers.json"
     },
     {
+      "id": "sushi-bar-cooked-shrimp-ebi-nigiri",
+      "name": "Sushi Bar Cooked Shrimp Nigiri (Ebi Nigiri)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "ebi-nigiri",
+        "cooked-shrimp",
+        "low-fat",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "ebi nigiri cooked shrimp",
+        "shrimp sushi nigiri",
+        "cooked sushi crohns"
+      ],
+      "whyItWorks": "Butterflied sweet shrimp gently poached in water and placed over sushi rice. Tender, ultra-lean, low-fat, and safe for patients who prefer fully cooked seafood options over raw fish.",
+      "prepOrOrderInstructions": "Order: 'Ebi Nigiri (cooked shrimp)—Sabi-nuki (NO wasabi under the fish).' Dip in tamari.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-cooked-shrimp-ebi-nigiri.json"
+    },
+    {
       "id": "sweet-lake-biscuits-draper-scrambled-eggs-avocado-toast",
       "name": "Sweet Lake Biscuits (Draper, UT) Two Scrambled Eggs with Sliced Avocado Toast",
       "categoryFolder": "breakfast",
@@ -21455,6 +21846,84 @@
       "_sourcePath": "src/data/items/produce-sides/steamed-tender-bok-choy-leaves-only.json"
     },
     {
+      "id": "sushi-bar-japanese-kanikama-crab-stick-nigiri",
+      "name": "Sushi Bar Kanikama Nigiri (Tender Steamed Surimi Crab Stick)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "kanikama",
+        "crab-stick",
+        "surimi",
+        "tender",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "kanikama nigiri",
+        "crab stick sushi",
+        "surimi nigiri crohns"
+      ],
+      "whyItWorks": "Finely pureed Alaska pollock white fish steamed into soft, tender imitation crab strips. Low-fat, low-residue, and very easily chewed and digested.",
+      "prepOrOrderInstructions": "Order: 'Kanikama Nigiri (crab stick)—plain, NO spicy mayo, NO wasabi.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-japanese-kanikama-crab-stick-nigiri.json"
+    },
+    {
+      "id": "traditional-taqueria-carne-asada-flank-steak-plain",
+      "name": "Taqueria Carne Asada Tacos (Grilled Flank Steak, Salt & Cilantro Only)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "taqueria",
+        "carne-asada",
+        "steak-tacos",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "carne asada tacos plain",
+        "taqueria flank steak tacos",
+        "steak tacos no onion"
+      ],
+      "whyItWorks": "Thinly sliced flank or skirt steak seared hot on the flattop with lime juice and sea salt. Naturally lean and high in bioavailable iron and zinc, critical nutrients frequently depleted in IBD.",
+      "prepOrOrderInstructions": "Order: 'Tacos de Carne Asada on soft corn tortillas, dry—NO onion, NO hot salsa. Cilantro and lime only.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/mexican-southwest/traditional-taqueria-carne-asada-flank-steak-plain.json"
+    },
+    {
       "id": "teeccino-dandelion-caramel-nut-chicory-free-tea",
       "name": "Teeccino Dandelion Caramel Nut Herbal Tea (Chicory-Free)",
       "categoryFolder": "drinks-sauces",
@@ -26053,6 +26522,45 @@
       "_sourcePath": "src/data/items/produce-sides/stewed-peeled-roma-tomatoes-deseeded.json"
     },
     {
+      "id": "sushi-bar-tender-broiled-unagi-eel-white-rice",
+      "name": "Sushi Bar Broiled Freshwater Eel (Unagi over White Rice, Light Tare)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "unagi",
+        "freshwater-eel",
+        "tender",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "unagi nigiri eel",
+        "broiled eel sushi bar",
+        "unadon plain rice"
+      ],
+      "whyItWorks": "Freshwater eel steamed and broiled until meltingly tender with a delicate sweet soy glaze. High in vitamin A, vitamin E, and bioavailable protein; very soft on intestinal mucosa.",
+      "prepOrOrderInstructions": "Order: 'Unagi Nigiri with light sweet tare sauce on top, NO wasabi, NO sesame seeds.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-tender-broiled-unagi-eel-white-rice.json"
+    },
+    {
       "id": "taco-bell-cheesy-roll-up",
       "name": "Taco Bell Cheesy Roll-Up",
       "categoryFolder": "mexican-southwest",
@@ -26130,6 +26638,45 @@
         "Skip lemon-caper piccata sauce (citrus trigger) and spicy arrabbiata tomato sauce"
       ],
       "_sourcePath": "src/data/items/italian-med/pesto-italian-kitchen-draper-herriman-fettuccine-grilled-chicken-marinara-free.json"
+    },
+    {
+      "id": "traditional-mexican-horchata-rice-milk-cinnamon",
+      "name": "Traditional Agua de Horchata (Soothing Rice Milk, Cinnamon & Sugar)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "taqueria",
+        "horchata",
+        "rice-milk",
+        "cinnamon",
+        "comfort-drink",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "authentic horchata",
+        "mexican horchata crohns",
+        "soothing rice milk drink"
+      ],
+      "whyItWorks": "Traditional agua fresca crafted from ground white rice steeped in water with Mexican canela cinnamon and sugar. Creamy, cooling, and completely dairy-free (verify with the taqueria that they don't add condensed milk).",
+      "prepOrOrderInstructions": "Ask: 'Is your horchata made traditionally with rice and water, or does it have cow's milk/dairy added?' If dairy-free, enjoy slowly over ice.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/traditional-mexican-horchata-rice-milk-cinnamon.json"
     },
     {
       "id": "soft-bakery-madeleines-sponge-cookies",
@@ -32284,6 +32831,46 @@
       "_sourcePath": "src/data/items/asian-indian/tandoori-oven-logan-chicken-tikka-kabob.json"
     },
     {
+      "id": "taqueria-quesadilla-sencilla-flour-monterey-jack",
+      "name": "Taqueria Quesadilla Sencilla (Flour Tortilla & Melted Monterey Jack)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "taqueria",
+        "quesadilla",
+        "flour-tortilla",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "taqueria cheese quesadilla",
+        "quesadilla sencilla",
+        "plain flour quesadilla"
+      ],
+      "whyItWorks": "A plain griddled flour tortilla filled with mild Monterey Jack cheese (naturally very low in lactose). Simple, easily absorbed carbohydrate and protein cushion when spicy or fibrous fillings cannot be tolerated.",
+      "prepOrOrderInstructions": "Order: 'Quesadilla sencilla de queso—plain, NO sour cream, NO pico de gallo, NO guacamole with onions.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/mexican-southwest/taqueria-quesadilla-sencilla-flour-monterey-jack.json"
+    },
+    {
       "id": "tender-boiled-red-beets-sliced",
       "name": "Tender Boiled Baby Red Beets (Peeled & Sliced)",
       "categoryFolder": "produce-sides",
@@ -34816,6 +35403,46 @@
       "whyItWorks": "Warm water-cooked oatmeal provides soluble beta-glucan fiber, which forms a gentle gel in the GI tract that regulates bowel movements without mechanical scraping. Sweetened lightly with pure brown sugar.",
       "prepOrOrderInstructions": "Prepare using hot water or lactose-free almond milk. Add a small spoonful of brown sugar. Skip raw walnuts, almonds, and dried cranberries if avoiding seeds and roughage.",
       "_sourcePath": "src/data/items/breakfast/thomas-cuisine-bamboohr-plain-oatmeal-bowl.json"
+    },
+    {
+      "id": "sushi-bar-edamame-beans-shelled-steamed",
+      "name": "Sushi Bar Steamed Edamame (Shelled Beans Only, Salted)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sushi",
+        "edamame",
+        "shelled-beans",
+        "plant-protein",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "steamed edamame beans",
+        "shelled edamame sushi",
+        "edamame appetizer crohns"
+      ],
+      "whyItWorks": "Young tender green soybeans popped out of their pods. When steamed soft, the inner beans provide clean plant protein and gentle soluble fiber. The fibrous woody pod shell is strictly discarded.",
+      "prepOrOrderInstructions": "Order steamed edamame with sea salt. Pop the tender green beans out of the pod and chew thoroughly; never chew or swallow the pod shell.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-edamame-beans-shelled-steamed.json"
     },
     {
       "id": "thomas-cuisine-bamboohr-turkey-swiss-panini",
@@ -79034,6 +79661,45 @@
       "_sourcePath": "src/data/items/produce-sides/tostitos-salsa-con-queso-warning.json"
     },
     {
+      "id": "sushi-bar-pickled-gari-ginger-preservatives-warning",
+      "name": "WARNING: Sushi Bar Pickled Pink Gari Ginger (Acidic Vinegar & Artificial Sweeteners)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 3.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "pickled-ginger",
+        "gari",
+        "vinegar-acid",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "sushi ginger warning",
+        "pickled gari ginger flare",
+        "pink ginger sushi stomach pain"
+      ],
+      "whyItWorks": "While fresh ginger is soothing, commercial pickled sushi ginger (gari) is soaked in sharp acetic acid vinegar, high sodium, and frequently contains aspartame or potassium sorbate. In large bites, the concentrated acid and ginger heat burn inflamed stomach and bowel lining.",
+      "prepOrOrderInstructions": "Eat gari ginger only in tiny nibbles as a palate cleanser during deep remission; avoid during active flares.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-pickled-gari-ginger-preservatives-warning.json"
+    },
+    {
       "id": "whole-raw-almonds-walnuts-stricture-warning",
       "name": "Whole Raw or Roasted Almonds & Walnuts (Stricture Hazard Warning)",
       "categoryFolder": "snacks-desserts",
@@ -80194,6 +80860,46 @@
       "_sourcePath": "src/data/items/drinks-sauces/dunkin-refreshers-green-tea-energy-warning.json"
     },
     {
+      "id": "sushi-bar-masago-tobiko-flying-fish-roe-warning",
+      "name": "WARNING: Masago & Tobiko (Tiny Flying Fish Eggs & Capelin Roe Garnish)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "masago",
+        "tobiko",
+        "fish-roe",
+        "diverticula-risk",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "masago warning sushi",
+        "tobiko fish eggs crohns",
+        "flying fish roe ibd trigger"
+      ],
+      "whyItWorks": "Tens of thousands of microscopic, firm, crunchy fish eggs coated with salt, mirin, and food coloring. They resist complete chewing, passing intact into the colon where they can mechanically irritate ulcer pockets and diverticula.",
+      "prepOrOrderInstructions": "Request 'NO masago or tobiko roe' sprinkled over your rolls or nigiri.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-masago-tobiko-flying-fish-roe-warning.json"
+    },
+    {
       "id": "mccormick-coarse-ground-black-pepper-warning",
       "name": "WARNING: McCormick Coarse Ground Black Pepper (Piperine Mucosal Irritant & Sharp Flakes)",
       "categoryFolder": "drinks-sauces",
@@ -81326,6 +82032,45 @@
       "prepOrOrderInstructions": "Tell your server to withhold the biscuit basket from the table to eliminate temptation during active disease or recovery.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/dinner/red-lobster-cheddar-bay-biscuits-garlic-butter-warning.json"
+    },
+    {
+      "id": "traditional-taqueria-deep-fried-churros-warning",
+      "name": "WARNING: Traditional Deep-Fried Churros with Cinnamon Sugar",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria Warning",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "dessert",
+        "snack",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "taqueria",
+        "churros",
+        "deep-fried-dough",
+        "cinnamon-sugar",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "churros warning",
+        "mexican churros diarrhea",
+        "fried churro crohns flare"
+      ],
+      "whyItWorks": "Extruded choux pastry deep-fried in commercial fryer oil and rolled in granulated cinnamon sugar, often filled with dulce de leche. Deep frying fats combined with refined sugar crystals cause rapid postprandial cramping.",
+      "prepOrOrderInstructions": "Skip churros. Order warm agua de horchata or corn tortillas with a touch of honey.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/mexican-southwest/traditional-taqueria-deep-fried-churros-warning.json"
     },
     {
       "id": "zao-asian-cafe-draper-chili-dragon-sauce-warning",
@@ -82865,6 +83610,45 @@
       "_sourcePath": "src/data/items/produce-sides/raw-asparagus-woody-spears-warning.json"
     },
     {
+      "id": "sushi-bar-crispy-salmon-skin-roll-warning",
+      "name": "WARNING: Sushi Bar Crispy Salmon Skin Roll (Sharp Fried Scales & Connective Grit)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "salmon-skin-roll",
+        "sharp-edges",
+        "deep-fried-skin",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "salmon skin roll warning",
+        "fried salmon skin scratchy",
+        "crispy salmon roll flare"
+      ],
+      "whyItWorks": "Salmon skin broiled or deep-fried until brittle and shatteringly crisp. The sharp, jagged charred skin fragments and residual scale grit resist enzymatic breakdown and physically abrade the delicate intestinal lining.",
+      "prepOrOrderInstructions": "Order fresh salmon flesh (Sake nigiri) instead of crispy fried skin.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-crispy-salmon-skin-roll-warning.json"
+    },
+    {
       "id": "wendys-spicy-chicken-sandwich-warning",
       "name": "Wendy's Spicy Chicken Sandwich (WARNING)",
       "categoryFolder": "lunch",
@@ -83476,6 +84260,45 @@
       "prepOrOrderInstructions": "Pass on raw jicama sticks on party platters and salad bars. Choose peeled steamed peeled zucchini or cucumber flesh without seeds.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/raw-jicama-sticks-insoluble-fiber-warning.json"
+    },
+    {
+      "id": "sushi-bar-shrimp-tempura-crunch-roll-warning",
+      "name": "WARNING: Sushi Bar Shrimp Tempura Roll (Deep-Fried Batter, Eel Sauce & Mayo)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "shrimp-tempura",
+        "deep-fried-batter",
+        "high-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "shrimp tempura roll warning",
+        "tempura sushi diarrhea",
+        "fried sushi roll colitis"
+      ],
+      "whyItWorks": "Shrimp coated in wheat batter and deep-fried in commercial fryer oil, rolled inside white rice and nori with sweet sauce. The combination of fryer oil, tough nori, and high-fat sauces triggers dumping and delayed gastric distress.",
+      "prepOrOrderInstructions": "Avoid tempura fried rolls. Choose boiled shrimp (Ebi) nigiri for clean, unbattered seafood.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-shrimp-tempura-crunch-roll-warning.json"
     },
     {
       "id": "sambal-oelek-ground-chili-paste-warning",
@@ -84155,6 +84978,46 @@
       "_sourcePath": "src/data/items/produce-sides/whole-sweet-corn-on-the-cob-warning.json"
     },
     {
+      "id": "sushi-bar-commercial-green-wasabi-paste-warning",
+      "name": "WARNING: Commercial Green Wasabi Paste (Horseradish Chemical Mucosal Burn)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "wasabi",
+        "horseradish",
+        "mustard-flour",
+        "mucosal-burn",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "wasabi paste warning",
+        "wasabi stomach burn crohns",
+        "horseradish chemical irritation colitis"
+      ],
+      "whyItWorks": "Nearly all sushi bar wasabi is not real wasabi root; it is a blend of grated horseradish powder, mustard flour, artificial green dyes, and citric acid. The volatile isothiocyanates cause intense chemical burns on contact with inflamed esophageal and intestinal mucosa.",
+      "prepOrOrderInstructions": "Always request 'Sabi-nuki' (NO wasabi on your sushi or inside rolls), and push the green wasabi dollop off your plate.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-commercial-green-wasabi-paste-warning.json"
+    },
+    {
       "id": "hidden-valley-ranch-dry-seasoning-packet-warning",
       "name": "WARNING: Hidden Valley Ranch Dry Seasoning Mix (Pure Garlic, Onion & Buttermilk Concentrate)",
       "categoryFolder": "drinks-sauces",
@@ -84269,6 +85132,46 @@
       "prepOrOrderInstructions": "Strictly avoid all raw shredded Brussels sprouts salads and slaws. Substitute with well-cooked peeled root vegetables or steamed peeled squash.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/raw-brussels-sprouts-shredded-slaw-warning.json"
+    },
+    {
+      "id": "taqueria-tacos-al-pastor-spit-roasted-warning",
+      "name": "WARNING: Tacos al Pastor (Spicy Achiote, Guajillo Chile & Pineapple Marinade)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria Warning",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "restaurant",
+        "taqueria",
+        "al-pastor",
+        "guajillo-chile",
+        "achiote",
+        "pineapple-acid",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "tacos al pastor warning",
+        "al pastor pork diarrhea",
+        "spicy pork spit tacos crohns"
+      ],
+      "whyItWorks": "Pork marinated in heavy paste of achiote, dried guajillo and ancho chiles, garlic, vinegar, and bromelain-rich raw pineapple juice, cooked on a vertical trompo. High acid + concentrated chili capsaicin sparks severe stomach and bowel burning.",
+      "prepOrOrderInstructions": "Avoid al pastor. Choose unspiced carnitas or plain grilled chicken (pollo asado) instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/mexican-southwest/taqueria-tacos-al-pastor-spit-roasted-warning.json"
     },
     {
       "id": "birds-eye-steamfresh-sweet-corn-warning",
@@ -85319,6 +86222,46 @@
       "_sourcePath": "src/data/items/produce-sides/raw-collard-greens-tough-ribs-warning.json"
     },
     {
+      "id": "traditional-taqueria-birria-consome-grease-warning",
+      "name": "WARNING: Taqueria Birria de Res & Consomé (Heavy Tallow Fat & Chili Oil Layer)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria Warning",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "taqueria",
+        "birria",
+        "consome",
+        "tallow-grease",
+        "chili-oil",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "birria tacos warning",
+        "consome grease diarrhea",
+        "quesabirria crohns flare"
+      ],
+      "whyItWorks": "Beef or goat stewed for hours with intense guajillo and ancho chiles, cloves, allspice, and tallow. The dipping consomé features a thick floating layer of rendered red chili tallow grease that overwhelms pancreatic lipase digestion.",
+      "prepOrOrderInstructions": "Avoid Birria and Quesabirria. Order Caldo de Pollo (chicken soup) for gentle, clear hydration.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/mexican-southwest/traditional-taqueria-birria-consome-grease-warning.json"
+    },
+    {
       "id": "all-bran-buds-wheat-bran-warning",
       "name": "Kellogg's All-Bran Buds Cereal (17g Insoluble Bran WARNING)",
       "categoryFolder": "breakfast",
@@ -85430,6 +86373,45 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. One of the single most aggressive sausage triggers for Crohn's and Colitis.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/high-protein/mexican-pork-chorizo-sausage-warning.json"
+    },
+    {
+      "id": "traditional-taqueria-salsa-verde-tomatillo-warning",
+      "name": "WARNING: Authentic Salsa Verde (Raw Acidic Tomatillos, Serrano Chiles & Raw Onion)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria Warning",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "restaurant",
+        "taqueria",
+        "salsa-verde",
+        "tomatillos",
+        "serrano-peppers",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "salsa verde warning",
+        "tomatillo salsa diarrhea",
+        "green salsa crohns flare"
+      ],
+      "whyItWorks": "Green tomatillos have exceptionally high natural malic and citric acid content. Blended raw with fiery green serrano peppers, whole seeds, and raw white onions, it aggressively burns eroded mucosal ulcers.",
+      "prepOrOrderInstructions": "Keep green and red salsas completely off your tacos. Season solely with fresh lime juice and sea salt.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/mexican-southwest/traditional-taqueria-salsa-verde-tomatillo-warning.json"
     },
     {
       "id": "cholula-hot-sauce-original-piquin-pepper-warning",
@@ -85583,6 +86565,46 @@
       "prepOrOrderInstructions": "Strictly avoid pickled jalapeños, chili peppers, and spicy garnishes on tacos, nachos, and sandwiches. Ask for completely mild preparations.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/pickled-jalapeno-peppers-seeds-warning.json"
+    },
+    {
+      "id": "sushi-bar-spicy-tuna-crunch-roll-warning",
+      "name": "WARNING: Sushi Bar Spicy Tuna Crunch Roll (Sriracha, Chili Oil & Fried Tempura Flakes)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "spicy-tuna",
+        "chili-oil",
+        "tempura-crunch",
+        "capsaicin",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "spicy tuna roll warning",
+        "spicy tuna diarrhea crohns",
+        "sushi spicy mayo flare"
+      ],
+      "whyItWorks": "Scrapings of minced tuna blended with Kewpie mayonnaise, Sriracha chili sauce, spicy sesame chili oil (Rayu), and topped with deep-fried batter bits (tenkasu). Capsaicin irritates ulcerations and speeds transit, while rancid fryer crunch scratches tissue.",
+      "prepOrOrderInstructions": "Avoid all rolls labeled 'Spicy' or 'Crunchy'. Choose fresh salmon nigiri or avocado rolls with soy paper.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-spicy-tuna-crunch-roll-warning.json"
     },
     {
       "id": "applebees-boneless-buffalo-wings-warning",
@@ -85891,6 +86913,84 @@
       "_sourcePath": "src/data/items/lunch/panera-bistro-french-onion-soup-warning.json"
     },
     {
+      "id": "sushi-bar-dynamite-roll-baked-scallop-mayo-warning",
+      "name": "CRITICAL WARNING: Sushi Bar Baked Dynamite Roll (Heavy Kewpie Mayo Grease Bomb)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "dynamite-roll",
+        "baked-mayo",
+        "heavy-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "dynamite roll warning",
+        "baked scallop roll diarrhea",
+        "sushi mayo grease flare"
+      ],
+      "whyItWorks": "A California roll buried under chopped scallops, shrimp, and an immense blanket of Japanese Kewpie mayonnaise mixed with sugar and sriracha, baked under a salamander until bubbling grease. A massive 60g+ fat bomb that triggers violent diarrhea.",
+      "prepOrOrderInstructions": "Strictly avoid baked mayo sushi rolls. Stick to clean, unbaked nigiri or plain sashimi.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-dynamite-roll-baked-scallop-mayo-warning.json"
+    },
+    {
+      "id": "traditional-taqueria-refried-pinto-beans-lard-warning",
+      "name": "CRITICAL WARNING: Taqueria Refried Pinto Beans (Cooked with Pork Lard & Insoluble Skins)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 7,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "taqueria",
+        "refried-beans",
+        "manteca",
+        "pork-lard",
+        "gas-bomb",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "taqueria refried beans warning",
+        "frijoles refritos diarrhea",
+        "refried beans pork lard crohns flare"
+      ],
+      "whyItWorks": "CLINICAL DISASTER: Traditional authentic frijoles refritos are mashed with large quantities of manteca (rendered pork lard) and contain coarse unbroken pinto bean seed coats. The saturated lard stimulates excessive bile acid secretion while the oligosaccharides trigger violent bloating and gas spasms.",
+      "prepOrOrderInstructions": "Always specify: 'SIN frijoles (NO beans)' on Mexican combo plates. Substitute extra white rice or extra corn tortillas.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/mexican-southwest/traditional-taqueria-refried-pinto-beans-lard-warning.json"
+    },
+    {
       "id": "dca-adorable-snowman-lemon-soft-serve-citrus-warning",
       "name": "DCA Adorable Snowman Frosted Treats Pixar Pier Frosty Parfait (Lemon Soft-Serve — CRITICAL Citrus Warning!)",
       "categoryFolder": "snacks-desserts",
@@ -86160,6 +87260,45 @@
       "_sourcePath": "src/data/items/dinner/red-lobster-crispy-dragon-shrimp-spicy-warning.json"
     },
     {
+      "id": "taqueria-pickled-jalapenos-escabeche-carrots-warning",
+      "name": "WARNING: Taqueria Chiles Toreados & Pickled Escabeche (Jalapeños & Raw Carrots)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "taqueria",
+        "escabeche",
+        "pickled-jalapeno",
+        "hard-carrots",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "chiles toreados warning",
+        "taqueria escabeche carrots danger",
+        "pickled jalapenos crohns"
+      ],
+      "whyItWorks": "Found on salsa bars: blistered jalapeños (toreados) and pickled escabeche containing rock-hard crunchy raw carrot wheels, jalapeño rings with hard seeds, and raw onions in vinegar. Severe stricture obstruction and capsaicin trigger.",
+      "prepOrOrderInstructions": "Do not take items from the taqueria pickle bar.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/mexican-southwest/taqueria-pickled-jalapenos-escabeche-carrots-warning.json"
+    },
+    {
       "id": "whole-globe-artichoke-leaves-warning",
       "name": "WARNING: Whole Globe Artichoke Leaves & Spiny Tips",
       "categoryFolder": "produce-sides",
@@ -86193,6 +87332,45 @@
       "prepOrOrderInstructions": "Strictly avoid whole globe artichokes if you have known intestinal strictures or an ileostomy. Choose canned tender artichoke hearts only.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/whole-globe-artichoke-leaves-warning.json"
+    },
+    {
+      "id": "sushi-bar-spider-roll-soft-shell-crab-warning",
+      "name": "CRITICAL WARNING: Sushi Bar Spider Roll (Deep-Fried Whole Soft-Shell Crab with Chitin Shell)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 1.4,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "spider-roll",
+        "soft-shell-crab",
+        "chitin-shell",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "spider roll warning",
+        "soft shell crab sushi danger",
+        "crab shell stricture blockage"
+      ],
+      "whyItWorks": "CLINICAL HAZARD: A whole soft-shell crab dipped in batter and deep-fried. Diners consume the entire exoskeleton, including legs and claws. Chitin is completely indigestible insoluble animal fiber; in narrowed bowels or strictures, sharp chitin fragments can collect and cause mechanical obstruction and ulcer puncture.",
+      "prepOrOrderInstructions": "Strictly avoid Spider Rolls and whole soft-shell crab. Choose cooked crab meat (kanikama or lump blue crab) without shells.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-spider-roll-soft-shell-crab-warning.json"
     },
     {
       "id": "chilis-texas-cheese-fries-bacon-jalapeno-warning",
@@ -86348,6 +87526,44 @@
       "prepOrOrderInstructions": "Never order Broccoli Cheddar Soup or Bread Bowls. Stick to Homestyle Chicken Noodle Soup in a standard cup.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/lunch/panera-broccoli-cheddar-soup-bread-bowl-warning.json"
+    },
+    {
+      "id": "taqueria-chile-relleno-battered-fried-warning",
+      "name": "CRITICAL WARNING: Taqueria Chile Relleno (Fried Battered Poblano with Waxy Skin & Seeds)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Authentic Taqueria Warning",
+      "crohnsScore": 1.2,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "taqueria",
+        "chile-relleno",
+        "deep-fried-batter",
+        "poblano-skin",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "chile relleno warning",
+        "chile relleno diarrhea",
+        "deep fried poblano pepper crohns"
+      ],
+      "whyItWorks": "Whole roasted poblano pepper stuffed with cheese, dipped in fluffy egg batter, deep-fried in vegetable oil, and smothered in tomato sauce. Indigestible waxy pepper skins and stray hot seeds pose acute stricture hazards, while heavy oil triggers dumping.",
+      "prepOrOrderInstructions": "Never order Chiles Rellenos with active bowel inflammation or strictures.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/mexican-southwest/taqueria-chile-relleno-battered-fried-warning.json"
     },
     {
       "id": "raw-oysters-on-the-half-shell-warning",
@@ -86662,6 +87878,47 @@
       "prepOrOrderInstructions": "NEVER consume shirataki or konjac 'miracle noodles' if you have Crohn's disease, Ulcerative Colitis with narrowing, or an ostomy. Choose white rice noodles or gluten-free pasta instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/italian-med/shirataki-miracle-noodle-konjac-warning.json"
+    },
+    {
+      "id": "sushi-bar-seaweed-salad-wakame-chuka-warning",
+      "name": "CRITICAL WARNING: Sushi Bar Seaweed Salad (Wakame Algae Stricture Hazard)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Japanese Sushi Bar Warning",
+      "crohnsScore": 1,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "sushi",
+        "seaweed-salad",
+        "wakame",
+        "stricture-hazard",
+        "bezoar-risk",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "seaweed salad warning",
+        "wakame salad bowel obstruction",
+        "sushi seaweed salad blockage",
+        "algae stricture emergency"
+      ],
+      "whyItWorks": "EMERGENCY CLINICAL OBSTRUCTION HAZARD: Wakame seaweed salad consists of thick, slippery, leathery strands of marine algae seasoned with sesame oil and whole sesame seeds. Human digestive enzymes cannot break down the structural alginates; in Crohn's disease with strictures or ileostomies, the long leathery ribbons ball up like tangled wet rope and cause acute surgical bowel obstruction.",
+      "prepOrOrderInstructions": "NEVER consume green seaweed salad (wakame) if you have known intestinal narrowings or strictures. Choose clear dashi broth or edamame instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/sushi-bar-seaweed-salad-wakame-chuka-warning.json"
     },
     {
       "id": "texas-roadhouse-rattlesnake-bites-warning",

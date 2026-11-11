@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-salmon-sake-nigiri-plain",
+  "name": "Sushi Bar Fresh Salmon Nigiri (Sake - Fresh Raw Salmon over White Rice)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "salmon-nigiri",
+    "sake",
+    "omega-3",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "salmon nigiri sushi",
+    "sake sushi raw salmon",
+    "fresh salmon sushi crohns"
+  ],
+  "whyItWorks": "High-grade fresh raw Atlantic salmon draped over a finger of seasoned white sushi rice. Rich in anti-inflammatory marine omega-3 fatty acids (EPA/DHA) that help resolve mucosal irritation. Soft, tender, and requires minimal digestive effort.",
+  "prepOrOrderInstructions": "Order: 'Salmon Nigiri (Sake)—Sabi-nuki (NO wasabi inside). Please serve with gluten-free tamari.'",
+  "safetyTier": "flare-safe"
+}

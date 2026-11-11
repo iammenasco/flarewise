@@ -1,0 +1,38 @@
+{
+  "id": "traditional-taqueria-pollo-asado-plain-rice-platter",
+  "name": "Taqueria Pollo Asado Platter (Grilled Chicken, White Rice & Corn Tortillas)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "taqueria",
+    "pollo-asado",
+    "white-rice",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "pollo asado taqueria",
+    "grilled chicken mexican platter",
+    "safe mexican restaurant order"
+  ],
+  "whyItWorks": "Citrus-marinated chicken breast or boneless thigh grilled over charcoal until juicy. Paired with plain Mexican white rice (arroz blanco) and soft warm corn tortillas, avoiding refried beans and heavy cheeses.",
+  "prepOrOrderInstructions": "Order: 'Pollo Asado platter with plain white rice and corn tortillas—NO refried beans, NO pico de gallo, NO sour cream.' Enjoy with a side of smooth avocado.",
+  "safetyTier": "flare-safe"
+}

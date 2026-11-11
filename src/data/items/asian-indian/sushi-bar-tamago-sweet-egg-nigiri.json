@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-tamago-sweet-egg-nigiri",
+  "name": "Sushi Bar Tamago Nigiri (Sweet Folded Egg Omelet over Sushi Rice)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "tamago",
+    "egg-nigiri",
+    "comfort-food",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "tamago nigiri sushi",
+    "sweet egg sushi crohns",
+    "safe sushi bar food"
+  ],
+  "whyItWorks": "One of the safest, most comforting items in all of Japanese cuisine. Layered sweet egg custard cooked with dashi, mirin, and sea salt, served over tender vinegared sushi rice. Zero raw fish, zero roughage, zero fat strain, and rich in gentle protein.",
+  "prepOrOrderInstructions": "Order: 'Tamago Nigiri (2 pieces)—please omit the thin nori seaweed belt if you have strictures.' Dip lightly in gluten-free tamari.",
+  "safetyTier": "flare-safe"
+}

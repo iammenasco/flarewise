@@ -1,0 +1,39 @@
+{
+  "id": "sushi-bar-spicy-tuna-crunch-roll-warning",
+  "name": "WARNING: Sushi Bar Spicy Tuna Crunch Roll (Sriracha, Chili Oil & Fried Tempura Flakes)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "spicy-tuna",
+    "chili-oil",
+    "tempura-crunch",
+    "capsaicin",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "spicy tuna roll warning",
+    "spicy tuna diarrhea crohns",
+    "sushi spicy mayo flare"
+  ],
+  "whyItWorks": "Scrapings of minced tuna blended with Kewpie mayonnaise, Sriracha chili sauce, spicy sesame chili oil (Rayu), and topped with deep-fried batter bits (tenkasu). Capsaicin irritates ulcerations and speeds transit, while rancid fryer crunch scratches tissue.",
+  "prepOrOrderInstructions": "Avoid all rolls labeled 'Spicy' or 'Crunchy'. Choose fresh salmon nigiri or avocado rolls with soy paper.",
+  "safetyTier": "danger-zone"
+}

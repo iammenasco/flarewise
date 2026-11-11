@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-shrimp-tempura-crunch-roll-warning",
+  "name": "WARNING: Sushi Bar Shrimp Tempura Roll (Deep-Fried Batter, Eel Sauce & Mayo)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "shrimp-tempura",
+    "deep-fried-batter",
+    "high-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "shrimp tempura roll warning",
+    "tempura sushi diarrhea",
+    "fried sushi roll colitis"
+  ],
+  "whyItWorks": "Shrimp coated in wheat batter and deep-fried in commercial fryer oil, rolled inside white rice and nori with sweet sauce. The combination of fryer oil, tough nori, and high-fat sauces triggers dumping and delayed gastric distress.",
+  "prepOrOrderInstructions": "Avoid tempura fried rolls. Choose boiled shrimp (Ebi) nigiri for clean, unbattered seafood.",
+  "safetyTier": "danger-zone"
+}

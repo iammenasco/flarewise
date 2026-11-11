@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-spider-roll-soft-shell-crab-warning",
+  "name": "CRITICAL WARNING: Sushi Bar Spider Roll (Deep-Fried Whole Soft-Shell Crab with Chitin Shell)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 1.4,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "spider-roll",
+    "soft-shell-crab",
+    "chitin-shell",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "spider roll warning",
+    "soft shell crab sushi danger",
+    "crab shell stricture blockage"
+  ],
+  "whyItWorks": "CLINICAL HAZARD: A whole soft-shell crab dipped in batter and deep-fried. Diners consume the entire exoskeleton, including legs and claws. Chitin is completely indigestible insoluble animal fiber; in narrowed bowels or strictures, sharp chitin fragments can collect and cause mechanical obstruction and ulcer puncture.",
+  "prepOrOrderInstructions": "Strictly avoid Spider Rolls and whole soft-shell crab. Choose cooked crab meat (kanikama or lump blue crab) without shells.",
+  "safetyTier": "danger-zone"
+}

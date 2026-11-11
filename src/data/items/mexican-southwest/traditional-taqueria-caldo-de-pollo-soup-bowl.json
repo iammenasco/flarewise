@@ -1,0 +1,38 @@
+{
+  "id": "traditional-taqueria-caldo-de-pollo-soup-bowl",
+  "name": "Traditional Caldo de Pollo (Mexican Chicken Soup with Rice & Peeled Zucchini)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "caldo-de-pollo",
+    "mexican-soup",
+    "chicken-soup",
+    "healing-broth",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "caldo de pollo taqueria",
+    "mexican chicken soup plain",
+    "gut healing mexican soup"
+  ],
+  "whyItWorks": "Rich, deeply nourishing chicken soup simmered with bone-in poultry, white rice, peeled zucchini (calabacitas), and tender peeled carrots. Exceptionally hydrating and restorative during flares.",
+  "prepOrOrderInstructions": "Order: 'Caldo de Pollo—con arroz y calabacitas; please leave out the cabbage wedge, corn on the cob, and raw onion garnish.' Sip broth warm.",
+  "safetyTier": "flare-safe"
+}

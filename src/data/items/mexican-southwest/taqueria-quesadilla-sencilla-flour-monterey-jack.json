@@ -1,0 +1,39 @@
+{
+  "id": "taqueria-quesadilla-sencilla-flour-monterey-jack",
+  "name": "Taqueria Quesadilla Sencilla (Flour Tortilla & Melted Monterey Jack)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "taqueria",
+    "quesadilla",
+    "flour-tortilla",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "taqueria cheese quesadilla",
+    "quesadilla sencilla",
+    "plain flour quesadilla"
+  ],
+  "whyItWorks": "A plain griddled flour tortilla filled with mild Monterey Jack cheese (naturally very low in lactose). Simple, easily absorbed carbohydrate and protein cushion when spicy or fibrous fillings cannot be tolerated.",
+  "prepOrOrderInstructions": "Order: 'Quesadilla sencilla de queso—plain, NO sour cream, NO pico de gallo, NO guacamole with onions.'",
+  "safetyTier": "low-risk"
+}

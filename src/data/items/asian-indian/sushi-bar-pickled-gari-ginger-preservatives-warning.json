@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-pickled-gari-ginger-preservatives-warning",
+  "name": "WARNING: Sushi Bar Pickled Pink Gari Ginger (Acidic Vinegar & Artificial Sweeteners)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 3.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "pickled-ginger",
+    "gari",
+    "vinegar-acid",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "sushi ginger warning",
+    "pickled gari ginger flare",
+    "pink ginger sushi stomach pain"
+  ],
+  "whyItWorks": "While fresh ginger is soothing, commercial pickled sushi ginger (gari) is soaked in sharp acetic acid vinegar, high sodium, and frequently contains aspartame or potassium sorbate. In large bites, the concentrated acid and ginger heat burn inflamed stomach and bowel lining.",
+  "prepOrOrderInstructions": "Eat gari ginger only in tiny nibbles as a palate cleanser during deep remission; avoid during active flares.",
+  "safetyTier": "danger-zone"
+}

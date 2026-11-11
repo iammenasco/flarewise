@@ -1,0 +1,39 @@
+{
+  "id": "traditional-taqueria-refried-pinto-beans-lard-warning",
+  "name": "CRITICAL WARNING: Taqueria Refried Pinto Beans (Cooked with Pork Lard & Insoluble Skins)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 7,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "taqueria",
+    "refried-beans",
+    "manteca",
+    "pork-lard",
+    "gas-bomb",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "taqueria refried beans warning",
+    "frijoles refritos diarrhea",
+    "refried beans pork lard crohns flare"
+  ],
+  "whyItWorks": "CLINICAL DISASTER: Traditional authentic frijoles refritos are mashed with large quantities of manteca (rendered pork lard) and contain coarse unbroken pinto bean seed coats. The saturated lard stimulates excessive bile acid secretion while the oligosaccharides trigger violent bloating and gas spasms.",
+  "prepOrOrderInstructions": "Always specify: 'SIN frijoles (NO beans)' on Mexican combo plates. Substitute extra white rice or extra corn tortillas.",
+  "safetyTier": "danger-zone"
+}

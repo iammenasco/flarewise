@@ -1,0 +1,37 @@
+{
+  "id": "sushi-bar-dynamite-roll-baked-scallop-mayo-warning",
+  "name": "CRITICAL WARNING: Sushi Bar Baked Dynamite Roll (Heavy Kewpie Mayo Grease Bomb)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "dynamite-roll",
+    "baked-mayo",
+    "heavy-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dynamite roll warning",
+    "baked scallop roll diarrhea",
+    "sushi mayo grease flare"
+  ],
+  "whyItWorks": "A California roll buried under chopped scallops, shrimp, and an immense blanket of Japanese Kewpie mayonnaise mixed with sugar and sriracha, baked under a salamander until bubbling grease. A massive 60g+ fat bomb that triggers violent diarrhea.",
+  "prepOrOrderInstructions": "Strictly avoid baked mayo sushi rolls. Stick to clean, unbaked nigiri or plain sashimi.",
+  "safetyTier": "danger-zone"
+}

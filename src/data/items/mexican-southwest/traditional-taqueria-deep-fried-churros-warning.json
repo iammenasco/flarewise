@@ -1,0 +1,38 @@
+{
+  "id": "traditional-taqueria-deep-fried-churros-warning",
+  "name": "WARNING: Traditional Deep-Fried Churros with Cinnamon Sugar",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria Warning",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "taqueria",
+    "churros",
+    "deep-fried-dough",
+    "cinnamon-sugar",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "churros warning",
+    "mexican churros diarrhea",
+    "fried churro crohns flare"
+  ],
+  "whyItWorks": "Extruded choux pastry deep-fried in commercial fryer oil and rolled in granulated cinnamon sugar, often filled with dulce de leche. Deep frying fats combined with refined sugar crystals cause rapid postprandial cramping.",
+  "prepOrOrderInstructions": "Skip churros. Order warm agua de horchata or corn tortillas with a touch of honey.",
+  "safetyTier": "danger-zone"
+}

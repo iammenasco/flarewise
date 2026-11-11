@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-steamed-white-sushi-rice-shari",
+  "name": "Sushi Bar Steamed White Sushi Rice Bowl (Shari)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "sushi-rice",
+    "shari",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sushi rice bowl",
+    "plain shari sushi bar",
+    "seasoned white rice sushi"
+  ],
+  "whyItWorks": "Premium Japanese short-grain white rice steamed tender and lightly seasoned with mild rice vinegar, sugar, and sea salt. One of the single most reliable, soothing, non-inflammatory carbohydrates on earth.",
+  "prepOrOrderInstructions": "Order a side bowl of plain sushi rice (shari). Drizzle with a few drops of gluten-free tamari or eat plain.",
+  "safetyTier": "flare-safe"
+}

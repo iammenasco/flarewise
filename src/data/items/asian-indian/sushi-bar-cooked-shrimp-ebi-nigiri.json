@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-cooked-shrimp-ebi-nigiri",
+  "name": "Sushi Bar Cooked Shrimp Nigiri (Ebi Nigiri)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "ebi-nigiri",
+    "cooked-shrimp",
+    "low-fat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "ebi nigiri cooked shrimp",
+    "shrimp sushi nigiri",
+    "cooked sushi crohns"
+  ],
+  "whyItWorks": "Butterflied sweet shrimp gently poached in water and placed over sushi rice. Tender, ultra-lean, low-fat, and safe for patients who prefer fully cooked seafood options over raw fish.",
+  "prepOrOrderInstructions": "Order: 'Ebi Nigiri (cooked shrimp)—Sabi-nuki (NO wasabi under the fish).' Dip in tamari.",
+  "safetyTier": "flare-safe"
+}

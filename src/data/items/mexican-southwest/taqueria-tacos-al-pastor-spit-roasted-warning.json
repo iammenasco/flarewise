@@ -1,0 +1,39 @@
+{
+  "id": "taqueria-tacos-al-pastor-spit-roasted-warning",
+  "name": "WARNING: Tacos al Pastor (Spicy Achiote, Guajillo Chile & Pineapple Marinade)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria Warning",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "restaurant",
+    "taqueria",
+    "al-pastor",
+    "guajillo-chile",
+    "achiote",
+    "pineapple-acid",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "tacos al pastor warning",
+    "al pastor pork diarrhea",
+    "spicy pork spit tacos crohns"
+  ],
+  "whyItWorks": "Pork marinated in heavy paste of achiote, dried guajillo and ancho chiles, garlic, vinegar, and bromelain-rich raw pineapple juice, cooked on a vertical trompo. High acid + concentrated chili capsaicin sparks severe stomach and bowel burning.",
+  "prepOrOrderInstructions": "Avoid al pastor. Choose unspiced carnitas or plain grilled chicken (pollo asado) instead.",
+  "safetyTier": "danger-zone"
+}

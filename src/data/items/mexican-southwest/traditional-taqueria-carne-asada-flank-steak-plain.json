@@ -1,0 +1,37 @@
+{
+  "id": "traditional-taqueria-carne-asada-flank-steak-plain",
+  "name": "Taqueria Carne Asada Tacos (Grilled Flank Steak, Salt & Cilantro Only)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "taqueria",
+    "carne-asada",
+    "steak-tacos",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "carne asada tacos plain",
+    "taqueria flank steak tacos",
+    "steak tacos no onion"
+  ],
+  "whyItWorks": "Thinly sliced flank or skirt steak seared hot on the flattop with lime juice and sea salt. Naturally lean and high in bioavailable iron and zinc, critical nutrients frequently depleted in IBD.",
+  "prepOrOrderInstructions": "Order: 'Tacos de Carne Asada on soft corn tortillas, dry—NO onion, NO hot salsa. Cilantro and lime only.'",
+  "safetyTier": "low-risk"
+}

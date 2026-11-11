@@ -1,0 +1,38 @@
+{
+  "id": "traditional-taqueria-salsa-verde-tomatillo-warning",
+  "name": "WARNING: Authentic Salsa Verde (Raw Acidic Tomatillos, Serrano Chiles & Raw Onion)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria Warning",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "restaurant",
+    "taqueria",
+    "salsa-verde",
+    "tomatillos",
+    "serrano-peppers",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "salsa verde warning",
+    "tomatillo salsa diarrhea",
+    "green salsa crohns flare"
+  ],
+  "whyItWorks": "Green tomatillos have exceptionally high natural malic and citric acid content. Blended raw with fiery green serrano peppers, whole seeds, and raw white onions, it aggressively burns eroded mucosal ulcers.",
+  "prepOrOrderInstructions": "Keep green and red salsas completely off your tacos. Season solely with fresh lime juice and sea salt.",
+  "safetyTier": "danger-zone"
+}

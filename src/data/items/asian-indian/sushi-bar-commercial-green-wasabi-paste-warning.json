@@ -1,0 +1,39 @@
+{
+  "id": "sushi-bar-commercial-green-wasabi-paste-warning",
+  "name": "WARNING: Commercial Green Wasabi Paste (Horseradish Chemical Mucosal Burn)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "wasabi",
+    "horseradish",
+    "mustard-flour",
+    "mucosal-burn",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "wasabi paste warning",
+    "wasabi stomach burn crohns",
+    "horseradish chemical irritation colitis"
+  ],
+  "whyItWorks": "Nearly all sushi bar wasabi is not real wasabi root; it is a blend of grated horseradish powder, mustard flour, artificial green dyes, and citric acid. The volatile isothiocyanates cause intense chemical burns on contact with inflamed esophageal and intestinal mucosa.",
+  "prepOrOrderInstructions": "Always request 'Sabi-nuki' (NO wasabi on your sushi or inside rolls), and push the green wasabi dollop off your plate.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sushi-bar-edamame-beans-shelled-steamed",
+  "name": "Sushi Bar Steamed Edamame (Shelled Beans Only, Salted)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "edamame",
+    "shelled-beans",
+    "plant-protein",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "steamed edamame beans",
+    "shelled edamame sushi",
+    "edamame appetizer crohns"
+  ],
+  "whyItWorks": "Young tender green soybeans popped out of their pods. When steamed soft, the inner beans provide clean plant protein and gentle soluble fiber. The fibrous woody pod shell is strictly discarded.",
+  "prepOrOrderInstructions": "Order steamed edamame with sea salt. Pop the tender green beans out of the pod and chew thoroughly; never chew or swallow the pod shell.",
+  "safetyTier": "low-risk"
+}

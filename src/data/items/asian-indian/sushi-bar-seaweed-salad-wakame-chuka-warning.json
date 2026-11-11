@@ -1,0 +1,40 @@
+{
+  "id": "sushi-bar-seaweed-salad-wakame-chuka-warning",
+  "name": "CRITICAL WARNING: Sushi Bar Seaweed Salad (Wakame Algae Stricture Hazard)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 1,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "seaweed-salad",
+    "wakame",
+    "stricture-hazard",
+    "bezoar-risk",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "seaweed salad warning",
+    "wakame salad bowel obstruction",
+    "sushi seaweed salad blockage",
+    "algae stricture emergency"
+  ],
+  "whyItWorks": "EMERGENCY CLINICAL OBSTRUCTION HAZARD: Wakame seaweed salad consists of thick, slippery, leathery strands of marine algae seasoned with sesame oil and whole sesame seeds. Human digestive enzymes cannot break down the structural alginates; in Crohn's disease with strictures or ileostomies, the long leathery ribbons ball up like tangled wet rope and cause acute surgical bowel obstruction.",
+  "prepOrOrderInstructions": "NEVER consume green seaweed salad (wakame) if you have known intestinal narrowings or strictures. Choose clear dashi broth or edamame instead.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "taqueria-pickled-jalapenos-escabeche-carrots-warning",
+  "name": "WARNING: Taqueria Chiles Toreados & Pickled Escabeche (Jalapeños & Raw Carrots)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "taqueria",
+    "escabeche",
+    "pickled-jalapeno",
+    "hard-carrots",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "chiles toreados warning",
+    "taqueria escabeche carrots danger",
+    "pickled jalapenos crohns"
+  ],
+  "whyItWorks": "Found on salsa bars: blistered jalapeños (toreados) and pickled escabeche containing rock-hard crunchy raw carrot wheels, jalapeño rings with hard seeds, and raw onions in vinegar. Severe stricture obstruction and capsaicin trigger.",
+  "prepOrOrderInstructions": "Do not take items from the taqueria pickle bar.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sushi-bar-avocado-roll-soy-paper-mod",
+  "name": "Sushi Bar Avocado Roll (Wrapped in Soft Soy Paper / Mamenori)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "avocado-roll",
+    "soy-paper",
+    "nori-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "avocado roll soy paper",
+    "sushi soy paper wrapper",
+    "nori free sushi roll crohns"
+  ],
+  "whyItWorks": "Ripe, creamy Hass avocado wrapped with seasoned white sushi rice in paper-thin soy paper (mamenori). Bypasses tough, fibrous sheets of nori seaweed which can be difficult to break down for patients with strictures.",
+  "prepOrOrderInstructions": "Order: 'Avocado Roll wrapped in soy paper (soy wrapper) instead of nori—NO sesame seeds on top, NO wasabi.'",
+  "safetyTier": "flare-safe"
+}

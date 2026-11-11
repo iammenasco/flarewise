@@ -1,0 +1,39 @@
+{
+  "id": "sushi-bar-masago-tobiko-flying-fish-roe-warning",
+  "name": "WARNING: Masago & Tobiko (Tiny Flying Fish Eggs & Capelin Roe Garnish)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "masago",
+    "tobiko",
+    "fish-roe",
+    "diverticula-risk",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "masago warning sushi",
+    "tobiko fish eggs crohns",
+    "flying fish roe ibd trigger"
+  ],
+  "whyItWorks": "Tens of thousands of microscopic, firm, crunchy fish eggs coated with salt, mirin, and food coloring. They resist complete chewing, passing intact into the colon where they can mechanically irritate ulcer pockets and diverticula.",
+  "prepOrOrderInstructions": "Request 'NO masago or tobiko roe' sprinkled over your rolls or nigiri.",
+  "safetyTier": "danger-zone"
+}

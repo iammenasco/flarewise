@@ -1,0 +1,38 @@
+{
+  "id": "traditional-mexican-horchata-rice-milk-cinnamon",
+  "name": "Traditional Agua de Horchata (Soothing Rice Milk, Cinnamon & Sugar)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "taqueria",
+    "horchata",
+    "rice-milk",
+    "cinnamon",
+    "comfort-drink",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "authentic horchata",
+    "mexican horchata crohns",
+    "soothing rice milk drink"
+  ],
+  "whyItWorks": "Traditional agua fresca crafted from ground white rice steeped in water with Mexican canela cinnamon and sugar. Creamy, cooling, and completely dairy-free (verify with the taqueria that they don't add condensed milk).",
+  "prepOrOrderInstructions": "Ask: 'Is your horchata made traditionally with rice and water, or does it have cow's milk/dairy added?' If dairy-free, enjoy slowly over ice.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-crispy-salmon-skin-roll-warning",
+  "name": "WARNING: Sushi Bar Crispy Salmon Skin Roll (Sharp Fried Scales & Connective Grit)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar Warning",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "sushi",
+    "salmon-skin-roll",
+    "sharp-edges",
+    "deep-fried-skin",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "salmon skin roll warning",
+    "fried salmon skin scratchy",
+    "crispy salmon roll flare"
+  ],
+  "whyItWorks": "Salmon skin broiled or deep-fried until brittle and shatteringly crisp. The sharp, jagged charred skin fragments and residual scale grit resist enzymatic breakdown and physically abrade the delicate intestinal lining.",
+  "prepOrOrderInstructions": "Order fresh salmon flesh (Sake nigiri) instead of crispy fried skin.",
+  "safetyTier": "danger-zone"
+}

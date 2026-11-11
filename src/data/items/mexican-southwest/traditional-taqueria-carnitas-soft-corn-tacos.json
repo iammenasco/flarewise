@@ -1,0 +1,38 @@
+{
+  "id": "traditional-taqueria-carnitas-soft-corn-tacos",
+  "name": "Authentic Taqueria Carnitas Soft Tacos (Slow-Braised Pork, Cilantro Only)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria / Mexican Dining",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "taqueria",
+    "carnitas",
+    "corn-tortillas",
+    "tender-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "taqueria carnitas tacos",
+    "soft carnitas corn tortillas",
+    "mexican food crohns safe"
+  ],
+  "whyItWorks": "Traditional Michoacán carnitas are slow-braised in their own rendered juices with Mexican oregano and salt until melt-in-your-mouth tender. Served on warm soft corn tortillas with fresh cilantro only (avoiding diced raw white onions, salsa verde, and jalapeños). Pure, easily digested fuel.",
+  "prepOrOrderInstructions": "Order: 'Tacos de Carnitas on soft corn tortillas—con cilantro solamente, SIN cebolla (NO onions), NO salsa, NO jalapeños.' Season with a squeeze of fresh lime and table salt.",
+  "safetyTier": "flare-safe"
+}

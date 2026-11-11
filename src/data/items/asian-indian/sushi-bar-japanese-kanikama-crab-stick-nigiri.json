@@ -1,0 +1,39 @@
+{
+  "id": "sushi-bar-japanese-kanikama-crab-stick-nigiri",
+  "name": "Sushi Bar Kanikama Nigiri (Tender Steamed Surimi Crab Stick)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "kanikama",
+    "crab-stick",
+    "surimi",
+    "tender",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "kanikama nigiri",
+    "crab stick sushi",
+    "surimi nigiri crohns"
+  ],
+  "whyItWorks": "Finely pureed Alaska pollock white fish steamed into soft, tender imitation crab strips. Low-fat, low-residue, and very easily chewed and digested.",
+  "prepOrOrderInstructions": "Order: 'Kanikama Nigiri (crab stick)—plain, NO spicy mayo, NO wasabi.'",
+  "safetyTier": "low-risk"
+}

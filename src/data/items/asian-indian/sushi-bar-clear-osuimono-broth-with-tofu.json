@@ -1,0 +1,38 @@
+{
+  "id": "sushi-bar-clear-osuimono-broth-with-tofu",
+  "name": "Sushi Bar Clear Fish Broth (Osuimono with Silken Tofu)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Japanese Sushi Bar",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sushi",
+    "osuimono",
+    "clear-broth",
+    "silken-tofu",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "osuimono clear soup",
+    "japanese clear broth sushi bar",
+    "tofu clear soup crohns"
+  ],
+  "whyItWorks": "Clear Japanese broth made from kombu kelp and bonito fish flakes (dashi) with delicate cubes of soft silken tofu. Unlike miso soup (which can trigger soy fermentation gas), clear osuimono is pure, gentle hydration.",
+  "prepOrOrderInstructions": "Order: 'Osuimono clear fish soup with soft tofu cubes—please omit mushrooms and scallions if sensitive.'",
+  "safetyTier": "flare-safe"
+}

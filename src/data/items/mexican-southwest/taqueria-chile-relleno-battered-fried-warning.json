@@ -1,0 +1,37 @@
+{
+  "id": "taqueria-chile-relleno-battered-fried-warning",
+  "name": "CRITICAL WARNING: Taqueria Chile Relleno (Fried Battered Poblano with Waxy Skin & Seeds)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Authentic Taqueria Warning",
+  "crohnsScore": 1.2,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "taqueria",
+    "chile-relleno",
+    "deep-fried-batter",
+    "poblano-skin",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "chile relleno warning",
+    "chile relleno diarrhea",
+    "deep fried poblano pepper crohns"
+  ],
+  "whyItWorks": "Whole roasted poblano pepper stuffed with cheese, dipped in fluffy egg batter, deep-fried in vegetable oil, and smothered in tomato sauce. Indigestible waxy pepper skins and stray hot seeds pose acute stricture hazards, while heavy oil triggers dumping.",
+  "prepOrOrderInstructions": "Never order Chiles Rellenos with active bowel inflammation or strictures.",
+  "safetyTier": "danger-zone"
+}
