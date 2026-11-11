@@ -1,8 +1,9 @@
 {
   "id": "potage-parmentier-leek-potato",
-  "name": "Potage Parmentier",
+  "name": "Potage Parmentier (Smooth Leek & Potato Soup)",
   "categoryFolder": "dinner",
-  "crohnsScore": 10,
+  "brandOrRestaurant": "Disney Magic · Lumiere's / Disney Wonder · Triton's",
+  "crohnsScore": 9.5,
   "safetyTier": "flare-safe",
   "mealTypes": [
     "lunch",
@@ -10,23 +11,46 @@
   ],
   "region": "Euro/Bistro",
   "costTier": 2,
-  "convenienceScore": 2,
+  "convenienceScore": 5,
   "prepMethod": [
-    "stovetop"
+    "stovetop",
+    "ready-to-eat"
   ],
-  "fiberGramsPerServing": 3,
-  "lactoseSafe": true,
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
   "citrusFree": true,
+  "groceryIngredients": [
+    "Peeled Yukon Gold Potatoes",
+    "Chicken or Vegetable Broth",
+    "Butter",
+    "Lactose-Free Cream"
+  ],
   "tags": [
     "soup",
     "potato",
     "leek",
-    "comfort-food"
+    "comfort-food",
+    "french",
+    "flare-recovery",
+    "disney-cruise",
+    "disney-magic",
+    "disney-wonder",
+    "lumieres",
+    "tritons"
   ],
   "searchKeywords": [
     "potage parmentier",
-    "leek potato soup"
+    "leek and potato soup",
+    "vichyssoise",
+    "lumieres",
+    "tritons",
+    "disney magic",
+    "disney wonder"
   ],
-  "whyItWorks": "Silky potatoes and leeks are gentle on the system.",
-  "prepOrOrderInstructions": "Simmer on the stove until smooth."
+  "whyItWorks": "Peeled potatoes and tender simmered leeks are pureed into a velvety, liquid-smooth French bisque that requires zero mechanical chewing.",
+  "prepOrOrderInstructions": "At Lumiere's or Triton's, order without raw chive garnish or crunchy croutons. At home, simmer peeled potatoes in broth with onion powder and blend smooth with lactose-free cream and butter.",
+  "watchOuts": [
+    "Raw chopped chive garnish",
+    "Dairy cream base if lactose sensitive"
+  ]
 }
