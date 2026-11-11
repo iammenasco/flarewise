@@ -1,0 +1,39 @@
+{
+  "id": "modulen-ibd-nestle-health-science",
+  "name": "Modulen IBD Powdered Nutritional Formula (Nestle)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "exclusive-enteral-nutrition",
+    "crohns-specific",
+    "tgf-beta-2",
+    "low-residue",
+    "bowel-rest"
+  ],
+  "searchKeywords": [
+    "modulen ibd",
+    "nestle health science",
+    "tgf-beta",
+    "een diet",
+    "mucosal healing",
+    "pediatric crohns"
+  ],
+  "whyItWorks": "Specifically developed for Crohn's disease dietary management and Exclusive Enteral Nutrition (EEN). Rich in naturally occurring bioactive TGF-beta 2, a cytokine demonstrated in clinical trials to reduce mucosal inflammation and promote gut mucosal healing.",
+  "prepOrOrderInstructions": "Mix measured scoops with cool filtered water using a shaker bottle or blender on low speed. Do not boil or use hot liquids to protect the delicate TGF-beta proteins.",
+  "safetyTier": "flare-safe"
+}

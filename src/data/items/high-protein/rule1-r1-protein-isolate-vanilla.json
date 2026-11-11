@@ -1,0 +1,35 @@
+{
+  "id": "rule1-r1-protein-isolate-vanilla",
+  "name": "Rule 1 R1 Naturally Flavored Whey Isolate (Vanilla)",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "whey-isolate",
+    "hydrolysate",
+    "fast-absorbing",
+    "zero-fat",
+    "low-lactose"
+  ],
+  "searchKeywords": [
+    "rule 1 protein",
+    "r1 isolate",
+    "rule one whey",
+    "pure isolate"
+  ],
+  "whyItWorks": "100% whey isolate and hydrolysate blend with 0g sugar, 0g fat, 0g fiber, and negligible lactose. Gentle on digestion without causing gas or heaviness.",
+  "prepOrOrderInstructions": "Mix 1 scoop with 8 oz cold water or unsweetened almond milk.",
+  "safetyTier": "flare-safe"
+}

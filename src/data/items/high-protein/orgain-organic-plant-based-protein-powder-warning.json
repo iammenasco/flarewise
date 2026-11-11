@@ -1,0 +1,35 @@
+{
+  "id": "orgain-organic-plant-based-protein-powder-warning",
+  "name": "Orgain Organic Plant-Based Protein Powder (WARNING)",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 4.5,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "erythritol-warning",
+    "raw-pea-protein",
+    "guar-gum",
+    "fermentation-bloat"
+  ],
+  "searchKeywords": [
+    "orgain plant protein",
+    "orgain vanilla powder",
+    "erythritol bloating",
+    "pea protein gas"
+  ],
+  "whyItWorks": "Combines raw pea protein, brown rice, chia seeds, erythritol (sugar alcohol), and thick acacia/guar gums. Creates high osmotic draw and intense microbial gas fermentation in the large intestine.",
+  "prepOrOrderInstructions": "Exercise caution if prone to gas and distention. Switch to hydrolyzed collagen or pure egg white protein isolate instead.",
+  "safetyTier": "danger-zone"
+}

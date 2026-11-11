@@ -1,0 +1,35 @@
+{
+  "id": "drink-wholesome-egg-white-protein-powder",
+  "name": "Drink Wholesome Egg White Protein Powder (Vanilla)",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ibd-friendly",
+    "simple-ingredients",
+    "egg-white",
+    "coconut-sugar",
+    "no-gums"
+  ],
+  "searchKeywords": [
+    "drink wholesome",
+    "sensitive stomach protein",
+    "egg white vanilla",
+    "no artificial ingredients"
+  ],
+  "whyItWorks": "Formulated specifically for individuals with IBD, IBS, and sensitive stomachs. Made with only egg whites, chickpeas/coconut, monk fruit, and vanilla bean—zero gums, emulsifiers, artificial flavors, or sugar alcohols.",
+  "prepOrOrderInstructions": "Shake or blend 1 scoop with 8-10 oz water or plant milk.",
+  "safetyTier": "low-risk"
+}

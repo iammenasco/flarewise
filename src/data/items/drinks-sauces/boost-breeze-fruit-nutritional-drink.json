@@ -1,0 +1,36 @@
+{
+  "id": "boost-breeze-fruit-nutritional-drink",
+  "name": "Boost Breeze Fruit Nutritional Drink (Orange/Peach/Wild Berry)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "clear-liquid",
+    "fat-free",
+    "zero-residue",
+    "whey-isolate",
+    "medical-nutrition"
+  ],
+  "searchKeywords": [
+    "boost breeze",
+    "nestle boost breeze",
+    "clear liquid protein",
+    "fat free supplement"
+  ],
+  "whyItWorks": "Fruit-flavored clear liquid medical beverage offering 250 calories and 9g high-quality whey protein isolate per 8 fl oz carton. Fat-free, cholesterol-free, and fiber-free for frictionless bowel transit.",
+  "prepOrOrderInstructions": "Best served very cold over ice or frozen into digestive-safe popsicles for sore mouth or flare hydration.",
+  "safetyTier": "flare-safe"
+}

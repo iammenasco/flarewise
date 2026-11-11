@@ -1,0 +1,35 @@
+{
+  "id": "ghost-whey-chips-ahoy-protein-powder-warning",
+  "name": "Ghost 100% Whey Chips Ahoy Protein Powder (WARNING)",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 4.2,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "cookie-chunks",
+    "artificial-flavors",
+    "dairy-whey-concentrate",
+    "inflammatory"
+  ],
+  "searchKeywords": [
+    "ghost whey",
+    "ghost chips ahoy",
+    "cookie protein powder",
+    "whey concentrate"
+  ],
+  "whyItWorks": "Blends whey concentrate (lactose-containing) with actual crumbled Chips Ahoy cookies (refined palm oil, wheat flour, high fructose corn syrup, and soy lecithin). Highly inflammatory and harsh on tender guts.",
+  "prepOrOrderInstructions": "AVOID during flares. Choose clean, unflavored whey isolates without bakery particulates or commercial candy chunks.",
+  "safetyTier": "danger-zone"
+}

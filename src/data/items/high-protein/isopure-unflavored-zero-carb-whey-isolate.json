@@ -1,0 +1,36 @@
+{
+  "id": "isopure-unflavored-zero-carb-whey-isolate",
+  "name": "Isopure Zero Carb Unflavored Whey Protein Isolate Powder",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "whey-protein-isolate",
+    "zero-carb",
+    "zero-lactose",
+    "additive-free",
+    "unflavored"
+  ],
+  "searchKeywords": [
+    "isopure",
+    "isopure unflavored",
+    "whey isolate",
+    "zero carb protein",
+    "pure protein powder"
+  ],
+  "whyItWorks": "Cross-flow microfiltered 100% whey protein isolate containing virtually zero lactose (<0.5g), 0g fat, 0g carbohydrates, and zero artificial sweeteners, gums, or colors. The gold-standard clean protein builder for IBD recovery.",
+  "prepOrOrderInstructions": "Whisk 1 scoop into Cream of Rice, pureed banana smoothies, or lactose-free milk.",
+  "safetyTier": "flare-safe"
+}

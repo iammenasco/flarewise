@@ -1,0 +1,36 @@
+{
+  "id": "boost-very-high-calorie-vanilla",
+  "name": "Boost Very High Calorie Shake (Nestle)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "super-high-calorie",
+    "530-calories",
+    "weight-gain",
+    "cachexia-prevention",
+    "low-volume"
+  ],
+  "searchKeywords": [
+    "boost very high calorie",
+    "boost vhc",
+    "530 calories",
+    "severe weight loss",
+    "nestle boost"
+  ],
+  "whyItWorks": "Packs a staggering 530 calories and 22g protein into just 8 fl oz. Essential for IBD patients battling severe catabolic weight loss or early satiety who cannot tolerate large volumes of solid food.",
+  "prepOrOrderInstructions": "Because of high osmolarity and calorie density, sip very slowly or dilute 50/50 with unsweetened almond or oat milk to prevent cramping.",
+  "safetyTier": "low-risk"
+}

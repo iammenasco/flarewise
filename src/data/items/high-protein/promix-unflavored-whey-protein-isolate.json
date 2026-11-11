@@ -1,0 +1,35 @@
+{
+  "id": "promix-unflavored-whey-protein-isolate",
+  "name": "Promix Unflavored Grass Fed Whey Isolate",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grass-fed-whey",
+    "two-ingredients",
+    "zero-stevia",
+    "zero-gums",
+    "unflavored"
+  ],
+  "searchKeywords": [
+    "promix whey",
+    "promix unflavored isolate",
+    "grass fed whey isolate",
+    "clean protein"
+  ],
+  "whyItWorks": "Contains just two ingredients: native cold-filtered grass-fed whey isolate and 0.75% sunflower lecithin for mixing. Completely devoid of gums, emulsifiers, artificial flavors, stevia, and lactose.",
+  "prepOrOrderInstructions": "Shake 1 scoop with cool water or lactose-free milk in a blender bottle for 15 seconds.",
+  "safetyTier": "flare-safe"
+}

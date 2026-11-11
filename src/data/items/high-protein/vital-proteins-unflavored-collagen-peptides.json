@@ -1,0 +1,37 @@
+{
+  "id": "vital-proteins-unflavored-collagen-peptides",
+  "name": "Vital Proteins Unflavored Collagen Peptides Powder",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "collagen-peptides",
+    "gut-mucosa",
+    "unflavored",
+    "zero-fiber",
+    "zero-carb",
+    "dairy-free"
+  ],
+  "searchKeywords": [
+    "vital proteins",
+    "collagen peptides",
+    "hydrolyzed collagen",
+    "bone broth protein",
+    "mucosal repair"
+  ],
+  "whyItWorks": "Hydrolyzed bovine collagen peptides providing 18g protein rich in glycine, proline, and hydroxyproline—key amino acids utilized in mucosal epithelial cell barrier synthesis. Dissolves 100% clear with zero flavor, zero fiber, and zero dairy.",
+  "prepOrOrderInstructions": "Stir 1-2 scoops into warm herbal tea, plain bone broth, oatmeal, or applesauce until completely dissolved.",
+  "safetyTier": "flare-safe"
+}

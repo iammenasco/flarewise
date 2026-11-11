@@ -1,0 +1,35 @@
+{
+  "id": "now-sports-egg-white-protein-powder",
+  "name": "NOW Sports Pure Egg White Protein Powder (Unflavored)",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "egg-white-protein",
+    "dairy-free",
+    "single-ingredient",
+    "low-fodmap",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "now egg white protein",
+    "egg white powder",
+    "dairy free protein powder",
+    "low fodmap protein"
+  ],
+  "whyItWorks": "100% pure pasteurized egg white powder with zero added flavors, sweeteners, or dairy. Provides 16g of complete, easily absorbed protein that is completely dairy-free and low-FODMAP.",
+  "prepOrOrderInstructions": "Blend with a banana, splash of pure maple syrup, and water or rice milk for a gentle smoothie.",
+  "safetyTier": "flare-safe"
+}

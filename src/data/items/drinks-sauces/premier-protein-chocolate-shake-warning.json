@@ -1,0 +1,35 @@
+{
+  "id": "premier-protein-chocolate-shake-warning",
+  "name": "Premier Protein 30g Chocolate Shake (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 5.4,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "milk-protein-concentrate",
+    "carrageenan",
+    "cellulose-gum",
+    "artificial-sweeteners"
+  ],
+  "searchKeywords": [
+    "premier protein",
+    "premier shake",
+    "premier chocolate 30g",
+    "costco premier protein"
+  ],
+  "whyItWorks": "Formulated with milk protein concentrate (retaining residual lactose), carrageenan (a known intestinal barrier disruptor in clinical models), inulin, and artificial gums that frequently induce loose stools and cramping in IBD.",
+  "prepOrOrderInstructions": "Approach with caution. If sensitive to dairy emulsifiers or carrageenan, choose pure whey isolate or hydrolyzed formulas instead.",
+  "safetyTier": "danger-zone"
+}

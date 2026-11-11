@@ -1,0 +1,38 @@
+{
+  "id": "peptamen-semi-elemental-vanilla-nestle",
+  "name": "Peptamen Semi-Elemental Peptide Formula (Nestle)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.7,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "semi-elemental",
+    "hydrolyzed-whey-peptides",
+    "mct-oil",
+    "malabsorption",
+    "clinical-nutrition"
+  ],
+  "searchKeywords": [
+    "peptamen",
+    "nestle peptamen",
+    "peptide based formula",
+    "semi-elemental",
+    "short bowel syndrome"
+  ],
+  "whyItWorks": "Enzymatically hydrolyzed 100% whey peptide formulation with 70% of fat as rapid-absorbing Medium Chain Triglycerides (MCT). Formulated specifically for patients with impaired GI function, short bowel syndrome, or extensive mucosal damage.",
+  "prepOrOrderInstructions": "Consume chilled. Sip slowly over 30 minutes.",
+  "safetyTier": "flare-safe"
+}

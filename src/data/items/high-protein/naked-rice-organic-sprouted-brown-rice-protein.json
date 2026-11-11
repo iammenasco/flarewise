@@ -1,0 +1,35 @@
+{
+  "id": "naked-rice-organic-sprouted-brown-rice-protein",
+  "name": "Naked Rice Organic Sprouted Brown Rice Protein Powder",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice-protein",
+    "single-ingredient",
+    "dairy-free",
+    "vegan-protein",
+    "hypoallergenic"
+  ],
+  "searchKeywords": [
+    "naked rice",
+    "brown rice protein powder",
+    "single ingredient vegan protein",
+    "hypoallergenic protein"
+  ],
+  "whyItWorks": "Single-ingredient sprouted brown rice protein. Extremely hypoallergenic, vegan, dairy-free, and avoids the heavy oligosaccharide fermentation and gas caused by raw pea or soy powders.",
+  "prepOrOrderInstructions": "Blend with soft banana and water. Rice protein can have a slight natural graininess; blending thoroughly yields best mouthfeel.",
+  "safetyTier": "low-risk"
+}

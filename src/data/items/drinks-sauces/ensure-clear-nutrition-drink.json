@@ -1,0 +1,38 @@
+{
+  "id": "ensure-clear-nutrition-drink",
+  "name": "Ensure Clear Mixed Berry Nutrition Drink",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "clear-liquid",
+    "fat-free",
+    "zero-fiber",
+    "pre-colonoscopy",
+    "acute-flare"
+  ],
+  "searchKeywords": [
+    "ensure clear",
+    "clear liquid diet",
+    "fat free shake",
+    "clear protein",
+    "pre-op nutrition"
+  ],
+  "whyItWorks": "A 100% fat-free, zero-fiber clear liquid nutritional supplement delivering 8g clean whey protein isolate and 180 calories. Leaves virtually zero digestive residue, making it ideal during acute flare bowel rest and clear liquid preparations.",
+  "prepOrOrderInstructions": "Chill in refrigerator and drink over ice. (Verify with your endoscopy team if colored dyes like berry are permitted for your specific colonoscopy prep window).",
+  "safetyTier": "flare-safe"
+}

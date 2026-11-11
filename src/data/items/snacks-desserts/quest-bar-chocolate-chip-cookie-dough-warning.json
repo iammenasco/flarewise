@@ -1,0 +1,36 @@
+{
+  "id": "quest-bar-chocolate-chip-cookie-dough-warning",
+  "name": "Quest Bar Chocolate Chip Cookie Dough (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 14,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "high-fiber-warning",
+    "erythritol",
+    "soluble-corn-fiber",
+    "stricture-hazard",
+    "bloating-trigger"
+  ],
+  "searchKeywords": [
+    "quest bar",
+    "quest protein bar",
+    "quest cookie dough",
+    "erythritol bar",
+    "stricture obstruction"
+  ],
+  "whyItWorks": "A major gut bomb for IBD! Contains a massive 14g of concentrated soluble corn fiber, combined with erythritol and sucralose. Soluble fibers ferment violently in the colon causing extreme gas, while the dense gummy texture poses stricture obstruction risk.",
+  "prepOrOrderInstructions": "AVOID during active Crohn's flares and strictures. If in deep remission, test a tiny 1/4 slice with plentiful water.",
+  "safetyTier": "danger-zone"
+}

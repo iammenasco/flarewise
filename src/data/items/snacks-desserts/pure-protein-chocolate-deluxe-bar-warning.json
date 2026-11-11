@@ -1,0 +1,34 @@
+{
+  "id": "pure-protein-chocolate-deluxe-bar-warning",
+  "name": "Pure Protein Chocolate Deluxe Bar (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "maltitol-warning",
+    "sugar-alcohol",
+    "osmotic-diarrhea",
+    "cramping-trigger"
+  ],
+  "searchKeywords": [
+    "pure protein bar",
+    "pure protein chocolate",
+    "maltitol diarrhea",
+    "sugar alcohol warning"
+  ],
+  "whyItWorks": "Heavily sweetened with maltitol syrup—a potent sugar alcohol (polyol) known for inducing osmotic diarrhea, violent intestinal rumbling, and painful cramps even in healthy individuals.",
+  "prepOrOrderInstructions": "AVOID if prone to diarrhea or during active flares. Check ingredients list for maltitol, sorbitol, or xylitol.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "kate-farms-pediatric-peptide-1-5",
+  "name": "Kate Farms Pediatric Peptide 1.5 Formula",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "peptide-formula",
+    "hydrolyzed",
+    "enteral-nutrition",
+    "dairy-free",
+    "hypoallergenic"
+  ],
+  "searchKeywords": [
+    "kate farms peptide",
+    "pediatric peptide",
+    "hydrolyzed protein",
+    "malabsorption",
+    "short bowel"
+  ],
+  "whyItWorks": "Enzymatically hydrolyzed pea peptide formula designed for impaired digestive tracts, severe enteritis, and malabsorption. Broken-down small peptides and MCT oil absorb effortlessly in the upper jejunum without demanding pancreatic enzyme activity.",
+  "prepOrOrderInstructions": "Keep chilled in refrigerator. Drink straight from carton or administer via enteral feeding tube as prescribed by a clinical dietitian.",
+  "safetyTier": "flare-safe"
+}

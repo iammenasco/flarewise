@@ -1,0 +1,36 @@
+{
+  "id": "vega-one-all-in-one-shake-warning",
+  "name": "Vega One All-in-One Plant Protein Shake (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "inulin-overload",
+    "cruciferous-greens",
+    "severe-gas",
+    "fodmap-trigger"
+  ],
+  "searchKeywords": [
+    "vega one",
+    "vega all in one",
+    "vega protein greens",
+    "greens powder warning",
+    "inulin powder"
+  ],
+  "whyItWorks": "Packed with chicory root inulin fiber, spirulina, chlorella, and raw kale/broccoli cruciferous powders. Guarantees severe gas distention, high-speed peristalsis, and bowel spasms in sensitive guts.",
+  "prepOrOrderInstructions": "AVOID during active flares. Greens blends and raw inulin are among the most notorious IBD flare triggers.",
+  "safetyTier": "danger-zone"
+}

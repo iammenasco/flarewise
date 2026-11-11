@@ -1,0 +1,34 @@
+{
+  "id": "orgain-clean-protein-grass-fed",
+  "name": "Orgain Clean Protein Grass Fed RTD Shake (Creamy Chocolate)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.3,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grass-fed-protein",
+    "low-sugar",
+    "clean-ingredients",
+    "ready-to-drink"
+  ],
+  "searchKeywords": [
+    "orgain clean protein",
+    "orgain grass fed",
+    "orgain rtd",
+    "20g protein shake"
+  ],
+  "whyItWorks": "Provides 20g of clean milk protein isolate that has been ultra-filtered to remove lactose, with only 1g of fiber and 3g sugar. Avoids the heavy prebiotic plant gums found in their standard plant shake.",
+  "prepOrOrderInstructions": "Chill and drink straight from carton. Great quick protein source between meals.",
+  "safetyTier": "low-risk"
+}

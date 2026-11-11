@@ -1,0 +1,36 @@
+{
+  "id": "ensure-original-vanilla-shake",
+  "name": "Ensure Original Nutrition Shake (Vanilla)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ready-to-drink",
+    "low-residue",
+    "vitamins",
+    "lactose-safe",
+    "grocery-staple"
+  ],
+  "searchKeywords": [
+    "ensure",
+    "ensure original",
+    "vanilla ensure",
+    "meal replacement",
+    "abbott nutrition"
+  ],
+  "whyItWorks": "Readily accessible oral nutritional supplement providing 220 calories, 9g protein, and essential micronutrients with minimal residue. Tested suitable for lactose intolerance (<0.5g lactose) and free of raw seeds or harsh insoluble fibers.",
+  "prepOrOrderInstructions": "Serve chilled from the fridge. Drink in small sips rather than chugging to prevent osmotic fluid shifts in the small bowel.",
+  "safetyTier": "low-risk"
+}

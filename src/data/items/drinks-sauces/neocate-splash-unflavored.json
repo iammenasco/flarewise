@@ -1,0 +1,38 @@
+{
+  "id": "neocate-splash-unflavored",
+  "name": "Neocate Splash Elemental Ready-to-Drink Formula",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.7,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "elemental-diet",
+    "100-percent-amino-acid",
+    "hypoallergenic",
+    "severe-flare",
+    "medical-nutrition"
+  ],
+  "searchKeywords": [
+    "neocate",
+    "neocate splash",
+    "elemental formula",
+    "free amino acids",
+    "severe crohns flare"
+  ],
+  "whyItWorks": "A 100% elemental formula based on free amino acids requiring zero gastrointestinal digestion. Clinically hypoallergenic, dairy-protein-free, zero fiber, and absorbed in the very first inches of the proximal small intestine.",
+  "prepOrOrderInstructions": "Drink cold straight from the Tetra Pak. Essential for strict elemental diet therapy or severe small bowel inflammation.",
+  "safetyTier": "flare-safe"
+}

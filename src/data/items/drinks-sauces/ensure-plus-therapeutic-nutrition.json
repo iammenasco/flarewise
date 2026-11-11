@@ -1,0 +1,36 @@
+{
+  "id": "ensure-plus-therapeutic-nutrition",
+  "name": "Ensure Plus Nutrition Shake (Vanilla)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "high-calorie",
+    "weight-gain",
+    "low-residue",
+    "flare-recovery",
+    "malnutrition"
+  ],
+  "searchKeywords": [
+    "ensure plus",
+    "ensure calorie dense",
+    "crohns weight loss",
+    "recovery shake",
+    "abbott"
+  ],
+  "whyItWorks": "Concentrates 350 calories and 16g protein into a compact 8 fl oz serving. An indispensable tool during Crohn's or colitis flare recovery when rapid weight loss and nutrient malabsorption occur.",
+  "prepOrOrderInstructions": "Chill thoroughly. If rich sweetness causes nausea during a flare, split one bottle into two halves consumed 3 hours apart.",
+  "safetyTier": "low-risk"
+}

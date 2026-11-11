@@ -1,0 +1,35 @@
+{
+  "id": "vital-proteins-marine-collagen-peptides",
+  "name": "Vital Proteins Marine Collagen Peptides Powder",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "marine-collagen",
+    "pescatarian",
+    "gut-lining",
+    "unflavored",
+    "clean-protein"
+  ],
+  "searchKeywords": [
+    "marine collagen",
+    "vital proteins marine",
+    "fish collagen peptides",
+    "dairy free protein"
+  ],
+  "whyItWorks": "Extracted from wild-caught white fish scales; hydrolyzed into tiny, rapidly absorbed bioactive peptides. Completely dairy-free, beef-free, and pescatarian-friendly with 0g residue.",
+  "prepOrOrderInstructions": "Mix 1 scoop into water, tea, or broth. Stir thoroughly for 20 seconds.",
+  "safetyTier": "flare-safe"
+}

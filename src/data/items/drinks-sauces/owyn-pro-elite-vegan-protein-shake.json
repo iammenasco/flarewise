@@ -1,0 +1,36 @@
+{
+  "id": "owyn-pro-elite-vegan-protein-shake",
+  "name": "OWYN Pro Elite High Protein Shake (Vanilla)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "top-9-allergen-free",
+    "dairy-free",
+    "gluten-free",
+    "vegan-protein",
+    "low-sugar"
+  ],
+  "searchKeywords": [
+    "owyn",
+    "owyn elite",
+    "only what you need",
+    "dairy free protein shake",
+    "allergen free"
+  ],
+  "whyItWorks": "Tested 100% free of top 9 allergens (dairy, soy, gluten, peanuts, tree nuts, eggs). Formulated with smooth pea and pumpkin seed protein without artificial colors or harsh chemical additives.",
+  "prepOrOrderInstructions": "Keep refrigerated and shake well before drinking.",
+  "safetyTier": "low-risk"
+}

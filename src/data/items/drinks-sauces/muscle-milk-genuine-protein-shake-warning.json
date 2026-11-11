@@ -1,0 +1,35 @@
+{
+  "id": "muscle-milk-genuine-protein-shake-warning",
+  "name": "Muscle Milk Genuine Protein Shake (Chocolate WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 4.8,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "calcium-caseinate",
+    "high-saturated-fat",
+    "maltodextrin",
+    "emulsifiers"
+  ],
+  "searchKeywords": [
+    "muscle milk",
+    "muscle milk genuine",
+    "muscle milk warning",
+    "caseinate shake"
+  ],
+  "whyItWorks": "Contains heavy calcium and sodium caseinates, high lipid oils (9g fat per bottle), maltodextrin, cellulose gum, and sucralose. Slow gastric emptying coupled with heavy casein curds often provokes upper GI distress and nausea.",
+  "prepOrOrderInstructions": "AVOID during flares. Better options are clear protein waters or hydrolyzed enteral medical drinks.",
+  "safetyTier": "danger-zone"
+}

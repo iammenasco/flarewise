@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T18:15:55.875Z",
-  "itemCount": 1673,
+  "builtAt": "2026-11-11T18:21:18.539Z",
+  "itemCount": 1708,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1280,6 +1280,45 @@
       "_sourcePath": "src/data/items/snacks-desserts/nabisco-premium-saltine-crackers.json"
     },
     {
+      "id": "neocate-splash-unflavored",
+      "name": "Neocate Splash Elemental Ready-to-Drink Formula",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.7,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "elemental-diet",
+        "100-percent-amino-acid",
+        "hypoallergenic",
+        "severe-flare",
+        "medical-nutrition"
+      ],
+      "searchKeywords": [
+        "neocate",
+        "neocate splash",
+        "elemental formula",
+        "free amino acids",
+        "severe crohns flare"
+      ],
+      "whyItWorks": "A 100% elemental formula based on free amino acids requiring zero gastrointestinal digestion. Clinically hypoallergenic, dairy-protein-free, zero fiber, and absorbed in the very first inches of the proximal small intestine.",
+      "prepOrOrderInstructions": "Drink cold straight from the Tetra Pak. Essential for strict elemental diet therapy or severe small bowel inflammation.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/neocate-splash-unflavored.json"
+    },
+    {
       "id": "pedialyte-classic-unflavored-solution",
       "name": "Pedialyte Classic Oral Electrolyte Solution",
       "categoryFolder": "drinks-sauces",
@@ -1319,6 +1358,45 @@
         "Top clinical recommendation for preventing dehydration and electrolyte imbalances."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/pedialyte-classic-unflavored-solution.json"
+    },
+    {
+      "id": "peptamen-semi-elemental-vanilla-nestle",
+      "name": "Peptamen Semi-Elemental Peptide Formula (Nestle)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.7,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "semi-elemental",
+        "hydrolyzed-whey-peptides",
+        "mct-oil",
+        "malabsorption",
+        "clinical-nutrition"
+      ],
+      "searchKeywords": [
+        "peptamen",
+        "nestle peptamen",
+        "peptide based formula",
+        "semi-elemental",
+        "short bowel syndrome"
+      ],
+      "whyItWorks": "Enzymatically hydrolyzed 100% whey peptide formulation with 70% of fat as rapid-absorbing Medium Chain Triglycerides (MCT). Formulated specifically for patients with impaired GI function, short bowel syndrome, or extensive mucosal damage.",
+      "prepOrOrderInstructions": "Consume chilled. Sip slowly over 30 minutes.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/peptamen-semi-elemental-vanilla-nestle.json"
     },
     {
       "id": "poached-boneless-skinless-chicken-breast",
@@ -1657,6 +1735,46 @@
       "_sourcePath": "src/data/items/snacks-desserts/members-mark-unsweetened-applesauce-cups.json"
     },
     {
+      "id": "modulen-ibd-nestle-health-science",
+      "name": "Modulen IBD Powdered Nutritional Formula (Nestle)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "exclusive-enteral-nutrition",
+        "crohns-specific",
+        "tgf-beta-2",
+        "low-residue",
+        "bowel-rest"
+      ],
+      "searchKeywords": [
+        "modulen ibd",
+        "nestle health science",
+        "tgf-beta",
+        "een diet",
+        "mucosal healing",
+        "pediatric crohns"
+      ],
+      "whyItWorks": "Specifically developed for Crohn's disease dietary management and Exclusive Enteral Nutrition (EEN). Rich in naturally occurring bioactive TGF-beta 2, a cytokine demonstrated in clinical trials to reduce mucosal inflammation and promote gut mucosal healing.",
+      "prepOrOrderInstructions": "Mix measured scoops with cool filtered water using a shaker bottle or blender on low speed. Do not boil or use hot liquids to protect the delicate TGF-beta proteins.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/modulen-ibd-nestle-health-science.json"
+    },
+    {
       "id": "smooth-unsweetened-applesauce-cup",
       "name": "Smooth Unsweetened Applesauce Cup",
       "categoryFolder": "produce-sides",
@@ -1785,6 +1903,44 @@
         "Completely unbreaded and lean; safe for acute flares, strictures, and remission."
       ],
       "_sourcePath": "src/data/items/frozen-aisle/tyson-grilled-ready-chicken-breast-strips.json"
+    },
+    {
+      "id": "vital-proteins-unflavored-collagen-peptides",
+      "name": "Vital Proteins Unflavored Collagen Peptides Powder",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "collagen-peptides",
+        "gut-mucosa",
+        "unflavored",
+        "zero-fiber",
+        "zero-carb",
+        "dairy-free"
+      ],
+      "searchKeywords": [
+        "vital proteins",
+        "collagen peptides",
+        "hydrolyzed collagen",
+        "bone broth protein",
+        "mucosal repair"
+      ],
+      "whyItWorks": "Hydrolyzed bovine collagen peptides providing 18g protein rich in glycine, proline, and hydroxyproline—key amino acids utilized in mucosal epithelial cell barrier synthesis. Dissolves 100% clear with zero flavor, zero fiber, and zero dairy.",
+      "prepOrOrderInstructions": "Stir 1-2 scoops into warm herbal tea, plain bone broth, oatmeal, or applesauce until completely dissolved.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/vital-proteins-unflavored-collagen-peptides.json"
     },
     {
       "id": "dcl-room-service-chicken-noodle-soup",
@@ -2540,6 +2696,43 @@
       "_sourcePath": "src/data/items/drinks-sauces/golden-milk-turmeric-oat-latte.json"
     },
     {
+      "id": "great-lakes-unflavored-gelatin-powder",
+      "name": "Great Lakes Wellness Pure Unflavored Beef Gelatin",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "gelatin",
+        "pure-protein",
+        "gut-soothing",
+        "flare-safe-dessert",
+        "homemade-jello"
+      ],
+      "searchKeywords": [
+        "great lakes gelatin",
+        "beef gelatin",
+        "unflavored gelatin",
+        "collagen gelatin",
+        "gummy squares"
+      ],
+      "whyItWorks": "100% pure bovine gelatin that coats and soothes inflamed mucosal linings. Zero carbs, zero sugar, zero fiber, and provides gentle protein that gels liquids into tender, digest-safe fruit gelatin treats.",
+      "prepOrOrderInstructions": "Bloom 1 tbsp in cold water for 3 minutes, then dissolve in warm 100% apple or white grape juice and chill in fridge until set.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/great-lakes-unflavored-gelatin-powder.json"
+    },
+    {
       "id": "greek-avgolemono-egg-velvet-soup",
       "name": "Greek Avgolemono (Egg-Velvet Chicken & Rice Soup)",
       "categoryFolder": "italian-med",
@@ -2742,6 +2935,43 @@
       "whyItWorks": "Thick white wheat udon noodles are ultra-soft and slippery; mild dashi and soy broth settles cramps and restores electrolytes.",
       "prepOrOrderInstructions": "Simmer pre-cooked vacuum-packed udon noodles in chicken broth with a splash of soy sauce and mirin. Top with thinly sliced skinless chicken breast and swirled egg drop.",
       "_sourcePath": "src/data/items/asian-indian/japanese-chicken-udon-soup.json"
+    },
+    {
+      "id": "kate-farms-pediatric-peptide-1-5",
+      "name": "Kate Farms Pediatric Peptide 1.5 Formula",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "peptide-formula",
+        "hydrolyzed",
+        "enteral-nutrition",
+        "dairy-free",
+        "hypoallergenic"
+      ],
+      "searchKeywords": [
+        "kate farms peptide",
+        "pediatric peptide",
+        "hydrolyzed protein",
+        "malabsorption",
+        "short bowel"
+      ],
+      "whyItWorks": "Enzymatically hydrolyzed pea peptide formula designed for impaired digestive tracts, severe enteritis, and malabsorption. Broken-down small peptides and MCT oil absorb effortlessly in the upper jejunum without demanding pancreatic enzyme activity.",
+      "prepOrOrderInstructions": "Keep chilled in refrigerator. Drink straight from carton or administer via enteral feeding tube as prescribed by a clinical dietitian.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/kate-farms-pediatric-peptide-1-5.json"
     },
     {
       "id": "kirkland-signature-organic-alaskan-sockeye-salmon-filets",
@@ -4040,6 +4270,43 @@
       "_sourcePath": "src/data/items/produce-sides/holiday-creamy-mashed-idaho-potatoes.json"
     },
     {
+      "id": "isopure-unflavored-zero-carb-whey-isolate",
+      "name": "Isopure Zero Carb Unflavored Whey Protein Isolate Powder",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "whey-protein-isolate",
+        "zero-carb",
+        "zero-lactose",
+        "additive-free",
+        "unflavored"
+      ],
+      "searchKeywords": [
+        "isopure",
+        "isopure unflavored",
+        "whey isolate",
+        "zero carb protein",
+        "pure protein powder"
+      ],
+      "whyItWorks": "Cross-flow microfiltered 100% whey protein isolate containing virtually zero lactose (<0.5g), 0g fat, 0g carbohydrates, and zero artificial sweeteners, gums, or colors. The gold-standard clean protein builder for IBD recovery.",
+      "prepOrOrderInstructions": "Whisk 1 scoop into Cream of Rice, pureed banana smoothies, or lactose-free milk.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/isopure-unflavored-zero-carb-whey-isolate.json"
+    },
+    {
       "id": "kirkland-signature-canned-pink-salmon-wild-alaska",
       "name": "Kirkland Signature Wild Alaska Pink Salmon (Canned in Water)",
       "categoryFolder": "high-protein",
@@ -4493,6 +4760,42 @@
       "_sourcePath": "src/data/items/high-protein/towneplace-suites-draper-hard-boiled-eggs.json"
     },
     {
+      "id": "vital-proteins-marine-collagen-peptides",
+      "name": "Vital Proteins Marine Collagen Peptides Powder",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "marine-collagen",
+        "pescatarian",
+        "gut-lining",
+        "unflavored",
+        "clean-protein"
+      ],
+      "searchKeywords": [
+        "marine collagen",
+        "vital proteins marine",
+        "fish collagen peptides",
+        "dairy free protein"
+      ],
+      "whyItWorks": "Extracted from wild-caught white fish scales; hydrolyzed into tiny, rapidly absorbed bioactive peptides. Completely dairy-free, beef-free, and pescatarian-friendly with 0g residue.",
+      "prepOrOrderInstructions": "Mix 1 scoop into water, tea, or broth. Stir thoroughly for 20 seconds.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/vital-proteins-marine-collagen-peptides.json"
+    },
+    {
       "id": "wonder-classic-white-sandwich-bread",
       "name": "Wonder Classic White Sandwich Bread (Ultra-Soft)",
       "categoryFolder": "lunch",
@@ -4921,6 +5224,45 @@
       "_sourcePath": "src/data/items/dinner/holiday-scratch-turkey-gravy-white-rice.json"
     },
     {
+      "id": "kate-farms-standard-1-4-plain",
+      "name": "Kate Farms Standard 1.4 Nutritional Formula (Plain)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "enteral-nutrition",
+        "dairy-free",
+        "gluten-free",
+        "soy-free",
+        "medical-food",
+        "high-calorie"
+      ],
+      "searchKeywords": [
+        "kate farms",
+        "standard 1.4",
+        "enteral formula",
+        "tube feeding",
+        "oral supplement",
+        "liquid diet"
+      ],
+      "whyItWorks": "Plant-based complete medical nutrition drink formulated with hydrolyzed organic pea protein and MCT oil, completely free from dairy, gluten, soy, corn, and artificial sweeteners. Widely tolerated during active Crohn's flares and EEN protocols without provoking bowel distress.",
+      "prepOrOrderInstructions": "Shake carton vigorously and serve chilled or room temperature. Sip slowly over 30 to 45 minutes to optimize osmotic absorption and avoid rapid GI transit.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/kate-farms-standard-1-4-plain.json"
+    },
+    {
       "id": "kirkland-signature-canned-white-albacore-tuna-in-water",
       "name": "Kirkland Signature Solid White Albacore Tuna in Water (Canned 8-Pack)",
       "categoryFolder": "high-protein",
@@ -5165,6 +5507,42 @@
         "Crucial stricture safety rule: NEVER eat the baked potato skin! Potato skins are insoluble cellulose that cannot be digested."
       ],
       "_sourcePath": "src/data/items/produce-sides/baked-russet-potato-flesh-only.json"
+    },
+    {
+      "id": "promix-unflavored-whey-protein-isolate",
+      "name": "Promix Unflavored Grass Fed Whey Isolate",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grass-fed-whey",
+        "two-ingredients",
+        "zero-stevia",
+        "zero-gums",
+        "unflavored"
+      ],
+      "searchKeywords": [
+        "promix whey",
+        "promix unflavored isolate",
+        "grass fed whey isolate",
+        "clean protein"
+      ],
+      "whyItWorks": "Contains just two ingredients: native cold-filtered grass-fed whey isolate and 0.75% sunflower lecithin for mixing. Completely devoid of gums, emulsifiers, artificial flavors, stevia, and lactose.",
+      "prepOrOrderInstructions": "Shake 1 scoop with cool water or lactose-free milk in a blender bottle for 15 seconds.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/promix-unflavored-whey-protein-isolate.json"
     },
     {
       "id": "sams-club-cafe-rotisserie-chicken",
@@ -5541,6 +5919,45 @@
         "The sourdough bread itself is 9.5/10 flare-safe and dairy-free; Clam Chowder and Mac & Cheese fillings contain dairy and require lactase"
       ],
       "_sourcePath": "src/data/items/lunch/dca-aunt-cass-boudin-sourdough-bread-bowl.json"
+    },
+    {
+      "id": "ensure-clear-nutrition-drink",
+      "name": "Ensure Clear Mixed Berry Nutrition Drink",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "clear-liquid",
+        "fat-free",
+        "zero-fiber",
+        "pre-colonoscopy",
+        "acute-flare"
+      ],
+      "searchKeywords": [
+        "ensure clear",
+        "clear liquid diet",
+        "fat free shake",
+        "clear protein",
+        "pre-op nutrition"
+      ],
+      "whyItWorks": "A 100% fat-free, zero-fiber clear liquid nutritional supplement delivering 8g clean whey protein isolate and 180 calories. Leaves virtually zero digestive residue, making it ideal during acute flare bowel rest and clear liquid preparations.",
+      "prepOrOrderInstructions": "Chill in refrigerator and drink over ice. (Verify with your endoscopy team if colored dyes like berry are permitted for your specific colonoscopy prep window).",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/ensure-clear-nutrition-drink.json"
     },
     {
       "id": "heinz-homestyle-savory-turkey-gravy",
@@ -6463,6 +6880,43 @@
       "_sourcePath": "src/data/items/dinner/bamboohr-thomas2go-hot-entree-protein-rice-station.json"
     },
     {
+      "id": "boost-breeze-fruit-nutritional-drink",
+      "name": "Boost Breeze Fruit Nutritional Drink (Orange/Peach/Wild Berry)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "clear-liquid",
+        "fat-free",
+        "zero-residue",
+        "whey-isolate",
+        "medical-nutrition"
+      ],
+      "searchKeywords": [
+        "boost breeze",
+        "nestle boost breeze",
+        "clear liquid protein",
+        "fat free supplement"
+      ],
+      "whyItWorks": "Fruit-flavored clear liquid medical beverage offering 250 calories and 9g high-quality whey protein isolate per 8 fl oz carton. Fat-free, cholesterol-free, and fiber-free for frictionless bowel transit.",
+      "prepOrOrderInstructions": "Best served very cold over ice or frozen into digestive-safe popsicles for sore mouth or flare hydration.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/boost-breeze-fruit-nutritional-drink.json"
+    },
+    {
       "id": "dca-carthay-circle-filet-fish-parker-house-rolls",
       "name": "DCA Carthay Circle Restaurant Sustainable Fish or Filet Mignon & Warm Cheddar Parker House Rolls",
       "categoryFolder": "dinner",
@@ -6884,6 +7338,42 @@
         "Use smooth Boysenberry Jelly (strained juice + pectin) rather than whole-berry Boysenberry Preserves (which contain gritty seeds)"
       ],
       "_sourcePath": "src/data/items/lunch/knotts-mrs-knotts-chicken-noodle-soup-biscuits.json"
+    },
+    {
+      "id": "now-sports-egg-white-protein-powder",
+      "name": "NOW Sports Pure Egg White Protein Powder (Unflavored)",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "egg-white-protein",
+        "dairy-free",
+        "single-ingredient",
+        "low-fodmap",
+        "zero-fiber"
+      ],
+      "searchKeywords": [
+        "now egg white protein",
+        "egg white powder",
+        "dairy free protein powder",
+        "low fodmap protein"
+      ],
+      "whyItWorks": "100% pure pasteurized egg white powder with zero added flavors, sweeteners, or dairy. Provides 16g of complete, easily absorbed protein that is completely dairy-free and low-FODMAP.",
+      "prepOrOrderInstructions": "Blend with a banana, splash of pure maple syrup, and water or rice milk for a gentle smoothie.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/now-sports-egg-white-protein-powder.json"
     },
     {
       "id": "oscar-mayer-deli-fresh-oven-roasted-turkey",
@@ -11294,6 +11784,42 @@
       "_sourcePath": "src/data/items/breakfast/dcl-room-service-continental-breakfast.json"
     },
     {
+      "id": "rule1-r1-protein-isolate-vanilla",
+      "name": "Rule 1 R1 Naturally Flavored Whey Isolate (Vanilla)",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "whey-isolate",
+        "hydrolysate",
+        "fast-absorbing",
+        "zero-fat",
+        "low-lactose"
+      ],
+      "searchKeywords": [
+        "rule 1 protein",
+        "r1 isolate",
+        "rule one whey",
+        "pure isolate"
+      ],
+      "whyItWorks": "100% whey isolate and hydrolysate blend with 0g sugar, 0g fat, 0g fiber, and negligible lactose. Gentle on digestion without causing gas or heaviness.",
+      "prepOrOrderInstructions": "Mix 1 scoop with 8 oz cold water or unsweetened almond milk.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/rule1-r1-protein-isolate-vanilla.json"
+    },
+    {
       "id": "sabores-logan-beef-pho-noodle-soup",
       "name": "Sabores Vietnamese Beef Pho Rice Noodle Soup (No Lime/Jalapeño Mod)",
       "categoryFolder": "lunch",
@@ -14323,6 +14849,78 @@
       "_sourcePath": "src/data/items/lunch/disneyland-jolly-holiday-turkey-sandwich.json"
     },
     {
+      "id": "drink-wholesome-egg-white-protein-powder",
+      "name": "Drink Wholesome Egg White Protein Powder (Vanilla)",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ibd-friendly",
+        "simple-ingredients",
+        "egg-white",
+        "coconut-sugar",
+        "no-gums"
+      ],
+      "searchKeywords": [
+        "drink wholesome",
+        "sensitive stomach protein",
+        "egg white vanilla",
+        "no artificial ingredients"
+      ],
+      "whyItWorks": "Formulated specifically for individuals with IBD, IBS, and sensitive stomachs. Made with only egg whites, chickpeas/coconut, monk fruit, and vanilla bean—zero gums, emulsifiers, artificial flavors, or sugar alcohols.",
+      "prepOrOrderInstructions": "Shake or blend 1 scoop with 8-10 oz water or plant milk.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/drink-wholesome-egg-white-protein-powder.json"
+    },
+    {
+      "id": "ensure-compact-nutrition-shake",
+      "name": "Ensure Compact Therapeutic Nutrition (4 fl oz)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "low-volume",
+        "concentrated-calories",
+        "gastroparesis-friendly",
+        "lactose-safe"
+      ],
+      "searchKeywords": [
+        "ensure compact",
+        "4 oz ensure",
+        "concentrated shake",
+        "early satiety",
+        "abbott"
+      ],
+      "whyItWorks": "Condenses 220 calories and 9g protein into just 4 fluid ounces (half the normal volume). Ideal for patients who experience rapid fullness, nausea, or abdominal distention when consuming standard 8 oz liquid cans.",
+      "prepOrOrderInstructions": "Chill and drink in just a few sips with meals or medications.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/ensure-compact-nutrition-shake.json"
+    },
+    {
       "id": "herms-inn-logan-scrambled-eggs-and-sourdough",
       "name": "Fluffy Scrambled Eggs with Toasted Sourdough & Jam",
       "categoryFolder": "breakfast",
@@ -15625,6 +16223,79 @@
       "_sourcePath": "src/data/items/produce-sides/disneyland-troubadour-tavern-baked-potato.json"
     },
     {
+      "id": "dymatize-iso100-hydrolyzed-whey-vanilla",
+      "name": "Dymatize ISO100 Hydrolyzed Whey Protein Powder (Gourmet Vanilla)",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "hydrolyzed-whey",
+        "iso100",
+        "rapid-absorption",
+        "low-lactose",
+        "zero-fiber"
+      ],
+      "searchKeywords": [
+        "dymatize iso100",
+        "hydrolyzed whey isolate",
+        "iso 100 vanilla",
+        "gym protein flare safe"
+      ],
+      "whyItWorks": "Pre-hydrolyzed whey protein isolate that breaks long polypeptide chains into smaller peptide fractions for lightning-fast enzymatic assimilation. Contains <0.5g lactose and zero fiber.",
+      "prepOrOrderInstructions": "Mix 1 scoop into 6-8 oz water or lactose-free milk using a handheld frother or shaker.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/dymatize-iso100-hydrolyzed-whey-vanilla.json"
+    },
+    {
+      "id": "ensure-original-vanilla-shake",
+      "name": "Ensure Original Nutrition Shake (Vanilla)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ready-to-drink",
+        "low-residue",
+        "vitamins",
+        "lactose-safe",
+        "grocery-staple"
+      ],
+      "searchKeywords": [
+        "ensure",
+        "ensure original",
+        "vanilla ensure",
+        "meal replacement",
+        "abbott nutrition"
+      ],
+      "whyItWorks": "Readily accessible oral nutritional supplement providing 220 calories, 9g protein, and essential micronutrients with minimal residue. Tested suitable for lactose intolerance (<0.5g lactose) and free of raw seeds or harsh insoluble fibers.",
+      "prepOrOrderInstructions": "Serve chilled from the fridge. Drink in small sips rather than chugging to prevent osmotic fluid shifts in the small bowel.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/ensure-original-vanilla-shake.json"
+    },
+    {
       "id": "fresh-cantaloupe-melon-slices",
       "name": "Fresh Cantaloupe Slices (Rockmelon)",
       "categoryFolder": "produce-sides",
@@ -16516,6 +17187,42 @@
         "Standard Black Bear portions are massive—order from the smaller \"Grizzly/Cub/Little Less\" section and ask for gravy on the side"
       ],
       "_sourcePath": "src/data/items/dinner/black-bear-diner-draper-american-fork-roast-turkey-pot-roast-pancakes.json"
+    },
+    {
+      "id": "boost-original-rich-chocolate",
+      "name": "Boost Original Complete Nutritional Drink (Rich Chocolate)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ready-to-drink",
+        "low-residue",
+        "chocolate-drink",
+        "vitamins",
+        "nestle"
+      ],
+      "searchKeywords": [
+        "boost chocolate",
+        "boost original",
+        "nestle boost",
+        "chocolate meal replacement"
+      ],
+      "whyItWorks": "Nutritionally complete meal drink with 240 calories and 10g protein. Suitable for lactose intolerance, gluten-free, and delivers 27 key vitamins and minerals including zinc and vitamin D.",
+      "prepOrOrderInstructions": "Serve cold. Shake carton well prior to opening.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/boost-original-rich-chocolate.json"
     },
     {
       "id": "broulims-montpelier-fresh-sushi-california-roll",
@@ -19997,6 +20704,43 @@
       "_sourcePath": "src/data/items/dinner/enriques-port-wine-braised-short-rib.json"
     },
     {
+      "id": "ensure-plus-therapeutic-nutrition",
+      "name": "Ensure Plus Nutrition Shake (Vanilla)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "high-calorie",
+        "weight-gain",
+        "low-residue",
+        "flare-recovery",
+        "malnutrition"
+      ],
+      "searchKeywords": [
+        "ensure plus",
+        "ensure calorie dense",
+        "crohns weight loss",
+        "recovery shake",
+        "abbott"
+      ],
+      "whyItWorks": "Concentrates 350 calories and 16g protein into a compact 8 fl oz serving. An indispensable tool during Crohn's or colitis flare recovery when rapid weight loss and nutrient malabsorption occur.",
+      "prepOrOrderInstructions": "Chill thoroughly. If rich sweetness causes nausea during a flare, split one bottle into two halves consumed 3 hours apart.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/ensure-plus-therapeutic-nutrition.json"
+    },
+    {
       "id": "eye-scream-sweet-minnies-soft-serve-cone",
       "name": "Eye Scream / Sweet Minnie's Soft-Serve Ice Cream",
       "categoryFolder": "snacks-desserts",
@@ -21372,6 +22116,42 @@
         "Ask for mayo or pesto-free spread on the side"
       ],
       "_sourcePath": "src/data/items/lunch/mortys-cafe-logan-turkey-bacon-sandwich.json"
+    },
+    {
+      "id": "naked-rice-organic-sprouted-brown-rice-protein",
+      "name": "Naked Rice Organic Sprouted Brown Rice Protein Powder",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rice-protein",
+        "single-ingredient",
+        "dairy-free",
+        "vegan-protein",
+        "hypoallergenic"
+      ],
+      "searchKeywords": [
+        "naked rice",
+        "brown rice protein powder",
+        "single ingredient vegan protein",
+        "hypoallergenic protein"
+      ],
+      "whyItWorks": "Single-ingredient sprouted brown rice protein. Extremely hypoallergenic, vegan, dairy-free, and avoids the heavy oligosaccharide fermentation and gas caused by raw pea or soy powders.",
+      "prepOrOrderInstructions": "Blend with soft banana and water. Rice protein can have a slight natural graininess; blending thoroughly yields best mouthfeel.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/naked-rice-organic-sprouted-brown-rice-protein.json"
     },
     {
       "id": "animators-roasted-salmon-celeriac-puree",
@@ -25318,6 +26098,43 @@
       "_sourcePath": "src/data/items/lunch/mad-moose-cafe-eden-turkey-havarti-panini.json"
     },
     {
+      "id": "owyn-pro-elite-vegan-protein-shake",
+      "name": "OWYN Pro Elite High Protein Shake (Vanilla)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "top-9-allergen-free",
+        "dairy-free",
+        "gluten-free",
+        "vegan-protein",
+        "low-sugar"
+      ],
+      "searchKeywords": [
+        "owyn",
+        "owyn elite",
+        "only what you need",
+        "dairy free protein shake",
+        "allergen free"
+      ],
+      "whyItWorks": "Tested 100% free of top 9 allergens (dairy, soy, gluten, peanuts, tree nuts, eggs). Formulated with smooth pea and pumpkin seed protein without artificial colors or harsh chemical additives.",
+      "prepOrOrderInstructions": "Keep refrigerated and shake well before drinking.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/owyn-pro-elite-vegan-protein-shake.json"
+    },
+    {
       "id": "disneyland-pixar-place-hotel-great-maple-pancakes-chicken-donuts",
       "name": "Pixar Place Hotel Great Maple Modern American Eatery: Buttermilk Pancakes, Eggs, Salmon & Famous Maple Bacon Donuts",
       "categoryFolder": "breakfast",
@@ -26851,6 +27668,41 @@
       "_sourcePath": "src/data/items/lunch/labeaus-garden-city-grilled-ham-and-cheese-sourdough.json"
     },
     {
+      "id": "orgain-clean-protein-grass-fed",
+      "name": "Orgain Clean Protein Grass Fed RTD Shake (Creamy Chocolate)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.3,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grass-fed-protein",
+        "low-sugar",
+        "clean-ingredients",
+        "ready-to-drink"
+      ],
+      "searchKeywords": [
+        "orgain clean protein",
+        "orgain grass fed",
+        "orgain rtd",
+        "20g protein shake"
+      ],
+      "whyItWorks": "Provides 20g of clean milk protein isolate that has been ultra-filtered to remove lactose, with only 1g of fiber and 3g sugar. Avoids the heavy prebiotic plant gums found in their standard plant shake.",
+      "prepOrOrderInstructions": "Chill and drink straight from carton. Great quick protein source between meals.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/orgain-clean-protein-grass-fed.json"
+    },
+    {
       "id": "portos-bakery-buena-park-sweet-cheese-roll",
       "name": "Porto's Bakery (Buena Park, CA) Famous Sweet Cream Cheese Roll (Porto's #1 Icon)",
       "categoryFolder": "breakfast",
@@ -27992,6 +28844,42 @@
         "Take lactase if ordering fresh mozzarella pizza, and skip spicy pepperoni/calabrian chili toppings"
       ],
       "_sourcePath": "src/data/items/italian-med/disneyland-downtown-disney-naples-ristorante-margherita-plain-pasta.json"
+    },
+    {
+      "id": "fairlife-core-power-elite-strawberry",
+      "name": "Fairlife Core Power Elite High Protein Shake (Strawberry)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ultra-filtered-milk",
+        "lactose-free",
+        "42g-protein",
+        "smooth-texture",
+        "zero-fiber"
+      ],
+      "searchKeywords": [
+        "fairlife core power",
+        "core power 42g",
+        "core power elite",
+        "lactose free high protein"
+      ],
+      "whyItWorks": "Made with ultra-filtered fairlife milk treated with lactase enzyme (0g lactose) delivering 42g of high-biological-value whey and casein protein with 0g fiber. Exceptionally creamy and easily digested by lactose-sensitive guts.",
+      "prepOrOrderInstructions": "Chill ice-cold in the fridge and drink half or a whole bottle after workouts or as a morning protein boost.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/fairlife-core-power-elite-strawberry.json"
     },
     {
       "id": "roasted-peeled-red-bell-peppers",
@@ -30245,6 +31133,43 @@
         "Fibrous broccolini stems"
       ],
       "_sourcePath": "src/data/items/high-protein/big-daddys-roasted-prime-rib.json"
+    },
+    {
+      "id": "boost-very-high-calorie-vanilla",
+      "name": "Boost Very High Calorie Shake (Nestle)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "super-high-calorie",
+        "530-calories",
+        "weight-gain",
+        "cachexia-prevention",
+        "low-volume"
+      ],
+      "searchKeywords": [
+        "boost very high calorie",
+        "boost vhc",
+        "530 calories",
+        "severe weight loss",
+        "nestle boost"
+      ],
+      "whyItWorks": "Packs a staggering 530 calories and 22g protein into just 8 fl oz. Essential for IBD patients battling severe catabolic weight loss or early satiety who cannot tolerate large volumes of solid food.",
+      "prepOrOrderInstructions": "Because of high osmolarity and calorie density, sip very slowly or dilute 50/50 with unsweetened almond or oat milk to prevent cramping.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/boost-very-high-calorie-vanilla.json"
     },
     {
       "id": "captains-gala-braised-oxtail-soup",
@@ -59888,6 +60813,42 @@
       "_sourcePath": "src/data/items/dinner/members-mark-all-beef-cocktail-meatballs-sweet-chili-warning.json"
     },
     {
+      "id": "premier-protein-chocolate-shake-warning",
+      "name": "Premier Protein 30g Chocolate Shake (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 5.4,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "milk-protein-concentrate",
+        "carrageenan",
+        "cellulose-gum",
+        "artificial-sweeteners"
+      ],
+      "searchKeywords": [
+        "premier protein",
+        "premier shake",
+        "premier chocolate 30g",
+        "costco premier protein"
+      ],
+      "whyItWorks": "Formulated with milk protein concentrate (retaining residual lactose), carrageenan (a known intestinal barrier disruptor in clinical models), inulin, and artificial gums that frequently induce loose stools and cramping in IBD.",
+      "prepOrOrderInstructions": "Approach with caution. If sensitive to dairy emulsifiers or carrageenan, choose pure whey isolate or hydrolyzed formulas instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/premier-protein-chocolate-shake-warning.json"
+    },
+    {
       "id": "aubergine-kitchen-warm-acai-bowl-seeds-warning",
       "name": "Aubergine Kitchen (Orem & Lehi, UT) Signature Açai Smoothie Bowl (Seed & Granola Warning)",
       "categoryFolder": "breakfast",
@@ -62868,6 +63829,42 @@
       "_sourcePath": "src/data/items/frozen-aisle/marie-callenders-chicken-pot-pie-warning.json"
     },
     {
+      "id": "muscle-milk-genuine-protein-shake-warning",
+      "name": "Muscle Milk Genuine Protein Shake (Chocolate WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 4.8,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "calcium-caseinate",
+        "high-saturated-fat",
+        "maltodextrin",
+        "emulsifiers"
+      ],
+      "searchKeywords": [
+        "muscle milk",
+        "muscle milk genuine",
+        "muscle milk warning",
+        "caseinate shake"
+      ],
+      "whyItWorks": "Contains heavy calcium and sodium caseinates, high lipid oils (9g fat per bottle), maltodextrin, cellulose gum, and sucralose. Slow gastric emptying coupled with heavy casein curds often provokes upper GI distress and nausea.",
+      "prepOrOrderInstructions": "AVOID during flares. Better options are clear protein waters or hydrolyzed enteral medical drinks.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/muscle-milk-genuine-protein-shake-warning.json"
+    },
+    {
       "id": "disneyland-cafe-orleans-pommes-frites-warning",
       "name": "Pommes Frites with Garlic, Parmesan & Cajun Remoulade",
       "categoryFolder": "produce-sides",
@@ -64413,6 +65410,42 @@
       "_sourcePath": "src/data/items/dinner/tianas-new-orleans-seafood-pepper-pot.json"
     },
     {
+      "id": "orgain-organic-plant-based-protein-powder-warning",
+      "name": "Orgain Organic Plant-Based Protein Powder (WARNING)",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 4.5,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "erythritol-warning",
+        "raw-pea-protein",
+        "guar-gum",
+        "fermentation-bloat"
+      ],
+      "searchKeywords": [
+        "orgain plant protein",
+        "orgain vanilla powder",
+        "erythritol bloating",
+        "pea protein gas"
+      ],
+      "whyItWorks": "Combines raw pea protein, brown rice, chia seeds, erythritol (sugar alcohol), and thick acacia/guar gums. Creates high osmotic draw and intense microbial gas fermentation in the large intestine.",
+      "prepOrOrderInstructions": "Exercise caution if prone to gas and distention. Switch to hydrolyzed collagen or pure egg white protein isolate instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/orgain-organic-plant-based-protein-powder-warning.json"
+    },
+    {
       "id": "til-we-meet-again-portobello-moussaka-vegetable-strudel",
       "name": "Portobello Mushroom Moussaka & Lentil Vegetable Strudel ('Til We Meet Again)",
       "categoryFolder": "dinner",
@@ -65352,6 +66385,42 @@
         "Hard walnut pieces pose acute stricture blockage risks; heavy cocoa accelerates bowel urgency."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/fudgy-chocolate-brownie-with-walnuts-warning.json"
+    },
+    {
+      "id": "ghost-whey-chips-ahoy-protein-powder-warning",
+      "name": "Ghost 100% Whey Chips Ahoy Protein Powder (WARNING)",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 4.2,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "cookie-chunks",
+        "artificial-flavors",
+        "dairy-whey-concentrate",
+        "inflammatory"
+      ],
+      "searchKeywords": [
+        "ghost whey",
+        "ghost chips ahoy",
+        "cookie protein powder",
+        "whey concentrate"
+      ],
+      "whyItWorks": "Blends whey concentrate (lactose-containing) with actual crumbled Chips Ahoy cookies (refined palm oil, wheat flour, high fructose corn syrup, and soy lecithin). Highly inflammatory and harsh on tender guts.",
+      "prepOrOrderInstructions": "AVOID during flares. Choose clean, unflavored whey isolates without bakery particulates or commercial candy chunks.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/ghost-whey-chips-ahoy-protein-powder-warning.json"
     },
     {
       "id": "hidden-valley-original-ranch-warning",
@@ -66538,6 +67607,42 @@
       "_sourcePath": "src/data/items/lunch/some-beaches-laketown-double-bacon-cheeseburger-warning.json"
     },
     {
+      "id": "garden-of-life-raw-organic-protein-warning",
+      "name": "Garden of Life Raw Organic Protein Powder (WARNING)",
+      "categoryFolder": "high-protein",
+      "crohnsScore": 3.8,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "raw-sprouts",
+        "cracked-seeds",
+        "insoluble-fiber",
+        "mechanical-irritant"
+      ],
+      "searchKeywords": [
+        "garden of life raw",
+        "raw organic protein",
+        "garden of life shake",
+        "sprouted protein warning"
+      ],
+      "whyItWorks": "Contains raw sprouted grains, cracked chia seeds, flax seeds, raw legume sprouts, and live enzymes. The gritty, abrasive raw particulate matter mechanically irritates ulcerated mucosa and causes severe bloating.",
+      "prepOrOrderInstructions": "AVOID during active inflammation, ulcerations, or stricturing Crohn's disease.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/garden-of-life-raw-organic-protein-warning.json"
+    },
+    {
       "id": "green-giant-simply-steam-broccoli-cheese-warning",
       "name": "Green Giant Simply Steam Broccoli in Cheese Sauce (High Sulfur & Dairy Warning)",
       "categoryFolder": "frozen-aisle",
@@ -66660,6 +67765,41 @@
         "A leading clinical trigger for acute small bowel obstruction requiring emergency hospitalization."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/whole-raw-almonds-walnuts-stricture-warning.json"
+    },
+    {
+      "id": "vital-performance-protein-bar-warning",
+      "name": "Vital Performance Protein Bar (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "crohnsScore": 3.7,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 7,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "whole-nuts",
+        "chicory-root",
+        "stricture-risk",
+        "chewy-protein-bar"
+      ],
+      "searchKeywords": [
+        "vital performance bar",
+        "vital proteins bar",
+        "collagen bar warning",
+        "nut chunks"
+      ],
+      "whyItWorks": "While collagen itself is gut-friendly, this bar binds it with chicory root fiber, whole nut pieces (almonds/peanuts), and chewy syrups that present severe blockage dangers for strictured bowels.",
+      "prepOrOrderInstructions": "Stick to unflavored pure collagen powder dissolved in warm liquids rather than fibrous solid protein bars.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/vital-performance-protein-bar-warning.json"
     },
     {
       "id": "cafe-sabor-garden-city-deep-fried-chimichanga-warning",
@@ -67313,6 +68453,41 @@
       "_sourcePath": "src/data/items/diner-bbq/pool-deck-chili-dog-bratwurst.json"
     },
     {
+      "id": "pure-protein-chocolate-deluxe-bar-warning",
+      "name": "Pure Protein Chocolate Deluxe Bar (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "maltitol-warning",
+        "sugar-alcohol",
+        "osmotic-diarrhea",
+        "cramping-trigger"
+      ],
+      "searchKeywords": [
+        "pure protein bar",
+        "pure protein chocolate",
+        "maltitol diarrhea",
+        "sugar alcohol warning"
+      ],
+      "whyItWorks": "Heavily sweetened with maltitol syrup—a potent sugar alcohol (polyol) known for inducing osmotic diarrhea, violent intestinal rumbling, and painful cramps even in healthy individuals.",
+      "prepOrOrderInstructions": "AVOID if prone to diarrhea or during active flares. Check ingredients list for maltitol, sorbitol, or xylitol.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/pure-protein-chocolate-deluxe-bar-warning.json"
+    },
+    {
       "id": "raw-celery-sticks-warning",
       "name": "Raw Celery Sticks (Stringy Insoluble Fiber Warning)",
       "categoryFolder": "produce-sides",
@@ -67725,6 +68900,43 @@
         "Heavy frying batter combined with whole raw onion rings causes severe colonic spasms and gas colic."
       ],
       "_sourcePath": "src/data/items/frozen-aisle/ore-ida-crispy-onion-rings-warning.json"
+    },
+    {
+      "id": "quest-bar-chocolate-chip-cookie-dough-warning",
+      "name": "Quest Bar Chocolate Chip Cookie Dough (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 14,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "high-fiber-warning",
+        "erythritol",
+        "soluble-corn-fiber",
+        "stricture-hazard",
+        "bloating-trigger"
+      ],
+      "searchKeywords": [
+        "quest bar",
+        "quest protein bar",
+        "quest cookie dough",
+        "erythritol bar",
+        "stricture obstruction"
+      ],
+      "whyItWorks": "A major gut bomb for IBD! Contains a massive 14g of concentrated soluble corn fiber, combined with erythritol and sucralose. Soluble fibers ferment violently in the colon causing extreme gas, while the dense gummy texture poses stricture obstruction risk.",
+      "prepOrOrderInstructions": "AVOID during active Crohn's flares and strictures. If in deep remission, test a tiny 1/4 slice with plentiful water.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/quest-bar-chocolate-chip-cookie-dough-warning.json"
     },
     {
       "id": "raw-cabbage-coleslaw-warning",
@@ -68609,6 +69821,43 @@
       "_sourcePath": "src/data/items/asian-indian/dca-lucky-fortune-spicy-dan-dan-noodles-warning.json"
     },
     {
+      "id": "vega-one-all-in-one-shake-warning",
+      "name": "Vega One All-in-One Plant Protein Shake (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "inulin-overload",
+        "cruciferous-greens",
+        "severe-gas",
+        "fodmap-trigger"
+      ],
+      "searchKeywords": [
+        "vega one",
+        "vega all in one",
+        "vega protein greens",
+        "greens powder warning",
+        "inulin powder"
+      ],
+      "whyItWorks": "Packed with chicory root inulin fiber, spirulina, chlorella, and raw kale/broccoli cruciferous powders. Guarantees severe gas distention, high-speed peristalsis, and bowel spasms in sensitive guts.",
+      "prepOrOrderInstructions": "AVOID during active flares. Greens blends and raw inulin are among the most notorious IBD flare triggers.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/vega-one-all-in-one-shake-warning.json"
+    },
+    {
       "id": "animators-arugula-beet-orange-salad",
       "name": "Arugula Leaves with Red Beets & Orange Segments",
       "categoryFolder": "dinner",
@@ -68688,6 +69937,41 @@
         "Severe mechanical obstruction risk requiring emergency surgical decompression."
       ],
       "_sourcePath": "src/data/items/produce-sides/fresh-pomegranate-arils-stricture-hazard.json"
+    },
+    {
+      "id": "lenny-and-larrys-complete-cookie-warning",
+      "name": "Lenny & Larry's The Complete Cookie (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 10,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "chicory-root-inulin",
+        "dense-fiber",
+        "heavy-oils",
+        "gas-bomb"
+      ],
+      "searchKeywords": [
+        "lenny and larrys",
+        "complete cookie",
+        "vegan protein cookie",
+        "chicory root fiber cookie"
+      ],
+      "whyItWorks": "Each 4 oz cookie delivers 10g of chicory root fiber (inulin), vital wheat gluten, and heavy vegetable fats. The massive dose of prebiotic fructans rapidly ferments, producing intense bloating and diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. A notorious trigger for emergency flare visits and prolonged gastrointestinal agony.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/lenny-and-larrys-complete-cookie-warning.json"
     },
     {
       "id": "malt-o-meal-frosted-mini-spooners",

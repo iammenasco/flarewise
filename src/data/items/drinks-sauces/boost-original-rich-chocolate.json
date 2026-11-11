@@ -1,0 +1,35 @@
+{
+  "id": "boost-original-rich-chocolate",
+  "name": "Boost Original Complete Nutritional Drink (Rich Chocolate)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ready-to-drink",
+    "low-residue",
+    "chocolate-drink",
+    "vitamins",
+    "nestle"
+  ],
+  "searchKeywords": [
+    "boost chocolate",
+    "boost original",
+    "nestle boost",
+    "chocolate meal replacement"
+  ],
+  "whyItWorks": "Nutritionally complete meal drink with 240 calories and 10g protein. Suitable for lactose intolerance, gluten-free, and delivers 27 key vitamins and minerals including zinc and vitamin D.",
+  "prepOrOrderInstructions": "Serve cold. Shake carton well prior to opening.",
+  "safetyTier": "low-risk"
+}

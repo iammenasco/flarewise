@@ -1,0 +1,34 @@
+{
+  "id": "vital-performance-protein-bar-warning",
+  "name": "Vital Performance Protein Bar (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 3.7,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 7,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "whole-nuts",
+    "chicory-root",
+    "stricture-risk",
+    "chewy-protein-bar"
+  ],
+  "searchKeywords": [
+    "vital performance bar",
+    "vital proteins bar",
+    "collagen bar warning",
+    "nut chunks"
+  ],
+  "whyItWorks": "While collagen itself is gut-friendly, this bar binds it with chicory root fiber, whole nut pieces (almonds/peanuts), and chewy syrups that present severe blockage dangers for strictured bowels.",
+  "prepOrOrderInstructions": "Stick to unflavored pure collagen powder dissolved in warm liquids rather than fibrous solid protein bars.",
+  "safetyTier": "danger-zone"
+}

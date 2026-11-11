@@ -1,0 +1,34 @@
+{
+  "id": "lenny-and-larrys-complete-cookie-warning",
+  "name": "Lenny & Larry's The Complete Cookie (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 10,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "chicory-root-inulin",
+    "dense-fiber",
+    "heavy-oils",
+    "gas-bomb"
+  ],
+  "searchKeywords": [
+    "lenny and larrys",
+    "complete cookie",
+    "vegan protein cookie",
+    "chicory root fiber cookie"
+  ],
+  "whyItWorks": "Each 4 oz cookie delivers 10g of chicory root fiber (inulin), vital wheat gluten, and heavy vegetable fats. The massive dose of prebiotic fructans rapidly ferments, producing intense bloating and diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. A notorious trigger for emergency flare visits and prolonged gastrointestinal agony.",
+  "safetyTier": "danger-zone"
+}

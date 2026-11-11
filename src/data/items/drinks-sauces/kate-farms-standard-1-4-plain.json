@@ -1,0 +1,38 @@
+{
+  "id": "kate-farms-standard-1-4-plain",
+  "name": "Kate Farms Standard 1.4 Nutritional Formula (Plain)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "enteral-nutrition",
+    "dairy-free",
+    "gluten-free",
+    "soy-free",
+    "medical-food",
+    "high-calorie"
+  ],
+  "searchKeywords": [
+    "kate farms",
+    "standard 1.4",
+    "enteral formula",
+    "tube feeding",
+    "oral supplement",
+    "liquid diet"
+  ],
+  "whyItWorks": "Plant-based complete medical nutrition drink formulated with hydrolyzed organic pea protein and MCT oil, completely free from dairy, gluten, soy, corn, and artificial sweeteners. Widely tolerated during active Crohn's flares and EEN protocols without provoking bowel distress.",
+  "prepOrOrderInstructions": "Shake carton vigorously and serve chilled or room temperature. Sip slowly over 30 to 45 minutes to optimize osmotic absorption and avoid rapid GI transit.",
+  "safetyTier": "flare-safe"
+}

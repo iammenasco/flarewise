@@ -1,0 +1,35 @@
+{
+  "id": "garden-of-life-raw-organic-protein-warning",
+  "name": "Garden of Life Raw Organic Protein Powder (WARNING)",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 3.8,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "raw-sprouts",
+    "cracked-seeds",
+    "insoluble-fiber",
+    "mechanical-irritant"
+  ],
+  "searchKeywords": [
+    "garden of life raw",
+    "raw organic protein",
+    "garden of life shake",
+    "sprouted protein warning"
+  ],
+  "whyItWorks": "Contains raw sprouted grains, cracked chia seeds, flax seeds, raw legume sprouts, and live enzymes. The gritty, abrasive raw particulate matter mechanically irritates ulcerated mucosa and causes severe bloating.",
+  "prepOrOrderInstructions": "AVOID during active inflammation, ulcerations, or stricturing Crohn's disease.",
+  "safetyTier": "danger-zone"
+}

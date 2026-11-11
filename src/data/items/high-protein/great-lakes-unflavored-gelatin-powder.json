@@ -1,0 +1,36 @@
+{
+  "id": "great-lakes-unflavored-gelatin-powder",
+  "name": "Great Lakes Wellness Pure Unflavored Beef Gelatin",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "gelatin",
+    "pure-protein",
+    "gut-soothing",
+    "flare-safe-dessert",
+    "homemade-jello"
+  ],
+  "searchKeywords": [
+    "great lakes gelatin",
+    "beef gelatin",
+    "unflavored gelatin",
+    "collagen gelatin",
+    "gummy squares"
+  ],
+  "whyItWorks": "100% pure bovine gelatin that coats and soothes inflamed mucosal linings. Zero carbs, zero sugar, zero fiber, and provides gentle protein that gels liquids into tender, digest-safe fruit gelatin treats.",
+  "prepOrOrderInstructions": "Bloom 1 tbsp in cold water for 3 minutes, then dissolve in warm 100% apple or white grape juice and chill in fridge until set.",
+  "safetyTier": "flare-safe"
+}

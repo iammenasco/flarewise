@@ -1,0 +1,35 @@
+{
+  "id": "dymatize-iso100-hydrolyzed-whey-vanilla",
+  "name": "Dymatize ISO100 Hydrolyzed Whey Protein Powder (Gourmet Vanilla)",
+  "categoryFolder": "high-protein",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "hydrolyzed-whey",
+    "iso100",
+    "rapid-absorption",
+    "low-lactose",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "dymatize iso100",
+    "hydrolyzed whey isolate",
+    "iso 100 vanilla",
+    "gym protein flare safe"
+  ],
+  "whyItWorks": "Pre-hydrolyzed whey protein isolate that breaks long polypeptide chains into smaller peptide fractions for lightning-fast enzymatic assimilation. Contains <0.5g lactose and zero fiber.",
+  "prepOrOrderInstructions": "Mix 1 scoop into 6-8 oz water or lactose-free milk using a handheld frother or shaker.",
+  "safetyTier": "low-risk"
+}

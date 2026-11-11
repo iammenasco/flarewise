@@ -1,0 +1,35 @@
+{
+  "id": "ensure-compact-nutrition-shake",
+  "name": "Ensure Compact Therapeutic Nutrition (4 fl oz)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "low-volume",
+    "concentrated-calories",
+    "gastroparesis-friendly",
+    "lactose-safe"
+  ],
+  "searchKeywords": [
+    "ensure compact",
+    "4 oz ensure",
+    "concentrated shake",
+    "early satiety",
+    "abbott"
+  ],
+  "whyItWorks": "Condenses 220 calories and 9g protein into just 4 fluid ounces (half the normal volume). Ideal for patients who experience rapid fullness, nausea, or abdominal distention when consuming standard 8 oz liquid cans.",
+  "prepOrOrderInstructions": "Chill and drink in just a few sips with meals or medications.",
+  "safetyTier": "low-risk"
+}

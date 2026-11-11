@@ -1,0 +1,35 @@
+{
+  "id": "fairlife-core-power-elite-strawberry",
+  "name": "Fairlife Core Power Elite High Protein Shake (Strawberry)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ultra-filtered-milk",
+    "lactose-free",
+    "42g-protein",
+    "smooth-texture",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "fairlife core power",
+    "core power 42g",
+    "core power elite",
+    "lactose free high protein"
+  ],
+  "whyItWorks": "Made with ultra-filtered fairlife milk treated with lactase enzyme (0g lactose) delivering 42g of high-biological-value whey and casein protein with 0g fiber. Exceptionally creamy and easily digested by lactose-sensitive guts.",
+  "prepOrOrderInstructions": "Chill ice-cold in the fridge and drink half or a whole bottle after workouts or as a morning protein boost.",
+  "safetyTier": "low-risk"
+}
