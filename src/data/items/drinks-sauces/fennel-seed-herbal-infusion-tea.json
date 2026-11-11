@@ -1,0 +1,35 @@
+{
+  "id": "fennel-seed-herbal-infusion-tea",
+  "name": "Organic Sweet Fennel Seed Herbal Infusion Tea",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fennel-tea",
+    "gas-relief",
+    "anti-spasmodic",
+    "carminative",
+    "bloating-relief"
+  ],
+  "searchKeywords": [
+    "fennel tea",
+    "sweet fennel",
+    "anti bloating tea",
+    "gas relief tea",
+    "carminative"
+  ],
+  "whyItWorks": "Crushed sweet fennel seeds (*Foeniculum vulgare*) contain volatile oils rich in anethole, fenchone, and estragole. These compounds relax the smooth muscle tissue of the intestinal wall, helping trapped gas dissipate gently without spasms.",
+  "prepOrOrderInstructions": "Steep 1 tea bag in freshly boiled water for 10 minutes. Sip slowly after meals to release painful postprandial gas.",
+  "safetyTier": "low-risk"
+}

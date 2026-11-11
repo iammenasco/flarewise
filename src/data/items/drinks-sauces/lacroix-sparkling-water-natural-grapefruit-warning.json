@@ -1,0 +1,34 @@
+{
+  "id": "lacroix-sparkling-water-natural-grapefruit-warning",
+  "name": "LaCroix Sparkling Water (Pamplemousse / Grapefruit WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 6.2,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "carbonation",
+    "gas-distention",
+    "citrus-oils",
+    "reflux-trigger"
+  ],
+  "searchKeywords": [
+    "lacroix",
+    "sparkling water warning",
+    "pamplemousse lacroix",
+    "carbonated water crohns"
+  ],
+  "whyItWorks": "Intense carbonic acid fizz expands in the stomach and small intestine, causing painful gaseous distension, hiccups, and bloating. Grapefruit oil essences can irritate tender esophagus and gastric linings.",
+  "prepOrOrderInstructions": "AVOID during active flares. If drinking in remission, pour over ice and let sit for 10 minutes to decarbonate.",
+  "safetyTier": "danger-zone"
+}

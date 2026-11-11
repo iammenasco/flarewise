@@ -1,0 +1,36 @@
+{
+  "id": "traditional-medicinals-throat-coat-slippery-elm",
+  "name": "Traditional Medicinals Throat Coat Tea (Slippery Elm & Licorice)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "slippery-elm",
+    "marshmallow-root",
+    "mucilage",
+    "gut-coating",
+    "herbal-medicine"
+  ],
+  "searchKeywords": [
+    "throat coat tea",
+    "slippery elm tea",
+    "mucilage tea",
+    "gut coating tea",
+    "marshmallow tea"
+  ],
+  "whyItWorks": "Contains wild-harvested slippery elm inner bark, organic marshmallow root, and sweet licorice root. The high concentration of natural mucilage polysaccharides creates a soothing, protective gel coating across inflamed mucosal tissue.",
+  "prepOrOrderInstructions": "Pour 8 oz boiling water over tea bag and cover with a lid. Steep for a full 10-15 minutes, then gently squeeze the bag to express the viscous, mucosal-protective herbal extract.",
+  "safetyTier": "flare-safe"
+}

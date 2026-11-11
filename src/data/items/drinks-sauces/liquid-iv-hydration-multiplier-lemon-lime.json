@@ -1,0 +1,35 @@
+{
+  "id": "liquid-iv-hydration-multiplier-lemon-lime",
+  "name": "Liquid I.V. Hydration Multiplier (Lemon Lime)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "oral-rehydration",
+    "electrolyte-powder",
+    "sodium-glucose-cotransport",
+    "flare-hydration",
+    "rapid-absorption"
+  ],
+  "searchKeywords": [
+    "liquid iv",
+    "hydration multiplier",
+    "liquid iv lemon lime",
+    "ors powder",
+    "dehydration relief"
+  ],
+  "whyItWorks": "Engineered on the World Health Organization (WHO) Oral Rehydration Solution guidelines, using Cellular Transport Technology (CTT). The precise 2:1 ratio of glucose to sodium activates the SGLT1 transporter in the small bowel, pulling water into the bloodstream without demanding digestive exertion.",
+  "prepOrOrderInstructions": "Mix 1 packet into exactly 16 oz of cool water. Do not over-dilute or concentrate, as precise osmolarity maximizes rapid intestinal absorption.",
+  "safetyTier": "flare-safe"
+}

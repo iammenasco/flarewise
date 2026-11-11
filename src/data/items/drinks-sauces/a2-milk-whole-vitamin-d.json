@@ -1,0 +1,34 @@
+{
+  "id": "a2-milk-whole-vitamin-d",
+  "name": "The a2 Milk Company Whole Milk (100% A2 Protein)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 7.7,
+  "mealTypes": [
+    "breakfast",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "a2-protein",
+    "natural-dairy",
+    "no-a1-beta-casein",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "a2 milk",
+    "a2 whole milk",
+    "beta casein milk",
+    "easy digest real milk"
+  ],
+  "whyItWorks": "Produced from selected cows that naturally produce only the A2 beta-casein protein variant, completely avoiding the A1 protein that cleaves into the inflammatory opioid peptide BCM-7. Shown in clinical trials to reduce digestive discomfort compared to standard milk.",
+  "prepOrOrderInstructions": "Consume in remission. NOTE: If you are lactose-intolerant, take a lactase enzyme tablet with your first sip since A2 milk contains natural milk sugars.",
+  "safetyTier": "low-risk"
+}

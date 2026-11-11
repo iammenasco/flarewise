@@ -1,0 +1,33 @@
+{
+  "id": "reeds-real-ginger-ale-zero-sugar-warning",
+  "name": "Reed's Real Ginger Ale (Zero Sugar WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 3.8,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "erythritol-warning",
+    "pungent-gingerol",
+    "carbonation",
+    "sugar-alcohol"
+  ],
+  "searchKeywords": [
+    "reeds ginger ale zero",
+    "diet ginger ale warning",
+    "erythritol ginger ale"
+  ],
+  "whyItWorks": "While ginger is therapeutic, Reed's uses an intensely spicy ginger brew combined with erythritol and stevia. The combination of intense pungent heat and sugar alcohol creates burning sensations and osmotic diarrhea.",
+  "prepOrOrderInstructions": "AVOID zero-sugar ginger beers with sugar alcohols. Drink warm freshly brewed ginger tea with pure honey instead.",
+  "safetyTier": "danger-zone"
+}

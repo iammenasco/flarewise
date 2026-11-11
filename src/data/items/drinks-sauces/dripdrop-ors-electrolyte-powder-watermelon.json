@@ -1,0 +1,34 @@
+{
+  "id": "dripdrop-ors-electrolyte-powder-watermelon",
+  "name": "DripDrop ORS Electrolyte Powder (Watermelon)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ors",
+    "clinical-hydration",
+    "low-osmolarity",
+    "physician-developed",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "drip drop",
+    "dripdrop ors",
+    "oral rehydration powder",
+    "fast hydration"
+  ],
+  "whyItWorks": "Physician-developed oral rehydration formula with half the sugar of sports drinks and 3x the electrolytes. Its low osmolarity (220 mOsm/L) prevents osmotic fluid shifts into the bowel lumen, delivering rapid relief from flare dehydration.",
+  "prepOrOrderInstructions": "Stir 1 packet into 8 oz cold water and sip steadily over 20 minutes.",
+  "safetyTier": "flare-safe"
+}

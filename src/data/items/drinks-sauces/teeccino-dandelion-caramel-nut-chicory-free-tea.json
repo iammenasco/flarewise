@@ -1,0 +1,35 @@
+{
+  "id": "teeccino-dandelion-caramel-nut-chicory-free-tea",
+  "name": "Teeccino Dandelion Caramel Nut Herbal Tea (Chicory-Free)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "breakfast",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicory-free",
+    "dandelion-tea",
+    "coffee-flavor",
+    "alkaline",
+    "zero-caffeine"
+  ],
+  "searchKeywords": [
+    "teeccino dandelion",
+    "chicory free teeccino",
+    "herbal coffee",
+    "non acidic coffee"
+  ],
+  "whyItWorks": "Specifically blended for sensitive stomachs and IBD patients who must avoid prebiotic chicory root inulin. Made with roasted dandelion root, carob, and natural nut flavors; entirely alkaline and non-acidic.",
+  "prepOrOrderInstructions": "Brew in a standard coffee maker or steep tea bag in boiling water for 5 minutes. Stir in unsweetened oat or almond milk.",
+  "safetyTier": "low-risk"
+}

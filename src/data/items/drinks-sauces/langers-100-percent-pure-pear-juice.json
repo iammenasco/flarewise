@@ -1,0 +1,35 @@
+{
+  "id": "langers-100-percent-pure-pear-juice",
+  "name": "Langers 100% Pure Pear Juice",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pear-juice",
+    "low-acidity",
+    "gentle-fruit",
+    "vitamins",
+    "hydrating"
+  ],
+  "searchKeywords": [
+    "langers pear juice",
+    "pure pear juice",
+    "gentle juice crohns",
+    "pear nectar"
+  ],
+  "whyItWorks": "Pure pear juice provides natural hydration and mild fructose/glucose balance with very low acid. Pear is known to be one of the least allergenic and least irritating fruits for the human gut.",
+  "prepOrOrderInstructions": "Pour 4 oz over a tall glass of ice and top with filtered cold water. Refreshing and gentle on sensitive stomachs.",
+  "safetyTier": "low-risk"
+}

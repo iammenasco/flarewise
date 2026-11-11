@@ -1,0 +1,35 @@
+{
+  "id": "oatly-low-fat-oatmilk-chilled",
+  "name": "Oatly Low-Fat Oatmilk (Chilled Carton)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "breakfast",
+    "drink"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "oat-milk",
+    "low-fat",
+    "dairy-free",
+    "nut-free",
+    "soluble-fiber"
+  ],
+  "searchKeywords": [
+    "oatly low fat",
+    "oatmilk",
+    "dairy free milk alternative",
+    "nut free milk"
+  ],
+  "whyItWorks": "Crafted with enzymatic hydrolysis of gluten-free oats, containing only 0.5g of fat per serving and zero dairy lactose or nuts. The soluble oat beta-glucan is gentle and silky on tender intestines.",
+  "prepOrOrderInstructions": "Shake carton well and keep refrigerated. Excellent for baking or stirring into decaf coffee.",
+  "safetyTier": "low-risk"
+}

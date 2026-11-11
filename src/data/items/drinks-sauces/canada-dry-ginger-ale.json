@@ -1,0 +1,36 @@
+{
+  "id": "canada-dry-ginger-ale",
+  "name": "Canada Dry Ginger Ale (Classic)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Keurig Dr Pepper",
+  "crohnsScore": 7.6,
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ginger-ale",
+    "mild-soda",
+    "nausea-comfort",
+    "low-residue",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "canada dry",
+    "ginger ale",
+    "soda for upset stomach",
+    "flat ginger ale"
+  ],
+  "whyItWorks": "A classic mild carbonated beverage with real ginger extract. Free from caffeine, citrus acids, and dairy; has comforted nausea for generations.",
+  "prepOrOrderInstructions": "During flare symptoms or nausea, pour into a glass and stir with a spoon for 30 seconds to let it go flat before sipping.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "poppi-prebiotic-soda-strawberry-lemon-warning",
+  "name": "Poppi Prebiotic Soda Strawberry Lemon (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 3.1,
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "agave-inulin",
+    "apple-cider-vinegar",
+    "carbonation",
+    "gas-trigger"
+  ],
+  "searchKeywords": [
+    "poppi",
+    "poppi soda warning",
+    "prebiotic soda",
+    "apple cider vinegar drink"
+  ],
+  "whyItWorks": "Combines carbonated water with unfiltered apple cider vinegar, agave inulin, natural lemon flavors, and stevia. Acetic acid plus prebiotic fructans and carbonation can aggravate mucosal erosion and generate sudden intestinal cramps.",
+  "prepOrOrderInstructions": "AVOID during active inflammation or strictures. Choose plain water, herbal tea, or flat diluted juices.",
+  "safetyTier": "danger-zone"
+}

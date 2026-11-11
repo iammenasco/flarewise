@@ -1,0 +1,32 @@
+{
+  "id": "dr-browns-cel-ray-soda-warning",
+  "name": "Dr. Brown's Cel-Ray Soda (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "celery-seed-extract",
+    "carbonation",
+    "high-fructose-corn-syrup"
+  ],
+  "searchKeywords": [
+    "cel ray soda",
+    "dr browns cel-ray",
+    "celery soda warning"
+  ],
+  "whyItWorks": "Made with concentrated celery seed extract, intense artificial carbonation, and high-fructose corn syrup. Celery seed oils and sharp carbonation produce gastric distension, belching, and colonic irritation.",
+  "prepOrOrderInstructions": "AVOID during active flares.",
+  "safetyTier": "danger-zone"
+}

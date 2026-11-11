@@ -1,0 +1,35 @@
+{
+  "id": "vita-coco-pure-coconut-water-original",
+  "name": "Vita Coco Pure Coconut Water (Original)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "coconut-water",
+    "potassium-rich",
+    "natural-electrolytes",
+    "zero-pulp",
+    "hydration"
+  ],
+  "searchKeywords": [
+    "vita coco",
+    "coconut water original",
+    "potassium drink",
+    "natural hydration"
+  ],
+  "whyItWorks": "Pure natural coconut water with zero pulp, delivering 470mg of potassium and essential trace minerals per cup. Helps restore intracellular potassium lost through frequent loose stools without artificial dyes or syrups.",
+  "prepOrOrderInstructions": "Drink cold. If unaccustomed to coconut water, start with half a carton to ensure your colon adapts comfortably to natural potassium loads.",
+  "safetyTier": "low-risk"
+}

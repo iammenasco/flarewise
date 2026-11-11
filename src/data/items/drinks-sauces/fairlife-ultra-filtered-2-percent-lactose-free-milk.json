@@ -1,0 +1,36 @@
+{
+  "id": "fairlife-ultra-filtered-2-percent-lactose-free-milk",
+  "name": "Fairlife Ultra-Filtered 2% Reduced Fat Milk (Lactose-Free)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "breakfast",
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ultra-filtered-milk",
+    "lactose-free",
+    "high-protein",
+    "calcium-rich",
+    "creamy"
+  ],
+  "searchKeywords": [
+    "fairlife 2 percent",
+    "fairlife milk",
+    "lactose free real milk",
+    "high protein milk"
+  ],
+  "whyItWorks": "Real dairy milk passed through patented soft filters that concentrate natural protein (13g/cup) and calcium while removing half the sugars, treated with lactase enzyme so it is 100% lactose-free. Easily absorbed nutrition.",
+  "prepOrOrderInstructions": "Drink cold from the fridge. Ideal for patients who crave the taste of real dairy without lactose bloating.",
+  "safetyTier": "low-risk"
+}

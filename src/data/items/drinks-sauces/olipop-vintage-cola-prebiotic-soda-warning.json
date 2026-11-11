@@ -1,0 +1,36 @@
+{
+  "id": "olipop-vintage-cola-prebiotic-soda-warning",
+  "name": "Olipop Vintage Cola Prebiotic Soda (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 2.3,
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 9,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "prebiotic-inulin-warning",
+    "cassava-fiber",
+    "severe-gas",
+    "bloating-trigger"
+  ],
+  "searchKeywords": [
+    "olipop",
+    "olipop warning",
+    "prebiotic soda crohns",
+    "inulin soda",
+    "chicory root fiber soda"
+  ],
+  "whyItWorks": "Marketed as \"gut healthy,\" each can delivers 9g of prebiotic fiber derived from chicory root inulin, Jerusalem artichoke, and cassava root, plus carbonation. Prebiotic inulin rapidly ferments in the colon, producing severe gas, painful distention, and cramping.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Prebiotic sodas are among the most deceptive flare triggers for patients with Crohn's disease, Ulcerative Colitis, and SIBO.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mountain-dew-citrus-soda-warning",
+  "name": "Mountain Dew Citrus Soda (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "PepsiCo",
+  "crohnsScore": 2.1,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "high-caffeine",
+    "citric-acid",
+    "high-fructose-corn-syrup",
+    "yellow-5"
+  ],
+  "searchKeywords": [
+    "mountain dew",
+    "citrus soda warning",
+    "mtn dew crohns",
+    "caffeine soda"
+  ],
+  "whyItWorks": "A triple assault on the digestive tract: 54mg caffeine per can stimulates hypermotility and bile secretion, heavy citric acid and carbonation inflame the gut lining, and 46g high fructose corn syrup exerts high osmotic fluid draw.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. If craving carbonation in remission, choose flat water with a splash of apple juice.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "buddha-teas-organic-marshmallow-root-tea",
+  "name": "Buddha Teas Organic Pure Marshmallow Root Tea",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pure-marshmallow-root",
+    "anti-inflammatory",
+    "mucilaginous",
+    "caffeine-free",
+    "single-herb"
+  ],
+  "searchKeywords": [
+    "marshmallow root tea",
+    "buddha teas marshmallow",
+    "pure marshmallow root",
+    "mucosal healer"
+  ],
+  "whyItWorks": "100% pure organic Althaea officinalis root. Exceptionally gentle, anti-inflammatory, and creates a slippery protective barrier that calms irritated bowel linings, relaxes smooth muscle spasm, and eases tenesmus.",
+  "prepOrOrderInstructions": "Steep in hot water for 10 minutes. Can also be cold-brewed in the fridge overnight for maximum extraction of heat-sensitive mucilage.",
+  "safetyTier": "flare-safe"
+}

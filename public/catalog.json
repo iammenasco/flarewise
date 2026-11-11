@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T18:23:31.740Z",
-  "itemCount": 1743,
+  "builtAt": "2026-11-11T18:40:02.289Z",
+  "itemCount": 1775,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1111,6 +1111,42 @@
       "_sourcePath": "src/data/items/drinks-sauces/extra-virgin-olive-oil-cold-pressed.json"
     },
     {
+      "id": "cera-lyte-rice-based-oral-electrolyte-solution",
+      "name": "CeraLyte 70 Rice-Based Oral Rehydration Solution",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.7,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rice-based-ors",
+        "short-bowel-syndrome",
+        "high-output-stoma",
+        "clinical-gold-standard",
+        "stool-reducing"
+      ],
+      "searchKeywords": [
+        "ceralyte",
+        "cera lyte 70",
+        "rice ors",
+        "short bowel rehydration",
+        "ostomy output reduction"
+      ],
+      "whyItWorks": "The clinical gold-standard ORS for short bowel syndrome, severe Crohn's enteritis, and high-output ileostomies. Uses rice carbohydrate polymers instead of simple sugars, allowing continuous enzyme-mediated sodium absorption that reduces stool volume and stops diarrhea.",
+      "prepOrOrderInstructions": "Mix 1 packet with 32 oz (1 liter) of clean water. Sip throughout the day as prescribed by your gastroenterologist or GI dietitian.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/cera-lyte-rice-based-oral-electrolyte-solution.json"
+    },
+    {
       "id": "holiday-leftover-turkey-bone-broth-noodle-soup",
       "name": "Holiday Leftover Homemade Turkey Carcass Bone Broth & Egg Noodle Soup",
       "categoryFolder": "lunch",
@@ -1819,6 +1855,43 @@
       "_sourcePath": "src/data/items/produce-sides/smooth-unsweetened-applesauce-cup.json"
     },
     {
+      "id": "traditional-medicinals-throat-coat-slippery-elm",
+      "name": "Traditional Medicinals Throat Coat Tea (Slippery Elm & Licorice)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "slippery-elm",
+        "marshmallow-root",
+        "mucilage",
+        "gut-coating",
+        "herbal-medicine"
+      ],
+      "searchKeywords": [
+        "throat coat tea",
+        "slippery elm tea",
+        "mucilage tea",
+        "gut coating tea",
+        "marshmallow tea"
+      ],
+      "whyItWorks": "Contains wild-harvested slippery elm inner bark, organic marshmallow root, and sweet licorice root. The high concentration of natural mucilage polysaccharides creates a soothing, protective gel coating across inflamed mucosal tissue.",
+      "prepOrOrderInstructions": "Pour 8 oz boiling water over tea bag and cover with a lid. Steep for a full 10-15 minutes, then gently squeeze the bag to express the viscous, mucosal-protective herbal extract.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/traditional-medicinals-throat-coat-slippery-elm.json"
+    },
+    {
       "id": "twinings-pure-chamomile-herbal-tea",
       "name": "Twinings Pure Chamomile Herbal Tea (Caffeine-Free Antispasmodic)",
       "categoryFolder": "drinks-sauces",
@@ -1989,6 +2062,41 @@
         "Leave any fibrous celery pieces at the bottom of the bowl if mid-flare"
       ],
       "_sourcePath": "src/data/items/lunch/dcl-room-service-chicken-noodle-soup.json"
+    },
+    {
+      "id": "buddha-teas-organic-marshmallow-root-tea",
+      "name": "Buddha Teas Organic Pure Marshmallow Root Tea",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pure-marshmallow-root",
+        "anti-inflammatory",
+        "mucilaginous",
+        "caffeine-free",
+        "single-herb"
+      ],
+      "searchKeywords": [
+        "marshmallow root tea",
+        "buddha teas marshmallow",
+        "pure marshmallow root",
+        "mucosal healer"
+      ],
+      "whyItWorks": "100% pure organic Althaea officinalis root. Exceptionally gentle, anti-inflammatory, and creates a slippery protective barrier that calms irritated bowel linings, relaxes smooth muscle spasm, and eases tenesmus.",
+      "prepOrOrderInstructions": "Steep in hot water for 10 minutes. Can also be cold-brewed in the fridge overnight for maximum extraction of heat-sensitive mucilage.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/buddha-teas-organic-marshmallow-root-tea.json"
     },
     {
       "id": "cabanas-marceline-carving-station-roast-turkey-beef",
@@ -5046,6 +5154,41 @@
       "_sourcePath": "src/data/items/produce-sides/canned-sliced-carrots-del-monte.json"
     },
     {
+      "id": "dripdrop-ors-electrolyte-powder-watermelon",
+      "name": "DripDrop ORS Electrolyte Powder (Watermelon)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ors",
+        "clinical-hydration",
+        "low-osmolarity",
+        "physician-developed",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "drip drop",
+        "dripdrop ors",
+        "oral rehydration powder",
+        "fast hydration"
+      ],
+      "whyItWorks": "Physician-developed oral rehydration formula with half the sugar of sports drinks and 3x the electrolytes. Its low osmolarity (220 mOsm/L) prevents osmotic fluid shifts into the bowel lumen, delivering rapid relief from flare dehydration.",
+      "prepOrOrderInstructions": "Stir 1 packet into 8 oz cold water and sip steadily over 20 minutes.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/dripdrop-ors-electrolyte-powder-watermelon.json"
+    },
+    {
       "id": "fody-foods-low-fodmap-ketchup",
       "name": "Fody Foods Low-FODMAP Tomato Ketchup (No Onion, No Garlic)",
       "categoryFolder": "drinks-sauces",
@@ -5581,6 +5724,44 @@
       "prepOrOrderInstructions": "Shake 1 scoop with cool water or lactose-free milk in a blender bottle for 15 seconds.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/high-protein/promix-unflavored-whey-protein-isolate.json"
+    },
+    {
+      "id": "rice-dream-classic-original-rice-milk",
+      "name": "Rice Dream Classic Original Rice Drink (Shelf Stable)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "breakfast",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rice-milk",
+        "hypoallergenic",
+        "dairy-free",
+        "nut-free",
+        "soy-free",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "rice dream",
+        "rice milk",
+        "hypoallergenic milk",
+        "gentle plant milk",
+        "flare safe milk"
+      ],
+      "whyItWorks": "One of the most hypoallergenic milk alternatives on the planet. Naturally sweet from partially milled brown rice, free from dairy, soy, nuts, and gluten, with very low fat and minimal residue.",
+      "prepOrOrderInstructions": "Pour cold over breakfast cereal or drink plain. The gold standard plant milk during acute flare recoveries.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/rice-dream-classic-original-rice-milk.json"
     },
     {
       "id": "sams-club-cafe-rotisserie-chicken",
@@ -7333,6 +7514,42 @@
         "Completely hull-free; safe for strictures unlike whole sweet corn."
       ],
       "_sourcePath": "src/data/items/breakfast/kelloggs-corn-flakes-original.json"
+    },
+    {
+      "id": "liquid-iv-hydration-multiplier-lemon-lime",
+      "name": "Liquid I.V. Hydration Multiplier (Lemon Lime)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "oral-rehydration",
+        "electrolyte-powder",
+        "sodium-glucose-cotransport",
+        "flare-hydration",
+        "rapid-absorption"
+      ],
+      "searchKeywords": [
+        "liquid iv",
+        "hydration multiplier",
+        "liquid iv lemon lime",
+        "ors powder",
+        "dehydration relief"
+      ],
+      "whyItWorks": "Engineered on the World Health Organization (WHO) Oral Rehydration Solution guidelines, using Cellular Transport Technology (CTT). The precise 2:1 ratio of glucose to sodium activates the SGLT1 transporter in the small bowel, pulling water into the bloodstream without demanding digestive exertion.",
+      "prepOrOrderInstructions": "Mix 1 packet into exactly 16 oz of cool water. Do not over-dilute or concentrate, as precise osmolarity maximizes rapid intestinal absorption.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/liquid-iv-hydration-multiplier-lemon-lime.json"
     },
     {
       "id": "members-mark-shrimp-cocktail-tray-with-cocktail-sauce",
@@ -10247,6 +10464,42 @@
       "_sourcePath": "src/data/items/high-protein/celebration-of-heroes-teriyaki-salmon-tuna.json"
     },
     {
+      "id": "harmless-harvest-organic-coconut-water",
+      "name": "Harmless Harvest Organic Coconut Water (Pink)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "raw-coconut-water",
+        "cold-filtered",
+        "pink-coconut-water",
+        "organic",
+        "potassium"
+      ],
+      "searchKeywords": [
+        "harmless harvest",
+        "pink coconut water",
+        "organic coconut water",
+        "pure hydration"
+      ],
+      "whyItWorks": "Micro-filtered and bottled unheated; the natural antioxidants (polyphenols) interact with light to turn the water pink. Pure, sweet, crisp, zero added sugars, and zero pulp.",
+      "prepOrOrderInstructions": "Keep refrigerated and drink chilled for clean, rejuvenating hydration.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/harmless-harvest-organic-coconut-water.json"
+    },
+    {
       "id": "heinz-homestyle-savory-beef-gravy",
       "name": "Heinz Homestyle Classic Savory Beef Gravy",
       "categoryFolder": "drinks-sauces",
@@ -12717,6 +12970,41 @@
       "_sourcePath": "src/data/items/breakfast/towneplace-suites-draper-oatmeal-bagel-banana-yogurt.json"
     },
     {
+      "id": "traditional-medicinals-organic-ginger-tea",
+      "name": "Traditional Medicinals Organic Ginger Herbal Tea",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ginger-tea",
+        "nausea-relief",
+        "digestive-warmth",
+        "spasm-relief",
+        "pure-rhizome"
+      ],
+      "searchKeywords": [
+        "ginger tea",
+        "traditional medicinals ginger",
+        "nausea tea",
+        "stomach ache tea"
+      ],
+      "whyItWorks": "Contains 100% organic ginger rhizome rich in active gingerols and shogaols. Accelerates gastric emptying, reduces intestinal nausea and cramping, and inhibits pro-inflammatory eicosanoids without irritating the bowel.",
+      "prepOrOrderInstructions": "Steep covered for 10-15 minutes. Add 1 teaspoon of pure clover honey if desired for comforting warmth.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/traditional-medicinals-organic-ginger-tea.json"
+    },
+    {
       "id": "tsunami-sushi-draper-south-jordan-salmon-nigiri-sunshine-roll",
       "name": "Tsunami Restaurant & Sushi Bar (Draper / South Jordan) Salmon Nigiri, Teriyaki Bowl & Udon",
       "categoryFolder": "asian-indian",
@@ -13921,6 +14209,42 @@
         "Ask for gravy on the side and take a lactase tablet for the mashed potatoes and biscuits"
       ],
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-chicken-to-go-bucket-biscuits-soup.json"
+    },
+    {
+      "id": "fennel-seed-herbal-infusion-tea",
+      "name": "Organic Sweet Fennel Seed Herbal Infusion Tea",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "fennel-tea",
+        "gas-relief",
+        "anti-spasmodic",
+        "carminative",
+        "bloating-relief"
+      ],
+      "searchKeywords": [
+        "fennel tea",
+        "sweet fennel",
+        "anti bloating tea",
+        "gas relief tea",
+        "carminative"
+      ],
+      "whyItWorks": "Crushed sweet fennel seeds (*Foeniculum vulgare*) contain volatile oils rich in anethole, fenchone, and estragole. These compounds relax the smooth muscle tissue of the intestinal wall, helping trapped gas dissipate gently without spasms.",
+      "prepOrOrderInstructions": "Steep 1 tea bag in freshly boiled water for 10 minutes. Sip slowly after meals to release painful postprandial gas.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/fennel-seed-herbal-infusion-tea.json"
     },
     {
       "id": "starbucks-marshmallow-dream-bar",
@@ -15761,6 +16085,78 @@
       "_sourcePath": "src/data/items/produce-sides/roasted-butternut-squash-puree.json"
     },
     {
+      "id": "silk-unsweetened-almond-milk-plain",
+      "name": "Silk Unsweetened Plain Almond Milk",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "breakfast",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "almond-milk",
+        "dairy-free",
+        "zero-sugar",
+        "calcium-fortified",
+        "smooth"
+      ],
+      "searchKeywords": [
+        "silk almond milk",
+        "unsweetened almond milk",
+        "dairy free milk",
+        "low calorie milk"
+      ],
+      "whyItWorks": "Creamy, filtered, blanched almond milk that contains 0g lactose, 0g added sugar, and only 30 calories per cup. Fortified with calcium and vitamin D to protect bone density in IBD without the digestive burden of dairy fat.",
+      "prepOrOrderInstructions": "Serve chilled. Pour over Cream of Rice, Cheerios, or blend into gentle fruit smoothies.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/silk-unsweetened-almond-milk-plain.json"
+    },
+    {
+      "id": "teeccino-dandelion-caramel-nut-chicory-free-tea",
+      "name": "Teeccino Dandelion Caramel Nut Herbal Tea (Chicory-Free)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "breakfast",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "chicory-free",
+        "dandelion-tea",
+        "coffee-flavor",
+        "alkaline",
+        "zero-caffeine"
+      ],
+      "searchKeywords": [
+        "teeccino dandelion",
+        "chicory free teeccino",
+        "herbal coffee",
+        "non acidic coffee"
+      ],
+      "whyItWorks": "Specifically blended for sensitive stomachs and IBD patients who must avoid prebiotic chicory root inulin. Made with roasted dandelion root, carob, and natural nut flavors; entirely alkaline and non-acidic.",
+      "prepOrOrderInstructions": "Brew in a standard coffee maker or steep tea bag in boiling water for 5 minutes. Stir in unsweetened oat or almond milk.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/teeccino-dandelion-caramel-nut-chicory-free-tea.json"
+    },
+    {
       "id": "thomas-cuisine-bamboohr-custom-grain-bowl-chicken-rice",
       "name": "Thomas2Go @ BambooHR (Lindon, UT) Build-Your-Own Grain Bowl (Grilled Chicken & White Rice)",
       "categoryFolder": "lunch",
@@ -15879,6 +16275,42 @@
       "whyItWorks": "Formed from 100% wild-caught Alaskan salmon with light seasoning and zero dairy or fillers. Rich in natural omega-3 fatty acids that dampen intestinal inflammation, serving as an easy burger alternative.",
       "prepOrOrderInstructions": "Cook directly from frozen on a lightly oiled skillet for 4-5 minutes per side. Serve on a plain white bun with light mayo or plain white rice.",
       "_sourcePath": "src/data/items/frozen-aisle/trident-seafoods-wild-alaskan-salmon-burgers-costco.json"
+    },
+    {
+      "id": "vita-coco-pure-coconut-water-original",
+      "name": "Vita Coco Pure Coconut Water (Original)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "coconut-water",
+        "potassium-rich",
+        "natural-electrolytes",
+        "zero-pulp",
+        "hydration"
+      ],
+      "searchKeywords": [
+        "vita coco",
+        "coconut water original",
+        "potassium drink",
+        "natural hydration"
+      ],
+      "whyItWorks": "Pure natural coconut water with zero pulp, delivering 470mg of potassium and essential trace minerals per cup. Helps restore intracellular potassium lost through frequent loose stools without artificial dyes or syrups.",
+      "prepOrOrderInstructions": "Drink cold. If unaccustomed to coconut water, start with half a carton to ensure your colon adapts comfortably to natural potassium loads.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/vita-coco-pure-coconut-water-original.json"
     },
     {
       "id": "wildfin-american-grill-riverton-cedar-plank-salmon",
@@ -16168,6 +16600,42 @@
         "Skip broccoli cheese soup unless taking lactase, and avoid multi-grain seeded breads"
       ],
       "_sourcePath": "src/data/items/lunch/cutlers-cookies-sandwiches-draper-bountiful-turkey-sandwich.json"
+    },
+    {
+      "id": "dandy-blend-instant-herbal-beverage",
+      "name": "Dandy Blend Instant Herbal Beverage with Dandelion (Coffee Alternative)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "breakfast",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "coffee-alternative",
+        "dandelion-root",
+        "zero-caffeine",
+        "zero-acid",
+        "gluten-free-certified"
+      ],
+      "searchKeywords": [
+        "dandy blend",
+        "dandelion coffee",
+        "coffee substitute crohns",
+        "caffeine free coffee"
+      ],
+      "whyItWorks": "Water-soluble extract of roasted barley, rye, dandelion, and chicory roots. Because it is a water extract, all gluten proteins and harsh insolubles are eliminated (<5 ppm gluten). Delivers a rich coffee flavor with zero acidity and zero caffeine.",
+      "prepOrOrderInstructions": "Stir 1 rounded teaspoon into hot water or warm almond milk. Dissolves instantly without brewing or grounds.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/dandy-blend-instant-herbal-beverage.json"
     },
     {
       "id": "disneyland-carnation-cafe-ham-cheddar-omelet",
@@ -17050,6 +17518,44 @@
       "prepOrOrderInstructions": "Order: \"6-inch Turkey on Artisan Italian white bread. Not toasted. No cheese, no onions, no jalapeños, no peppers. Add light olive oil and a dash of oregano or salt.\"",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/lunch/subway-oven-roasted-turkey-white-bread-plain.json"
+    },
+    {
+      "id": "thai-kitchen-organic-light-coconut-milk-canned",
+      "name": "Thai Kitchen Organic Lite Coconut Milk (Canned)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "drink"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "coconut-milk",
+        "dairy-free-cooking",
+        "mct-fats",
+        "soup-base",
+        "creamy"
+      ],
+      "searchKeywords": [
+        "thai kitchen coconut milk",
+        "lite coconut milk canned",
+        "dairy free cream swap",
+        "mct coconut"
+      ],
+      "whyItWorks": "Made from pure pressed coconut meat blended with filtered water (60% less fat than regular coconut milk). Contains easily assimilated Medium Chain Triglycerides (MCTs), zero lactose, and zero fiber. Makes creamy soups and rice bowls flare-safe.",
+      "prepOrOrderInstructions": "Shake can well before opening. Simmer with chicken bone broth and jasmine rice for an ultra-gentle comforting dinner.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/thai-kitchen-organic-light-coconut-milk-canned.json"
     },
     {
       "id": "thomas-cuisine-bamboohr-protein-snack-pack",
@@ -18599,6 +19105,42 @@
       "_sourcePath": "src/data/items/breakfast/knotts-mrs-knotts-country-breakfast-pancakes-eggs-biscuits.json"
     },
     {
+      "id": "oatly-low-fat-oatmilk-chilled",
+      "name": "Oatly Low-Fat Oatmilk (Chilled Carton)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "breakfast",
+        "drink"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "oat-milk",
+        "low-fat",
+        "dairy-free",
+        "nut-free",
+        "soluble-fiber"
+      ],
+      "searchKeywords": [
+        "oatly low fat",
+        "oatmilk",
+        "dairy free milk alternative",
+        "nut free milk"
+      ],
+      "whyItWorks": "Crafted with enzymatic hydrolysis of gluten-free oats, containing only 0.5g of fat per serving and zero dairy lactose or nuts. The soluble oat beta-glucan is gentle and silky on tender intestines.",
+      "prepOrOrderInstructions": "Shake carton well and keep refrigerated. Excellent for baking or stirring into decaf coffee.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/oatly-low-fat-oatmilk-chilled.json"
+    },
+    {
       "id": "dca-wine-country-trattoria-roasted-salmon",
       "name": "Pan-Roasted King Salmon with Herb Mashed Potatoes",
       "categoryFolder": "dinner",
@@ -19084,6 +19626,42 @@
         "Contains butter and eggs; enjoy 1–2 madeleines per serving."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/soft-bakery-madeleines-sponge-cookies.json"
+    },
+    {
+      "id": "welchs-100-percent-white-grape-juice",
+      "name": "Welch's 100% White Grape Juice",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "white-grape-juice",
+        "clear-liquid",
+        "low-acid",
+        "zero-fiber",
+        "quick-energy"
+      ],
+      "searchKeywords": [
+        "welchs white grape juice",
+        "white grape juice",
+        "clear liquid diet juice",
+        "non citrus juice"
+      ],
+      "whyItWorks": "A 100% fruit juice made from Niagara grapes with zero added sugar, zero fiber, and notably low titratable acidity compared to citrus juices. Clear and non-staining, making it universally acceptable during clear liquid protocols.",
+      "prepOrOrderInstructions": "Dilute 50/50 with water or ice during active flares to lower the osmolarity and prevent rapid dumping.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/welchs-100-percent-white-grape-juice.json"
     },
     {
       "id": "1923-warm-cinnamon-donut-holes-sundae",
@@ -26035,6 +26613,43 @@
       "_sourcePath": "src/data/items/lunch/disneyland-downtown-disney-earl-of-sandwich-turkey-roast-beef.json"
     },
     {
+      "id": "fairlife-ultra-filtered-2-percent-lactose-free-milk",
+      "name": "Fairlife Ultra-Filtered 2% Reduced Fat Milk (Lactose-Free)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "breakfast",
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ultra-filtered-milk",
+        "lactose-free",
+        "high-protein",
+        "calcium-rich",
+        "creamy"
+      ],
+      "searchKeywords": [
+        "fairlife 2 percent",
+        "fairlife milk",
+        "lactose free real milk",
+        "high protein milk"
+      ],
+      "whyItWorks": "Real dairy milk passed through patented soft filters that concentrate natural protein (13g/cup) and calcium while removing half the sugars, treated with lactase enzyme so it is 100% lactose-free. Easily absorbed nutrition.",
+      "prepOrOrderInstructions": "Drink cold from the fridge. Ideal for patients who crave the taste of real dairy without lactose bloating.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/fairlife-ultra-filtered-2-percent-lactose-free-milk.json"
+    },
+    {
       "id": "dca-lamplight-lounge-chicken-skewers",
       "name": "Grilled Chicken Breast Skewers with Sweet Glaze",
       "categoryFolder": "dinner",
@@ -29641,6 +30256,42 @@
         "Take lactase if ordering the Kids' Mac & Cheese or Cheese Pizza wedge"
       ],
       "_sourcePath": "src/data/items/lunch/knotts-grizzly-creek-lodge-grilled-chicken-mac-french-toast.json"
+    },
+    {
+      "id": "langers-100-percent-pure-pear-juice",
+      "name": "Langers 100% Pure Pear Juice",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pear-juice",
+        "low-acidity",
+        "gentle-fruit",
+        "vitamins",
+        "hydrating"
+      ],
+      "searchKeywords": [
+        "langers pear juice",
+        "pure pear juice",
+        "gentle juice crohns",
+        "pear nectar"
+      ],
+      "whyItWorks": "Pure pear juice provides natural hydration and mild fructose/glucose balance with very low acid. Pear is known to be one of the least allergenic and least irritating fruits for the human gut.",
+      "prepOrOrderInstructions": "Pour 4 oz over a tall glass of ice and top with filtered cold water. Refreshing and gentle on sensitive stomachs.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/langers-100-percent-pure-pear-juice.json"
     },
     {
       "id": "leatherbys-draper-turkey-croissant-ice-cream",
@@ -34482,6 +35133,40 @@
         "Ask to hold spicy calabrian chilies on any pasta or pizza dish"
       ],
       "_sourcePath": "src/data/items/italian-med/north-italia-mountain-view-village-bolognese-margherita.json"
+    },
+    {
+      "id": "nuun-sport-electrolyte-tablets-citrus-fruit",
+      "name": "Nuun Sport Electrolyte Hydration Tablets (Citrus Fruit)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "effervescent-tablet",
+        "low-sugar",
+        "portable-hydration",
+        "electrolytes"
+      ],
+      "searchKeywords": [
+        "nuun sport",
+        "nuun tablets",
+        "portable electrolytes",
+        "travel hydration"
+      ],
+      "whyItWorks": "Dissolvable effervescent tablet with 300mg sodium, 150mg potassium, and only 1g sugar. Convenient for purse or backpack travel hydration without excessive sweetness.",
+      "prepOrOrderInstructions": "Drop 1 tablet into 16 oz water. Let it completely dissolve and stop fizzing before drinking to minimize swallowed air.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/nuun-sport-electrolyte-tablets-citrus-fruit.json"
     },
     {
       "id": "til-we-meet-again-roasted-cornish-hen",
@@ -41172,6 +41857,41 @@
       "_sourcePath": "src/data/items/dinner/le-nonne-logan-veal-scallopini-al-limone.json"
     },
     {
+      "id": "a2-milk-whole-vitamin-d",
+      "name": "The a2 Milk Company Whole Milk (100% A2 Protein)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 7.7,
+      "mealTypes": [
+        "breakfast",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "a2-protein",
+        "natural-dairy",
+        "no-a1-beta-casein",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "a2 milk",
+        "a2 whole milk",
+        "beta casein milk",
+        "easy digest real milk"
+      ],
+      "whyItWorks": "Produced from selected cows that naturally produce only the A2 beta-casein protein variant, completely avoiding the A1 protein that cleaves into the inflammatory opioid peptide BCM-7. Shown in clinical trials to reduce digestive discomfort compared to standard milk.",
+      "prepOrOrderInstructions": "Consume in remission. NOTE: If you are lactose-intolerant, take a lactase enzyme tablet with your first sip since A2 milk contains natural milk sugars.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/a2-milk-whole-vitamin-d.json"
+    },
+    {
       "id": "the-break-sports-grill-daybreak-charbroiled-burger",
       "name": "The Break Sports Grill (Daybreak / South Jordan, UT) Charbroiled Plain Cheeseburger",
       "categoryFolder": "diner-bbq",
@@ -41375,6 +42095,43 @@
       "whyItWorks": "Slow braising breaks beef short rib connective fibers until it falls apart on the fork without effort. The smooth polenta provides gentle starch without skin or seeds.",
       "prepOrOrderInstructions": "Trim any visible ribbon of soft fat from the meat before eating. Ask for polenta made with light butter if lactose sensitive.",
       "_sourcePath": "src/data/items/dinner/disneyland-cafe-orleans-braised-beef-short-rib.json"
+    },
+    {
+      "id": "canada-dry-ginger-ale",
+      "name": "Canada Dry Ginger Ale (Classic)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Keurig Dr Pepper",
+      "crohnsScore": 7.6,
+      "mealTypes": [
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ginger-ale",
+        "mild-soda",
+        "nausea-comfort",
+        "low-residue",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "canada dry",
+        "ginger ale",
+        "soda for upset stomach",
+        "flat ginger ale"
+      ],
+      "whyItWorks": "A classic mild carbonated beverage with real ginger extract. Free from caffeine, citrus acids, and dairy; has comforted nausea for generations.",
+      "prepOrOrderInstructions": "During flare symptoms or nausea, pour into a glass and stir with a spoon for 30 seconds to let it go flat before sipping.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/canada-dry-ginger-ale.json"
     },
     {
       "id": "canned-pineapple-crushed-in-juice",
@@ -58154,6 +58911,41 @@
       "_sourcePath": "src/data/items/snacks-desserts/knotts-coasters-diner-milkshake.json"
     },
     {
+      "id": "lacroix-sparkling-water-natural-grapefruit-warning",
+      "name": "LaCroix Sparkling Water (Pamplemousse / Grapefruit WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 6.2,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "carbonation",
+        "gas-distention",
+        "citrus-oils",
+        "reflux-trigger"
+      ],
+      "searchKeywords": [
+        "lacroix",
+        "sparkling water warning",
+        "pamplemousse lacroix",
+        "carbonated water crohns"
+      ],
+      "whyItWorks": "Intense carbonic acid fizz expands in the stomach and small intestine, causing painful gaseous distension, hiccups, and bloating. Grapefruit oil essences can irritate tender esophagus and gastric linings.",
+      "prepOrOrderInstructions": "AVOID during active flares. If drinking in remission, pour over ice and let sit for 10 minutes to decarbonate.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/lacroix-sparkling-water-natural-grapefruit-warning.json"
+    },
+    {
       "id": "angies-restaurant-logan-chicken-pot-pie-warning",
       "name": "Old-Fashioned Chicken Pot Pie with Flaky Crust",
       "categoryFolder": "lunch",
@@ -68120,6 +68912,41 @@
       "_sourcePath": "src/data/items/snacks-desserts/hot-tamales-cinnamon-candy-warning.json"
     },
     {
+      "id": "liquid-iv-sugar-free-hydration-warning",
+      "name": "Liquid I.V. Sugar-Free Hydration Packet (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 4,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "allulose-warning",
+        "lacks-sglt1-glucose",
+        "osmotic-gas",
+        "diarrhea-risk"
+      ],
+      "searchKeywords": [
+        "sugar free liquid iv",
+        "liquid iv sugar free warning",
+        "allulose diarrhea",
+        "diet liquid iv"
+      ],
+      "whyItWorks": "Replaces dextrose glucose with allulose and stevia. Without glucose, the sodium-glucose cotransporter (SGLT1) cannot pump water into the enterocytes. Furthermore, unabsorbed allulose draws fluid into the colon, frequently causing gas and diarrhea.",
+      "prepOrOrderInstructions": "AVOID during active diarrhea. Always stick to the standard Liquid I.V. or Pedialyte with real glucose for true clinical rehydration.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/liquid-iv-sugar-free-hydration-warning.json"
+    },
+    {
       "name": "M&M's Peanut",
       "categoryFolder": "snacks-desserts",
       "crohnsScore": 4,
@@ -68684,6 +69511,40 @@
         "Major cause of gas colic and mechanical mucosal abrasion in both Crohn's and Ulcerative Colitis."
       ],
       "_sourcePath": "src/data/items/produce-sides/raw-broccoli-florets-warning.json"
+    },
+    {
+      "id": "reeds-real-ginger-ale-zero-sugar-warning",
+      "name": "Reed's Real Ginger Ale (Zero Sugar WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 3.8,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "erythritol-warning",
+        "pungent-gingerol",
+        "carbonation",
+        "sugar-alcohol"
+      ],
+      "searchKeywords": [
+        "reeds ginger ale zero",
+        "diet ginger ale warning",
+        "erythritol ginger ale"
+      ],
+      "whyItWorks": "While ginger is therapeutic, Reed's uses an intensely spicy ginger brew combined with erythritol and stevia. The combination of intense pungent heat and sugar alcohol creates burning sensations and osmotic diarrhea.",
+      "prepOrOrderInstructions": "AVOID zero-sugar ginger beers with sugar alcohols. Drink warm freshly brewed ginger tea with pure honey instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/reeds-real-ginger-ale-zero-sugar-warning.json"
     },
     {
       "id": "starbucks-iced-lemon-loaf-warning",
@@ -69855,6 +70716,74 @@
       "_sourcePath": "src/data/items/drinks-sauces/tabasco-original-red-pepper-sauce-warning.json"
     },
     {
+      "id": "knudsen-organic-just-tart-cherry-juice-warning",
+      "name": "R.W. Knudsen Organic Just Tart Cherry Juice (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 3.4,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "high-acidity",
+        "sorbitol",
+        "acid-reflux",
+        "intestinal-spasm"
+      ],
+      "searchKeywords": [
+        "tart cherry juice",
+        "cherry juice warning",
+        "knudsen tart cherry",
+        "acidic juice"
+      ],
+      "whyItWorks": "Extremely concentrated malic acid and natural sorbitol content. The harsh acidity irritates upper GI mucosa and reflux, while sorbitol accelerates transit and produces painful lower quadrant spasms.",
+      "prepOrOrderInstructions": "AVOID during flares. If taken in remission for joint soreness, dilute 1 ounce into 10 ounces of water with meals.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/knudsen-organic-just-tart-cherry-juice-warning.json"
+    },
+    {
+      "id": "dr-browns-cel-ray-soda-warning",
+      "name": "Dr. Brown's Cel-Ray Soda (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "celery-seed-extract",
+        "carbonation",
+        "high-fructose-corn-syrup"
+      ],
+      "searchKeywords": [
+        "cel ray soda",
+        "dr browns cel-ray",
+        "celery soda warning"
+      ],
+      "whyItWorks": "Made with concentrated celery seed extract, intense artificial carbonation, and high-fructose corn syrup. Celery seed oils and sharp carbonation produce gastric distension, belching, and colonic irritation.",
+      "prepOrOrderInstructions": "AVOID during active flares.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/dr-browns-cel-ray-soda-warning.json"
+    },
+    {
       "id": "sriracha-hot-chili-sauce-warning",
       "name": "Huy Fong Sriracha Hot Chili Sauce (Capsaicin & Vinegar Warning)",
       "categoryFolder": "drinks-sauces",
@@ -70141,6 +71070,42 @@
         "High risk of small bowel obstruction and severe mucosal irritation from woody coconut fibers and whole nuts."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/almond-joy-mounds-coconut-stricture-hazard.json"
+    },
+    {
+      "id": "poppi-prebiotic-soda-strawberry-lemon-warning",
+      "name": "Poppi Prebiotic Soda Strawberry Lemon (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 3.1,
+      "mealTypes": [
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "agave-inulin",
+        "apple-cider-vinegar",
+        "carbonation",
+        "gas-trigger"
+      ],
+      "searchKeywords": [
+        "poppi",
+        "poppi soda warning",
+        "prebiotic soda",
+        "apple cider vinegar drink"
+      ],
+      "whyItWorks": "Combines carbonated water with unfiltered apple cider vinegar, agave inulin, natural lemon flavors, and stevia. Acetic acid plus prebiotic fructans and carbonation can aggravate mucosal erosion and generate sudden intestinal cramps.",
+      "prepOrOrderInstructions": "AVOID during active inflammation or strictures. Choose plain water, herbal tea, or flat diluted juices.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/poppi-prebiotic-soda-strawberry-lemon-warning.json"
     },
     {
       "id": "raw-garlic-cloves-warning",
@@ -71282,6 +72247,42 @@
       "_sourcePath": "src/data/items/dinner/periscope-pub-wings-coconut-shrimp.json"
     },
     {
+      "id": "suja-organic-green-delight-cold-pressed-juice-warning",
+      "name": "Suja Organic Green Delight Cold-Pressed Juice (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "raw-greens",
+        "celery-juice",
+        "spirulina",
+        "insoluble-sediment",
+        "diarrhea-trigger"
+      ],
+      "searchKeywords": [
+        "suja green juice",
+        "green delight warning",
+        "cold pressed greens",
+        "raw celery juice crohns"
+      ],
+      "whyItWorks": "Contains unpasteurized or cold-pressurized juices from raw celery, kale, spinach, chard, spirulina, and lemon. Packed with raw oxalic acids and coarse particulate micro-sediment that physically scratches inflamed mucosal walls and sparks immediate watery diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Raw green juices are not \"detoxifying\" for active bowel inflammation—they are high-residue mucosal abrasives.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/suja-organic-green-delight-cold-pressed-juice-warning.json"
+    },
+    {
       "id": "sambal-oelek-ground-chili-paste-warning",
       "name": "Sambal Oelek Fresh Ground Chili Paste (Raw Seeds & Skin Hazard)",
       "categoryFolder": "drinks-sauces",
@@ -71364,6 +72365,78 @@
         "Extreme stricture blockage risk: Dense mixture of raw grains, sharp seed coats, and whole nut fragments."
       ],
       "_sourcePath": "src/data/items/breakfast/granola-muesli-whole-nut-stricture-hazard.json"
+    },
+    {
+      "id": "olipop-vintage-cola-prebiotic-soda-warning",
+      "name": "Olipop Vintage Cola Prebiotic Soda (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 2.3,
+      "mealTypes": [
+        "drink",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 9,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "prebiotic-inulin-warning",
+        "cassava-fiber",
+        "severe-gas",
+        "bloating-trigger"
+      ],
+      "searchKeywords": [
+        "olipop",
+        "olipop warning",
+        "prebiotic soda crohns",
+        "inulin soda",
+        "chicory root fiber soda"
+      ],
+      "whyItWorks": "Marketed as \"gut healthy,\" each can delivers 9g of prebiotic fiber derived from chicory root inulin, Jerusalem artichoke, and cassava root, plus carbonation. Prebiotic inulin rapidly ferments in the colon, producing severe gas, painful distention, and cramping.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Prebiotic sodas are among the most deceptive flare triggers for patients with Crohn's disease, Ulcerative Colitis, and SIBO.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/olipop-vintage-cola-prebiotic-soda-warning.json"
+    },
+    {
+      "id": "gt-synergy-raw-kombucha-warning",
+      "name": "GT's Synergy Raw Kombucha Trilogy (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "live-cultures-warning",
+        "unpasteurized",
+        "acetic-acid",
+        "infection-risk"
+      ],
+      "searchKeywords": [
+        "kombucha",
+        "gts kombucha warning",
+        "raw kombucha crohns",
+        "unpasteurized ferment"
+      ],
+      "whyItWorks": "Raw, unpasteurized fermented tea containing live wild bacteria, active yeasts, organic acetic acids, and natural effervescence. In patients on immunosuppressive biologics (e.g., anti-TNF, anti-IL-12/23) or with raw ulcerated mucosa, unpasteurized cultures pose real opportunistic risks alongside severe acid irritation.",
+      "prepOrOrderInstructions": "AVOID, especially if taking biologic therapies, steroids, or immunomodulators. Do not consume raw fermented unpasteurized drinks without clinical GI clearance.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/gt-synergy-raw-kombucha-warning.json"
     },
     {
       "id": "starbucks-nitro-cold-brew-warning",
@@ -71564,6 +72637,42 @@
       "whyItWorks": "Whole roasted nuts have hard, sharp edges when broken down by teeth. In patients with active Crohn's, strictures, or previous bowel resections, nut particles frequently cause mechanical bowel obstructions.",
       "prepOrOrderInstructions": "Mechanical Obstruction Warning: Strictly avoid whole nuts. Switch to smooth creamy seedless nut butter in remission.",
       "_sourcePath": "src/data/items/snacks-desserts/members-mark-roasted-mixed-nuts-salted-warning.json"
+    },
+    {
+      "id": "mountain-dew-citrus-soda-warning",
+      "name": "Mountain Dew Citrus Soda (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "PepsiCo",
+      "crohnsScore": 2.1,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "high-caffeine",
+        "citric-acid",
+        "high-fructose-corn-syrup",
+        "yellow-5"
+      ],
+      "searchKeywords": [
+        "mountain dew",
+        "citrus soda warning",
+        "mtn dew crohns",
+        "caffeine soda"
+      ],
+      "whyItWorks": "A triple assault on the digestive tract: 54mg caffeine per can stimulates hypermotility and bile secretion, heavy citric acid and carbonation inflame the gut lining, and 46g high fructose corn syrup exerts high osmotic fluid draw.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. If craving carbonation in remission, choose flat water with a splash of apple juice.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/mountain-dew-citrus-soda-warning.json"
     },
     {
       "id": "taco-bell-bean-burrito-with-onions-warning",
@@ -71960,6 +73069,41 @@
         "Raw shaved fennel and quinoa fiber"
       ],
       "_sourcePath": "src/data/items/dinner/pirate-night-fennel-orange-quinoa-salad.json"
+    },
+    {
+      "id": "sunsweet-100-percent-prune-juice-warning",
+      "name": "Sunsweet 100% Pure Prune Juice (WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "sorbitol-overload",
+        "osmotic-laxative",
+        "severe-cramping",
+        "explosive-diarrhea"
+      ],
+      "searchKeywords": [
+        "prune juice",
+        "sunsweet prune juice warning",
+        "sorbitol diarrhea",
+        "laxative drink warning"
+      ],
+      "whyItWorks": "Naturally rich in concentrated sorbitol (a sugar alcohol polyol) and dihydrophenylisatin. A potent natural osmotic laxative that draws massive fluid volume into the intestinal lumen, causing agonizing cramps and profuse diarrhea in IBD.",
+      "prepOrOrderInstructions": "AVOID during active Crohn's and Ulcerative Colitis. If constipation occurs in deep remission, discuss gentle osmotic laxatives like PEG-3350 with your gastroenterologist rather than drinking prune juice.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/sunsweet-100-percent-prune-juice-warning.json"
     },
     {
       "id": "captains-gala-orange-almond-cake",

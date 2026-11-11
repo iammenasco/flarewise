@@ -1,0 +1,35 @@
+{
+  "id": "welchs-100-percent-white-grape-juice",
+  "name": "Welch's 100% White Grape Juice",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "white-grape-juice",
+    "clear-liquid",
+    "low-acid",
+    "zero-fiber",
+    "quick-energy"
+  ],
+  "searchKeywords": [
+    "welchs white grape juice",
+    "white grape juice",
+    "clear liquid diet juice",
+    "non citrus juice"
+  ],
+  "whyItWorks": "A 100% fruit juice made from Niagara grapes with zero added sugar, zero fiber, and notably low titratable acidity compared to citrus juices. Clear and non-staining, making it universally acceptable during clear liquid protocols.",
+  "prepOrOrderInstructions": "Dilute 50/50 with water or ice during active flares to lower the osmolarity and prevent rapid dumping.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "knudsen-organic-just-tart-cherry-juice-warning",
+  "name": "R.W. Knudsen Organic Just Tart Cherry Juice (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 3.4,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "high-acidity",
+    "sorbitol",
+    "acid-reflux",
+    "intestinal-spasm"
+  ],
+  "searchKeywords": [
+    "tart cherry juice",
+    "cherry juice warning",
+    "knudsen tart cherry",
+    "acidic juice"
+  ],
+  "whyItWorks": "Extremely concentrated malic acid and natural sorbitol content. The harsh acidity irritates upper GI mucosa and reflux, while sorbitol accelerates transit and produces painful lower quadrant spasms.",
+  "prepOrOrderInstructions": "AVOID during flares. If taken in remission for joint soreness, dilute 1 ounce into 10 ounces of water with meals.",
+  "safetyTier": "danger-zone"
+}

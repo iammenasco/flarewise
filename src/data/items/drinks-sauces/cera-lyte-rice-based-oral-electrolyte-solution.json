@@ -1,0 +1,35 @@
+{
+  "id": "cera-lyte-rice-based-oral-electrolyte-solution",
+  "name": "CeraLyte 70 Rice-Based Oral Rehydration Solution",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.7,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice-based-ors",
+    "short-bowel-syndrome",
+    "high-output-stoma",
+    "clinical-gold-standard",
+    "stool-reducing"
+  ],
+  "searchKeywords": [
+    "ceralyte",
+    "cera lyte 70",
+    "rice ors",
+    "short bowel rehydration",
+    "ostomy output reduction"
+  ],
+  "whyItWorks": "The clinical gold-standard ORS for short bowel syndrome, severe Crohn's enteritis, and high-output ileostomies. Uses rice carbohydrate polymers instead of simple sugars, allowing continuous enzyme-mediated sodium absorption that reduces stool volume and stops diarrhea.",
+  "prepOrOrderInstructions": "Mix 1 packet with 32 oz (1 liter) of clean water. Sip throughout the day as prescribed by your gastroenterologist or GI dietitian.",
+  "safetyTier": "flare-safe"
+}

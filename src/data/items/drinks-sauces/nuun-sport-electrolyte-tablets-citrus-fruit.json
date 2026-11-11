@@ -1,0 +1,33 @@
+{
+  "id": "nuun-sport-electrolyte-tablets-citrus-fruit",
+  "name": "Nuun Sport Electrolyte Hydration Tablets (Citrus Fruit)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "effervescent-tablet",
+    "low-sugar",
+    "portable-hydration",
+    "electrolytes"
+  ],
+  "searchKeywords": [
+    "nuun sport",
+    "nuun tablets",
+    "portable electrolytes",
+    "travel hydration"
+  ],
+  "whyItWorks": "Dissolvable effervescent tablet with 300mg sodium, 150mg potassium, and only 1g sugar. Convenient for purse or backpack travel hydration without excessive sweetness.",
+  "prepOrOrderInstructions": "Drop 1 tablet into 16 oz water. Let it completely dissolve and stop fizzing before drinking to minimize swallowed air.",
+  "safetyTier": "low-risk"
+}

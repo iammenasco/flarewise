@@ -1,0 +1,35 @@
+{
+  "id": "dandy-blend-instant-herbal-beverage",
+  "name": "Dandy Blend Instant Herbal Beverage with Dandelion (Coffee Alternative)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "breakfast",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "coffee-alternative",
+    "dandelion-root",
+    "zero-caffeine",
+    "zero-acid",
+    "gluten-free-certified"
+  ],
+  "searchKeywords": [
+    "dandy blend",
+    "dandelion coffee",
+    "coffee substitute crohns",
+    "caffeine free coffee"
+  ],
+  "whyItWorks": "Water-soluble extract of roasted barley, rye, dandelion, and chicory roots. Because it is a water extract, all gluten proteins and harsh insolubles are eliminated (<5 ppm gluten). Delivers a rich coffee flavor with zero acidity and zero caffeine.",
+  "prepOrOrderInstructions": "Stir 1 rounded teaspoon into hot water or warm almond milk. Dissolves instantly without brewing or grounds.",
+  "safetyTier": "low-risk"
+}

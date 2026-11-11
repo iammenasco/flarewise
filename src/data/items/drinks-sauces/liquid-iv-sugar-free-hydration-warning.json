@@ -1,0 +1,34 @@
+{
+  "id": "liquid-iv-sugar-free-hydration-warning",
+  "name": "Liquid I.V. Sugar-Free Hydration Packet (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 4,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "allulose-warning",
+    "lacks-sglt1-glucose",
+    "osmotic-gas",
+    "diarrhea-risk"
+  ],
+  "searchKeywords": [
+    "sugar free liquid iv",
+    "liquid iv sugar free warning",
+    "allulose diarrhea",
+    "diet liquid iv"
+  ],
+  "whyItWorks": "Replaces dextrose glucose with allulose and stevia. Without glucose, the sodium-glucose cotransporter (SGLT1) cannot pump water into the enterocytes. Furthermore, unabsorbed allulose draws fluid into the colon, frequently causing gas and diarrhea.",
+  "prepOrOrderInstructions": "AVOID during active diarrhea. Always stick to the standard Liquid I.V. or Pedialyte with real glucose for true clinical rehydration.",
+  "safetyTier": "danger-zone"
+}

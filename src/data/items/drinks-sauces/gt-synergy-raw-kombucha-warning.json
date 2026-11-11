@@ -1,0 +1,34 @@
+{
+  "id": "gt-synergy-raw-kombucha-warning",
+  "name": "GT's Synergy Raw Kombucha Trilogy (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "live-cultures-warning",
+    "unpasteurized",
+    "acetic-acid",
+    "infection-risk"
+  ],
+  "searchKeywords": [
+    "kombucha",
+    "gts kombucha warning",
+    "raw kombucha crohns",
+    "unpasteurized ferment"
+  ],
+  "whyItWorks": "Raw, unpasteurized fermented tea containing live wild bacteria, active yeasts, organic acetic acids, and natural effervescence. In patients on immunosuppressive biologics (e.g., anti-TNF, anti-IL-12/23) or with raw ulcerated mucosa, unpasteurized cultures pose real opportunistic risks alongside severe acid irritation.",
+  "prepOrOrderInstructions": "AVOID, especially if taking biologic therapies, steroids, or immunomodulators. Do not consume raw fermented unpasteurized drinks without clinical GI clearance.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "silk-unsweetened-almond-milk-plain",
+  "name": "Silk Unsweetened Plain Almond Milk",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "breakfast",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "almond-milk",
+    "dairy-free",
+    "zero-sugar",
+    "calcium-fortified",
+    "smooth"
+  ],
+  "searchKeywords": [
+    "silk almond milk",
+    "unsweetened almond milk",
+    "dairy free milk",
+    "low calorie milk"
+  ],
+  "whyItWorks": "Creamy, filtered, blanched almond milk that contains 0g lactose, 0g added sugar, and only 30 calories per cup. Fortified with calcium and vitamin D to protect bone density in IBD without the digestive burden of dairy fat.",
+  "prepOrOrderInstructions": "Serve chilled. Pour over Cream of Rice, Cheerios, or blend into gentle fruit smoothies.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "thai-kitchen-organic-light-coconut-milk-canned",
+  "name": "Thai Kitchen Organic Lite Coconut Milk (Canned)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "drink"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "coconut-milk",
+    "dairy-free-cooking",
+    "mct-fats",
+    "soup-base",
+    "creamy"
+  ],
+  "searchKeywords": [
+    "thai kitchen coconut milk",
+    "lite coconut milk canned",
+    "dairy free cream swap",
+    "mct coconut"
+  ],
+  "whyItWorks": "Made from pure pressed coconut meat blended with filtered water (60% less fat than regular coconut milk). Contains easily assimilated Medium Chain Triglycerides (MCTs), zero lactose, and zero fiber. Makes creamy soups and rice bowls flare-safe.",
+  "prepOrOrderInstructions": "Shake can well before opening. Simmer with chicken bone broth and jasmine rice for an ultra-gentle comforting dinner.",
+  "safetyTier": "low-risk"
+}

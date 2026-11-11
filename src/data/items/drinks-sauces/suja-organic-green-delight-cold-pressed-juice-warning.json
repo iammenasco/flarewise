@@ -1,0 +1,35 @@
+{
+  "id": "suja-organic-green-delight-cold-pressed-juice-warning",
+  "name": "Suja Organic Green Delight Cold-Pressed Juice (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "raw-greens",
+    "celery-juice",
+    "spirulina",
+    "insoluble-sediment",
+    "diarrhea-trigger"
+  ],
+  "searchKeywords": [
+    "suja green juice",
+    "green delight warning",
+    "cold pressed greens",
+    "raw celery juice crohns"
+  ],
+  "whyItWorks": "Contains unpasteurized or cold-pressurized juices from raw celery, kale, spinach, chard, spirulina, and lemon. Packed with raw oxalic acids and coarse particulate micro-sediment that physically scratches inflamed mucosal walls and sparks immediate watery diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Raw green juices are not \"detoxifying\" for active bowel inflammation—they are high-residue mucosal abrasives.",
+  "safetyTier": "danger-zone"
+}

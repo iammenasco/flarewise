@@ -1,0 +1,37 @@
+{
+  "id": "rice-dream-classic-original-rice-milk",
+  "name": "Rice Dream Classic Original Rice Drink (Shelf Stable)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "breakfast",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice-milk",
+    "hypoallergenic",
+    "dairy-free",
+    "nut-free",
+    "soy-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "rice dream",
+    "rice milk",
+    "hypoallergenic milk",
+    "gentle plant milk",
+    "flare safe milk"
+  ],
+  "whyItWorks": "One of the most hypoallergenic milk alternatives on the planet. Naturally sweet from partially milled brown rice, free from dairy, soy, nuts, and gluten, with very low fat and minimal residue.",
+  "prepOrOrderInstructions": "Pour cold over breakfast cereal or drink plain. The gold standard plant milk during acute flare recoveries.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "harmless-harvest-organic-coconut-water",
+  "name": "Harmless Harvest Organic Coconut Water (Pink)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "raw-coconut-water",
+    "cold-filtered",
+    "pink-coconut-water",
+    "organic",
+    "potassium"
+  ],
+  "searchKeywords": [
+    "harmless harvest",
+    "pink coconut water",
+    "organic coconut water",
+    "pure hydration"
+  ],
+  "whyItWorks": "Micro-filtered and bottled unheated; the natural antioxidants (polyphenols) interact with light to turn the water pink. Pure, sweet, crisp, zero added sugars, and zero pulp.",
+  "prepOrOrderInstructions": "Keep refrigerated and drink chilled for clean, rejuvenating hydration.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sunsweet-100-percent-prune-juice-warning",
+  "name": "Sunsweet 100% Pure Prune Juice (WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "sorbitol-overload",
+    "osmotic-laxative",
+    "severe-cramping",
+    "explosive-diarrhea"
+  ],
+  "searchKeywords": [
+    "prune juice",
+    "sunsweet prune juice warning",
+    "sorbitol diarrhea",
+    "laxative drink warning"
+  ],
+  "whyItWorks": "Naturally rich in concentrated sorbitol (a sugar alcohol polyol) and dihydrophenylisatin. A potent natural osmotic laxative that draws massive fluid volume into the intestinal lumen, causing agonizing cramps and profuse diarrhea in IBD.",
+  "prepOrOrderInstructions": "AVOID during active Crohn's and Ulcerative Colitis. If constipation occurs in deep remission, discuss gentle osmotic laxatives like PEG-3350 with your gastroenterologist rather than drinking prune juice.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "traditional-medicinals-organic-ginger-tea",
+  "name": "Traditional Medicinals Organic Ginger Herbal Tea",
+  "categoryFolder": "drinks-sauces",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ginger-tea",
+    "nausea-relief",
+    "digestive-warmth",
+    "spasm-relief",
+    "pure-rhizome"
+  ],
+  "searchKeywords": [
+    "ginger tea",
+    "traditional medicinals ginger",
+    "nausea tea",
+    "stomach ache tea"
+  ],
+  "whyItWorks": "Contains 100% organic ginger rhizome rich in active gingerols and shogaols. Accelerates gastric emptying, reduces intestinal nausea and cramping, and inhibits pro-inflammatory eicosanoids without irritating the bowel.",
+  "prepOrOrderInstructions": "Steep covered for 10-15 minutes. Add 1 teaspoon of pure clover honey if desired for comforting warmth.",
+  "safetyTier": "flare-safe"
+}
