@@ -62,17 +62,17 @@ export function tierHintForFeeling(tier: SafetyTier, feeling: number): string {
 
 export function tierChipClass(tier: SafetyTier, feeling = 5): string {
   if (tier === 'remission-road' && feeling >= 7) {
-    return 'border-teal-200 bg-teal-50 text-teal-900'
+    return 'border-teal-200 bg-teal-50 text-teal-900 dark:border-teal-400/40 dark:bg-teal-400/15 dark:text-teal-100'
   }
   switch (tier) {
     case 'flare-safe':
-      return 'border-emerald-200 bg-emerald-50 text-emerald-800'
+      return 'border-emerald-200 bg-emerald-50 text-emerald-800 dark:border-emerald-400/40 dark:bg-emerald-400/15 dark:text-emerald-100'
     case 'low-risk':
       return 'border-[var(--brand)]/25 bg-[var(--brand-soft)] text-[var(--brand-ink)]'
     case 'remission-road':
-      return 'border-amber-200 bg-amber-50 text-amber-900'
+      return 'border-amber-200 bg-amber-50 text-amber-900 dark:border-amber-400/40 dark:bg-amber-400/15 dark:text-amber-100'
     case 'danger-zone':
-      return 'border-rose-200 bg-rose-50 text-rose-800'
+      return 'border-rose-200 bg-rose-50 text-rose-800 dark:border-rose-400/40 dark:bg-rose-400/15 dark:text-rose-100'
   }
 }
 

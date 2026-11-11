@@ -1,5 +1,12 @@
-import type { CatalogPreferences, CrohnsFoodItem, Guardrails, PersonalStatus } from '../types'
+import type {
+  CatalogPreferences,
+  CrohnsFoodItem,
+  Guardrails,
+  PersonalStatus,
+  ThemePreference,
+} from '../types'
 import { draftHasContent } from './submitDraft'
+import { isThemePreference } from './theme'
 
 export const STORAGE_KEYS = {
   starred: 'flarewise_starred_ids',
@@ -9,6 +16,7 @@ export const STORAGE_KEYS = {
   guardrails: 'flarewise_guardrails',
   personalStatus: 'flarewise_personal_status',
   showServerCard: 'flarewise_show_server_card',
+  theme: 'flarewise_theme',
   submitDraft: 'flarewise_submit_draft',
   submitQueue: 'flarewise_submit_queue',
 } as const
@@ -49,6 +57,18 @@ export const defaultPreferences: CatalogPreferences = {
   guardrails: defaultGuardrails,
   personalStatus: {},
   showServerCard: false,
+  theme: 'system',
+}
+
+function readTheme(): ThemePreference {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.theme)
+    if (!raw) return 'system'
+    const parsed = JSON.parse(raw) as unknown
+    return isThemePreference(parsed) ? parsed : 'system'
+  } catch {
+    return 'system'
+  }
 }
 
 function readJson<T>(key: string, fallback: T): T {
@@ -101,6 +121,7 @@ export function loadPreferences(): CatalogPreferences {
     guardrails,
     personalStatus: readJson(STORAGE_KEYS.personalStatus, {}),
     showServerCard: readJson(STORAGE_KEYS.showServerCard, false),
+    theme: readTheme(),
   }
 }
 
@@ -121,6 +142,7 @@ export function savePreferences(prefs: CatalogPreferences) {
     STORAGE_KEYS.showServerCard,
     JSON.stringify(prefs.showServerCard),
   )
+  localStorage.setItem(STORAGE_KEYS.theme, JSON.stringify(prefs.theme))
 }
 
 export function exportPreferences(prefs: CatalogPreferences): string {
@@ -137,6 +159,7 @@ export function importPreferences(raw: string): CatalogPreferences | null {
       guardrails: { ...defaultGuardrails, ...parsed.guardrails },
       personalStatus: parsed.personalStatus ?? {},
       showServerCard: Boolean(parsed.showServerCard),
+      theme: isThemePreference(parsed.theme) ? parsed.theme : 'system',
     }
   } catch {
     return null

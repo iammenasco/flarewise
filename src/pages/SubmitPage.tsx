@@ -594,7 +594,8 @@ export function SubmitPage() {
             min-height: 2.75rem;
             border-radius: 0.9rem;
             border: 1px solid var(--line);
-            background: rgba(255,255,255,0.85);
+            background: var(--elevated);
+            color: var(--brand-ink);
             padding: 0.7rem 0.85rem;
             outline: none;
           }
@@ -603,7 +604,7 @@ export function SubmitPage() {
             box-shadow: 0 0 0 3px rgba(54,141,218,0.18);
           }
           .field::placeholder {
-            color: rgba(22, 58, 99, 0.38);
+            color: color-mix(in srgb, var(--brand-ink) 38%, transparent);
           }
           .field-number::-webkit-outer-spin-button,
           .field-number::-webkit-inner-spin-button {

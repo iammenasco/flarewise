@@ -8,8 +8,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <!-- Soft brand wash so iOS status / Dynamic Island chrome matches the page, not white. -->
     <meta name="theme-color" content="#e8f2fb" />
-    <meta name="theme-color" content="#e8f2fb" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#163a63" media="(prefers-color-scheme: dark)" />
+    <script>
+      (() => {
+        try {
+          const raw = localStorage.getItem('flarewise_theme')
+          const pref = raw ? JSON.parse(raw) : 'system'
+          const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+          const theme =
+            pref === 'light' || pref === 'dark' ? pref : systemDark ? 'dark' : 'light'
+          const color = theme === 'dark' ? '#0f2740' : '#e8f2fb'
+          document.documentElement.dataset.theme = theme
+          document.documentElement.style.colorScheme = theme
+          const svg = document.querySelector('link[rel="icon"][type="image/svg+xml"]')
+          if (svg) svg.href = theme === 'dark' ? '/favicon-dark.svg' : '/favicon.svg'
+          for (const meta of document.querySelectorAll('meta[name="theme-color"]')) {
+            meta.setAttribute('content', color)
+          }
+        } catch (_) {}
+      })()
+    </script>
     <meta
       name="description"
       content="Flarewise — Crohn's-friendly food catalog. Dial how today feels, browse gentle foods, and share picks with friends."

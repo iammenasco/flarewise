@@ -1,16 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap');
 @import 'tailwindcss';
 
-:root {
+@custom-variant dark (&:where(html[data-theme='dark'] &));
+
+:root,
+html[data-theme='light'] {
   --brand: #368dda;
   --brand-ink: #163a63;
   --brand-soft: #e8f2fb;
   --brand-wash: #f3f8fd;
   --surface: rgba(255, 255, 255, 0.92);
+  --surface-solid: #ffffff;
+  --elevated: rgba(255, 255, 255, 0.85);
   --line: rgba(22, 58, 99, 0.14);
   --muted: rgba(22, 58, 99, 0.72);
   --touch: 2.75rem;
   --page-top: #e8f2fb;
+  --thumb-ring: #ffffff;
+  --selection: rgba(54, 141, 218, 0.25);
+  --focus-ring: rgba(54, 141, 218, 0.45);
+  --scrollbar: rgba(54, 141, 218, 0.35);
+  --page-gradient:
+    radial-gradient(1200px 600px at 10% -10%, rgba(54, 141, 218, 0.22), transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, rgba(54, 141, 218, 0.12), transparent 50%),
+    linear-gradient(180deg, #e8f2fb 0%, #eef5fb 42%, #f5f9fc 100%);
   color: var(--brand-ink);
   font-family: Manrope, ui-sans-serif, system-ui, sans-serif;
   font-synthesis: none;
@@ -19,11 +32,33 @@
   -moz-osx-font-smoothing: grayscale;
   /* Solid base first so iOS paints the status / Dynamic Island area brand-soft, not white. */
   background-color: var(--page-top);
-  background-image:
-    radial-gradient(1200px 600px at 10% -10%, rgba(54, 141, 218, 0.22), transparent 55%),
-    radial-gradient(900px 500px at 100% 0%, rgba(54, 141, 218, 0.12), transparent 50%),
-    linear-gradient(180deg, #e8f2fb 0%, #eef5fb 42%, #f5f9fc 100%);
+  background-image: var(--page-gradient);
   background-attachment: fixed;
+  color-scheme: light;
+}
+
+html[data-theme='dark'] {
+  --brand: #5ba4e8;
+  --brand-ink: #e8f2fb;
+  --brand-soft: #1a3f66;
+  --brand-wash: #132f4d;
+  --surface: rgba(18, 42, 68, 0.94);
+  --surface-solid: #163555;
+  --elevated: rgba(22, 53, 85, 0.92);
+  --line: rgba(232, 242, 251, 0.16);
+  --muted: rgba(232, 242, 251, 0.68);
+  --page-top: #0f2740;
+  --thumb-ring: #163555;
+  --selection: rgba(91, 164, 232, 0.35);
+  --focus-ring: rgba(91, 164, 232, 0.5);
+  --scrollbar: rgba(91, 164, 232, 0.45);
+  --page-gradient:
+    radial-gradient(1200px 600px at 10% -10%, rgba(54, 141, 218, 0.28), transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, rgba(22, 58, 99, 0.55), transparent 50%),
+    linear-gradient(180deg, #0f2740 0%, #12314d 42%, #0d2136 100%);
+  background-color: var(--page-top);
+  background-image: var(--page-gradient);
+  color-scheme: dark;
 }
 
 html,
@@ -57,11 +92,11 @@ textarea {
 }
 
 ::selection {
-  background: rgba(54, 141, 218, 0.25);
+  background: var(--selection);
 }
 
 :focus-visible {
-  outline: 3px solid rgba(54, 141, 218, 0.45);
+  outline: 3px solid var(--focus-ring);
   outline-offset: 2px;
 }
 
@@ -70,7 +105,7 @@ textarea {
   min-height: 2.25rem;
   padding: 0.35rem 0.85rem;
   border-color: var(--line);
-  background: rgba(255, 255, 255, 0.85);
+  background: var(--elevated);
   color: var(--brand-ink);
 }
 
@@ -103,7 +138,7 @@ textarea {
 
 .btn-ghost {
   border: 1px solid var(--line);
-  background: rgba(255, 255, 255, 0.85);
+  background: var(--elevated);
   color: var(--brand-ink);
 }
 
@@ -143,7 +178,7 @@ textarea {
 }
 
 .food-scroll::-webkit-scrollbar-thumb {
-  background: rgba(54, 141, 218, 0.35);
+  background: var(--scrollbar);
   border-radius: 999px;
 }
 
@@ -162,7 +197,7 @@ textarea {
 
 .feeling-range:focus-visible::-webkit-slider-thumb {
   box-shadow:
-    0 0 0 4px rgba(54, 141, 218, 0.35),
+    0 0 0 4px var(--focus-ring),
     0 1px 4px rgba(22, 58, 99, 0.35);
 }
 
@@ -185,7 +220,7 @@ textarea {
   margin-top: -0.6rem;
   border-radius: 999px;
   background: currentColor;
-  border: 3px solid #fff;
+  border: 3px solid var(--thumb-ring);
   box-shadow: 0 1px 4px rgba(22, 58, 99, 0.35);
   cursor: grab;
 }
@@ -195,7 +230,7 @@ textarea {
   height: 1.75rem;
   border-radius: 999px;
   background: currentColor;
-  border: 3px solid #fff;
+  border: 3px solid var(--thumb-ring);
   box-shadow: 0 1px 4px rgba(22, 58, 99, 0.35);
   cursor: grab;
 }

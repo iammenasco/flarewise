@@ -1,5 +1,5 @@
 /* Flarewise offline shell + runtime asset cache */
-const CACHE = 'flarewise-v5'
+const CACHE = 'flarewise-v6'
 // Catalog/data must not be precached: cache-first left the SPA on a stale
 // itemCount after ingest (main had 103, UI still showed an older filtered list).
 const PRECACHE = [
@@ -7,6 +7,7 @@ const PRECACHE = [
   './index.html',
   './manifest.webmanifest',
   './favicon.svg',
+  './favicon-dark.svg',
   './favicon.png',
   './og.png',
   './icons/icon-192.png',

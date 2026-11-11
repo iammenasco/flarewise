@@ -50,6 +50,8 @@ export type PrepMethod =
 
 export type PersonalStatus = 'safe' | 'iffy' | 'trigger'
 
+export type ThemePreference = 'system' | 'light' | 'dark'
+
 export interface CrohnsFoodItem {
   id: string
   name: string
@@ -99,4 +101,6 @@ export interface CatalogPreferences {
   personalStatus: Record<string, PersonalStatus>
   /** Opt-in: show "Show server card" on food drawers. Off by default. */
   showServerCard: boolean
+  /** Appearance: follow OS, or force light/dark. Default system. */
+  theme: ThemePreference
 }

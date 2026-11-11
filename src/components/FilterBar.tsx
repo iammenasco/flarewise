@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react'
+import { Monitor, Moon, Sun } from 'lucide-react'
 import {
   CRUISE_SHIP_CHIPS,
   PLACE_CONTEXTS,
@@ -7,6 +8,7 @@ import {
   type PlaceContextId,
 } from '../lib/filters'
 import { MEAL_CHIPS, REGION_CHIPS, costLabel } from '../lib/score'
+import { THEME_PREFERENCES, type ThemePreference } from '../lib/theme'
 import type { CatalogFilters, ModeFilter } from '../hooks/useCatalogFilters'
 
 interface FilterBarProps {
@@ -18,6 +20,7 @@ interface FilterBarProps {
   citrusFreeOnly: boolean
   showDangerZone: boolean
   showServerCard: boolean
+  theme: ThemePreference
   onToggleGuardrail: (
     key:
       | 'lactoseSafeOnly'
@@ -27,10 +30,17 @@ interface FilterBarProps {
       | 'showDangerZone',
   ) => void
   onToggleShowServerCard: () => void
+  onTheme: (theme: ThemePreference) => void
   onSelectVacation: (place: PlaceContextId) => void
   onSelectDestination: (destinationTag: string) => void
   onClearExtra: () => void
 }
+
+const THEME_ICONS = {
+  system: Monitor,
+  light: Sun,
+  dark: Moon,
+} as const
 
 function Chip({
   active,
@@ -90,8 +100,10 @@ export function FilterPanel({
   citrusFreeOnly,
   showDangerZone,
   showServerCard,
+  theme,
   onToggleGuardrail,
   onToggleShowServerCard,
+  onTheme,
   onSelectVacation,
   onSelectDestination,
   onClearExtra,
@@ -225,6 +237,32 @@ export function FilterPanel({
         <p className="muted mt-1.5 text-xs">
           Off by default — turns on a high-contrast order card you can show a
           server, plus one-tap copy of the prep script.
+        </p>
+        <p className="mb-1.5 mt-3 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+          Appearance
+        </p>
+        <div
+          className="flex flex-wrap gap-1.5"
+          role="radiogroup"
+          aria-label="Appearance"
+        >
+          {THEME_PREFERENCES.map((item) => {
+            const Icon = THEME_ICONS[item.id]
+            return (
+              <Chip
+                key={item.id}
+                active={theme === item.id}
+                onClick={() => onTheme(item.id)}
+              >
+                <Icon className="h-3.5 w-3.5" aria-hidden />
+                {item.label}
+              </Chip>
+            )
+          })}
+        </div>
+        <p className="muted mt-1.5 text-xs">
+          System follows your phone’s light/dark setting. Favicon updates to
+          match.
         </p>
       </div>
 
