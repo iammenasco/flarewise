@@ -34,6 +34,7 @@ interface FoodDrawerProps {
   onToggleCart: () => void
   onSetStatus: (status: PersonalStatus | undefined) => void
   onTag: (tag: string) => void
+  onOpenVenue?: (brand: string) => void
 }
 
 const STATUS_OPTIONS: {
@@ -59,6 +60,7 @@ export function FoodDrawer({
   onToggleCart,
   onSetStatus,
   onTag,
+  onOpenVenue,
 }: FoodDrawerProps) {
   const [shareNote, setShareNote] = useState<string | null>(null)
   const [serverCardOpen, setServerCardOpen] = useState(false)
@@ -112,10 +114,26 @@ export function FoodDrawer({
               {tierHintForFeeling(item.safetyTier, feeling)}
             </p>
             <p className="mt-2 text-sm text-[var(--brand-ink)]/60">
-              {item.brandOrRestaurant ? `${item.brandOrRestaurant} · ` : ''}
               {item.region} · {item.fiberGramsPerServing}g fiber
               {item.lactoseSafe ? ' · lactose-safe' : ''}
             </p>
+            {item.brandOrRestaurant ? (
+              <div className="mt-2 flex flex-wrap items-center gap-2">
+                <p className="text-sm font-medium text-[var(--brand-ink)]/75">
+                  {item.brandOrRestaurant}
+                </p>
+                {onOpenVenue ? (
+                  <button
+                    type="button"
+                    className="chip !min-h-8 !px-2.5 !text-xs"
+                    onClick={() => onOpenVenue(item.brandOrRestaurant!)}
+                  >
+                    <Utensils className="h-3.5 w-3.5" />
+                    See menu
+                  </button>
+                ) : null}
+              </div>
+            ) : null}
           </div>
           <button
             type="button"

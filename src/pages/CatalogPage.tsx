@@ -7,11 +7,19 @@ import { FoodCard } from '../components/FoodCard'
 import { FoodDrawer } from '../components/FoodDrawer'
 import { GroceryPanel } from '../components/GroceryPanel'
 import { PickForMe } from '../components/PickForMe'
+import { VenueMenuBar } from '../components/VenueMenuBar'
+import { WhereDial } from '../components/WhereDial'
 import { foodById } from '../data'
 import { pickForMe, useCatalogFilters } from '../hooks/useCatalogFilters'
 import { useJustReconnected } from '../hooks/useOnline'
 import { usePreferences } from '../hooks/usePreferences'
-import { countActiveFilters, isVacationTag } from '../lib/filters'
+import {
+  countActiveFilters,
+  getPlaceContext,
+  isVacationTag,
+  listVenues,
+  type PlaceContextId,
+} from '../lib/filters'
 import { githubRepoUrl } from '../lib/github'
 import { feelingFromMinScore } from '../lib/score'
 import { countPendingSubmissions, loadSubmitQueue } from '../lib/storage'
@@ -54,7 +62,7 @@ export function CatalogPage() {
   const feeling = feelingFromMinScore(prefs.minScore)
 
   const [prevFilterKey, setPrevFilterKey] = useState('')
-  const filterKey = `${filters.q}:${filters.tag}:${filters.mode}:${filters.meal}:${filters.region}:${filters.cost}:${prefs.minScore}:${prefs.guardrails.showDangerZone}:${prefs.guardrails.cruiseMode}`
+  const filterKey = `${filters.q}:${filters.tag}:${filters.mode}:${filters.meal}:${filters.region}:${filters.cost}:${filters.place}:${filters.venue}:${prefs.minScore}:${prefs.guardrails.showDangerZone}:${prefs.guardrails.cruiseMode}`
   if (prevFilterKey !== filterKey) {
     setPrevFilterKey(filterKey)
     setVisibleCount(40)
@@ -63,6 +71,13 @@ export function CatalogPage() {
   const visibleFoods = useMemo(() => {
     return filtered.slice(0, visibleCount)
   }, [filtered, visibleCount])
+
+  const nearbyVenues = useMemo(() => {
+    if (filters.venue || filters.place === 'home') return []
+    // Build venue chips from the place-scoped list without the venue filter
+    // (filtered already excludes other venues when one is open).
+    return listVenues(filtered, 20)
+  }, [filtered, filters.place, filters.venue])
 
   const hasMore = filtered.length > visibleCount
 
@@ -94,9 +109,15 @@ export function CatalogPage() {
 
   const resultLabel = useMemo(() => {
     const n = filtered.length
+    if (filters.venue) {
+      return `${n} menu item${n === 1 ? '' : 's'}`
+    }
     if (filters.q) return `${n} match${n === 1 ? '' : 'es'}`
+    if (filters.place !== 'home') {
+      return `${n} food${n === 1 ? '' : 's'} · ${getPlaceContext(filters.place).shortLabel}`
+    }
     return `${n} food${n === 1 ? '' : 's'} for today`
-  }, [filtered.length, filters.q])
+  }, [filtered.length, filters.place, filters.q, filters.venue])
 
   const activeFilterCount = countActiveFilters(filters, prefs.guardrails)
 
@@ -105,23 +126,67 @@ export function CatalogPage() {
     setPickerOpen(true)
   }
 
+  function selectPlace(place: PlaceContextId) {
+    const ctx = getPlaceContext(place)
+    const nextTag =
+      filters.tag && isVacationTag(filters.tag) && !ctx.vacation
+        ? ''
+        : filters.tag
+    setGuardrails({ cruiseMode: ctx.vacation })
+    patch({
+      place,
+      tag: nextTag,
+      venue: '',
+    })
+  }
+
   function toggleVacationMode() {
     const next = !prefs.guardrails.cruiseMode
     setGuardrails({ cruiseMode: next })
-    if (!next && filters.tag && isVacationTag(filters.tag)) {
-      patch({ tag: '' })
+    if (next) {
+      const place =
+        filters.place === 'cruise' || filters.place === 'theme-parks'
+          ? filters.place
+          : 'theme-parks'
+      patch({ place, venue: '' })
+      return
     }
+    const clearVacationTag =
+      filters.tag && isVacationTag(filters.tag) ? '' : filters.tag
+    patch({
+      place: 'home',
+      tag: clearVacationTag,
+      venue: '',
+    })
   }
 
   function selectDestination(destinationTag: string) {
-    if (!prefs.guardrails.cruiseMode) {
-      setGuardrails({ cruiseMode: true })
-    }
-    patch({ tag: filters.tag === destinationTag ? '' : destinationTag })
+    const nextTag = filters.tag === destinationTag ? '' : destinationTag
+    const parkTags = new Set([
+      'disneyland',
+      'california-adventure',
+      'knotts-berry-farm',
+    ])
+    const place: PlaceContextId = parkTags.has(destinationTag)
+      ? 'theme-parks'
+      : 'cruise'
+    setGuardrails({ cruiseMode: true })
+    patch({
+      place,
+      tag: nextTag,
+      venue: '',
+    })
   }
 
   function clearExtraFilters() {
-    patch({ meal: '', region: '', tag: '', cost: '' })
+    patch({
+      meal: '',
+      region: '',
+      tag: '',
+      cost: '',
+      place: 'home',
+      venue: '',
+    })
     setGuardrails({
       grabAndGoOnly: false,
       toasterOvenOnly: false,
@@ -248,6 +313,8 @@ export function CatalogPage() {
           </button>
         </div>
 
+        <WhereDial place={filters.place} onPlace={selectPlace} />
+
         <div className="flex items-center justify-between gap-2">
           <ModeChips
             mode={filters.mode}
@@ -266,20 +333,28 @@ export function CatalogPage() {
       </div>
 
       <div className="flex min-h-0 flex-1 flex-col">
-        <div className="flex shrink-0 items-center justify-between gap-2 py-2">
-          <p className="text-sm font-medium text-[var(--brand-ink)]/80">
-            {resultLabel}
-          </p>
-          {filters.tag ? (
-            <button
-              type="button"
-              className="chip !min-h-8 !text-xs"
-              data-active="true"
-              onClick={() => patch({ tag: '' })}
-            >
-              #{filters.tag} ×
-            </button>
-          ) : null}
+        <div className="flex shrink-0 flex-col gap-2 py-2">
+          <div className="flex items-center justify-between gap-2">
+            <p className="text-sm font-medium text-[var(--brand-ink)]/80">
+              {resultLabel}
+            </p>
+            {filters.tag ? (
+              <button
+                type="button"
+                className="chip !min-h-8 !text-xs"
+                data-active="true"
+                onClick={() => patch({ tag: '' })}
+              >
+                #{filters.tag} ×
+              </button>
+            ) : null}
+          </div>
+          <VenueMenuBar
+            venue={filters.venue}
+            venues={nearbyVenues}
+            onSelectVenue={(brand) => patch({ venue: brand }, { item: null })}
+            onClearVenue={() => patch({ venue: '' })}
+          />
         </div>
 
         <div
@@ -415,7 +490,11 @@ export function CatalogPage() {
               toasterOvenOnly={prefs.guardrails.toasterOvenOnly}
               grabAndGoOnly={prefs.guardrails.grabAndGoOnly}
               citrusFreeOnly={prefs.guardrails.citrusFreeOnly}
-              cruiseMode={prefs.guardrails.cruiseMode}
+              cruiseMode={
+                prefs.guardrails.cruiseMode ||
+                filters.place === 'theme-parks' ||
+                filters.place === 'cruise'
+              }
               showDangerZone={prefs.guardrails.showDangerZone}
               showServerCard={prefs.showServerCard}
               onToggleGuardrail={(key) => {
@@ -464,6 +543,9 @@ export function CatalogPage() {
         onTag={(tag) => {
           // One URL write — separate patch + setSelected races and drops `tag`.
           patch({ tag }, { item: null })
+        }}
+        onOpenVenue={(brand) => {
+          patch({ venue: brand }, { item: null })
         }}
       />
 

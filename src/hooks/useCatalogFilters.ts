@@ -1,7 +1,12 @@
 import { useMemo } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { allFoods } from '../data'
-import { itemPassesFilters, readFilters, type CatalogFilters } from '../lib/filters'
+import {
+  itemPassesFilters,
+  readFilters,
+  sortVenueMenu,
+  type CatalogFilters,
+} from '../lib/filters'
 import { createFoodSearch } from '../lib/search'
 import type { CatalogPreferences, CrohnsFoodItem } from '../types'
 
@@ -30,6 +35,8 @@ export function useCatalogFilters(prefs: CatalogPreferences) {
     if (merged.region) sp.set('region', merged.region)
     if (merged.tag) sp.set('tag', merged.tag)
     if (merged.cost) sp.set('cost', merged.cost)
+    if (merged.place !== 'home') sp.set('place', merged.place)
+    if (merged.venue) sp.set('venue', merged.venue)
 
     const item = 'item' in opts ? opts.item : params.get('item')
     if (item) sp.set('item', item)
@@ -54,7 +61,11 @@ export function useCatalogFilters(prefs: CatalogPreferences) {
       list = fuse.search(filters.q.trim()).map((r) => r.item)
     }
 
-    return list.filter((item) => itemPassesFilters(item, filters, prefs))
+    list = list.filter((item) => itemPassesFilters(item, filters, prefs))
+    if (filters.venue) {
+      list = sortVenueMenu(list)
+    }
+    return list
   }, [filters, fuse, prefs])
 
   return {
