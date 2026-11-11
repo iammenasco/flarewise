@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState, type ReactNode } from 'react'
 import { Link } from 'react-router-dom'
 import schema from '../data/schema.json'
 import { useJustReconnected } from '../hooks/useOnline'
+import { isVacationTag } from '../lib/filters'
 import { githubNewIssueUrl } from '../lib/github'
 import {
   GENTLE_TRACK_GRADIENT,
@@ -478,16 +479,16 @@ export function SubmitPage() {
               <input
                 type="checkbox"
                 className="accent-[var(--brand)]"
-                checked={draft.tags.includes('disney-cruise') || draft.tags.includes('cruise')}
+                checked={draft.tags.some((t) => isVacationTag(t))}
                 onChange={(e) => {
                   const nextTags = e.target.checked
-                    ? Array.from(new Set([...draft.tags, 'disney-cruise']))
-                    : draft.tags.filter((t) => t !== 'disney-cruise' && t !== 'cruise')
+                    ? Array.from(new Set([...draft.tags, 'vacation']))
+                    : draft.tags.filter((t) => !isVacationTag(t))
                   update('tags', nextTags)
                   setTagsText(nextTags.join(', '))
                 }}
               />
-              Cruise / vacation
+              Vacation (parks & cruises)
             </label>
           </div>
 

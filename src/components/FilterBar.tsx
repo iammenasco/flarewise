@@ -1,6 +1,10 @@
 import type { ReactNode } from 'react'
-import { Ship } from 'lucide-react'
-import { CRUISE_SHIP_CHIPS, isCruiseTag } from '../lib/filters'
+import { Compass } from 'lucide-react'
+import {
+  CRUISE_SHIP_CHIPS,
+  THEME_PARK_CHIPS,
+  isVacationTag,
+} from '../lib/filters'
 import { MEAL_CHIPS, REGION_CHIPS, costLabel } from '../lib/score'
 import type { CatalogFilters, ModeFilter } from '../hooks/useCatalogFilters'
 
@@ -22,7 +26,7 @@ interface FilterBarProps {
       | 'cruiseMode'
       | 'showDangerZone',
   ) => void
-  onSelectShip: (shipTag: string) => void
+  onSelectDestination: (destinationTag: string) => void
   onClearExtra: () => void
 }
 
@@ -85,7 +89,7 @@ export function FilterPanel({
   cruiseMode,
   showDangerZone,
   onToggleGuardrail,
-  onSelectShip,
+  onSelectDestination,
   onClearExtra,
 }: FilterBarProps) {
   return (
@@ -171,7 +175,7 @@ export function FilterPanel({
               {costLabel(tier)}
             </Chip>
           ))}
-          {filters.tag && !isCruiseTag(filters.tag) ? (
+          {filters.tag && !isVacationTag(filters.tag) ? (
             <Chip active onClick={() => onPatch({ tag: '' })}>
               #{filters.tag} ×
             </Chip>
@@ -189,38 +193,63 @@ export function FilterPanel({
             onClick={() => onToggleGuardrail('cruiseMode')}
           >
             <span className="inline-flex items-center gap-1.5">
-              <Ship className="h-3.5 w-3.5" />
-              Vacation / Cruise mode
+              <Compass className="h-3.5 w-3.5" />
+              Vacation mode
             </span>
           </Chip>
         </div>
         {cruiseMode ? (
-          <div className="mt-2 rounded-2xl border border-[var(--brand)]/20 bg-[var(--brand-soft)]/55 p-2.5">
-            <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
-              Cruise ship
-            </p>
-            <div className="flex flex-wrap gap-1.5">
-              <Chip
-                active={!filters.tag || !isCruiseTag(filters.tag)}
-                onClick={() => onPatch({ tag: '' })}
-              >
-                All ships
-              </Chip>
-              {CRUISE_SHIP_CHIPS.map((ship) => (
+          <div className="mt-2 space-y-2.5 rounded-2xl border border-[var(--brand)]/20 bg-[var(--brand-soft)]/55 p-2.5">
+            <div>
+              <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+                Destination
+              </p>
+              <div className="flex flex-wrap gap-1.5">
                 <Chip
-                  key={ship.tag}
-                  active={filters.tag === ship.tag}
-                  onClick={() => onSelectShip(ship.tag)}
+                  active={!filters.tag || !isVacationTag(filters.tag)}
+                  onClick={() => onPatch({ tag: '' })}
                 >
-                  {ship.label}
+                  All vacation
                 </Chip>
-              ))}
+              </div>
+            </div>
+            <div>
+              <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+                Theme parks
+              </p>
+              <div className="flex flex-wrap gap-1.5">
+                {THEME_PARK_CHIPS.map((park) => (
+                  <Chip
+                    key={park.tag}
+                    active={filters.tag === park.tag}
+                    onClick={() => onSelectDestination(park.tag)}
+                  >
+                    {park.label}
+                  </Chip>
+                ))}
+              </div>
+            </div>
+            <div>
+              <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+                Cruise ships
+              </p>
+              <div className="flex flex-wrap gap-1.5">
+                {CRUISE_SHIP_CHIPS.map((ship) => (
+                  <Chip
+                    key={ship.tag}
+                    active={filters.tag === ship.tag}
+                    onClick={() => onSelectDestination(ship.tag)}
+                  >
+                    {ship.label}
+                  </Chip>
+                ))}
+              </div>
             </div>
           </div>
         ) : (
           <p className="muted mt-1.5 text-xs">
-            Off by default — turn on to switch into Disney Cruise menus and pick
-            your ship.
+            Off by default — turn on to browse Disneyland, California Adventure,
+            Knott&apos;s Berry Farm, and Disney Cruise menus.
           </p>
         )}
       </div>

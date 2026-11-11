@@ -75,21 +75,21 @@ function walk(dir) {
 
     const brandAndName = `${item.name || ''} ${item.brandOrRestaurant || ''}`
     if (
-      /\b(disney\s*(wonder|magic|treasure|cruise)|castaway\s*cay|lookout\s*cay|cruise)\b/i.test(
+      /\b(disney\s*(wonder|magic|treasure|cruise)|castaway\s*cay|lookout\s*cay|cruise|disneyland|california\s*adventure|knott'?s\s*berry\s*farm)\b/i.test(
         brandAndName,
       )
     ) {
-      const hasCruiseTag =
+      const hasVacationTag =
         Array.isArray(item.tags) &&
         item.tags.some((t) =>
-          /^(cruise|vacation|disney-cruise|disney-wonder|disney-magic|disney-treasure)$/i.test(
+          /^(cruise|vacation|theme-park|disney-cruise|disney-wonder|disney-magic|disney-treasure|disneyland|california-adventure|dca|downtown-disney|knotts-berry-farm|knotts)$/i.test(
             String(t).trim(),
           ),
         )
-      if (!hasCruiseTag) {
+      if (!hasVacationTag) {
         errors += 1
         console.error(
-          `Cruise/vacation item missing required cruise tag ("disney-cruise", "cruise", or "vacation") in ${rel}`,
+          `Vacation item missing required destination tag ("vacation", "disneyland", "california-adventure", "knotts-berry-farm", or "disney-cruise") in ${rel}`,
         )
       }
     }

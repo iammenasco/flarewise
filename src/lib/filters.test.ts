@@ -99,37 +99,65 @@ describe('itemPassesFilters', () => {
     ).toBe(true)
   })
 
-  it('hides cruise/vacation items by default (when cruiseMode is false) and shows only cruise items when cruiseMode is true', () => {
+  it('hides cruise and theme-park vacation items by default (when cruiseMode is false) and shows only vacation items when cruiseMode is true', () => {
     const cruiseItem: CrohnsFoodItem = {
       ...baseItem,
       id: 'creamy-butternut-squash-soup',
       tags: ['soup', 'disney-cruise', 'disney-wonder', 'disney-magic'],
     }
-    // Unselected by default: everyday item passes, cruise item is hidden
+    const disneylandItem: CrohnsFoodItem = {
+      ...baseItem,
+      id: 'disneyland-bengal-bbq-safari-skewer',
+      tags: ['beef', 'vacation', 'disneyland'],
+    }
+    const knottsItem: CrohnsFoodItem = {
+      ...baseItem,
+      id: 'knotts-mrs-knotts-roasted-chicken',
+      tags: ['chicken', 'vacation', 'knotts-berry-farm'],
+    }
+    // Unselected by default: everyday item passes, vacation items are hidden
     expect(itemPassesFilters(baseItem, emptyFilters, openPrefs)).toBe(true)
     expect(itemPassesFilters(cruiseItem, emptyFilters, openPrefs)).toBe(false)
+    expect(itemPassesFilters(disneylandItem, emptyFilters, openPrefs)).toBe(false)
+    expect(itemPassesFilters(knottsItem, emptyFilters, openPrefs)).toBe(false)
 
-    // Selected (cruiseMode = true): cruise item passes, everyday item is hidden
-    const cruisePrefs = {
+    // Selected (cruiseMode / Vacation mode = true): vacation items pass, everyday item is hidden
+    const vacationPrefs = {
       ...openPrefs,
       guardrails: { ...openPrefs.guardrails, cruiseMode: true },
     }
-    expect(itemPassesFilters(cruiseItem, emptyFilters, cruisePrefs)).toBe(true)
-    expect(itemPassesFilters(baseItem, emptyFilters, cruisePrefs)).toBe(false)
+    expect(itemPassesFilters(cruiseItem, emptyFilters, vacationPrefs)).toBe(true)
+    expect(itemPassesFilters(disneylandItem, emptyFilters, vacationPrefs)).toBe(true)
+    expect(itemPassesFilters(knottsItem, emptyFilters, vacationPrefs)).toBe(true)
+    expect(itemPassesFilters(baseItem, emptyFilters, vacationPrefs)).toBe(false)
 
-    // Ship tag filter inside cruiseMode
+    // Destination tag filter inside Vacation mode (theme parks & cruise ships)
+    expect(
+      itemPassesFilters(
+        disneylandItem,
+        { ...emptyFilters, tag: 'disneyland' },
+        vacationPrefs,
+      ),
+    ).toBe(true)
+    expect(
+      itemPassesFilters(
+        disneylandItem,
+        { ...emptyFilters, tag: 'knotts-berry-farm' },
+        vacationPrefs,
+      ),
+    ).toBe(false)
     expect(
       itemPassesFilters(
         cruiseItem,
         { ...emptyFilters, tag: 'disney-wonder' },
-        cruisePrefs,
+        vacationPrefs,
       ),
     ).toBe(true)
     expect(
       itemPassesFilters(
         cruiseItem,
         { ...emptyFilters, tag: 'disney-treasure' },
-        cruisePrefs,
+        vacationPrefs,
       ),
     ).toBe(false)
   })

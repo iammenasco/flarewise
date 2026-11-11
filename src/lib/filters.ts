@@ -7,28 +7,57 @@ import type {
 
 export type ModeFilter = 'all' | 'starred' | 'grocery'
 
+export const THEME_PARK_CHIPS = [
+  { tag: 'disneyland', label: 'Disneyland', shortLabel: 'Disneyland' },
+  {
+    tag: 'california-adventure',
+    label: 'California Adventure',
+    shortLabel: 'DCA',
+  },
+  {
+    tag: 'knotts-berry-farm',
+    label: "Knott's Berry Farm",
+    shortLabel: "Knott's",
+  },
+] as const
+
 export const CRUISE_SHIP_CHIPS = [
   { tag: 'disney-wonder', label: 'Disney Wonder', shortLabel: 'Wonder' },
   { tag: 'disney-magic', label: 'Disney Magic', shortLabel: 'Magic' },
   { tag: 'disney-treasure', label: 'Disney Treasure', shortLabel: 'Treasure' },
 ] as const
 
-const CRUISE_TAGS = new Set([
+export const VACATION_DESTINATION_CHIPS = [
+  ...THEME_PARK_CHIPS,
+  ...CRUISE_SHIP_CHIPS,
+] as const
+
+const VACATION_TAGS = new Set([
   'cruise',
   'vacation',
+  'theme-park',
   'disney-cruise',
   'disney-wonder',
   'disney-magic',
   'disney-treasure',
+  'disneyland',
+  'california-adventure',
+  'dca',
+  'downtown-disney',
+  'knotts-berry-farm',
+  'knotts',
 ])
 
-export function isCruiseTag(tag: string): boolean {
+export function isVacationTag(tag: string): boolean {
   const lower = tag.trim().toLowerCase()
-  return CRUISE_TAGS.has(lower) || lower.startsWith('disney-')
+  return VACATION_TAGS.has(lower) || lower.startsWith('disney-')
 }
 
+/** Alias kept for backwards compatibility with existing imports/tests. */
+export const isCruiseTag = isVacationTag
+
 export function isCruiseOrVacationItem(item: CrohnsFoodItem): boolean {
-  return item.tags.some((t) => isCruiseTag(t))
+  return item.tags.some((t) => isVacationTag(t))
 }
 
 export interface CatalogFilters {
@@ -61,13 +90,13 @@ export function itemPassesFilters(
 ): boolean {
   if (prefs.personalStatus[item.id] === 'trigger') return false
 
-  // Cruise / Vacation filter: unselected by default so cruise items stay
-  // tucked out of everyday browsing unless Cruise mode or a cruise tag is active.
-  const isCruise = isCruiseOrVacationItem(item)
-  const tagIsCruise = Boolean(filters.tag && isCruiseTag(filters.tag))
+  // Vacation filter: unselected by default so cruise & theme-park items stay
+  // tucked out of everyday browsing unless Vacation mode or a vacation tag is active.
+  const isVacation = isCruiseOrVacationItem(item)
+  const tagIsVacation = Boolean(filters.tag && isVacationTag(filters.tag))
   if (prefs.guardrails.cruiseMode) {
-    if (!isCruise) return false
-  } else if (isCruise && !tagIsCruise) {
+    if (!isVacation) return false
+  } else if (isVacation && !tagIsVacation) {
     return false
   }
 

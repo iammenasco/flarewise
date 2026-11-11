@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Plus, Search, Ship, SlidersHorizontal, Sparkles, X } from 'lucide-react'
+import { Plus, Search, SlidersHorizontal, Sparkles, X } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { FilterPanel, ModeChips } from '../components/FilterBar'
 import { FlareDial } from '../components/FlareDial'
@@ -11,11 +11,7 @@ import { foodById } from '../data'
 import { pickForMe, useCatalogFilters } from '../hooks/useCatalogFilters'
 import { useJustReconnected } from '../hooks/useOnline'
 import { usePreferences } from '../hooks/usePreferences'
-import {
-  CRUISE_SHIP_CHIPS,
-  countActiveFilters,
-  isCruiseTag,
-} from '../lib/filters'
+import { countActiveFilters, isVacationTag } from '../lib/filters'
 import { githubRepoUrl } from '../lib/github'
 import { feelingFromMinScore } from '../lib/score'
 import { countPendingSubmissions, loadSubmitQueue } from '../lib/storage'
@@ -73,19 +69,19 @@ export function CatalogPage() {
     setPickerOpen(true)
   }
 
-  function toggleCruiseMode() {
+  function toggleVacationMode() {
     const next = !prefs.guardrails.cruiseMode
     setGuardrails({ cruiseMode: next })
-    if (!next && filters.tag && isCruiseTag(filters.tag)) {
+    if (!next && filters.tag && isVacationTag(filters.tag)) {
       patch({ tag: '' })
     }
   }
 
-  function selectShip(shipTag: string) {
+  function selectDestination(destinationTag: string) {
     if (!prefs.guardrails.cruiseMode) {
       setGuardrails({ cruiseMode: true })
     }
-    patch({ tag: filters.tag === shipTag ? '' : shipTag })
+    patch({ tag: filters.tag === destinationTag ? '' : destinationTag })
   }
 
   function clearExtraFilters() {
@@ -221,66 +217,16 @@ export function CatalogPage() {
             mode={filters.mode}
             onMode={(mode) => patch({ mode })}
           />
-          <div className="flex shrink-0 items-center gap-1.5">
-            <button
-              type="button"
-              onClick={toggleCruiseMode}
-              data-active={prefs.guardrails.cruiseMode}
-              className="chip shrink-0 !min-h-10 !px-3 !text-xs"
-              aria-label="Toggle Vacation and Cruise mode"
-              title="Vacation / Cruise menus"
-            >
-              <Ship className="h-3.5 w-3.5" />
-              Vacation
-            </button>
-            <button
-              type="button"
-              onClick={roll}
-              className="btn btn-ghost shrink-0 !min-h-10 !px-3 !text-xs"
-              aria-label="Surprise me with three ideas for today"
-            >
-              <Sparkles className="h-4 w-4 text-[var(--brand)]" />
-              Surprise me
-            </button>
-          </div>
+          <button
+            type="button"
+            onClick={roll}
+            className="btn btn-ghost shrink-0 !min-h-10 !px-3 !text-xs"
+            aria-label="Surprise me with three ideas for today"
+          >
+            <Sparkles className="h-4 w-4 text-[var(--brand)]" />
+            Surprise me
+          </button>
         </div>
-
-        {prefs.guardrails.cruiseMode ? (
-          <div className="flex items-center justify-between gap-2 rounded-xl border border-[var(--brand)]/20 bg-[var(--brand-soft)]/60 px-2.5 py-1.5">
-            <div className="flex items-center gap-1.5 overflow-x-auto">
-              <span className="shrink-0 pr-1 text-[11px] font-semibold text-[var(--brand-ink)]/70">
-                Cruises:
-              </span>
-              <button
-                type="button"
-                className="chip shrink-0 !min-h-7 !px-2.5 !py-0.5 !text-xs"
-                data-active={!filters.tag || !isCruiseTag(filters.tag)}
-                onClick={() => patch({ tag: '' })}
-              >
-                All ships
-              </button>
-              {CRUISE_SHIP_CHIPS.map((ship) => (
-                <button
-                  key={ship.tag}
-                  type="button"
-                  className="chip shrink-0 !min-h-7 !px-2.5 !py-0.5 !text-xs"
-                  data-active={filters.tag === ship.tag}
-                  onClick={() => selectShip(ship.tag)}
-                >
-                  {ship.shortLabel}
-                </button>
-              ))}
-            </div>
-            <button
-              type="button"
-              onClick={toggleCruiseMode}
-              aria-label="Exit Vacation mode"
-              className="shrink-0 rounded-full p-1 text-[var(--brand-ink)]/55 hover:bg-white/60"
-            >
-              <X className="h-3.5 w-3.5" />
-            </button>
-          </div>
-        ) : null}
       </div>
 
       <div className="flex min-h-0 flex-1 flex-col">
@@ -288,7 +234,7 @@ export function CatalogPage() {
           <p className="text-sm font-medium text-[var(--brand-ink)]/80">
             {resultLabel}
           </p>
-          {filters.tag && !(prefs.guardrails.cruiseMode && isCruiseTag(filters.tag)) ? (
+          {filters.tag ? (
             <button
               type="button"
               className="chip !min-h-8 !text-xs"
@@ -428,12 +374,12 @@ export function CatalogPage() {
                   return
                 }
                 if (key === 'cruiseMode') {
-                  toggleCruiseMode()
+                  toggleVacationMode()
                   return
                 }
                 setGuardrails({ [key]: !prefs.guardrails[key] })
               }}
-              onSelectShip={selectShip}
+              onSelectDestination={selectDestination}
               onClearExtra={clearExtraFilters}
             />
             <button

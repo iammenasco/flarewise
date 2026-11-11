@@ -1,7 +1,7 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T05:04:54.802Z",
+  "builtAt": "2026-11-11T05:56:02.758Z",
   "itemCount": 103,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
@@ -58,12 +58,17 @@
       "cautiousScope": "Flare-safe + everyday",
       "steadyPlusScope": "Includes careful options"
     },
-    "cruiseFilter": {
+    "vacationFilter": {
       "hiddenByDefault": true,
       "requiredTags": [
+        "vacation",
         "disney-cruise",
-        "cruise",
-        "vacation"
+        "cruise"
+      ],
+      "themeParkTags": [
+        "disneyland",
+        "california-adventure",
+        "knotts-berry-farm"
       ],
       "shipTags": [
         "disney-wonder",
@@ -71,7 +76,7 @@
         "disney-treasure"
       ]
     },
-    "agentBrief": "Flarewise rubric (cite briefly): crohnsScore 1–10 higher = gentler. Bands: 9–10 Flare safe; 7.5–8.9 Everyday; 6.5–7.4 Careful (Good-day fit when feeling ≥7); <6.5 Avoid (hide). Today dial (feeling 1 rough → 10 great) sets a min crohnsScore floor: rough ≈ Flare-safe only; cautious ≈ Flare-safe+Everyday; steady/good/great opens Careful. Cruise/vacation items are hidden by default unless Cruise mode is selected — always tag cruise items with 'disney-cruise' (or 'cruise'/'vacation') plus ship tags ('disney-wonder', 'disney-magic', 'disney-treasure'). Guardrails: set citrusFree=false for any lemon, lime, orange, grapefruit (1.0 hard avoid), yuzu/ponzu, or bergamot/Earl Grey; aged cheeses (Cheddar, Swiss, Gruyère, Havarti, Provolone, Parmigiano-Reggiano, Manchego) are lactoseSafe=true. Draft/rank from live neighbors + these bands — cite score/tier, not vibes. Skip medical-disclaimer boilerplate in SMS."
+    "agentBrief": "Flarewise rubric (cite briefly): crohnsScore 1–10 higher = gentler. Bands: 9–10 Flare safe; 7.5–8.9 Everyday; 6.5–7.4 Careful (Good-day fit when feeling ≥7); <6.5 Avoid (hide). Today dial (feeling 1 rough → 10 great) sets a min crohnsScore floor: rough ≈ Flare-safe only; cautious ≈ Flare-safe+Everyday; steady/good/great opens Careful. Vacation items (theme parks & cruises) are hidden by default unless Vacation mode is selected in the Filters pane — always tag theme-park items with 'vacation' plus destination tags ('disneyland', 'california-adventure', 'knotts-berry-farm') and cruise items with 'disney-cruise' plus ship tags ('disney-wonder', 'disney-magic', 'disney-treasure'). Guardrails: set citrusFree=false for any lemon, lime, orange, grapefruit (1.0 hard avoid), yuzu/ponzu, or bergamot/Earl Grey; aged cheeses (Cheddar, Swiss, Gruyère, Havarti, Provolone, Parmigiano-Reggiano, Manchego) are lactoseSafe=true. Draft/rank from live neighbors + these bands — cite score/tier, not vibes. Skip medical-disclaimer boilerplate in SMS."
   },
   "items": [
     {

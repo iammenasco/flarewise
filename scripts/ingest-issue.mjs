@@ -54,6 +54,18 @@ const tagSet = new Set(
     : [],
 )
 const text = `${item.name || ''} ${item.brandOrRestaurant || ''}`
+if (/\bdisneyland\b|\bdowntown\s*disney\b/i.test(text)) {
+  tagSet.add('vacation')
+  tagSet.add('disneyland')
+}
+if (/\bcalifornia\s*adventure\b|\bdca\b/i.test(text)) {
+  tagSet.add('vacation')
+  tagSet.add('california-adventure')
+}
+if (/\bknott'?s(\s*berry\s*farm)?\b/i.test(text)) {
+  tagSet.add('vacation')
+  tagSet.add('knotts-berry-farm')
+}
 if (
   /\b(disney\s*(wonder|magic|treasure|cruise)|castaway\s*cay|lookout\s*cay)\b/i.test(
     text,
