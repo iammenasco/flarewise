@@ -1,0 +1,36 @@
+{
+  "id": "crystal-hot-sauce-louisiana-vinegar-warning",
+  "name": "WARNING: Crystal Louisiana Hot Sauce (Aged Red Cayenne & Acidic Vinegar)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Baumer Foods / Crystal Warning",
+  "crohnsScore": 1.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "hot-sauce",
+    "louisiana-sauce",
+    "cayenne",
+    "acidic-vinegar",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "crystal hot sauce warning",
+    "louisiana hot sauce ibd",
+    "cayenne pepper sauce flare"
+  ],
+  "whyItWorks": "High-acidity aged red cayenne pepper sauce. The intense combination of acetic acid and capsaicin chemically strips mucosal mucus and triggers intense proctitis and rectal tenesmus.",
+  "prepOrOrderInstructions": "Keep table hot sauce off your plate. Opt for a pinch of sweet paprika for color and mild flavor.",
+  "safetyTier": "danger-zone"
+}

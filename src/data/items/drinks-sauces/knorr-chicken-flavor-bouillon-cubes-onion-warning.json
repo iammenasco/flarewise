@@ -1,0 +1,36 @@
+{
+  "id": "knorr-chicken-flavor-bouillon-cubes-onion-warning",
+  "name": "WARNING: Knorr Chicken Flavor Bouillon Cubes (Dehydrated Onion & Hydrogenated Fat)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Knorr Warning",
+  "crohnsScore": 2.9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "bouillon",
+    "knorr",
+    "onion-powder",
+    "hydrogenated-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "knorr bouillon warning",
+    "chicken bouillon cubes ibd",
+    "knorr chicken powder bloat"
+  ],
+  "whyItWorks": "A common hidden flare trigger in home cooking. Formulated with concentrated dehydrated onion powder, garlic powder, palm fat, and artificial colorings that trigger painful gas fermentation.",
+  "prepOrOrderInstructions": "Always check soup and rice recipes. Swap Knorr cubes for boxed organic bone broth.",
+  "safetyTier": "danger-zone"
+}

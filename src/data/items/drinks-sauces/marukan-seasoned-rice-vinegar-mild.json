@@ -1,0 +1,36 @@
+{
+  "id": "marukan-seasoned-rice-vinegar-mild",
+  "name": "Marukan Genuine Brewed Rice Vinegar (Mild Acidity)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Marukan",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vinegar",
+    "rice-vinegar",
+    "japanese",
+    "mild",
+    "low-acid",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "marukan rice vinegar",
+    "brewed rice vinegar mild",
+    "low acid vinegar ibd"
+  ],
+  "whyItWorks": "Slowly brewed from select rice with an acidity of only 4.1% (compared to 6–7% for harsh red wine or cider vinegars). Gentle on stomach acid and esophagitis while brightening Asian dishes.",
+  "prepOrOrderInstructions": "Use a teaspoon to season sushi rice or mix with tamari and sesame oil for a delicate dipping sauce.",
+  "safetyTier": "low-risk"
+}

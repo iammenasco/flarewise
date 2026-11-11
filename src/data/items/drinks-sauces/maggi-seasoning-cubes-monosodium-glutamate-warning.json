@@ -1,0 +1,36 @@
+{
+  "id": "maggi-seasoning-cubes-monosodium-glutamate-warning",
+  "name": "WARNING: Maggi Seasoning Cubes (High Sodium, MSG & Hydrolyzed Alliums)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Nestlé Maggi Warning",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "bouillon-cube",
+    "maggi",
+    "high-sodium",
+    "msg",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "maggi cube warning",
+    "maggi seasoning diarrhea",
+    "bouillon cube crohns flare"
+  ],
+  "whyItWorks": "Contains extreme sodium concentrations (over 1,000mg per cube), hydrogenated palm oil, monosodium glutamate (MSG), and hydrolyzed plant proteins with hidden allium extracts. Triggers osmotic water shifts into the bowel lumen.",
+  "prepOrOrderInstructions": "Replace commercial bouillon cubes with pure simmered chicken bone broth and Redmond sea salt.",
+  "safetyTier": "danger-zone"
+}

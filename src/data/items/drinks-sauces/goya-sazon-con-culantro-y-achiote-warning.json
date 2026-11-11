@@ -1,0 +1,36 @@
+{
+  "id": "goya-sazon-con-culantro-y-achiote-warning",
+  "name": "WARNING: Goya Sazón with Culantro & Achiote (MSG, Salt & Artificial Dyes)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Goya Warning",
+  "crohnsScore": 3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "seasoning-packet",
+    "goya-sazon",
+    "msg",
+    "artificial-dyes",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "goya sazon packet warning",
+    "sazon achiote ibd",
+    "goya seasoning stomach pain"
+  ],
+  "whyItWorks": "Convenience packet containing monosodium glutamate (MSG) as its primary ingredient, along with Yellow 5, Red 40, and garlic powder. Artificial azo dyes and heavy glutamate can exacerbate gut permeability and cramping.",
+  "prepOrOrderInstructions": "For golden Latin rice color, use natural ground turmeric and pure annatto oil rather than Goya Sazón packets.",
+  "safetyTier": "danger-zone"
+}

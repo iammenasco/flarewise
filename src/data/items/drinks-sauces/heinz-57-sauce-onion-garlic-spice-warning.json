@@ -1,0 +1,36 @@
+{
+  "id": "heinz-57-sauce-onion-garlic-spice-warning",
+  "name": "WARNING: Heinz 57 Sauce (High Fructose Corn Syrup & Concentrated Alliums)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Heinz Warning",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "condiment",
+    "steak-sauce",
+    "alliums",
+    "high-fructose",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "heinz 57 sauce warning",
+    "heinz 57 crohns flare",
+    "steak sauce garlic onion danger"
+  ],
+  "whyItWorks": "Formulated with high-fructose corn syrup, tomato paste, distilled vinegar, raisin paste, and concentrated onion/garlic powders. Fructose malabsorption combined with high allium fructans triggers gas distension and loose stools.",
+  "prepOrOrderInstructions": "Skip Heinz 57. Season meats with Redmond sea salt and Fody low-FODMAP steak spice instead.",
+  "safetyTier": "danger-zone"
+}

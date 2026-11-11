@@ -1,0 +1,36 @@
+{
+  "id": "a1-original-steak-sauce-high-acid-warning",
+  "name": "WARNING: A.1. Original Steak Sauce (Crushed Orange Puree, Raisins & Vinegar)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Kraft Heinz Warning",
+  "crohnsScore": 2.3,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "steak-sauce",
+    "a1-sauce",
+    "citrus-acid",
+    "alliums",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "a1 steak sauce warning",
+    "a1 sauce diarrhea",
+    "acidic steak sauce crohns"
+  ],
+  "whyItWorks": "Contains crushed orange puree (citric acid), raisin paste, garlic, onion, and intense acetic acid vinegar. The potent acidity irritates gastroduodenal and ileal ulcerations, while the fructans spark colonic spasms.",
+  "prepOrOrderInstructions": "Avoid A.1. sauce on steaks. Use a drizzle of garlic-infused olive oil and coarse sea salt for authentic flavor.",
+  "safetyTier": "danger-zone"
+}

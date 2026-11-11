@@ -1,0 +1,37 @@
+{
+  "id": "simply-organic-ground-ginger-root",
+  "name": "Simply Organic Pure Ground Ginger Root",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Simply Organic",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "spice",
+    "ginger",
+    "prokinetic",
+    "anti-nausea",
+    "soothing",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "ground ginger powder",
+    "ginger root spice crohns",
+    "anti nausea ginger seasoning"
+  ],
+  "whyItWorks": "Contains active gingerols and shogaols that exert anti-inflammatory effects and act as a natural mild prokinetic, gently relieving nausea, gastric fullness, and upper intestinal cramping.",
+  "prepOrOrderInstructions": "Stir 1/4 teaspoon into warm oat milk, herbal tea, applesauce, or carrot puree.",
+  "safetyTier": "flare-safe"
+}

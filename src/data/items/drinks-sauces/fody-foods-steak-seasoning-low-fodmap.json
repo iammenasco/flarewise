@@ -1,0 +1,36 @@
+{
+  "id": "fody-foods-steak-seasoning-low-fodmap",
+  "name": "Fody Foods Low FODMAP Steak Spice (Montreal Style, Onion & Garlic Free)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Fody Foods",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "seasoning",
+    "steak-spice",
+    "low-fodmap",
+    "no-alliums",
+    "grill",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "fody steak seasoning",
+    "montreal steak spice no garlic",
+    "low fodmap grill rub"
+  ],
+  "whyItWorks": "Replaces commercial steak rubs that are 50% garlic and onion salt with a blend of coarse sea salt, coriander, crushed dill seed, and sweet paprika. Robust steakhouse flavor with zero fructan bloating.",
+  "prepOrOrderInstructions": "Press onto lean sirloin steak, chicken breast cutlets, or pork tenderloin medallions before pan-searing.",
+  "safetyTier": "flare-safe"
+}

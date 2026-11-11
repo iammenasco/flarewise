@@ -1,0 +1,36 @@
+{
+  "id": "mccormick-coarse-ground-black-pepper-warning",
+  "name": "WARNING: McCormick Coarse Ground Black Pepper (Piperine Mucosal Irritant & Sharp Flakes)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "McCormick Warning",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "spice",
+    "black-pepper",
+    "piperine",
+    "mucosal-irritant",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "coarse black pepper warning",
+    "black pepper crohns irritation",
+    "piperine gut barrier disruption"
+  ],
+  "whyItWorks": "Black pepper contains piperine, an alkaloid that increases intestinal epithelial permeability ('leaky gut') and stimulates gastric acid secretion. Coarse ground flakes feature sharp jagged edges that mechanically irritate ulcers.",
+  "prepOrOrderInstructions": "Avoid coarse cracked black pepper crusted on steaks and salads. Use fine sea salt and rubbed herbs for seasoning.",
+  "safetyTier": "danger-zone"
+}

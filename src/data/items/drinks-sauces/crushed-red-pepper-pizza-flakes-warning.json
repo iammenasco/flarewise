@@ -1,0 +1,37 @@
+{
+  "id": "crushed-red-pepper-pizza-flakes-warning",
+  "name": "CRITICAL WARNING: Crushed Red Pepper Pizza Flakes (Chili Flakes & Hard Seeds)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pizzeria / Spice Shaker Warning",
+  "crohnsScore": 1.2,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "spice",
+    "chili-flakes",
+    "seeds",
+    "capsaicin",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "crushed red pepper warning",
+    "pizza pepper flakes danger",
+    "chili seeds bowel obstruction"
+  ],
+  "whyItWorks": "DUAL THREAT: The hard yellow internal seeds are completely indigestible and can mechanically wedge into narrowed strictures, while the dry chili skin flakes deliver concentrated capsaicin burns along the entire GI tract.",
+  "prepOrOrderInstructions": "Never shake crushed red pepper flakes onto pizza or pasta. Stick to dried oregano and grated aged parmesan.",
+  "safetyTier": "danger-zone"
+}

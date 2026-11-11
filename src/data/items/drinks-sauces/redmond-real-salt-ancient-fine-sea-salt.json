@@ -1,0 +1,40 @@
+{
+  "id": "redmond-real-salt-ancient-fine-sea-salt",
+  "name": "Redmond Real Salt Ancient Fine Sea Salt (Unrefined Electrolyte Salt)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Redmond",
+  "crohnsScore": 9.7,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salt",
+    "sea-salt",
+    "unrefined",
+    "electrolytes",
+    "sodium",
+    "essential",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "redmond real salt fine",
+    "ancient sea salt",
+    "unrefined salt crohns",
+    "electrolyte sodium"
+  ],
+  "whyItWorks": "Mined from an ancient prehistoric seabed in Utah, free from modern microplastics and chemical anti-caking agents. Delivers 60+ trace minerals alongside sodium chloride, essential for replacing lost electrolytes during chronic diarrhea.",
+  "prepOrOrderInstructions": "Season all homemade dishes generously to taste to maintain blood pressure and fluid balance.",
+  "safetyTier": "flare-safe"
+}

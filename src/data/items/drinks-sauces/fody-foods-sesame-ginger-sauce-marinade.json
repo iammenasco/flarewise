@@ -1,0 +1,36 @@
+{
+  "id": "fody-foods-sesame-ginger-sauce-marinade",
+  "name": "Fody Foods Low FODMAP Sesame Ginger Sauce & Marinade",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Fody Foods",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "sesame-ginger",
+    "low-fodmap",
+    "asian-marinade",
+    "no-garlic",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "fody sesame ginger sauce",
+    "low fodmap stir fry sauce",
+    "garlic free asian marinade"
+  ],
+  "whyItWorks": "Gluten-free tamari blended with toasted sesame oil, ginger puree, and organic raw sugar. Certified garlic and onion free, allowing patients to enjoy authentic stir-fries without triggering gas.",
+  "prepOrOrderInstructions": "Pour 2 tablespoons over sliced chicken breast and zucchini in a hot skillet during the final 2 minutes of cooking.",
+  "safetyTier": "flare-safe"
+}

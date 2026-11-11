@@ -1,0 +1,36 @@
+{
+  "id": "mizkan-pure-rice-mirin-cooking-wine",
+  "name": "Mizkan Hon-Mirin Pure Sweet Rice Cooking Wine",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Mizkan",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "condiment",
+    "mirin",
+    "japanese",
+    "cooking-wine",
+    "sweet-savory",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "mizkan mirin",
+    "japanese sweet rice wine",
+    "hon mirin cooking"
+  ],
+  "whyItWorks": "Naturally fermented sweet rice seasoning that glazes proteins and eliminates gamey notes. Alcohol cooks off completely during simmering, leaving a soothing natural sweetness without refined syrups.",
+  "prepOrOrderInstructions": "Simmer equal parts tamari, water, and mirin with a slice of fresh ginger to create a gentle homemade teriyaki glaze for salmon or chicken.",
+  "safetyTier": "flare-safe"
+}

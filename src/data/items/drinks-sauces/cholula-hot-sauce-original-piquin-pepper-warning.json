@@ -1,0 +1,38 @@
+{
+  "id": "cholula-hot-sauce-original-piquin-pepper-warning",
+  "name": "WARNING: Cholula Original Hot Sauce (Piquin & Arbol Peppers)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Cholula Warning",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "hot-sauce",
+    "cholula",
+    "capsaicin",
+    "piquin-pepper",
+    "gut-burn",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "cholula hot sauce warning",
+    "cholula diarrhea crohns",
+    "mexican hot sauce colitis flare"
+  ],
+  "whyItWorks": "Crafted from crushed piquin and arbol chili peppers with vinegar and garlic. The concentrated capsaicin directly binds TRPV1 pain receptors in inflamed intestinal tissue, provoking immediate peristaltic hypermotility and burning diarrhea.",
+  "prepOrOrderInstructions": "Strictly avoid hot sauces on Mexican orders. Season with pure lime juice, cumin, or mild low-FODMAP taco seasoning.",
+  "safetyTier": "danger-zone"
+}

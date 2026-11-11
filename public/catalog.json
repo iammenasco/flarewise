@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:18:58.473Z",
-  "itemCount": 2066,
+  "builtAt": "2026-11-11T20:27:05.930Z",
+  "itemCount": 2098,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1555,6 +1555,47 @@
       "_sourcePath": "src/data/items/high-protein/poached-boneless-skinless-chicken-breast.json"
     },
     {
+      "id": "redmond-real-salt-ancient-fine-sea-salt",
+      "name": "Redmond Real Salt Ancient Fine Sea Salt (Unrefined Electrolyte Salt)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Redmond",
+      "crohnsScore": 9.7,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "salt",
+        "sea-salt",
+        "unrefined",
+        "electrolytes",
+        "sodium",
+        "essential",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "redmond real salt fine",
+        "ancient sea salt",
+        "unrefined salt crohns",
+        "electrolyte sodium"
+      ],
+      "whyItWorks": "Mined from an ancient prehistoric seabed in Utah, free from modern microplastics and chemical anti-caking agents. Delivers 60+ trace minerals alongside sodium chloride, essential for replacing lost electrolytes during chronic diarrhea.",
+      "prepOrOrderInstructions": "Season all homemade dishes generously to taste to maintain blood pressure and fluid balance.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/redmond-real-salt-ancient-fine-sea-salt.json"
+    },
+    {
       "id": "towneplace-suites-draper-in-suite-kitchen-meal-hack",
       "name": "TownePlace Suites Salt Lake City Draper In-Suite Kitchen Meal (Stovetop Jasmine Rice, Bone Broth & Rotisserie Chicken)",
       "categoryFolder": "dinner",
@@ -2792,6 +2833,43 @@
       "whyItWorks": "Silky cornstarch-thickened chicken broth with ribbons of cooked egg and thin wheat wonton skins.",
       "prepOrOrderInstructions": "Order standard Egg Drop or Wonton Soup and skip the deep-fried crunchy noodle strips during an active flare.",
       "_sourcePath": "src/data/items/asian-indian/chinese-egg-drop-wonton-soup.json"
+    },
+    {
+      "id": "chosen-foods-100-percent-pure-avocado-oil",
+      "name": "Chosen Foods 100% Pure Avocado Oil (High Heat Cooking Oil)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Chosen Foods",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "cooking-oil",
+        "avocado-oil",
+        "monounsaturated",
+        "high-smoke-point",
+        "neutral",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "chosen foods avocado oil",
+        "pure avocado oil cooking",
+        "healthy cooking oil crohns"
+      ],
+      "whyItWorks": "Naturally refined without chemicals, boasting a 500°F smoke point and rich heart-healthy monounsaturated oleic acid. Unlike industrial seed oils (corn, soybean, canola), it does not generate toxic inflammatory lipid peroxides when heated.",
+      "prepOrOrderInstructions": "Use 1 teaspoon to pan-sear lean chicken cutlets, white fish fillets, or zucchini rounds in a nonstick skillet.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/chosen-foods-100-percent-pure-avocado-oil.json"
     },
     {
       "id": "coconut-secret-raw-coconut-aminos",
@@ -5495,6 +5573,44 @@
       "_sourcePath": "src/data/items/produce-sides/pureed-carrot-ginger-soup-base.json"
     },
     {
+      "id": "simply-organic-ground-turmeric-root",
+      "name": "Simply Organic Pure Ground Turmeric Root (Curcumin Anti-Inflammatory)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Simply Organic / Frontier Co-op",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "Indian",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "spice",
+        "turmeric",
+        "curcumin",
+        "anti-inflammatory",
+        "healing",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "ground turmeric spice",
+        "curcumin powder crohns",
+        "anti inflammatory turmeric seasoning"
+      ],
+      "whyItWorks": "Golden root powder packed with curcumin, one of the most thoroughly researched natural NF-kB inhibitors. Proven in clinical gastroenterology trials to help maintain mucosal remission and reduce inflammatory cytokines.",
+      "prepOrOrderInstructions": "Add 1/4 to 1/2 teaspoon to simmering chicken bone broth, white jasmine rice water, or golden oat milk lattes.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/simply-organic-ground-turmeric-root.json"
+    },
+    {
       "id": "holiday-feast-skinless-turkey-smooth-potatoes",
       "name": "Skinless Roast Turkey Breast with Smooth Yukon Gold Mashed Potatoes",
       "categoryFolder": "dinner",
@@ -6040,6 +6156,45 @@
       "prepOrOrderInstructions": "Boil in salted water for 10–11 minutes until fully tender, past the tough al dente stage. Toss with olive oil, melted ghee, or mild seedless marinara.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/italian-med/barilla-gluten-free-penne-pasta.json"
+    },
+    {
+      "id": "bragg-nutritional-yeast-seasoning-flakes",
+      "name": "Bragg Premium Nutritional Yeast Seasoning Flakes (Cheesy Umami, Dairy-Free)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Bragg",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "seasoning",
+        "nutritional-yeast",
+        "dairy-free",
+        "b-vitamins",
+        "cheesy-flavor",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "bragg nutritional yeast",
+        "nooch dairy free cheese",
+        "nutritional yeast crohns",
+        "cheesy flakes ibd"
+      ],
+      "whyItWorks": "Delivers deep, savory, cheese-like umami flavor completely free of dairy, lactose, casein, or saturated fats. Fortified with essential B-vitamins (including B12, B6, and folate) that are frequently depleted in Crohn's patients with ileal disease.",
+      "prepOrOrderInstructions": "Sprinkle 1–2 teaspoons over hot plain white rice, boiled potatoes, scrambled eggs, or gluten-free pasta for rich savory flavor with zero digestive distress.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/bragg-nutritional-yeast-seasoning-flakes.json"
     },
     {
       "id": "butterball-93-7-lean-ground-turkey",
@@ -6764,6 +6919,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/marshmallow-fluff-original-spread.json"
     },
     {
+      "id": "mccormick-ground-cinnamon-pure",
+      "name": "McCormick Pure Ground Cinnamon",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "McCormick",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "spice",
+        "cinnamon",
+        "baking",
+        "blood-sugar",
+        "warming",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "mccormick ground cinnamon",
+        "pure cinnamon spice",
+        "cinnamon for oatmeal crohns"
+      ],
+      "whyItWorks": "Natural cinnamaldehyde provides gentle warmth and helps regulate postprandial glycemic response. Mild and sweet without capsicum heat or digestive friction.",
+      "prepOrOrderInstructions": "Dust lightly over cream of rice, smooth oatmeal, baked sweet potato flesh, or unsweetened applesauce.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/mccormick-ground-cinnamon-pure.json"
+    },
+    {
       "id": "members-mark-canned-wild-alaska-pink-salmon",
       "name": "Member's Mark Wild Alaska Pink Salmon (Canned in Water 6-Pack)",
       "categoryFolder": "high-protein",
@@ -7237,6 +7430,44 @@
         "Discard seasoned skin during flares"
       ],
       "_sourcePath": "src/data/items/high-protein/sams-club-cafe-rotisserie-chicken.json"
+    },
+    {
+      "id": "simply-organic-ground-ginger-root",
+      "name": "Simply Organic Pure Ground Ginger Root",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Simply Organic",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "spice",
+        "ginger",
+        "prokinetic",
+        "anti-nausea",
+        "soothing",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "ground ginger powder",
+        "ginger root spice crohns",
+        "anti nausea ginger seasoning"
+      ],
+      "whyItWorks": "Contains active gingerols and shogaols that exert anti-inflammatory effects and act as a natural mild prokinetic, gently relieving nausea, gastric fullness, and upper intestinal cramping.",
+      "prepOrOrderInstructions": "Stir 1/4 teaspoon into warm oat milk, herbal tea, applesauce, or carrot puree.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/simply-organic-ground-ginger-root.json"
     },
     {
       "id": "snyders-mini-salted-pretzels",
@@ -8214,6 +8445,43 @@
       "_sourcePath": "src/data/items/drinks-sauces/imagine-organic-free-range-chicken-broth.json"
     },
     {
+      "id": "kadoya-pure-toasted-sesame-oil",
+      "name": "Kadoya 100% Pure Toasted Sesame Oil",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Kadoya",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "oil",
+        "sesame-oil",
+        "asian-flavor",
+        "zero-fiber",
+        "low-fodmap",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "kadoya sesame oil",
+        "toasted sesame oil crohns",
+        "pure sesame oil asian cooking"
+      ],
+      "whyItWorks": "Intensely aromatic oil pressed from toasted sesame seeds. Contains 0g of fiber and 0g of alliums, yet just a few drops impart massive Asian stir-fry and noodle flavor to plain rice and poached chicken.",
+      "prepOrOrderInstructions": "Drizzle 1/2 teaspoon over warm steamed white rice, pho broth, somen noodles, or steamed baby bok choy just before serving.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/kadoya-pure-toasted-sesame-oil.json"
+    },
+    {
       "id": "keebler-club-crackers-original",
       "name": "Keebler Club Crackers (Original Light & Flaky)",
       "categoryFolder": "snacks-desserts",
@@ -8885,6 +9153,43 @@
       "_sourcePath": "src/data/items/lunch/schar-gluten-free-artisan-baker-white-bread.json"
     },
     {
+      "id": "simply-organic-rubbed-sage",
+      "name": "Simply Organic Rubbed Dalmatian Sage",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Simply Organic",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "herb",
+        "sage",
+        "rubbed-sage",
+        "comfort-food",
+        "poultry",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "rubbed sage seasoning",
+        "dalmatian sage powder",
+        "poultry seasoning no onion garlic"
+      ],
+      "whyItWorks": "Fluffy, velvety rubbed sage powder with zero sharp leaf shards. Imparts classic holiday roast turkey and comfort-food aroma to ground poultry or mashed potatoes without alliums.",
+      "prepOrOrderInstructions": "Dust over sautéed ground turkey, chicken meatballs, or butternut squash soup.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/simply-organic-rubbed-sage.json"
+    },
+    {
       "id": "snyders-of-hanover-gluten-free-pretzel-sticks",
       "name": "Snyder's of Hanover Gluten-Free Pretzel Sticks",
       "categoryFolder": "snacks-desserts",
@@ -9531,6 +9836,43 @@
       "_sourcePath": "src/data/items/lunch/canyon-bakehouse-heritage-style-white-bread.json"
     },
     {
+      "id": "organic-unsweetened-carob-powder",
+      "name": "Chatfield's / Terrasoul Organic Carob Powder (Caffeine-Free Cocoa Alternative)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Chatfield's / Terrasoul",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "dessert"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "carob",
+        "caffeine-free",
+        "cocoa-substitute",
+        "theobromine-free",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "organic carob powder",
+        "caffeine free chocolate substitute",
+        "carob powder ibd"
+      ],
+      "whyItWorks": "Roasted pod powder that mimics chocolate flavor without caffeine, theobromine, or oxalic acid. Does not stimulate colonic motor complexes or irritate gastric sphincters like cocoa does.",
+      "prepOrOrderInstructions": "Whisk 1 tablespoon into warm oat milk with a dash of maple syrup for a soothing, gut-safe 'hot chocolate'.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/organic-unsweetened-carob-powder.json"
+    },
+    {
       "id": "dca-carthay-circle-filet-fish-parker-house-rolls",
       "name": "DCA Carthay Circle Restaurant Sustainable Fish or Filet Mignon & Warm Cheddar Parker House Rolls",
       "categoryFolder": "dinner",
@@ -9699,6 +10041,81 @@
         "Do not confuse with the spicy Banyan Beef Skewer—always choose Chieftain Chicken or sweet Bengal Beef"
       ],
       "_sourcePath": "src/data/items/high-protein/disneyland-bengal-bbq-chieftain-chicken-skewer.json"
+    },
+    {
+      "id": "fody-foods-sesame-ginger-sauce-marinade",
+      "name": "Fody Foods Low FODMAP Sesame Ginger Sauce & Marinade",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Fody Foods",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Chinese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sauce",
+        "sesame-ginger",
+        "low-fodmap",
+        "asian-marinade",
+        "no-garlic",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "fody sesame ginger sauce",
+        "low fodmap stir fry sauce",
+        "garlic free asian marinade"
+      ],
+      "whyItWorks": "Gluten-free tamari blended with toasted sesame oil, ginger puree, and organic raw sugar. Certified garlic and onion free, allowing patients to enjoy authentic stir-fries without triggering gas.",
+      "prepOrOrderInstructions": "Pour 2 tablespoons over sliced chicken breast and zucchini in a hot skillet during the final 2 minutes of cooking.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/fody-foods-sesame-ginger-sauce-marinade.json"
+    },
+    {
+      "id": "fody-foods-taco-seasoning-low-fodmap",
+      "name": "Fody Foods Low FODMAP Taco Seasoning (No Garlic, No Onion)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Fody Foods",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "seasoning",
+        "taco-seasoning",
+        "low-fodmap",
+        "no-onion-garlic",
+        "mexican",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "fody taco seasoning",
+        "low fodmap taco spice",
+        "garlic free taco seasoning",
+        "crohns taco seasoning"
+      ],
+      "whyItWorks": "Certified Low FODMAP seasoning crafted specifically for sensitive guts. Uses cumin, gentle paprika, sea salt, and oregano to recreate authentic taco meat flavor without a single trace of onion or garlic powder.",
+      "prepOrOrderInstructions": "Brown 1 lb lean ground turkey or 93/7 beef, drain excess fat, stir in 2 tbsp Fody taco seasoning and 1/3 cup water, and simmer for 5 minutes.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/fody-foods-taco-seasoning-low-fodmap.json"
     },
     {
       "id": "fody-foods-low-fodmap-bbq-sauce",
@@ -10641,6 +11058,43 @@
         "Low in protein (1g per cup); combine with eggs or poultry if seeking protein density."
       ],
       "_sourcePath": "src/data/items/breakfast/silk-unsweetened-almond-milk.json"
+    },
+    {
+      "id": "simply-organic-dried-thyme-leaves",
+      "name": "Simply Organic Pure Dried French Thyme Leaves",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Simply Organic",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "herb",
+        "thyme",
+        "french",
+        "low-fodmap",
+        "savory",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "dried thyme leaves",
+        "french thyme seasoning",
+        "low fodmap herbs crohns"
+      ],
+      "whyItWorks": "Subtle, earthy culinary herb with zero fructans or irritants. Infuses chicken bone broth, roasted squash, and lean pork tenderloin with gourmet flavor.",
+      "prepOrOrderInstructions": "Simmer in chicken soup or sprinkle over baking chicken breasts with olive oil and salt.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/simply-organic-dried-thyme-leaves.json"
     },
     {
       "id": "snack-factory-pretzel-crisps-original",
@@ -13072,6 +13526,43 @@
       "_sourcePath": "src/data/items/high-protein/flower-child-aubergine-herriman-draper-chicken-sweet-potato-bowl.json"
     },
     {
+      "id": "fody-foods-steak-seasoning-low-fodmap",
+      "name": "Fody Foods Low FODMAP Steak Spice (Montreal Style, Onion & Garlic Free)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Fody Foods",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "seasoning",
+        "steak-spice",
+        "low-fodmap",
+        "no-alliums",
+        "grill",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "fody steak seasoning",
+        "montreal steak spice no garlic",
+        "low fodmap grill rub"
+      ],
+      "whyItWorks": "Replaces commercial steak rubs that are 50% garlic and onion salt with a blend of coarse sea salt, coriander, crushed dill seed, and sweet paprika. Robust steakhouse flavor with zero fructan bloating.",
+      "prepOrOrderInstructions": "Press onto lean sirloin steak, chicken breast cutlets, or pork tenderloin medallions before pan-searing.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/fody-foods-steak-seasoning-low-fodmap.json"
+    },
+    {
       "id": "fody-foods-low-fodmap-caesar-ranch",
       "name": "Fody Foods Low-FODMAP Vegan Caesar & Ranch Dressings",
       "categoryFolder": "drinks-sauces",
@@ -14176,6 +14667,43 @@
         "Remove the spiced/peppery outer chicken skin"
       ],
       "_sourcePath": "src/data/items/high-protein/mickeys-smokestack-smoked-chicken.json"
+    },
+    {
+      "id": "mizkan-pure-rice-mirin-cooking-wine",
+      "name": "Mizkan Hon-Mirin Pure Sweet Rice Cooking Wine",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Mizkan",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "condiment",
+        "mirin",
+        "japanese",
+        "cooking-wine",
+        "sweet-savory",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "mizkan mirin",
+        "japanese sweet rice wine",
+        "hon mirin cooking"
+      ],
+      "whyItWorks": "Naturally fermented sweet rice seasoning that glazes proteins and eliminates gamey notes. Alcohol cooks off completely during simmering, leaving a soothing natural sweetness without refined syrups.",
+      "prepOrOrderInstructions": "Simmer equal parts tamari, water, and mirin with a slice of fresh ginger to create a gentle homemade teriyaki glaze for salmon or chicken.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/mizkan-pure-rice-mirin-cooking-wine.json"
     },
     {
       "id": "mo-bettahs-logan-draper-teriyaki-chicken-white-rice",
@@ -15474,6 +16002,43 @@
       "prepOrOrderInstructions": "Eat straight from the bag. Safe for flare recoveries when seeking salty savory flavor.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/snacks-desserts/cheetos-simply-puffs-white-cheddar.json"
+    },
+    {
+      "id": "simply-organic-dried-oregano-leaves",
+      "name": "Simply Organic Dried Mediterranean Oregano Leaves",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Simply Organic",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "herb",
+        "oregano",
+        "mediterranean",
+        "low-fodmap",
+        "carminative",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "dried oregano seasoning",
+        "mediterranean oregano low fodmap",
+        "safe italian herb crohns"
+      ],
+      "whyItWorks": "Fragrant dried leaves rich in carvacrol and thymol with mild carminative benefits. Unlike garlic and onion powder, dried oregano provides authentic Italian flavor without FODMAP fermentation.",
+      "prepOrOrderInstructions": "Rub between your fingertips to crush into fine powder and sprinkle over plain chicken, olive oil pasta, or zucchini.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/simply-organic-dried-oregano-leaves.json"
     },
     {
       "id": "dcl-sit-down-smoked-salmon-bagel-platter",
@@ -17708,6 +18273,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/kozy-shack-rice-pudding.json"
     },
     {
+      "id": "marukan-seasoned-rice-vinegar-mild",
+      "name": "Marukan Genuine Brewed Rice Vinegar (Mild Acidity)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Marukan",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "vinegar",
+        "rice-vinegar",
+        "japanese",
+        "mild",
+        "low-acid",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "marukan rice vinegar",
+        "brewed rice vinegar mild",
+        "low acid vinegar ibd"
+      ],
+      "whyItWorks": "Slowly brewed from select rice with an acidity of only 4.1% (compared to 6–7% for harsh red wine or cider vinegars). Gentle on stomach acid and esophagitis while brightening Asian dishes.",
+      "prepOrOrderInstructions": "Use a teaspoon to season sushi rice or mix with tamari and sesame oil for a delicate dipping sauce.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/marukan-seasoned-rice-vinegar-mild.json"
+    },
+    {
       "id": "knotts-mrs-knotts-chicken-to-go-bucket-biscuits-soup",
       "name": "Mrs. Knott's Chicken-To-Go: Roasted or Fried Chicken Bucket, Pint of Mashed Potatoes, Soup & Hot Biscuits",
       "categoryFolder": "dinner",
@@ -18747,6 +19349,43 @@
         "Contains cooked grape sugars; a light drizzle provides ample flavor."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/balsamic-glaze-reduction.json"
+    },
+    {
+      "id": "colavita-aged-balsamic-vinegar-modena",
+      "name": "Colavita Aged Balsamic Vinegar of Modena (Mellow Sweet)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Colavita",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "vinegar",
+        "balsamic",
+        "italian",
+        "low-fodmap",
+        "dressing",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "colavita balsamic vinegar",
+        "aged balsamic of modena",
+        "gentle vinegar crohns"
+      ],
+      "whyItWorks": "Aged in wooden casks, resulting in a rich, syrupy reduction of cooked grape must with lower harsh acetic bite than raw distilled white vinegar. Certified low-FODMAP at 1 tbsp servings.",
+      "prepOrOrderInstructions": "Whisk 1 tbsp balsamic vinegar with 3 tbsp extra virgin olive oil and a pinch of fine sea salt for a gut-safe salad or roasted veggie drizzle.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/colavita-aged-balsamic-vinegar-modena.json"
     },
     {
       "id": "dca-aunt-cass-turkey-sourdough-sandwich",
@@ -41650,6 +42289,42 @@
         "Skip salsa verde/rojo and hot sauce packets"
       ],
       "_sourcePath": "src/data/items/breakfast/mortys-cafe-logan-breakfast-burrito.json"
+    },
+    {
+      "id": "nature-nates-100-pure-raw-clover-honey",
+      "name": "Nature Nate's 100% Pure Raw & Unfiltered Clover Honey",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Nature Nate's",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sweetener",
+        "honey",
+        "raw-honey",
+        "natural-sugar",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "nature nates honey",
+        "pure raw clover honey",
+        "raw honey crohns"
+      ],
+      "whyItWorks": "Unadulterated honey retaining beneficial bee enzymes and antimicrobial propolis. While high in natural fructose (caution in severe fructose malabsorption), 1 teaspoon provides clean, soothing energy in warm herbal teas.",
+      "prepOrOrderInstructions": "Stir 1 level teaspoon into warm (not boiling) chamomile or ginger tea. In active severe diarrhea, pure maple syrup is lower in fructose and slightly gentler.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/nature-nates-100-pure-raw-clover-honey.json"
     },
     {
       "id": "let-the-magic-begin-clam-chowder",
@@ -78714,6 +79389,43 @@
       "_sourcePath": "src/data/items/produce-sides/merrytime-carrot-beet-orange-salad.json"
     },
     {
+      "id": "mccormick-coarse-ground-black-pepper-warning",
+      "name": "WARNING: McCormick Coarse Ground Black Pepper (Piperine Mucosal Irritant & Sharp Flakes)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "McCormick Warning",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "spice",
+        "black-pepper",
+        "piperine",
+        "mucosal-irritant",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "coarse black pepper warning",
+        "black pepper crohns irritation",
+        "piperine gut barrier disruption"
+      ],
+      "whyItWorks": "Black pepper contains piperine, an alkaloid that increases intestinal epithelial permeability ('leaky gut') and stimulates gastric acid secretion. Coarse ground flakes feature sharp jagged edges that mechanically irritate ulcers.",
+      "prepOrOrderInstructions": "Avoid coarse cracked black pepper crusted on steaks and salads. Use fine sea salt and rubbed herbs for seasoning.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/mccormick-coarse-ground-black-pepper-warning.json"
+    },
+    {
       "id": "outback-steakhouse-alice-springs-chicken-warning",
       "name": "WARNING: Outback Alice Springs Chicken (Bacon, Honey Mustard & Cheese Melt)",
       "categoryFolder": "dinner",
@@ -79578,6 +80290,44 @@
       "prepOrOrderInstructions": "Strictly avoid 100% whole wheat pasta during flares. Switch to refined white semolina pastina, white rice noodles, or corn/rice gluten-free pasta.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/italian-med/whole-wheat-100-percent-spaghetti-warning.json"
+    },
+    {
+      "id": "old-bay-classic-seafood-seasoning-warning",
+      "name": "WARNING: Old Bay Classic Seafood Seasoning (Coarse Celery Seed & Crushed Red Pepper)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "McCormick / Old Bay Warning",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "seasoning",
+        "old-bay",
+        "celery-seed",
+        "red-pepper",
+        "grit",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "old bay seasoning warning",
+        "old bay crab spice crohns",
+        "celery seed grit ibd"
+      ],
+      "whyItWorks": "Famous seafood seasoning containing coarse crushed celery seeds, crushed red pepper flakes, black pepper, and paprika. The hard insoluble celery seed particles create rough grit across inflamed mucosa.",
+      "prepOrOrderInstructions": "Season seafood with pure fine sea salt, fresh lemon juice (if in remission), and melted ghee rather than Old Bay.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/old-bay-classic-seafood-seasoning-warning.json"
     },
     {
       "id": "raw-sugar-snap-peas-pod-warning",
@@ -80471,6 +81221,44 @@
       "_sourcePath": "src/data/items/dinner/christmas-merrytime-marmalade-ham-cheddar-croquettes.json"
     },
     {
+      "id": "mccormick-curry-powder-spicy-blend-warning",
+      "name": "WARNING: Commercial Spicy Curry Powder Blends (Chili, Fenugreek & Mustard)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "McCormick / Sun Brand Warning",
+      "crohnsScore": 3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Indian",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "spice",
+        "curry-powder",
+        "spicy-blend",
+        "fenugreek",
+        "mustard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "curry powder warning",
+        "spicy curry crohns flare",
+        "commercial curry blend stomach pain"
+      ],
+      "whyItWorks": "Standard commercial yellow curry powders are hot blends featuring ground red chili peppers, fenugreek, ground black pepper, and ground mustard seed. While turmeric is beneficial, the harsh accompanying spices induce sharp GI cramping.",
+      "prepOrOrderInstructions": "Do not use pre-mixed commercial curry powders during flares. Build your own gentle golden seasoning using pure ground turmeric, ground ginger, cumin, and sea salt.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/mccormick-curry-powder-spicy-blend-warning.json"
+    },
+    {
       "id": "cold-pasta-salad-raw-vegetables-warning",
       "name": "WARNING: Deli Cold Pasta Salad (Retrograded Resistant Starch & Raw Veggies)",
       "categoryFolder": "italian-med",
@@ -80506,6 +81294,43 @@
       "prepOrOrderInstructions": "Always eat pasta warm and freshly cooked. Skip chilled pasta salads from delis or buffets.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/italian-med/cold-pasta-salad-raw-vegetables-warning.json"
+    },
+    {
+      "id": "goya-sazon-con-culantro-y-achiote-warning",
+      "name": "WARNING: Goya Sazón with Culantro & Achiote (MSG, Salt & Artificial Dyes)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Goya Warning",
+      "crohnsScore": 3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "seasoning-packet",
+        "goya-sazon",
+        "msg",
+        "artificial-dyes",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "goya sazon packet warning",
+        "sazon achiote ibd",
+        "goya seasoning stomach pain"
+      ],
+      "whyItWorks": "Convenience packet containing monosodium glutamate (MSG) as its primary ingredient, along with Yellow 5, Red 40, and garlic powder. Artificial azo dyes and heavy glutamate can exacerbate gut permeability and cramping.",
+      "prepOrOrderInstructions": "For golden Latin rice color, use natural ground turmeric and pure annatto oil rather than Goya Sazón packets.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/goya-sazon-con-culantro-y-achiote-warning.json"
     },
     {
       "id": "triscuit-original-woven-wheat-hazard-warning",
@@ -80547,6 +81372,43 @@
         "Sharp woven wheat fibers can lodge in strictured bowel segments and severely abrade ulcerated tissue."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/triscuit-original-woven-wheat-hazard-warning.json"
+    },
+    {
+      "id": "knorr-chicken-flavor-bouillon-cubes-onion-warning",
+      "name": "WARNING: Knorr Chicken Flavor Bouillon Cubes (Dehydrated Onion & Hydrogenated Fat)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Knorr Warning",
+      "crohnsScore": 2.9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "bouillon",
+        "knorr",
+        "onion-powder",
+        "hydrogenated-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "knorr bouillon warning",
+        "chicken bouillon cubes ibd",
+        "knorr chicken powder bloat"
+      ],
+      "whyItWorks": "A common hidden flare trigger in home cooking. Formulated with concentrated dehydrated onion powder, garlic powder, palm fat, and artificial colorings that trigger painful gas fermentation.",
+      "prepOrOrderInstructions": "Always check soup and rice recipes. Swap Knorr cubes for boxed organic bone broth.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/knorr-chicken-flavor-bouillon-cubes-onion-warning.json"
     },
     {
       "id": "raw-shallots-and-scallion-whites-warning",
@@ -80931,6 +81793,43 @@
       "_sourcePath": "src/data/items/italian-med/banza-chickpea-pasta-rotini-warning.json"
     },
     {
+      "id": "maggi-seasoning-cubes-monosodium-glutamate-warning",
+      "name": "WARNING: Maggi Seasoning Cubes (High Sodium, MSG & Hydrolyzed Alliums)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Nestlé Maggi Warning",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "bouillon-cube",
+        "maggi",
+        "high-sodium",
+        "msg",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "maggi cube warning",
+        "maggi seasoning diarrhea",
+        "bouillon cube crohns flare"
+      ],
+      "whyItWorks": "Contains extreme sodium concentrations (over 1,000mg per cube), hydrogenated palm oil, monosodium glutamate (MSG), and hydrolyzed plant proteins with hidden allium extracts. Triggers osmotic water shifts into the bowel lumen.",
+      "prepOrOrderInstructions": "Replace commercial bouillon cubes with pure simmered chicken bone broth and Redmond sea salt.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/maggi-seasoning-cubes-monosodium-glutamate-warning.json"
+    },
+    {
       "id": "raw-asparagus-woody-spears-warning",
       "name": "WARNING: Raw Asparagus Stalks & Fibrous Woody Bottoms",
       "categoryFolder": "produce-sides",
@@ -81042,6 +81941,43 @@
       "prepOrOrderInstructions": "STRICTLY AVOID during flares, strictures, or active proctitis. The capsaicin and hot oil provoke immediate intestinal burning and urgency.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/lunch/chick-fil-a-spicy-deluxe-sandwich-warning.json"
+    },
+    {
+      "id": "badia-complete-seasoning-sazon-completa-warning",
+      "name": "WARNING: Badia Complete Seasoning (Sazón Completa with Dehydrated Onion & Garlic)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Badia Warning",
+      "crohnsScore": 2.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "seasoning",
+        "badia",
+        "sazon-completa",
+        "dehydrated-alliums",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "badia complete seasoning warning",
+        "sazon completa crohns flare",
+        "badia spice garlic onion"
+      ],
+      "whyItWorks": "Pervasive all-purpose Latin seasoning containing heavy amounts of dehydrated onion powder, garlic powder, monosodium glutamate, and tricalcium phosphate. High fructan fermentation trigger.",
+      "prepOrOrderInstructions": "Avoid Sazón Completa blends. Use single-ingredient spices: ground cumin, dried oregano, and Redmond sea salt.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/badia-complete-seasoning-sazon-completa-warning.json"
     },
     {
       "id": "toleran-organic-red-lentil-penne-warning",
@@ -81351,6 +82287,43 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Raw green juices are not \"detoxifying\" for active bowel inflammation—they are high-residue mucosal abrasives.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/suja-organic-green-delight-cold-pressed-juice-warning.json"
+    },
+    {
+      "id": "heinz-57-sauce-onion-garlic-spice-warning",
+      "name": "WARNING: Heinz 57 Sauce (High Fructose Corn Syrup & Concentrated Alliums)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Heinz Warning",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "condiment",
+        "steak-sauce",
+        "alliums",
+        "high-fructose",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "heinz 57 sauce warning",
+        "heinz 57 crohns flare",
+        "steak sauce garlic onion danger"
+      ],
+      "whyItWorks": "Formulated with high-fructose corn syrup, tomato paste, distilled vinegar, raisin paste, and concentrated onion/garlic powders. Fructose malabsorption combined with high allium fructans triggers gas distension and loose stools.",
+      "prepOrOrderInstructions": "Skip Heinz 57. Season meats with Redmond sea salt and Fody low-FODMAP steak spice instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/heinz-57-sauce-onion-garlic-spice-warning.json"
     },
     {
       "id": "traditional-pasta-puttanesca-capers-olives-warning",
@@ -81772,6 +82745,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/snyders-jalapeno-pretzel-pieces-warning.json"
     },
     {
+      "id": "a1-original-steak-sauce-high-acid-warning",
+      "name": "WARNING: A.1. Original Steak Sauce (Crushed Orange Puree, Raisins & Vinegar)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Kraft Heinz Warning",
+      "crohnsScore": 2.3,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "steak-sauce",
+        "a1-sauce",
+        "citrus-acid",
+        "alliums",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "a1 steak sauce warning",
+        "a1 sauce diarrhea",
+        "acidic steak sauce crohns"
+      ],
+      "whyItWorks": "Contains crushed orange puree (citric acid), raisin paste, garlic, onion, and intense acetic acid vinegar. The potent acidity irritates gastroduodenal and ileal ulcerations, while the fructans spark colonic spasms.",
+      "prepOrOrderInstructions": "Avoid A.1. sauce on steaks. Use a drizzle of garlic-infused olive oil and coarse sea salt for authentic flavor.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/a1-original-steak-sauce-high-acid-warning.json"
+    },
+    {
       "id": "red-lobster-ultimate-feast-heavy-butter-warning",
       "name": "WARNING: Red Lobster Ultimate Feast (Fried Shrimp, Scampi Garlic Butter & Lobster)",
       "categoryFolder": "dinner",
@@ -82067,6 +83077,45 @@
         "Emergency hospital obstruction risk: Undigested corn kernels lodge in narrowed intestinal strictures, requiring surgical intervention."
       ],
       "_sourcePath": "src/data/items/produce-sides/whole-sweet-corn-on-the-cob-warning.json"
+    },
+    {
+      "id": "hidden-valley-ranch-dry-seasoning-packet-warning",
+      "name": "WARNING: Hidden Valley Ranch Dry Seasoning Mix (Pure Garlic, Onion & Buttermilk Concentrate)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Hidden Valley Warning",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "seasoning-packet",
+        "ranch-powder",
+        "garlic-powder",
+        "onion-powder",
+        "lactose",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "hidden valley ranch packet warning",
+        "ranch seasoning mix bloat",
+        "ranch powder crohns flare"
+      ],
+      "whyItWorks": "A concentrated bomb of dehydrated garlic powder, onion powder, dried buttermilk, MSG, and maltodextrin. Frequently used to dust potatoes, pretzels, or chicken, triggering severe gas and osmotic diarrhea.",
+      "prepOrOrderInstructions": "Avoid commercial dry ranch packets. Make homemade gut-safe ranch using lactose-free Greek yogurt, mayonnaise, fresh dill, and chives.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/hidden-valley-ranch-dry-seasoning-packet-warning.json"
     },
     {
       "id": "olive-garden-fried-mozzarella-warning",
@@ -83228,6 +84277,45 @@
       "_sourcePath": "src/data/items/high-protein/mexican-pork-chorizo-sausage-warning.json"
     },
     {
+      "id": "cholula-hot-sauce-original-piquin-pepper-warning",
+      "name": "WARNING: Cholula Original Hot Sauce (Piquin & Arbol Peppers)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Cholula Warning",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "hot-sauce",
+        "cholula",
+        "capsaicin",
+        "piquin-pepper",
+        "gut-burn",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "cholula hot sauce warning",
+        "cholula diarrhea crohns",
+        "mexican hot sauce colitis flare"
+      ],
+      "whyItWorks": "Crafted from crushed piquin and arbol chili peppers with vinegar and garlic. The concentrated capsaicin directly binds TRPV1 pain receptors in inflamed intestinal tissue, provoking immediate peristaltic hypermotility and burning diarrhea.",
+      "prepOrOrderInstructions": "Strictly avoid hot sauces on Mexican orders. Season with pure lime juice, cumin, or mild low-FODMAP taco seasoning.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/cholula-hot-sauce-original-piquin-pepper-warning.json"
+    },
+    {
       "id": "raw-edamame-in-pod-fibrous-warning",
       "name": "WARNING: Edamame Pod Outer Shell (Inedible Fibrous Pods)",
       "categoryFolder": "produce-sides",
@@ -83381,6 +84469,43 @@
       "_sourcePath": "src/data/items/dinner/applebees-boneless-buffalo-wings-warning.json"
     },
     {
+      "id": "crystal-hot-sauce-louisiana-vinegar-warning",
+      "name": "WARNING: Crystal Louisiana Hot Sauce (Aged Red Cayenne & Acidic Vinegar)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Baumer Foods / Crystal Warning",
+      "crohnsScore": 1.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "hot-sauce",
+        "louisiana-sauce",
+        "cayenne",
+        "acidic-vinegar",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "crystal hot sauce warning",
+        "louisiana hot sauce ibd",
+        "cayenne pepper sauce flare"
+      ],
+      "whyItWorks": "High-acidity aged red cayenne pepper sauce. The intense combination of acetic acid and capsaicin chemically strips mucosal mucus and triggers intense proctitis and rectal tenesmus.",
+      "prepOrOrderInstructions": "Keep table hot sauce off your plate. Opt for a pinch of sweet paprika for color and mild flavor.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/crystal-hot-sauce-louisiana-vinegar-warning.json"
+    },
+    {
       "id": "cheetos-flamin-hot-crunchy-warning",
       "name": "Cheetos Flamin' Hot Crunchy Snacks (WARNING)",
       "categoryFolder": "snacks-desserts",
@@ -83457,6 +84582,43 @@
         "Extreme gut motility stimulant: Causes violent cramping, immediate fecal urgency, and dehydrating diarrhea."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/energy-drinks-caffeine-taurine-hazard-warning.json"
+    },
+    {
+      "id": "maille-old-style-whole-grain-dijon-mustard-warning",
+      "name": "CRITICAL WARNING: Maille Old Style Whole Grain Dijon Mustard (Abrasive Seed Hazard)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Maille Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "mustard",
+        "whole-grain",
+        "abrasive-seeds",
+        "stricture-risk",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "whole grain dijon warning",
+        "maille old style mustard danger",
+        "mustard seeds stricture hazard"
+      ],
+      "whyItWorks": "CLINICAL WARNING: Composed of thousands of hard, intact, insoluble whole mustard seeds suspended in white wine vinegar. Intact seeds pass undigested into the small bowel, behaving like coarse sandpaper on raw ulcers and lodging at stricture sites.",
+      "prepOrOrderInstructions": "Strictly avoid whole grain or seeded mustards. Switch to smooth, creamy French's yellow mustard or smooth Dijon without visible seeds.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/maille-old-style-whole-grain-dijon-mustard-warning.json"
     },
     {
       "id": "olive-garden-tour-of-italy-heavy-fat-warning",
@@ -83836,6 +84998,44 @@
       "prepOrOrderInstructions": "Never order Chili's Skillet Queso or fried corn tortilla chips during flares or with active strictures.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/dinner/chilis-skillet-queso-and-chips-warning.json"
+    },
+    {
+      "id": "crushed-red-pepper-pizza-flakes-warning",
+      "name": "CRITICAL WARNING: Crushed Red Pepper Pizza Flakes (Chili Flakes & Hard Seeds)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Pizzeria / Spice Shaker Warning",
+      "crohnsScore": 1.2,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "spice",
+        "chili-flakes",
+        "seeds",
+        "capsaicin",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "crushed red pepper warning",
+        "pizza pepper flakes danger",
+        "chili seeds bowel obstruction"
+      ],
+      "whyItWorks": "DUAL THREAT: The hard yellow internal seeds are completely indigestible and can mechanically wedge into narrowed strictures, while the dry chili skin flakes deliver concentrated capsaicin burns along the entire GI tract.",
+      "prepOrOrderInstructions": "Never shake crushed red pepper flakes onto pizza or pasta. Stick to dried oregano and grated aged parmesan.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/crushed-red-pepper-pizza-flakes-warning.json"
     },
     {
       "id": "raw-oysters-on-the-half-shell-warning",

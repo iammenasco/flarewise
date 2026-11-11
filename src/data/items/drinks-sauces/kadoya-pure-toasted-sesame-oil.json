@@ -1,0 +1,36 @@
+{
+  "id": "kadoya-pure-toasted-sesame-oil",
+  "name": "Kadoya 100% Pure Toasted Sesame Oil",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Kadoya",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "oil",
+    "sesame-oil",
+    "asian-flavor",
+    "zero-fiber",
+    "low-fodmap",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "kadoya sesame oil",
+    "toasted sesame oil crohns",
+    "pure sesame oil asian cooking"
+  ],
+  "whyItWorks": "Intensely aromatic oil pressed from toasted sesame seeds. Contains 0g of fiber and 0g of alliums, yet just a few drops impart massive Asian stir-fry and noodle flavor to plain rice and poached chicken.",
+  "prepOrOrderInstructions": "Drizzle 1/2 teaspoon over warm steamed white rice, pho broth, somen noodles, or steamed baby bok choy just before serving.",
+  "safetyTier": "flare-safe"
+}

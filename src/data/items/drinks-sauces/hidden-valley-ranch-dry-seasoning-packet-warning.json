@@ -1,0 +1,38 @@
+{
+  "id": "hidden-valley-ranch-dry-seasoning-packet-warning",
+  "name": "WARNING: Hidden Valley Ranch Dry Seasoning Mix (Pure Garlic, Onion & Buttermilk Concentrate)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Hidden Valley Warning",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "seasoning-packet",
+    "ranch-powder",
+    "garlic-powder",
+    "onion-powder",
+    "lactose",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "hidden valley ranch packet warning",
+    "ranch seasoning mix bloat",
+    "ranch powder crohns flare"
+  ],
+  "whyItWorks": "A concentrated bomb of dehydrated garlic powder, onion powder, dried buttermilk, MSG, and maltodextrin. Frequently used to dust potatoes, pretzels, or chicken, triggering severe gas and osmotic diarrhea.",
+  "prepOrOrderInstructions": "Avoid commercial dry ranch packets. Make homemade gut-safe ranch using lactose-free Greek yogurt, mayonnaise, fresh dill, and chives.",
+  "safetyTier": "danger-zone"
+}

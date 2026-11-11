@@ -1,0 +1,38 @@
+{
+  "id": "bragg-nutritional-yeast-seasoning-flakes",
+  "name": "Bragg Premium Nutritional Yeast Seasoning Flakes (Cheesy Umami, Dairy-Free)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Bragg",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "seasoning",
+    "nutritional-yeast",
+    "dairy-free",
+    "b-vitamins",
+    "cheesy-flavor",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "bragg nutritional yeast",
+    "nooch dairy free cheese",
+    "nutritional yeast crohns",
+    "cheesy flakes ibd"
+  ],
+  "whyItWorks": "Delivers deep, savory, cheese-like umami flavor completely free of dairy, lactose, casein, or saturated fats. Fortified with essential B-vitamins (including B12, B6, and folate) that are frequently depleted in Crohn's patients with ileal disease.",
+  "prepOrOrderInstructions": "Sprinkle 1–2 teaspoons over hot plain white rice, boiled potatoes, scrambled eggs, or gluten-free pasta for rich savory flavor with zero digestive distress.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mccormick-ground-cinnamon-pure",
+  "name": "McCormick Pure Ground Cinnamon",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "McCormick",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "spice",
+    "cinnamon",
+    "baking",
+    "blood-sugar",
+    "warming",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "mccormick ground cinnamon",
+    "pure cinnamon spice",
+    "cinnamon for oatmeal crohns"
+  ],
+  "whyItWorks": "Natural cinnamaldehyde provides gentle warmth and helps regulate postprandial glycemic response. Mild and sweet without capsicum heat or digestive friction.",
+  "prepOrOrderInstructions": "Dust lightly over cream of rice, smooth oatmeal, baked sweet potato flesh, or unsweetened applesauce.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nature-nates-100-pure-raw-clover-honey",
+  "name": "Nature Nate's 100% Pure Raw & Unfiltered Clover Honey",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Nature Nate's",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweetener",
+    "honey",
+    "raw-honey",
+    "natural-sugar",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "nature nates honey",
+    "pure raw clover honey",
+    "raw honey crohns"
+  ],
+  "whyItWorks": "Unadulterated honey retaining beneficial bee enzymes and antimicrobial propolis. While high in natural fructose (caution in severe fructose malabsorption), 1 teaspoon provides clean, soothing energy in warm herbal teas.",
+  "prepOrOrderInstructions": "Stir 1 level teaspoon into warm (not boiling) chamomile or ginger tea. In active severe diarrhea, pure maple syrup is lower in fructose and slightly gentler.",
+  "safetyTier": "low-risk"
+}

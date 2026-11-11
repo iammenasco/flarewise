@@ -1,0 +1,36 @@
+{
+  "id": "badia-complete-seasoning-sazon-completa-warning",
+  "name": "WARNING: Badia Complete Seasoning (Sazón Completa with Dehydrated Onion & Garlic)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Badia Warning",
+  "crohnsScore": 2.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "seasoning",
+    "badia",
+    "sazon-completa",
+    "dehydrated-alliums",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "badia complete seasoning warning",
+    "sazon completa crohns flare",
+    "badia spice garlic onion"
+  ],
+  "whyItWorks": "Pervasive all-purpose Latin seasoning containing heavy amounts of dehydrated onion powder, garlic powder, monosodium glutamate, and tricalcium phosphate. High fructan fermentation trigger.",
+  "prepOrOrderInstructions": "Avoid Sazón Completa blends. Use single-ingredient spices: ground cumin, dried oregano, and Redmond sea salt.",
+  "safetyTier": "danger-zone"
+}

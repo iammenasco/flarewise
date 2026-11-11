@@ -1,0 +1,36 @@
+{
+  "id": "maille-old-style-whole-grain-dijon-mustard-warning",
+  "name": "CRITICAL WARNING: Maille Old Style Whole Grain Dijon Mustard (Abrasive Seed Hazard)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Maille Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "mustard",
+    "whole-grain",
+    "abrasive-seeds",
+    "stricture-risk",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "whole grain dijon warning",
+    "maille old style mustard danger",
+    "mustard seeds stricture hazard"
+  ],
+  "whyItWorks": "CLINICAL WARNING: Composed of thousands of hard, intact, insoluble whole mustard seeds suspended in white wine vinegar. Intact seeds pass undigested into the small bowel, behaving like coarse sandpaper on raw ulcers and lodging at stricture sites.",
+  "prepOrOrderInstructions": "Strictly avoid whole grain or seeded mustards. Switch to smooth, creamy French's yellow mustard or smooth Dijon without visible seeds.",
+  "safetyTier": "danger-zone"
+}

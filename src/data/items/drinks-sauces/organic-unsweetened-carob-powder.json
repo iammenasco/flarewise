@@ -1,0 +1,36 @@
+{
+  "id": "organic-unsweetened-carob-powder",
+  "name": "Chatfield's / Terrasoul Organic Carob Powder (Caffeine-Free Cocoa Alternative)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Chatfield's / Terrasoul",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "carob",
+    "caffeine-free",
+    "cocoa-substitute",
+    "theobromine-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "organic carob powder",
+    "caffeine free chocolate substitute",
+    "carob powder ibd"
+  ],
+  "whyItWorks": "Roasted pod powder that mimics chocolate flavor without caffeine, theobromine, or oxalic acid. Does not stimulate colonic motor complexes or irritate gastric sphincters like cocoa does.",
+  "prepOrOrderInstructions": "Whisk 1 tablespoon into warm oat milk with a dash of maple syrup for a soothing, gut-safe 'hot chocolate'.",
+  "safetyTier": "flare-safe"
+}

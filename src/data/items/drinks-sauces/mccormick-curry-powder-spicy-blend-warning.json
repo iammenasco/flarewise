@@ -1,0 +1,37 @@
+{
+  "id": "mccormick-curry-powder-spicy-blend-warning",
+  "name": "WARNING: Commercial Spicy Curry Powder Blends (Chili, Fenugreek & Mustard)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "McCormick / Sun Brand Warning",
+  "crohnsScore": 3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "spice",
+    "curry-powder",
+    "spicy-blend",
+    "fenugreek",
+    "mustard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "curry powder warning",
+    "spicy curry crohns flare",
+    "commercial curry blend stomach pain"
+  ],
+  "whyItWorks": "Standard commercial yellow curry powders are hot blends featuring ground red chili peppers, fenugreek, ground black pepper, and ground mustard seed. While turmeric is beneficial, the harsh accompanying spices induce sharp GI cramping.",
+  "prepOrOrderInstructions": "Do not use pre-mixed commercial curry powders during flares. Build your own gentle golden seasoning using pure ground turmeric, ground ginger, cumin, and sea salt.",
+  "safetyTier": "danger-zone"
+}

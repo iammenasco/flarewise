@@ -1,0 +1,37 @@
+{
+  "id": "simply-organic-ground-turmeric-root",
+  "name": "Simply Organic Pure Ground Turmeric Root (Curcumin Anti-Inflammatory)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Simply Organic / Frontier Co-op",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "spice",
+    "turmeric",
+    "curcumin",
+    "anti-inflammatory",
+    "healing",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "ground turmeric spice",
+    "curcumin powder crohns",
+    "anti inflammatory turmeric seasoning"
+  ],
+  "whyItWorks": "Golden root powder packed with curcumin, one of the most thoroughly researched natural NF-kB inhibitors. Proven in clinical gastroenterology trials to help maintain mucosal remission and reduce inflammatory cytokines.",
+  "prepOrOrderInstructions": "Add 1/4 to 1/2 teaspoon to simmering chicken bone broth, white jasmine rice water, or golden oat milk lattes.",
+  "safetyTier": "flare-safe"
+}

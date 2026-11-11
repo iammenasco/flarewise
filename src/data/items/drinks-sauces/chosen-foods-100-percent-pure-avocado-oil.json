@@ -1,0 +1,36 @@
+{
+  "id": "chosen-foods-100-percent-pure-avocado-oil",
+  "name": "Chosen Foods 100% Pure Avocado Oil (High Heat Cooking Oil)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Chosen Foods",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cooking-oil",
+    "avocado-oil",
+    "monounsaturated",
+    "high-smoke-point",
+    "neutral",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "chosen foods avocado oil",
+    "pure avocado oil cooking",
+    "healthy cooking oil crohns"
+  ],
+  "whyItWorks": "Naturally refined without chemicals, boasting a 500°F smoke point and rich heart-healthy monounsaturated oleic acid. Unlike industrial seed oils (corn, soybean, canola), it does not generate toxic inflammatory lipid peroxides when heated.",
+  "prepOrOrderInstructions": "Use 1 teaspoon to pan-sear lean chicken cutlets, white fish fillets, or zucchini rounds in a nonstick skillet.",
+  "safetyTier": "flare-safe"
+}

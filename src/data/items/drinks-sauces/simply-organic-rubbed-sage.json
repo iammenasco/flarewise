@@ -1,0 +1,36 @@
+{
+  "id": "simply-organic-rubbed-sage",
+  "name": "Simply Organic Rubbed Dalmatian Sage",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Simply Organic",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "herb",
+    "sage",
+    "rubbed-sage",
+    "comfort-food",
+    "poultry",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "rubbed sage seasoning",
+    "dalmatian sage powder",
+    "poultry seasoning no onion garlic"
+  ],
+  "whyItWorks": "Fluffy, velvety rubbed sage powder with zero sharp leaf shards. Imparts classic holiday roast turkey and comfort-food aroma to ground poultry or mashed potatoes without alliums.",
+  "prepOrOrderInstructions": "Dust over sautéed ground turkey, chicken meatballs, or butternut squash soup.",
+  "safetyTier": "flare-safe"
+}

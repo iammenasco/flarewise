@@ -1,0 +1,36 @@
+{
+  "id": "colavita-aged-balsamic-vinegar-modena",
+  "name": "Colavita Aged Balsamic Vinegar of Modena (Mellow Sweet)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Colavita",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vinegar",
+    "balsamic",
+    "italian",
+    "low-fodmap",
+    "dressing",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "colavita balsamic vinegar",
+    "aged balsamic of modena",
+    "gentle vinegar crohns"
+  ],
+  "whyItWorks": "Aged in wooden casks, resulting in a rich, syrupy reduction of cooked grape must with lower harsh acetic bite than raw distilled white vinegar. Certified low-FODMAP at 1 tbsp servings.",
+  "prepOrOrderInstructions": "Whisk 1 tbsp balsamic vinegar with 3 tbsp extra virgin olive oil and a pinch of fine sea salt for a gut-safe salad or roasted veggie drizzle.",
+  "safetyTier": "low-risk"
+}

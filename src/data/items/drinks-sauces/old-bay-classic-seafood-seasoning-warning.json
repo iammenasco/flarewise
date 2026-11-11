@@ -1,0 +1,37 @@
+{
+  "id": "old-bay-classic-seafood-seasoning-warning",
+  "name": "WARNING: Old Bay Classic Seafood Seasoning (Coarse Celery Seed & Crushed Red Pepper)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "McCormick / Old Bay Warning",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "seasoning",
+    "old-bay",
+    "celery-seed",
+    "red-pepper",
+    "grit",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "old bay seasoning warning",
+    "old bay crab spice crohns",
+    "celery seed grit ibd"
+  ],
+  "whyItWorks": "Famous seafood seasoning containing coarse crushed celery seeds, crushed red pepper flakes, black pepper, and paprika. The hard insoluble celery seed particles create rough grit across inflamed mucosa.",
+  "prepOrOrderInstructions": "Season seafood with pure fine sea salt, fresh lemon juice (if in remission), and melted ghee rather than Old Bay.",
+  "safetyTier": "danger-zone"
+}
