@@ -1,5 +1,7 @@
 /* Flarewise offline shell + runtime asset cache */
-const CACHE = 'flarewise-v4'
+const CACHE = 'flarewise-v5'
+// Catalog/data must not be precached: cache-first left the SPA on a stale
+// itemCount after ingest (main had 103, UI still showed an older filtered list).
 const PRECACHE = [
   './',
   './index.html',
@@ -9,12 +11,14 @@ const PRECACHE = [
   './og.png',
   './icons/icon-192.png',
   './icons/icon-512.png',
-  './catalog.json',
-  './schema.json',
-  './rubric.json',
-  './build-info.json',
-  './llms.txt',
 ]
+const NETWORK_FIRST = new Set([
+  '/catalog.json',
+  '/schema.json',
+  '/rubric.json',
+  '/build-info.json',
+  '/llms.txt',
+])
 
 self.addEventListener('install', (event) => {
   self.skipWaiting()
@@ -57,8 +61,8 @@ self.addEventListener('fetch', (event) => {
         })
         .catch(() => cached)
 
-      // App shell: prefer cache when offline; otherwise network-first for freshness.
-      if (request.mode === 'navigate') {
+      // App shell + catalog/data: network-first so ingest/deploy shows up.
+      if (request.mode === 'navigate' || NETWORK_FIRST.has(url.pathname)) {
         return network.then((response) => response || cached || cache.match('./index.html'))
       }
       return cached || network
