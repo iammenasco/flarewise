@@ -1,0 +1,40 @@
+{
+  "id": "swedish-fish-red-chewy-candy",
+  "name": "Swedish Fish Original Red Chewy Candy",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mondelēz International",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "swedish-fish",
+    "fat-free",
+    "gelatin-free",
+    "flare-safe",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "swedish fish",
+    "red fish candy",
+    "chewy candy",
+    "fat free candy"
+  ],
+  "whyItWorks": "Swedish Fish are made from sugar, invert sugar, corn syrup, and modified corn starch. They are 100% fat-free, gelatin-free, nut-free, and contain 0g fiber. Soft chew breaks down cleanly.",
+  "prepOrOrderInstructions": "Chew well. A great movie theater alternative to chocolate and popcorn.",
+  "watchOuts": [
+    "Pure sugar; enjoy in moderation."
+  ]
+}

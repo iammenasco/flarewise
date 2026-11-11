@@ -1,0 +1,40 @@
+{
+  "id": "prune-juice-sorbitol-warning",
+  "name": "Sunsweet 100% Prune Juice (High Osmotic Laxative Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Sunsweet",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "prune-juice",
+    "sunsweet",
+    "laxative-warning",
+    "sorbitol",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "prune juice",
+    "sunsweet prune juice",
+    "constipation juice",
+    "prune diarrhea"
+  ],
+  "whyItWorks": "Prune juice contains high natural concentrations of sorbitol and dihydroxyphenyl isatin. These compounds act as potent stimulant and osmotic laxatives, triggering violent gastrocolic spasms, explosive watery diarrhea, and rectal tenesmus in active IBD.",
+  "prepOrOrderInstructions": "Trigger Warning: Completely avoid prune juice during active Crohn's, colitis, or diarrhea episodes. Only use under physician guidance for rare opioid-induced constipation.",
+  "watchOuts": [
+    "Concentrated natural sorbitol induces severe abdominal cramping and uncontrolled watery diarrhea."
+  ]
+}

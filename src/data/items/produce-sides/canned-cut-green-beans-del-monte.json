@@ -1,0 +1,41 @@
+{
+  "id": "canned-cut-green-beans-del-monte",
+  "name": "Del Monte Canned Cut Green Beans (Ultra-Soft)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Del Monte",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "green-beans",
+    "canned-vegetables",
+    "del-monte",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "canned green beans",
+    "del monte green beans",
+    "soft green beans",
+    "cooked beans"
+  ],
+  "whyItWorks": "Commercial canning pressure-cooks green beans until completely soft, breaking down the tough outer pod fibers into a tender, easily masticated side. Very low residue and well-tolerated on low-FODMAP and low-residue diets.",
+  "prepOrOrderInstructions": "Warm on stovetop in their liquid, then drain. Season with a pinch of salt and a dab of butter or olive oil.",
+  "watchOuts": [
+    "Look for no-salt-added varieties if monitoring blood pressure on corticosteroid therapy."
+  ]
+}

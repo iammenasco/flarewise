@@ -1,0 +1,42 @@
+{
+  "id": "nabisco-ritz-crackers-original",
+  "name": "Nabisco Ritz Crackers (Original Flaky Butter)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Nabisco / Mondelēz",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "crackers",
+    "ritz",
+    "nabisco",
+    "buttery",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "ritz crackers",
+    "ritz",
+    "buttery crackers",
+    "flaky crackers",
+    "nabisco ritz"
+  ],
+  "whyItWorks": "Famous for their delicate, flaky crumb that dissolves almost instantly on the tongue. Made of refined flour with minimal fiber (0.5g), making them completely gentle on inflamed bowel mucosa.",
+  "prepOrOrderInstructions": "Pair with a slice of mild deli turkey or eat plain when nausea strikes.",
+  "watchOuts": [
+    "Contains vegetable shortening; chew slowly."
+  ]
+}

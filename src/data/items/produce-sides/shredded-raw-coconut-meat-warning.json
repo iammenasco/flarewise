@@ -1,0 +1,41 @@
+{
+  "id": "shredded-raw-coconut-meat-warning",
+  "name": "Shredded Coconut & Raw Coconut Meat (Dense Woody Fiber Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Produce & Baking Staple",
+  "crohnsScore": 3.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "coconut",
+    "shredded-coconut",
+    "woody-fiber",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "shredded coconut",
+    "raw coconut",
+    "coconut flakes",
+    "coconut macaroons",
+    "coconut obstruction"
+  ],
+  "whyItWorks": "While coconut water is safe, solid coconut meat is composed of rigid, woody, insoluble cellulose flakes. Coconut fibers do not dissolve in gastric acid, expanding and knitting together into fibrous masses (phytobezoars) that cause severe small bowel blockages.",
+  "prepOrOrderInstructions": "Severe Stricture Hazard: Avoid shredded coconut, coconut flakes, German chocolate cake, and raw coconut chunks. Stick strictly to coconut water or strained coconut milk.",
+  "watchOuts": [
+    "Top cause of phytobezoar intestinal obstructions in patients with ileal strictures."
+  ]
+}

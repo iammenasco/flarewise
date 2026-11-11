@@ -1,0 +1,41 @@
+{
+  "id": "canned-mandarin-oranges-light-juice",
+  "name": "Canned Mandarin Oranges in Light Juice or Water",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Canned Goods Staple",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "produce",
+    "fruit",
+    "mandarin-oranges",
+    "dole",
+    "canned-fruit",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "canned mandarin oranges",
+    "dole mandarins",
+    "canned oranges",
+    "peeled citrus"
+  ],
+  "whyItWorks": "Unlike fresh oranges with tough fibrous white pith and membranes, commercial canned mandarins undergo an enzymatic peeling process that dissolves all exterior stringy membranes. The soft juicy vesicles slip down easily with minimal fiber (1g).",
+  "prepOrOrderInstructions": "Drain packing juice to reduce excess simple sugars. Enjoy chilled as a light refreshing fruit side.",
+  "watchOuts": [
+    "Contains mild natural citric acid; avoid during acute gastritis or active flare-ups."
+  ]
+}

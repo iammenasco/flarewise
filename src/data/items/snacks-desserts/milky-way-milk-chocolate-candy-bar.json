@@ -1,0 +1,40 @@
+{
+  "id": "milky-way-milk-chocolate-candy-bar",
+  "name": "Milky Way Bar (Milk Chocolate, Caramel & Malt Nougat — Nut-Free!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "chocolate",
+    "milky-way",
+    "nougat",
+    "nut-free",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "milky way",
+    "milky way bar",
+    "chocolate nougat",
+    "nut free candy bar"
+  ],
+  "whyItWorks": "Unlike Snickers which has whole peanuts, Milky Way contains light whipped malt nougat and smooth caramel coated in milk chocolate. With zero nuts or seeds, it melts completely in the mouth.",
+  "prepOrOrderInstructions": "Enjoy a fun-size bar or half a regular bar in remission. Chew slowly.",
+  "watchOuts": [
+    "Contains milk, malted barley, and soy; enjoy in moderation due to sugar and fat content."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "canned-pineapple-crushed-in-juice",
+  "name": "Canned Crushed Pineapple in 100% Juice",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Canned Goods Staple",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "fruit",
+    "canned-fruit",
+    "pineapple",
+    "dole",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "canned pineapple",
+    "crushed pineapple",
+    "dole pineapple crushed",
+    "soft pineapple"
+  ],
+  "whyItWorks": "Thermal pasteurization in canning denatures the harsh proteolytic enzyme bromelain (which burns ulcerated tissue in raw pineapple). The crushed texture breaks down long fibrous strands into tiny soft bits.",
+  "prepOrOrderInstructions": "Choose crushed pineapple in its own juice, not heavy syrup. Drain liquid before eating or baking.",
+  "watchOuts": [
+    "Contains natural fruit sugars; enjoy in moderate 1/2 cup portions in remission."
+  ]
+}

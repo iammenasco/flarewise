@@ -1,0 +1,40 @@
+{
+  "id": "del-monte-fruit-cocktail-in-light-juice",
+  "name": "Del Monte Fruit Cocktail in 100% Juice or Water",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Del Monte",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "fruit",
+    "fruit-cocktail",
+    "del-monte",
+    "canned-fruit",
+    "soft-food"
+  ],
+  "searchKeywords": [
+    "fruit cocktail",
+    "canned fruit cocktail",
+    "del monte fruit",
+    "diced peaches and pears"
+  ],
+  "whyItWorks": "A classic hospital soft-diet item: diced peeled peaches, pears, seedless grapes, and cherry halves packed in light juice. Every fruit piece is skinless, seedless, and cooked until soft.",
+  "prepOrOrderInstructions": "Drain packing juice. Eat with a spoon for easy, no-effort fruit calories.",
+  "watchOuts": [
+    "Verify light juice or water pack rather than heavy corn syrup."
+  ]
+}

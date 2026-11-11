@@ -1,0 +1,41 @@
+{
+  "id": "ripe-peeled-nectarine-white-peach",
+  "name": "Ripe Peeled Nectarine or White Peach (Skin Removed)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "fruit",
+    "stone-fruit",
+    "peach",
+    "nectarine",
+    "peeled"
+  ],
+  "searchKeywords": [
+    "peeled peach",
+    "white peach",
+    "peeled nectarine",
+    "stone fruit",
+    "ripe peach"
+  ],
+  "whyItWorks": "When fully ripe and thoroughly peeled, nectarines and white peaches provide soft, sweet soluble pectin that digests effortlessly. Removing the fuzzy or waxy peel eliminates the harsh insoluble fiber.",
+  "prepOrOrderInstructions": "Wait until the fruit yields softly to gentle thumb pressure. Use a sharp paring knife to slice off all skin before eating.",
+  "watchOuts": [
+    "Never eat with the skin on during active disease. Avoid rock-hard unripened fruit."
+  ]
+}

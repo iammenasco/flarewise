@@ -1,0 +1,42 @@
+{
+  "id": "raw-kale-salad-chips-warning",
+  "name": "Raw Kale Salad & Baked Kale Chips (Coarse Insoluble Cellulose Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 2.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "greens",
+    "kale",
+    "raw-kale",
+    "roughage",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "kale",
+    "raw kale",
+    "kale salad",
+    "kale chips",
+    "roughage danger"
+  ],
+  "whyItWorks": "Kale possesses tough, rigid cell walls reinforced with insoluble crystalline cellulose and thick fibrous ribs. Human enzymes cannot break raw kale down; it balls up into scratchy abrasive wads that scrape inflamed bowel lining.",
+  "prepOrOrderInstructions": "High Trigger Hazard: Completely avoid raw kale salads, massaged kale, and dried kale chips. If desiring greens, choose thoroughly wilted baby spinach or well-cooked zucchini.",
+  "watchOuts": [
+    "One of the most abrasive raw roughage foods; causes sharp colonic pain and fecal urgency."
+  ]
+}

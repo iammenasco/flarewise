@@ -1,0 +1,40 @@
+{
+  "id": "homestyle-carrot-cake-walnut-warning",
+  "name": "Homestyle Carrot Cake with Walnuts & Cream Cheese (Triple Hazard Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bakery Grocery Staple",
+  "crohnsScore": 3.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "carrot-cake",
+    "walnuts",
+    "raisins",
+    "heavy-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "carrot cake",
+    "cream cheese frosting",
+    "walnut cake",
+    "carrot cake trigger"
+  ],
+  "whyItWorks": "Despite having 'carrots' in the name, traditional bakery carrot cake is a triple threat for IBD: shredded raw carrots that remain fibrous after baking, hard angular walnut chunks (stricture hazard), chewy raisins, and heavy vegetable oil + cream cheese frosting.",
+  "prepOrOrderInstructions": "Extreme Trigger Warning: Avoid bakery carrot cake during flares and strictures. If desiring cake, choose fat-free angel food cake or plain vanilla sponge.",
+  "watchOuts": [
+    "High fat, dense nuts, and dried raisins make this one of the most provocative desserts for IBD symptoms."
+  ]
+}

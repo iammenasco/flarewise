@@ -1,0 +1,40 @@
+{
+  "id": "triscuit-original-woven-wheat-hazard-warning",
+  "name": "Triscuit Original Whole Wheat Crackers (Abrasive Woven Wheat Hazard)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Nabisco / Mondelēz",
+  "crohnsScore": 2.9,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "crackers",
+    "triscuit",
+    "shredded-wheat",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "triscuit",
+    "whole grain crackers",
+    "woven wheat",
+    "triscuit stricture",
+    "roughage crackers"
+  ],
+  "whyItWorks": "Triscuits are made of coarse, shredded whole wheat berries woven into a dense mesh. The sharp, prickly wheat fibers resist digestive softening and act like steel wool against inflamed mucosa, posing an acute obstruction hazard in stricturing Crohn's.",
+  "prepOrOrderInstructions": "High Stricture Warning: Avoid Triscuits and shredded wheat cereals if you have Crohn's disease, strictures, or active colitis. Choose smooth Saltines, Ritz, or Club crackers instead.",
+  "watchOuts": [
+    "Sharp woven wheat fibers can lodge in strictured bowel segments and severely abrade ulcerated tissue."
+  ]
+}

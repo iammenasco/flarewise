@@ -1,0 +1,40 @@
+{
+  "id": "steamed-peeled-parsnips-puree",
+  "name": "Steamed Peeled Parsnip Puree (Fork-Mashed)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "parsnips",
+    "root-vegetables",
+    "puree",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "parsnips",
+    "parsnip puree",
+    "cooked parsnips",
+    "mashed parsnip"
+  ],
+  "whyItWorks": "Parsnips are naturally sweet root vegetables. Once peeled and simmered until soft, they mash into a velvety puree that acts as a gentle, low-residue alternative to mashed potatoes.",
+  "prepOrOrderInstructions": "Peel skin with a peeler, cut out any tough woody center core, and boil for 15 minutes. Mash with olive oil or broth.",
+  "watchOuts": [
+    "Discard the central woody core of large mature parsnips before boiling."
+  ]
+}

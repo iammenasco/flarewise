@@ -1,0 +1,38 @@
+{
+  "id": "sensible-portions-garden-veggie-straws",
+  "name": "Sensible Portions Garden Veggie Straws (Sea Salt)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sensible Portions / Hain Celestial",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "veggie-straws",
+    "potato-straws",
+    "gluten-free",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "veggie straws",
+    "sensible portions",
+    "garden veggie straws",
+    "potato straws"
+  ],
+  "whyItWorks": "Despite the 'veggie' marketing, these straws are primarily potato starch and corn flour tinted with tomato and spinach powders. They have a hollow airy tube shape that collapses easily upon chewing with zero whole vegetable fibers.",
+  "prepOrOrderInstructions": "A light, crunchy, gluten-free snack with 30% less fat than standard potato chips.",
+  "watchOuts": [
+    "Safe for remission and recovery; ensure adequate hydration."
+  ]
+}

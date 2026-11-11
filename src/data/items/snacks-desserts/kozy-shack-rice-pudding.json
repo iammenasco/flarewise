@@ -1,0 +1,40 @@
+{
+  "id": "kozy-shack-rice-pudding",
+  "name": "Kozy Shack All Natural Original Rice Pudding",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kozy Shack",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pudding",
+    "rice-pudding",
+    "kozy-shack",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "rice pudding",
+    "kozy shack rice pudding",
+    "cinnamon rice pudding",
+    "creamy rice"
+  ],
+  "whyItWorks": "Simmered white rice in sweet milk and eggs creates a comforting, low-residue dessert. White rice provides easily absorbed complex carbs and soothing bulk.",
+  "prepOrOrderInstructions": "Enjoy chilled or warm up in the microwave for 20 seconds. Take a lactase pill if sensitive.",
+  "watchOuts": [
+    "Contains whole milk; ensure cooked rice grains are tender."
+  ]
+}

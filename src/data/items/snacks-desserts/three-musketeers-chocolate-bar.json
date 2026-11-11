@@ -1,0 +1,40 @@
+{
+  "id": "three-musketeers-chocolate-bar",
+  "name": "3 Musketeers Bar (Fluffy Whipped Chocolate Nougat — Nut-Free!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "chocolate",
+    "3-musketeers",
+    "fluffy-nougat",
+    "low-fat-chocolate",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "3 musketeers",
+    "three musketeers",
+    "whipped nougat",
+    "chocolate candy bar"
+  ],
+  "whyItWorks": "Famous for having 45% less fat than average candy bars. The interior is whipped fluffy egg-white nougat that dissolves like air, making it far lighter on digestion than dense fudge or nut bars.",
+  "prepOrOrderInstructions": "One of the best standard candy bars for IBD patients in remission craving chocolate.",
+  "watchOuts": [
+    "Contains milk and egg whites; safe for remission."
+  ]
+}

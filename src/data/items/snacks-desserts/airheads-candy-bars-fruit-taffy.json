@@ -1,0 +1,41 @@
+{
+  "id": "airheads-candy-bars-fruit-taffy",
+  "name": "Airheads Bars Original Fruit Chewy Taffy",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Perfetti Van Melle",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "airheads",
+    "taffy",
+    "chewy-candy",
+    "fat-free",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "airheads",
+    "airhead bars",
+    "chewy taffy",
+    "fruit taffy",
+    "white mystery airhead"
+  ],
+  "whyItWorks": "Stretchy fruit taffy made from sugar, corn syrup, maltodextrin, and modified food starch. Free of gluten, dairy, nuts, and gelatin, yielding zero fiber residue.",
+  "prepOrOrderInstructions": "Chew slowly. A fun, fat-free sweet.",
+  "watchOuts": [
+    "Avoid sour varieties during acute mouth or stomach ulcers."
+  ]
+}

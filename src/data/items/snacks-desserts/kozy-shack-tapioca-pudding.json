@@ -1,0 +1,40 @@
+{
+  "id": "kozy-shack-tapioca-pudding",
+  "name": "Kozy Shack All Natural Tapioca Pudding",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kozy Shack",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pudding",
+    "tapioca",
+    "kozy-shack",
+    "comfort-food",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "tapioca pudding",
+    "kozy shack tapioca",
+    "tapioca pearls",
+    "creamy pudding"
+  ],
+  "whyItWorks": "Tapioca starch pearls (from cassava root) cook until gelatinous, translucent, and silky soft. Tapioca is hypoallergenic, gluten-free, and one of the easiest starches to digest in human biology.",
+  "prepOrOrderInstructions": "Eat chilled. Take a lactase tablet if you have primary dairy lactose intolerance.",
+  "watchOuts": [
+    "Contains real milk and eggs; take lactase enzyme if sensitive to lactose."
+  ]
+}

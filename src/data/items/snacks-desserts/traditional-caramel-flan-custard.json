@@ -1,0 +1,40 @@
+{
+  "id": "traditional-caramel-flan-custard",
+  "name": "Traditional Vanilla Caramel Flan / Egg Custard",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bakery / Bistro Staple",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "flan",
+    "custard",
+    "caramel",
+    "silky",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "flan",
+    "caramel flan",
+    "egg custard",
+    "custard dessert",
+    "mexican flan"
+  ],
+  "whyItWorks": "Baked egg, milk, and caramel sugar custard. Silky smooth, requiring zero mechanical chewing and melting into liquid. Free from nuts, seeds, and chocolate.",
+  "prepOrOrderInstructions": "A wonderful restaurant or home dessert. Take a lactase enzyme tablet for the condensed/evaporated milk base.",
+  "watchOuts": [
+    "Contains dairy milk and eggs; take lactase if sensitive."
+  ]
+}

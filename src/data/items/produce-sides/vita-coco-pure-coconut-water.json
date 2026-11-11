@@ -1,0 +1,41 @@
+{
+  "id": "vita-coco-pure-coconut-water",
+  "name": "Vita Coco 100% Pure Coconut Water",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Vita Coco",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "drink"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "coconut-water",
+    "electrolytes",
+    "potassium",
+    "hydration",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "coconut water",
+    "vita coco",
+    "hydration",
+    "potassium drink",
+    "electrolyte water"
+  ],
+  "whyItWorks": "The clear liquid from young green coconuts is naturally packed with potassium, sodium, and magnesium—replenishing vital intracellular electrolytes lost to acute diarrhea. Contains 0g fiber and 0g fat.",
+  "prepOrOrderInstructions": "Drink chilled in 8-oz glasses between meals. Do not confuse with high-fat coconut milk or shredded coconut meat.",
+  "watchOuts": [
+    "Drink slowly; drinking large volumes quickly can have a mild laxative effect due to natural potassium."
+  ]
+}

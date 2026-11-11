@@ -1,0 +1,40 @@
+{
+  "id": "kit-kat-crisp-wafers-milk-chocolate",
+  "name": "Kit Kat Crisp Wafers in Milk Chocolate",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "The Hershey Company",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "chocolate",
+    "kit-kat",
+    "wafers",
+    "crisp",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "kit kat",
+    "kitkat",
+    "crisp wafers",
+    "chocolate wafer"
+  ],
+  "whyItWorks": "Layers of ultra-thin, light baked wafers covered in smooth milk chocolate. The crisp wafers crush into fine crumbs with zero resistance, avoiding dense fudgy mass.",
+  "prepOrOrderInstructions": "Snap off 2 fingers. Let chocolate melt in mouth before swallowing.",
+  "watchOuts": [
+    "Contains milk and wheat gluten."
+  ]
+}

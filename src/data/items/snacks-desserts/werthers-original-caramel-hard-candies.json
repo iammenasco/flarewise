@@ -1,0 +1,40 @@
+{
+  "id": "werthers-original-caramel-hard-candies",
+  "name": "Werther's Original Caramel Hard Candies",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Storck",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "werthers",
+    "caramel",
+    "hard-candy",
+    "butter-candy",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "werthers original",
+    "caramel hard candy",
+    "butter candy",
+    "werthers"
+  ],
+  "whyItWorks": "Crafted with real cream and butter into a smooth, glass-like hard candy. Dissolves entirely into sweet liquid without chewing or digestive residue.",
+  "prepOrOrderInstructions": "Savor one piece slowly for comforting caramel flavor without nuts or chocolate.",
+  "watchOuts": [
+    "Choose original hard candies, not sugar-free polyol varieties!"
+  ]
+}

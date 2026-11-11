@@ -1,0 +1,39 @@
+{
+  "id": "cheez-it-original-baked-snack-crackers",
+  "name": "Cheez-It Original Baked Snack Crackers",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Cheez-It / Kellanova",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "crackers",
+    "cheez-it",
+    "cheese-crackers",
+    "baked",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "cheez its",
+    "cheez it crackers",
+    "original cheez it",
+    "baked cheese crackers"
+  ],
+  "whyItWorks": "Baked with real skim milk cheese and enriched flour. With only 1g fiber and light salt, they offer savory satisfaction without grease or roughage.",
+  "prepOrOrderInstructions": "Enjoy a single 1-oz serving (about 27 crackers). Chew until soft.",
+  "watchOuts": [
+    "Contains wheat and dairy; moderate fat content (8g) is safe for remission and mild recovery."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "life-savers-hard-candy-5-flavors",
+  "name": "Life Savers Hard Candy 5 Flavors Roll",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "hard-candy",
+    "life-savers",
+    "rolls",
+    "flare-safe",
+    "zero-residue"
+  ],
+  "searchKeywords": [
+    "life savers",
+    "hard candy",
+    "5 flavors",
+    "lifesavers roll"
+  ],
+  "whyItWorks": "Classic ring-shaped hard candy that dissolves slowly in the mouth via saliva. Zero fiber, zero fat, and gentle on the stomach while stimulating saliva production.",
+  "prepOrOrderInstructions": "Dissolve slowly on the tongue; do not crunch with teeth.",
+  "watchOuts": [
+    "Safe for all IBD dietary stages."
+  ]
+}

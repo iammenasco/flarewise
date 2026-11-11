@@ -1,0 +1,39 @@
+{
+  "id": "pepperidge-farm-goldfish-original-crackers",
+  "name": "Pepperidge Farm Goldfish Original / Cheddar Crackers",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pepperidge Farm / Campbell's",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "crackers",
+    "goldfish",
+    "pepperidge-farm",
+    "baked",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "goldfish crackers",
+    "cheddar goldfish",
+    "original goldfish",
+    "snack crackers"
+  ],
+  "whyItWorks": "Small, bite-sized baked wheat crackers with a tender, hollow structure that breaks down rapidly in saliva. Low in fat and fiber, providing gentle carbs and sodium.",
+  "prepOrOrderInstructions": "A great pocket snack during long drives, flare days, or errands when blood sugar drops.",
+  "watchOuts": [
+    "Chew small handfuls thoroughly before swallowing."
+  ]
+}

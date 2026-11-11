@@ -1,0 +1,40 @@
+{
+  "id": "reeses-peanut-butter-cups",
+  "name": "Reese's Peanut Butter Cups (Smooth Micro-Milled Peanut Center)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "The Hershey Company",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "chocolate",
+    "reeses",
+    "peanut-butter",
+    "reeses-cups",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "reeses",
+    "reeses peanut butter cups",
+    "peanut butter cup",
+    "hershey reeses"
+  ],
+  "whyItWorks": "Unlike candy bars with whole peanuts (Snickers, PayDay), Reese's uses a smooth, micro-ground peanut paste mixed with powdered sugar. There are zero sharp nut fragments to scratch the intestinal lining.",
+  "prepOrOrderInstructions": "Eat 1 cup slowly. Safe in remission when craving peanut butter and chocolate.",
+  "watchOuts": [
+    "Contains peanut fat and milk; limit portion if currently experiencing active bile malabsorption."
+  ]
+}

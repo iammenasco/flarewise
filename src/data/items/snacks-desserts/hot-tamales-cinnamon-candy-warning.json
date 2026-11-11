@@ -1,0 +1,40 @@
+{
+  "id": "hot-tamales-cinnamon-candy-warning",
+  "name": "Hot Tamales & Cinnamon Candies (Mucosal Burning Oil Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Just Born Quality Confections",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "hot-tamales",
+    "cinnamon",
+    "capsaicin-like",
+    "cinnamaldehyde",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "hot tamales",
+    "cinnamon candy",
+    "red hots",
+    "spicy candy",
+    "cinnamon trigger"
+  ],
+  "whyItWorks": "Hot Tamales are infused with concentrated cinnamaldehyde and artificial spicy flavor oils. These essential oils stimulate TRPV1 pain and heat receptors in the gut, burning raw aphthous ulcers in the mouth, stomach, and colon and triggering violent hypermotility.",
+  "prepOrOrderInstructions": "Spicy Trigger Warning: Avoid intense cinnamon candies during flares or colitis. Choose mild fruit chews or sweet licorice instead.",
+  "watchOuts": [
+    "Concentrated cinnamon oils burn inflamed mucosal ulcerations and trigger urgent diarrhea."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "beef-jerky-slim-jim-warning",
+  "name": "Beef Jerky & Meat Sticks (Tough Leathery Protein Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pantry Snack Staple",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "beef-jerky",
+    "slim-jim",
+    "leathery-meat",
+    "spicy",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "beef jerky",
+    "slim jim",
+    "jack links",
+    "meat stick",
+    "dried meat"
+  ],
+  "whyItWorks": "Dehydrated beef strips are tough, fibrous, and leathery. They require intense mechanical grinding by molars; swallowed chunks remain dense and fibrous in the stomach, while high sodium, black pepper, and nitrates irritate mucosal ulcers.",
+  "prepOrOrderInstructions": "Avoid tough dried jerky during active disease. For high-protein snacks, choose soft string cheese, hard-boiled eggs, or sliced deli turkey breast.",
+  "watchOuts": [
+    "Dense leathery meat fibers and black pepper seasoning irritate ulcerations and increase stricture transit difficulty."
+  ]
+}

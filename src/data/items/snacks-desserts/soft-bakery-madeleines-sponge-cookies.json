@@ -1,0 +1,39 @@
+{
+  "id": "soft-bakery-madeleines-sponge-cookies",
+  "name": "Traditional Bakery Madeleines (French Sponge Cakes)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bakery Grocery Staple",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "madeleines",
+    "sponge-cake",
+    "french-cookies",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "madeleines",
+    "french madeleines",
+    "sponge cookies",
+    "donsuemor madeleines"
+  ],
+  "whyItWorks": "Delicate shell-shaped French sponge cakes made of whipped eggs, butter, flour, and sugar. They have an ultra-tender crumb that dissolves effortlessly when dipped in warm tea.",
+  "prepOrOrderInstructions": "Dunk into chamomile or peppermint tea for an afternoon treat.",
+  "watchOuts": [
+    "Contains butter and eggs; enjoy 1–2 madeleines per serving."
+  ]
+}

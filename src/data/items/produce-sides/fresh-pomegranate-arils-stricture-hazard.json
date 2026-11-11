@@ -1,0 +1,39 @@
+{
+  "id": "fresh-pomegranate-arils-stricture-hazard",
+  "name": "Fresh Pomegranate Arils / Seeds (Extreme Mechanical Blockage Hazard)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 2.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 7,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "fruit",
+    "pomegranate",
+    "seeds",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "pomegranate",
+    "pomegranate seeds",
+    "pom arils",
+    "pomegranate blockage"
+  ],
+  "whyItWorks": "Every single pomegranate aril encases a hard, woody, indigestible seed. Eating a handful delivers hundreds of unyielding wooden beads that cannot be chewed down. In Crohn's strictures or post-surgical narrowing, they accumulate into an acute bowel obstruction.",
+  "prepOrOrderInstructions": "Emergency Blockage Warning: Never consume whole pomegranate arils if you have IBD, strictures, or an ostomy. If desiring pomegranate flavor, drink 100% strained pomegranate juice (POM Wonderful) instead.",
+  "watchOuts": [
+    "Severe mechanical obstruction risk requiring emergency surgical decompression."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pirates-booty-aged-white-cheddar-puffs",
+  "name": "Pirate's Booty Aged White Cheddar Baked Rice & Corn Puffs",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pirate Brands / Amplify Snack Brands",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "pirates-booty",
+    "cheese-puffs",
+    "gluten-free",
+    "baked",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "pirates booty",
+    "white cheddar puffs",
+    "rice and corn puffs",
+    "kids snack",
+    "safe puffs"
+  ],
+  "whyItWorks": "Baked from milled rice and corn flour without any hard hulls or kernels. The airy puffs melt in the mouth, delivering savory white cheddar flavor with zero abrasive fiber.",
+  "prepOrOrderInstructions": "Eat straight from the bag. A beloved staple for sensitive stomachs and school lunches.",
+  "watchOuts": [
+    "Contains real cheese; virtually lactose-free in standard single-serving bags."
+  ]
+}

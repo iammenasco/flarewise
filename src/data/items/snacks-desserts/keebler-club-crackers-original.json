@@ -1,0 +1,40 @@
+{
+  "id": "keebler-club-crackers-original",
+  "name": "Keebler Club Crackers (Original Light & Flaky)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Keebler / Ferrero",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "crackers",
+    "club-crackers",
+    "keebler",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "club crackers",
+    "keebler club",
+    "flaky crackers",
+    "soup crackers"
+  ],
+  "whyItWorks": "Even lighter and more tender than standard table crackers. Club crackers have a melt-in-the-mouth texture that minimizes any mechanical digestive demand.",
+  "prepOrOrderInstructions": "Drop into warm chicken noodle soup or eat plain during flare-up days.",
+  "watchOuts": [
+    "Contains wheat gluten; completely low residue."
+  ]
+}

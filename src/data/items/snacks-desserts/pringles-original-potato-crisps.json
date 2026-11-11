@@ -1,0 +1,38 @@
+{
+  "id": "pringles-original-potato-crisps",
+  "name": "Pringles Original Potato Crisps (Uniform Stacked Crisps)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pringles / Kellanova",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "potato-crisps",
+    "pringles",
+    "chips",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "pringles",
+    "original pringles",
+    "potato crisps",
+    "stacked chips"
+  ],
+  "whyItWorks": "Pringles are made from reconstituted dried potato flakes, rice flour, and wheat starch pressed into uniform parabolic curves. Because they are processed from fine potato flour, there are zero coarse potato skins or fibrous edges.",
+  "prepOrOrderInstructions": "Enjoy a moderate serving of 12–15 crisps. Chew thoroughly.",
+  "watchOuts": [
+    "Contains moderate vegetable oil; stick to original salted rather than sour cream & onion during flares."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "canned-sliced-carrots-del-monte",
+  "name": "Del Monte Canned Sliced Carrots (Fork-Soft)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Del Monte",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "carrots",
+    "canned-carrots",
+    "del-monte",
+    "beta-carotene",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "canned carrots",
+    "sliced carrots",
+    "del monte carrots",
+    "soft carrots"
+  ],
+  "whyItWorks": "Peeled, sliced, and fully pressure-cooked in the can. These carrots mash with gentle pressure from a fork, requiring zero digestive chewing energy and providing abundant soothing beta-carotene.",
+  "prepOrOrderInstructions": "Heat briefly in a saucepan or microwave. Mash into white rice or eat as an easy side with baked chicken breast.",
+  "watchOuts": [
+    "Safe for all phases of IBD, including active flares and strictures."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "roasted-brussels-sprouts-gas-warning",
+  "name": "Brussels Sprouts (High Raffinose & Sulfur Gas Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "cruciferous",
+    "brussels-sprouts",
+    "gas-warning",
+    "raffinose",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "brussels sprouts",
+    "roasted brussels sprouts",
+    "cruciferous gas",
+    "sprouts trigger"
+  ],
+  "whyItWorks": "Brussels sprouts contain high concentrations of raffinose (an indigestible trisaccharide) and glucosinolates. Colonic fermentation generates extreme volumes of carbon dioxide and hydrogen sulfide gas, causing agonizing abdominal distension.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid Brussels sprouts during active IBD. Even in remission, eat only 2–3 well-cooked halved sprouts at a time.",
+  "watchOuts": [
+    "Severe gas pressure against inflamed intestinal walls can trigger severe flares and spasm episodes."
+  ]
+}

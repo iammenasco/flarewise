@@ -1,0 +1,41 @@
+{
+  "id": "smarties-candy-rolls",
+  "name": "Smarties Candy Rolls (Powdered Dextrose Wafers)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Smarties Candy Company",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "smarties",
+    "dextrose",
+    "hypoglycemia",
+    "fat-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "smarties",
+    "candy rolls",
+    "dextrose candy",
+    "chalk candy",
+    "smarties rolls"
+  ],
+  "whyItWorks": "Made almost entirely of pure dextrose (glucose). Unlike complex sugars or lactose, pure dextrose requires zero enzymatic breakdown and is absorbed directly through the intestinal wall, providing instant cellular energy.",
+  "prepOrOrderInstructions": "Dissolve on tongue. Frequently used by diabetic and IBD patients for rapid, clean blood sugar support.",
+  "watchOuts": [
+    "Very high glycemic index; rapid absorption."
+  ]
+}

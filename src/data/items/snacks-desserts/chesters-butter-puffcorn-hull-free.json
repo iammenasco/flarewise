@@ -1,0 +1,41 @@
+{
+  "id": "chesters-butter-puffcorn-hull-free",
+  "name": "Chester's Butter Puffcorn (The 100% Hull-Free Popcorn Alternative)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Chester's / Frito-Lay",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "puffcorn",
+    "chesters",
+    "hull-free",
+    "popcorn-alternative",
+    "flare-safe",
+    "zero-hulls"
+  ],
+  "searchKeywords": [
+    "chesters puffcorn",
+    "puffcorn",
+    "hull free popcorn",
+    "safe popcorn",
+    "butter puffcorn"
+  ],
+  "whyItWorks": "The holy grail movie snack for Crohn's and Colitis patients! Unlike real popcorn which has razor-sharp hulls, Puffcorn is made from puffed cornmeal extruded into soft cloud-like puffs. It has ZERO seeds, ZERO hulls, and literally dissolves into smooth mush on contact with saliva.",
+  "prepOrOrderInstructions": "The safest crunchy movie snack for IBD. Safe even for patients with intestinal strictures or stomas.",
+  "watchOuts": [
+    "Contains artificial butter flavor and dairy whey seasoning; safe for mild lactose tolerance."
+  ]
+}

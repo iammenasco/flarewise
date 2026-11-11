@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T16:45:06.149Z",
-  "itemCount": 1524,
+  "builtAt": "2026-11-11T16:53:49.473Z",
+  "itemCount": 1566,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1537,6 +1537,48 @@
       "whyItWorks": "Comforting, rich calories without coffee acidity or dairy lactase issues when mixed into warm oat or lactose-free milk.",
       "prepOrOrderInstructions": "Whisk Castle hot cocoa mix into warm lactose-free milk, oat milk, or almond milk.",
       "_sourcePath": "src/data/items/drinks-sauces/castle-hot-cocoa-lactose-free.json"
+    },
+    {
+      "id": "chesters-butter-puffcorn-hull-free",
+      "name": "Chester's Butter Puffcorn (The 100% Hull-Free Popcorn Alternative)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Chester's / Frito-Lay",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "puffcorn",
+        "chesters",
+        "hull-free",
+        "popcorn-alternative",
+        "flare-safe",
+        "zero-hulls"
+      ],
+      "searchKeywords": [
+        "chesters puffcorn",
+        "puffcorn",
+        "hull free popcorn",
+        "safe popcorn",
+        "butter puffcorn"
+      ],
+      "whyItWorks": "The holy grail movie snack for Crohn's and Colitis patients! Unlike real popcorn which has razor-sharp hulls, Puffcorn is made from puffed cornmeal extruded into soft cloud-like puffs. It has ZERO seeds, ZERO hulls, and literally dissolves into smooth mush on contact with saliva.",
+      "prepOrOrderInstructions": "The safest crunchy movie snack for IBD. Safe even for patients with intestinal strictures or stomas.",
+      "watchOuts": [
+        "Contains artificial butter flavor and dairy whey seasoning; safe for mild lactose tolerance."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/chesters-butter-puffcorn-hull-free.json"
     },
     {
       "id": "chinese-egg-drop-wonton-soup",
@@ -3456,6 +3498,48 @@
       "_sourcePath": "src/data/items/dinner/holiday-feast-skinless-turkey-smooth-potatoes.json"
     },
     {
+      "id": "smarties-candy-rolls",
+      "name": "Smarties Candy Rolls (Powdered Dextrose Wafers)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Smarties Candy Company",
+      "crohnsScore": 9.4,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "smarties",
+        "dextrose",
+        "hypoglycemia",
+        "fat-free",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "smarties",
+        "candy rolls",
+        "dextrose candy",
+        "chalk candy",
+        "smarties rolls"
+      ],
+      "whyItWorks": "Made almost entirely of pure dextrose (glucose). Unlike complex sugars or lactose, pure dextrose requires zero enzymatic breakdown and is absorbed directly through the intestinal wall, providing instant cellular energy.",
+      "prepOrOrderInstructions": "Dissolve on tongue. Frequently used by diabetic and IBD patients for rapid, clean blood sugar support.",
+      "watchOuts": [
+        "Very high glycemic index; rapid absorption."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/smarties-candy-rolls.json"
+    },
+    {
       "id": "steamed-tender-baby-carrots",
       "name": "Steamed or Boiled Tender Baby Carrots",
       "categoryFolder": "produce-sides",
@@ -3582,6 +3666,49 @@
       "_sourcePath": "src/data/items/high-protein/costco-food-court-rotisserie-chicken-hack.json"
     },
     {
+      "id": "canned-sliced-carrots-del-monte",
+      "name": "Del Monte Canned Sliced Carrots (Fork-Soft)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Del Monte",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "vegetables",
+        "carrots",
+        "canned-carrots",
+        "del-monte",
+        "beta-carotene",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "canned carrots",
+        "sliced carrots",
+        "del monte carrots",
+        "soft carrots"
+      ],
+      "whyItWorks": "Peeled, sliced, and fully pressure-cooked in the can. These carrots mash with gentle pressure from a fork, requiring zero digestive chewing energy and providing abundant soothing beta-carotene.",
+      "prepOrOrderInstructions": "Heat briefly in a saucepan or microwave. Mash into white rice or eat as an easy side with baked chicken breast.",
+      "watchOuts": [
+        "Safe for all phases of IBD, including active flares and strictures."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/canned-sliced-carrots-del-monte.json"
+    },
+    {
       "id": "haribo-goldbears-original-gummy-bears",
       "name": "Haribo Goldbears Original Gummy Bears",
       "categoryFolder": "snacks-desserts",
@@ -3706,6 +3833,47 @@
       "_sourcePath": "src/data/items/high-protein/kirkland-signature-canned-white-albacore-tuna-in-water.json"
     },
     {
+      "id": "life-savers-hard-candy-5-flavors",
+      "name": "Life Savers Hard Candy 5 Flavors Roll",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mars Wrigley",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "hard-candy",
+        "life-savers",
+        "rolls",
+        "flare-safe",
+        "zero-residue"
+      ],
+      "searchKeywords": [
+        "life savers",
+        "hard candy",
+        "5 flavors",
+        "lifesavers roll"
+      ],
+      "whyItWorks": "Classic ring-shaped hard candy that dissolves slowly in the mouth via saliva. Zero fiber, zero fat, and gentle on the stomach while stimulating saliva production.",
+      "prepOrOrderInstructions": "Dissolve slowly on the tongue; do not crunch with teeth.",
+      "watchOuts": [
+        "Safe for all IBD dietary stages."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/life-savers-hard-candy-5-flavors.json"
+    },
+    {
       "id": "members-mark-canned-wild-alaska-pink-salmon",
       "name": "Member's Mark Wild Alaska Pink Salmon (Canned in Water 6-Pack)",
       "categoryFolder": "high-protein",
@@ -3743,6 +3911,90 @@
       "whyItWorks": "Wild-caught pink salmon packed in water with natural marine omega-3s. High in natural vitamins and clean lean protein without harsh roughage or inflammatory additives.",
       "prepOrOrderInstructions": "Drain and flake with a fork. Enjoy over white toast or alongside steamed potatoes.",
       "_sourcePath": "src/data/items/high-protein/members-mark-canned-wild-alaska-pink-salmon.json"
+    },
+    {
+      "id": "nabisco-nilla-wafers-original",
+      "name": "Nabisco Nilla Wafers (Original Vanilla)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Nabisco / Mondelēz",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "dessert",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dessert",
+        "cookies",
+        "nilla-wafers",
+        "vanilla",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "nilla wafers",
+        "vanilla wafers",
+        "nabisco wafers",
+        "banana pudding cookies"
+      ],
+      "whyItWorks": "Crisp, airy vanilla cookies that soften immediately when dipped in tea, milk, or pudding. With 0g fiber and low fat, they are a hospital-diet staple that provides gentle comfort.",
+      "prepOrOrderInstructions": "Enjoy plain or layer into vanilla pudding with sliced ripe bananas.",
+      "watchOuts": [
+        "Contains wheat flour; zero fiber."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/nabisco-nilla-wafers-original.json"
+    },
+    {
+      "id": "nabisco-ritz-crackers-original",
+      "name": "Nabisco Ritz Crackers (Original Flaky Butter)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Nabisco / Mondelēz",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "crackers",
+        "ritz",
+        "nabisco",
+        "buttery",
+        "flare-safe",
+        "low-residue"
+      ],
+      "searchKeywords": [
+        "ritz crackers",
+        "ritz",
+        "buttery crackers",
+        "flaky crackers",
+        "nabisco ritz"
+      ],
+      "whyItWorks": "Famous for their delicate, flaky crumb that dissolves almost instantly on the tongue. Made of refined flour with minimal fiber (0.5g), making them completely gentle on inflamed bowel mucosa.",
+      "prepOrOrderInstructions": "Pair with a slice of mild deli turkey or eat plain when nausea strikes.",
+      "watchOuts": [
+        "Contains vegetable shortening; chew slowly."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/nabisco-ritz-crackers-original.json"
     },
     {
       "id": "baked-russet-potato-flesh-only",
@@ -4246,6 +4498,47 @@
       "_sourcePath": "src/data/items/dinner/holiday-chilled-shrimp-cocktail-ring.json"
     },
     {
+      "id": "keebler-club-crackers-original",
+      "name": "Keebler Club Crackers (Original Light & Flaky)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Keebler / Ferrero",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "crackers",
+        "club-crackers",
+        "keebler",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "club crackers",
+        "keebler club",
+        "flaky crackers",
+        "soup crackers"
+      ],
+      "whyItWorks": "Even lighter and more tender than standard table crackers. Club crackers have a melt-in-the-mouth texture that minimizes any mechanical digestive demand.",
+      "prepOrOrderInstructions": "Drop into warm chicken noodle soup or eat plain during flare-up days.",
+      "watchOuts": [
+        "Contains wheat gluten; completely low residue."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/keebler-club-crackers-original.json"
+    },
+    {
       "id": "kirkland-signature-tail-on-cooked-shrimp-cocktail-platter",
       "name": "Kirkland Signature Chilled Cooked Tail-On Shrimp Cocktail Platter",
       "categoryFolder": "produce-sides",
@@ -4362,6 +4655,88 @@
         "Always check that the label says \"Jelly\" or \"Seedless\"—never \"Preserves\" with seeds"
       ],
       "_sourcePath": "src/data/items/drinks-sauces/knotts-berry-market-seedless-boysenberry-jelly-jar.json"
+    },
+    {
+      "id": "pirates-booty-aged-white-cheddar-puffs",
+      "name": "Pirate's Booty Aged White Cheddar Baked Rice & Corn Puffs",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Pirate Brands / Amplify Snack Brands",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "pirates-booty",
+        "cheese-puffs",
+        "gluten-free",
+        "baked",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "pirates booty",
+        "white cheddar puffs",
+        "rice and corn puffs",
+        "kids snack",
+        "safe puffs"
+      ],
+      "whyItWorks": "Baked from milled rice and corn flour without any hard hulls or kernels. The airy puffs melt in the mouth, delivering savory white cheddar flavor with zero abrasive fiber.",
+      "prepOrOrderInstructions": "Eat straight from the bag. A beloved staple for sensitive stomachs and school lunches.",
+      "watchOuts": [
+        "Contains real cheese; virtually lactose-free in standard single-serving bags."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/pirates-booty-aged-white-cheddar-puffs.json"
+    },
+    {
+      "id": "swedish-fish-red-chewy-candy",
+      "name": "Swedish Fish Original Red Chewy Candy",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mondelēz International",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "swedish-fish",
+        "fat-free",
+        "gelatin-free",
+        "flare-safe",
+        "zero-fiber"
+      ],
+      "searchKeywords": [
+        "swedish fish",
+        "red fish candy",
+        "chewy candy",
+        "fat free candy"
+      ],
+      "whyItWorks": "Swedish Fish are made from sugar, invert sugar, corn syrup, and modified corn starch. They are 100% fat-free, gelatin-free, nut-free, and contain 0g fiber. Soft chew breaks down cleanly.",
+      "prepOrOrderInstructions": "Chew well. A great movie theater alternative to chocolate and popcorn.",
+      "watchOuts": [
+        "Pure sugar; enjoy in moderation."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/swedish-fish-red-chewy-candy.json"
     },
     {
       "id": "thomas-cuisine-bamboohr-homestyle-chicken-noodle-soup",
@@ -4532,6 +4907,48 @@
       "_sourcePath": "src/data/items/dinner/vessel-kitchen-sandy-midvale-oren-roast-chicken-mashed-sweet-potato.json"
     },
     {
+      "id": "vita-coco-pure-coconut-water",
+      "name": "Vita Coco 100% Pure Coconut Water",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Vita Coco",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "drink"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "drink",
+        "coconut-water",
+        "electrolytes",
+        "potassium",
+        "hydration",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "coconut water",
+        "vita coco",
+        "hydration",
+        "potassium drink",
+        "electrolyte water"
+      ],
+      "whyItWorks": "The clear liquid from young green coconuts is naturally packed with potassium, sodium, and magnesium—replenishing vital intracellular electrolytes lost to acute diarrhea. Contains 0g fiber and 0g fat.",
+      "prepOrOrderInstructions": "Drink chilled in 8-oz glasses between meals. Do not confuse with high-fat coconut milk or shredded coconut meat.",
+      "watchOuts": [
+        "Drink slowly; drinking large volumes quickly can have a mild laxative effect due to natural potassium."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/vita-coco-pure-coconut-water.json"
+    },
+    {
       "id": "disneyland-castle-inn-anaheim-harbor-blvd-panera-ihop-safety-net",
       "name": "Anaheim Harbor Blvd (Across from Disneyland Main Entrance) Panera Bread Chicken Noodle Soup, Sourdough & IHOP Pancakes/Eggs",
       "categoryFolder": "lunch",
@@ -4699,6 +5116,48 @@
         "Eat the warm Parker House Rolls plain without the spicy chili butter spread"
       ],
       "_sourcePath": "src/data/items/dinner/dca-carthay-circle-filet-fish-parker-house-rolls.json"
+    },
+    {
+      "id": "canned-cut-green-beans-del-monte",
+      "name": "Del Monte Canned Cut Green Beans (Ultra-Soft)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Del Monte",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "vegetables",
+        "green-beans",
+        "canned-vegetables",
+        "del-monte",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "canned green beans",
+        "del monte green beans",
+        "soft green beans",
+        "cooked beans"
+      ],
+      "whyItWorks": "Commercial canning pressure-cooks green beans until completely soft, breaking down the tough outer pod fibers into a tender, easily masticated side. Very low residue and well-tolerated on low-FODMAP and low-residue diets.",
+      "prepOrOrderInstructions": "Warm on stovetop in their liquid, then drain. Season with a pinch of salt and a dab of butter or olive oil.",
+      "watchOuts": [
+        "Look for no-salt-added varieties if monitoring blood pressure on corticosteroid therapy."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/canned-cut-green-beans-del-monte.json"
     },
     {
       "id": "disneyland-storytellers-cafe-grand-californian-carved-turkey-prime-rib-waffles",
@@ -5001,6 +5460,46 @@
       "_sourcePath": "src/data/items/produce-sides/peeled-steamed-zucchini.json"
     },
     {
+      "id": "pepperidge-farm-goldfish-original-crackers",
+      "name": "Pepperidge Farm Goldfish Original / Cheddar Crackers",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Pepperidge Farm / Campbell's",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "crackers",
+        "goldfish",
+        "pepperidge-farm",
+        "baked",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "goldfish crackers",
+        "cheddar goldfish",
+        "original goldfish",
+        "snack crackers"
+      ],
+      "whyItWorks": "Small, bite-sized baked wheat crackers with a tender, hollow structure that breaks down rapidly in saliva. Low in fat and fiber, providing gentle carbs and sodium.",
+      "prepOrOrderInstructions": "A great pocket snack during long drives, flare days, or errands when blood sugar drops.",
+      "watchOuts": [
+        "Chew small handfuls thoroughly before swallowing."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/pepperidge-farm-goldfish-original-crackers.json"
+    },
+    {
       "id": "snack-factory-pretzel-crisps-original",
       "name": "Snack Factory Pretzel Crisps Original (Flat Pretzels)",
       "categoryFolder": "snacks-desserts",
@@ -5161,6 +5660,47 @@
         "Contains wheat flour; not suitable for individuals with celiac disease."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/twizzlers-strawberry-licorice-twists.json"
+    },
+    {
+      "id": "werthers-original-caramel-hard-candies",
+      "name": "Werther's Original Caramel Hard Candies",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Storck",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "werthers",
+        "caramel",
+        "hard-candy",
+        "butter-candy",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "werthers original",
+        "caramel hard candy",
+        "butter candy",
+        "werthers"
+      ],
+      "whyItWorks": "Crafted with real cream and butter into a smooth, glass-like hard candy. Dissolves entirely into sweet liquid without chewing or digestive residue.",
+      "prepOrOrderInstructions": "Savor one piece slowly for comforting caramel flavor without nuts or chocolate.",
+      "watchOuts": [
+        "Choose original hard candies, not sugar-free polyol varieties!"
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/werthers-original-caramel-hard-candies.json"
     },
     {
       "id": "dcl-room-service-all-hands-on-deck-cheese-platter",
@@ -7868,6 +8408,47 @@
       "_sourcePath": "src/data/items/breakfast/knotts-mrs-knotts-country-breakfast-scramble.json"
     },
     {
+      "id": "kozy-shack-tapioca-pudding",
+      "name": "Kozy Shack All Natural Tapioca Pudding",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Kozy Shack",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "dessert",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "dessert",
+        "pudding",
+        "tapioca",
+        "kozy-shack",
+        "comfort-food",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "tapioca pudding",
+        "kozy shack tapioca",
+        "tapioca pearls",
+        "creamy pudding"
+      ],
+      "whyItWorks": "Tapioca starch pearls (from cassava root) cook until gelatinous, translucent, and silky soft. Tapioca is hypoallergenic, gluten-free, and one of the easiest starches to digest in human biology.",
+      "prepOrOrderInstructions": "Eat chilled. Take a lactase tablet if you have primary dairy lactose intolerance.",
+      "watchOuts": [
+        "Contains real milk and eggs; take lactase enzyme if sensitive to lactose."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/kozy-shack-tapioca-pudding.json"
+    },
+    {
       "id": "loaded-baked-potato-bowl",
       "name": "Loaded Baked Potato Bowl (Strictly No Skins)",
       "categoryFolder": "dinner",
@@ -10238,6 +10819,48 @@
       "_sourcePath": "src/data/items/produce-sides/pure-canned-pumpkin-puree.json"
     },
     {
+      "id": "airheads-candy-bars-fruit-taffy",
+      "name": "Airheads Bars Original Fruit Chewy Taffy",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Perfetti Van Melle",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "airheads",
+        "taffy",
+        "chewy-candy",
+        "fat-free",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "airheads",
+        "airhead bars",
+        "chewy taffy",
+        "fruit taffy",
+        "white mystery airhead"
+      ],
+      "whyItWorks": "Stretchy fruit taffy made from sugar, corn syrup, maltodextrin, and modified food starch. Free of gluten, dairy, nuts, and gelatin, yielding zero fiber residue.",
+      "prepOrOrderInstructions": "Chew slowly. A fun, fat-free sweet.",
+      "watchOuts": [
+        "Avoid sour varieties during acute mouth or stomach ulcers."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/airheads-candy-bars-fruit-taffy.json"
+    },
+    {
       "id": "aubergine-kitchen-orem-lehi-mediterranean-chicken-bowl",
       "name": "Aubergine Kitchen (Orem & Lehi, UT) Warm Mediterranean Chicken & Rice Bowl",
       "categoryFolder": "lunch",
@@ -10685,6 +11308,47 @@
       "_sourcePath": "src/data/items/asian-indian/knotts-panda-express-marketplace-teriyaki-chicken-white-rice.json"
     },
     {
+      "id": "kozy-shack-rice-pudding",
+      "name": "Kozy Shack All Natural Original Rice Pudding",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Kozy Shack",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dessert",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "dessert",
+        "pudding",
+        "rice-pudding",
+        "kozy-shack",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "rice pudding",
+        "kozy shack rice pudding",
+        "cinnamon rice pudding",
+        "creamy rice"
+      ],
+      "whyItWorks": "Simmered white rice in sweet milk and eggs creates a comforting, low-residue dessert. White rice provides easily absorbed complex carbs and soothing bulk.",
+      "prepOrOrderInstructions": "Enjoy chilled or warm up in the microwave for 20 seconds. Take a lactase pill if sensitive.",
+      "watchOuts": [
+        "Contains whole milk; ensure cooked rice grains are tender."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/kozy-shack-rice-pudding.json"
+    },
+    {
       "id": "knotts-mrs-knotts-chicken-to-go-bucket-biscuits-soup",
       "name": "Mrs. Knott's Chicken-To-Go: Roasted or Fried Chicken Bucket, Pint of Mashed Potatoes, Soup & Hot Biscuits",
       "categoryFolder": "dinner",
@@ -10724,6 +11388,47 @@
         "Ask for gravy on the side and take a lactase tablet for the mashed potatoes and biscuits"
       ],
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-chicken-to-go-bucket-biscuits-soup.json"
+    },
+    {
+      "id": "steamed-peeled-parsnips-puree",
+      "name": "Steamed Peeled Parsnip Puree (Fork-Mashed)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce Staple",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "vegetables",
+        "parsnips",
+        "root-vegetables",
+        "puree",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "parsnips",
+        "parsnip puree",
+        "cooked parsnips",
+        "mashed parsnip"
+      ],
+      "whyItWorks": "Parsnips are naturally sweet root vegetables. Once peeled and simmered until soft, they mash into a velvety puree that acts as a gentle, low-residue alternative to mashed potatoes.",
+      "prepOrOrderInstructions": "Peel skin with a peeler, cut out any tough woody center core, and boil for 15 minutes. Mash with olive oil or broth.",
+      "watchOuts": [
+        "Discard the central woody core of large mature parsnips before boiling."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/steamed-peeled-parsnips-puree.json"
     },
     {
       "id": "viva-chicken-herriman-st-george-rotisserie-chicken-white-rice",
@@ -10981,6 +11686,46 @@
       "_sourcePath": "src/data/items/dinner/aubergine-kitchen-herriman-draper-lehi-salmon-rice-bowl.json"
     },
     {
+      "id": "cheez-it-original-baked-snack-crackers",
+      "name": "Cheez-It Original Baked Snack Crackers",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Cheez-It / Kellanova",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "crackers",
+        "cheez-it",
+        "cheese-crackers",
+        "baked",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "cheez its",
+        "cheez it crackers",
+        "original cheez it",
+        "baked cheese crackers"
+      ],
+      "whyItWorks": "Baked with real skim milk cheese and enriched flour. With only 1g fiber and light salt, they offer savory satisfaction without grease or roughage.",
+      "prepOrOrderInstructions": "Enjoy a single 1-oz serving (about 27 crackers). Chew until soft.",
+      "watchOuts": [
+        "Contains wheat and dairy; moderate fat content (8g) is safe for remission and mild recovery."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/cheez-it-original-baked-snack-crackers.json"
+    },
+    {
       "id": "knotts-buena-park-claim-jumper-rotisserie-chicken-baked-potato",
       "name": "Claim Jumper Steakhouse (Buena Park — Across from Knott's) Rotisserie Chicken, Tri-Tip & Giant Baked Idaho Potato",
       "categoryFolder": "dinner",
@@ -11182,6 +11927,47 @@
         "Skip the beer-cheese sauce (dairy + onion/garlic) and coarse mustard seed dip"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/dca-pym-test-kitchen-quantum-pretzel.json"
+    },
+    {
+      "id": "del-monte-fruit-cocktail-in-light-juice",
+      "name": "Del Monte Fruit Cocktail in 100% Juice or Water",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Del Monte",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "fruit",
+        "fruit-cocktail",
+        "del-monte",
+        "canned-fruit",
+        "soft-food"
+      ],
+      "searchKeywords": [
+        "fruit cocktail",
+        "canned fruit cocktail",
+        "del monte fruit",
+        "diced peaches and pears"
+      ],
+      "whyItWorks": "A classic hospital soft-diet item: diced peeled peaches, pears, seedless grapes, and cherry halves packed in light juice. Every fruit piece is skinless, seedless, and cooked until soft.",
+      "prepOrOrderInstructions": "Drain packing juice. Eat with a spoon for easy, no-effort fruit calories.",
+      "watchOuts": [
+        "Verify light juice or water pack rather than heavy corn syrup."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/del-monte-fruit-cocktail-in-light-juice.json"
     },
     {
       "id": "disneyland-grand-californian-hearthstone-lounge-prime-rib-dip-salmon",
@@ -12029,6 +12815,47 @@
         "Avoid raw cabbage, whole beans, and spicy sriracha dressings"
       ],
       "_sourcePath": "src/data/items/lunch/thomas-cuisine-bamboohr-custom-grain-bowl-chicken-rice.json"
+    },
+    {
+      "id": "traditional-caramel-flan-custard",
+      "name": "Traditional Vanilla Caramel Flan / Egg Custard",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Bakery / Bistro Staple",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "dessert",
+        "flan",
+        "custard",
+        "caramel",
+        "silky",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "flan",
+        "caramel flan",
+        "egg custard",
+        "custard dessert",
+        "mexican flan"
+      ],
+      "whyItWorks": "Baked egg, milk, and caramel sugar custard. Silky smooth, requiring zero mechanical chewing and melting into liquid. Free from nuts, seeds, and chocolate.",
+      "prepOrOrderInstructions": "A wonderful restaurant or home dessert. Take a lactase enzyme tablet for the condensed/evaporated milk base.",
+      "watchOuts": [
+        "Contains dairy milk and eggs; take lactase if sensitive."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/traditional-caramel-flan-custard.json"
     },
     {
       "id": "trident-seafoods-wild-alaskan-salmon-burgers-costco",
@@ -12926,6 +13753,45 @@
       "_sourcePath": "src/data/items/dinner/holiday-leftover-turkey-shepherds-pie.json"
     },
     {
+      "id": "sensible-portions-garden-veggie-straws",
+      "name": "Sensible Portions Garden Veggie Straws (Sea Salt)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Sensible Portions / Hain Celestial",
+      "crohnsScore": 8.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "veggie-straws",
+        "potato-straws",
+        "gluten-free",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "veggie straws",
+        "sensible portions",
+        "garden veggie straws",
+        "potato straws"
+      ],
+      "whyItWorks": "Despite the 'veggie' marketing, these straws are primarily potato starch and corn flour tinted with tomato and spinach powders. They have a hollow airy tube shape that collapses easily upon chewing with zero whole vegetable fibers.",
+      "prepOrOrderInstructions": "A light, crunchy, gluten-free snack with 30% less fat than standard potato chips.",
+      "watchOuts": [
+        "Safe for remission and recovery; ensure adequate hydration."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/sensible-portions-garden-veggie-straws.json"
+    },
+    {
       "id": "starburst-original-fruit-chews",
       "name": "Starburst Original Fruit Chews",
       "categoryFolder": "snacks-desserts",
@@ -13375,6 +14241,48 @@
         "The complimentary chocolate-covered strawberry has tiny insoluble seeds on the outside—eat just the chocolate tip or skip during flares"
       ],
       "_sourcePath": "src/data/items/lunch/cafe-zupas-utah-turkey-avocado-soup-combo.json"
+    },
+    {
+      "id": "canned-mandarin-oranges-light-juice",
+      "name": "Canned Mandarin Oranges in Light Juice or Water",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Canned Goods Staple",
+      "crohnsScore": 8.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "breakfast",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "produce",
+        "fruit",
+        "mandarin-oranges",
+        "dole",
+        "canned-fruit",
+        "low-fiber"
+      ],
+      "searchKeywords": [
+        "canned mandarin oranges",
+        "dole mandarins",
+        "canned oranges",
+        "peeled citrus"
+      ],
+      "whyItWorks": "Unlike fresh oranges with tough fibrous white pith and membranes, commercial canned mandarins undergo an enzymatic peeling process that dissolves all exterior stringy membranes. The soft juicy vesicles slip down easily with minimal fiber (1g).",
+      "prepOrOrderInstructions": "Drain packing juice to reduce excess simple sugars. Enjoy chilled as a light refreshing fruit side.",
+      "watchOuts": [
+        "Contains mild natural citric acid; avoid during acute gastritis or active flare-ups."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/canned-mandarin-oranges-light-juice.json"
     },
     {
       "id": "coopers-bear-lake-west-ny-strip-steak-potato",
@@ -14596,6 +15504,46 @@
       "_sourcePath": "src/data/items/italian-med/pesto-italian-kitchen-draper-herriman-fettuccine-grilled-chicken-marinara-free.json"
     },
     {
+      "id": "soft-bakery-madeleines-sponge-cookies",
+      "name": "Traditional Bakery Madeleines (French Sponge Cakes)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Bakery Grocery Staple",
+      "crohnsScore": 8.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dessert",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dessert",
+        "madeleines",
+        "sponge-cake",
+        "french-cookies",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "madeleines",
+        "french madeleines",
+        "sponge cookies",
+        "donsuemor madeleines"
+      ],
+      "whyItWorks": "Delicate shell-shaped French sponge cakes made of whipped eggs, butter, flour, and sugar. They have an ultra-tender crumb that dissolves effortlessly when dipped in warm tea.",
+      "prepOrOrderInstructions": "Dunk into chamomile or peppermint tea for an afternoon treat.",
+      "watchOuts": [
+        "Contains butter and eggs; enjoy 1–2 madeleines per serving."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/soft-bakery-madeleines-sponge-cookies.json"
+    },
+    {
       "id": "1923-warm-cinnamon-donut-holes-sundae",
       "name": "1923 Warm Cinnamon Donut Holes & Hot Fudge Sundae",
       "categoryFolder": "snacks-desserts",
@@ -15261,6 +16209,48 @@
         "Request sauces and compound butters on the side"
       ],
       "_sourcePath": "src/data/items/high-protein/campfire-grill-conestoga-ranch-salmon-steak.json"
+    },
+    {
+      "id": "canned-sliced-pickled-beets",
+      "name": "Canned Sliced Beets in Water or Light Pickle",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Canned Goods Staple",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "vegetables",
+        "beets",
+        "canned-beets",
+        "soluble-fiber",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "canned beets",
+        "sliced beets",
+        "pickled beets",
+        "soft beets",
+        "cooked beets"
+      ],
+      "whyItWorks": "Canned beets are steam-peeled and cooked until silky tender. They are rich in nitrates and soluble pectin, breaking down smoothly in the upper digestive tract.",
+      "prepOrOrderInstructions": "Drain liquid and slice into tender bite-sized half-moons. Great paired with soft goat cheese or in a bland grain bowl.",
+      "watchOuts": [
+        "Harmless beeturia: Betacyanin pigments will turn stool and urine deep pink or red. Do not mistake for active gastrointestinal bleeding!"
+      ],
+      "_sourcePath": "src/data/items/produce-sides/canned-sliced-pickled-beets.json"
     },
     {
       "id": "pirate-night-carrot-cilantro-soup",
@@ -21760,6 +22750,48 @@
       "_sourcePath": "src/data/items/diner-bbq/r-and-r-bbq-utah-smoked-turkey-pulled-pork.json"
     },
     {
+      "id": "ripe-peeled-nectarine-white-peach",
+      "name": "Ripe Peeled Nectarine or White Peach (Skin Removed)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce Staple",
+      "crohnsScore": 8.4,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "fruit",
+        "stone-fruit",
+        "peach",
+        "nectarine",
+        "peeled"
+      ],
+      "searchKeywords": [
+        "peeled peach",
+        "white peach",
+        "peeled nectarine",
+        "stone fruit",
+        "ripe peach"
+      ],
+      "whyItWorks": "When fully ripe and thoroughly peeled, nectarines and white peaches provide soft, sweet soluble pectin that digests effortlessly. Removing the fuzzy or waxy peel eliminates the harsh insoluble fiber.",
+      "prepOrOrderInstructions": "Wait until the fruit yields softly to gentle thumb pressure. Use a sharp paring knife to slice off all skin before eating.",
+      "watchOuts": [
+        "Never eat with the skin on during active disease. Avoid rock-hard unripened fruit."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/ripe-peeled-nectarine-white-peach.json"
+    },
+    {
       "id": "rumbi-island-grill-logan-rice-bowl",
       "name": "Rumbi Island Grill (Logan) Luau Pork or Grilled Chicken Rice Bowl (White Rice Mod)",
       "categoryFolder": "asian-indian",
@@ -24699,6 +25731,45 @@
       "_sourcePath": "src/data/items/lunch/portos-bakery-buena-park-pan-con-lechon-sandwich.json"
     },
     {
+      "id": "pringles-original-potato-crisps",
+      "name": "Pringles Original Potato Crisps (Uniform Stacked Crisps)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Pringles / Kellanova",
+      "crohnsScore": 8.2,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "potato-crisps",
+        "pringles",
+        "chips",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "pringles",
+        "original pringles",
+        "potato crisps",
+        "stacked chips"
+      ],
+      "whyItWorks": "Pringles are made from reconstituted dried potato flakes, rice flour, and wheat starch pressed into uniform parabolic curves. Because they are processed from fine potato flour, there are zero coarse potato skins or fibrous edges.",
+      "prepOrOrderInstructions": "Enjoy a moderate serving of 12–15 crisps. Chew thoroughly.",
+      "watchOuts": [
+        "Contains moderate vegetable oil; stick to original salted rather than sour cream & onion during flares."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/pringles-original-potato-crisps.json"
+    },
+    {
       "id": "ranch-hand-montpelier-ranchers-omelet",
       "name": "Ranch Hand Trail Stop \"Ranchers Omelet\" (Ham, Swiss & Cheddar Mod)",
       "categoryFolder": "breakfast",
@@ -25150,6 +26221,47 @@
         "Ensure red chile sauce is mild and not overly spiced with jalapeños"
       ],
       "_sourcePath": "src/data/items/dinner/holiday-traditional-mexican-christmas-tamales.json"
+    },
+    {
+      "id": "three-musketeers-chocolate-bar",
+      "name": "3 Musketeers Bar (Fluffy Whipped Chocolate Nougat — Nut-Free!)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mars Wrigley",
+      "crohnsScore": 8.1,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "chocolate",
+        "3-musketeers",
+        "fluffy-nougat",
+        "low-fat-chocolate",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "3 musketeers",
+        "three musketeers",
+        "whipped nougat",
+        "chocolate candy bar"
+      ],
+      "whyItWorks": "Famous for having 45% less fat than average candy bars. The interior is whipped fluffy egg-white nougat that dissolves like air, making it far lighter on digestion than dense fudge or nut bars.",
+      "prepOrOrderInstructions": "One of the best standard candy bars for IBD patients in remission craving chocolate.",
+      "watchOuts": [
+        "Contains milk and egg whites; safe for remission."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/three-musketeers-chocolate-bar.json"
     },
     {
       "id": "bear-trapper-garden-city-hot-roast-beef-mashed-potatoes",
@@ -28199,6 +29311,47 @@
       "whyItWorks": "Traditional boiled and baked plain bagels made from enriched unbleached flour without seeds, onion flakes, or whole grains. Provides easily digested complex carbohydrates that help bind the stool.",
       "prepOrOrderInstructions": "Toast lightly to soften the interior. Top with dairy-free spread, seedless jelly, or sliced turkey breast. Avoid everything bagels with seeds and garlic.",
       "_sourcePath": "src/data/items/breakfast/kirkland-signature-plain-water-bagels.json"
+    },
+    {
+      "id": "kit-kat-crisp-wafers-milk-chocolate",
+      "name": "Kit Kat Crisp Wafers in Milk Chocolate",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "The Hershey Company",
+      "crohnsScore": 8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "chocolate",
+        "kit-kat",
+        "wafers",
+        "crisp",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "kit kat",
+        "kitkat",
+        "crisp wafers",
+        "chocolate wafer"
+      ],
+      "whyItWorks": "Layers of ultra-thin, light baked wafers covered in smooth milk chocolate. The crisp wafers crush into fine crumbs with zero resistance, avoiding dense fudgy mass.",
+      "prepOrOrderInstructions": "Snap off 2 fingers. Let chocolate melt in mouth before swallowing.",
+      "watchOuts": [
+        "Contains milk and wheat gluten."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/kit-kat-crisp-wafers-milk-chocolate.json"
     },
     {
       "id": "knotts-baja-taqueria-grilled-fish-chicken-soft-tacos",
@@ -31685,6 +32838,47 @@
       "_sourcePath": "src/data/items/lunch/mad-moose-cafe-eden-bruce-the-moose-blt-avocado.json"
     },
     {
+      "id": "milky-way-milk-chocolate-candy-bar",
+      "name": "Milky Way Bar (Milk Chocolate, Caramel & Malt Nougat — Nut-Free!)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mars Wrigley",
+      "crohnsScore": 7.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "chocolate",
+        "milky-way",
+        "nougat",
+        "nut-free",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "milky way",
+        "milky way bar",
+        "chocolate nougat",
+        "nut free candy bar"
+      ],
+      "whyItWorks": "Unlike Snickers which has whole peanuts, Milky Way contains light whipped malt nougat and smooth caramel coated in milk chocolate. With zero nuts or seeds, it melts completely in the mouth.",
+      "prepOrOrderInstructions": "Enjoy a fun-size bar or half a regular bar in remission. Chew slowly.",
+      "watchOuts": [
+        "Contains milk, malted barley, and soy; enjoy in moderation due to sugar and fat content."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/milky-way-milk-chocolate-candy-bar.json"
+    },
+    {
       "id": "tandoori-oven-logan-murgh-tikka-dry",
       "name": "Murgh Tikka (Tandoori Boneless Chicken Breast)",
       "categoryFolder": "dinner",
@@ -34765,6 +35959,47 @@
       "_sourcePath": "src/data/items/diner-bbq/quick-n-tasty-garden-city-charbroiled-cheeseburger.json"
     },
     {
+      "id": "reeses-peanut-butter-cups",
+      "name": "Reese's Peanut Butter Cups (Smooth Micro-Milled Peanut Center)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "The Hershey Company",
+      "crohnsScore": 7.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "chocolate",
+        "reeses",
+        "peanut-butter",
+        "reeses-cups",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "reeses",
+        "reeses peanut butter cups",
+        "peanut butter cup",
+        "hershey reeses"
+      ],
+      "whyItWorks": "Unlike candy bars with whole peanuts (Snickers, PayDay), Reese's uses a smooth, micro-ground peanut paste mixed with powdered sugar. There are zero sharp nut fragments to scratch the intestinal lining.",
+      "prepOrOrderInstructions": "Eat 1 cup slowly. Safe in remission when craving peanut butter and chocolate.",
+      "watchOuts": [
+        "Contains peanut fat and milk; limit portion if currently experiencing active bile malabsorption."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/reeses-peanut-butter-cups.json"
+    },
+    {
       "id": "sabores-logan-yellow-curry-pad-thai",
       "name": "Sabores Mild Coconut Chicken Curry or Chicken Pad Thai (No Peanuts/Lime)",
       "categoryFolder": "asian-indian",
@@ -35289,6 +36524,47 @@
       "whyItWorks": "Slow braising breaks beef short rib connective fibers until it falls apart on the fork without effort. The smooth polenta provides gentle starch without skin or seeds.",
       "prepOrOrderInstructions": "Trim any visible ribbon of soft fat from the meat before eating. Ask for polenta made with light butter if lactose sensitive.",
       "_sourcePath": "src/data/items/dinner/disneyland-cafe-orleans-braised-beef-short-rib.json"
+    },
+    {
+      "id": "canned-pineapple-crushed-in-juice",
+      "name": "Canned Crushed Pineapple in 100% Juice",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Canned Goods Staple",
+      "crohnsScore": 7.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "fruit",
+        "canned-fruit",
+        "pineapple",
+        "dole",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "canned pineapple",
+        "crushed pineapple",
+        "dole pineapple crushed",
+        "soft pineapple"
+      ],
+      "whyItWorks": "Thermal pasteurization in canning denatures the harsh proteolytic enzyme bromelain (which burns ulcerated tissue in raw pineapple). The crushed texture breaks down long fibrous strands into tiny soft bits.",
+      "prepOrOrderInstructions": "Choose crushed pineapple in its own juice, not heavy syrup. Drain liquid before eating or baking.",
+      "watchOuts": [
+        "Contains natural fruit sugars; enjoy in moderate 1/2 cup portions in remission."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/canned-pineapple-crushed-in-juice.json"
     },
     {
       "id": "dans-drive-in-montpelier-double-cheeseburger",
@@ -57663,6 +58939,47 @@
       "_sourcePath": "src/data/items/dinner/animators-wild-mushroom-onion-strudel.json"
     },
     {
+      "id": "beef-jerky-slim-jim-warning",
+      "name": "Beef Jerky & Meat Sticks (Tough Leathery Protein Warning)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Pantry Snack Staple",
+      "crohnsScore": 4.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "beef-jerky",
+        "slim-jim",
+        "leathery-meat",
+        "spicy",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "beef jerky",
+        "slim jim",
+        "jack links",
+        "meat stick",
+        "dried meat"
+      ],
+      "whyItWorks": "Dehydrated beef strips are tough, fibrous, and leathery. They require intense mechanical grinding by molars; swallowed chunks remain dense and fibrous in the stomach, while high sodium, black pepper, and nitrates irritate mucosal ulcers.",
+      "prepOrOrderInstructions": "Avoid tough dried jerky during active disease. For high-protein snacks, choose soft string cheese, hard-boiled eggs, or sliced deli turkey breast.",
+      "watchOuts": [
+        "Dense leathery meat fibers and black pepper seasoning irritate ulcerations and increase stricture transit difficulty."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/beef-jerky-slim-jim-warning.json"
+    },
+    {
       "id": "cafe-rio-black-beans-fiber-warning",
       "name": "Café Rio Seasoned Black Beans Side (High Fiber Warning)",
       "categoryFolder": "produce-sides",
@@ -58058,6 +59375,48 @@
       "whyItWorks": "Rich shredded pork shoulder tossed in acidic spicy BBQ sauce and piled high with crunchy raw cabbage coleslaw. Raw shredded cabbage is tough insoluble fiber that ferments into painful gas.",
       "prepOrOrderInstructions": "Raw Cabbage & Acid Warning: Avoid raw coleslaw and heavy BBQ sauces during active gut flares.",
       "_sourcePath": "src/data/items/lunch/knotts-boardwalk-bbq-pulled-pork-warning.json"
+    },
+    {
+      "id": "raw-radishes-insoluble-crunch-warning",
+      "name": "Raw Red Radishes (Insoluble Roughage & Pungency Warning)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce Staple",
+      "crohnsScore": 4.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.9,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "vegetables",
+        "radishes",
+        "raw-vegetables",
+        "pungent",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "radishes",
+        "raw radishes",
+        "red radishes",
+        "radish crunch",
+        "salad radishes"
+      ],
+      "whyItWorks": "Raw radishes have dense, crunchy cell walls that resist mastication and contain sharp isothiocyanates. The chemical pungency irritates gastric mucosa while the unyielding chunks scrape inflamed intestinal lining.",
+      "prepOrOrderInstructions": "Avoid raw sliced radishes on salads. If craving radishes in remission, roast them whole in olive oil until soft and sweet like baby turnips.",
+      "watchOuts": [
+        "Sharp mustard-oil compounds and hard texture provoke stomach irritation and colonic spasms."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/raw-radishes-insoluble-crunch-warning.json"
     },
     {
       "id": "realgood-foods-chicken-enchiladas-costco-warning",
@@ -60261,6 +61620,47 @@
       "_sourcePath": "src/data/items/dinner/penny-anns-cafe-country-fried-steak-gravy-warning.json"
     },
     {
+      "id": "prune-juice-sorbitol-warning",
+      "name": "Sunsweet 100% Prune Juice (High Osmotic Laxative Warning)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Sunsweet",
+      "crohnsScore": 4.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "drink",
+        "prune-juice",
+        "sunsweet",
+        "laxative-warning",
+        "sorbitol",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "prune juice",
+        "sunsweet prune juice",
+        "constipation juice",
+        "prune diarrhea"
+      ],
+      "whyItWorks": "Prune juice contains high natural concentrations of sorbitol and dihydroxyphenyl isatin. These compounds act as potent stimulant and osmotic laxatives, triggering violent gastrocolic spasms, explosive watery diarrhea, and rectal tenesmus in active IBD.",
+      "prepOrOrderInstructions": "Trigger Warning: Completely avoid prune juice during active Crohn's, colitis, or diarrhea episodes. Only use under physician guidance for rare opioid-induced constipation.",
+      "watchOuts": [
+        "Concentrated natural sorbitol induces severe abdominal cramping and uncontrolled watery diarrhea."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/prune-juice-sorbitol-warning.json"
+    },
+    {
       "id": "dca-pym-test-kitchen-not-so-little-chicken-warning",
       "name": "The Not So Little Chicken Sandwich (High Fat/Grease Warning)",
       "categoryFolder": "lunch",
@@ -60667,6 +62067,47 @@
         "High dairy lactose"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/tritons-lumieres-strawberry-shortcake-sundae.json"
+    },
+    {
+      "id": "hot-tamales-cinnamon-candy-warning",
+      "name": "Hot Tamales & Cinnamon Candies (Mucosal Burning Oil Warning)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Just Born Quality Confections",
+      "crohnsScore": 4,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "hot-tamales",
+        "cinnamon",
+        "capsaicin-like",
+        "cinnamaldehyde",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "hot tamales",
+        "cinnamon candy",
+        "red hots",
+        "spicy candy",
+        "cinnamon trigger"
+      ],
+      "whyItWorks": "Hot Tamales are infused with concentrated cinnamaldehyde and artificial spicy flavor oils. These essential oils stimulate TRPV1 pain and heat receptors in the gut, burning raw aphthous ulcers in the mouth, stomach, and colon and triggering violent hypermotility.",
+      "prepOrOrderInstructions": "Spicy Trigger Warning: Avoid intense cinnamon candies during flares or colitis. Choose mild fruit chews or sweet licorice instead.",
+      "watchOuts": [
+        "Concentrated cinnamon oils burn inflamed mucosal ulcerations and trigger urgent diarrhea."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/hot-tamales-cinnamon-candy-warning.json"
     },
     {
       "name": "M&M's Peanut",
@@ -61277,6 +62718,47 @@
       "_sourcePath": "src/data/items/lunch/dca-smokejumpers-double-bacon-cheeseburger-warning.json"
     },
     {
+      "id": "homestyle-carrot-cake-walnut-warning",
+      "name": "Homestyle Carrot Cake with Walnuts & Cream Cheese (Triple Hazard Warning)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Bakery Grocery Staple",
+      "crohnsScore": 3.6,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "dessert",
+        "cake",
+        "carrot-cake",
+        "walnuts",
+        "raisins",
+        "heavy-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "carrot cake",
+        "cream cheese frosting",
+        "walnut cake",
+        "carrot cake trigger"
+      ],
+      "whyItWorks": "Despite having 'carrots' in the name, traditional bakery carrot cake is a triple threat for IBD: shredded raw carrots that remain fibrous after baking, hard angular walnut chunks (stricture hazard), chewy raisins, and heavy vegetable oil + cream cheese frosting.",
+      "prepOrOrderInstructions": "Extreme Trigger Warning: Avoid bakery carrot cake during flares and strictures. If desiring cake, choose fat-free angel food cake or plain vanilla sponge.",
+      "watchOuts": [
+        "High fat, dense nuts, and dried raisins make this one of the most provocative desserts for IBD symptoms."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/homestyle-carrot-cake-walnut-warning.json"
+    },
+    {
       "id": "members-mark-spinach-artichoke-dip-tub-warning",
       "name": "Member's Mark Spinach & Artichoke Dip (Deli Tub Warning)",
       "categoryFolder": "produce-sides",
@@ -61313,6 +62795,47 @@
       "whyItWorks": "Stringy artichoke heart bracts and whole spinach leaves combined with sour cream, cream cheese, parmesan, and garlic. Artichokes are notoriously fibrous and tough to digest, posing a major stricture risk.",
       "prepOrOrderInstructions": "Severe Stricture & Dairy Warning: Strictly avoid. The fibrous stringy artichoke leaves can cause severe blockages.",
       "_sourcePath": "src/data/items/produce-sides/members-mark-spinach-artichoke-dip-tub-warning.json"
+    },
+    {
+      "id": "roasted-brussels-sprouts-gas-warning",
+      "name": "Brussels Sprouts (High Raffinose & Sulfur Gas Warning)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce Staple",
+      "crohnsScore": 3.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "cruciferous",
+        "brussels-sprouts",
+        "gas-warning",
+        "raffinose",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "brussels sprouts",
+        "roasted brussels sprouts",
+        "cruciferous gas",
+        "sprouts trigger"
+      ],
+      "whyItWorks": "Brussels sprouts contain high concentrations of raffinose (an indigestible trisaccharide) and glucosinolates. Colonic fermentation generates extreme volumes of carbon dioxide and hydrogen sulfide gas, causing agonizing abdominal distension.",
+      "prepOrOrderInstructions": "Flare Warning: Avoid Brussels sprouts during active IBD. Even in remission, eat only 2–3 well-cooked halved sprouts at a time.",
+      "watchOuts": [
+        "Severe gas pressure against inflamed intestinal walls can trigger severe flares and spasm episodes."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/roasted-brussels-sprouts-gas-warning.json"
     },
     {
       "id": "1923-burbank-blueberry-lemon-bavarian-cream",
@@ -61935,6 +63458,48 @@
       "_sourcePath": "src/data/items/produce-sides/raw-cabbage-coleslaw-warning.json"
     },
     {
+      "id": "shredded-raw-coconut-meat-warning",
+      "name": "Shredded Coconut & Raw Coconut Meat (Dense Woody Fiber Warning)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Produce & Baking Staple",
+      "crohnsScore": 3.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "coconut",
+        "shredded-coconut",
+        "woody-fiber",
+        "stricture-warning",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "shredded coconut",
+        "raw coconut",
+        "coconut flakes",
+        "coconut macaroons",
+        "coconut obstruction"
+      ],
+      "whyItWorks": "While coconut water is safe, solid coconut meat is composed of rigid, woody, insoluble cellulose flakes. Coconut fibers do not dissolve in gastric acid, expanding and knitting together into fibrous masses (phytobezoars) that cause severe small bowel blockages.",
+      "prepOrOrderInstructions": "Severe Stricture Hazard: Avoid shredded coconut, coconut flakes, German chocolate cake, and raw coconut chunks. Stick strictly to coconut water or strained coconut milk.",
+      "watchOuts": [
+        "Top cause of phytobezoar intestinal obstructions in patients with ileal strictures."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/shredded-raw-coconut-meat-warning.json"
+    },
+    {
       "id": "zao-asian-cafe-draper-chili-dragon-sauce-warning",
       "name": "Zao Asian Cafe Red Chili Dragon Sauce (Capsaicin Danger Zone)",
       "categoryFolder": "drinks-sauces",
@@ -61973,6 +63538,50 @@
       "whyItWorks": "Spicy red chili paste blended with sriracha, vinegar, and garlic. Intense capsaicin triggers burning along the mucosal lining and speeds peristalsis into painful diarrhea.",
       "prepOrOrderInstructions": "Spicy Hazard: Avoid dragon sauce. Choose sweet teriyaki or ginger scallion sauce instead.",
       "_sourcePath": "src/data/items/drinks-sauces/zao-asian-cafe-draper-chili-dragon-sauce-warning.json"
+    },
+    {
+      "id": "almond-joy-mounds-coconut-stricture-hazard",
+      "name": "Almond Joy & Mounds Bars (Double Coconut & Whole Nut Hazard)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "The Hershey Company",
+      "crohnsScore": 3.1,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "candy",
+        "chocolate",
+        "almond-joy",
+        "mounds",
+        "coconut",
+        "almonds",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "almond joy",
+        "mounds",
+        "coconut candy bar",
+        "almond joy hazard",
+        "stricture candy"
+      ],
+      "whyItWorks": "Combines two of the highest risk food textures in gastroenterology: dense shredded woody coconut meat and whole hard roasted almonds. The coconut fibers intertwine while whole almonds shatter into sharp jagged rocks, creating an acute small bowel blockage risk.",
+      "prepOrOrderInstructions": "Stricture Warning: Avoid Almond Joy and Mounds bars completely. Choose 3 Musketeers, Milky Way, or Kit Kat for safe chocolate enjoyment.",
+      "watchOuts": [
+        "High risk of small bowel obstruction and severe mucosal irritation from woody coconut fibers and whole nuts."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/almond-joy-mounds-coconut-stricture-hazard.json"
     },
     {
       "id": "raw-garlic-cloves-warning",
@@ -62526,6 +64135,90 @@
       "_sourcePath": "src/data/items/dinner/christmas-merrytime-marmalade-ham-cheddar-croquettes.json"
     },
     {
+      "id": "triscuit-original-woven-wheat-hazard-warning",
+      "name": "Triscuit Original Whole Wheat Crackers (Abrasive Woven Wheat Hazard)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Nabisco / Mondelēz",
+      "crohnsScore": 2.9,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "snack",
+        "crackers",
+        "triscuit",
+        "shredded-wheat",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "triscuit",
+        "whole grain crackers",
+        "woven wheat",
+        "triscuit stricture",
+        "roughage crackers"
+      ],
+      "whyItWorks": "Triscuits are made of coarse, shredded whole wheat berries woven into a dense mesh. The sharp, prickly wheat fibers resist digestive softening and act like steel wool against inflamed mucosa, posing an acute obstruction hazard in stricturing Crohn's.",
+      "prepOrOrderInstructions": "High Stricture Warning: Avoid Triscuits and shredded wheat cereals if you have Crohn's disease, strictures, or active colitis. Choose smooth Saltines, Ritz, or Club crackers instead.",
+      "watchOuts": [
+        "Sharp woven wheat fibers can lodge in strictured bowel segments and severely abrade ulcerated tissue."
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/triscuit-original-woven-wheat-hazard-warning.json"
+    },
+    {
+      "id": "raw-kale-salad-chips-warning",
+      "name": "Raw Kale Salad & Baked Kale Chips (Coarse Insoluble Cellulose Warning)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce Staple",
+      "crohnsScore": 2.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "greens",
+        "kale",
+        "raw-kale",
+        "roughage",
+        "stricture-warning",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "kale",
+        "raw kale",
+        "kale salad",
+        "kale chips",
+        "roughage danger"
+      ],
+      "whyItWorks": "Kale possesses tough, rigid cell walls reinforced with insoluble crystalline cellulose and thick fibrous ribs. Human enzymes cannot break raw kale down; it balls up into scratchy abrasive wads that scrape inflamed bowel lining.",
+      "prepOrOrderInstructions": "High Trigger Hazard: Completely avoid raw kale salads, massaged kale, and dried kale chips. If desiring greens, choose thoroughly wilted baby spinach or well-cooked zucchini.",
+      "watchOuts": [
+        "One of the most abrasive raw roughage foods; causes sharp colonic pain and fecal urgency."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/raw-kale-salad-chips-warning.json"
+    },
+    {
       "id": "silverlake-ramen-riverton-spicy-tonkotsu-ramen-warning",
       "name": "Silverlake Ramen Blaze Spicy Tonkotsu Ramen (Danger Zone)",
       "categoryFolder": "asian-indian",
@@ -62644,6 +64337,46 @@
         "Raw fibrous arugula stems"
       ],
       "_sourcePath": "src/data/items/dinner/animators-arugula-beet-orange-salad.json"
+    },
+    {
+      "id": "fresh-pomegranate-arils-stricture-hazard",
+      "name": "Fresh Pomegranate Arils / Seeds (Extreme Mechanical Blockage Hazard)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce Staple",
+      "crohnsScore": 2.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 7,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "fruit",
+        "pomegranate",
+        "seeds",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "pomegranate",
+        "pomegranate seeds",
+        "pom arils",
+        "pomegranate blockage"
+      ],
+      "whyItWorks": "Every single pomegranate aril encases a hard, woody, indigestible seed. Eating a handful delivers hundreds of unyielding wooden beads that cannot be chewed down. In Crohn's strictures or post-surgical narrowing, they accumulate into an acute bowel obstruction.",
+      "prepOrOrderInstructions": "Emergency Blockage Warning: Never consume whole pomegranate arils if you have IBD, strictures, or an ostomy. If desiring pomegranate flavor, drink 100% strained pomegranate juice (POM Wonderful) instead.",
+      "watchOuts": [
+        "Severe mechanical obstruction risk requiring emergency surgical decompression."
+      ],
+      "_sourcePath": "src/data/items/produce-sides/fresh-pomegranate-arils-stricture-hazard.json"
     },
     {
       "id": "malt-o-meal-frosted-mini-spooners",

@@ -1,0 +1,41 @@
+{
+  "id": "canned-sliced-pickled-beets",
+  "name": "Canned Sliced Beets in Water or Light Pickle",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Canned Goods Staple",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "beets",
+    "canned-beets",
+    "soluble-fiber",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "canned beets",
+    "sliced beets",
+    "pickled beets",
+    "soft beets",
+    "cooked beets"
+  ],
+  "whyItWorks": "Canned beets are steam-peeled and cooked until silky tender. They are rich in nitrates and soluble pectin, breaking down smoothly in the upper digestive tract.",
+  "prepOrOrderInstructions": "Drain liquid and slice into tender bite-sized half-moons. Great paired with soft goat cheese or in a bland grain bowl.",
+  "watchOuts": [
+    "Harmless beeturia: Betacyanin pigments will turn stool and urine deep pink or red. Do not mistake for active gastrointestinal bleeding!"
+  ]
+}

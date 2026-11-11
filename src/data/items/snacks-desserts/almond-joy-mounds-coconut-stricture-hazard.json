@@ -1,0 +1,43 @@
+{
+  "id": "almond-joy-mounds-coconut-stricture-hazard",
+  "name": "Almond Joy & Mounds Bars (Double Coconut & Whole Nut Hazard)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "The Hershey Company",
+  "crohnsScore": 3.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "candy",
+    "chocolate",
+    "almond-joy",
+    "mounds",
+    "coconut",
+    "almonds",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "almond joy",
+    "mounds",
+    "coconut candy bar",
+    "almond joy hazard",
+    "stricture candy"
+  ],
+  "whyItWorks": "Combines two of the highest risk food textures in gastroenterology: dense shredded woody coconut meat and whole hard roasted almonds. The coconut fibers intertwine while whole almonds shatter into sharp jagged rocks, creating an acute small bowel blockage risk.",
+  "prepOrOrderInstructions": "Stricture Warning: Avoid Almond Joy and Mounds bars completely. Choose 3 Musketeers, Milky Way, or Kit Kat for safe chocolate enjoyment.",
+  "watchOuts": [
+    "High risk of small bowel obstruction and severe mucosal irritation from woody coconut fibers and whole nuts."
+  ]
+}

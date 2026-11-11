@@ -1,0 +1,40 @@
+{
+  "id": "nabisco-nilla-wafers-original",
+  "name": "Nabisco Nilla Wafers (Original Vanilla)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Nabisco / Mondelēz",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "cookies",
+    "nilla-wafers",
+    "vanilla",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "nilla wafers",
+    "vanilla wafers",
+    "nabisco wafers",
+    "banana pudding cookies"
+  ],
+  "whyItWorks": "Crisp, airy vanilla cookies that soften immediately when dipped in tea, milk, or pudding. With 0g fiber and low fat, they are a hospital-diet staple that provides gentle comfort.",
+  "prepOrOrderInstructions": "Enjoy plain or layer into vanilla pudding with sliced ripe bananas.",
+  "watchOuts": [
+    "Contains wheat flour; zero fiber."
+  ]
+}

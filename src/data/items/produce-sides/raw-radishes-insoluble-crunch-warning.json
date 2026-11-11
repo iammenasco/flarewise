@@ -1,0 +1,41 @@
+{
+  "id": "raw-radishes-insoluble-crunch-warning",
+  "name": "Raw Red Radishes (Insoluble Roughage & Pungency Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce Staple",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.9,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "vegetables",
+    "radishes",
+    "raw-vegetables",
+    "pungent",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "radishes",
+    "raw radishes",
+    "red radishes",
+    "radish crunch",
+    "salad radishes"
+  ],
+  "whyItWorks": "Raw radishes have dense, crunchy cell walls that resist mastication and contain sharp isothiocyanates. The chemical pungency irritates gastric mucosa while the unyielding chunks scrape inflamed intestinal lining.",
+  "prepOrOrderInstructions": "Avoid raw sliced radishes on salads. If craving radishes in remission, roast them whole in olive oil until soft and sweet like baby turnips.",
+  "watchOuts": [
+    "Sharp mustard-oil compounds and hard texture provoke stomach irritation and colonic spasms."
+  ]
+}
