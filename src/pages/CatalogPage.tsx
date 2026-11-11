@@ -11,7 +11,11 @@ import { foodById } from '../data'
 import { pickForMe, useCatalogFilters } from '../hooks/useCatalogFilters'
 import { useJustReconnected } from '../hooks/useOnline'
 import { usePreferences } from '../hooks/usePreferences'
-import { countActiveFilters } from '../lib/filters'
+import {
+  CRUISE_SHIP_CHIPS,
+  countActiveFilters,
+  isCruiseTag,
+} from '../lib/filters'
 import { githubRepoUrl } from '../lib/github'
 import { feelingFromMinScore } from '../lib/score'
 import { countPendingSubmissions, loadSubmitQueue } from '../lib/storage'
@@ -69,12 +73,28 @@ export function CatalogPage() {
     setPickerOpen(true)
   }
 
+  function toggleCruiseMode() {
+    const next = !prefs.guardrails.cruiseMode
+    setGuardrails({ cruiseMode: next })
+    if (!next && filters.tag && isCruiseTag(filters.tag)) {
+      patch({ tag: '' })
+    }
+  }
+
+  function selectShip(shipTag: string) {
+    if (!prefs.guardrails.cruiseMode) {
+      setGuardrails({ cruiseMode: true })
+    }
+    patch({ tag: filters.tag === shipTag ? '' : shipTag })
+  }
+
   function clearExtraFilters() {
     patch({ meal: '', region: '', tag: '', cost: '' })
     setGuardrails({
       grabAndGoOnly: false,
       toasterOvenOnly: false,
       lactoseSafeOnly: false,
+      cruiseMode: false,
       showDangerZone: false,
     })
   }
@@ -200,6 +220,8 @@ export function CatalogPage() {
           <ModeChips
             mode={filters.mode}
             onMode={(mode) => patch({ mode })}
+            cruiseMode={prefs.guardrails.cruiseMode}
+            onToggleCruise={toggleCruiseMode}
           />
           <button
             type="button"
@@ -211,6 +233,30 @@ export function CatalogPage() {
             Surprise me
           </button>
         </div>
+
+        {prefs.guardrails.cruiseMode ? (
+          <div className="flex items-center gap-1.5 overflow-x-auto pt-0.5">
+            <button
+              type="button"
+              className="chip shrink-0 !min-h-8 !px-2.5 !py-0.5 !text-xs"
+              data-active={!filters.tag || !isCruiseTag(filters.tag)}
+              onClick={() => patch({ tag: '' })}
+            >
+              All ships
+            </button>
+            {CRUISE_SHIP_CHIPS.map((ship) => (
+              <button
+                key={ship.tag}
+                type="button"
+                className="chip shrink-0 !min-h-8 !px-2.5 !py-0.5 !text-xs"
+                data-active={filters.tag === ship.tag}
+                onClick={() => selectShip(ship.tag)}
+              >
+                {ship.shortLabel}
+              </button>
+            ))}
+          </div>
+        ) : null}
       </div>
 
       <div className="flex min-h-0 flex-1 flex-col">
@@ -350,14 +396,20 @@ export function CatalogPage() {
               toasterOvenOnly={prefs.guardrails.toasterOvenOnly}
               grabAndGoOnly={prefs.guardrails.grabAndGoOnly}
               citrusFreeOnly={prefs.guardrails.citrusFreeOnly}
+              cruiseMode={prefs.guardrails.cruiseMode}
               showDangerZone={prefs.guardrails.showDangerZone}
               onToggleGuardrail={(key) => {
                 if (key === 'showDangerZone') {
                   setGuardrails({ showDangerZone: !prefs.guardrails.showDangerZone })
                   return
                 }
+                if (key === 'cruiseMode') {
+                  toggleCruiseMode()
+                  return
+                }
                 setGuardrails({ [key]: !prefs.guardrails[key] })
               }}
+              onSelectShip={selectShip}
               onClearExtra={clearExtraFilters}
             />
             <button

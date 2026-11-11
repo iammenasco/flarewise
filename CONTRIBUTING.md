@@ -39,8 +39,11 @@ CI (`.github/workflows/ci.yml`) runs the same gate on every pull request.
 1. One file per dish: `src/data/items/<category>/<id>.json`
 2. `id` must match the filename (without `.json`)
 3. At least **two** `tags`
-4. Required fields: [`src/data/schema.json`](src/data/schema.json)
-5. Run `npm run validate-data` — this is the hard gate before merge/deploy
+4. `safetyTier` must match the `crohnsScore` band in [`src/data/rubric.json`](src/data/rubric.json) (`9.0–10.0` `flare-safe`, `7.5–8.9` `low-risk`, `6.5–7.4` `remission-road`, `1.0–6.4` `danger-zone`)
+5. **Cruise / vacation foods:** Must include `"disney-cruise"` (or `"cruise"` / `"vacation"`) in `tags`, plus ship tags (`"disney-wonder"`, `"disney-magic"`, `"disney-treasure"`) when applicable. Cruise items are hidden by default unless the Cruise filter is active.
+6. **Citrus & lactose guardrails:** Set `citrusFree: false` if any lemon, lime, orange, grapefruit (`1.0` hard avoid), yuzu/ponzu, or bergamot/Earl Grey is present. Naturally aged hard cheeses are `lactoseSafe: true`; unaged dairy/cream/ice cream is `lactoseSafe: false`.
+7. Required fields: [`src/data/schema.json`](src/data/schema.json)
+8. Run `npm run validate-data` — this is the hard gate before merge/deploy
 
 ### In-app suggest path
 

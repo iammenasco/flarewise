@@ -85,6 +85,7 @@ export interface Guardrails {
   lactoseSafeOnly: boolean
   toasterOvenOnly: boolean
   grabAndGoOnly: boolean
+  cruiseMode: boolean
   hideDangerZone: boolean
   showDangerZone: boolean
 }

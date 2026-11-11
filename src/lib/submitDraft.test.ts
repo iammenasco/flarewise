@@ -52,3 +52,19 @@ describe('submitIssueTitle', () => {
     expect(submitIssueTitle({ name: 'Broth' })).toBe('Add food: Broth')
   })
 })
+
+describe('buildSubmitItem cruise tag auto-enrichment', () => {
+  it('auto-adds disney-cruise and ship tags when brandOrRestaurant mentions a Disney ship', () => {
+    const item = buildSubmitItem({
+      ...emptyDraft,
+      name: 'Warm Cinnamon Sticky Bun',
+      brandOrRestaurant: 'Disney Wonder · Palo Brunch',
+      tags: ['pastry', 'cinnamon'],
+      searchKeywords: ['palo sticky bun'],
+      whyItWorks: 'Refined dough.',
+      prepOrOrderInstructions: 'Order warm.',
+    })
+    expect(item.tags).toContain('disney-cruise')
+    expect(item.tags).toContain('disney-wonder')
+  })
+})

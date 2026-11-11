@@ -7,6 +7,30 @@ import type {
 
 export type ModeFilter = 'all' | 'starred' | 'grocery'
 
+export const CRUISE_SHIP_CHIPS = [
+  { tag: 'disney-wonder', label: 'Disney Wonder', shortLabel: 'Wonder' },
+  { tag: 'disney-magic', label: 'Disney Magic', shortLabel: 'Magic' },
+  { tag: 'disney-treasure', label: 'Disney Treasure', shortLabel: 'Treasure' },
+] as const
+
+const CRUISE_TAGS = new Set([
+  'cruise',
+  'vacation',
+  'disney-cruise',
+  'disney-wonder',
+  'disney-magic',
+  'disney-treasure',
+])
+
+export function isCruiseTag(tag: string): boolean {
+  const lower = tag.trim().toLowerCase()
+  return CRUISE_TAGS.has(lower) || lower.startsWith('disney-')
+}
+
+export function isCruiseOrVacationItem(item: CrohnsFoodItem): boolean {
+  return item.tags.some((t) => isCruiseTag(t))
+}
+
 export interface CatalogFilters {
   q: string
   mode: ModeFilter
@@ -36,6 +60,16 @@ export function itemPassesFilters(
   prefs: CatalogPreferences,
 ): boolean {
   if (prefs.personalStatus[item.id] === 'trigger') return false
+
+  // Cruise / Vacation filter: unselected by default so cruise items stay
+  // tucked out of everyday browsing unless Cruise mode or a cruise tag is active.
+  const isCruise = isCruiseOrVacationItem(item)
+  const tagIsCruise = Boolean(filters.tag && isCruiseTag(filters.tag))
+  if (prefs.guardrails.cruiseMode) {
+    if (!isCruise) return false
+  } else if (isCruise && !tagIsCruise) {
+    return false
+  }
 
   // Danger-zone / avoid cards only appear when explicitly enabled.
   // Everything else still respects the Today dial (minScore).
@@ -78,6 +112,7 @@ export function countActiveFilters(
     toasterOvenOnly: boolean
     grabAndGoOnly: boolean
     citrusFreeOnly: boolean
+    cruiseMode?: boolean
     showDangerZone: boolean
   },
 ) {
@@ -89,6 +124,7 @@ export function countActiveFilters(
   if (guardrails.lactoseSafeOnly) n += 1
   if (guardrails.toasterOvenOnly) n += 1
   if (guardrails.grabAndGoOnly) n += 1
+  if (guardrails.cruiseMode) n += 1
   // citrusFreeOnly defaults on — don't count it as an "extra" filter
   if (guardrails.showDangerZone) n += 1
   return n

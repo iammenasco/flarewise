@@ -30,11 +30,26 @@ export function slugify(value: string) {
 
 export function buildSubmitItem(draft: CrohnsFoodItem): CrohnsFoodItem {
   const id = draft.id || slugify(draft.name)
+  const tagSet = new Set(draft.tags.map((t) => t.trim()).filter(Boolean))
+  const text = `${draft.name} ${draft.brandOrRestaurant ?? ''}`
+  if (
+    /\b(disney\s*(wonder|magic|treasure|cruise)|castaway\s*cay|lookout\s*cay)\b/i.test(
+      text,
+    )
+  ) {
+    tagSet.add('disney-cruise')
+    if (/\bdisney\s*wonder\b|\bwonder\b/i.test(text)) tagSet.add('disney-wonder')
+    if (/\bdisney\s*magic\b|\bmagic\b/i.test(text)) tagSet.add('disney-magic')
+    if (/\bdisney\s*treasure\b|\btreasure\b/i.test(text))
+      tagSet.add('disney-treasure')
+  } else if (/\bcruise\b/i.test(text) && !tagSet.has('disney-cruise')) {
+    tagSet.add('cruise')
+  }
   return {
     ...draft,
     id,
     safetyTier: tierFromScore(draft.crohnsScore),
-    tags: draft.tags.map((t) => t.trim()).filter(Boolean),
+    tags: Array.from(tagSet),
     searchKeywords: draft.searchKeywords.map((k) => k.trim()).filter(Boolean),
   }
 }

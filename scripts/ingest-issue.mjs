@@ -38,10 +38,40 @@ const folder = item.categoryFolder || 'breakfast'
 const targetDir = path.join(process.cwd(), 'src', 'data', 'items', folder)
 const targetFile = path.join(targetDir, `${id}.json`)
 
+const score = Number(item.crohnsScore)
+const safetyTier =
+  score >= 9
+    ? 'flare-safe'
+    : score >= 7.5
+      ? 'low-risk'
+      : score >= 6.5
+        ? 'remission-road'
+        : 'danger-zone'
+
+const tagSet = new Set(
+  Array.isArray(item.tags)
+    ? item.tags.map((t) => String(t).trim()).filter(Boolean)
+    : [],
+)
+const text = `${item.name || ''} ${item.brandOrRestaurant || ''}`
+if (
+  /\b(disney\s*(wonder|magic|treasure|cruise)|castaway\s*cay|lookout\s*cay)\b/i.test(
+    text,
+  )
+) {
+  tagSet.add('disney-cruise')
+  if (/\bdisney\s*wonder\b|\bwonder\b/i.test(text)) tagSet.add('disney-wonder')
+  if (/\bdisney\s*magic\b|\bmagic\b/i.test(text)) tagSet.add('disney-magic')
+  if (/\bdisney\s*treasure\b|\btreasure\b/i.test(text))
+    tagSet.add('disney-treasure')
+} else if (/\bcruise\b/i.test(text) && !tagSet.has('disney-cruise')) {
+  tagSet.add('cruise')
+}
+
 fs.mkdirSync(targetDir, { recursive: true })
 fs.writeFileSync(
   targetFile,
-  `${JSON.stringify({ ...item, id }, null, 2)}\n`,
+  `${JSON.stringify({ ...item, id, safetyTier, tags: Array.from(tagSet) }, null, 2)}\n`,
   'utf8',
 )
 

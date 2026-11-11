@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react'
+import { CRUISE_SHIP_CHIPS } from '../lib/filters'
 import { MEAL_CHIPS, REGION_CHIPS, costLabel } from '../lib/score'
 import type { CatalogFilters, ModeFilter } from '../hooks/useCatalogFilters'
 
@@ -9,6 +10,7 @@ interface FilterBarProps {
   toasterOvenOnly: boolean
   grabAndGoOnly: boolean
   citrusFreeOnly: boolean
+  cruiseMode: boolean
   showDangerZone: boolean
   onToggleGuardrail: (
     key:
@@ -16,8 +18,10 @@ interface FilterBarProps {
       | 'toasterOvenOnly'
       | 'grabAndGoOnly'
       | 'citrusFreeOnly'
+      | 'cruiseMode'
       | 'showDangerZone',
   ) => void
+  onSelectShip: (shipTag: string) => void
   onClearExtra: () => void
 }
 
@@ -45,9 +49,13 @@ function Chip({
 export function ModeChips({
   mode,
   onMode,
+  cruiseMode = false,
+  onToggleCruise,
 }: {
   mode: ModeFilter
   onMode: (mode: ModeFilter) => void
+  cruiseMode?: boolean
+  onToggleCruise?: () => void
 }) {
   const modes: { id: ModeFilter; label: string }[] = [
     { id: 'all', label: 'All' },
@@ -66,6 +74,11 @@ export function ModeChips({
           {item.label}
         </Chip>
       ))}
+      {onToggleCruise ? (
+        <Chip active={cruiseMode} onClick={onToggleCruise}>
+          Cruise
+        </Chip>
+      ) : null}
     </div>
   )
 }
@@ -77,12 +90,40 @@ export function FilterPanel({
   toasterOvenOnly,
   grabAndGoOnly,
   citrusFreeOnly,
+  cruiseMode,
   showDangerZone,
   onToggleGuardrail,
+  onSelectShip,
   onClearExtra,
 }: FilterBarProps) {
   return (
     <div className="space-y-3">
+      <div>
+        <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
+          Cruise & vacation
+        </p>
+        <div className="flex flex-wrap gap-1.5">
+          <Chip
+            active={cruiseMode}
+            onClick={() => onToggleGuardrail('cruiseMode')}
+          >
+            Cruise / Vacation
+          </Chip>
+          {CRUISE_SHIP_CHIPS.map((ship) => (
+            <Chip
+              key={ship.tag}
+              active={cruiseMode && filters.tag === ship.tag}
+              onClick={() => onSelectShip(ship.tag)}
+            >
+              {ship.label}
+            </Chip>
+          ))}
+        </div>
+        <p className="muted mt-1.5 text-xs">
+          Unselected by default so cruise menus stay tucked out of everyday
+          grocery and restaurant browsing.
+        </p>
+      </div>
       <div>
         <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
           Meal

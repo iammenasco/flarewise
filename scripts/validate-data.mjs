@@ -57,6 +57,42 @@ function walk(dir) {
       errors += 1
       console.error(`tags must have at least 2 entries: ${rel}`)
     }
+
+    const expectedTier =
+      item.crohnsScore >= 9
+        ? 'flare-safe'
+        : item.crohnsScore >= 7.5
+          ? 'low-risk'
+          : item.crohnsScore >= 6.5
+            ? 'remission-road'
+            : 'danger-zone'
+    if (item.safetyTier !== expectedTier) {
+      errors += 1
+      console.error(
+        `safetyTier mismatch in ${rel}: got "${item.safetyTier}" for crohnsScore ${item.crohnsScore} (expected "${expectedTier}")`,
+      )
+    }
+
+    const brandAndName = `${item.name || ''} ${item.brandOrRestaurant || ''}`
+    if (
+      /\b(disney\s*(wonder|magic|treasure|cruise)|castaway\s*cay|lookout\s*cay|cruise)\b/i.test(
+        brandAndName,
+      )
+    ) {
+      const hasCruiseTag =
+        Array.isArray(item.tags) &&
+        item.tags.some((t) =>
+          /^(cruise|vacation|disney-cruise|disney-wonder|disney-magic|disney-treasure)$/i.test(
+            String(t).trim(),
+          ),
+        )
+      if (!hasCruiseTag) {
+        errors += 1
+        console.error(
+          `Cruise/vacation item missing required cruise tag ("disney-cruise", "cruise", or "vacation") in ${rel}`,
+        )
+      }
+    }
   }
 }
 

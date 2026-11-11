@@ -474,6 +474,21 @@ export function SubmitPage() {
               />
               No citrus
             </label>
+            <label className="inline-flex items-center gap-2">
+              <input
+                type="checkbox"
+                className="accent-[var(--brand)]"
+                checked={draft.tags.includes('disney-cruise') || draft.tags.includes('cruise')}
+                onChange={(e) => {
+                  const nextTags = e.target.checked
+                    ? Array.from(new Set([...draft.tags, 'disney-cruise']))
+                    : draft.tags.filter((t) => t !== 'disney-cruise' && t !== 'cruise')
+                  update('tags', nextTags)
+                  setTagsText(nextTags.join(', '))
+                }}
+              />
+              Cruise / vacation
+            </label>
           </div>
 
           <Field

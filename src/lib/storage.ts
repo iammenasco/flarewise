@@ -34,6 +34,7 @@ export const defaultGuardrails: Guardrails = {
   lactoseSafeOnly: false,
   toasterOvenOnly: false,
   grabAndGoOnly: false,
+  cruiseMode: false,
   hideDangerZone: true,
   showDangerZone: false,
 }

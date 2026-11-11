@@ -34,6 +34,9 @@ This project welcomes agents. Please use the data — and add to it when you can
 - UI tiers (not raw scores in the main list): Flare safe, Everyday, Careful/Good-day fit, Avoid.
 - Underlying crohnsScore remains 1–10 where higher is gentler for sorting/filtering.
 - Avoid/danger-zone items stay hidden unless explicitly enabled.
+- Cruise / vacation items stay hidden by default (`cruiseMode: false`) so everyday grocery/restaurant browsing stays clean. Every cruise or vacation food MUST include `"disney-cruise"` (or `"cruise"` / `"vacation"`) in `tags`, plus ship tags (`"disney-wonder"`, `"disney-magic"`, `"disney-treasure"`) when applicable.
+- Citrus guardrail: `citrusFree: false` whenever lemon, lime, orange, grapefruit (score `1.0` hard avoid), yuzu/ponzu, or bergamot/Earl Grey is present.
+- Lactose rule: naturally aged cheeses (Cheddar, Swiss, Gruyère, Havarti, Provolone, Parmigiano-Reggiano, Manchego) are `lactoseSafe: true`; unaged dairy/cream/ice cream is `lactoseSafe: false`.
 
 ## Scoring rubric (for agents)
 

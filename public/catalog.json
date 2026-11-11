@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-10T23:48:44.352Z",
-  "itemCount": 100,
+  "builtAt": "2026-11-11T05:04:54.802Z",
+  "itemCount": 103,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -58,7 +58,20 @@
       "cautiousScope": "Flare-safe + everyday",
       "steadyPlusScope": "Includes careful options"
     },
-    "agentBrief": "Flarewise rubric (cite briefly): crohnsScore 1–10 higher = gentler. Bands: 9–10 Flare safe; 7.5–8.9 Everyday; 6.5–7.4 Careful (Good-day fit when feeling ≥7); <6.5 Avoid (hide). Today dial (feeling 1 rough → 10 great) sets a min crohnsScore floor: rough ≈ Flare-safe only; cautious ≈ Flare-safe+Everyday; steady/good/great opens Careful. Draft/rank from live neighbors + these bands — cite score/tier, not vibes. Skip medical-disclaimer boilerplate in SMS."
+    "cruiseFilter": {
+      "hiddenByDefault": true,
+      "requiredTags": [
+        "disney-cruise",
+        "cruise",
+        "vacation"
+      ],
+      "shipTags": [
+        "disney-wonder",
+        "disney-magic",
+        "disney-treasure"
+      ]
+    },
+    "agentBrief": "Flarewise rubric (cite briefly): crohnsScore 1–10 higher = gentler. Bands: 9–10 Flare safe; 7.5–8.9 Everyday; 6.5–7.4 Careful (Good-day fit when feeling ≥7); <6.5 Avoid (hide). Today dial (feeling 1 rough → 10 great) sets a min crohnsScore floor: rough ≈ Flare-safe only; cautious ≈ Flare-safe+Everyday; steady/good/great opens Careful. Cruise/vacation items are hidden by default unless Cruise mode is selected — always tag cruise items with 'disney-cruise' (or 'cruise'/'vacation') plus ship tags ('disney-wonder', 'disney-magic', 'disney-treasure'). Guardrails: set citrusFree=false for any lemon, lime, orange, grapefruit (1.0 hard avoid), yuzu/ponzu, or bergamot/Earl Grey; aged cheeses (Cheddar, Swiss, Gruyère, Havarti, Provolone, Parmigiano-Reggiano, Manchego) are lactoseSafe=true. Draft/rank from live neighbors + these bands — cite score/tier, not vibes. Skip medical-disclaimer boilerplate in SMS."
   },
   "items": [
     {
@@ -410,39 +423,6 @@
       "_sourcePath": "src/data/items/drinks-sauces/sweet-eel-sauce-unagi-tare.json"
     },
     {
-      "id": "turkish-eggs-cilbir",
-      "name": "Turkish Eggs (Çılbir)",
-      "categoryFolder": "breakfast",
-      "crohnsScore": 10,
-      "safetyTier": "flare-safe",
-      "mealTypes": [
-        "breakfast"
-      ],
-      "region": "Global",
-      "costTier": 1,
-      "convenienceScore": 5,
-      "prepMethod": [
-        "stovetop"
-      ],
-      "fiberGramsPerServing": 0,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "eggs",
-        "yogurt",
-        "breakfast"
-      ],
-      "searchKeywords": [
-        "çılbir",
-        "turkish eggs",
-        "yogurt",
-        "chili butter"
-      ],
-      "whyItWorks": "Creamy yogurt base with soft eggs and warm chili butter.",
-      "prepOrOrderInstructions": "Warm seasoned yogurt, top with soft poached eggs and warm chili butter.",
-      "_sourcePath": "src/data/items/breakfast/turkish-eggs-cilbir.json"
-    },
-    {
       "id": "warm-salted-bone-broth-mug",
       "name": "Warm Bone Broth Mug (Chicken or Beef)",
       "categoryFolder": "drinks-sauces",
@@ -594,6 +574,7 @@
       "id": "creamy-butternut-squash-soup",
       "name": "Creamy Butternut Squash Soup",
       "categoryFolder": "dinner",
+      "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Animator's Palate / 1923 / Cabanas",
       "crohnsScore": 9.5,
       "safetyTier": "flare-safe",
       "mealTypes": [
@@ -604,20 +585,43 @@
       "costTier": 1,
       "convenienceScore": 5,
       "prepMethod": [
-        "stovetop"
+        "stovetop",
+        "ready-to-eat"
       ],
-      "fiberGramsPerServing": 5,
-      "lactoseSafe": true,
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
       "citrusFree": true,
+      "groceryIngredients": [
+        "Peeled Butternut Squash",
+        "Chicken Bone Broth",
+        "Lactose-Free Cream or Coconut Milk",
+        "Ground Ginger",
+        "Nutmeg"
+      ],
       "tags": [
         "soup",
-        "butternut-squash"
+        "butternut-squash",
+        "soluble-fiber",
+        "gluten-free",
+        "flare-recovery",
+        "disney-cruise",
+        "disney-wonder",
+        "disney-magic",
+        "disney-treasure",
+        "animators-palate"
       ],
       "searchKeywords": [
-        "butternut-squash-soup"
+        "creamy butternut squash soup",
+        "squash bisque",
+        "animators palate soup",
+        "blended soup"
       ],
-      "whyItWorks": "Warm and soothing.",
-      "prepOrOrderInstructions": "Serve warm.",
+      "whyItWorks": "Pureed peeled butternut squash and warm broth require zero chewing and deliver soothing soluble pectin that calms intestinal transit.",
+      "prepOrOrderInstructions": "Order or blend completely smooth without crunchy croutons, bacon bits, or pumpkin seed garnishes. Take a Lactaid enzyme if made with heavy dairy cream.",
+      "watchOuts": [
+        "Toasted pumpkin seed (pepita) garnish",
+        "Heavy dairy cream if lactose sensitive"
+      ],
       "_sourcePath": "src/data/items/dinner/creamy-butternut-squash-soup.json"
     },
     {
@@ -1068,6 +1072,63 @@
       "_sourcePath": "src/data/items/snacks-desserts/pirates-booty-chesters-puffcorn.json"
     },
     {
+      "id": "potage-parmentier-leek-potato",
+      "name": "Potage Parmentier (Smooth Leek & Potato Soup)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Disney Magic · Lumiere's / Disney Wonder · Triton's",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "groceryIngredients": [
+        "Peeled Yukon Gold Potatoes",
+        "Chicken or Vegetable Broth",
+        "Butter",
+        "Lactose-Free Cream"
+      ],
+      "tags": [
+        "soup",
+        "potato",
+        "leek",
+        "comfort-food",
+        "french",
+        "flare-recovery",
+        "disney-cruise",
+        "disney-magic",
+        "disney-wonder",
+        "lumieres",
+        "tritons"
+      ],
+      "searchKeywords": [
+        "potage parmentier",
+        "leek and potato soup",
+        "vichyssoise",
+        "lumieres",
+        "tritons",
+        "disney magic",
+        "disney wonder"
+      ],
+      "whyItWorks": "Peeled potatoes and tender simmered leeks are pureed into a velvety, liquid-smooth French bisque that requires zero mechanical chewing.",
+      "prepOrOrderInstructions": "At Lumiere's or Triton's, order without raw chive garnish or crunchy croutons. At home, simmer peeled potatoes in broth with onion powder and blend smooth with lactose-free cream and butter.",
+      "watchOuts": [
+        "Raw chopped chive garnish",
+        "Dairy cream base if lactose sensitive"
+      ],
+      "_sourcePath": "src/data/items/dinner/potage-parmentier-leek-potato.json"
+    },
+    {
       "id": "potato-gnocchi-brown-butter-parmesan",
       "name": "Potato Gnocchi in Brown Butter & Parmesan",
       "categoryFolder": "italian-med",
@@ -1141,37 +1202,6 @@
       "_sourcePath": "src/data/items/mexican-southwest/mexican-shredded-chicken-rice-caldo.json"
     },
     {
-      "id": "smoked-salmon-tartar",
-      "name": "Smoked Salmon Tartar",
-      "categoryFolder": "dinner",
-      "crohnsScore": 9.5,
-      "safetyTier": "flare-safe",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "Global",
-      "costTier": 2,
-      "convenienceScore": 3,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 1,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "salmon",
-        "tartar",
-        "fish"
-      ],
-      "searchKeywords": [
-        "salmon-tartar"
-      ],
-      "whyItWorks": "Rich in healthy fats.",
-      "prepOrOrderInstructions": "Serve cold.",
-      "_sourcePath": "src/data/items/dinner/smoked-salmon-tartar.json"
-    },
-    {
       "id": "smooth-egg-salad-brioche",
       "name": "Smooth Egg Salad on Brioche",
       "categoryFolder": "lunch",
@@ -1243,37 +1273,6 @@
       "whyItWorks": "Hot bone broth hydrates an irritated bowel and replaces sodium, while refined wheat noodles and thin wonton wrappers require almost zero digestive effort.",
       "prepOrOrderInstructions": "Simmer ramen noodles (ditch spicy chili packets) or frozen chicken/pork wontons in rich chicken bone broth. Add 1 drop toasted sesame oil and a soft-boiled egg.",
       "_sourcePath": "src/data/items/lunch/wonton-ramen-noodle-broth-bowl.json"
-    },
-    {
-      "id": "baked-potato-and-cheddar-cheese-soup",
-      "name": "Baked Potato & Cheddar Cheese Soup",
-      "categoryFolder": "dinner",
-      "crohnsScore": 9,
-      "safetyTier": "flare-safe",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 4,
-      "prepMethod": [
-        "stovetop"
-      ],
-      "fiberGramsPerServing": 4,
-      "lactoseSafe": false,
-      "citrusFree": true,
-      "tags": [
-        "potato",
-        "cheese",
-        "soup"
-      ],
-      "searchKeywords": [
-        "potato-cheese-soup"
-      ],
-      "whyItWorks": "Filling and warm.",
-      "prepOrOrderInstructions": "Serve hot.",
-      "_sourcePath": "src/data/items/dinner/baked-potato-and-cheddar-cheese-soup.json"
     },
     {
       "id": "biscoff-cookie-butter-ritz-crackers",
@@ -1549,6 +1548,7 @@
       "_sourcePath": "src/data/items/breakfast/malt-o-meal-dyno-bites.json"
     },
     {
+      "id": "grilled-sourdough-ham-cheese",
       "name": "Grilled Sourdough Ham & Cheese",
       "categoryFolder": "lunch",
       "crohnsScore": 9,
@@ -1558,32 +1558,97 @@
         "dinner"
       ],
       "region": "American",
-      "costTier": 2,
-      "convenienceScore": 2,
+      "costTier": 1,
+      "convenienceScore": 4,
       "prepMethod": [
-        "skillet"
+        "skillet",
+        "toaster-oven"
       ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": false,
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
       "citrusFree": true,
+      "groceryIngredients": [
+        "White Sourdough Bread",
+        "Deli Ham",
+        "Plain Havarti or Swiss Cheese",
+        "Butter"
+      ],
       "tags": [
         "sandwich",
         "melt",
         "ham",
         "cheese",
-        "sourdough"
+        "sourdough",
+        "swiss",
+        "havarti",
+        "toaster-oven"
       ],
       "searchKeywords": [
-        "grilled",
-        "ham",
-        "cheese",
-        "sourdough",
-        "melt"
+        "grilled ham and cheese",
+        "sourdough melt",
+        "hot ham and cheese",
+        "toastie"
       ],
-      "whyItWorks": "Provides satisfying protein and fat with easily digestible sourdough bread.",
-      "prepOrOrderInstructions": "Butter the sourdough slices and grill in a skillet over medium heat until the cheese is melted and the bread is golden brown.",
-      "id": "grilled-sourdough-ham-cheese",
+      "whyItWorks": "Long-fermented white sourdough and naturally aged Swiss, Havarti, or sharp cheddar (~0g lactose) melt into a low-residue, high-protein hot sandwich with ~1g fiber.",
+      "prepOrOrderInstructions": "Layer thin-sliced deli ham and plain Swiss, Havarti, or aged cheddar between buttered white sourdough slices. Grill in a skillet or bake in the toaster oven at 375F until crisp and melted.",
+      "watchOuts": [
+        "Whole-grain or seeded sourdough",
+        "Unaged American cheese if lactose sensitive"
+      ],
       "_sourcePath": "src/data/items/lunch/grilled-sourdough-ham-cheese.json"
+    },
+    {
+      "id": "honey-roasted-butternut-squash",
+      "name": "Honey-Roasted Butternut Squash",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Disney Cruise Line · Main Dining & Cabanas / Marceline Market",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "groceryIngredients": [
+        "Peeled Cubed Butternut Squash",
+        "Butter or Olive Oil",
+        "Honey or Maple Syrup",
+        "Cinnamon"
+      ],
+      "tags": [
+        "squash",
+        "butternut-squash",
+        "vegetable",
+        "sweet",
+        "soluble-fiber",
+        "gluten-free",
+        "disney-cruise",
+        "disney-wonder",
+        "disney-magic",
+        "disney-treasure"
+      ],
+      "searchKeywords": [
+        "honey roasted butternut squash",
+        "winter squash",
+        "roasted squash side",
+        "peeled squash"
+      ],
+      "whyItWorks": "Peeled winter squash flesh cooks down into a velvety, mashable puree rich in soothing soluble pectin with zero stringy husks or skins.",
+      "prepOrOrderInstructions": "Ensure squash is completely peeled with seeds removed, and roast at 375F with butter and a touch of honey until fork-mashable soft. On cruise menus, ask to hold any toasted pepitas/pumpkin seeds or coarse herbs.",
+      "watchOuts": [
+        "Pumpkin seeds / pepita garnishes",
+        "Unpeeled squash skin edges"
+      ],
+      "_sourcePath": "src/data/items/dinner/honey-roasted-butternut-squash.json"
     },
     {
       "id": "japanese-custard-taiyaki-mochi",
@@ -1662,42 +1727,6 @@
       "_sourcePath": "src/data/items/dinner/loaded-baked-potato-bowl.json"
     },
     {
-      "id": "peanut-butter-and-jelly-sandwich",
-      "name": "Peanut Butter and Jelly Sandwich",
-      "categoryFolder": "lunch",
-      "crohnsScore": 9,
-      "safetyTier": "flare-safe",
-      "mealTypes": [
-        "lunch",
-        "snack"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 3,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2.5,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "sandwich",
-        "peanut-butter",
-        "jelly",
-        "sweet"
-      ],
-      "searchKeywords": [
-        "peanut",
-        "butter",
-        "jelly",
-        "sandwich",
-        "pbj"
-      ],
-      "whyItWorks": "Simple protein and energy source.",
-      "prepOrOrderInstructions": "Ready to eat.",
-      "_sourcePath": "src/data/items/lunch/peanut-butter-and-jelly-sandwich.json"
-    },
-    {
       "id": "prosciutto-provolone-croissant",
       "name": "Prosciutto & Provolone Croissant Roll-Up",
       "categoryFolder": "breakfast",
@@ -1771,6 +1800,103 @@
       "whyItWorks": "White English muffins have zero whole-grain husks and toast up crisp without sharp edges.",
       "prepOrOrderInstructions": "Toast light-to-medium in the toaster oven, spread with lactose-free cream cheese (or whole-milk ricotta in remission) and a drizzle of honey.",
       "_sourcePath": "src/data/items/breakfast/cream-cheese-english-muffin.json"
+    },
+    {
+      "id": "smoked-salmon-tartar",
+      "name": "Smoked Salmon Tartare",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "salmon",
+        "tartar",
+        "fish",
+        "high-protein",
+        "disney-cruise",
+        "disney-wonder",
+        "disney-magic",
+        "animators-palate"
+      ],
+      "searchKeywords": [
+        "smoked salmon tartar",
+        "smoked salmon tartare",
+        "animators palate",
+        "disney wonder",
+        "disney magic",
+        "lox"
+      ],
+      "whyItWorks": "Cured, finely chopped smoked salmon is butter-soft and packed with anti-inflammatory omega-3 fats with 0g plant fiber.",
+      "prepOrOrderInstructions": "At Animator's Palate, order without whole capers, raw red onion, or lemon zest, and go light on the dill-caper sour cream (or pair with plain white dinner rolls).",
+      "watchOuts": [
+        "Whole capers and raw minced red onion",
+        "Sour cream/crème fraîche if lactose sensitive",
+        "Lemon juice/zest garnish"
+      ],
+      "_sourcePath": "src/data/items/dinner/smoked-salmon-tartar.json"
+    },
+    {
+      "id": "peanut-butter-and-jelly-sandwich",
+      "name": "Smooth Peanut Butter & Seedless Jelly Sandwich",
+      "categoryFolder": "lunch",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "snack",
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "groceryIngredients": [
+        "White Potato Bread or Brioche",
+        "Creamy Smooth Peanut Butter",
+        "Seedless Grape or Apple Jelly"
+      ],
+      "tags": [
+        "sandwich",
+        "peanut-butter",
+        "jelly",
+        "sweet",
+        "grab-and-go",
+        "bread"
+      ],
+      "searchKeywords": [
+        "pbj",
+        "pb&j",
+        "peanut butter and jelly",
+        "uncursted",
+        "uncrustables"
+      ],
+      "whyItWorks": "Creamy peanut butter and clear pectin jelly (grape or apple) on refined white or potato bread provide dense, zero-roughage calories with no nut shards or berry seeds.",
+      "prepOrOrderInstructions": "Use strictly creamy/smooth peanut butter (never crunchy) and seedless jelly (grape or apple — never raspberry/blackberry jam with seeds or orange marmalade) on soft white or potato bread.",
+      "watchOuts": [
+        "Crunchy peanut butter nut shards",
+        "Berry preserves with seeds (strawberry/raspberry/blackberry)",
+        "Citrus marmalade or pectin with grapefruit extract"
+      ],
+      "_sourcePath": "src/data/items/lunch/peanut-butter-and-jelly-sandwich.json"
     },
     {
       "id": "smooth-peanut-satay-sauce",
@@ -1921,6 +2047,107 @@
       "_sourcePath": "src/data/items/snacks-desserts/warm-bavarian-soft-pretzel-cheese.json"
     },
     {
+      "id": "ahi-tuna-tartare",
+      "name": "Ahi Tuna Tartare",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table / Disney Wonder · Triton's",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "tuna",
+        "fish",
+        "raw",
+        "sushi",
+        "high-protein",
+        "disney-cruise",
+        "disney-magic",
+        "disney-wonder",
+        "rapunzels-royal-table"
+      ],
+      "searchKeywords": [
+        "ahi tuna tartare",
+        "raw tuna",
+        "rapunzels royal table",
+        "disney magic",
+        "appetizer"
+      ],
+      "whyItWorks": "Finely diced sushi-grade raw ahi tuna and creamy mango/avocado require zero mechanical grinding and deliver clean, lean omega-3 protein.",
+      "prepOrOrderInstructions": "Ask your server to hold any chili oil, radish slices, or sesame seeds, and verify the soy-ginger dressing if you are on strict citrus-exclusion medications. Pair with white rice or soft bread instead of hard taro/wonton crisps if flaring.",
+      "watchOuts": [
+        "Citrus/ponzu extracts in dressing",
+        "Sharp fried wonton or taro chips",
+        "Sesame seeds"
+      ],
+      "_sourcePath": "src/data/items/lunch/ahi-tuna-tartare.json"
+    },
+    {
+      "id": "baked-potato-and-cheddar-cheese-soup",
+      "name": "Baked Potato & Cheddar Cheese Soup",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "groceryIngredients": [
+        "Peeled Russet or Yukon Gold Potatoes",
+        "Chicken Bone Broth",
+        "Sharp Cheddar Cheese",
+        "Lactose-Free Milk",
+        "Crispy Bacon"
+      ],
+      "tags": [
+        "potato",
+        "cheese",
+        "cheddar",
+        "soup",
+        "disney-cruise",
+        "disney-wonder",
+        "disney-magic",
+        "animators-palate"
+      ],
+      "searchKeywords": [
+        "baked potato soup",
+        "cheddar potato soup",
+        "animators palate soup",
+        "disney wonder",
+        "disney magic"
+      ],
+      "whyItWorks": "Peeled potatoes simmered and blended with aged sharp cheddar create a rich, soothing starch base with minimal mechanical friction.",
+      "prepOrOrderInstructions": "Order at Animator's Palate with no raw green onions/chives on top. If flaring, ask for no bacon bits and take a Lactaid pill for the cream base.",
+      "watchOuts": [
+        "Raw sliced scallions / chives on top",
+        "Dairy cream base if lactose sensitive",
+        "Potato skin fragments if unpeeled"
+      ],
+      "_sourcePath": "src/data/items/dinner/baked-potato-and-cheddar-cheese-soup.json"
+    },
+    {
       "id": "banana-free-pudding-parfait",
       "name": "Banana-Free Pudding Parfait (Fudge or Butterscotch)",
       "categoryFolder": "snacks-desserts",
@@ -1955,6 +2182,57 @@
       "whyItWorks": "Smooth calories that require zero mechanical chewing.",
       "prepOrOrderInstructions": "Layer chocolate fudge, vanilla, or butterscotch pudding cups with lactose-free whipped cream and crushed graham crackers or Nilla wafers (let sit 5 mins to soften into cake texture).",
       "_sourcePath": "src/data/items/snacks-desserts/banana-free-pudding-parfait.json"
+    },
+    {
+      "id": "chateaubriand-style-roasted-beef-tenderloin",
+      "name": "Chateaubriand-Roasted Filet Steak",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "skillet",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "beef",
+        "tenderloin",
+        "steak",
+        "roast",
+        "french",
+        "high-protein",
+        "disney-cruise",
+        "disney-wonder",
+        "disney-magic",
+        "tritons",
+        "lumieres"
+      ],
+      "searchKeywords": [
+        "chateaubriand",
+        "filet steak",
+        "roasted beef tenderloin",
+        "tritons",
+        "lumieres",
+        "disney wonder",
+        "disney magic"
+      ],
+      "whyItWorks": "Chateaubriand is cut from the most tender center portion of beef tenderloin — virtually zero gristle or connective tissue, making it the easiest steak cut to digest.",
+      "prepOrOrderInstructions": "Order medium-rare to medium at Triton's or Lumiere's with the crushed new potatoes (eat the soft insides, skip any skins) and mild red wine jus on the side. Ask to swap green beans for peeled carrots or extra mashed potatoes during a flare.",
+      "watchOuts": [
+        "Potato skins on crushed new potatoes",
+        "Whole green beans if flaring",
+        "Rich Béarnaise sauce if high fat triggers urgency"
+      ],
+      "_sourcePath": "src/data/items/high-protein/chateaubriand-style-roasted-beef-tenderloin.json"
     },
     {
       "id": "chicken-marsala-strained-gravy",
@@ -2102,6 +2380,54 @@
       "whyItWorks": "Egg-heavy, zero-fiber batter that puffs up like a Yorkshire pudding - feels fancy, costs pennies, and takes almost no digestive work.",
       "prepOrOrderInstructions": "Whisk 2 eggs, 1/2 cup white flour, 1/2 cup lactose-free milk, and a pinch of salt. Pour into a hot skillet with 2 tbsp melted butter. Bake at 425F for 15 mins until puffed and golden. Dust with powdered sugar and maple syrup.",
       "_sourcePath": "src/data/items/breakfast/dutch-baby-german-pancake.json"
+    },
+    {
+      "id": "ginger-teriyaki-angus-beef-tenderloin",
+      "name": "Ginger-Teriyaki Dusted Angus Beef Tenderloin",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "skillet",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "beef",
+        "tenderloin",
+        "ginger",
+        "teriyaki",
+        "steak",
+        "high-protein",
+        "disney-cruise",
+        "disney-wonder",
+        "disney-magic",
+        "animators-palate"
+      ],
+      "searchKeywords": [
+        "ginger teriyaki beef tenderloin",
+        "animators palate steak",
+        "angus beef tenderloin",
+        "disney wonder",
+        "disney magic"
+      ],
+      "whyItWorks": "Center-cut beef tenderloin (filet) has almost zero tough connective tissue, and the ginger-teriyaki crust adds savory umami without chili burn.",
+      "prepOrOrderInstructions": "Order medium-rare to medium for maximum tenderness at Animator's Palate. Ask to swap the wasabi mashed potatoes and bok choy for plain mashed potatoes or steamed white rice, and hold any coarse black peppercorn crust.",
+      "watchOuts": [
+        "Wasabi in the standard mashed potato side",
+        "Fibrous bok choy stalks",
+        "Overcooking past medium (makes beef fibers tougher)"
+      ],
+      "_sourcePath": "src/data/items/high-protein/ginger-teriyaki-angus-beef-tenderloin.json"
     },
     {
       "id": "ham-swiss-hawaiian-sliders",
@@ -2684,6 +3010,56 @@
       "_sourcePath": "src/data/items/lunch/french-dip-roast-beef-swiss.json"
     },
     {
+      "id": "turkish-eggs-cilbir",
+      "name": "Turkish Eggs (Çılbır — Herb Oil Swap)",
+      "categoryFolder": "breakfast",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "groceryIngredients": [
+        "Eggs",
+        "Plain Strained Greek Yogurt",
+        "Butter",
+        "Sweet Paprika",
+        "Garlic Powder"
+      ],
+      "tags": [
+        "eggs",
+        "yogurt",
+        "breakfast",
+        "high-protein",
+        "gluten-free"
+      ],
+      "searchKeywords": [
+        "cilbir",
+        "çılbır",
+        "turkish eggs",
+        "poached eggs",
+        "greek yogurt eggs"
+      ],
+      "whyItWorks": "Soft-poached eggs over strained Greek yogurt deliver high protein with 0g insoluble fiber; swapping Aleppo chili flakes for sweet paprika avoids capsaicin burn.",
+      "prepOrOrderInstructions": "Warm plain strained Greek yogurt (or lactose-free yogurt) with a pinch of garlic powder and salt. Top with two soft-poached eggs and melted butter infused with sweet paprika or dill — strictly hold chili oil and red pepper flakes.",
+      "flareEmergencySwap": "Use lactose-free Greek yogurt and skip the spiced butter in favor of a plain pat of butter or olive oil.",
+      "watchOuts": [
+        "Aleppo pepper / chili oil",
+        "Raw minced garlic in the yogurt base",
+        "Unstrained high-lactose yogurt"
+      ],
+      "_sourcePath": "src/data/items/breakfast/turkish-eggs-cilbir.json"
+    },
+    {
       "id": "yellow-moong-dal-khichdi",
       "name": "Yellow Moong Dal Khichdi (With Ghee)",
       "categoryFolder": "asian-indian",
@@ -2720,39 +3096,6 @@
       "whyItWorks": "Unlike whole brown lentils or chickpeas, split yellow moong dal has the outer hulls completely removed and cooks into a velvety pudding with basmati rice and zero-lactose ghee.",
       "prepOrOrderInstructions": "Pressure-cook or simmer equal parts white basmati rice and split yellow moong dal with water/broth, turmeric, salt, and a spoonful of clarified butter (ghee) until completely smooth.",
       "_sourcePath": "src/data/items/asian-indian/yellow-moong-dal-khichdi.json"
-    },
-    {
-      "name": "Ahi Tuna Tartare",
-      "categoryFolder": "lunch",
-      "crohnsScore": 8,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "Global",
-      "costTier": 3,
-      "convenienceScore": 2,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 0,
-      "lactoseSafe": true,
-      "citrusFree": false,
-      "tags": [
-        "tuna",
-        "fish",
-        "raw"
-      ],
-      "searchKeywords": [
-        "ahi",
-        "tuna",
-        "tartare"
-      ],
-      "whyItWorks": "High protein and easily digestible, though watch for citrus/acid.",
-      "prepOrOrderInstructions": "Ensure fish is fresh and properly chilled.",
-      "id": "ahi-tuna-tartare",
-      "_sourcePath": "src/data/items/lunch/ahi-tuna-tartare.json"
     },
     {
       "id": "buttermilk-brioche-french-toast",
@@ -3334,39 +3677,6 @@
       "_sourcePath": "src/data/items/snacks-desserts/baked-cinnamon-sugar-tortilla-crisps.json"
     },
     {
-      "name": "Boudin Sausage Fritters",
-      "categoryFolder": "diner-bbq",
-      "crohnsScore": 7.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 2,
-      "convenienceScore": 3,
-      "prepMethod": [
-        "skillet"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "sausage",
-        "pork",
-        "fried"
-      ],
-      "searchKeywords": [
-        "boudin",
-        "sausage",
-        "fritters"
-      ],
-      "whyItWorks": "A protein-dense option.",
-      "prepOrOrderInstructions": "Minimize greasy intake.",
-      "id": "boudin-sausage-fritters",
-      "_sourcePath": "src/data/items/diner-bbq/boudin-sausage-fritters.json"
-    },
-    {
       "id": "gut-safe-egg-roll-in-a-bowl",
       "name": "Gut-Safe \"Egg Roll in a Bowl\" (Peeled Zucchini Swap)",
       "categoryFolder": "dinner",
@@ -3401,39 +3711,6 @@
       "whyItWorks": "Swaps rough shredded cabbage for peeled, seedless zucchini ribbons that cook down into silk.",
       "prepOrOrderInstructions": "Brown ground pork or turkey with ground ginger, garlic powder, soy sauce, and a drop of sesame oil. Add peeled zucchini ribbons (seed core removed) and cook until completely translucent and tender.",
       "_sourcePath": "src/data/items/dinner/gut-safe-egg-roll-in-a-bowl.json"
-    },
-    {
-      "name": "Honey-Roasted Butternut Squash",
-      "categoryFolder": "dinner",
-      "crohnsScore": 7.5,
-      "safetyTier": "low-risk",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 2,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 4,
-      "lactoseSafe": true,
-      "citrusFree": true,
-      "tags": [
-        "squash",
-        "vegetable",
-        "sweet"
-      ],
-      "searchKeywords": [
-        "butternut",
-        "squash",
-        "honey"
-      ],
-      "whyItWorks": "High fiber and nutrient-dense, though honey adds some sugar.",
-      "prepOrOrderInstructions": "Roast until tender and caramelized.",
-      "id": "honey-roasted-butternut-squash",
-      "_sourcePath": "src/data/items/dinner/honey-roasted-butternut-squash.json"
     },
     {
       "id": "malt-o-meal-marshmallow-mateys",
@@ -3510,70 +3787,6 @@
       "_sourcePath": "src/data/items/lunch/safe-blt-bacon-avocado-pocket.json"
     },
     {
-      "id": "ginger-teriyaki-angus-beef-tenderloin",
-      "name": "Ginger-Teriyaki Dusted Angus Beef Tenderloin",
-      "categoryFolder": "high-protein",
-      "crohnsScore": 7,
-      "safetyTier": "remission-road",
-      "mealTypes": [
-        "dinner"
-      ],
-      "region": "Global",
-      "costTier": 3,
-      "convenienceScore": 2,
-      "prepMethod": [
-        "skillet"
-      ],
-      "fiberGramsPerServing": 0,
-      "lactoseSafe": true,
-      "citrusFree": false,
-      "tags": [
-        "beef",
-        "tenderloin",
-        "ginger",
-        "teriyaki"
-      ],
-      "searchKeywords": [
-        "teriyaki-beef"
-      ],
-      "whyItWorks": "High protein source.",
-      "prepOrOrderInstructions": "Serve warm.",
-      "_sourcePath": "src/data/items/high-protein/ginger-teriyaki-angus-beef-tenderloin.json"
-    },
-    {
-      "name": "Iceberg Wedge",
-      "categoryFolder": "lunch",
-      "crohnsScore": 7,
-      "safetyTier": "remission-road",
-      "mealTypes": [
-        "lunch",
-        "dinner"
-      ],
-      "region": "American",
-      "costTier": 1,
-      "convenienceScore": 3,
-      "prepMethod": [
-        "ready-to-eat"
-      ],
-      "fiberGramsPerServing": 2,
-      "lactoseSafe": true,
-      "citrusFree": false,
-      "tags": [
-        "lettuce",
-        "vegetable",
-        "salad"
-      ],
-      "searchKeywords": [
-        "iceberg",
-        "wedge",
-        "lettuce"
-      ],
-      "whyItWorks": "Good hydration and crunch, but often paired with high-fat dressings.",
-      "prepOrOrderInstructions": "Serve cold with preferred toppings.",
-      "id": "iceberg-wedge",
-      "_sourcePath": "src/data/items/lunch/iceberg-wedge.json"
-    },
-    {
       "id": "malt-o-meal-cinnamon-toasters",
       "name": "Malt-O-Meal Cinnamon Toasters",
       "categoryFolder": "breakfast",
@@ -3609,6 +3822,52 @@
       "whyItWorks": "Wheat and rice flour squares (~1.5g fiber), though they hold their crunch longer than puffed rice.",
       "prepOrOrderInstructions": "Soak for 2 minutes in milk and chew thoroughly so you aren't swallowing jagged corners.",
       "_sourcePath": "src/data/items/breakfast/malt-o-meal-cinnamon-toasters.json"
+    },
+    {
+      "id": "no-sugar-added-lemon-berry-cheesecake",
+      "name": "No-Sugar-Added Lemon Berry Cheesecake",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Disney Cruise Line · Main Dining Rooms",
+      "crohnsScore": 7,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "cheesecake",
+        "dessert",
+        "sweet",
+        "no-sugar-added",
+        "disney-cruise",
+        "disney-wonder",
+        "disney-magic",
+        "disney-treasure"
+      ],
+      "searchKeywords": [
+        "no sugar added cheesecake",
+        "lemon berry cheesecake",
+        "sugar free dessert",
+        "disney cruise dessert"
+      ],
+      "whyItWorks": "Whipped cheesecake mousse has a smooth, zero-roughage texture, but lemon citrus, berry seeds, and sugar alcohols in \"no-sugar-added\" desserts make it a careful/good-day pick.",
+      "prepOrOrderInstructions": "Skip if you follow a strict citrus guardrail or if sugar alcohols (maltitol/sorbitol) trigger osmotic urgency. Otherwise, scrape off any whole berry garnish with seeds and enjoy the smooth filling.",
+      "flareEmergencySwap": "Order plain vanilla ice cream / Mickey Premium Ice Cream Bar or warm Crème Brûlée (without berries) instead.",
+      "watchOuts": [
+        "Lemon juice/zest (citrus guardrail)",
+        "Sugar alcohols / artificial sweeteners in no-sugar-added desserts",
+        "Whole berry seeds on top",
+        "Cream cheese lactose"
+      ],
+      "_sourcePath": "src/data/items/snacks-desserts/no-sugar-added-lemon-berry-cheesecake.json"
     },
     {
       "id": "malt-o-meal-berry-colossal-crunch",
@@ -3649,39 +3908,143 @@
       "_sourcePath": "src/data/items/breakfast/malt-o-meal-berry-colossal-crunch.json"
     },
     {
+      "id": "prince-naveen-s-cajun-charcuterie-board",
       "name": "Prince Naveen's Cajun Charcuterie Board",
       "categoryFolder": "diner-bbq",
+      "brandOrRestaurant": "Disney Wonder · Tiana's Place",
       "crohnsScore": 6.5,
       "safetyTier": "remission-road",
       "mealTypes": [
-        "lunch",
         "dinner",
         "snack"
       ],
       "region": "American",
       "costTier": 3,
-      "convenienceScore": 2,
+      "convenienceScore": 5,
       "prepMethod": [
         "ready-to-eat"
       ],
       "fiberGramsPerServing": 1,
-      "lactoseSafe": false,
-      "citrusFree": false,
+      "lactoseSafe": true,
+      "citrusFree": true,
       "tags": [
         "charcuterie",
         "pork",
         "cheese",
-        "cured"
+        "cured",
+        "disney-cruise",
+        "disney-wonder",
+        "tianas-place"
       ],
       "searchKeywords": [
-        "charcuterie",
-        "pork",
-        "duck"
+        "prince naveen",
+        "cajun charcuterie",
+        "tianas place",
+        "disney wonder",
+        "prosciutto",
+        "cheese board"
       ],
-      "whyItWorks": "High protein, but higher risk due to processed meats and cheese.",
-      "prepOrOrderInstructions": "Monitor portion sizes and cheese/meat variety.",
-      "id": "prince-naveen-s-cajun-charcuterie-board",
+      "whyItWorks": "Aged cheeses and thinly sliced cured meats offer low-fiber protein, but spicy Cajun links, whole-grain mustard seeds, and pickled garnishes require careful picking.",
+      "prepOrOrderInstructions": "Stick to the mild aged cheeses, plain sliced prosciutto/ham, and refined bread/crackers. Leave the spicy Cajun sausage, whole-seed mustard, and pickled vegetables on the board.",
+      "watchOuts": [
+        "Whole mustard seeds",
+        "Spicy Cajun cured links",
+        "Pickled vegetables and coarse crusts"
+      ],
       "_sourcePath": "src/data/items/diner-bbq/prince-naveen-s-cajun-charcuterie-board.json"
+    },
+    {
+      "id": "boudin-sausage-fritters",
+      "name": "Boudin Sausage Fritters",
+      "categoryFolder": "diner-bbq",
+      "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+      "crohnsScore": 5.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "sausage",
+        "pork",
+        "fried",
+        "cajun",
+        "warning",
+        "disney-cruise",
+        "disney-wonder",
+        "tianas-place"
+      ],
+      "searchKeywords": [
+        "boudin",
+        "sausage fritters",
+        "tianas place",
+        "disney wonder",
+        "cajun appetizer"
+      ],
+      "whyItWorks": "Deep-fried breaded pork and rice boudin balls carry Cajun cayenne spice, diced aromatics, and heavy fryer oil that can trigger cramping and urgency.",
+      "prepOrOrderInstructions": "Avoid during flares. In solid remission, share a single fritter to test spice and grease tolerance, and skip the spicy Cajun dipping aioli.",
+      "flareEmergencySwap": "Order the Sautéed Gulf Shrimp and Grits (ask for mild/no Cajun spice) or plain white rice with roasted chicken instead.",
+      "watchOuts": [
+        "Cayenne / Cajun spice blend",
+        "Deep-fried breading grease",
+        "Diced onion/bell pepper in boudin filling"
+      ],
+      "_sourcePath": "src/data/items/diner-bbq/boudin-sausage-fritters.json"
+    },
+    {
+      "id": "iceberg-wedge",
+      "name": "Iceberg Wedge Salad",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate / Triton's / Lumiere's",
+      "crohnsScore": 5.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "lettuce",
+        "vegetable",
+        "salad",
+        "warning",
+        "disney-cruise",
+        "disney-wonder",
+        "disney-magic"
+      ],
+      "searchKeywords": [
+        "iceberg wedge",
+        "wedge salad",
+        "lettuce",
+        "blue cheese salad",
+        "cruise salad"
+      ],
+      "whyItWorks": "Raw iceberg lettuce leaves, tomato skins/seeds, and heavy blue cheese dressing combine insoluble roughage with high dairy fat that can scrape and speed up an inflamed gut.",
+      "prepOrOrderInstructions": "Avoid during flares. In solid remission, eat only the tender inner heart leaves, skip raw tomato skins and red onions, and swap heavy blue cheese dressing for a light drizzle of olive oil or lactose-free ranch.",
+      "flareEmergencySwap": "Swap the salad course for a smooth blended soup (like Baked Potato Soup or Creamy Butternut Squash Soup) or warm bread rolls.",
+      "watchOuts": [
+        "Raw fibrous lettuce ribs",
+        "Tomato skins and seeds",
+        "High-lactose blue cheese / buttermilk dressing"
+      ],
+      "_sourcePath": "src/data/items/lunch/iceberg-wedge.json"
     },
     {
       "id": "malt-o-meal-frosted-mini-spooners",

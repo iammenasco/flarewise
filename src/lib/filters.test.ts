@@ -1,7 +1,9 @@
 import { describe, expect, it } from 'vitest'
+import { allFoods } from '../data'
 import { defaultPreferences } from './storage'
 import {
   countActiveFilters,
+  isCruiseOrVacationItem,
   itemPassesFilters,
   readFilters,
   type CatalogFilters,
@@ -95,6 +97,47 @@ describe('itemPassesFilters', () => {
         minScore: 6.5,
       }),
     ).toBe(true)
+  })
+
+  it('hides cruise/vacation items by default (when cruiseMode is false) and shows only cruise items when cruiseMode is true', () => {
+    const cruiseItem: CrohnsFoodItem = {
+      ...baseItem,
+      id: 'creamy-butternut-squash-soup',
+      tags: ['soup', 'disney-cruise', 'disney-wonder', 'disney-magic'],
+    }
+    // Unselected by default: everyday item passes, cruise item is hidden
+    expect(itemPassesFilters(baseItem, emptyFilters, openPrefs)).toBe(true)
+    expect(itemPassesFilters(cruiseItem, emptyFilters, openPrefs)).toBe(false)
+
+    // Selected (cruiseMode = true): cruise item passes, everyday item is hidden
+    const cruisePrefs = {
+      ...openPrefs,
+      guardrails: { ...openPrefs.guardrails, cruiseMode: true },
+    }
+    expect(itemPassesFilters(cruiseItem, emptyFilters, cruisePrefs)).toBe(true)
+    expect(itemPassesFilters(baseItem, emptyFilters, cruisePrefs)).toBe(false)
+
+    // Ship tag filter inside cruiseMode
+    expect(
+      itemPassesFilters(
+        cruiseItem,
+        { ...emptyFilters, tag: 'disney-wonder' },
+        cruisePrefs,
+      ),
+    ).toBe(true)
+    expect(
+      itemPassesFilters(
+        cruiseItem,
+        { ...emptyFilters, tag: 'disney-treasure' },
+        cruisePrefs,
+      ),
+    ).toBe(false)
+  })
+
+  it('identifies all 12 committed Disney Cruise items via isCruiseOrVacationItem', () => {
+    const cruiseItems = allFoods.filter(isCruiseOrVacationItem)
+    expect(cruiseItems.length).toBe(12)
+    expect(defaultPreferences.guardrails.cruiseMode).toBe(false)
   })
 })
 
