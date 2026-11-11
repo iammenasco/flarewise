@@ -1,0 +1,35 @@
+{
+  "id": "quaker-corn-cakes-lightly-salted",
+  "name": "Quaker Lightly Salted Corn Cakes (Large Puffed Discs)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Quaker",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "corn-cakes",
+    "puffed-corn",
+    "zero-hulls",
+    "gluten-free",
+    "crunchy"
+  ],
+  "searchKeywords": [
+    "quaker corn cakes",
+    "puffed corn discs",
+    "large corn cakes",
+    "popcorn substitute"
+  ],
+  "whyItWorks": "Made from milled puffed corn where heat expansion disintegrates the kernel matrix, leaving zero hard hulls or unpopped seeds. A safe popcorn substitute for movie nights.",
+  "prepOrOrderInstructions": "Eat plain or with a light slice of mild cheddar.",
+  "safetyTier": "low-risk"
+}

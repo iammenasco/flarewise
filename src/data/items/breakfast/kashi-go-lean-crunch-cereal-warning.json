@@ -1,0 +1,37 @@
+{
+  "id": "kashi-go-lean-crunch-cereal-warning",
+  "name": "Kashi GO Original Crunch Cereal (Extreme Fiber WARNING)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Kashi",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 13,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "chicory-root-fiber",
+    "dense-clusters",
+    "hard-grains",
+    "severe-gas",
+    "obstruction-hazard"
+  ],
+  "searchKeywords": [
+    "kashi go lean",
+    "kashi crunch warning",
+    "high fiber cereal danger",
+    "chicory root inulin cereal"
+  ],
+  "whyItWorks": "Delivers an astounding 13g of fiber per cup, loaded with chicory root inulin fiber, hard roasted seven-whole-grain clusters, and dense soy protein crisps. The rock-hard clusters resist chewing, posing a serious blockage risk against strictures while inulin triggers intense gas spasms.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. One of the highest-fiber cereals in the grocery store; guaranteed flare trigger.",
+  "safetyTier": "danger-zone"
+}

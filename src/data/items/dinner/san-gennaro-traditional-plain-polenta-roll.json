@@ -1,0 +1,36 @@
+{
+  "id": "san-gennaro-traditional-plain-polenta-roll",
+  "name": "San Gennaro Traditional Plain Polenta Roll (Pre-Cooked)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "San Gennaro",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "polenta-roll",
+    "gluten-free",
+    "pre-cooked",
+    "low-fat",
+    "creamy-cornmeal"
+  ],
+  "searchKeywords": [
+    "san gennaro polenta",
+    "polenta tube",
+    "cornmeal log",
+    "pre cooked polenta"
+  ],
+  "whyItWorks": "Pre-cooked organic yellow cornmeal rolled into a firm cylinder. Slices smoothly into rounds that can be seared on a nonstick skillet. Zero kernels, zero hulls, 100% smooth digestible starch.",
+  "prepOrOrderInstructions": "Slice into 1/2-inch rounds and pan-sear in a skillet with olive oil for 4 minutes per side until lightly golden. Top with sensitive marinara.",
+  "safetyTier": "flare-safe"
+}

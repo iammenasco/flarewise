@@ -1,0 +1,34 @@
+{
+  "id": "quaker-instant-oatmeal-maple-and-brown-sugar",
+  "name": "Quaker Instant Oatmeal (Maple & Brown Sugar)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Quaker",
+  "crohnsScore": 8.3,
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "instant-oats",
+    "maple-brown-sugar",
+    "soluble-fiber",
+    "quick-breakfast",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "quaker instant oatmeal",
+    "maple brown sugar oatmeal",
+    "packets oatmeal"
+  ],
+  "whyItWorks": "Rolled oats cut fine and pre-steamed so they soften instantly with hot water. The soluble beta-glucan forms a soothing gel that bulks stool gently without abrasive roughness.",
+  "prepOrOrderInstructions": "Empty packet into bowl, add 1/2 cup boiling water, stir and let sit for 1 minute.",
+  "safetyTier": "low-risk"
+}

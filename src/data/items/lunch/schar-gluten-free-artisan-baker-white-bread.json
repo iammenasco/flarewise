@@ -1,0 +1,36 @@
+{
+  "id": "schar-gluten-free-artisan-baker-white-bread",
+  "name": "Schär Artisan Baker Gluten-Free White Bread",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Schär",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sourdough-fermented",
+    "gluten-free",
+    "lactose-free",
+    "wheat-free",
+    "ancient-grains"
+  ],
+  "searchKeywords": [
+    "schar bread",
+    "artisan baker white",
+    "gluten free sourdough loaf",
+    "european gf bread"
+  ],
+  "whyItWorks": "Baked in Europe using a traditional gluten-free sourdough starter with fine rice and millet flours. Natural fermentation pre-digests starches, resulting in a tender, gut-friendly crumb that does not require toasting to stay soft.",
+  "prepOrOrderInstructions": "Ready to eat straight out of the packaging. Store leftover slices in an airtight bag.",
+  "safetyTier": "flare-safe"
+}

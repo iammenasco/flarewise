@@ -1,0 +1,35 @@
+{
+  "id": "cream-of-wheat-instant-original",
+  "name": "Cream of Wheat Instant Original Hot Cereal",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Cream of Wheat / B&G",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cream-of-wheat",
+    "calcium-enriched",
+    "iron-rich",
+    "single-packet",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "cream of wheat",
+    "instant cream of wheat",
+    "farina packets",
+    "bland cereal"
+  ],
+  "whyItWorks": "Enriched with calcium carbonate and ferric orthophosphate (iron). The smooth, bland porridge is tolerated by even the most acutely inflamed guts during flare-up bowel rest.",
+  "prepOrOrderInstructions": "Mix packet with 1/2 cup boiling water or lactose-free milk. Stir well.",
+  "safetyTier": "flare-safe"
+}

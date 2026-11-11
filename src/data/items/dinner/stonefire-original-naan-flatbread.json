@@ -1,0 +1,36 @@
+{
+  "id": "stonefire-original-naan-flatbread",
+  "name": "Stonefire Original Naan Flatbread",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Stonefire",
+  "crohnsScore": 8.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "naan-flatbread",
+    "tandoor-baked",
+    "soft-crumb",
+    "tender-bread"
+  ],
+  "searchKeywords": [
+    "stonefire naan",
+    "original naan",
+    "indian flatbread",
+    "soft naan bread"
+  ],
+  "whyItWorks": "Authentic tandoor-oven baked flatbread made with enriched flour, cultured buttermilk, and ghee. Soft, bubbly, and tender with zero coarse grains or seeds.",
+  "prepOrOrderInstructions": "Warm in a 400°F oven for 2 minutes or skillet-warm with a tiny touch of butter.",
+  "safetyTier": "low-risk"
+}

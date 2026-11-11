@@ -1,0 +1,37 @@
+{
+  "id": "canyon-bakehouse-heritage-style-white-bread",
+  "name": "Canyon Bakehouse Heritage Style White Bread (Gluten-Free)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Canyon Bakehouse",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "gluten-free",
+    "dairy-free",
+    "soy-free",
+    "nut-free",
+    "seedless-bread",
+    "large-slice"
+  ],
+  "searchKeywords": [
+    "canyon bakehouse",
+    "gluten free white bread",
+    "heritage style bread",
+    "safe bread celiac crohns"
+  ],
+  "whyItWorks": "Certified gluten-free white bread baked with fine tapioca and brown rice flours into full, sandwich-sized slices. Free from dairy, soy, nuts, and sesame seeds, with only 1g fiber per slice. Gentle and pliable when toasted or fresh.",
+  "prepOrOrderInstructions": "Lightly toast to enhance texture and aroma. Excellent for deli turkey sandwiches or light buttered toast.",
+  "safetyTier": "flare-safe"
+}

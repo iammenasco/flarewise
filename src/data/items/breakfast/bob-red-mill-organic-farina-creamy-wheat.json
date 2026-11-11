@@ -1,0 +1,35 @@
+{
+  "id": "bob-red-mill-organic-farina-creamy-wheat",
+  "name": "Bob's Red Mill Organic Creamy Wheat Farina Cereal",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Bob's Red Mill",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "organic-farina",
+    "creamy-wheat",
+    "gentle-cereal",
+    "bland-diet",
+    "pure-wheat-endosperm"
+  ],
+  "searchKeywords": [
+    "bobs red mill farina",
+    "creamy wheat cereal",
+    "organic farina",
+    "flare safe breakfast"
+  ],
+  "whyItWorks": "Made strictly from the tender inner endosperm of organic hard red wheat. Gently ground to create a velvety hot porridge with under 1g fiber per serving.",
+  "prepOrOrderInstructions": "Simmer 3 tbsp in 1 cup water with a pinch of sea salt for 5 minutes on stovetop.",
+  "safetyTier": "flare-safe"
+}

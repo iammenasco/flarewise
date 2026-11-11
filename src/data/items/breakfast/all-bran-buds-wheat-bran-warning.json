@@ -1,0 +1,35 @@
+{
+  "id": "all-bran-buds-wheat-bran-warning",
+  "name": "Kellogg's All-Bran Buds Cereal (17g Insoluble Bran WARNING)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Kellogg's",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 17,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "wheat-bran-overload",
+    "psyllium-husk",
+    "mechanical-abrasive",
+    "high-residue-danger"
+  ],
+  "searchKeywords": [
+    "all bran buds",
+    "wheat bran warning",
+    "kelloggs all bran danger",
+    "17g fiber cereal"
+  ],
+  "whyItWorks": "Contains a staggering 17g of dietary fiber per 1/2 cup (61% Daily Value) made of concentrated coarse wheat bran and psyllium husk. A severe mechanical abrasive that lacerates inflamed intestinal mucosa and can create catastrophic physical impaction in narrowed bowel segments.",
+  "prepOrOrderInstructions": "STRICTLY AVOID for Crohn's and Ulcerative Colitis. Never consume during active disease.",
+  "safetyTier": "danger-zone"
+}

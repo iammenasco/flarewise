@@ -1,0 +1,35 @@
+{
+  "id": "quaker-lightly-salted-rice-crisps",
+  "name": "Quaker Lightly Salted Gluten-Free Rice Crisps",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Quaker",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice-crisps",
+    "mini-rice-cakes",
+    "gluten-free",
+    "low-sodium",
+    "seedless"
+  ],
+  "searchKeywords": [
+    "quaker rice crisps",
+    "mini rice cakes",
+    "lightly salted rice crisps",
+    "pantry snack"
+  ],
+  "whyItWorks": "Bite-sized discs of puffed white and brown rice seasoned with sea salt. Gluten-free, zero dairy, zero trans fat, and melts in the mouth.",
+  "prepOrOrderInstructions": "Great portable snack for work desks or road trips.",
+  "safetyTier": "low-risk"
+}

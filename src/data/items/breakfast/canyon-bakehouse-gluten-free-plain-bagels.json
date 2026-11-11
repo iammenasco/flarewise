@@ -1,0 +1,35 @@
+{
+  "id": "canyon-bakehouse-gluten-free-plain-bagels",
+  "name": "Canyon Bakehouse Gluten-Free Plain Bagels",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Canyon Bakehouse",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "gluten-free-bagel",
+    "dairy-free",
+    "seedless",
+    "chewy-crumb"
+  ],
+  "searchKeywords": [
+    "canyon bakehouse bagels",
+    "gluten free plain bagel",
+    "gf bagels",
+    "allergy safe bagel"
+  ],
+  "whyItWorks": "100% whole grain brown rice, tapioca, and potato flour blend; free from gluten, dairy, nuts, and soy. Delivers the classic chewy boiled bagel experience without provoking immune or gluten sensitivities.",
+  "prepOrOrderInstructions": "Slice and toast in a toaster oven for 3 minutes until crisp on the edges.",
+  "safetyTier": "low-risk"
+}

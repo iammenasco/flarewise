@@ -1,0 +1,37 @@
+{
+  "id": "daves-killer-bread-21-whole-grains-seeds-warning",
+  "name": "Dave's Killer Bread 21 Whole Grains and Seeds (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Dave's Killer Bread",
+  "crohnsScore": 2.1,
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "whole-seeds",
+    "flax-seeds",
+    "sesame-seeds",
+    "stricture-obstruction-risk",
+    "high-fiber"
+  ],
+  "searchKeywords": [
+    "daves killer bread",
+    "21 whole grains warning",
+    "seedy bread danger",
+    "flax seed obstruction"
+  ],
+  "whyItWorks": "Encrusted and packed with unground whole flax seeds, sunflower seeds, sesame seeds, pumpkin seeds, and cracked rye. Whole seeds do not break down during digestion and readily form sharp phytobezoars, presenting an extreme bowel obstruction hazard for stricturing Crohn's.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. A frequent cause of emergency room visits for intestinal blockage in IBD patients.",
+  "safetyTier": "danger-zone"
+}

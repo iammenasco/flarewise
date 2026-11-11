@@ -1,0 +1,36 @@
+{
+  "id": "natures-own-butterbread",
+  "name": "Nature's Own Butterbread (Thick Sliced)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Nature's Own",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "butterbread",
+    "soft-white-bread",
+    "zero-hfcs",
+    "seedless",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "natures own butterbread",
+    "butter bread",
+    "soft white loaf",
+    "sandwich bread"
+  ],
+  "whyItWorks": "Baked with real butter for rich flavor and tender crumb, completely free of high-fructose corn syrup and artificial preservatives. Low in dietary fiber (1g per slice) and seed-free.",
+  "prepOrOrderInstructions": "Enjoy fresh from the loaf or toasted with a light smear of honey.",
+  "safetyTier": "low-risk"
+}

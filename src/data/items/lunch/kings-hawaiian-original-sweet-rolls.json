@@ -1,0 +1,37 @@
+{
+  "id": "kings-hawaiian-original-sweet-rolls",
+  "name": "King's Hawaiian Original Hawaiian Sweet Rolls",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "King's Hawaiian",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet-rolls",
+    "ultra-soft",
+    "low-residue",
+    "holiday-dinner-roll",
+    "melt-in-mouth"
+  ],
+  "searchKeywords": [
+    "kings hawaiian",
+    "hawaiian sweet rolls",
+    "soft dinner rolls",
+    "low fiber rolls"
+  ],
+  "whyItWorks": "Iconic pillowy soft rolls baked from enriched wheat flour, real butter, and pure cane sugar. The cloud-like texture dissolves easily upon chewing, leaving virtually zero digestive residue in the small bowel.",
+  "prepOrOrderInstructions": "Serve warm by placing rolls in a 350°F oven for 2–3 minutes. Perfect for leftover turkey or roasted chicken sliders.",
+  "safetyTier": "low-risk"
+}

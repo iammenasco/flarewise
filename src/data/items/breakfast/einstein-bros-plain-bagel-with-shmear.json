@@ -1,0 +1,36 @@
+{
+  "id": "einstein-bros-plain-bagel-with-shmear",
+  "name": "Einstein Bros. Bagels Plain Bagel",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Einstein Bros. Bagels",
+  "crohnsScore": 8.3,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "fast-food",
+    "einstein-bagels",
+    "plain-bagel"
+  ],
+  "searchKeywords": [
+    "einstein bros plain bagel",
+    "einstein bagel plain",
+    "takeout bagel safe"
+  ],
+  "whyItWorks": "Traditional kettle-boiled and hearth-baked plain bagel with a smooth, shiny golden crust and soft interior. Seed-free and easy on the gut.",
+  "prepOrOrderInstructions": "Order: \"Plain bagel, toasted, with plain shmear or butter.\"",
+  "safetyTier": "low-risk"
+}

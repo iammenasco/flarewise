@@ -1,0 +1,36 @@
+{
+  "id": "athenas-white-pita-bread-pockets",
+  "name": "Athenas Traditional White Pita Bread Pockets",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Athenas",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pita-bread",
+    "pocket-bread",
+    "refined-flour",
+    "seedless",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "white pita bread",
+    "pita pockets",
+    "greek pita",
+    "mediterranean safe bread"
+  ],
+  "whyItWorks": "Traditional Middle Eastern flatbread baked at high heat from unbleached enriched flour. The puff forms a gentle pocket with under 1g fiber and zero seeds or whole grains.",
+  "prepOrOrderInstructions": "Warm in a toaster or microwave for 15 seconds. Stuff with shredded chicken breast and cucumber slices.",
+  "safetyTier": "low-risk"
+}

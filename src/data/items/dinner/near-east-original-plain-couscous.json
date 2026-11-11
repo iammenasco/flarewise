@@ -1,0 +1,36 @@
+{
+  "id": "near-east-original-plain-couscous",
+  "name": "Near East Original Plain Couscous (100% Semolina)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Near East",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "couscous",
+    "durum-semolina",
+    "fast-cooking",
+    "low-residue",
+    "gentle-grain"
+  ],
+  "searchKeywords": [
+    "near east couscous",
+    "plain couscous",
+    "semolina couscous",
+    "quick dinner side"
+  ],
+  "whyItWorks": "Tiny pearls of precooked durum wheat semolina. When covered in boiling broth, it steams fluffy and soft in just 5 minutes. Exceptionally gentle on digestion with minimal chew required.",
+  "prepOrOrderInstructions": "Bring 1 cup chicken bone broth to a boil, stir in 1 cup couscous, remove from heat and cover for 5 minutes. Fluff with a fork.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ezekiel-4-9-sprouted-whole-grain-bread-warning",
+  "name": "Food for Life Ezekiel 4:9 Sprouted Whole Grain Bread (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Food for Life",
+  "crohnsScore": 2.3,
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "sprouted-wheat",
+    "lentils",
+    "soybeans",
+    "spelt",
+    "severe-gas",
+    "roughage"
+  ],
+  "searchKeywords": [
+    "ezekiel bread",
+    "sprouted grain warning",
+    "ezekiel 4 9 crohns",
+    "dense roughage bread"
+  ],
+  "whyItWorks": "Crafted from freshly sprouted live grains and legumes: wheat, barley, millet, lentils, soybeans, and spelt. The dense, abrasive insoluble bran particles scratch ulcerated mucosa while the legume flours generate violent colonic gas distention.",
+  "prepOrOrderInstructions": "STRICTLY AVOID during flares or active symptoms. Choose refined white sourdough or GF white bread instead.",
+  "safetyTier": "danger-zone"
+}

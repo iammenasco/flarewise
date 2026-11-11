@@ -1,0 +1,37 @@
+{
+  "id": "panera-bread-plain-bagel",
+  "name": "Panera Bread Plain Bagel (Order Plain / Butter)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Panera Bread",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "fast-food",
+    "panera-bread",
+    "seedless-carb",
+    "travel-breakfast"
+  ],
+  "searchKeywords": [
+    "panera plain bagel",
+    "panera bread bagel",
+    "fast food breakfast flare safe"
+  ],
+  "whyItWorks": "Freshly baked artisan plain bagel made from unbleached enriched flour. Contains zero sesame or poppy seeds, zero onion flakes, and provides convenient, dense, low-residue calories when traveling.",
+  "prepOrOrderInstructions": "Order at Panera: \"One Plain Bagel, sliced and toasted, with plain cream cheese or butter packet on the side.\"",
+  "safetyTier": "low-risk"
+}

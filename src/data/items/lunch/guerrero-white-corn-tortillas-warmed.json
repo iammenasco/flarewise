@@ -1,0 +1,36 @@
+{
+  "id": "guerrero-white-corn-tortillas-warmed",
+  "name": "Guerrero White Corn Tortillas (Skillet-Warmed)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Guerrero",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "corn-tortillas",
+    "nixtamalized-masa",
+    "gluten-free",
+    "dairy-free",
+    "mexican-staple"
+  ],
+  "searchKeywords": [
+    "guerrero corn tortillas",
+    "white corn tortillas",
+    "soft corn tortillas",
+    "taco night safe"
+  ],
+  "whyItWorks": "Made from finely ground nixtamalized corn masa treated with lime (calcium hydroxide), which dissolves the outer fibrous corn husk. Naturally gluten-free, low in fat, and soft when heated.",
+  "prepOrOrderInstructions": "Warm on a dry cast-iron skillet for 30 seconds per side until pliable and steaming. Never eat cold or stiff.",
+  "safetyTier": "low-risk"
+}

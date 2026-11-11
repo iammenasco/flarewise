@@ -1,0 +1,36 @@
+{
+  "id": "thomas-original-nooks-and-crannies-english-muffins",
+  "name": "Thomas' Original \"Nooks & Crannies\" English Muffins",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thomas'",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "english-muffin",
+    "nooks-and-crannies",
+    "low-residue",
+    "easy-to-digest",
+    "seedless"
+  ],
+  "searchKeywords": [
+    "thomas english muffin",
+    "nooks and crannies",
+    "original english muffin",
+    "breakfast toast"
+  ],
+  "whyItWorks": "A beloved digestive staple! The airy, open-cell structure toasts up light and crisp. Contains only 1g fiber, 0g dairy, and zero seeds; dusted lightly with degerminated yellow cornmeal that does not trigger strictures.",
+  "prepOrOrderInstructions": "Split with a fork (never cut with a knife) to preserve the crevices. Toast well and top with butter or a poached egg.",
+  "safetyTier": "low-risk"
+}

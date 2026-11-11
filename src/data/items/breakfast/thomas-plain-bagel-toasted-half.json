@@ -1,0 +1,36 @@
+{
+  "id": "thomas-plain-bagel-toasted-half",
+  "name": "Thomas' Plain Bagel (Toasted Half)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thomas'",
+  "crohnsScore": 8.3,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "plain-bagel",
+    "refined-flour",
+    "seedless",
+    "comfort-carb",
+    "home-breakfast"
+  ],
+  "searchKeywords": [
+    "thomas plain bagel",
+    "toasted bagel",
+    "plain bagel crohns",
+    "seedless bagel"
+  ],
+  "whyItWorks": "Made with enriched bleached wheat flour, boiled and baked without seeds, onion flakes, or whole grains. Eating half a bagel toasted provides dense, easily absorbed carbohydrates without overloading bowel volume.",
+  "prepOrOrderInstructions": "Slice in half and toast until lightly golden. Spread with pure butter, ghee, or lactose-free cream cheese.",
+  "safetyTier": "low-risk"
+}

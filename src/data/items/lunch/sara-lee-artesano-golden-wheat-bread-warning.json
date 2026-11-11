@@ -1,0 +1,34 @@
+{
+  "id": "sara-lee-artesano-golden-wheat-bread-warning",
+  "name": "Sara Lee Artesano Golden Wheat Bread (Coarse Bran WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Sara Lee",
+  "crohnsScore": 5.5,
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "whole-wheat-bran",
+    "roughage",
+    "cramping-risk"
+  ],
+  "searchKeywords": [
+    "sara lee artesano wheat",
+    "golden wheat warning",
+    "wheat bran cramps"
+  ],
+  "whyItWorks": "Contains unrefined whole wheat flour with coarse insoluble bran flakes and wheat gluten. Insoluble wheat bran accelerates transit speed and mechanically irritates inflamed bowel segments.",
+  "prepOrOrderInstructions": "Choose the Classic White Artesano or standard white bread rather than the Golden Wheat variety.",
+  "safetyTier": "danger-zone"
+}

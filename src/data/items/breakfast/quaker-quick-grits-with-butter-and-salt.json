@@ -1,0 +1,36 @@
+{
+  "id": "quaker-quick-grits-with-butter-and-salt",
+  "name": "Quaker Quick Grits (Smooth White Hominy)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Quaker",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "breakfast",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "hominy-grits",
+    "southern-comfort",
+    "zero-hulls",
+    "gentle-starch",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "quaker quick grits",
+    "white grits",
+    "hominy grits",
+    "smooth corn grits"
+  ],
+  "whyItWorks": "Made from dried white corn that has been nixtamalized to completely shed the tough outer kernel hull before being ground into fine hominy grits. Creamy, comforting, and 100% free of sharp corn skins.",
+  "prepOrOrderInstructions": "Boil 1/4 cup grits in 1 cup salted water for 5 minutes until thick. Stir in 1 tsp butter or ghee.",
+  "safetyTier": "flare-safe"
+}

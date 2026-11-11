@@ -1,0 +1,36 @@
+{
+  "id": "mission-carb-balance-flour-tortillas-warning",
+  "name": "Mission Carb Balance Flour Tortillas (15g Fiber WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mission Foods",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 15,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "modified-wheat-starch",
+    "extreme-fiber-warning",
+    "gas-explosion",
+    "diarrhea-trigger"
+  ],
+  "searchKeywords": [
+    "carb balance tortillas",
+    "mission carb balance warning",
+    "keto tortilla warning",
+    "modified wheat starch"
+  ],
+  "whyItWorks": "Promoted as low-carb diet food, but each single tortilla packs a staggering 15g of concentrated modified wheat starch and cellulose fiber. In IBD patients, this massive dose of resistant starch causes explosive colonic fermentation, agonizing gas distention, and watery diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. One of the most notorious grocery trap items for Crohn's and Colitis patients. Always choose regular Mission Super Soft white tortillas instead.",
+  "safetyTier": "danger-zone"
+}

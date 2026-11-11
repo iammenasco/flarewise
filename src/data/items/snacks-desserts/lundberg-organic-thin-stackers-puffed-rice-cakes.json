@@ -1,0 +1,35 @@
+{
+  "id": "lundberg-organic-thin-stackers-puffed-rice-cakes",
+  "name": "Lundberg Family Farms Organic Thin Stackers (Lightly Salted Rice Cakes)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Lundberg Family Farms",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice-cakes",
+    "thin-stackers",
+    "puffed-grain",
+    "gluten-free",
+    "crunchy-snack"
+  ],
+  "searchKeywords": [
+    "lundberg thin stackers",
+    "organic rice cakes",
+    "salted rice crackers",
+    "puffed rice"
+  ],
+  "whyItWorks": "Puffed brown and white rice crisped into ultra-thin stackable crackers. Puffed starch expands cell walls making them fragile and quick to dissolve upon chewing, satisfying crunch cravings without stricture danger.",
+  "prepOrOrderInstructions": "Eat straight from the pack or spread with smooth sunflower seed butter or honey.",
+  "safetyTier": "low-risk"
+}

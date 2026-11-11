@@ -1,0 +1,35 @@
+{
+  "id": "la-banderita-carb-counter-warning",
+  "name": "La Banderita Carb Counter Tortillas (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "La Banderita",
+  "crohnsScore": 2.3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 11,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "high-fiber-warning",
+    "cellulose-fiber",
+    "severe-bloating",
+    "keto-trap"
+  ],
+  "searchKeywords": [
+    "la banderita carb counter",
+    "carb counter warning",
+    "keto tortilla diarrhea"
+  ],
+  "whyItWorks": "Engineered with 11g of isolated resistant modified wheat starch. Bypasses small intestine digestion to produce immense microbial gas and cramping in the colon.",
+  "prepOrOrderInstructions": "AVOID. Stick to traditional white flour or yellow/white corn masa tortillas.",
+  "safetyTier": "danger-zone"
+}

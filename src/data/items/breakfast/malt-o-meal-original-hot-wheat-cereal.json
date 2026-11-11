@@ -1,0 +1,36 @@
+{
+  "id": "malt-o-meal-original-hot-wheat-cereal",
+  "name": "Malt-O-Meal Original Quick Hot Wheat Cereal (Farina)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Malt-O-Meal / Post",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "farina",
+    "hot-wheat-cereal",
+    "silky-smooth",
+    "iron-rich",
+    "ultimate-flare-cereal"
+  ],
+  "searchKeywords": [
+    "malt o meal",
+    "hot wheat cereal",
+    "farina porridge",
+    "iron rich cereal",
+    "bland breakfast"
+  ],
+  "whyItWorks": "Finely milled enriched wheat farina with all coarse bran removed. Cooks in 3 minutes into a velvety, silky smooth porridge that coats the stomach without friction. Delivers 60% daily value of bioavailable iron to replenish anemia.",
+  "prepOrOrderInstructions": "Whisk 3 tbsp into 1 cup boiling water or almond milk. Simmer on low for 3 minutes, stirring constantly. Top with brown sugar or maple syrup.",
+  "safetyTier": "flare-safe"
+}

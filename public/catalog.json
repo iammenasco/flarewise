@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T18:40:02.289Z",
-  "itemCount": 1775,
+  "builtAt": "2026-11-11T18:51:45.649Z",
+  "itemCount": 1808,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1567,6 +1567,42 @@
       "_sourcePath": "src/data/items/drinks-sauces/fourth-heart-original-grassfed-ghee.json"
     },
     {
+      "id": "cream-of-wheat-instant-original",
+      "name": "Cream of Wheat Instant Original Hot Cereal",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Cream of Wheat / B&G",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "cream-of-wheat",
+        "calcium-enriched",
+        "iron-rich",
+        "single-packet",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "cream of wheat",
+        "instant cream of wheat",
+        "farina packets",
+        "bland cereal"
+      ],
+      "whyItWorks": "Enriched with calcium carbonate and ferric orthophosphate (iron). The smooth, bland porridge is tolerated by even the most acutely inflamed guts during flare-up bowel rest.",
+      "prepOrOrderInstructions": "Mix packet with 1/2 cup boiling water or lactose-free milk. Stir well.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/breakfast/cream-of-wheat-instant-original.json"
+    },
+    {
       "id": "nabisco-cream-of-wheat-original-farina",
       "name": "Cream of Wheat Original Hot Cereal (Smooth Farina)",
       "categoryFolder": "breakfast",
@@ -1730,6 +1766,43 @@
         "Avoid red-colored gelatin 48 hours prior to a scheduled colonoscopy."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/kraft-jello-strawberry-gelatin.json"
+    },
+    {
+      "id": "malt-o-meal-original-hot-wheat-cereal",
+      "name": "Malt-O-Meal Original Quick Hot Wheat Cereal (Farina)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Malt-O-Meal / Post",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "farina",
+        "hot-wheat-cereal",
+        "silky-smooth",
+        "iron-rich",
+        "ultimate-flare-cereal"
+      ],
+      "searchKeywords": [
+        "malt o meal",
+        "hot wheat cereal",
+        "farina porridge",
+        "iron rich cereal",
+        "bland breakfast"
+      ],
+      "whyItWorks": "Finely milled enriched wheat farina with all coarse bran removed. Cooks in 3 minutes into a velvety, silky smooth porridge that coats the stomach without friction. Delivers 60% daily value of bioavailable iron to replenish anemia.",
+      "prepOrOrderInstructions": "Whisk 3 tbsp into 1 cup boiling water or almond milk. Simmer on low for 3 minutes, stirring constantly. Top with brown sugar or maple syrup.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/breakfast/malt-o-meal-original-hot-wheat-cereal.json"
     },
     {
       "id": "members-mark-unsweetened-applesauce-cups",
@@ -2062,6 +2135,42 @@
         "Leave any fibrous celery pieces at the bottom of the bowl if mid-flare"
       ],
       "_sourcePath": "src/data/items/lunch/dcl-room-service-chicken-noodle-soup.json"
+    },
+    {
+      "id": "bob-red-mill-organic-farina-creamy-wheat",
+      "name": "Bob's Red Mill Organic Creamy Wheat Farina Cereal",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Bob's Red Mill",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "organic-farina",
+        "creamy-wheat",
+        "gentle-cereal",
+        "bland-diet",
+        "pure-wheat-endosperm"
+      ],
+      "searchKeywords": [
+        "bobs red mill farina",
+        "creamy wheat cereal",
+        "organic farina",
+        "flare safe breakfast"
+      ],
+      "whyItWorks": "Made strictly from the tender inner endosperm of organic hard red wheat. Gently ground to create a velvety hot porridge with under 1g fiber per serving.",
+      "prepOrOrderInstructions": "Simmer 3 tbsp in 1 cup water with a pinch of sea salt for 5 minutes on stovetop.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/breakfast/bob-red-mill-organic-farina-creamy-wheat.json"
     },
     {
       "id": "buddha-teas-organic-marshmallow-root-tea",
@@ -4697,6 +4806,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/quaker-plain-puffed-rice-cakes.json"
     },
     {
+      "id": "quaker-quick-grits-with-butter-and-salt",
+      "name": "Quaker Quick Grits (Smooth White Hominy)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Quaker",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "breakfast",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "hominy-grits",
+        "southern-comfort",
+        "zero-hulls",
+        "gentle-starch",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "quaker quick grits",
+        "white grits",
+        "hominy grits",
+        "smooth corn grits"
+      ],
+      "whyItWorks": "Made from dried white corn that has been nixtamalized to completely shed the tough outer kernel hull before being ground into fine hominy grits. Creamy, comforting, and 100% free of sharp corn skins.",
+      "prepOrOrderInstructions": "Boil 1/4 cup grits in 1 cup salted water for 5 minutes until thick. Stir in 1 tsp butter or ghee.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/breakfast/quaker-quick-grits-with-butter-and-salt.json"
+    },
+    {
       "id": "san-j-organic-gluten-free-tamari",
       "name": "San-J Organic Gluten-Free Tamari Soy Sauce (Wheat-Free)",
       "categoryFolder": "drinks-sauces",
@@ -6716,6 +6862,80 @@
       "_sourcePath": "src/data/items/drinks-sauces/raos-homemade-sensitive-marinara.json"
     },
     {
+      "id": "san-gennaro-traditional-plain-polenta-roll",
+      "name": "San Gennaro Traditional Plain Polenta Roll (Pre-Cooked)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "San Gennaro",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "polenta-roll",
+        "gluten-free",
+        "pre-cooked",
+        "low-fat",
+        "creamy-cornmeal"
+      ],
+      "searchKeywords": [
+        "san gennaro polenta",
+        "polenta tube",
+        "cornmeal log",
+        "pre cooked polenta"
+      ],
+      "whyItWorks": "Pre-cooked organic yellow cornmeal rolled into a firm cylinder. Slices smoothly into rounds that can be seared on a nonstick skillet. Zero kernels, zero hulls, 100% smooth digestible starch.",
+      "prepOrOrderInstructions": "Slice into 1/2-inch rounds and pan-sear in a skillet with olive oil for 4 minutes per side until lightly golden. Top with sensitive marinara.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/san-gennaro-traditional-plain-polenta-roll.json"
+    },
+    {
+      "id": "schar-gluten-free-artisan-baker-white-bread",
+      "name": "Schär Artisan Baker Gluten-Free White Bread",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Schär",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sourdough-fermented",
+        "gluten-free",
+        "lactose-free",
+        "wheat-free",
+        "ancient-grains"
+      ],
+      "searchKeywords": [
+        "schar bread",
+        "artisan baker white",
+        "gluten free sourdough loaf",
+        "european gf bread"
+      ],
+      "whyItWorks": "Baked in Europe using a traditional gluten-free sourdough starter with fine rice and millet flours. Natural fermentation pre-digests starches, resulting in a tender, gut-friendly crumb that does not require toasting to stay soft.",
+      "prepOrOrderInstructions": "Ready to eat straight out of the packaging. Store leftover slices in an airtight bag.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/schar-gluten-free-artisan-baker-white-bread.json"
+    },
+    {
       "id": "swedish-fish-red-chewy-candy",
       "name": "Swedish Fish Original Red Chewy Candy",
       "categoryFolder": "snacks-desserts",
@@ -7172,6 +7392,44 @@
       "prepOrOrderInstructions": "Best served very cold over ice or frozen into digestive-safe popsicles for sore mouth or flare hydration.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/drinks-sauces/boost-breeze-fruit-nutritional-drink.json"
+    },
+    {
+      "id": "canyon-bakehouse-heritage-style-white-bread",
+      "name": "Canyon Bakehouse Heritage Style White Bread (Gluten-Free)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Canyon Bakehouse",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "gluten-free",
+        "dairy-free",
+        "soy-free",
+        "nut-free",
+        "seedless-bread",
+        "large-slice"
+      ],
+      "searchKeywords": [
+        "canyon bakehouse",
+        "gluten free white bread",
+        "heritage style bread",
+        "safe bread celiac crohns"
+      ],
+      "whyItWorks": "Certified gluten-free white bread baked with fine tapioca and brown rice flours into full, sandwich-sized slices. Free from dairy, soy, nuts, and sesame seeds, with only 1g fiber per slice. Gentle and pliable when toasted or fresh.",
+      "prepOrOrderInstructions": "Lightly toast to enhance texture and aroma. Excellent for deli turkey sandwiches or light buttered toast.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/canyon-bakehouse-heritage-style-white-bread.json"
     },
     {
       "id": "dca-carthay-circle-filet-fish-parker-house-rolls",
@@ -11285,6 +11543,43 @@
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-roasted-half-chicken-mashed-potatoes.json"
     },
     {
+      "id": "near-east-original-plain-couscous",
+      "name": "Near East Original Plain Couscous (100% Semolina)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Near East",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "couscous",
+        "durum-semolina",
+        "fast-cooking",
+        "low-residue",
+        "gentle-grain"
+      ],
+      "searchKeywords": [
+        "near east couscous",
+        "plain couscous",
+        "semolina couscous",
+        "quick dinner side"
+      ],
+      "whyItWorks": "Tiny pearls of precooked durum wheat semolina. When covered in boiling broth, it steams fluffy and soft in just 5 minutes. Exceptionally gentle on digestion with minimal chew required.",
+      "prepOrOrderInstructions": "Bring 1 cup chicken bone broth to a boil, stir in 1 cup couscous, remove from heat and cover for 5 minutes. Fluff with a fork.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/near-east-original-plain-couscous.json"
+    },
+    {
       "id": "new-years-eve-gala-surf-and-turf-chocolate-dome",
       "name": "New Year's Eve Gala Menu: Surf & Turf Beef Tenderloin & Lobster Tail and Midnight Chocolate Dome",
       "categoryFolder": "high-protein",
@@ -13129,6 +13424,43 @@
       "_sourcePath": "src/data/items/lunch/turkey-havarti-toaster-oven-melt.json"
     },
     {
+      "id": "udis-gluten-free-delicious-soft-white-bread",
+      "name": "Udi's Gluten-Free Delicious Soft White Sandwich Bread",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Udi's",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "gluten-free",
+        "soft-white-bread",
+        "dairy-free",
+        "seedless",
+        "low-residue"
+      ],
+      "searchKeywords": [
+        "udis bread",
+        "udis gluten free",
+        "soft white sandwich bread",
+        "gf bread"
+      ],
+      "whyItWorks": "Made from a smooth blend of tapioca starch, brown rice flour, and egg whites. Light and airy with zero seeds, zero nuts, and negligible fiber. Highly digestible for compromised intestinal linings.",
+      "prepOrOrderInstructions": "Best served toasted in a toaster oven for 2 minutes to bring out warmth and softness without crumbling.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/udis-gluten-free-delicious-soft-white-bread.json"
+    },
+    {
       "id": "christmas-merrytime-roast-turkey-standing-rib-roast",
       "name": "Very Merrytime Christmas Menu: Carved Holiday Turkey & Horseradish Standing Rib Roast",
       "categoryFolder": "high-protein",
@@ -13554,6 +13886,42 @@
         "Hold raw cabbage and pickled onions"
       ],
       "_sourcePath": "src/data/items/lunch/aubergine-kitchen-orem-lehi-mediterranean-chicken-bowl.json"
+    },
+    {
+      "id": "canyon-bakehouse-gluten-free-plain-bagels",
+      "name": "Canyon Bakehouse Gluten-Free Plain Bagels",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Canyon Bakehouse",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "gluten-free-bagel",
+        "dairy-free",
+        "seedless",
+        "chewy-crumb"
+      ],
+      "searchKeywords": [
+        "canyon bakehouse bagels",
+        "gluten free plain bagel",
+        "gf bagels",
+        "allergy safe bagel"
+      ],
+      "whyItWorks": "100% whole grain brown rice, tapioca, and potato flour blend; free from gluten, dairy, nuts, and soy. Delivers the classic chewy boiled bagel experience without provoking immune or gluten sensitivities.",
+      "prepOrOrderInstructions": "Slice and toast in a toaster oven for 3 minutes until crisp on the edges.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/canyon-bakehouse-gluten-free-plain-bagels.json"
     },
     {
       "id": "dca-bayside-brews-warm-bavarian-pretzel",
@@ -14322,6 +14690,43 @@
         "Discard the central woody core of large mature parsnips before boiling."
       ],
       "_sourcePath": "src/data/items/produce-sides/steamed-peeled-parsnips-puree.json"
+    },
+    {
+      "id": "thomas-original-nooks-and-crannies-english-muffins",
+      "name": "Thomas' Original \"Nooks & Crannies\" English Muffins",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Thomas'",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "english-muffin",
+        "nooks-and-crannies",
+        "low-residue",
+        "easy-to-digest",
+        "seedless"
+      ],
+      "searchKeywords": [
+        "thomas english muffin",
+        "nooks and crannies",
+        "original english muffin",
+        "breakfast toast"
+      ],
+      "whyItWorks": "A beloved digestive staple! The airy, open-cell structure toasts up light and crisp. Contains only 1g fiber, 0g dairy, and zero seeds; dusted lightly with degerminated yellow cornmeal that does not trigger strictures.",
+      "prepOrOrderInstructions": "Split with a fork (never cut with a knife) to preserve the crevices. Toast well and top with butter or a poached egg.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/thomas-original-nooks-and-crannies-english-muffins.json"
     },
     {
       "id": "tillamook-medium-cheddar-cheese-slices",
@@ -15969,6 +16374,43 @@
       "_sourcePath": "src/data/items/dinner/mo-bettahs-draper-herriman-mini-teriyaki-chicken-white-rice.json"
     },
     {
+      "id": "natures-own-butterbread",
+      "name": "Nature's Own Butterbread (Thick Sliced)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Nature's Own",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "butterbread",
+        "soft-white-bread",
+        "zero-hfcs",
+        "seedless",
+        "low-fiber"
+      ],
+      "searchKeywords": [
+        "natures own butterbread",
+        "butter bread",
+        "soft white loaf",
+        "sandwich bread"
+      ],
+      "whyItWorks": "Baked with real butter for rich flavor and tender crumb, completely free of high-fructose corn syrup and artificial preservatives. Low in dietary fiber (1g per slice) and seed-free.",
+      "prepOrOrderInstructions": "Enjoy fresh from the loaf or toasted with a light smear of honey.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/natures-own-butterbread.json"
+    },
+    {
       "id": "disneyland-blue-bayou-pan-roasted-salmon",
       "name": "Pan-Roasted Sustainable Salmon with Glazed Carrots",
       "categoryFolder": "dinner",
@@ -16042,6 +16484,42 @@
       "whyItWorks": "Fresh eggs scrambled soft, a slice of grilled lean ham, and toasted white bread with seedless jelly. A quintessential flare-safe breakfast combo providing high-quality protein without grease.",
       "prepOrOrderInstructions": "Request eggs scrambled soft with light cooking spray, grilled ham steak, and plain white toast with jelly. Skip grilled hashbrowns.",
       "_sourcePath": "src/data/items/breakfast/penny-anns-cafe-scrambled-eggs-ham-white-toast.json"
+    },
+    {
+      "id": "quaker-lightly-salted-rice-crisps",
+      "name": "Quaker Lightly Salted Gluten-Free Rice Crisps",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Quaker",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rice-crisps",
+        "mini-rice-cakes",
+        "gluten-free",
+        "low-sodium",
+        "seedless"
+      ],
+      "searchKeywords": [
+        "quaker rice crisps",
+        "mini rice cakes",
+        "lightly salted rice crisps",
+        "pantry snack"
+      ],
+      "whyItWorks": "Bite-sized discs of puffed white and brown rice seasoned with sea salt. Gluten-free, zero dairy, zero trans fat, and melts in the mouth.",
+      "prepOrOrderInstructions": "Great portable snack for work desks or road trips.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/quaker-lightly-salted-rice-crisps.json"
     },
     {
       "id": "roasted-butternut-squash-puree",
@@ -16349,6 +16827,43 @@
       "whyItWorks": "Wild salmon gently roasted on a natural cedar wood plank with sea salt and light glaze. High in marine omega-3s and paired with skinless, smooth Yukon Gold mashed potatoes.",
       "prepOrOrderInstructions": "Ask for salmon prepared simply with light olive oil and salt, skipping any spicy rubs or rich butter sauces. Pair with peeled mashed potatoes.",
       "_sourcePath": "src/data/items/dinner/wildfin-american-grill-riverton-cedar-plank-salmon.json"
+    },
+    {
+      "id": "athenas-white-pita-bread-pockets",
+      "name": "Athenas Traditional White Pita Bread Pockets",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Athenas",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pita-bread",
+        "pocket-bread",
+        "refined-flour",
+        "seedless",
+        "low-fiber"
+      ],
+      "searchKeywords": [
+        "white pita bread",
+        "pita pockets",
+        "greek pita",
+        "mediterranean safe bread"
+      ],
+      "whyItWorks": "Traditional Middle Eastern flatbread baked at high heat from unbleached enriched flour. The puff forms a gentle pocket with under 1g fiber and zero seeds or whole grains.",
+      "prepOrOrderInstructions": "Warm in a toaster or microwave for 15 seconds. Stuff with shredded chicken breast and cucumber slices.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/athenas-white-pita-bread-pockets.json"
     },
     {
       "id": "bam-bams-bbq-lindon-orem-smoked-turkey-brisket",
@@ -17078,6 +17593,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/honey-maid-original-graham-crackers.json"
     },
     {
+      "id": "kings-hawaiian-original-sweet-rolls",
+      "name": "King's Hawaiian Original Hawaiian Sweet Rolls",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "King's Hawaiian",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "sweet-rolls",
+        "ultra-soft",
+        "low-residue",
+        "holiday-dinner-roll",
+        "melt-in-mouth"
+      ],
+      "searchKeywords": [
+        "kings hawaiian",
+        "hawaiian sweet rolls",
+        "soft dinner rolls",
+        "low fiber rolls"
+      ],
+      "whyItWorks": "Iconic pillowy soft rolls baked from enriched wheat flour, real butter, and pure cane sugar. The cloud-like texture dissolves easily upon chewing, leaving virtually zero digestive residue in the small bowel.",
+      "prepOrOrderInstructions": "Serve warm by placing rolls in a 350°F oven for 2–3 minutes. Perfect for leftover turkey or roasted chicken sliders.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/kings-hawaiian-original-sweet-rolls.json"
+    },
+    {
       "id": "kneaders-chicken-noodle-soup-soft-roll",
       "name": "Kneaders Hearty Chicken Noodle Soup with Fresh Bakery Roll",
       "categoryFolder": "lunch",
@@ -17239,6 +17792,42 @@
         "Rich in flavor; a small spoonful goes a long way."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/lee-kum-kee-premium-oyster-sauce.json"
+    },
+    {
+      "id": "lundberg-organic-thin-stackers-puffed-rice-cakes",
+      "name": "Lundberg Family Farms Organic Thin Stackers (Lightly Salted Rice Cakes)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Lundberg Family Farms",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rice-cakes",
+        "thin-stackers",
+        "puffed-grain",
+        "gluten-free",
+        "crunchy-snack"
+      ],
+      "searchKeywords": [
+        "lundberg thin stackers",
+        "organic rice cakes",
+        "salted rice crackers",
+        "puffed rice"
+      ],
+      "whyItWorks": "Puffed brown and white rice crisped into ultra-thin stackable crackers. Puffed starch expands cell walls making them fragile and quick to dissolve upon chewing, satisfying crunch cravings without stricture danger.",
+      "prepOrOrderInstructions": "Eat straight from the pack or spread with smooth sunflower seed butter or honey.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/lundberg-organic-thin-stackers-puffed-rice-cakes.json"
     },
     {
       "id": "members-mark-sliced-artisan-sourdough-bread",
@@ -19179,6 +19768,41 @@
       "_sourcePath": "src/data/items/dinner/dca-wine-country-trattoria-roasted-salmon.json"
     },
     {
+      "id": "pepperidge-farm-farmhouse-hearty-white-bread",
+      "name": "Pepperidge Farm Farmhouse Hearty White Bread",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Pepperidge Farm",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "hearty-white",
+        "thick-slice",
+        "comfort-toast",
+        "seedless"
+      ],
+      "searchKeywords": [
+        "pepperidge farm white",
+        "farmhouse hearty white",
+        "thick sliced white bread"
+      ],
+      "whyItWorks": "Thick, slow-baked white bread with a dense, comforting crumb that holds together well without tough crusts or abrasive seeds. Under 1g fiber per slice.",
+      "prepOrOrderInstructions": "Toast until golden; pairs wonderfully with scrambled eggs or gentle seedless jams.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/pepperidge-farm-farmhouse-hearty-white-bread.json"
+    },
+    {
       "id": "pillsbury-grands-flaky-layers-biscuits",
       "name": "Pillsbury Grands! Flaky Layers Buttermilk Biscuits (Oven-Baked)",
       "categoryFolder": "frozen-aisle",
@@ -19305,6 +19929,42 @@
         "None; premier gentle bakery bread"
       ],
       "_sourcePath": "src/data/items/breakfast/portos-bakery-buena-park-pan-suave-cuban-sweet-bread.json"
+    },
+    {
+      "id": "quaker-corn-cakes-lightly-salted",
+      "name": "Quaker Lightly Salted Corn Cakes (Large Puffed Discs)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Quaker",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "corn-cakes",
+        "puffed-corn",
+        "zero-hulls",
+        "gluten-free",
+        "crunchy"
+      ],
+      "searchKeywords": [
+        "quaker corn cakes",
+        "puffed corn discs",
+        "large corn cakes",
+        "popcorn substitute"
+      ],
+      "whyItWorks": "Made from milled puffed corn where heat expansion disintegrates the kernel matrix, leaving zero hard hulls or unpopped seeds. A safe popcorn substitute for movie nights.",
+      "prepOrOrderInstructions": "Eat plain or with a light slice of mild cheddar.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/quaker-corn-cakes-lightly-salted.json"
     },
     {
       "id": "quaker-quick-1-minute-oats-porridge",
@@ -26729,6 +27389,43 @@
       "_sourcePath": "src/data/items/mexican-southwest/cafe-sabor-garden-city-chicken-fajitas-custom.json"
     },
     {
+      "id": "guerrero-white-corn-tortillas-warmed",
+      "name": "Guerrero White Corn Tortillas (Skillet-Warmed)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Guerrero",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "corn-tortillas",
+        "nixtamalized-masa",
+        "gluten-free",
+        "dairy-free",
+        "mexican-staple"
+      ],
+      "searchKeywords": [
+        "guerrero corn tortillas",
+        "white corn tortillas",
+        "soft corn tortillas",
+        "taco night safe"
+      ],
+      "whyItWorks": "Made from finely ground nixtamalized corn masa treated with lime (calcium hydroxide), which dissolves the outer fibrous corn husk. Naturally gluten-free, low in fat, and soft when heated.",
+      "prepOrOrderInstructions": "Warm on a dry cast-iron skillet for 30 seconds per side until pliable and steaming. Never eat cold or stiff.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/guerrero-white-corn-tortillas-warmed.json"
+    },
+    {
       "id": "herms-inn-logan-canyon-jims-steel-cut-hot-oatmeal",
       "name": "Herm's Inn (Logan, UT) \"Jim's Hot Cereal\" Steel-Cut Oats with Banana & Brown Sugar",
       "categoryFolder": "breakfast",
@@ -28397,6 +29094,43 @@
       "_sourcePath": "src/data/items/drinks-sauces/disneyland-downtown-disney-jamba-mango-peach-banana-smoothie.json"
     },
     {
+      "id": "einstein-bros-plain-bagel-with-shmear",
+      "name": "Einstein Bros. Bagels Plain Bagel",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Einstein Bros. Bagels",
+      "crohnsScore": 8.3,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "fast-food",
+        "einstein-bagels",
+        "plain-bagel"
+      ],
+      "searchKeywords": [
+        "einstein bros plain bagel",
+        "einstein bagel plain",
+        "takeout bagel safe"
+      ],
+      "whyItWorks": "Traditional kettle-boiled and hearth-baked plain bagel with a smooth, shiny golden crust and soft interior. Seed-free and easy on the gut.",
+      "prepOrOrderInstructions": "Order: \"Plain bagel, toasted, with plain shmear or butter.\"",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/einstein-bros-plain-bagel-with-shmear.json"
+    },
+    {
       "id": "gourmandise-draper-croissant-french-toast-grilled-cheese",
       "name": "Gourmandise the Euro Bakery (Draper) Butter Croissant, Brioche French Toast or Brie Grilled Cheese",
       "categoryFolder": "breakfast",
@@ -28810,6 +29544,41 @@
       "_sourcePath": "src/data/items/breakfast/portos-bakery-buena-park-sweet-cheese-roll.json"
     },
     {
+      "id": "quaker-instant-oatmeal-maple-and-brown-sugar",
+      "name": "Quaker Instant Oatmeal (Maple & Brown Sugar)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Quaker",
+      "crohnsScore": 8.3,
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "instant-oats",
+        "maple-brown-sugar",
+        "soluble-fiber",
+        "quick-breakfast",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "quaker instant oatmeal",
+        "maple brown sugar oatmeal",
+        "packets oatmeal"
+      ],
+      "whyItWorks": "Rolled oats cut fine and pre-steamed so they soften instantly with hot water. The soluble beta-glucan forms a soothing gel that bulks stool gently without abrasive roughness.",
+      "prepOrOrderInstructions": "Empty packet into bowl, add 1/2 cup boiling water, stir and let sit for 1 minute.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/quaker-instant-oatmeal-maple-and-brown-sugar.json"
+    },
+    {
       "id": "some-beaches-laketown-kids-cheeseburger-slider",
       "name": "Some Beaches (Laketown, UT) Kids Hand-Smashed Cheeseburger Slider",
       "categoryFolder": "diner-bbq",
@@ -29054,6 +29823,43 @@
         "None; gentle dessert or breakfast"
       ],
       "_sourcePath": "src/data/items/breakfast/the-crepery-logan-sugar-butter-sweet-crepe.json"
+    },
+    {
+      "id": "thomas-plain-bagel-toasted-half",
+      "name": "Thomas' Plain Bagel (Toasted Half)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Thomas'",
+      "crohnsScore": 8.3,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "plain-bagel",
+        "refined-flour",
+        "seedless",
+        "comfort-carb",
+        "home-breakfast"
+      ],
+      "searchKeywords": [
+        "thomas plain bagel",
+        "toasted bagel",
+        "plain bagel crohns",
+        "seedless bagel"
+      ],
+      "whyItWorks": "Made with enriched bleached wheat flour, boiled and baked without seeds, onion flakes, or whole grains. Eating half a bagel toasted provides dense, easily absorbed carbohydrates without overloading bowel volume.",
+      "prepOrOrderInstructions": "Slice in half and toast until lightly golden. Spread with pure butter, ghee, or lactose-free cream cheese.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/thomas-plain-bagel-toasted-half.json"
     },
     {
       "id": "trader-joes-chicken-tikka-masala-frozen",
@@ -30449,6 +31255,44 @@
         "Contains dairy in the velouté broth—take lactase enzyme if sensitive"
       ],
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-chicken-and-dumplings-pot-pie.json"
+    },
+    {
+      "id": "panera-bread-plain-bagel",
+      "name": "Panera Bread Plain Bagel (Order Plain / Butter)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Panera Bread",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "fast-food",
+        "panera-bread",
+        "seedless-carb",
+        "travel-breakfast"
+      ],
+      "searchKeywords": [
+        "panera plain bagel",
+        "panera bread bagel",
+        "fast food breakfast flare safe"
+      ],
+      "whyItWorks": "Freshly baked artisan plain bagel made from unbleached enriched flour. Contains zero sesame or poppy seeds, zero onion flakes, and provides convenient, dense, low-residue calories when traveling.",
+      "prepOrOrderInstructions": "Order at Panera: \"One Plain Bagel, sliced and toasted, with plain cream cheese or butter packet on the side.\"",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/panera-bread-plain-bagel.json"
     },
     {
       "id": "penny-anns-cafe-heavenly-hotcakes-pure-syrup",
@@ -32037,6 +32881,43 @@
         "Standard bowls include crunchy fried garbanzo beans, raw red onions, and garlic/harissa sauces—always request plain meat and rice"
       ],
       "_sourcePath": "src/data/items/italian-med/spitz-utah-doner-rice-bowl-pita.json"
+    },
+    {
+      "id": "stonefire-original-naan-flatbread",
+      "name": "Stonefire Original Naan Flatbread",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Stonefire",
+      "crohnsScore": 8.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Indian",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "naan-flatbread",
+        "tandoor-baked",
+        "soft-crumb",
+        "tender-bread"
+      ],
+      "searchKeywords": [
+        "stonefire naan",
+        "original naan",
+        "indian flatbread",
+        "soft naan bread"
+      ],
+      "whyItWorks": "Authentic tandoor-oven baked flatbread made with enriched flour, cultured buttermilk, and ghee. Soft, bubbly, and tender with zero coarse grains or seeds.",
+      "prepOrOrderInstructions": "Warm in a 400°F oven for 2 minutes or skillet-warm with a tiny touch of butter.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/dinner/stonefire-original-naan-flatbread.json"
     },
     {
       "id": "dcl-room-service-steak-panini",
@@ -61689,6 +62570,41 @@
       "_sourcePath": "src/data/items/mexican-southwest/plaza-de-coco-butternut-squash-enchilada.json"
     },
     {
+      "id": "sara-lee-artesano-golden-wheat-bread-warning",
+      "name": "Sara Lee Artesano Golden Wheat Bread (Coarse Bran WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Sara Lee",
+      "crohnsScore": 5.5,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "whole-wheat-bran",
+        "roughage",
+        "cramping-risk"
+      ],
+      "searchKeywords": [
+        "sara lee artesano wheat",
+        "golden wheat warning",
+        "wheat bran cramps"
+      ],
+      "whyItWorks": "Contains unrefined whole wheat flour with coarse insoluble bran flakes and wheat gluten. Insoluble wheat bran accelerates transit speed and mechanically irritates inflamed bowel segments.",
+      "prepOrOrderInstructions": "Choose the Classic White Artesano or standard white bread rather than the Golden Wheat variety.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/sara-lee-artesano-golden-wheat-bread-warning.json"
+    },
+    {
       "id": "worlds-of-marvel-sauteed-mushrooms",
       "name": "Sautéed Crimini & Oyster Mushrooms on Brioche Toast (Night 1)",
       "categoryFolder": "dinner",
@@ -63299,6 +64215,42 @@
         "High dairy lactose"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/some-beaches-laketown-strawberry-cheesecake-thick-shake.json"
+    },
+    {
+      "id": "stonefire-garlic-naan-flatbread-warning",
+      "name": "Stonefire Garlic Naan Flatbread (WARNING)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Stonefire",
+      "crohnsScore": 5.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Indian",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "roasted-garlic-topping",
+        "fructans",
+        "cilantro-flakes",
+        "fodmap-trigger"
+      ],
+      "searchKeywords": [
+        "stonefire garlic naan",
+        "garlic naan warning",
+        "fructan flatbread"
+      ],
+      "whyItWorks": "Topped with real roasted garlic chunks, garlic oil, and cilantro flakes. The concentrated allium fructans provoke rapid fermentation and severe gas in sensitive guts.",
+      "prepOrOrderInstructions": "Choose the Original Stonefire Naan instead of the Garlic variety.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/stonefire-garlic-naan-flatbread-warning.json"
     },
     {
       "id": "sweet-lake-biscuits-draper-mint-limeade-citrus-warning",
@@ -72324,6 +73276,82 @@
       "_sourcePath": "src/data/items/drinks-sauces/sambal-oelek-ground-chili-paste-warning.json"
     },
     {
+      "id": "thomas-everything-bagel-seeds-garlic-warning",
+      "name": "Thomas' Everything Bagel (Seeds & Garlic WARNING)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Thomas'",
+      "crohnsScore": 2.4,
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "poppy-seeds",
+        "sesame-seeds",
+        "dried-onion-garlic",
+        "stricture-hazard",
+        "fodmap-bomb"
+      ],
+      "searchKeywords": [
+        "everything bagel warning",
+        "poppy seeds crohns",
+        "sesame bagel danger",
+        "onion garlic bagel"
+      ],
+      "whyItWorks": "Heavily coated with whole poppy seeds, sesame seeds, dried minced garlic, and dehydrated onion flakes. The whole seeds pass undigested into narrowed strictures, while the concentrated fructans in dried garlic/onion trigger violent gas and spasms.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Always choose Plain or French Toast/Cinnamon Swirl bagels without whole seeds.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/thomas-everything-bagel-seeds-garlic-warning.json"
+    },
+    {
+      "id": "ezekiel-4-9-sprouted-whole-grain-bread-warning",
+      "name": "Food for Life Ezekiel 4:9 Sprouted Whole Grain Bread (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Food for Life",
+      "crohnsScore": 2.3,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "sprouted-wheat",
+        "lentils",
+        "soybeans",
+        "spelt",
+        "severe-gas",
+        "roughage"
+      ],
+      "searchKeywords": [
+        "ezekiel bread",
+        "sprouted grain warning",
+        "ezekiel 4 9 crohns",
+        "dense roughage bread"
+      ],
+      "whyItWorks": "Crafted from freshly sprouted live grains and legumes: wheat, barley, millet, lentils, soybeans, and spelt. The dense, abrasive insoluble bran particles scratch ulcerated mucosa while the legume flours generate violent colonic gas distention.",
+      "prepOrOrderInstructions": "STRICTLY AVOID during flares or active symptoms. Choose refined white sourdough or GF white bread instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/ezekiel-4-9-sprouted-whole-grain-bread-warning.json"
+    },
+    {
       "id": "granola-muesli-whole-nut-stricture-hazard",
       "name": "Granola & Muesli (High Insoluble Fiber, Nut & Seed Hazard)",
       "categoryFolder": "breakfast",
@@ -72365,6 +73393,42 @@
         "Extreme stricture blockage risk: Dense mixture of raw grains, sharp seed coats, and whole nut fragments."
       ],
       "_sourcePath": "src/data/items/breakfast/granola-muesli-whole-nut-stricture-hazard.json"
+    },
+    {
+      "id": "la-banderita-carb-counter-warning",
+      "name": "La Banderita Carb Counter Tortillas (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "La Banderita",
+      "crohnsScore": 2.3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 11,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "high-fiber-warning",
+        "cellulose-fiber",
+        "severe-bloating",
+        "keto-trap"
+      ],
+      "searchKeywords": [
+        "la banderita carb counter",
+        "carb counter warning",
+        "keto tortilla diarrhea"
+      ],
+      "whyItWorks": "Engineered with 11g of isolated resistant modified wheat starch. Bypasses small intestine digestion to produce immense microbial gas and cramping in the colon.",
+      "prepOrOrderInstructions": "AVOID. Stick to traditional white flour or yellow/white corn masa tortillas.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/la-banderita-carb-counter-warning.json"
     },
     {
       "id": "olipop-vintage-cola-prebiotic-soda-warning",
@@ -72437,6 +73501,43 @@
       "prepOrOrderInstructions": "AVOID, especially if taking biologic therapies, steroids, or immunomodulators. Do not consume raw fermented unpasteurized drinks without clinical GI clearance.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/gt-synergy-raw-kombucha-warning.json"
+    },
+    {
+      "id": "mission-carb-balance-flour-tortillas-warning",
+      "name": "Mission Carb Balance Flour Tortillas (15g Fiber WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Mission Foods",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 15,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "modified-wheat-starch",
+        "extreme-fiber-warning",
+        "gas-explosion",
+        "diarrhea-trigger"
+      ],
+      "searchKeywords": [
+        "carb balance tortillas",
+        "mission carb balance warning",
+        "keto tortilla warning",
+        "modified wheat starch"
+      ],
+      "whyItWorks": "Promoted as low-carb diet food, but each single tortilla packs a staggering 15g of concentrated modified wheat starch and cellulose fiber. In IBD patients, this massive dose of resistant starch causes explosive colonic fermentation, agonizing gas distention, and watery diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. One of the most notorious grocery trap items for Crohn's and Colitis patients. Always choose regular Mission Super Soft white tortillas instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/mission-carb-balance-flour-tortillas-warning.json"
     },
     {
       "id": "starbucks-nitro-cold-brew-warning",
@@ -72558,6 +73659,44 @@
         "Primary cause of food-induced small bowel impaction requiring emergency hospital intervention."
       ],
       "_sourcePath": "src/data/items/frozen-aisle/birds-eye-steamfresh-sweet-corn-warning.json"
+    },
+    {
+      "id": "daves-killer-bread-21-whole-grains-seeds-warning",
+      "name": "Dave's Killer Bread 21 Whole Grains and Seeds (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Dave's Killer Bread",
+      "crohnsScore": 2.1,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "whole-seeds",
+        "flax-seeds",
+        "sesame-seeds",
+        "stricture-obstruction-risk",
+        "high-fiber"
+      ],
+      "searchKeywords": [
+        "daves killer bread",
+        "21 whole grains warning",
+        "seedy bread danger",
+        "flax seed obstruction"
+      ],
+      "whyItWorks": "Encrusted and packed with unground whole flax seeds, sunflower seeds, sesame seeds, pumpkin seeds, and cracked rye. Whole seeds do not break down during digestion and readily form sharp phytobezoars, presenting an extreme bowel obstruction hazard for stricturing Crohn's.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. A frequent cause of emergency room visits for intestinal blockage in IBD patients.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/daves-killer-bread-21-whole-grains-seeds-warning.json"
     },
     {
       "id": "lao-gan-ma-spicy-chili-crisp-warning",
@@ -72830,6 +73969,44 @@
         "CRITICAL CITRUS TRIGGER: Filled with concentrated lemon juice curd and lemon glaze (citrusFree: false)"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/disneyland-tianas-palace-house-filled-beignet-lemon-warning.json"
+    },
+    {
+      "id": "kashi-go-lean-crunch-cereal-warning",
+      "name": "Kashi GO Original Crunch Cereal (Extreme Fiber WARNING)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Kashi",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 13,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "chicory-root-fiber",
+        "dense-clusters",
+        "hard-grains",
+        "severe-gas",
+        "obstruction-hazard"
+      ],
+      "searchKeywords": [
+        "kashi go lean",
+        "kashi crunch warning",
+        "high fiber cereal danger",
+        "chicory root inulin cereal"
+      ],
+      "whyItWorks": "Delivers an astounding 13g of fiber per cup, loaded with chicory root inulin fiber, hard roasted seven-whole-grain clusters, and dense soy protein crisps. The rock-hard clusters resist chewing, posing a serious blockage risk against strictures while inulin triggers intense gas spasms.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. One of the highest-fiber cereals in the grocery store; guaranteed flare trigger.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/kashi-go-lean-crunch-cereal-warning.json"
     },
     {
       "id": "kirkland-signature-trail-mix-nuts-raisins-warning",
@@ -73147,6 +74324,42 @@
         "Almond meal fiber"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/captains-gala-orange-almond-cake.json"
+    },
+    {
+      "id": "all-bran-buds-wheat-bran-warning",
+      "name": "Kellogg's All-Bran Buds Cereal (17g Insoluble Bran WARNING)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Kellogg's",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 17,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "wheat-bran-overload",
+        "psyllium-husk",
+        "mechanical-abrasive",
+        "high-residue-danger"
+      ],
+      "searchKeywords": [
+        "all bran buds",
+        "wheat bran warning",
+        "kelloggs all bran danger",
+        "17g fiber cereal"
+      ],
+      "whyItWorks": "Contains a staggering 17g of dietary fiber per 1/2 cup (61% Daily Value) made of concentrated coarse wheat bran and psyllium husk. A severe mechanical abrasive that lacerates inflamed intestinal mucosa and can create catastrophic physical impaction in narrowed bowel segments.",
+      "prepOrOrderInstructions": "STRICTLY AVOID for Crohn's and Ulcerative Colitis. Never consume during active disease.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/all-bran-buds-wheat-bran-warning.json"
     },
     {
       "id": "leatherbys-creamery-draper-alligator-giant-sundae-warning",

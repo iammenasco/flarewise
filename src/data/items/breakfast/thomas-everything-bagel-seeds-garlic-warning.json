@@ -1,0 +1,36 @@
+{
+  "id": "thomas-everything-bagel-seeds-garlic-warning",
+  "name": "Thomas' Everything Bagel (Seeds & Garlic WARNING)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thomas'",
+  "crohnsScore": 2.4,
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "poppy-seeds",
+    "sesame-seeds",
+    "dried-onion-garlic",
+    "stricture-hazard",
+    "fodmap-bomb"
+  ],
+  "searchKeywords": [
+    "everything bagel warning",
+    "poppy seeds crohns",
+    "sesame bagel danger",
+    "onion garlic bagel"
+  ],
+  "whyItWorks": "Heavily coated with whole poppy seeds, sesame seeds, dried minced garlic, and dehydrated onion flakes. The whole seeds pass undigested into narrowed strictures, while the concentrated fructans in dried garlic/onion trigger violent gas and spasms.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Always choose Plain or French Toast/Cinnamon Swirl bagels without whole seeds.",
+  "safetyTier": "danger-zone"
+}

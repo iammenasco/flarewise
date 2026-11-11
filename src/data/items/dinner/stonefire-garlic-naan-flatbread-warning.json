@@ -1,0 +1,35 @@
+{
+  "id": "stonefire-garlic-naan-flatbread-warning",
+  "name": "Stonefire Garlic Naan Flatbread (WARNING)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Stonefire",
+  "crohnsScore": 5.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "roasted-garlic-topping",
+    "fructans",
+    "cilantro-flakes",
+    "fodmap-trigger"
+  ],
+  "searchKeywords": [
+    "stonefire garlic naan",
+    "garlic naan warning",
+    "fructan flatbread"
+  ],
+  "whyItWorks": "Topped with real roasted garlic chunks, garlic oil, and cilantro flakes. The concentrated allium fructans provoke rapid fermentation and severe gas in sensitive guts.",
+  "prepOrOrderInstructions": "Choose the Original Stonefire Naan instead of the Garlic variety.",
+  "safetyTier": "danger-zone"
+}
