@@ -1,7 +1,9 @@
 {
+  "id": "ahi-tuna-tartare",
   "name": "Ahi Tuna Tartare",
   "categoryFolder": "lunch",
-  "crohnsScore": 8,
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table / Disney Wonder · Triton's",
+  "crohnsScore": 8.5,
   "safetyTier": "low-risk",
   "mealTypes": [
     "lunch",
@@ -9,24 +11,36 @@
   ],
   "region": "Global",
   "costTier": 3,
-  "convenienceScore": 2,
+  "convenienceScore": 5,
   "prepMethod": [
     "ready-to-eat"
   ],
-  "fiberGramsPerServing": 0,
+  "fiberGramsPerServing": 0.5,
   "lactoseSafe": true,
   "citrusFree": false,
   "tags": [
     "tuna",
     "fish",
-    "raw"
+    "raw",
+    "sushi",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic",
+    "disney-wonder",
+    "rapunzels-royal-table"
   ],
   "searchKeywords": [
-    "ahi",
-    "tuna",
-    "tartare"
+    "ahi tuna tartare",
+    "raw tuna",
+    "rapunzels royal table",
+    "disney magic",
+    "appetizer"
   ],
-  "whyItWorks": "High protein and easily digestible, though watch for citrus/acid.",
-  "prepOrOrderInstructions": "Ensure fish is fresh and properly chilled.",
-  "id": "ahi-tuna-tartare"
+  "whyItWorks": "Finely diced sushi-grade raw ahi tuna and creamy mango/avocado require zero mechanical grinding and deliver clean, lean omega-3 protein.",
+  "prepOrOrderInstructions": "Ask your server to hold any chili oil, radish slices, or sesame seeds, and verify the soy-ginger dressing if you are on strict citrus-exclusion medications. Pair with white rice or soft bread instead of hard taro/wonton crisps if flaring.",
+  "watchOuts": [
+    "Citrus/ponzu extracts in dressing",
+    "Sharp fried wonton or taro chips",
+    "Sesame seeds"
+  ]
 }
