@@ -39,7 +39,7 @@ export function CatalogPage() {
     restoreBackup,
   } = usePreferences()
 
-  const { filters, filtered, selectedId, patch, setSelected } =
+  const { filters, filtered, selectedId, patch, setQuery, setSelected } =
     useCatalogFilters(prefs)
 
   const [pickerOpen, setPickerOpen] = useState(false)
@@ -261,7 +261,7 @@ export function CatalogPage() {
             <Search className="h-4 w-4 shrink-0 text-[var(--brand)]" />
             <input
               value={filters.q}
-              onChange={(e) => patch({ q: e.target.value })}
+              onChange={(e) => setQuery(e.target.value)}
               placeholder={
                 filters.place === 'theme-parks'
                   ? 'Search park menus…'
@@ -270,6 +270,8 @@ export function CatalogPage() {
                     : 'Search cereal, noodles, takeout…'
               }
               className="w-full bg-transparent text-sm outline-none placeholder:text-[var(--brand-ink)]/40"
+              autoComplete="off"
+              spellCheck={false}
             />
             {filters.q ? (
               <button
