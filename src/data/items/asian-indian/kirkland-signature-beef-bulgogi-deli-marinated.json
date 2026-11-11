@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-beef-bulgogi-deli-marinated",
+  "name": "Kirkland Signature USDA Choice Beef Bulgogi (Deli Marinated)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "beef-bulgogi",
+    "korean",
+    "take-and-bake"
+  ],
+  "searchKeywords": [
+    "costco beef bulgogi",
+    "kirkland marinated beef",
+    "korean bbq",
+    "costco deli"
+  ],
+  "whyItWorks": "Thinly shaved USDA Choice beef ribeye marinated in sweet soy sauce, pear puree, and sesame oil. Thinly sliced ribeye cooks rapidly and is remarkably tender and easy to chew, but sesame seeds and onion juice require stable remission.",
+  "prepOrOrderInstructions": "Saute in a hot nonstick skillet until fully browned. Serve over a large bowl of plain white jasmine rice to dilute the sweet marinade."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-chicken-alfredo-with-penne-bake-warning",
+  "name": "Member's Mark Chicken Alfredo with Penne Pasta (Deli Bake Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 4.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "chicken-alfredo",
+    "dairy-warning",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "sams club chicken alfredo",
+    "members mark alfredo",
+    "take and bake",
+    "pasta bake"
+  ],
+  "whyItWorks": "Tender penne pasta and chicken smothered in a heavy cream, butter, and parmesan sauce. Over 28g of dairy fat per serving triggers intense gastrocolic reflexes and diarrhea in sensitive bowels.",
+  "prepOrOrderInstructions": "Heavy Cream & Lipid Hazard: Avoid during flare-ups. In remission, eat a small portion paired with extra plain chicken."
+}

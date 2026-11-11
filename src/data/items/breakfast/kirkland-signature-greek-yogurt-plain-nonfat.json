@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-greek-yogurt-plain-nonfat",
+  "name": "Kirkland Signature Organic Plain Nonfat Greek Yogurt",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "greek-yogurt",
+    "probiotics",
+    "lean-protein"
+  ],
+  "searchKeywords": [
+    "costco greek yogurt",
+    "kirkland plain yogurt",
+    "nonfat yogurt",
+    "live cultures"
+  ],
+  "whyItWorks": "Traditional triple-straining removes most of the liquid whey, leaving dense protein and live active probiotic cultures with substantially less lactose than regular milk. Completely fat-free and smooth.",
+  "prepOrOrderInstructions": "Enjoy chilled with a drizzle of pure maple syrup. Tolerated well by many who cannot drink fluid milk."
+}

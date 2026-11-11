@@ -1,0 +1,38 @@
+{
+  "id": "members-mark-rotisserie-chicken-enchiladas-verde",
+  "name": "Member's Mark Chicken Enchiladas with Salsa Verde (Take & Bake)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "enchiladas",
+    "mexican",
+    "take-and-bake"
+  ],
+  "searchKeywords": [
+    "sams club enchiladas",
+    "members mark chicken enchiladas",
+    "salsa verde",
+    "take and bake"
+  ],
+  "whyItWorks": "Soft corn tortillas stuffed with shredded rotisserie chicken and mild green tomatillo salsa verde, topped with melted Monterey Jack. Tomatillo acidity and cheese make it a remission food.",
+  "prepOrOrderInstructions": "Bake until heated through. Scrape off excess melted cheese if lactose sensitive, and enjoy with plain white rice."
+}

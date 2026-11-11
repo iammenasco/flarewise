@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-deli-sliced-oven-roasted-turkey-breast",
+  "name": "Kirkland Signature Sliced Oven-Roasted Turkey Breast (3 x 14 oz)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "deli-turkey",
+    "lunch-meat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "costco sliced turkey",
+    "kirkland deli turkey",
+    "oven roasted turkey breast",
+    "lunch meat"
+  ],
+  "whyItWorks": "Whole-muscle turkey breast roasted and sliced thin without casing, dairy binders, or high fat fillers. It is gentle on the GI tract, offering fast protein for quick sandwich lunches.",
+  "prepOrOrderInstructions": "Layer slices onto plain sourdough or white bread. Pair with potato chips or applesauce."
+}

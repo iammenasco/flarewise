@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-deli-rotisserie-chicken-enchilada-bake",
+  "name": "Kirkland Signature Rotisserie Chicken Enchilada Bake",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "enchiladas",
+    "mexican",
+    "take-and-bake"
+  ],
+  "searchKeywords": [
+    "costco enchilada bake",
+    "kirkland chicken enchiladas",
+    "take and bake",
+    "costco deli"
+  ],
+  "whyItWorks": "Layered corn tortillas, tender pulled rotisserie chicken, mild red enchilada sauce, and melted Monterey Jack/cheddar cheese. Soft corn tortillas and chicken are low-residue, but melted cheese and tomato spices place it in the remission tier.",
+  "prepOrOrderInstructions": "Bake until bubbling. Remove outer heavy melted cheese crust if fat-sensitive. Best paired with side steamed white rice."
+}

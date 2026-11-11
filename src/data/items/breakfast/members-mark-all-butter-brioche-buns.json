@@ -1,0 +1,40 @@
+{
+  "id": "members-mark-all-butter-brioche-buns",
+  "name": "Member's Mark All-Butter French Brioche Hamburger Buns (Bakery 12-Pack)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "breakfast"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "brioche-buns",
+    "bakery",
+    "soft-bread"
+  ],
+  "searchKeywords": [
+    "sams club brioche buns",
+    "members mark french brioche",
+    "burger buns",
+    "soft bakery bread"
+  ],
+  "whyItWorks": "Soft, golden, enriched French buns with a pillowy crumb. They contain zero seeds, rough bran, or hard crusts, providing gentle carbohydrates that dissolve easily during digestion.",
+  "prepOrOrderInstructions": "Enjoy fresh or lightly toasted with sliced turkey, plain burger patties, or seedless jelly."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kirkland-rotisserie-chicken-hand-pulled-breast-meat",
+  "name": "Kirkland Signature Hand-Pulled Rotisserie Chicken Breast Meat (Vacuum Pack)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 9.6,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "rotisserie-chicken",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "costco",
+    "kirkland",
+    "pulled rotisserie chicken",
+    "chicken breast",
+    "bulk protein"
+  ],
+  "whyItWorks": "Sold in the refrigerated deli cases, these bags contain 100% white breast meat stripped clean of fatty skin, wing fat, cartilage, and bones. It provides ultra-convenient, pure lean protein with zero roughage, ideal for active flare recovery.",
+  "prepOrOrderInstructions": "Eat cold right out of the bag, shred into warm white rice, or gently warm in chicken bone broth. Discard any stray bits of dark skin if found."
+}

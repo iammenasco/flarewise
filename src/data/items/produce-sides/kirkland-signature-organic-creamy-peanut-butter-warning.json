@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-organic-creamy-peanut-butter-warning",
+  "name": "Kirkland Signature Organic Creamy Peanut Butter (Valencia Peanuts)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 6.6,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "peanut-butter",
+    "fats-warning",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "costco peanut butter",
+    "kirkland organic peanut butter",
+    "valencia peanuts",
+    "nut butter"
+  ],
+  "whyItWorks": "Contains only dry roasted organic peanuts and sea salt with no palm oil or added sugar. Creamy purees eliminate mechanical obstruction risks from whole nuts, but high lipid content can trigger motility if eaten in large amounts.",
+  "prepOrOrderInstructions": "Remission Food: Spread thinly (1 tablespoon max) on white toast or rice crackers. Avoid during acute flare-ups."
+}

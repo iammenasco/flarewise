@@ -1,0 +1,40 @@
+{
+  "id": "members-mark-hand-pulled-rotisserie-chicken-breast",
+  "name": "Member's Mark Hand-Pulled Rotisserie Chicken Breast Meat (Deli Tub)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "rotisserie-chicken",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sams club",
+    "members mark",
+    "pulled rotisserie chicken",
+    "chicken breast",
+    "deli tub"
+  ],
+  "whyItWorks": "Freshly stripped tender white chicken breast packaged without bones, heavy skin fat, or gristle. A lifesaver for busy weeknights or flare recovery when cooking raw poultry is exhausting.",
+  "prepOrOrderInstructions": "Eat chilled, warm gently in microwave or skillet, or add to chicken noodle soup or plain white rice."
+}

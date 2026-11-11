@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-loaded-potato-soup-deli-tub-warning",
+  "name": "Member's Mark Loaded Potato Soup with Bacon (Deli Tub Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "loaded-potato-soup",
+    "dairy-warning",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "sams club potato soup",
+    "members mark loaded potato",
+    "deli soup",
+    "bacon cheddar"
+  ],
+  "whyItWorks": "Heavy soup base made with heavy whipping cream, melted cheddar cheese, smoky bacon fat, diced potatoes, and green onions. Heavy dairy fat and smoked cured meats are a frequent trigger for urgent diarrhea.",
+  "prepOrOrderInstructions": "High Fat & Dairy Warning: Better to make simple mashed potatoes with broth at home instead of prepared loaded soup tubs."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-cauliflower-crust-pizza-warning",
+  "name": "Kirkland Signature Supreme Cauliflower Crust Pizza (FODMAP Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "cauliflower-pizza",
+    "fodmap-warning",
+    "gluten-free-warning"
+  ],
+  "searchKeywords": [
+    "costco cauliflower pizza",
+    "kirkland gluten free pizza",
+    "supreme pizza",
+    "cauliflower crust"
+  ],
+  "whyItWorks": "While marketed as healthy and gluten-free, cauliflower is extremely high in sulfur-containing glucosinolates and FODMAP polyols that cause massive bloating and severe gas pains in IBD patients, compounded by pepperoni and cheese.",
+  "prepOrOrderInstructions": "Severe Gas & Bloating Hazard: Do not assume cauliflower crust is gut-friendly. Choose a regular thin white flour crust instead."
+}

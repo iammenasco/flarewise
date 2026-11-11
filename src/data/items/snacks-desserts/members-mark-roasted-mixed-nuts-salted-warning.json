@@ -1,0 +1,37 @@
+{
+  "id": "members-mark-roasted-mixed-nuts-salted-warning",
+  "name": "Member's Mark Roasted Salted Mixed Nuts (Cashews, Almonds, Pecans Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 2.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "mixed-nuts",
+    "stricture-hazard",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "sams club mixed nuts",
+    "members mark roasted nuts",
+    "almonds cashews",
+    "stricture danger"
+  ],
+  "whyItWorks": "Whole roasted nuts have hard, sharp edges when broken down by teeth. In patients with active Crohn's, strictures, or previous bowel resections, nut particles frequently cause mechanical bowel obstructions.",
+  "prepOrOrderInstructions": "Mechanical Obstruction Warning: Strictly avoid whole nuts. Switch to smooth creamy seedless nut butter in remission."
+}

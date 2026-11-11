@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-southern-style-chicken-bites-warning",
+  "name": "Member's Mark Southern Style Chicken Bites (Breaded Breast Chunks Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 5.3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "chicken-bites",
+    "fried-chicken",
+    "frozen-aisle"
+  ],
+  "searchKeywords": [
+    "sams club chicken bites",
+    "members mark southern chicken",
+    "chick fil a copycat",
+    "frozen nuggets"
+  ],
+  "whyItWorks": "Famous as a Chick-fil-A copycat nugget, these breaded chicken breast chunks are brined in dill pickle juice and par-fried in oil. The salty pickle brine and deep-fried breading can spark intense heartburn and cramps.",
+  "prepOrOrderInstructions": "Fried & Acid Warning: Oven-bake thoroughly. If sensitive, peel away outer fried breading to eat the inner tender chicken."
+}

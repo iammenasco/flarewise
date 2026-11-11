@@ -1,0 +1,38 @@
+{
+  "id": "members-mark-chicken-salad-with-rotisserie-meat-warning",
+  "name": "Member's Mark Rotisserie Chicken Salad (Deli Tub Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "chicken-salad",
+    "deli-salad",
+    "celery-warning"
+  ],
+  "searchKeywords": [
+    "sams club chicken salad",
+    "members mark rotisserie chicken salad",
+    "deli tub",
+    "mayonnaise"
+  ],
+  "whyItWorks": "Made with chunks of pulled rotisserie chicken and mayonnaise. While chicken is gentle, the inclusion of finely diced raw celery adds sharp, stringy cellulose bits that can irritate inflamed ulcerations.",
+  "prepOrOrderInstructions": "Chew very thoroughly to break down celery pieces. Spread moderately on soft white bread or crackers."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-broccoli-cheddar-soup-tub-warning",
+  "name": "Member's Mark Broccoli Cheddar Soup (Deli Tub Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "broccoli-cheddar",
+    "dairy-warning",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "sams club broccoli soup",
+    "members mark broccoli cheddar",
+    "deli tub soup",
+    "gas warning"
+  ],
+  "whyItWorks": "Features dense broccoli florets suspended in heavy cream and cheddar cheese. Broccoli contains raffinose and insoluble cruciferous fiber, which ferments violently in the colon, producing extreme gas and abdominal cramps.",
+  "prepOrOrderInstructions": "Cruciferous & Lactose Hazard: Avoid completely if prone to gas, strictures, or active IBD."
+}

@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T13:59:12.710Z",
-  "itemCount": 1373,
+  "builtAt": "2026-11-11T14:02:58.510Z",
+  "itemCount": 1423,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -514,6 +514,47 @@
       "_sourcePath": "src/data/items/drinks-sauces/warm-salted-bone-broth-mug.json"
     },
     {
+      "id": "members-mark-liquid-egg-whites-cartons",
+      "name": "Member's Mark 100% Pure Liquid Egg Whites (6 x 16 oz Cartons)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "skillet",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "egg-whites",
+        "high-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club egg whites",
+        "members mark liquid egg whites",
+        "pure egg white",
+        "lean breakfast"
+      ],
+      "whyItWorks": "Pure pasteurized egg whites offer 100% bioavailable protein with zero fat, zero cholesterol, zero lactose, and zero fiber. It is arguably the easiest protein for a severely inflamed bowel to absorb.",
+      "prepOrOrderInstructions": "Scramble gently in a non-stick pan with light cooking spray. Pair with soft white toast and seedless jelly.",
+      "_sourcePath": "src/data/items/breakfast/members-mark-liquid-egg-whites-cartons.json"
+    },
+    {
       "id": "costco-kirkland-organic-chicken-bone-broth",
       "name": "Costco Kirkland Signature Organic Sipping Chicken Bone Broth (Carton)",
       "categoryFolder": "lunch",
@@ -556,6 +597,85 @@
         "Zero gut triggers—add a pinch of sea salt if extra sodium hydration is needed during a flare"
       ],
       "_sourcePath": "src/data/items/lunch/costco-kirkland-organic-chicken-bone-broth.json"
+    },
+    {
+      "id": "kirkland-signature-organic-jasmine-rice",
+      "name": "Kirkland Signature Organic Thai Hom Mali Jasmine Rice (50 lb Bag)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.8,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "jasmine-rice",
+        "white-rice",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco rice",
+        "kirkland jasmine rice",
+        "white rice bulk",
+        "thai hom mali"
+      ],
+      "whyItWorks": "Premium polished white jasmine rice is practically 100% absorbable starch with minimal residue. It calms nausea, regulates stool consistency, and provides clean glucose for cells without irritating the colon.",
+      "prepOrOrderInstructions": "Cook with 1.5 parts water to 1 part rice until soft and fluffy. Season simply with sea salt and a touch of olive oil.",
+      "_sourcePath": "src/data/items/produce-sides/kirkland-signature-organic-jasmine-rice.json"
+    },
+    {
+      "id": "members-mark-long-grain-enriched-white-rice",
+      "name": "Member's Mark Long Grain Enriched White Rice (25 lb Bag)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.8,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "white-rice",
+        "bulk-grain",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club rice",
+        "members mark white rice",
+        "long grain rice bulk",
+        "staple grain"
+      ],
+      "whyItWorks": "Standard polished white rice enriched with B vitamins and iron. Completely non-allergenic and low in residue, white rice absorbs fluids and calms gut spasms during acute Crohn's flares.",
+      "prepOrOrderInstructions": "Steam thoroughly with 2 parts water to 1 part rice. Season with salt and a touch of butter or olive oil.",
+      "_sourcePath": "src/data/items/produce-sides/members-mark-long-grain-enriched-white-rice.json"
     },
     {
       "id": "dca-lucky-fortune-steamed-white-rice",
@@ -681,6 +801,88 @@
       "_sourcePath": "src/data/items/lunch/holiday-leftover-turkey-bone-broth-noodle-soup.json"
     },
     {
+      "id": "kirkland-signature-boneless-skinless-chicken-breasts-frozen",
+      "name": "Kirkland Signature Boneless Skinless Chicken Breasts (Individually Wrapped)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.7,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop",
+        "toaster-oven",
+        "slow-cooker"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "chicken-breast",
+        "frozen-staple",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco frozen chicken",
+        "kirkland chicken breasts",
+        "boneless skinless",
+        "bulk protein"
+      ],
+      "whyItWorks": "The gold-standard baseline protein for Crohn's and Colitis patients. Clean, unseasoned chicken breast contains virtually zero fat and zero fiber, making it the least inflammatory whole-food protein on earth.",
+      "prepOrOrderInstructions": "Poach in salted water or bake covered with foil to keep it tender and moist. Shred over white rice or noodle broth.",
+      "_sourcePath": "src/data/items/frozen-aisle/kirkland-signature-boneless-skinless-chicken-breasts-frozen.json"
+    },
+    {
+      "id": "members-mark-individually-frozen-chicken-tenderloins",
+      "name": "Member's Mark Boneless Skinless Chicken Tenderloins (Frozen 6 lb)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.7,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop",
+        "toaster-oven",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "chicken-tenders",
+        "frozen-staple",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club frozen chicken",
+        "members mark chicken tenderloins",
+        "raw chicken tenders",
+        "lean protein"
+      ],
+      "whyItWorks": "Tenderloins are the naturally most tender cut of the chicken breast, cooking quickly without toughening. Free of marinades, breading, or additives, making them an ideal flare-safe staple.",
+      "prepOrOrderInstructions": "Poach in lightly salted water or bake in foil. Shred or dice over warm white rice or rice noodles.",
+      "_sourcePath": "src/data/items/frozen-aisle/members-mark-individually-frozen-chicken-tenderloins.json"
+    },
+    {
       "id": "towneplace-suites-draper-in-suite-kitchen-meal-hack",
       "name": "TownePlace Suites Salt Lake City Draper In-Suite Kitchen Meal (Stovetop Jasmine Rice, Bone Broth & Rotisserie Chicken)",
       "categoryFolder": "dinner",
@@ -724,6 +926,125 @@
         "Zero gut triggers—gives you a 100% controlled safety net whenever eating out in Draper feels risky"
       ],
       "_sourcePath": "src/data/items/dinner/towneplace-suites-draper-in-suite-kitchen-meal-hack.json"
+    },
+    {
+      "id": "kirkland-rotisserie-chicken-hand-pulled-breast-meat",
+      "name": "Kirkland Signature Hand-Pulled Rotisserie Chicken Breast Meat (Vacuum Pack)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.6,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "rotisserie-chicken",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco",
+        "kirkland",
+        "pulled rotisserie chicken",
+        "chicken breast",
+        "bulk protein"
+      ],
+      "whyItWorks": "Sold in the refrigerated deli cases, these bags contain 100% white breast meat stripped clean of fatty skin, wing fat, cartilage, and bones. It provides ultra-convenient, pure lean protein with zero roughage, ideal for active flare recovery.",
+      "prepOrOrderInstructions": "Eat cold right out of the bag, shred into warm white rice, or gently warm in chicken bone broth. Discard any stray bits of dark skin if found.",
+      "_sourcePath": "src/data/items/high-protein/kirkland-rotisserie-chicken-hand-pulled-breast-meat.json"
+    },
+    {
+      "id": "kirkland-signature-organic-unsweetened-applesauce-pouches",
+      "name": "Kirkland Signature Organic Unsweetened Applesauce Pouches",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.6,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "applesauce",
+        "pectin",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco applesauce",
+        "kirkland applesauce pouches",
+        "unsweetened applesauce",
+        "soluble fiber"
+      ],
+      "whyItWorks": "Cooked and finely pureed peeled apples provide soothing soluble pectin without harsh insoluble skin flakes. Soluble pectin forms a protective gel that helps firm up loose bowel movements during flare recovery.",
+      "prepOrOrderInstructions": "Ready to eat directly from the squeeze pouch at room temperature or chilled. A perfect portable emergency flare snack.",
+      "_sourcePath": "src/data/items/snacks-desserts/kirkland-signature-organic-unsweetened-applesauce-pouches.json"
+    },
+    {
+      "id": "members-mark-unsweetened-applesauce-cups",
+      "name": "Member's Mark Organic Unsweetened Applesauce Cups (36-Pack)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.6,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "applesauce",
+        "soluble-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club applesauce",
+        "members mark organic applesauce",
+        "applesauce cups",
+        "bulk snack"
+      ],
+      "whyItWorks": "Peeled and steamed organic apples pureed smooth without added sugar or corn syrup. Soluble pectin coats the intestinal wall and supports stool formation during diarrheal episodes.",
+      "prepOrOrderInstructions": "Eat at room temperature or chilled. Excellent soothing snack when the stomach is upset.",
+      "_sourcePath": "src/data/items/snacks-desserts/members-mark-unsweetened-applesauce-cups.json"
     },
     {
       "id": "dcl-room-service-chicken-noodle-soup",
@@ -1513,6 +1834,46 @@
       "_sourcePath": "src/data/items/asian-indian/japanese-chicken-udon-soup.json"
     },
     {
+      "id": "kirkland-signature-organic-alaskan-sockeye-salmon-filets",
+      "name": "Kirkland Signature Wild Alaskan Sockeye Salmon Filets (Frozen)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "wild-salmon",
+        "frozen-seafood",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco frozen salmon",
+        "kirkland sockeye salmon",
+        "wild salmon filets",
+        "omega 3"
+      ],
+      "whyItWorks": "Individually vacuum-sealed wild sockeye salmon portions provide premium EPA and DHA omega-3 fatty acids, proven to exert anti-inflammatory effects on the intestinal mucosa. Bakes up moist, tender, and easily absorbed.",
+      "prepOrOrderInstructions": "Thaw in refrigerator. Bake or pan-sear with a drizzle of olive oil and sea salt. Pair with steamed white jasmine rice.",
+      "_sourcePath": "src/data/items/frozen-aisle/kirkland-signature-organic-alaskan-sockeye-salmon-filets.json"
+    },
+    {
       "id": "lactose-free-herbed-ranch-swap",
       "name": "Lactose-Free Greek Yogurt Herbed Ranch Dip",
       "categoryFolder": "drinks-sauces",
@@ -1633,6 +1994,47 @@
       "whyItWorks": "Puffed white rice has 0g insoluble fiber and dissolves into harmless starch the second it hits liquid. Rice Chex is also certified gluten-free.",
       "prepOrOrderInstructions": "Let soak in cold lactose-free or almond milk for 60-90 seconds with a drizzle of honey or maple syrup.",
       "_sourcePath": "src/data/items/breakfast/malt-o-meal-crispy-rice.json"
+    },
+    {
+      "id": "members-mark-hand-pulled-rotisserie-chicken-breast",
+      "name": "Member's Mark Hand-Pulled Rotisserie Chicken Breast Meat (Deli Tub)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "rotisserie-chicken",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club",
+        "members mark",
+        "pulled rotisserie chicken",
+        "chicken breast",
+        "deli tub"
+      ],
+      "whyItWorks": "Freshly stripped tender white chicken breast packaged without bones, heavy skin fat, or gristle. A lifesaver for busy weeknights or flare recovery when cooking raw poultry is exhausting.",
+      "prepOrOrderInstructions": "Eat chilled, warm gently in microwave or skillet, or add to chicken noodle soup or plain white rice.",
+      "_sourcePath": "src/data/items/high-protein/members-mark-hand-pulled-rotisserie-chicken-breast.json"
     },
     {
       "id": "nigiri-sashimi-sushi",
@@ -2471,6 +2873,124 @@
       "_sourcePath": "src/data/items/produce-sides/holiday-creamy-mashed-idaho-potatoes.json"
     },
     {
+      "id": "kirkland-signature-canned-pink-salmon-wild-alaska",
+      "name": "Kirkland Signature Wild Alaska Pink Salmon (Canned in Water)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.4,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "canned-salmon",
+        "wild-salmon",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco canned salmon",
+        "kirkland pink salmon",
+        "canned seafood",
+        "pantry protein"
+      ],
+      "whyItWorks": "Cooked right in the can with water and salt, the tender salmon flakes are rich in anti-inflammatory omega-3 fats. Pressure-cooking softens tiny calcium-rich bones so they dissolve effortlessly without roughage.",
+      "prepOrOrderInstructions": "Drain and flake with a fork. Mix with a dab of light mayonnaise and spread onto white toast or stir into warm rice.",
+      "_sourcePath": "src/data/items/high-protein/kirkland-signature-canned-pink-salmon-wild-alaska.json"
+    },
+    {
+      "id": "members-mark-chilled-atlantic-salmon-filets-fresh",
+      "name": "Member's Mark Fresh Farm-Raised Atlantic Salmon Filets",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.4,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "atlantic-salmon",
+        "fresh-seafood",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club fresh salmon",
+        "members mark atlantic salmon",
+        "salmon filets",
+        "omega 3"
+      ],
+      "whyItWorks": "High-fat marine protein rich in natural anti-inflammatory omega-3 fatty acids. Skinless salmon cooked simply in olive oil produces zero abrasive roughage, soothing mucosal irritation.",
+      "prepOrOrderInstructions": "Bake or pan-sear simply with olive oil and salt. Discard grey bloodline or skin if fat sensitivity is high.",
+      "_sourcePath": "src/data/items/high-protein/members-mark-chilled-atlantic-salmon-filets-fresh.json"
+    },
+    {
+      "id": "members-mark-canned-chunk-chicken-breast-in-water",
+      "name": "Member's Mark Premium Chunk Chicken Breast in Water (6 x 12.5 oz Cans)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.4,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "canned-chicken",
+        "chicken-breast",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club canned chicken",
+        "members mark chunk chicken",
+        "chicken breast in water",
+        "pantry protein"
+      ],
+      "whyItWorks": "White chicken breast chunks cooked in water and salt. The meat is tender, flaky, and breaks down effortlessly with minimal mastication, supplying clean protein during low-residue recovery.",
+      "prepOrOrderInstructions": "Drain broth. Mix with a little olive oil or light mayo, or stir directly into warm white rice or chicken noodle broth.",
+      "_sourcePath": "src/data/items/high-protein/members-mark-canned-chunk-chicken-breast-in-water.json"
+    },
+    {
       "id": "holiday-leftover-turkey-rice-bone-broth-soup",
       "name": "Post-Holiday Leftover Roast Turkey, White Rice & Bone Broth Soup",
       "categoryFolder": "dinner",
@@ -2676,6 +3196,84 @@
         "None; exceptional flare-safe recovery meal"
       ],
       "_sourcePath": "src/data/items/dinner/holiday-scratch-turkey-gravy-white-rice.json"
+    },
+    {
+      "id": "kirkland-signature-canned-white-albacore-tuna-in-water",
+      "name": "Kirkland Signature Solid White Albacore Tuna in Water (Canned 8-Pack)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "canned-tuna",
+        "albacore",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco canned tuna",
+        "kirkland albacore",
+        "white tuna in water",
+        "pantry protein"
+      ],
+      "whyItWorks": "Solid loins of albacore tuna packed in water without added vegetable oils or broths. Packs over 30g of pure, easily digested protein per can with zero carbohydrates or insoluble fiber.",
+      "prepOrOrderInstructions": "Drain water thoroughly. Eat plain or seasoned with a touch of salt and olive oil. Avoid mixing with raw onions, celery, or relish.",
+      "_sourcePath": "src/data/items/high-protein/kirkland-signature-canned-white-albacore-tuna-in-water.json"
+    },
+    {
+      "id": "members-mark-canned-wild-alaska-pink-salmon",
+      "name": "Member's Mark Wild Alaska Pink Salmon (Canned in Water 6-Pack)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "canned-salmon",
+        "pink-salmon",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club canned salmon",
+        "members mark pink salmon",
+        "wild salmon in water",
+        "pantry seafood"
+      ],
+      "whyItWorks": "Wild-caught pink salmon packed in water with natural marine omega-3s. High in natural vitamins and clean lean protein without harsh roughage or inflammatory additives.",
+      "prepOrOrderInstructions": "Drain and flake with a fork. Enjoy over white toast or alongside steamed potatoes.",
+      "_sourcePath": "src/data/items/high-protein/members-mark-canned-wild-alaska-pink-salmon.json"
     },
     {
       "id": "sams-club-cafe-rotisserie-chicken",
@@ -2966,6 +3564,85 @@
         "Discard the included lemon wedges (citrus trigger) and avoid heavy horseradish-chili cocktail sauce"
       ],
       "_sourcePath": "src/data/items/dinner/holiday-chilled-shrimp-cocktail-ring.json"
+    },
+    {
+      "id": "kirkland-signature-tail-on-cooked-shrimp-cocktail-platter",
+      "name": "Kirkland Signature Chilled Cooked Tail-On Shrimp Cocktail Platter",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "shrimp-cocktail",
+        "seafood",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco shrimp cocktail",
+        "kirkland chilled shrimp",
+        "cooked shrimp platter",
+        "costco deli"
+      ],
+      "whyItWorks": "Peeled, deveined, perfectly steamed tail-on shrimp ready to eat from the deli case. Shrimp is virtually fat-free, completely fiber-free, and delivers clean bioavailable marine protein that places zero strain on inflamed bowel segments.",
+      "prepOrOrderInstructions": "Eat the chilled shrimp plain or with a light pinch of salt. Avoid dipping into the included horseradish cocktail sauce during active symptoms.",
+      "_sourcePath": "src/data/items/produce-sides/kirkland-signature-tail-on-cooked-shrimp-cocktail-platter.json"
+    },
+    {
+      "id": "kirkland-signature-deli-sliced-oven-roasted-turkey-breast",
+      "name": "Kirkland Signature Sliced Oven-Roasted Turkey Breast (3 x 14 oz)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "deli-turkey",
+        "lunch-meat",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "costco sliced turkey",
+        "kirkland deli turkey",
+        "oven roasted turkey breast",
+        "lunch meat"
+      ],
+      "whyItWorks": "Whole-muscle turkey breast roasted and sliced thin without casing, dairy binders, or high fat fillers. It is gentle on the GI tract, offering fast protein for quick sandwich lunches.",
+      "prepOrOrderInstructions": "Layer slices onto plain sourdough or white bread. Pair with potato chips or applesauce.",
+      "_sourcePath": "src/data/items/high-protein/kirkland-signature-deli-sliced-oven-roasted-turkey-breast.json"
     },
     {
       "id": "knotts-berry-market-seedless-boysenberry-jelly-jar",
@@ -3518,6 +4195,46 @@
         "Use canned seedless jellied cranberry sauce only—never use homemade orange-zest whole-berry cranberry relish (citrus + skin triggers)"
       ],
       "_sourcePath": "src/data/items/lunch/holiday-leftover-turkey-cranberry-sourdough-sandwich.json"
+    },
+    {
+      "id": "members-mark-shrimp-cocktail-tray-with-cocktail-sauce",
+      "name": "Member's Mark Steamed Tail-On Shrimp Cocktail Tray",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "shrimp-cocktail",
+        "seafood",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "sams club shrimp cocktail",
+        "members mark shrimp platter",
+        "tail on shrimp",
+        "deli seafood"
+      ],
+      "whyItWorks": "Fresh steamed tail-on shrimp ready to eat cold. It delivers clean lean protein with zero saturated fat, zero gluten, and zero insoluble fiber, resting the lower digestive tract completely.",
+      "prepOrOrderInstructions": "Eat the chilled shrimp plain or with a light squeeze of lemon. Skip the included spicy cocktail sauce during active gut symptoms.",
+      "_sourcePath": "src/data/items/produce-sides/members-mark-shrimp-cocktail-tray-with-cocktail-sauce.json"
     },
     {
       "id": "knotts-mrs-knotts-chicken-noodle-soup-biscuits",
@@ -9487,6 +10204,45 @@
       "_sourcePath": "src/data/items/breakfast/holiday-inn-express-herriman-cheese-omelet-patty.json"
     },
     {
+      "id": "kirkland-signature-organic-pure-maple-syrup",
+      "name": "Kirkland Signature Organic Pure Maple Syrup (Grade A Amber)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "maple-syrup",
+        "sweetener",
+        "pantry"
+      ],
+      "searchKeywords": [
+        "costco maple syrup",
+        "kirkland organic maple syrup",
+        "grade a amber",
+        "natural sweetener"
+      ],
+      "whyItWorks": "100% pure maple syrup with zero high-fructose corn syrup, artificial colors, or chemical preservatives. It is balanced in glucose and sucrose, making it far gentler on small intestine absorption than artificial sweeteners or excessive raw honey.",
+      "prepOrOrderInstructions": "Drizzle moderately over plain oatmeal, pancakes, white toast, or waffles. Contains zero fat and zero rough fiber.",
+      "_sourcePath": "src/data/items/drinks-sauces/kirkland-signature-organic-pure-maple-syrup.json"
+    },
+    {
       "id": "knotts-calico-saloon-giant-pretzel-sarsaparilla",
       "name": "Knott's Calico Saloon & Pretzel Carts Warm Bavarian Soft Pretzel (Plain, No Cheese)",
       "categoryFolder": "snacks-desserts",
@@ -10218,6 +10974,46 @@
         "Substitute extra mashed potatoes for the whole kernel sweet corn"
       ],
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-herb-roasted-half-chicken.json"
+    },
+    {
+      "id": "members-mark-sliced-artisan-sourdough-bread",
+      "name": "Member's Mark Artisan Sourdough Sandwich Bread (2-Pack)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 8.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "sourdough",
+        "bakery",
+        "bread"
+      ],
+      "searchKeywords": [
+        "sams club sourdough",
+        "members mark artisan bread",
+        "sandwich bread",
+        "sourdough loaf"
+      ],
+      "whyItWorks": "Pre-sliced sourdough bread made with fermented starter. The fermentation process lowers gluten elasticity and fructan content, easing digestion compared to standard sandwich white bread.",
+      "prepOrOrderInstructions": "Toast lightly for breakfast toast or sandwiches. Soft crumb is very easy to chew.",
+      "_sourcePath": "src/data/items/breakfast/members-mark-sliced-artisan-sourdough-bread.json"
     },
     {
       "id": "knotts-mrs-knotts-hot-roast-turkey-mashed-potatoes",
@@ -11234,6 +12030,47 @@
         "None; reliable and soft travel carbohydrate"
       ],
       "_sourcePath": "src/data/items/breakfast/holiday-inn-express-herriman-one-touch-pancakes.json"
+    },
+    {
+      "id": "kirkland-signature-artisan-sourdough-round",
+      "name": "Kirkland Signature Artisan Country French Sourdough Bread",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 8.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "sourdough",
+        "bakery",
+        "fermented-bread"
+      ],
+      "searchKeywords": [
+        "costco sourdough",
+        "kirkland artisan bread",
+        "french sourdough",
+        "costco bakery"
+      ],
+      "whyItWorks": "Made with wild sourdough starter, water, flour, and salt. The slow 24-hour lactobacillus fermentation degrades fructans and wheat phytates, making authentic sourdough exceptionally gentle on sensitive IBD bowels.",
+      "prepOrOrderInstructions": "Slice and toast lightly. Discard overly hard or charred outer crust edges if dealing with active strictures.",
+      "_sourcePath": "src/data/items/breakfast/kirkland-signature-artisan-sourdough-round.json"
     },
     {
       "id": "knotts-boardwalk-bbq-smoked-half-chicken",
@@ -18496,6 +19333,45 @@
       "_sourcePath": "src/data/items/dinner/holiday-slow-roasted-prime-rib-au-jus.json"
     },
     {
+      "id": "kirkland-signature-greek-yogurt-plain-nonfat",
+      "name": "Kirkland Signature Organic Plain Nonfat Greek Yogurt",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 8.4,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "greek-yogurt",
+        "probiotics",
+        "lean-protein"
+      ],
+      "searchKeywords": [
+        "costco greek yogurt",
+        "kirkland plain yogurt",
+        "nonfat yogurt",
+        "live cultures"
+      ],
+      "whyItWorks": "Traditional triple-straining removes most of the liquid whey, leaving dense protein and live active probiotic cultures with substantially less lactose than regular milk. Completely fat-free and smooth.",
+      "prepOrOrderInstructions": "Enjoy chilled with a drizzle of pure maple syrup. Tolerated well by many who cannot drink fluid milk.",
+      "_sourcePath": "src/data/items/breakfast/kirkland-signature-greek-yogurt-plain-nonfat.json"
+    },
+    {
       "id": "knotts-boardwalk-bbq-cornbread-muffin-mac-cheese-sides",
       "name": "Knott's Boardwalk BBQ Warm Honey Cornbread Muffin & Creamy Mashed Potatoes / Mac & Cheese Sides",
       "categoryFolder": "produce-sides",
@@ -24984,6 +25860,46 @@
       "_sourcePath": "src/data/items/snacks-desserts/jumbeauxs-sweets-paw-shortbread-rice-crispy.json"
     },
     {
+      "id": "kirkland-signature-plain-water-bagels",
+      "name": "Kirkland Signature Plain Water Bagels (Bakery 2-Pack)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "bagels",
+        "bakery",
+        "plain-bread"
+      ],
+      "searchKeywords": [
+        "costco bagels",
+        "kirkland plain bagels",
+        "water bagels",
+        "costco bakery"
+      ],
+      "whyItWorks": "Traditional boiled and baked plain bagels made from enriched unbleached flour without seeds, onion flakes, or whole grains. Provides easily digested complex carbohydrates that help bind the stool.",
+      "prepOrOrderInstructions": "Toast lightly to soften the interior. Top with dairy-free spread, seedless jelly, or sliced turkey breast. Avoid everything bagels with seeds and garlic.",
+      "_sourcePath": "src/data/items/breakfast/kirkland-signature-plain-water-bagels.json"
+    },
+    {
       "id": "knotts-baja-taqueria-grilled-fish-chicken-soft-tacos",
       "name": "Knott's Baja Taqueria (Fiesta Village) Grilled Fish or Chicken Soft Tacos (No Cabbage Slaw / No Crema Mod)",
       "categoryFolder": "mexican-southwest",
@@ -25439,6 +26355,45 @@
         "High maple syrup sugar load if poured heavily"
       ],
       "_sourcePath": "src/data/items/breakfast/dcl-very-very-french-toast.json"
+    },
+    {
+      "id": "members-mark-deli-sliced-honey-ham",
+      "name": "Member's Mark Extra Lean Sliced Honey Ham (Deli 2 lb)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "deli-ham",
+        "lunch-meat",
+        "lean-protein"
+      ],
+      "searchKeywords": [
+        "sams club deli ham",
+        "members mark honey ham",
+        "sliced ham",
+        "lunch meat"
+      ],
+      "whyItWorks": "Extra lean sliced deli ham with 97% fat-free profile. Thinly shaved with low gristle, it supplies easy protein without heavy cooking oils or tough connective tissue.",
+      "prepOrOrderInstructions": "Layer onto white bread or roll up plain for a quick high-protein snack. Discard visible outer edge fat.",
+      "_sourcePath": "src/data/items/high-protein/members-mark-deli-sliced-honey-ham.json"
     },
     {
       "id": "mickeys-smokestack-beef-brisket",
@@ -29773,6 +30728,47 @@
         "Remove outer fried crust during active digestive symptoms"
       ],
       "_sourcePath": "src/data/items/dinner/labeaus-garden-city-golden-halibut-basket.json"
+    },
+    {
+      "id": "members-mark-all-butter-brioche-buns",
+      "name": "Member's Mark All-Butter French Brioche Hamburger Buns (Bakery 12-Pack)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 7.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "brioche-buns",
+        "bakery",
+        "soft-bread"
+      ],
+      "searchKeywords": [
+        "sams club brioche buns",
+        "members mark french brioche",
+        "burger buns",
+        "soft bakery bread"
+      ],
+      "whyItWorks": "Soft, golden, enriched French buns with a pillowy crumb. They contain zero seeds, rough bran, or hard crusts, providing gentle carbohydrates that dissolve easily during digestion.",
+      "prepOrOrderInstructions": "Enjoy fresh or lightly toasted with sliced turkey, plain burger patties, or seedless jelly.",
+      "_sourcePath": "src/data/items/breakfast/members-mark-all-butter-brioche-buns.json"
     },
     {
       "id": "mortys-cafe-logan-classic-single-burger",
@@ -39089,6 +40085,46 @@
       "_sourcePath": "src/data/items/breakfast/holiday-inn-express-herriman-cinnamon-roll-pancake-bar.json"
     },
     {
+      "id": "kirkland-signature-beef-bulgogi-deli-marinated",
+      "name": "Kirkland Signature USDA Choice Beef Bulgogi (Deli Marinated)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 7.4,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Korean",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "beef-bulgogi",
+        "korean",
+        "take-and-bake"
+      ],
+      "searchKeywords": [
+        "costco beef bulgogi",
+        "kirkland marinated beef",
+        "korean bbq",
+        "costco deli"
+      ],
+      "whyItWorks": "Thinly shaved USDA Choice beef ribeye marinated in sweet soy sauce, pear puree, and sesame oil. Thinly sliced ribeye cooks rapidly and is remarkably tender and easy to chew, but sesame seeds and onion juice require stable remission.",
+      "prepOrOrderInstructions": "Saute in a hot nonstick skillet until fully browned. Serve over a large bowl of plain white jasmine rice to dilute the sweet marinade.",
+      "_sourcePath": "src/data/items/asian-indian/kirkland-signature-beef-bulgogi-deli-marinated.json"
+    },
+    {
       "id": "knotts-gourmet-churro-bavarian-cream-stuffed",
       "name": "Knott's Gourmet Churro Factory Bavarian Vanilla Cream Stuffed Churro",
       "categoryFolder": "snacks-desserts",
@@ -39642,6 +40678,45 @@
         "High dairy cream and sugar—enjoy a modest portion with lactase"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/disneyland-river-belle-terrace-sticky-toffee-banana-pudding.json"
+    },
+    {
+      "id": "kirkland-signature-deli-meatloaf-with-mashed-potatoes",
+      "name": "Kirkland Signature Meatloaf with Yukon Gold Mashed Potatoes",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 7.3,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "meatloaf",
+        "mashed-potatoes",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "costco meatloaf",
+        "kirkland meatloaf mashed potatoes",
+        "take and bake",
+        "costco deli"
+      ],
+      "whyItWorks": "Tender ground beef and pork meatloaf topped with a sweet tomato glaze paired with smooth, peeled Yukon Gold mashed potatoes. The mashed potatoes are very gentle; the meatloaf contains moderate onion and breadcrumbs requiring good baseline digestion.",
+      "prepOrOrderInstructions": "Bake as directed until hot. The mashed potatoes are the safest component; eat moderate slices of meatloaf and avoid extra spicy barbecue additions.",
+      "_sourcePath": "src/data/items/dinner/kirkland-signature-deli-meatloaf-with-mashed-potatoes.json"
     },
     {
       "id": "labeaus-garden-city-butterfly-shrimp-basket",
@@ -41067,6 +42142,46 @@
       "_sourcePath": "src/data/items/breakfast/herms-inn-logan-canyon-cinnamon-swirl-pancakes.json"
     },
     {
+      "id": "kirkland-signature-deli-chicken-quesadillas",
+      "name": "Kirkland Signature Deli Chicken Quesadillas with Salsa & Guacamole",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 7.1,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "quesadilla",
+        "mexican",
+        "take-and-bake"
+      ],
+      "searchKeywords": [
+        "costco quesadillas",
+        "kirkland chicken quesadilla",
+        "costco deli",
+        "flour tortilla"
+      ],
+      "whyItWorks": "Flour tortillas filled with shredded chicken breast and mild cheddar/jack cheese. Heating on a dry skillet creates a warm, soft meal with gentle protein and carbs.",
+      "prepOrOrderInstructions": "Cook on a skillet until cheese melts. Skip the side salsa and sour cream if sensitive to spice and dairy.",
+      "_sourcePath": "src/data/items/mexican-southwest/kirkland-signature-deli-chicken-quesadillas.json"
+    },
+    {
       "id": "knotts-log-ride-vanilla-soft-serve-cone",
       "name": "Knott's Log Ride Funnel Cake Stand Plain Vanilla or Boysenberry Twist Soft-Serve Cup (Take Lactase)",
       "categoryFolder": "snacks-desserts",
@@ -41144,6 +42259,45 @@
         "Deep-fried dough carries oil; share with tablemates"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/knotts-sutters-plain-powdered-sugar-funnel-cake.json"
+    },
+    {
+      "id": "members-mark-rotisserie-chicken-enchiladas-verde",
+      "name": "Member's Mark Chicken Enchiladas with Salsa Verde (Take & Bake)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 7.1,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "enchiladas",
+        "mexican",
+        "take-and-bake"
+      ],
+      "searchKeywords": [
+        "sams club enchiladas",
+        "members mark chicken enchiladas",
+        "salsa verde",
+        "take and bake"
+      ],
+      "whyItWorks": "Soft corn tortillas stuffed with shredded rotisserie chicken and mild green tomatillo salsa verde, topped with melted Monterey Jack. Tomatillo acidity and cheese make it a remission food.",
+      "prepOrOrderInstructions": "Bake until heated through. Scrape off excess melted cheese if lactose sensitive, and enjoy with plain white rice.",
+      "_sourcePath": "src/data/items/mexican-southwest/members-mark-rotisserie-chicken-enchiladas-verde.json"
     },
     {
       "id": "sams-club-cafe-ice-cream-root-beer-float",
@@ -42439,6 +43593,46 @@
         "Heavy dairy cream"
       ],
       "_sourcePath": "src/data/items/dinner/mama-odies-creamy-tomato-soup.json"
+    },
+    {
+      "id": "members-mark-seasoned-pulled-pork-bbq-tub",
+      "name": "Member's Mark Hickory Smoked Pulled Pork (Deli Tub)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 7,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "pulled-pork",
+        "bbq",
+        "smoked-meat"
+      ],
+      "searchKeywords": [
+        "sams club pulled pork",
+        "members mark smoked pork",
+        "bbq tub",
+        "deli pork"
+      ],
+      "whyItWorks": "Slow-smoked pork shoulder shredded into tender strands in sweet barbecue sauce. Pork is very soft and easy to chew, but sweet barbecue sauce and vinegar require moderate gut tolerance.",
+      "prepOrOrderInstructions": "Warm gently in microwave or skillet. Serve on a plain white hamburger bun or over white rice. Avoid adding spicy hot sauces.",
+      "_sourcePath": "src/data/items/dinner/members-mark-seasoned-pulled-pork-bbq-tub.json"
     },
     {
       "id": "plaza-de-coco-cappuccino-creme-brulee-cheesecake",
@@ -44252,6 +45446,45 @@
       "_sourcePath": "src/data/items/dinner/disneyland-plaza-inn-fried-chicken-mashed-potatoes.json"
     },
     {
+      "id": "kirkland-signature-deli-rotisserie-chicken-enchilada-bake",
+      "name": "Kirkland Signature Rotisserie Chicken Enchilada Bake",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 6.9,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "enchiladas",
+        "mexican",
+        "take-and-bake"
+      ],
+      "searchKeywords": [
+        "costco enchilada bake",
+        "kirkland chicken enchiladas",
+        "take and bake",
+        "costco deli"
+      ],
+      "whyItWorks": "Layered corn tortillas, tender pulled rotisserie chicken, mild red enchilada sauce, and melted Monterey Jack/cheddar cheese. Soft corn tortillas and chicken are low-residue, but melted cheese and tomato spices place it in the remission tier.",
+      "prepOrOrderInstructions": "Bake until bubbling. Remove outer heavy melted cheese crust if fat-sensitive. Best paired with side steamed white rice.",
+      "_sourcePath": "src/data/items/mexican-southwest/kirkland-signature-deli-rotisserie-chicken-enchilada-bake.json"
+    },
+    {
       "id": "knotts-strictly-on-a-stick-corn-dog",
       "name": "Knott's Strictly-on-a-Stick Hand-Dipped Corn Dog or Mozzarella/Cheddar Cheese on a Stick",
       "categoryFolder": "diner-bbq",
@@ -44894,6 +46127,45 @@
       "_sourcePath": "src/data/items/dinner/labeaus-halibut-and-chips-basket.json"
     },
     {
+      "id": "members-mark-chicken-salad-with-rotisserie-meat-warning",
+      "name": "Member's Mark Rotisserie Chicken Salad (Deli Tub Warning)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 6.8,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "chicken-salad",
+        "deli-salad",
+        "celery-warning"
+      ],
+      "searchKeywords": [
+        "sams club chicken salad",
+        "members mark rotisserie chicken salad",
+        "deli tub",
+        "mayonnaise"
+      ],
+      "whyItWorks": "Made with chunks of pulled rotisserie chicken and mayonnaise. While chicken is gentle, the inclusion of finely diced raw celery adds sharp, stringy cellulose bits that can irritate inflamed ulcerations.",
+      "prepOrOrderInstructions": "Chew very thoroughly to break down celery pieces. Spread moderately on soft white bread or crackers.",
+      "_sourcePath": "src/data/items/lunch/members-mark-chicken-salad-with-rotisserie-meat-warning.json"
+    },
+    {
       "id": "some-beaches-north-beach-pineapple-pork",
       "name": "Some Beaches \"North Beach\" Grilled Pineapple Pulled Pork Burger",
       "categoryFolder": "diner-bbq",
@@ -45096,6 +46368,46 @@
       "_sourcePath": "src/data/items/snacks-desserts/dca-terran-treats-cosmic-cream-orb-churro.json"
     },
     {
+      "id": "members-mark-take-and-bake-five-cheese-pizza",
+      "name": "Member's Mark 16\" Five Cheese Take 'N Bake Pizza",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 6.7,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "cheese-pizza",
+        "take-and-bake",
+        "pizza"
+      ],
+      "searchKeywords": [
+        "sams club pizza",
+        "members mark take and bake pizza",
+        "five cheese pizza",
+        "deli pizza"
+      ],
+      "whyItWorks": "Soft pizzeria-style crust topped with mild tomato sauce, mozzarella, provolone, cheddar, and parmesan. Far safer than pepperoni or sausage pizzas, though dairy fat requires good tolerance.",
+      "prepOrOrderInstructions": "Bake until cheese is lightly melted. Dab top with a paper towel to remove pooled butterfat.",
+      "_sourcePath": "src/data/items/italian-med/members-mark-take-and-bake-five-cheese-pizza.json"
+    },
+    {
       "id": "mortys-cafe-logan-scone-fries",
       "name": "Morty's Cafe Utah Scone Fries with Honey Butter & Powdered Sugar",
       "categoryFolder": "snacks-desserts",
@@ -45259,6 +46571,45 @@
         "Deep-fried flour tortilla carries high oil content"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/cafe-sabor-logan-garden-city-crispy-golden-chimichanga-warning.json"
+    },
+    {
+      "id": "kirkland-signature-organic-creamy-peanut-butter-warning",
+      "name": "Kirkland Signature Organic Creamy Peanut Butter (Valencia Peanuts)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 6.6,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "peanut-butter",
+        "fats-warning",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "costco peanut butter",
+        "kirkland organic peanut butter",
+        "valencia peanuts",
+        "nut butter"
+      ],
+      "whyItWorks": "Contains only dry roasted organic peanuts and sea salt with no palm oil or added sugar. Creamy purees eliminate mechanical obstruction risks from whole nuts, but high lipid content can trigger motility if eaten in large amounts.",
+      "prepOrOrderInstructions": "Remission Food: Spread thinly (1 tablespoon max) on white toast or rice crackers. Avoid during acute flare-ups.",
+      "_sourcePath": "src/data/items/produce-sides/kirkland-signature-organic-creamy-peanut-butter-warning.json"
     },
     {
       "id": "labeaus-pastrami-burger",
@@ -49945,6 +51296,47 @@
       "_sourcePath": "src/data/items/snacks-desserts/knotts-pemmican-pickle-skin-seed-warning.json"
     },
     {
+      "id": "members-mark-southern-style-waffle-fries-frozen-warning",
+      "name": "Member's Mark Southern Style Waffle French Fries (Frozen Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 5.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "waffle-fries",
+        "french-fries",
+        "fried-food"
+      ],
+      "searchKeywords": [
+        "sams club waffle fries",
+        "members mark frozen fries",
+        "southern style fries",
+        "frozen potato"
+      ],
+      "whyItWorks": "Waffle-cut potatoes coated in seasoned flour batter and par-fried in vegetable shortening. Dense frying oils and crispy sharp ridges irritate delicate bowel tissue.",
+      "prepOrOrderInstructions": "Fried Food Warning: Best reserved for remission. Limit portion to 4-5 pieces and bake rather than fry.",
+      "_sourcePath": "src/data/items/frozen-aisle/members-mark-southern-style-waffle-fries-frozen-warning.json"
+    },
+    {
       "id": "merrytime-mexican-riviera-taquitos-bunuelos",
       "name": "Merrytime Mexican Riviera Crispy Chicken/Beef Taquitos & Cinnamon Buñuelos",
       "categoryFolder": "mexican-southwest",
@@ -50888,6 +52280,86 @@
       "_sourcePath": "src/data/items/produce-sides/holiday-sweet-potato-casserole-pecans-warning.json"
     },
     {
+      "id": "kirkland-signature-all-butter-croissants-warning",
+      "name": "Kirkland Signature All-Butter Croissants (Bakery 12-Pack Warning)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 5.4,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "croissants",
+        "bakery",
+        "butter-fat"
+      ],
+      "searchKeywords": [
+        "costco croissants",
+        "kirkland butter croissants",
+        "costco bakery",
+        "high fat pastry"
+      ],
+      "whyItWorks": "Laminated dough alternating layers of flour and European butter. Each croissant packs nearly 18g of pure butter fat. Saturated fat overload accelerates stomach emptying and causes sudden diarrhea in compromised guts.",
+      "prepOrOrderInstructions": "High Fat Warning: Eat only half a croissant during remission. Skip during flare-ups in favor of a plain water bagel or toast.",
+      "_sourcePath": "src/data/items/breakfast/kirkland-signature-all-butter-croissants-warning.json"
+    },
+    {
+      "id": "members-mark-all-beef-cocktail-meatballs-sweet-chili-warning",
+      "name": "Member's Mark Cocktail Beef Meatballs with Sweet Chili Sauce (Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 5.4,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "slow-cooker"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "meatballs",
+        "sweet-chili",
+        "allium-warning"
+      ],
+      "searchKeywords": [
+        "sams club meatballs",
+        "members mark cocktail meatballs",
+        "sweet chili meatballs",
+        "party appetizers"
+      ],
+      "whyItWorks": "Pre-cooked beef and pork meatballs packed with granulated onion, garlic powder, and glazed with spicy sweet chili pepper sauce. Concentrated alliums and chili seeds provoke gastric reflux and mucosal cramping.",
+      "prepOrOrderInstructions": "Allium & Chili Warning: Avoid during flares. In remission, rinse off sweet chili glaze or eat plain meatballs.",
+      "_sourcePath": "src/data/items/dinner/members-mark-all-beef-cocktail-meatballs-sweet-chili-warning.json"
+    },
+    {
       "id": "aubergine-kitchen-warm-acai-bowl-seeds-warning",
       "name": "Aubergine Kitchen (Orem & Lehi, UT) Signature Açai Smoothie Bowl (Seed & Granola Warning)",
       "categoryFolder": "breakfast",
@@ -51015,6 +52487,46 @@
         "Raw romaine lettuce and garlic lemon dressing cause cramping"
       ],
       "_sourcePath": "src/data/items/produce-sides/dca-pym-test-kitchen-caesar-salad-crouton-warning.json"
+    },
+    {
+      "id": "members-mark-southern-style-chicken-bites-warning",
+      "name": "Member's Mark Southern Style Chicken Bites (Breaded Breast Chunks Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 5.3,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "chicken-bites",
+        "fried-chicken",
+        "frozen-aisle"
+      ],
+      "searchKeywords": [
+        "sams club chicken bites",
+        "members mark southern chicken",
+        "chick fil a copycat",
+        "frozen nuggets"
+      ],
+      "whyItWorks": "Famous as a Chick-fil-A copycat nugget, these breaded chicken breast chunks are brined in dill pickle juice and par-fried in oil. The salty pickle brine and deep-fried breading can spark intense heartburn and cramps.",
+      "prepOrOrderInstructions": "Fried & Acid Warning: Oven-bake thoroughly. If sensitive, peel away outer fried breading to eat the inner tender chicken.",
+      "_sourcePath": "src/data/items/frozen-aisle/members-mark-southern-style-chicken-bites-warning.json"
     },
     {
       "id": "aggie-ice-cream-usu-logan-true-aggie-night-seed-warning",
@@ -51336,6 +52848,85 @@
         "Raw cranberry skins and orange citric acid irritate mucosal tissue"
       ],
       "_sourcePath": "src/data/items/produce-sides/holiday-whole-cranberry-orange-relish-warning.json"
+    },
+    {
+      "id": "kirkland-signature-tempura-shrimp-frozen-warning",
+      "name": "Kirkland Signature Panko Battered Tempura Shrimp (Frozen Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 5.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "tempura-shrimp",
+        "fried-food",
+        "frozen-aisle"
+      ],
+      "searchKeywords": [
+        "costco tempura shrimp",
+        "kirkland frozen shrimp",
+        "panko shrimp",
+        "fried seafood"
+      ],
+      "whyItWorks": "Tail-on shrimp dipped in thick batter and par-fried in vegetable oil. Reheating in the oven produces a crunchy, oil-laden coating that can scrape inflamed tissue and stimulate rapid bile release.",
+      "prepOrOrderInstructions": "Fried Food Warning: Better to peel off the fried batter coating and consume the tender shrimp meat inside.",
+      "_sourcePath": "src/data/items/frozen-aisle/kirkland-signature-tempura-shrimp-frozen-warning.json"
+    },
+    {
+      "id": "members-mark-stuffed-bell-peppers-beef-rice-warning",
+      "name": "Member's Mark Stuffed Bell Peppers with Beef & Rice (Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 5.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "stuffed-peppers",
+        "roughage-warning",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "sams club stuffed peppers",
+        "members mark stuffed bell peppers",
+        "ground beef rice",
+        "take and bake"
+      ],
+      "whyItWorks": "Whole raw green and red bell pepper pods filled with ground beef and rice. Thick bell pepper skin is wax-coated insoluble cellulose that resists stomach acid and can cause mechanical blockage at stricture sites.",
+      "prepOrOrderInstructions": "Stricture & Skin Warning: Scoop out the inner seasoned beef and rice filling; discard the tough outer bell pepper skin completely.",
+      "_sourcePath": "src/data/items/dinner/members-mark-stuffed-bell-peppers-beef-rice-warning.json"
     },
     {
       "id": "disneyland-harbour-galley-clam-chowder-warning",
@@ -52271,6 +53862,46 @@
       "_sourcePath": "src/data/items/dinner/tritons-lumieres-farmhouse-salad.json"
     },
     {
+      "id": "kirkland-signature-deli-yakisoba-stir-fry-warning",
+      "name": "Kirkland Signature Yakisoba Stir-Fry with Seasoned Chicken",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 4.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "yakisoba",
+        "stir-fry",
+        "roughage-warning"
+      ],
+      "searchKeywords": [
+        "costco yakisoba",
+        "kirkland stir fry noodles",
+        "take and bake",
+        "costco deli"
+      ],
+      "whyItWorks": "While wheat ramen noodles and chicken breast are easy on digestion, this deli pan is packed with raw crunchy cabbage, sugar snap peas, broccoli florets, and red bell peppers. Uncooked brassicas and pod fibers are notorious stricture and bloating hazards.",
+      "prepOrOrderInstructions": "Roughage & Gas Warning: Pick out the tender chicken and noodles while leaving behind the raw cabbage and snap peas.",
+      "_sourcePath": "src/data/items/asian-indian/kirkland-signature-deli-yakisoba-stir-fry-warning.json"
+    },
+    {
       "id": "labeaus-famous-fresh-raspberry-shake",
       "name": "LaBeau's Famous Bear Lake Fresh Raspberry Shake (Seed & Dairy Warning)",
       "categoryFolder": "snacks-desserts",
@@ -52354,6 +53985,46 @@
         "Raw salad greens and bacon fat"
       ],
       "_sourcePath": "src/data/items/dinner/rapunzels-maximus-salad.json"
+    },
+    {
+      "id": "members-mark-loaded-potato-soup-deli-tub-warning",
+      "name": "Member's Mark Loaded Potato Soup with Bacon (Deli Tub Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "loaded-potato-soup",
+        "dairy-warning",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "sams club potato soup",
+        "members mark loaded potato",
+        "deli soup",
+        "bacon cheddar"
+      ],
+      "whyItWorks": "Heavy soup base made with heavy whipping cream, melted cheddar cheese, smoky bacon fat, diced potatoes, and green onions. Heavy dairy fat and smoked cured meats are a frequent trigger for urgent diarrhea.",
+      "prepOrOrderInstructions": "High Fat & Dairy Warning: Better to make simple mashed potatoes with broth at home instead of prepared loaded soup tubs.",
+      "_sourcePath": "src/data/items/dinner/members-mark-loaded-potato-soup-deli-tub-warning.json"
     },
     {
       "id": "mickeys-smokestack-smoked-kielbasa",
@@ -53426,6 +55097,46 @@
       "_sourcePath": "src/data/items/mexican-southwest/dca-cozy-cone-motel-chili-cone-queso-warning.json"
     },
     {
+      "id": "kirkland-signature-chicken-pot-pie-take-and-bake-warning",
+      "name": "Kirkland Signature Giant Chicken Pot Pie (Take & Bake Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 4.6,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "pot-pie",
+        "dairy-warning",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "costco pot pie",
+        "kirkland chicken pot pie",
+        "take and bake",
+        "costco deli"
+      ],
+      "whyItWorks": "Weighing over 5 pounds, this massive pie features an all-butter/shortening crust filled with heavy cream roux, whole green peas, diced carrots, and pulled rotisserie chicken. The intense saturated fat from the crust and gravy induces vigorous gallbladder contractions and bile dumping.",
+      "prepOrOrderInstructions": "High Fat & Dairy Warning: Avoid during flares. If dining in solid remission, scoop out the inner chicken and potatoes while leaving behind the greasy bottom crust and whole peas.",
+      "_sourcePath": "src/data/items/dinner/kirkland-signature-chicken-pot-pie-take-and-bake-warning.json"
+    },
+    {
       "id": "knotts-sutters-boysenberry-funnel-cake-warning",
       "name": "Knott's Sutter's Giant Boysenberry Funnel Cake with Soft Serve (High Risk Warning)",
       "categoryFolder": "snacks-desserts",
@@ -54239,6 +55950,46 @@
       "_sourcePath": "src/data/items/breakfast/herms-inn-logan-inside-out-grilled-cheese-macho.json"
     },
     {
+      "id": "kirkland-signature-cauliflower-crust-pizza-warning",
+      "name": "Kirkland Signature Supreme Cauliflower Crust Pizza (FODMAP Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 4.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "cauliflower-pizza",
+        "fodmap-warning",
+        "gluten-free-warning"
+      ],
+      "searchKeywords": [
+        "costco cauliflower pizza",
+        "kirkland gluten free pizza",
+        "supreme pizza",
+        "cauliflower crust"
+      ],
+      "whyItWorks": "While marketed as healthy and gluten-free, cauliflower is extremely high in sulfur-containing glucosinolates and FODMAP polyols that cause massive bloating and severe gas pains in IBD patients, compounded by pepperoni and cheese.",
+      "prepOrOrderInstructions": "Severe Gas & Bloating Hazard: Do not assume cauliflower crust is gut-friendly. Choose a regular thin white flour crust instead.",
+      "_sourcePath": "src/data/items/frozen-aisle/kirkland-signature-cauliflower-crust-pizza-warning.json"
+    },
+    {
       "id": "knotts-ghost-town-grub-fried-treats-warning",
       "name": "Knott's Ghost Town Grub Deep-Fried Funnel Cake Fries & Fried Twinkies (Fryer Oil Warning)",
       "categoryFolder": "snacks-desserts",
@@ -54856,6 +56607,46 @@
       "_sourcePath": "src/data/items/lunch/mad-moose-cafe-eden-chipotle-chicken-grilled-cheese-warning.json"
     },
     {
+      "id": "members-mark-chicken-alfredo-with-penne-bake-warning",
+      "name": "Member's Mark Chicken Alfredo with Penne Pasta (Deli Bake Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 4.4,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "chicken-alfredo",
+        "dairy-warning",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "sams club chicken alfredo",
+        "members mark alfredo",
+        "take and bake",
+        "pasta bake"
+      ],
+      "whyItWorks": "Tender penne pasta and chicken smothered in a heavy cream, butter, and parmesan sauce. Over 28g of dairy fat per serving triggers intense gastrocolic reflexes and diarrhea in sensitive bowels.",
+      "prepOrOrderInstructions": "Heavy Cream & Lipid Hazard: Avoid during flare-ups. In remission, eat a small portion paired with extra plain chicken.",
+      "_sourcePath": "src/data/items/dinner/members-mark-chicken-alfredo-with-penne-bake-warning.json"
+    },
+    {
       "id": "dca-lamplight-lounge-lobster-nachos-warning",
       "name": "DCA Lamplight Lounge Famous Lobster Nachos (Serrano Chili, Chipotle Crema & Corn Chip Warning)",
       "categoryFolder": "mexican-southwest",
@@ -54973,6 +56764,46 @@
         "Insoluble corn hulls pass undigested and can block narrowed intestines"
       ],
       "_sourcePath": "src/data/items/produce-sides/holiday-creamed-sweet-corn-warning.json"
+    },
+    {
+      "id": "kirkland-signature-deli-mac-and-cheese-warning",
+      "name": "Kirkland Signature Deli Macaroni & Cheese with Cavatappi (Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 4.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "mac-and-cheese",
+        "dairy-warning",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "costco mac and cheese",
+        "kirkland mac and cheese",
+        "take and bake",
+        "costco deli"
+      ],
+      "whyItWorks": "Prepared with heavy cream, rich butter, whole cheddar, and Romano cheeses baked over spiral pasta. Over 30g of saturated fat per serving combined with concentrated lactose triggers rapid intestinal cramping and loose stools.",
+      "prepOrOrderInstructions": "Extreme Dairy & Lipid Warning: Strictly limit or avoid. If in deep remission, eat a small side portion with lactase enzyme support.",
+      "_sourcePath": "src/data/items/dinner/kirkland-signature-deli-mac-and-cheese-warning.json"
     },
     {
       "id": "knotts-boardwalk-bbq-roasted-corn-cob-warning",
@@ -55382,6 +57213,46 @@
       "_sourcePath": "src/data/items/snacks-desserts/m-m-s-peanut.json"
     },
     {
+      "id": "members-mark-broccoli-cheddar-soup-tub-warning",
+      "name": "Member's Mark Broccoli Cheddar Soup (Deli Tub Warning)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 4,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "broccoli-cheddar",
+        "dairy-warning",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "sams club broccoli soup",
+        "members mark broccoli cheddar",
+        "deli tub soup",
+        "gas warning"
+      ],
+      "whyItWorks": "Features dense broccoli florets suspended in heavy cream and cheddar cheese. Broccoli contains raffinose and insoluble cruciferous fiber, which ferments violently in the colon, producing extreme gas and abdominal cramps.",
+      "prepOrOrderInstructions": "Cruciferous & Lactose Hazard: Avoid completely if prone to gas, strictures, or active IBD.",
+      "_sourcePath": "src/data/items/lunch/members-mark-broccoli-cheddar-soup-tub-warning.json"
+    },
+    {
       "id": "palo-brunch-wild-mushroom-artichoke-ravioli",
       "name": "Palo Brunch Wild Mushroom or Artichoke Ravioli with Meyer Lemon & Pine Nuts",
       "categoryFolder": "italian-med",
@@ -55710,6 +57581,44 @@
       "whyItWorks": "Two fatty beef patties smothered in melted cheddar, thick bacon strips, burger sauce, and served with a basket of deep-fried waffle fries. Packs over 55g of fat that heavily stresses digestion.",
       "prepOrOrderInstructions": "High Fat Warning: Choose the plain grilled chicken breast sandwich or a single hamburger patty instead.",
       "_sourcePath": "src/data/items/lunch/dca-smokejumpers-double-bacon-cheeseburger-warning.json"
+    },
+    {
+      "id": "members-mark-spinach-artichoke-dip-tub-warning",
+      "name": "Member's Mark Spinach & Artichoke Dip (Deli Tub Warning)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 3.6,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "spinach-artichoke-dip",
+        "stricture-hazard",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "sams club spinach dip",
+        "members mark artichoke dip",
+        "deli tub dip",
+        "fiber hazard"
+      ],
+      "whyItWorks": "Stringy artichoke heart bracts and whole spinach leaves combined with sour cream, cream cheese, parmesan, and garlic. Artichokes are notoriously fibrous and tough to digest, posing a major stricture risk.",
+      "prepOrOrderInstructions": "Severe Stricture & Dairy Warning: Strictly avoid. The fibrous stringy artichoke leaves can cause severe blockages.",
+      "_sourcePath": "src/data/items/produce-sides/members-mark-spinach-artichoke-dip-tub-warning.json"
     },
     {
       "id": "1923-burbank-blueberry-lemon-bavarian-cream",
@@ -56873,6 +58782,44 @@
       "_sourcePath": "src/data/items/dinner/periscope-pub-wings-coconut-shrimp.json"
     },
     {
+      "id": "members-mark-roasted-mixed-nuts-salted-warning",
+      "name": "Member's Mark Roasted Salted Mixed Nuts (Cashews, Almonds, Pecans Warning)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 2.1,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "mixed-nuts",
+        "stricture-hazard",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "sams club mixed nuts",
+        "members mark roasted nuts",
+        "almonds cashews",
+        "stricture danger"
+      ],
+      "whyItWorks": "Whole roasted nuts have hard, sharp edges when broken down by teeth. In patients with active Crohn's, strictures, or previous bowel resections, nut particles frequently cause mechanical bowel obstructions.",
+      "prepOrOrderInstructions": "Mechanical Obstruction Warning: Strictly avoid whole nuts. Switch to smooth creamy seedless nut butter in remission.",
+      "_sourcePath": "src/data/items/snacks-desserts/members-mark-roasted-mixed-nuts-salted-warning.json"
+    },
+    {
       "id": "angies-restaurant-logan-clean-the-sink-warning",
       "name": "The Famous \"Clean the Sink\" Ice Cream Challenge",
       "categoryFolder": "snacks-desserts",
@@ -56989,6 +58936,44 @@
         "CRITICAL CITRUS TRIGGER: Filled with concentrated lemon juice curd and lemon glaze (citrusFree: false)"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/disneyland-tianas-palace-house-filled-beignet-lemon-warning.json"
+    },
+    {
+      "id": "kirkland-signature-trail-mix-nuts-raisins-warning",
+      "name": "Kirkland Signature Trail Mix (Almonds, Cashews, Peanuts, Raisins & M&Ms)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "trail-mix",
+        "stricture-hazard",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "costco trail mix",
+        "kirkland trail mix",
+        "mixed nuts raisins",
+        "stricture danger"
+      ],
+      "whyItWorks": "Packed with whole crunchy almonds, cashews, peanuts, and chewy dehydrated raisins. Whole unchewed nut fragments and leathery dried fruit skins are the leading cause of food-bolus bowel obstructions in Crohn's patients with strictures.",
+      "prepOrOrderInstructions": "Severe Stricture & Flare Hazard: Strictly avoid if you have IBD, strictures, or an ostomy. Do not consume.",
+      "_sourcePath": "src/data/items/snacks-desserts/kirkland-signature-trail-mix-nuts-raisins-warning.json"
     },
     {
       "id": "malt-o-meal-oat-blenders-almonds",

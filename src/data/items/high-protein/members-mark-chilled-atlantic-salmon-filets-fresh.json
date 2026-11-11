@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-chilled-atlantic-salmon-filets-fresh",
+  "name": "Member's Mark Fresh Farm-Raised Atlantic Salmon Filets",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "atlantic-salmon",
+    "fresh-seafood",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sams club fresh salmon",
+    "members mark atlantic salmon",
+    "salmon filets",
+    "omega 3"
+  ],
+  "whyItWorks": "High-fat marine protein rich in natural anti-inflammatory omega-3 fatty acids. Skinless salmon cooked simply in olive oil produces zero abrasive roughage, soothing mucosal irritation.",
+  "prepOrOrderInstructions": "Bake or pan-sear simply with olive oil and salt. Discard grey bloodline or skin if fat sensitivity is high."
+}

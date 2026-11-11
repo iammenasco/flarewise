@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-take-and-bake-five-cheese-pizza",
+  "name": "Member's Mark 16\" Five Cheese Take 'N Bake Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 6.7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "cheese-pizza",
+    "take-and-bake",
+    "pizza"
+  ],
+  "searchKeywords": [
+    "sams club pizza",
+    "members mark take and bake pizza",
+    "five cheese pizza",
+    "deli pizza"
+  ],
+  "whyItWorks": "Soft pizzeria-style crust topped with mild tomato sauce, mozzarella, provolone, cheddar, and parmesan. Far safer than pepperoni or sausage pizzas, though dairy fat requires good tolerance.",
+  "prepOrOrderInstructions": "Bake until cheese is lightly melted. Dab top with a paper towel to remove pooled butterfat."
+}

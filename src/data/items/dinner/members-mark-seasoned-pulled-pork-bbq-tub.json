@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-seasoned-pulled-pork-bbq-tub",
+  "name": "Member's Mark Hickory Smoked Pulled Pork (Deli Tub)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "pulled-pork",
+    "bbq",
+    "smoked-meat"
+  ],
+  "searchKeywords": [
+    "sams club pulled pork",
+    "members mark smoked pork",
+    "bbq tub",
+    "deli pork"
+  ],
+  "whyItWorks": "Slow-smoked pork shoulder shredded into tender strands in sweet barbecue sauce. Pork is very soft and easy to chew, but sweet barbecue sauce and vinegar require moderate gut tolerance.",
+  "prepOrOrderInstructions": "Warm gently in microwave or skillet. Serve on a plain white hamburger bun or over white rice. Avoid adding spicy hot sauces."
+}

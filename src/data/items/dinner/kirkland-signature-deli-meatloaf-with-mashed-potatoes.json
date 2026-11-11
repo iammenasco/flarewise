@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-deli-meatloaf-with-mashed-potatoes",
+  "name": "Kirkland Signature Meatloaf with Yukon Gold Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "meatloaf",
+    "mashed-potatoes",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "costco meatloaf",
+    "kirkland meatloaf mashed potatoes",
+    "take and bake",
+    "costco deli"
+  ],
+  "whyItWorks": "Tender ground beef and pork meatloaf topped with a sweet tomato glaze paired with smooth, peeled Yukon Gold mashed potatoes. The mashed potatoes are very gentle; the meatloaf contains moderate onion and breadcrumbs requiring good baseline digestion.",
+  "prepOrOrderInstructions": "Bake as directed until hot. The mashed potatoes are the safest component; eat moderate slices of meatloaf and avoid extra spicy barbecue additions."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kirkland-signature-artisan-sourdough-round",
+  "name": "Kirkland Signature Artisan Country French Sourdough Bread",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "sourdough",
+    "bakery",
+    "fermented-bread"
+  ],
+  "searchKeywords": [
+    "costco sourdough",
+    "kirkland artisan bread",
+    "french sourdough",
+    "costco bakery"
+  ],
+  "whyItWorks": "Made with wild sourdough starter, water, flour, and salt. The slow 24-hour lactobacillus fermentation degrades fructans and wheat phytates, making authentic sourdough exceptionally gentle on sensitive IBD bowels.",
+  "prepOrOrderInstructions": "Slice and toast lightly. Discard overly hard or charred outer crust edges if dealing with active strictures."
+}

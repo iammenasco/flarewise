@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-organic-unsweetened-applesauce-pouches",
+  "name": "Kirkland Signature Organic Unsweetened Applesauce Pouches",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 9.6,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "applesauce",
+    "pectin",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "costco applesauce",
+    "kirkland applesauce pouches",
+    "unsweetened applesauce",
+    "soluble fiber"
+  ],
+  "whyItWorks": "Cooked and finely pureed peeled apples provide soothing soluble pectin without harsh insoluble skin flakes. Soluble pectin forms a protective gel that helps firm up loose bowel movements during flare recovery.",
+  "prepOrOrderInstructions": "Ready to eat directly from the squeeze pouch at room temperature or chilled. A perfect portable emergency flare snack."
+}

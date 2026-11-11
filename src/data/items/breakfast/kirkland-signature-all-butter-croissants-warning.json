@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-all-butter-croissants-warning",
+  "name": "Kirkland Signature All-Butter Croissants (Bakery 12-Pack Warning)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 5.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "croissants",
+    "bakery",
+    "butter-fat"
+  ],
+  "searchKeywords": [
+    "costco croissants",
+    "kirkland butter croissants",
+    "costco bakery",
+    "high fat pastry"
+  ],
+  "whyItWorks": "Laminated dough alternating layers of flour and European butter. Each croissant packs nearly 18g of pure butter fat. Saturated fat overload accelerates stomach emptying and causes sudden diarrhea in compromised guts.",
+  "prepOrOrderInstructions": "High Fat Warning: Eat only half a croissant during remission. Skip during flare-ups in favor of a plain water bagel or toast."
+}

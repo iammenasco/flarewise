@@ -1,0 +1,40 @@
+{
+  "id": "members-mark-southern-style-waffle-fries-frozen-warning",
+  "name": "Member's Mark Southern Style Waffle French Fries (Frozen Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "waffle-fries",
+    "french-fries",
+    "fried-food"
+  ],
+  "searchKeywords": [
+    "sams club waffle fries",
+    "members mark frozen fries",
+    "southern style fries",
+    "frozen potato"
+  ],
+  "whyItWorks": "Waffle-cut potatoes coated in seasoned flour batter and par-fried in vegetable shortening. Dense frying oils and crispy sharp ridges irritate delicate bowel tissue.",
+  "prepOrOrderInstructions": "Fried Food Warning: Best reserved for remission. Limit portion to 4-5 pieces and bake rather than fry."
+}

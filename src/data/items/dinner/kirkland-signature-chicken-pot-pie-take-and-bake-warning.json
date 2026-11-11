@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-chicken-pot-pie-take-and-bake-warning",
+  "name": "Kirkland Signature Giant Chicken Pot Pie (Take & Bake Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 4.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "pot-pie",
+    "dairy-warning",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "costco pot pie",
+    "kirkland chicken pot pie",
+    "take and bake",
+    "costco deli"
+  ],
+  "whyItWorks": "Weighing over 5 pounds, this massive pie features an all-butter/shortening crust filled with heavy cream roux, whole green peas, diced carrots, and pulled rotisserie chicken. The intense saturated fat from the crust and gravy induces vigorous gallbladder contractions and bile dumping.",
+  "prepOrOrderInstructions": "High Fat & Dairy Warning: Avoid during flares. If dining in solid remission, scoop out the inner chicken and potatoes while leaving behind the greasy bottom crust and whole peas."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-sliced-artisan-sourdough-bread",
+  "name": "Member's Mark Artisan Sourdough Sandwich Bread (2-Pack)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "sourdough",
+    "bakery",
+    "bread"
+  ],
+  "searchKeywords": [
+    "sams club sourdough",
+    "members mark artisan bread",
+    "sandwich bread",
+    "sourdough loaf"
+  ],
+  "whyItWorks": "Pre-sliced sourdough bread made with fermented starter. The fermentation process lowers gluten elasticity and fructan content, easing digestion compared to standard sandwich white bread.",
+  "prepOrOrderInstructions": "Toast lightly for breakfast toast or sandwiches. Soft crumb is very easy to chew."
+}

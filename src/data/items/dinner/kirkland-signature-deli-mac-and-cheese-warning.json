@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-deli-mac-and-cheese-warning",
+  "name": "Kirkland Signature Deli Macaroni & Cheese with Cavatappi (Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "mac-and-cheese",
+    "dairy-warning",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "costco mac and cheese",
+    "kirkland mac and cheese",
+    "take and bake",
+    "costco deli"
+  ],
+  "whyItWorks": "Prepared with heavy cream, rich butter, whole cheddar, and Romano cheeses baked over spiral pasta. Over 30g of saturated fat per serving combined with concentrated lactose triggers rapid intestinal cramping and loose stools.",
+  "prepOrOrderInstructions": "Extreme Dairy & Lipid Warning: Strictly limit or avoid. If in deep remission, eat a small side portion with lactase enzyme support."
+}

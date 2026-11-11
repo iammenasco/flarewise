@@ -1,0 +1,40 @@
+{
+  "id": "kirkland-signature-boneless-skinless-chicken-breasts-frozen",
+  "name": "Kirkland Signature Boneless Skinless Chicken Breasts (Individually Wrapped)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 9.7,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "toaster-oven",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "chicken-breast",
+    "frozen-staple",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "costco frozen chicken",
+    "kirkland chicken breasts",
+    "boneless skinless",
+    "bulk protein"
+  ],
+  "whyItWorks": "The gold-standard baseline protein for Crohn's and Colitis patients. Clean, unseasoned chicken breast contains virtually zero fat and zero fiber, making it the least inflammatory whole-food protein on earth.",
+  "prepOrOrderInstructions": "Poach in salted water or bake covered with foil to keep it tender and moist. Shred over white rice or noodle broth."
+}

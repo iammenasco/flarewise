@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-tempura-shrimp-frozen-warning",
+  "name": "Kirkland Signature Panko Battered Tempura Shrimp (Frozen Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "tempura-shrimp",
+    "fried-food",
+    "frozen-aisle"
+  ],
+  "searchKeywords": [
+    "costco tempura shrimp",
+    "kirkland frozen shrimp",
+    "panko shrimp",
+    "fried seafood"
+  ],
+  "whyItWorks": "Tail-on shrimp dipped in thick batter and par-fried in vegetable oil. Reheating in the oven produces a crunchy, oil-laden coating that can scrape inflamed tissue and stimulate rapid bile release.",
+  "prepOrOrderInstructions": "Fried Food Warning: Better to peel off the fried batter coating and consume the tender shrimp meat inside."
+}

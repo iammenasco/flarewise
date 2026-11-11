@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-deli-chicken-quesadillas",
+  "name": "Kirkland Signature Deli Chicken Quesadillas with Salsa & Guacamole",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "quesadilla",
+    "mexican",
+    "take-and-bake"
+  ],
+  "searchKeywords": [
+    "costco quesadillas",
+    "kirkland chicken quesadilla",
+    "costco deli",
+    "flour tortilla"
+  ],
+  "whyItWorks": "Flour tortillas filled with shredded chicken breast and mild cheddar/jack cheese. Heating on a dry skillet creates a warm, soft meal with gentle protein and carbs.",
+  "prepOrOrderInstructions": "Cook on a skillet until cheese melts. Skip the side salsa and sour cream if sensitive to spice and dairy."
+}

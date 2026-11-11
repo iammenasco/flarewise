@@ -1,0 +1,40 @@
+{
+  "id": "members-mark-liquid-egg-whites-cartons",
+  "name": "Member's Mark 100% Pure Liquid Egg Whites (6 x 16 oz Cartons)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 9.9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "egg-whites",
+    "high-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sams club egg whites",
+    "members mark liquid egg whites",
+    "pure egg white",
+    "lean breakfast"
+  ],
+  "whyItWorks": "Pure pasteurized egg whites offer 100% bioavailable protein with zero fat, zero cholesterol, zero lactose, and zero fiber. It is arguably the easiest protein for a severely inflamed bowel to absorb.",
+  "prepOrOrderInstructions": "Scramble gently in a non-stick pan with light cooking spray. Pair with soft white toast and seedless jelly."
+}

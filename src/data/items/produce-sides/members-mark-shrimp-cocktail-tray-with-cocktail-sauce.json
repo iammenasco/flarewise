@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-shrimp-cocktail-tray-with-cocktail-sauce",
+  "name": "Member's Mark Steamed Tail-On Shrimp Cocktail Tray",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "shrimp-cocktail",
+    "seafood",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sams club shrimp cocktail",
+    "members mark shrimp platter",
+    "tail on shrimp",
+    "deli seafood"
+  ],
+  "whyItWorks": "Fresh steamed tail-on shrimp ready to eat cold. It delivers clean lean protein with zero saturated fat, zero gluten, and zero insoluble fiber, resting the lower digestive tract completely.",
+  "prepOrOrderInstructions": "Eat the chilled shrimp plain or with a light squeeze of lemon. Skip the included spicy cocktail sauce during active gut symptoms."
+}

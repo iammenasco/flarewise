@@ -1,0 +1,38 @@
+{
+  "id": "members-mark-long-grain-enriched-white-rice",
+  "name": "Member's Mark Long Grain Enriched White Rice (25 lb Bag)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "white-rice",
+    "bulk-grain",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sams club rice",
+    "members mark white rice",
+    "long grain rice bulk",
+    "staple grain"
+  ],
+  "whyItWorks": "Standard polished white rice enriched with B vitamins and iron. Completely non-allergenic and low in residue, white rice absorbs fluids and calms gut spasms during acute Crohn's flares.",
+  "prepOrOrderInstructions": "Steam thoroughly with 2 parts water to 1 part rice. Season with salt and a touch of butter or olive oil."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-all-beef-cocktail-meatballs-sweet-chili-warning",
+  "name": "Member's Mark Cocktail Beef Meatballs with Sweet Chili Sauce (Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 5.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "meatballs",
+    "sweet-chili",
+    "allium-warning"
+  ],
+  "searchKeywords": [
+    "sams club meatballs",
+    "members mark cocktail meatballs",
+    "sweet chili meatballs",
+    "party appetizers"
+  ],
+  "whyItWorks": "Pre-cooked beef and pork meatballs packed with granulated onion, garlic powder, and glazed with spicy sweet chili pepper sauce. Concentrated alliums and chili seeds provoke gastric reflux and mucosal cramping.",
+  "prepOrOrderInstructions": "Allium & Chili Warning: Avoid during flares. In remission, rinse off sweet chili glaze or eat plain meatballs."
+}

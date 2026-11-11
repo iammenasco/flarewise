@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-plain-water-bagels",
+  "name": "Kirkland Signature Plain Water Bagels (Bakery 2-Pack)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "bagels",
+    "bakery",
+    "plain-bread"
+  ],
+  "searchKeywords": [
+    "costco bagels",
+    "kirkland plain bagels",
+    "water bagels",
+    "costco bakery"
+  ],
+  "whyItWorks": "Traditional boiled and baked plain bagels made from enriched unbleached flour without seeds, onion flakes, or whole grains. Provides easily digested complex carbohydrates that help bind the stool.",
+  "prepOrOrderInstructions": "Toast lightly to soften the interior. Top with dairy-free spread, seedless jelly, or sliced turkey breast. Avoid everything bagels with seeds and garlic."
+}

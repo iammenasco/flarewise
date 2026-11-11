@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-tail-on-cooked-shrimp-cocktail-platter",
+  "name": "Kirkland Signature Chilled Cooked Tail-On Shrimp Cocktail Platter",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "shrimp-cocktail",
+    "seafood",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "costco shrimp cocktail",
+    "kirkland chilled shrimp",
+    "cooked shrimp platter",
+    "costco deli"
+  ],
+  "whyItWorks": "Peeled, deveined, perfectly steamed tail-on shrimp ready to eat from the deli case. Shrimp is virtually fat-free, completely fiber-free, and delivers clean bioavailable marine protein that places zero strain on inflamed bowel segments.",
+  "prepOrOrderInstructions": "Eat the chilled shrimp plain or with a light pinch of salt. Avoid dipping into the included horseradish cocktail sauce during active symptoms."
+}

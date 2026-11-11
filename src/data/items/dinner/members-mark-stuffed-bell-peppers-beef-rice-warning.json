@@ -1,0 +1,38 @@
+{
+  "id": "members-mark-stuffed-bell-peppers-beef-rice-warning",
+  "name": "Member's Mark Stuffed Bell Peppers with Beef & Rice (Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "stuffed-peppers",
+    "roughage-warning",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "sams club stuffed peppers",
+    "members mark stuffed bell peppers",
+    "ground beef rice",
+    "take and bake"
+  ],
+  "whyItWorks": "Whole raw green and red bell pepper pods filled with ground beef and rice. Thick bell pepper skin is wax-coated insoluble cellulose that resists stomach acid and can cause mechanical blockage at stricture sites.",
+  "prepOrOrderInstructions": "Stricture & Skin Warning: Scoop out the inner seasoned beef and rice filling; discard the tough outer bell pepper skin completely."
+}

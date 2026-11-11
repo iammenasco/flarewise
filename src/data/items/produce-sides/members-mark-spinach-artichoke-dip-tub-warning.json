@@ -1,0 +1,37 @@
+{
+  "id": "members-mark-spinach-artichoke-dip-tub-warning",
+  "name": "Member's Mark Spinach & Artichoke Dip (Deli Tub Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 3.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "spinach-artichoke-dip",
+    "stricture-hazard",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "sams club spinach dip",
+    "members mark artichoke dip",
+    "deli tub dip",
+    "fiber hazard"
+  ],
+  "whyItWorks": "Stringy artichoke heart bracts and whole spinach leaves combined with sour cream, cream cheese, parmesan, and garlic. Artichokes are notoriously fibrous and tough to digest, posing a major stricture risk.",
+  "prepOrOrderInstructions": "Severe Stricture & Dairy Warning: Strictly avoid. The fibrous stringy artichoke leaves can cause severe blockages."
+}

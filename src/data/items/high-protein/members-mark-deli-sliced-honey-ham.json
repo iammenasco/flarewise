@@ -1,0 +1,38 @@
+{
+  "id": "members-mark-deli-sliced-honey-ham",
+  "name": "Member's Mark Extra Lean Sliced Honey Ham (Deli 2 lb)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "deli-ham",
+    "lunch-meat",
+    "lean-protein"
+  ],
+  "searchKeywords": [
+    "sams club deli ham",
+    "members mark honey ham",
+    "sliced ham",
+    "lunch meat"
+  ],
+  "whyItWorks": "Extra lean sliced deli ham with 97% fat-free profile. Thinly shaved with low gristle, it supplies easy protein without heavy cooking oils or tough connective tissue.",
+  "prepOrOrderInstructions": "Layer onto white bread or roll up plain for a quick high-protein snack. Discard visible outer edge fat."
+}

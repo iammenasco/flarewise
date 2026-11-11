@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-organic-jasmine-rice",
+  "name": "Kirkland Signature Organic Thai Hom Mali Jasmine Rice (50 lb Bag)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "jasmine-rice",
+    "white-rice",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "costco rice",
+    "kirkland jasmine rice",
+    "white rice bulk",
+    "thai hom mali"
+  ],
+  "whyItWorks": "Premium polished white jasmine rice is practically 100% absorbable starch with minimal residue. It calms nausea, regulates stool consistency, and provides clean glucose for cells without irritating the colon.",
+  "prepOrOrderInstructions": "Cook with 1.5 parts water to 1 part rice until soft and fluffy. Season simply with sea salt and a touch of olive oil."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-organic-pure-maple-syrup",
+  "name": "Kirkland Signature Organic Pure Maple Syrup (Grade A Amber)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "maple-syrup",
+    "sweetener",
+    "pantry"
+  ],
+  "searchKeywords": [
+    "costco maple syrup",
+    "kirkland organic maple syrup",
+    "grade a amber",
+    "natural sweetener"
+  ],
+  "whyItWorks": "100% pure maple syrup with zero high-fructose corn syrup, artificial colors, or chemical preservatives. It is balanced in glucose and sucrose, making it far gentler on small intestine absorption than artificial sweeteners or excessive raw honey.",
+  "prepOrOrderInstructions": "Drizzle moderately over plain oatmeal, pancakes, white toast, or waffles. Contains zero fat and zero rough fiber."
+}

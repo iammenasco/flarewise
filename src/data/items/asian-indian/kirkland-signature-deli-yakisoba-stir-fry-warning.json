@@ -1,0 +1,39 @@
+{
+  "id": "kirkland-signature-deli-yakisoba-stir-fry-warning",
+  "name": "Kirkland Signature Yakisoba Stir-Fry with Seasoned Chicken",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "yakisoba",
+    "stir-fry",
+    "roughage-warning"
+  ],
+  "searchKeywords": [
+    "costco yakisoba",
+    "kirkland stir fry noodles",
+    "take and bake",
+    "costco deli"
+  ],
+  "whyItWorks": "While wheat ramen noodles and chicken breast are easy on digestion, this deli pan is packed with raw crunchy cabbage, sugar snap peas, broccoli florets, and red bell peppers. Uncooked brassicas and pod fibers are notorious stricture and bloating hazards.",
+  "prepOrOrderInstructions": "Roughage & Gas Warning: Pick out the tender chicken and noodles while leaving behind the raw cabbage and snap peas."
+}
