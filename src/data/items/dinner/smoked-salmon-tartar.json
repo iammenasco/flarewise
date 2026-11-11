@@ -1,8 +1,9 @@
 {
   "id": "smoked-salmon-tartar",
-  "name": "Smoked Salmon Tartar",
+  "name": "Smoked Salmon Tartare",
   "categoryFolder": "dinner",
-  "crohnsScore": 9.5,
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 9,
   "safetyTier": "flare-safe",
   "mealTypes": [
     "lunch",
@@ -10,21 +11,36 @@
   ],
   "region": "Global",
   "costTier": 2,
-  "convenienceScore": 3,
+  "convenienceScore": 5,
   "prepMethod": [
     "ready-to-eat"
   ],
-  "fiberGramsPerServing": 1,
-  "lactoseSafe": true,
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
   "citrusFree": true,
   "tags": [
     "salmon",
     "tartar",
-    "fish"
+    "fish",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
   ],
   "searchKeywords": [
-    "salmon-tartar"
+    "smoked salmon tartar",
+    "smoked salmon tartare",
+    "animators palate",
+    "disney wonder",
+    "disney magic",
+    "lox"
   ],
-  "whyItWorks": "Rich in healthy fats.",
-  "prepOrOrderInstructions": "Serve cold."
+  "whyItWorks": "Cured, finely chopped smoked salmon is butter-soft and packed with anti-inflammatory omega-3 fats with 0g plant fiber.",
+  "prepOrOrderInstructions": "At Animator's Palate, order without whole capers, raw red onion, or lemon zest, and go light on the dill-caper sour cream (or pair with plain white dinner rolls).",
+  "watchOuts": [
+    "Whole capers and raw minced red onion",
+    "Sour cream/crème fraîche if lactose sensitive",
+    "Lemon juice/zest garnish"
+  ]
 }
