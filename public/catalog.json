@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:27:05.930Z",
-  "itemCount": 2098,
+  "builtAt": "2026-11-11T20:31:12.046Z",
+  "itemCount": 2133,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1800,6 +1800,45 @@
       "prepOrOrderInstructions": "Simmer 1/3 cup stelline in 1.5 cups salted chicken bone broth for 6–7 minutes until broth is absorbed and pasta is velvety soft.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/italian-med/de-cecco-pastina-stelline-star-pasta.json"
+    },
+    {
+      "id": "dutch-bros-hot-peppermint-chamomile-herbal-tea",
+      "name": "Dutch Bros Hot Herbal Tea (Chamomile or Peppermint Sachet)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dutch Bros",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dutch-bros",
+        "herbal-tea",
+        "peppermint",
+        "chamomile",
+        "antispasmodic",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "dutch bros hot tea",
+        "herbal tea dutch bros",
+        "peppermint tea dutch bros crohns"
+      ],
+      "whyItWorks": "Naturally 100% caffeine-free organic herbal tea sachets brewed in hot water. Menthol in peppermint naturally relaxes intestinal smooth muscle, alleviating abdominal spasms.",
+      "prepOrOrderInstructions": "Order: 'Hot Peppermint (or Chamomile) Tea with hot water only, NO honey syrup pumps, NO sugar.'",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/dutch-bros-hot-peppermint-chamomile-herbal-tea.json"
     },
     {
       "id": "fresh-atlantic-salmon-fillet-pan-seared",
@@ -7156,6 +7195,44 @@
       "_sourcePath": "src/data/items/dinner/outback-steakhouse-wood-fire-grilled-salmon-plain.json"
     },
     {
+      "id": "peets-coffee-steamed-oat-milk-vanilla-steamer",
+      "name": "Peet's Coffee Steamed Oat Milk Vanilla Steamer (Caffeine-Free)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Peet's Coffee",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "peets-coffee",
+        "oat-milk",
+        "steamer",
+        "caffeine-free",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "peets vanilla steamer",
+        "steamed oat milk peets",
+        "caffeine free warm drink peets"
+      ],
+      "whyItWorks": "Creamy Pacific Barista oat milk gently steamed with a single pump of pure vanilla syrup. Zero caffeine, zero dairy, zero acids; wonderfully comforting on inflamed mucosa.",
+      "prepOrOrderInstructions": "Order: 'Steamed Oat Milk with 1 pump of vanilla syrup—NO espresso, NO dairy.'",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/peets-coffee-steamed-oat-milk-vanilla-steamer.json"
+    },
+    {
       "id": "baked-russet-potato-flesh-only",
       "name": "Plain Baked Russet Potato (Fluffy Flesh Only — Discard Skin!)",
       "categoryFolder": "produce-sides",
@@ -8918,6 +8995,45 @@
       "_sourcePath": "src/data/items/dinner/outback-steakhouse-plain-baked-sweet-potato-flesh.json"
     },
     {
+      "id": "panera-oven-roasted-turkey-sourdough-plain",
+      "name": "Panera Oven-Roasted Turkey Breast on Country Rustic Sourdough (Plain)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "panera",
+        "turkey-sandwich",
+        "sourdough",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "panera turkey sandwich plain",
+        "panera bread sourdough turkey",
+        "crohns safe lunch panera"
+      ],
+      "whyItWorks": "Thinly sliced, tender roasted turkey breast on naturally fermented Country Rustic Sourdough bread with light mayonnaise. Naturally low in fructans due to sourdough fermentation, low in fiber, and delivers 30g+ of lean poultry protein without spices.",
+      "prepOrOrderInstructions": "Order: 'Roasted Turkey & Avocado BLT—MODIFIED: On Country Rustic Sourdough, NO bacon, NO lettuce, NO tomato, NO red onion, with light mayo.' Or build a custom plain turkey sandwich.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/panera-oven-roasted-turkey-sourdough-plain.json"
+    },
+    {
       "id": "pirates-booty-aged-white-cheddar-puffs",
       "name": "Pirate's Booty Aged White Cheddar Baked Rice & Corn Puffs",
       "categoryFolder": "snacks-desserts",
@@ -10043,6 +10159,44 @@
       "_sourcePath": "src/data/items/high-protein/disneyland-bengal-bbq-chieftain-chicken-skewer.json"
     },
     {
+      "id": "dutch-bros-decaf-americano-with-oat-milk",
+      "name": "Dutch Bros Decaf Americano with Steamed Oat Milk",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dutch Bros",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dutch-bros",
+        "decaf-americano",
+        "oat-milk",
+        "low-acid",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "dutch bros decaf americano",
+        "dutch bros oat milk decaf",
+        "safe coffee dutch bros"
+      ],
+      "whyItWorks": "Decaffeinated espresso diluted with hot water and topped with creamy oat milk. Dilution lowers titratable acidity, while eliminating 99% of caffeine prevents colonic contractions.",
+      "prepOrOrderInstructions": "Order: 'Decaf Americano with a splash of oat milk, unflavored and unsweetened.'",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/dutch-bros-decaf-americano-with-oat-milk.json"
+    },
+    {
       "id": "fody-foods-sesame-ginger-sauce-marinade",
       "name": "Fody Foods Low FODMAP Sesame Ginger Sauce & Marinade",
       "categoryFolder": "drinks-sauces",
@@ -10779,6 +10933,46 @@
       "prepOrOrderInstructions": "Eat straight from the freezer on hot days or during bowel rest protocols.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/snacks-desserts/outshine-fruit-bars-grape.json"
+    },
+    {
+      "id": "panera-french-baguette-side-portion",
+      "name": "Panera Artisan French Baguette (Side Bread Portion)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "panera",
+        "baguette",
+        "side-bread",
+        "low-fat",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "panera baguette side",
+        "french baguette panera bread",
+        "plain bread side panera"
+      ],
+      "whyItWorks": "Classic crusty white hearth bread made simply from enriched unbleached flour, water, yeast, and salt. Dairy-free, low-fat, low-residue, and ideal for dipping into clear broth.",
+      "prepOrOrderInstructions": "Select the French Baguette as your complimentary side with any soup or sandwich (skip the apple or chips during active flares).",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/panera-french-baguette-side-portion.json"
     },
     {
       "id": "peeled-steamed-zucchini",
@@ -15359,6 +15553,44 @@
       "_sourcePath": "src/data/items/high-protein/plaza-de-coco-grilled-snapper-sea-bass.json"
     },
     {
+      "id": "panera-homestyle-chicken-noodle-soup-cup",
+      "name": "Panera Homestyle Chicken Noodle Soup (Cup with Soft Egg Noodles)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "panera",
+        "chicken-noodle-soup",
+        "comfort-food",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "panera chicken noodle soup",
+        "chicken noodle cup panera",
+        "safe soup panera bread"
+      ],
+      "whyItWorks": "Clear chicken broth simmered with tender diced white-meat chicken, softened enriched egg ribbon noodles, and tender diced carrots. Hydrating, warm, low in fiber, and comforting on sensitive bowels.",
+      "prepOrOrderInstructions": "Order a cup or bowl of Homestyle Chicken Noodle Soup with a soft French Baguette on the side. Avoid the bread bowl.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/panera-homestyle-chicken-noodle-soup-cup.json"
+    },
+    {
       "id": "peeled-steamed-yellow-squash",
       "name": "Peeled & Steamed Yellow Summer Squash",
       "categoryFolder": "produce-sides",
@@ -17704,6 +17936,83 @@
       "_sourcePath": "src/data/items/asian-indian/disneyland-downtown-disney-splitsville-sushi-california-roll-chicken-bowl.json"
     },
     {
+      "id": "dunkin-english-muffin-with-butter",
+      "name": "Dunkin' Toasted Plain English Muffin with Butter",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Dunkin'",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dunkin",
+        "english-muffin",
+        "toasted",
+        "low-fat",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "dunkin english muffin",
+        "toasted english muffin butter",
+        "breakfast bread dunkin"
+      ],
+      "whyItWorks": "Light, airy enriched flour muffin toasted golden with a light spread of real butter. Very gentle, low in insoluble roughage, and easy on morning digestion.",
+      "prepOrOrderInstructions": "Order: 'Toasted English Muffin with butter on the side.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/dunkin-english-muffin-with-butter.json"
+    },
+    {
+      "id": "dunkin-unsweetened-iced-black-tea-with-oatmilk",
+      "name": "Dunkin' Unsweetened Iced Black Tea with Oatmilk Splash",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dunkin'",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dunkin",
+        "iced-tea",
+        "oatmilk",
+        "low-caffeine",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "dunkin iced tea oatmilk",
+        "unsweetened tea dunkin",
+        "gentle drink dunkin"
+      ],
+      "whyItWorks": "Refreshing, crisp black tea brewed fresh and diluted over ice with creamy oatmilk. Gentle caffeine lift without the aggressive gastric acid secretion of dark espresso or the high sugar of swirl syrups.",
+      "prepOrOrderInstructions": "Order: 'Unsweetened Iced Black Tea with a splash of Oatmilk, NO liquid sugar, NO syrup pumps.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/dunkin-unsweetened-iced-black-tea-with-oatmilk.json"
+    },
+    {
       "id": "fody-foods-low-fodmap-mild-salsa",
       "name": "Fody Foods Low-FODMAP Mild Salsa (Garlic & Onion-Free)",
       "categoryFolder": "produce-sides",
@@ -19834,6 +20143,45 @@
       "_sourcePath": "src/data/items/high-protein/drink-wholesome-egg-white-protein-powder.json"
     },
     {
+      "id": "dunkin-toasted-sourdough-with-avocado-spread",
+      "name": "Dunkin' Toasted Sourdough Toast with Avocado Spread",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Dunkin'",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dunkin",
+        "avocado-toast",
+        "sourdough",
+        "healthy-fat",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "dunkin avocado toast",
+        "sourdough avocado dunkin",
+        "dunkin breakfast crohns safe"
+      ],
+      "whyItWorks": "Thick slice of toasted sourdough bread topped with a smooth spread of ripe Hass avocado, sea salt, and a touch of lemon juice. Naturally fermented sourdough is easy to digest, and avocado provides soothing anti-inflammatory monounsaturated fats.",
+      "prepOrOrderInstructions": "Order: 'Avocado Toast—HOLD the Everything Bagel seasoning (avoid seeds and garlic).' Enjoy with hot tea.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/dunkin-toasted-sourdough-with-avocado-spread.json"
+    },
+    {
       "id": "earth-balance-original-buttery-spread",
       "name": "Earth Balance Original Buttery Spread (Dairy-Free)",
       "categoryFolder": "drinks-sauces",
@@ -20771,6 +21119,44 @@
       "whyItWorks": "Pristine salmon filet pan-seared with olive oil delivers anti-inflammatory omega-3 fatty acids and gentle protein inside Pirates of the Caribbean. Tender braised carrots provide digestible beta-carotene without tough cell walls.",
       "prepOrOrderInstructions": "Ask for salmon cooked with light olive oil and sea salt, skipping any spicy Cajun blackening rubs or heavy butter emulsion sauces.",
       "_sourcePath": "src/data/items/dinner/disneyland-blue-bayou-pan-roasted-salmon.json"
+    },
+    {
+      "id": "panera-heritage-ham-swiss-sourdough-plain",
+      "name": "Panera Heritage Ham & Swiss on Sourdough (Plain)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "panera",
+        "ham-swiss",
+        "sourdough",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "panera ham and swiss",
+        "ham sandwich sourdough panera",
+        "deli ham panera bread"
+      ],
+      "whyItWorks": "Tender unsmoked ham and naturally aged Swiss cheese (virtually zero lactose) on country rustic sourdough bread. Mild and easy on gut motility.",
+      "prepOrOrderInstructions": "Order: 'Deli Ham & Swiss on Country Rustic Sourdough—plain with light mayo, NO spicy mustard, NO lettuce, NO tomato, NO red onions.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/panera-heritage-ham-swiss-sourdough-plain.json"
     },
     {
       "id": "penny-anns-cafe-scrambled-eggs-ham-white-toast",
@@ -22674,6 +23060,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/outshine-fruit-bars-creamy-coconut.json"
     },
     {
+      "id": "panera-scrambled-egg-and-cheese-brioche-plain",
+      "name": "Panera Scrambled Egg & Aged White Cheddar on Brioche (Plain)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Panera Bread",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "panera",
+        "breakfast-sandwich",
+        "egg-cheese",
+        "brioche",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "panera egg and cheese brioche",
+        "scrambled egg sandwich panera",
+        "plain breakfast sandwich panera"
+      ],
+      "whyItWorks": "Freshly scrambled egg and aged white cheddar on a soft brioche roll. Avoids bacon grease, sausage patties, and spicy garlic aiolis for a gentle morning breakfast.",
+      "prepOrOrderInstructions": "Order: 'Scrambled Egg & Cheese on Brioche—plain, NO bacon, NO sausage, NO garlic aioli.' Toast lightly.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/panera-scrambled-egg-and-cheese-brioche-plain.json"
+    },
+    {
       "id": "peeled-boiled-rutabaga-mash",
       "name": "Peeled Boiled Rutabaga Mash",
       "categoryFolder": "produce-sides",
@@ -22710,6 +23134,44 @@
       "prepOrOrderInstructions": "Peel deeply with a paring knife past the wax coating into pale flesh. Dice small, boil for 25 minutes until crushable with a fork, and mash smooth with olive oil and salt.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/produce-sides/peeled-boiled-rutabaga-mash.json"
+    },
+    {
+      "id": "peets-coffee-plain-warm-oatmeal-brown-sugar",
+      "name": "Peet's Coffee Plain Warm Oatmeal with Brown Sugar (Nut Packet Discarded)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Peet's Coffee",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "peets-coffee",
+        "oatmeal",
+        "breakfast",
+        "soluble-fiber",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "peets coffee oatmeal",
+        "warm oatmeal peets",
+        "crohns safe breakfast peets"
+      ],
+      "whyItWorks": "Rolled whole oats steeped in hot water. Steaming softens the oats into easily absorbed soluble fiber. Discarding the companion dried fruit and nut pack keeps it free of stricture hazards.",
+      "prepOrOrderInstructions": "Order: 'Warm Oatmeal plain with hot water.' Use the brown sugar packet; discard the walnut and dried cranberry packet.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/peets-coffee-plain-warm-oatmeal-brown-sugar.json"
     },
     {
       "id": "philadelphia-plant-based-cream-cheese",
@@ -24094,6 +24556,44 @@
       "_sourcePath": "src/data/items/breakfast/disneyland-red-rose-taverne-breakfast-pancakes-eggs.json"
     },
     {
+      "id": "dunkin-wake-up-wrap-egg-and-cheese-plain",
+      "name": "Dunkin' Egg & Cheese Wake-Up Wrap (Plain, No Meat)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Dunkin'",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dunkin",
+        "wake-up-wrap",
+        "egg-cheese",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "dunkin wake up wrap",
+        "egg and cheese wrap dunkin",
+        "plain wrap dunkin donuts"
+      ],
+      "whyItWorks": "Warm small soft flour tortilla folded around a fluffy egg patty and melted American cheese. Small portion size (under 200 calories) that avoids heavy stomach distension on road trips.",
+      "prepOrOrderInstructions": "Order: 'Egg & Cheese Wake-Up Wrap plain—NO bacon, NO sausage.' Order two if you need more protein.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/dunkin-wake-up-wrap-egg-and-cheese-plain.json"
+    },
+    {
       "id": "frenchs-classic-yellow-mustard",
       "name": "French's Classic Yellow Mustard (Smooth Stone-Ground)",
       "categoryFolder": "drinks-sauces",
@@ -24930,6 +25430,45 @@
       "_sourcePath": "src/data/items/dinner/dca-wine-country-trattoria-roasted-salmon.json"
     },
     {
+      "id": "panera-classic-grilled-cheese-sourdough",
+      "name": "Panera Classic Grilled Cheese on Classic White Sourdough",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "panera",
+        "grilled-cheese",
+        "sourdough",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "panera grilled cheese",
+        "classic grilled cheese sourdough",
+        "warm sandwich panera"
+      ],
+      "whyItWorks": "Melted American cheese grilled on sliced white sourdough bread. Provides comforting warmth and easy calories during recovery when greasy meats and veggies must be avoided.",
+      "prepOrOrderInstructions": "Order: 'Classic Grilled Cheese on Country Rustic Sourdough.' Pair with a cup of Homestyle Chicken Noodle Soup.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/panera-classic-grilled-cheese-sourdough.json"
+    },
+    {
       "id": "peeled-boiled-baby-turnips",
       "name": "Peeled Baby Turnips (Boiled Tender with Sea Salt)",
       "categoryFolder": "produce-sides",
@@ -24964,6 +25503,43 @@
       "prepOrOrderInstructions": "Trim greens, peel skin completely, quarter roots, and boil in chicken broth for 15 minutes until knife pierces without resistance.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/produce-sides/peeled-boiled-baby-turnips.json"
+    },
+    {
+      "id": "peets-coffee-egg-and-cheddar-sandwich-plain",
+      "name": "Peet's Coffee Egg & Cheddar Breakfast Sandwich (Plain Soft Brioche)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Peet's Coffee",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "peets-coffee",
+        "breakfast-sandwich",
+        "egg-cheddar",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "peets egg and cheddar sandwich",
+        "breakfast sandwich peets",
+        "egg brioche peets coffee"
+      ],
+      "whyItWorks": "Cage-free folded egg patty and aged sharp cheddar cheese on a soft brioche bun. Naturally low in lactose, non-spicy, and avoids greasy bacon or sausage patties.",
+      "prepOrOrderInstructions": "Order the Egg & Cheddar Sandwich warmed. If stricture-sensitive, check bun crust and eat soft interior.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/peets-coffee-egg-and-cheddar-sandwich-plain.json"
     },
     {
       "id": "pepperidge-farm-farmhouse-hearty-white-bread",
@@ -29963,6 +30539,44 @@
         "Cream cheese lactose"
       ],
       "_sourcePath": "src/data/items/high-protein/panama-canal-smoked-salmon-napoleon-crab-royal.json"
+    },
+    {
+      "id": "panera-steel-cut-oatmeal-with-strawberries-pecans-mod",
+      "name": "Panera Warm Oatmeal (Plain Oats, Pecans & Berries Omitted)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Panera Bread",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "panera",
+        "oatmeal",
+        "breakfast",
+        "soluble-fiber",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "panera oatmeal plain",
+        "steel cut oats panera no nuts",
+        "breakfast oatmeal panera"
+      ],
+      "whyItWorks": "Warm steel-cut and rolled oats slow-cooked in water and organic soy milk. When modified to omit crunchy whole pecans (stricture hazard) and seedy strawberries, it provides soothing beta-glucan soluble fiber.",
+      "prepOrOrderInstructions": "Order: 'Steel Cut Oatmeal—HOLD the cinnamon crunch topping, HOLD the pecans, HOLD the fresh strawberries.' Sweeten with brown sugar or pure honey.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/panera-steel-cut-oatmeal-with-strawberries-pecans-mod.json"
     },
     {
       "id": "dcl-kids-pbj-typhoon-pancake",
@@ -36936,6 +37550,44 @@
         "Take lactase if ordering fresh mozzarella pizza, and skip spicy pepperoni/calabrian chili toppings"
       ],
       "_sourcePath": "src/data/items/italian-med/disneyland-downtown-disney-naples-ristorante-margherita-plain-pasta.json"
+    },
+    {
+      "id": "dutch-bros-plain-cold-brew-with-almond-milk",
+      "name": "Dutch Bros Cold Brew with Unsweetened Almond Milk (Small)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dutch Bros",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dutch-bros",
+        "cold-brew",
+        "almond-milk",
+        "low-acid",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "dutch bros cold brew plain",
+        "cold brew almond milk dutch bros",
+        "smooth cold brew ibd"
+      ],
+      "whyItWorks": "Cold brewing extracts up to 67% less harsh chlorogenic acids and tannins than hot pressurized extraction. Paired with dairy-free almond milk, it is gentler on stomach lining (remission only).",
+      "prepOrOrderInstructions": "Order: 'Small Cold Brew with almond milk—unsweetened, NO Torani syrup, NO Soft Top, NO Breve.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/dutch-bros-plain-cold-brew-with-almond-milk.json"
     },
     {
       "id": "fairlife-core-power-elite-strawberry",
@@ -46773,6 +47425,44 @@
         "Avoid flavors with black pepper, habanero, citrus curd, or whole brittle nuts"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/disneyland-downtown-disney-salt-and-straw-dairy-free-vanilla-ice-cream.json"
+    },
+    {
+      "id": "dunkin-hash-browns-six-piece-warmed",
+      "name": "Dunkin' Crispy Hash Browns (6-Piece Order)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Dunkin'",
+      "crohnsScore": 7.8,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dunkin",
+        "hash-browns",
+        "potato",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "dunkin hash browns",
+        "hash brown coins dunkin",
+        "breakfast potatoes dunkin"
+      ],
+      "whyItWorks": "Shredded potato coins seasoned lightly with sage and white pepper and oven-toasted (not submerged in a deep fryer vat). Lower grease load than standard fast-food hashbrowns.",
+      "prepOrOrderInstructions": "Order the 6-piece hash browns warmed. Eat plain with a pinch of salt; avoid ketchup with high-fructose corn syrup if sensitive.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/dunkin-hash-browns-six-piece-warmed.json"
     },
     {
       "id": "firehouse-pizzeria-logan-garlic-cheese-breadsticks",
@@ -58549,6 +59239,45 @@
         "Contains dairy cream in the mousse—requires lactase"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/disneyland-red-rose-taverne-grey-stuff-gateau.json"
+    },
+    {
+      "id": "dunkin-plain-glazed-yeast-ring-donut",
+      "name": "Dunkin' Classic Glazed Yeast Ring Donut (Remission Treat)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Dunkin'",
+      "crohnsScore": 7.2,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "dessert",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "dunkin",
+        "glazed-donut",
+        "remission-only",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "dunkin glazed donut",
+        "plain glazed donut crohns",
+        "dunkin donuts remission treat"
+      ],
+      "whyItWorks": "A light, airy yeast-risen ring with a simple sugar glaze. Has no seeds, nuts, spices, or heavy cream fillings. Safe as an occasional treat during solid remission; avoid during active flares due to frying oil.",
+      "prepOrOrderInstructions": "Select the classic Glazed Yeast Donut. Avoid filled, jelly, chocolate, or sprinkle-topped varieties.",
+      "safetyTier": "remission-road",
+      "_sourcePath": "src/data/items/breakfast/dunkin-plain-glazed-yeast-ring-donut.json"
     },
     {
       "id": "holiday-inn-express-herriman-signature-cinnamon-roll",
@@ -77887,6 +78616,44 @@
       "_sourcePath": "src/data/items/dinner/merrytime-harvest-corn-chowder.json"
     },
     {
+      "id": "peets-coffee-iced-matcha-green-tea-latte-warning",
+      "name": "WARNING: Peet's Coffee Iced Matcha Green Tea Latte (High Sugar & Motility Stimulant)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Peet's Coffee Warning",
+      "crohnsScore": 4,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "peets-coffee",
+        "matcha-latte",
+        "caffeine",
+        "high-sugar",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "peets matcha latte warning",
+        "iced matcha green tea diarrhea",
+        "matcha gut stimulant flare"
+      ],
+      "whyItWorks": "Concentrated green tea powder rich in caffeine and tannins, sweetened with heavy liquid sugar and served with dairy milk. Matcha's concentrated tannins irritate sensitive ulcers, stimulating rapid bile secretion.",
+      "prepOrOrderInstructions": "Skip commercial matcha lattes during flares. Choose steamed oat milk or pure herbal chamomile tea.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/peets-coffee-iced-matcha-green-tea-latte-warning.json"
+    },
+    {
       "id": "texas-roadhouse-ribeye-steak-fatty-warning",
       "name": "WARNING: Texas Roadhouse 16 oz Ribeye Steak (Heavy Intermuscular Fat)",
       "categoryFolder": "dinner",
@@ -79389,6 +80156,44 @@
       "_sourcePath": "src/data/items/produce-sides/merrytime-carrot-beet-orange-salad.json"
     },
     {
+      "id": "dunkin-refreshers-green-tea-energy-warning",
+      "name": "WARNING: Dunkin' Refreshers (Strawberry Dragonfruit / Mango Pineapple)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dunkin' Warning",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "restaurant",
+        "dunkin",
+        "refreshers",
+        "citric-acid",
+        "concentrate",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "dunkin refresher warning",
+        "strawberry dragonfruit refresher diarrhea",
+        "dunkin iced refresher acid"
+      ],
+      "whyItWorks": "Made with fruit juice concentrates, high citric acid, green tea caffeine extract, and B-vitamins. High acidity inflames mucosal linings and can trigger acid reflux and loose stools.",
+      "prepOrOrderInstructions": "Skip Refreshers. Drink plain iced herbal tea or bottled room-temperature water.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/dunkin-refreshers-green-tea-energy-warning.json"
+    },
+    {
       "id": "mccormick-coarse-ground-black-pepper-warning",
       "name": "WARNING: McCormick Coarse Ground Black Pepper (Piperine Mucosal Irritant & Sharp Flakes)",
       "categoryFolder": "drinks-sauces",
@@ -79799,6 +80604,45 @@
       "prepOrOrderInstructions": "AVOID during active disease. Switch to Fody low-FODMAP garlic-free salsa.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/tostitos-medium-chunky-salsa-warning.json"
+    },
+    {
+      "id": "panera-bacon-turkey-bravo-sandwich-warning",
+      "name": "WARNING: Panera Bacon Turkey Bravo Sandwich (Tomato Basil Bread & Signature Sauce)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread Warning",
+      "crohnsScore": 3.4,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "restaurant",
+        "panera",
+        "bacon-turkey-bravo",
+        "high-fat",
+        "garlic-sauce",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "bacon turkey bravo warning",
+        "panera bravo sandwich diarrhea",
+        "signature sauce panera flare"
+      ],
+      "whyItWorks": "Smoked bacon, aged Gouda cheese, acidic raw tomatoes, and Panera Signature Sauce (high in garlic puree, vinegar, and soybean oil) served on sweet Tomato Basil bread. High fat and acidic alliums induce reflux and cramping.",
+      "prepOrOrderInstructions": "Order the roasted turkey plain on sourdough rather than the Bravo build.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/panera-bacon-turkey-bravo-sandwich-warning.json"
     },
     {
       "id": "choczero-sugar-free-chocolate-warning",
@@ -80292,6 +81136,45 @@
       "_sourcePath": "src/data/items/italian-med/whole-wheat-100-percent-spaghetti-warning.json"
     },
     {
+      "id": "dunkin-boston-kreme-donut-custard-warning",
+      "name": "WARNING: Dunkin' Boston Kreme Donut (Heavy Custard, Chocolate & Frying Fats)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Dunkin' Warning",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "breakfast",
+        "dessert",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "dunkin",
+        "boston-kreme",
+        "custard",
+        "sugar-dump",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "boston kreme warning",
+        "dunkin boston kreme diarrhea",
+        "cream filled donut flare"
+      ],
+      "whyItWorks": "Combines palm oil deep-frying fats, artificial vanilla Bavarian custard, and a heavy chocolate glaze. The massive bolus of sugar and processed oils triggers rapid gastric emptying, severe osmotic diarrhea, and nausea.",
+      "prepOrOrderInstructions": "Avoid cream-filled and frosted donuts. Choose a plain glazed yeast donut or English muffin.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/dunkin-boston-kreme-donut-custard-warning.json"
+    },
+    {
       "id": "old-bay-classic-seafood-seasoning-warning",
       "name": "WARNING: Old Bay Classic Seafood Seasoning (Coarse Celery Seed & Crushed Red Pepper)",
       "categoryFolder": "drinks-sauces",
@@ -80328,6 +81211,45 @@
       "prepOrOrderInstructions": "Season seafood with pure fine sea salt, fresh lemon juice (if in remission), and melted ghee rather than Old Bay.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/old-bay-classic-seafood-seasoning-warning.json"
+    },
+    {
+      "id": "peets-coffee-havarti-and-dijon-bacon-panini-warning",
+      "name": "WARNING: Peet's Coffee Bacon & Havarti Panini (Rough Crust & Dijon Mustard)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Peet's Coffee Warning",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "peets-coffee",
+        "panini",
+        "rough-crust",
+        "dijon",
+        "bacon-grease",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "peets panini warning",
+        "havarti bacon panini diarrhea",
+        "hard crust sandwich flare"
+      ],
+      "whyItWorks": "Pressed artisan rustic roll with sharp, hard-toasted crusts that pose mechanical swallowing and transit abrasion. Filled with greasy bacon strips and whole-grain Dijon mustard seeds.",
+      "prepOrOrderInstructions": "Choose soft brioche breakfast sandwiches or plain oatmeal rather than hard-pressed paninis.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/peets-coffee-havarti-and-dijon-bacon-panini-warning.json"
     },
     {
       "id": "raw-sugar-snap-peas-pod-warning",
@@ -81296,6 +82218,44 @@
       "_sourcePath": "src/data/items/italian-med/cold-pasta-salad-raw-vegetables-warning.json"
     },
     {
+      "id": "dutch-bros-chai-tea-latte-spicy-warning",
+      "name": "WARNING: Dutch Bros Hot Chai Tea Latte (Spicy Concentrate & Whole Milk)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dutch Bros Warning",
+      "crohnsScore": 3,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "dutch-bros",
+        "chai-latte",
+        "spicy-black-pepper",
+        "dairy",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "dutch bros chai warning",
+        "chai tea latte diarrhea",
+        "spicy chai crohns flare"
+      ],
+      "whyItWorks": "Commercial Oregon Chai concentrate containing black pepper extract, clove oils, and ginger oleoresin combined with steamed dairy milk. Pepper heat and dairy cause gastric burning and intestinal hypermotility.",
+      "prepOrOrderInstructions": "Skip commercial spicy chai. Choose mild chamomile herbal tea or a steamed oat milk vanilla steamer.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/dutch-bros-chai-tea-latte-spicy-warning.json"
+    },
+    {
       "id": "goya-sazon-con-culantro-y-achiote-warning",
       "name": "WARNING: Goya Sazón with Culantro & Achiote (MSG, Salt & Artificial Dyes)",
       "categoryFolder": "drinks-sauces",
@@ -81830,6 +82790,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/maggi-seasoning-cubes-monosodium-glutamate-warning.json"
     },
     {
+      "id": "panera-cinnamon-crunch-bagel-walnut-shmear-warning",
+      "name": "WARNING: Panera Cinnamon Crunch Bagel with Honey Walnut Cream Cheese",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Panera Bread Warning",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "panera",
+        "cinnamon-crunch-bagel",
+        "walnuts",
+        "sugar-crust",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "cinnamon crunch bagel warning",
+        "panera cinnamon bagel diarrhea",
+        "honey walnut shmear hazard"
+      ],
+      "whyItWorks": "Topped with a thick crystallized sugar-cinnamon crust (430 calories and 32g added sugar per bagel). Paired with honey walnut cream cheese, the hard walnut pieces pose stricture blockage hazards while the massive sugar bolus induces osmotic dumping.",
+      "prepOrOrderInstructions": "Choose Panera's Plain Bagel lightly toasted with plain cream cheese or butter.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/panera-cinnamon-crunch-bagel-walnut-shmear-warning.json"
+    },
+    {
       "id": "raw-asparagus-woody-spears-warning",
       "name": "WARNING: Raw Asparagus Stalks & Fibrous Woody Bottoms",
       "categoryFolder": "produce-sides",
@@ -81978,6 +82976,44 @@
       "prepOrOrderInstructions": "Avoid Sazón Completa blends. Use single-ingredient spices: ground cumin, dried oregano, and Redmond sea salt.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/badia-complete-seasoning-sazon-completa-warning.json"
+    },
+    {
+      "id": "dunkin-sausage-egg-cheese-croissant-warning",
+      "name": "WARNING: Dunkin' Sausage, Egg & Cheese on Croissant (Heavy Grease Stack)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Dunkin' Warning",
+      "crohnsScore": 2.7,
+      "mealTypes": [
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "dunkin",
+        "sausage-croissant",
+        "high-fat",
+        "grease-stack",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "dunkin sausage croissant warning",
+        "sausage egg cheese croissant diarrhea",
+        "greasy breakfast sandwich dunkin"
+      ],
+      "whyItWorks": "Packs 720 calories and over 50g of fat from a greasy pork sausage patty and a butter-laminated flaky croissant. Strains biliary secretion and triggers immediate postprandial gastrocolic cramping.",
+      "prepOrOrderInstructions": "Choose the plain Egg & Cheese Wake-Up Wrap or toasted English muffin instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/dunkin-sausage-egg-cheese-croissant-warning.json"
     },
     {
       "id": "toleran-organic-red-lentil-penne-warning",
@@ -82324,6 +83360,46 @@
       "prepOrOrderInstructions": "Skip Heinz 57. Season meats with Redmond sea salt and Fody low-FODMAP steak spice instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/heinz-57-sauce-onion-garlic-spice-warning.json"
+    },
+    {
+      "id": "panera-mediterranean-bowl-hummus-feta-warning",
+      "name": "WARNING: Panera Mediterranean Warm Grain Bowl with Chicken",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread Warning",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 9,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "restaurant",
+        "panera",
+        "grain-bowl",
+        "high-fiber",
+        "quinoa",
+        "garlic-hummus",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "panera mediterranean bowl warning",
+        "warm grain bowl diarrhea",
+        "quinoa brown rice bowl flare"
+      ],
+      "whyItWorks": "Features 9g of coarse fiber from whole-grain brown rice and quinoa, topped with raw diced cucumbers, raw red onions, whole kalamata olives, garlic hummus, and Greek yogurt dressing. Rough seeds, skins, and garlic triggers.",
+      "prepOrOrderInstructions": "Skip grain bowls with whole quinoa and raw veggies. Order plain white sourdough sandwiches.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/panera-mediterranean-bowl-hummus-feta-warning.json"
     },
     {
       "id": "traditional-pasta-puttanesca-capers-olives-warning",
@@ -84127,6 +85203,85 @@
       "_sourcePath": "src/data/items/italian-med/explore-cuisine-black-bean-spaghetti-warning.json"
     },
     {
+      "id": "dutch-bros-golden-eagle-breve-warning",
+      "name": "WARNING: Dutch Bros Golden Eagle Breve (Half-and-Half Heavy Cream Base)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dutch Bros Warning",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "dutch-bros",
+        "golden-eagle",
+        "breve",
+        "half-and-half",
+        "lactose-bomb",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "dutch bros golden eagle warning",
+        "golden eagle breve diarrhea",
+        "half and half coffee flare"
+      ],
+      "whyItWorks": "A 'Breve' uses 100% Half-and-Half cream instead of milk, packing 40g+ of dense dairy fat per cup alongside vanilla and caramel syrup pumps. Severe lactose and bile-dump diarrhea trigger.",
+      "prepOrOrderInstructions": "Always substitute Breve (half-and-half) with oat milk or almond milk, and ask for sugar-free or syrup-free.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/dutch-bros-golden-eagle-breve-warning.json"
+    },
+    {
+      "id": "panera-green-goddess-cobb-salad-warning",
+      "name": "WARNING: Panera Green Goddess Cobb Salad with Chicken",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread Warning",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 7,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "restaurant",
+        "panera",
+        "salad",
+        "raw-roughage",
+        "pickled-onions",
+        "bacon",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "panera green goddess salad warning",
+        "green goddess cobb diarrhea",
+        "panera salad flare crohns"
+      ],
+      "whyItWorks": "A dense roughage trap: raw chopped romaine and baby arugula, whole pickled red onions, raw diced red onions, hard-boiled eggs, bacon grease, gorgonzola cheese crumbles, and high-fat herb buttermilk dressing. Violent scraping and allium fermentation.",
+      "prepOrOrderInstructions": "Skip cold salads at Panera during active inflammation. Choose a warm, plain roasted turkey sandwich.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/panera-green-goddess-cobb-salad-warning.json"
+    },
+    {
       "id": "raw-collard-greens-tough-ribs-warning",
       "name": "WARNING: Raw Collard Greens & Leathery Leaf Stems",
       "categoryFolder": "produce-sides",
@@ -84584,6 +85739,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/energy-drinks-caffeine-taurine-hazard-warning.json"
     },
     {
+      "id": "dunkin-frozen-coffee-caramel-swirl-warning",
+      "name": "CRITICAL WARNING: Dunkin' Frozen Coffee with Caramel Swirl & Cream",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dunkin' Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "dunkin",
+        "frozen-coffee",
+        "caramel-swirl",
+        "extreme-sugar",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "dunkin frozen coffee warning",
+        "caramel swirl frozen coffee diarrhea",
+        "dunkin coffee sugar dump"
+      ],
+      "whyItWorks": "A medium packs 900 calories, 130g of sugar, heavy dairy cream, and 300mg of concentrated caffeine. This hyperosmolar sugar-caffeine-dairy bomb forces immense water into the bowel, causing explosive watery diarrhea.",
+      "prepOrOrderInstructions": "Never order Frozen Coffees or Swirls. Order iced black tea with oatmilk or a simple hot latte with almond milk.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/dunkin-frozen-coffee-caramel-swirl-warning.json"
+    },
+    {
       "id": "maille-old-style-whole-grain-dijon-mustard-warning",
       "name": "CRITICAL WARNING: Maille Old Style Whole Grain Dijon Mustard (Abrasive Seed Hazard)",
       "categoryFolder": "drinks-sauces",
@@ -84657,6 +85850,45 @@
       "prepOrOrderInstructions": "Never order the Tour of Italy. Stick to simple single-protein entrees like plain grilled salmon or plain grilled chicken with olive oil penne.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/dinner/olive-garden-tour-of-italy-heavy-fat-warning.json"
+    },
+    {
+      "id": "panera-bistro-french-onion-soup-warning",
+      "name": "CRITICAL WARNING: Panera Bistro French Onion Soup (Caramelized Onion Fructan Bomb)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "panera",
+        "french-onion-soup",
+        "fructans",
+        "bloating-bomb",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "panera french onion soup warning",
+        "bistro french onion diarrhea",
+        "french onion soup crohns attack"
+      ],
+      "whyItWorks": "Literally bowls of whole caramelized sweet onions simmered in beef broth topped with melted Gruyere and croutons. Packs an astronomical concentration of prebiotic fructans that rapidly ferment into massive gas distension and painful colic.",
+      "prepOrOrderInstructions": "Never consume French Onion Soup with IBD. Stick exclusively to clear chicken noodle broth.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/panera-bistro-french-onion-soup-warning.json"
     },
     {
       "id": "dca-adorable-snowman-lemon-soft-serve-citrus-warning",
@@ -84811,6 +86043,46 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Zero tolerance food for inflammatory bowel disease.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/snacks-desserts/takis-fuego-rolled-tortilla-chips-warning.json"
+    },
+    {
+      "id": "dutch-bros-picture-perfect-freeze-warning",
+      "name": "WARNING: Dutch Bros Picture Perfect Freeze (Frozen Caramel & Chocolate Overload)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dutch Bros Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "drink",
+        "dessert",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "dutch-bros",
+        "picture-perfect",
+        "freeze",
+        "heavy-sugar",
+        "dairy-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "picture perfect freeze warning",
+        "dutch bros freeze diarrhea",
+        "caramel chocolate freeze crohns"
+      ],
+      "whyItWorks": "Frozen espresso blended with high-sugar ice cream mix, lined with caramel drizzle and dark chocolate sauce, and capped with heavy Soft Top cream. Massive dairy fat + sugar shock induces rapid gut dumping.",
+      "prepOrOrderInstructions": "Avoid Dutch Bros Freezes. Order an iced decaf Americano with oat milk.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/dutch-bros-picture-perfect-freeze-warning.json"
     },
     {
       "id": "shin-ramen-spicy-instant-noodles-warning",
@@ -85038,6 +86310,46 @@
       "_sourcePath": "src/data/items/drinks-sauces/crushed-red-pepper-pizza-flakes-warning.json"
     },
     {
+      "id": "panera-broccoli-cheddar-soup-bread-bowl-warning",
+      "name": "CRITICAL WARNING: Panera Broccoli Cheddar Soup in Sourdough Bread Bowl",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Panera Bread Warning",
+      "crohnsScore": 1.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 7,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "panera",
+        "broccoli-cheddar",
+        "bread-bowl",
+        "cruciferous",
+        "heavy-cream",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "panera broccoli cheddar soup warning",
+        "broccoli cheddar bread bowl diarrhea",
+        "panera soup colitis flare"
+      ],
+      "whyItWorks": "CLINICAL WARNING: A famous IBD disaster. Combines 40g+ heavy dairy fat and lactose from heavy whipping cream, thousands of milligrams of sodium, thick starch emulsifiers, raw chopped broccoli florets/stems (insoluble raffinose sulfur bomb), and a 1-pound dense sourdough bowl. Severe gas spasms and urgent diarrhea guaranteed.",
+      "prepOrOrderInstructions": "Never order Broccoli Cheddar Soup or Bread Bowls. Stick to Homestyle Chicken Noodle Soup in a standard cup.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/panera-broccoli-cheddar-soup-bread-bowl-warning.json"
+    },
+    {
       "id": "raw-oysters-on-the-half-shell-warning",
       "name": "Raw Oysters on the Half Shell (Vibrio Sepsis WARNING)",
       "categoryFolder": "high-protein",
@@ -85195,6 +86507,45 @@
         "Grapefruit juice, zest, and segments (strict medication & gut contraindication)"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/1923-californian-grapefruit-cake-avoid.json"
+    },
+    {
+      "id": "dutch-bros-rebel-energy-drink-blue-razz-warning",
+      "name": "CRITICAL WARNING: Dutch Bros Rebel Energy Drinks (Taurine, Carbonation & Sugar)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Dutch Bros Warning",
+      "crohnsScore": 1,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "restaurant",
+        "dutch-bros",
+        "rebel-energy",
+        "taurine",
+        "carbonation",
+        "artificial-dye",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "dutch bros rebel warning",
+        "rebel energy drink diarrhea",
+        "dutch bros energy drink colitis flare"
+      ],
+      "whyItWorks": "EMERGENCY CLINICAL TRIGGER: Combines high doses of taurine, glucuronolactone, synthetic caffeine, extreme carbonation, artificial Blue 1 dyes, and up to 80g of high-fructose corn syrup. Sparks violent colonic motor contractions, intense gas pressure, and mucosal bleeding.",
+      "prepOrOrderInstructions": "NEVER consume Dutch Bros Rebel energy drinks if you have IBD. Stick to decaf hot teas.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/dutch-bros-rebel-energy-drink-blue-razz-warning.json"
     },
     {
       "id": "outback-steakhouse-bloomin-onion-extreme-warning",

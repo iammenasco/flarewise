@@ -1,0 +1,39 @@
+{
+  "id": "panera-broccoli-cheddar-soup-bread-bowl-warning",
+  "name": "CRITICAL WARNING: Panera Broccoli Cheddar Soup in Sourdough Bread Bowl",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread Warning",
+  "crohnsScore": 1.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 7,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "panera",
+    "broccoli-cheddar",
+    "bread-bowl",
+    "cruciferous",
+    "heavy-cream",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "panera broccoli cheddar soup warning",
+    "broccoli cheddar bread bowl diarrhea",
+    "panera soup colitis flare"
+  ],
+  "whyItWorks": "CLINICAL WARNING: A famous IBD disaster. Combines 40g+ heavy dairy fat and lactose from heavy whipping cream, thousands of milligrams of sodium, thick starch emulsifiers, raw chopped broccoli florets/stems (insoluble raffinose sulfur bomb), and a 1-pound dense sourdough bowl. Severe gas spasms and urgent diarrhea guaranteed.",
+  "prepOrOrderInstructions": "Never order Broccoli Cheddar Soup or Bread Bowls. Stick to Homestyle Chicken Noodle Soup in a standard cup.",
+  "safetyTier": "danger-zone"
+}

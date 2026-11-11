@@ -1,0 +1,38 @@
+{
+  "id": "panera-bistro-french-onion-soup-warning",
+  "name": "CRITICAL WARNING: Panera Bistro French Onion Soup (Caramelized Onion Fructan Bomb)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "panera",
+    "french-onion-soup",
+    "fructans",
+    "bloating-bomb",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "panera french onion soup warning",
+    "bistro french onion diarrhea",
+    "french onion soup crohns attack"
+  ],
+  "whyItWorks": "Literally bowls of whole caramelized sweet onions simmered in beef broth topped with melted Gruyere and croutons. Packs an astronomical concentration of prebiotic fructans that rapidly ferment into massive gas distension and painful colic.",
+  "prepOrOrderInstructions": "Never consume French Onion Soup with IBD. Stick exclusively to clear chicken noodle broth.",
+  "safetyTier": "danger-zone"
+}

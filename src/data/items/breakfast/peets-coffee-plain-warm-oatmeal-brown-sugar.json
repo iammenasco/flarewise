@@ -1,0 +1,37 @@
+{
+  "id": "peets-coffee-plain-warm-oatmeal-brown-sugar",
+  "name": "Peet's Coffee Plain Warm Oatmeal with Brown Sugar (Nut Packet Discarded)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Peet's Coffee",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "peets-coffee",
+    "oatmeal",
+    "breakfast",
+    "soluble-fiber",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "peets coffee oatmeal",
+    "warm oatmeal peets",
+    "crohns safe breakfast peets"
+  ],
+  "whyItWorks": "Rolled whole oats steeped in hot water. Steaming softens the oats into easily absorbed soluble fiber. Discarding the companion dried fruit and nut pack keeps it free of stricture hazards.",
+  "prepOrOrderInstructions": "Order: 'Warm Oatmeal plain with hot water.' Use the brown sugar packet; discard the walnut and dried cranberry packet.",
+  "safetyTier": "low-risk"
+}

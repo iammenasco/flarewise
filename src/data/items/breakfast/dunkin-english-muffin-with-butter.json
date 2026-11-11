@@ -1,0 +1,38 @@
+{
+  "id": "dunkin-english-muffin-with-butter",
+  "name": "Dunkin' Toasted Plain English Muffin with Butter",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Dunkin'",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "dunkin",
+    "english-muffin",
+    "toasted",
+    "low-fat",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "dunkin english muffin",
+    "toasted english muffin butter",
+    "breakfast bread dunkin"
+  ],
+  "whyItWorks": "Light, airy enriched flour muffin toasted golden with a light spread of real butter. Very gentle, low in insoluble roughage, and easy on morning digestion.",
+  "prepOrOrderInstructions": "Order: 'Toasted English Muffin with butter on the side.'",
+  "safetyTier": "low-risk"
+}

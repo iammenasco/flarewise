@@ -1,0 +1,37 @@
+{
+  "id": "dutch-bros-plain-cold-brew-with-almond-milk",
+  "name": "Dutch Bros Cold Brew with Unsweetened Almond Milk (Small)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dutch Bros",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "dutch-bros",
+    "cold-brew",
+    "almond-milk",
+    "low-acid",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "dutch bros cold brew plain",
+    "cold brew almond milk dutch bros",
+    "smooth cold brew ibd"
+  ],
+  "whyItWorks": "Cold brewing extracts up to 67% less harsh chlorogenic acids and tannins than hot pressurized extraction. Paired with dairy-free almond milk, it is gentler on stomach lining (remission only).",
+  "prepOrOrderInstructions": "Order: 'Small Cold Brew with almond milk—unsweetened, NO Torani syrup, NO Soft Top, NO Breve.'",
+  "safetyTier": "low-risk"
+}

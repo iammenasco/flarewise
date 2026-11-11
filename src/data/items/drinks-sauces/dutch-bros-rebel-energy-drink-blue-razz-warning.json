@@ -1,0 +1,38 @@
+{
+  "id": "dutch-bros-rebel-energy-drink-blue-razz-warning",
+  "name": "CRITICAL WARNING: Dutch Bros Rebel Energy Drinks (Taurine, Carbonation & Sugar)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dutch Bros Warning",
+  "crohnsScore": 1,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "restaurant",
+    "dutch-bros",
+    "rebel-energy",
+    "taurine",
+    "carbonation",
+    "artificial-dye",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dutch bros rebel warning",
+    "rebel energy drink diarrhea",
+    "dutch bros energy drink colitis flare"
+  ],
+  "whyItWorks": "EMERGENCY CLINICAL TRIGGER: Combines high doses of taurine, glucuronolactone, synthetic caffeine, extreme carbonation, artificial Blue 1 dyes, and up to 80g of high-fructose corn syrup. Sparks violent colonic motor contractions, intense gas pressure, and mucosal bleeding.",
+  "prepOrOrderInstructions": "NEVER consume Dutch Bros Rebel energy drinks if you have IBD. Stick to decaf hot teas.",
+  "safetyTier": "danger-zone"
+}

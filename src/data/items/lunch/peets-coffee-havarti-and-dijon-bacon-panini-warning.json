@@ -1,0 +1,38 @@
+{
+  "id": "peets-coffee-havarti-and-dijon-bacon-panini-warning",
+  "name": "WARNING: Peet's Coffee Bacon & Havarti Panini (Rough Crust & Dijon Mustard)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Peet's Coffee Warning",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "peets-coffee",
+    "panini",
+    "rough-crust",
+    "dijon",
+    "bacon-grease",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "peets panini warning",
+    "havarti bacon panini diarrhea",
+    "hard crust sandwich flare"
+  ],
+  "whyItWorks": "Pressed artisan rustic roll with sharp, hard-toasted crusts that pose mechanical swallowing and transit abrasion. Filled with greasy bacon strips and whole-grain Dijon mustard seeds.",
+  "prepOrOrderInstructions": "Choose soft brioche breakfast sandwiches or plain oatmeal rather than hard-pressed paninis.",
+  "safetyTier": "danger-zone"
+}

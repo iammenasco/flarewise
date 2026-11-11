@@ -1,0 +1,37 @@
+{
+  "id": "panera-scrambled-egg-and-cheese-brioche-plain",
+  "name": "Panera Scrambled Egg & Aged White Cheddar on Brioche (Plain)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Panera Bread",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "panera",
+    "breakfast-sandwich",
+    "egg-cheese",
+    "brioche",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "panera egg and cheese brioche",
+    "scrambled egg sandwich panera",
+    "plain breakfast sandwich panera"
+  ],
+  "whyItWorks": "Freshly scrambled egg and aged white cheddar on a soft brioche roll. Avoids bacon grease, sausage patties, and spicy garlic aiolis for a gentle morning breakfast.",
+  "prepOrOrderInstructions": "Order: 'Scrambled Egg & Cheese on Brioche—plain, NO bacon, NO sausage, NO garlic aioli.' Toast lightly.",
+  "safetyTier": "low-risk"
+}

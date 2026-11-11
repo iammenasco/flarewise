@@ -1,0 +1,38 @@
+{
+  "id": "panera-classic-grilled-cheese-sourdough",
+  "name": "Panera Classic Grilled Cheese on Classic White Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "panera",
+    "grilled-cheese",
+    "sourdough",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "panera grilled cheese",
+    "classic grilled cheese sourdough",
+    "warm sandwich panera"
+  ],
+  "whyItWorks": "Melted American cheese grilled on sliced white sourdough bread. Provides comforting warmth and easy calories during recovery when greasy meats and veggies must be avoided.",
+  "prepOrOrderInstructions": "Order: 'Classic Grilled Cheese on Country Rustic Sourdough.' Pair with a cup of Homestyle Chicken Noodle Soup.",
+  "safetyTier": "low-risk"
+}

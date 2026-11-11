@@ -1,0 +1,39 @@
+{
+  "id": "dutch-bros-picture-perfect-freeze-warning",
+  "name": "WARNING: Dutch Bros Picture Perfect Freeze (Frozen Caramel & Chocolate Overload)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dutch Bros Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "drink",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "dutch-bros",
+    "picture-perfect",
+    "freeze",
+    "heavy-sugar",
+    "dairy-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "picture perfect freeze warning",
+    "dutch bros freeze diarrhea",
+    "caramel chocolate freeze crohns"
+  ],
+  "whyItWorks": "Frozen espresso blended with high-sugar ice cream mix, lined with caramel drizzle and dark chocolate sauce, and capped with heavy Soft Top cream. Massive dairy fat + sugar shock induces rapid gut dumping.",
+  "prepOrOrderInstructions": "Avoid Dutch Bros Freezes. Order an iced decaf Americano with oat milk.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "peets-coffee-iced-matcha-green-tea-latte-warning",
+  "name": "WARNING: Peet's Coffee Iced Matcha Green Tea Latte (High Sugar & Motility Stimulant)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Peet's Coffee Warning",
+  "crohnsScore": 4,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "peets-coffee",
+    "matcha-latte",
+    "caffeine",
+    "high-sugar",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "peets matcha latte warning",
+    "iced matcha green tea diarrhea",
+    "matcha gut stimulant flare"
+  ],
+  "whyItWorks": "Concentrated green tea powder rich in caffeine and tannins, sweetened with heavy liquid sugar and served with dairy milk. Matcha's concentrated tannins irritate sensitive ulcers, stimulating rapid bile secretion.",
+  "prepOrOrderInstructions": "Skip commercial matcha lattes during flares. Choose steamed oat milk or pure herbal chamomile tea.",
+  "safetyTier": "danger-zone"
+}

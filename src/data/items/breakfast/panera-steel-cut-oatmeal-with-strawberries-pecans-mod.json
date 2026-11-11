@@ -1,0 +1,37 @@
+{
+  "id": "panera-steel-cut-oatmeal-with-strawberries-pecans-mod",
+  "name": "Panera Warm Oatmeal (Plain Oats, Pecans & Berries Omitted)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Panera Bread",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "panera",
+    "oatmeal",
+    "breakfast",
+    "soluble-fiber",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "panera oatmeal plain",
+    "steel cut oats panera no nuts",
+    "breakfast oatmeal panera"
+  ],
+  "whyItWorks": "Warm steel-cut and rolled oats slow-cooked in water and organic soy milk. When modified to omit crunchy whole pecans (stricture hazard) and seedy strawberries, it provides soothing beta-glucan soluble fiber.",
+  "prepOrOrderInstructions": "Order: 'Steel Cut Oatmeal—HOLD the cinnamon crunch topping, HOLD the pecans, HOLD the fresh strawberries.' Sweeten with brown sugar or pure honey.",
+  "safetyTier": "low-risk"
+}

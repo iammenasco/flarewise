@@ -1,0 +1,37 @@
+{
+  "id": "panera-cinnamon-crunch-bagel-walnut-shmear-warning",
+  "name": "WARNING: Panera Cinnamon Crunch Bagel with Honey Walnut Cream Cheese",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Panera Bread Warning",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "panera",
+    "cinnamon-crunch-bagel",
+    "walnuts",
+    "sugar-crust",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "cinnamon crunch bagel warning",
+    "panera cinnamon bagel diarrhea",
+    "honey walnut shmear hazard"
+  ],
+  "whyItWorks": "Topped with a thick crystallized sugar-cinnamon crust (430 calories and 32g added sugar per bagel). Paired with honey walnut cream cheese, the hard walnut pieces pose stricture blockage hazards while the massive sugar bolus induces osmotic dumping.",
+  "prepOrOrderInstructions": "Choose Panera's Plain Bagel lightly toasted with plain cream cheese or butter.",
+  "safetyTier": "danger-zone"
+}

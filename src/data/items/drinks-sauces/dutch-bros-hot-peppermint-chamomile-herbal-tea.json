@@ -1,0 +1,38 @@
+{
+  "id": "dutch-bros-hot-peppermint-chamomile-herbal-tea",
+  "name": "Dutch Bros Hot Herbal Tea (Chamomile or Peppermint Sachet)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dutch Bros",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "dutch-bros",
+    "herbal-tea",
+    "peppermint",
+    "chamomile",
+    "antispasmodic",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "dutch bros hot tea",
+    "herbal tea dutch bros",
+    "peppermint tea dutch bros crohns"
+  ],
+  "whyItWorks": "Naturally 100% caffeine-free organic herbal tea sachets brewed in hot water. Menthol in peppermint naturally relaxes intestinal smooth muscle, alleviating abdominal spasms.",
+  "prepOrOrderInstructions": "Order: 'Hot Peppermint (or Chamomile) Tea with hot water only, NO honey syrup pumps, NO sugar.'",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dunkin-sausage-egg-cheese-croissant-warning",
+  "name": "WARNING: Dunkin' Sausage, Egg & Cheese on Croissant (Heavy Grease Stack)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Dunkin' Warning",
+  "crohnsScore": 2.7,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "dunkin",
+    "sausage-croissant",
+    "high-fat",
+    "grease-stack",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dunkin sausage croissant warning",
+    "sausage egg cheese croissant diarrhea",
+    "greasy breakfast sandwich dunkin"
+  ],
+  "whyItWorks": "Packs 720 calories and over 50g of fat from a greasy pork sausage patty and a butter-laminated flaky croissant. Strains biliary secretion and triggers immediate postprandial gastrocolic cramping.",
+  "prepOrOrderInstructions": "Choose the plain Egg & Cheese Wake-Up Wrap or toasted English muffin instead.",
+  "safetyTier": "danger-zone"
+}

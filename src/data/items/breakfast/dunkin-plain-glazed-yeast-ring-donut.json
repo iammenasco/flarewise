@@ -1,0 +1,38 @@
+{
+  "id": "dunkin-plain-glazed-yeast-ring-donut",
+  "name": "Dunkin' Classic Glazed Yeast Ring Donut (Remission Treat)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Dunkin'",
+  "crohnsScore": 7.2,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "dunkin",
+    "glazed-donut",
+    "remission-only",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "dunkin glazed donut",
+    "plain glazed donut crohns",
+    "dunkin donuts remission treat"
+  ],
+  "whyItWorks": "A light, airy yeast-risen ring with a simple sugar glaze. Has no seeds, nuts, spices, or heavy cream fillings. Safe as an occasional treat during solid remission; avoid during active flares due to frying oil.",
+  "prepOrOrderInstructions": "Select the classic Glazed Yeast Donut. Avoid filled, jelly, chocolate, or sprinkle-topped varieties.",
+  "safetyTier": "remission-road"
+}

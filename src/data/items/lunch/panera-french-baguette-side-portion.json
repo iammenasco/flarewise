@@ -1,0 +1,39 @@
+{
+  "id": "panera-french-baguette-side-portion",
+  "name": "Panera Artisan French Baguette (Side Bread Portion)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "panera",
+    "baguette",
+    "side-bread",
+    "low-fat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "panera baguette side",
+    "french baguette panera bread",
+    "plain bread side panera"
+  ],
+  "whyItWorks": "Classic crusty white hearth bread made simply from enriched unbleached flour, water, yeast, and salt. Dairy-free, low-fat, low-residue, and ideal for dipping into clear broth.",
+  "prepOrOrderInstructions": "Select the French Baguette as your complimentary side with any soup or sandwich (skip the apple or chips during active flares).",
+  "safetyTier": "flare-safe"
+}

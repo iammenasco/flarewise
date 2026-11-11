@@ -1,0 +1,38 @@
+{
+  "id": "dunkin-toasted-sourdough-with-avocado-spread",
+  "name": "Dunkin' Toasted Sourdough Toast with Avocado Spread",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Dunkin'",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "dunkin",
+    "avocado-toast",
+    "sourdough",
+    "healthy-fat",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "dunkin avocado toast",
+    "sourdough avocado dunkin",
+    "dunkin breakfast crohns safe"
+  ],
+  "whyItWorks": "Thick slice of toasted sourdough bread topped with a smooth spread of ripe Hass avocado, sea salt, and a touch of lemon juice. Naturally fermented sourdough is easy to digest, and avocado provides soothing anti-inflammatory monounsaturated fats.",
+  "prepOrOrderInstructions": "Order: 'Avocado Toast—HOLD the Everything Bagel seasoning (avoid seeds and garlic).' Enjoy with hot tea.",
+  "safetyTier": "low-risk"
+}

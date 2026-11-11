@@ -1,0 +1,37 @@
+{
+  "id": "dutch-bros-decaf-americano-with-oat-milk",
+  "name": "Dutch Bros Decaf Americano with Steamed Oat Milk",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dutch Bros",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "dutch-bros",
+    "decaf-americano",
+    "oat-milk",
+    "low-acid",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "dutch bros decaf americano",
+    "dutch bros oat milk decaf",
+    "safe coffee dutch bros"
+  ],
+  "whyItWorks": "Decaffeinated espresso diluted with hot water and topped with creamy oat milk. Dilution lowers titratable acidity, while eliminating 99% of caffeine prevents colonic contractions.",
+  "prepOrOrderInstructions": "Order: 'Decaf Americano with a splash of oat milk, unflavored and unsweetened.'",
+  "safetyTier": "flare-safe"
+}

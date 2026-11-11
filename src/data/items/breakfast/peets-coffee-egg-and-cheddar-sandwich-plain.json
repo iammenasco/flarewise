@@ -1,0 +1,36 @@
+{
+  "id": "peets-coffee-egg-and-cheddar-sandwich-plain",
+  "name": "Peet's Coffee Egg & Cheddar Breakfast Sandwich (Plain Soft Brioche)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Peet's Coffee",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "peets-coffee",
+    "breakfast-sandwich",
+    "egg-cheddar",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "peets egg and cheddar sandwich",
+    "breakfast sandwich peets",
+    "egg brioche peets coffee"
+  ],
+  "whyItWorks": "Cage-free folded egg patty and aged sharp cheddar cheese on a soft brioche bun. Naturally low in lactose, non-spicy, and avoids greasy bacon or sausage patties.",
+  "prepOrOrderInstructions": "Order the Egg & Cheddar Sandwich warmed. If stricture-sensitive, check bun crust and eat soft interior.",
+  "safetyTier": "low-risk"
+}

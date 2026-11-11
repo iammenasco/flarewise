@@ -1,0 +1,37 @@
+{
+  "id": "panera-homestyle-chicken-noodle-soup-cup",
+  "name": "Panera Homestyle Chicken Noodle Soup (Cup with Soft Egg Noodles)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "panera",
+    "chicken-noodle-soup",
+    "comfort-food",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "panera chicken noodle soup",
+    "chicken noodle cup panera",
+    "safe soup panera bread"
+  ],
+  "whyItWorks": "Clear chicken broth simmered with tender diced white-meat chicken, softened enriched egg ribbon noodles, and tender diced carrots. Hydrating, warm, low in fiber, and comforting on sensitive bowels.",
+  "prepOrOrderInstructions": "Order a cup or bowl of Homestyle Chicken Noodle Soup with a soft French Baguette on the side. Avoid the bread bowl.",
+  "safetyTier": "flare-safe"
+}

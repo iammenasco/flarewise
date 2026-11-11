@@ -1,0 +1,37 @@
+{
+  "id": "dunkin-frozen-coffee-caramel-swirl-warning",
+  "name": "CRITICAL WARNING: Dunkin' Frozen Coffee with Caramel Swirl & Cream",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dunkin' Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "dunkin",
+    "frozen-coffee",
+    "caramel-swirl",
+    "extreme-sugar",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dunkin frozen coffee warning",
+    "caramel swirl frozen coffee diarrhea",
+    "dunkin coffee sugar dump"
+  ],
+  "whyItWorks": "A medium packs 900 calories, 130g of sugar, heavy dairy cream, and 300mg of concentrated caffeine. This hyperosmolar sugar-caffeine-dairy bomb forces immense water into the bowel, causing explosive watery diarrhea.",
+  "prepOrOrderInstructions": "Never order Frozen Coffees or Swirls. Order iced black tea with oatmilk or a simple hot latte with almond milk.",
+  "safetyTier": "danger-zone"
+}

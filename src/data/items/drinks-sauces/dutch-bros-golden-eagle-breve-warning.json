@@ -1,0 +1,38 @@
+{
+  "id": "dutch-bros-golden-eagle-breve-warning",
+  "name": "WARNING: Dutch Bros Golden Eagle Breve (Half-and-Half Heavy Cream Base)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dutch Bros Warning",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "dutch-bros",
+    "golden-eagle",
+    "breve",
+    "half-and-half",
+    "lactose-bomb",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dutch bros golden eagle warning",
+    "golden eagle breve diarrhea",
+    "half and half coffee flare"
+  ],
+  "whyItWorks": "A 'Breve' uses 100% Half-and-Half cream instead of milk, packing 40g+ of dense dairy fat per cup alongside vanilla and caramel syrup pumps. Severe lactose and bile-dump diarrhea trigger.",
+  "prepOrOrderInstructions": "Always substitute Breve (half-and-half) with oat milk or almond milk, and ask for sugar-free or syrup-free.",
+  "safetyTier": "danger-zone"
+}

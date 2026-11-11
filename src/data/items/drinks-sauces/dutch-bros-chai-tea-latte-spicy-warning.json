@@ -1,0 +1,37 @@
+{
+  "id": "dutch-bros-chai-tea-latte-spicy-warning",
+  "name": "WARNING: Dutch Bros Hot Chai Tea Latte (Spicy Concentrate & Whole Milk)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dutch Bros Warning",
+  "crohnsScore": 3,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "dutch-bros",
+    "chai-latte",
+    "spicy-black-pepper",
+    "dairy",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dutch bros chai warning",
+    "chai tea latte diarrhea",
+    "spicy chai crohns flare"
+  ],
+  "whyItWorks": "Commercial Oregon Chai concentrate containing black pepper extract, clove oils, and ginger oleoresin combined with steamed dairy milk. Pepper heat and dairy cause gastric burning and intestinal hypermotility.",
+  "prepOrOrderInstructions": "Skip commercial spicy chai. Choose mild chamomile herbal tea or a steamed oat milk vanilla steamer.",
+  "safetyTier": "danger-zone"
+}

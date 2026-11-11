@@ -1,0 +1,38 @@
+{
+  "id": "dunkin-boston-kreme-donut-custard-warning",
+  "name": "WARNING: Dunkin' Boston Kreme Donut (Heavy Custard, Chocolate & Frying Fats)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Dunkin' Warning",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "dunkin",
+    "boston-kreme",
+    "custard",
+    "sugar-dump",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "boston kreme warning",
+    "dunkin boston kreme diarrhea",
+    "cream filled donut flare"
+  ],
+  "whyItWorks": "Combines palm oil deep-frying fats, artificial vanilla Bavarian custard, and a heavy chocolate glaze. The massive bolus of sugar and processed oils triggers rapid gastric emptying, severe osmotic diarrhea, and nausea.",
+  "prepOrOrderInstructions": "Avoid cream-filled and frosted donuts. Choose a plain glazed yeast donut or English muffin.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "panera-bacon-turkey-bravo-sandwich-warning",
+  "name": "WARNING: Panera Bacon Turkey Bravo Sandwich (Tomato Basil Bread & Signature Sauce)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread Warning",
+  "crohnsScore": 3.4,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "restaurant",
+    "panera",
+    "bacon-turkey-bravo",
+    "high-fat",
+    "garlic-sauce",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "bacon turkey bravo warning",
+    "panera bravo sandwich diarrhea",
+    "signature sauce panera flare"
+  ],
+  "whyItWorks": "Smoked bacon, aged Gouda cheese, acidic raw tomatoes, and Panera Signature Sauce (high in garlic puree, vinegar, and soybean oil) served on sweet Tomato Basil bread. High fat and acidic alliums induce reflux and cramping.",
+  "prepOrOrderInstructions": "Order the roasted turkey plain on sourdough rather than the Bravo build.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dunkin-unsweetened-iced-black-tea-with-oatmilk",
+  "name": "Dunkin' Unsweetened Iced Black Tea with Oatmilk Splash",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dunkin'",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "dunkin",
+    "iced-tea",
+    "oatmilk",
+    "low-caffeine",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "dunkin iced tea oatmilk",
+    "unsweetened tea dunkin",
+    "gentle drink dunkin"
+  ],
+  "whyItWorks": "Refreshing, crisp black tea brewed fresh and diluted over ice with creamy oatmilk. Gentle caffeine lift without the aggressive gastric acid secretion of dark espresso or the high sugar of swirl syrups.",
+  "prepOrOrderInstructions": "Order: 'Unsweetened Iced Black Tea with a splash of Oatmilk, NO liquid sugar, NO syrup pumps.'",
+  "safetyTier": "low-risk"
+}

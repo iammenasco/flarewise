@@ -1,0 +1,37 @@
+{
+  "id": "dunkin-refreshers-green-tea-energy-warning",
+  "name": "WARNING: Dunkin' Refreshers (Strawberry Dragonfruit / Mango Pineapple)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Dunkin' Warning",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "restaurant",
+    "dunkin",
+    "refreshers",
+    "citric-acid",
+    "concentrate",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dunkin refresher warning",
+    "strawberry dragonfruit refresher diarrhea",
+    "dunkin iced refresher acid"
+  ],
+  "whyItWorks": "Made with fruit juice concentrates, high citric acid, green tea caffeine extract, and B-vitamins. High acidity inflames mucosal linings and can trigger acid reflux and loose stools.",
+  "prepOrOrderInstructions": "Skip Refreshers. Drink plain iced herbal tea or bottled room-temperature water.",
+  "safetyTier": "danger-zone"
+}

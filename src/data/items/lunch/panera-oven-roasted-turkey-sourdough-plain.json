@@ -1,0 +1,38 @@
+{
+  "id": "panera-oven-roasted-turkey-sourdough-plain",
+  "name": "Panera Oven-Roasted Turkey Breast on Country Rustic Sourdough (Plain)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "panera",
+    "turkey-sandwich",
+    "sourdough",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "panera turkey sandwich plain",
+    "panera bread sourdough turkey",
+    "crohns safe lunch panera"
+  ],
+  "whyItWorks": "Thinly sliced, tender roasted turkey breast on naturally fermented Country Rustic Sourdough bread with light mayonnaise. Naturally low in fructans due to sourdough fermentation, low in fiber, and delivers 30g+ of lean poultry protein without spices.",
+  "prepOrOrderInstructions": "Order: 'Roasted Turkey & Avocado BLT—MODIFIED: On Country Rustic Sourdough, NO bacon, NO lettuce, NO tomato, NO red onion, with light mayo.' Or build a custom plain turkey sandwich.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dunkin-wake-up-wrap-egg-and-cheese-plain",
+  "name": "Dunkin' Egg & Cheese Wake-Up Wrap (Plain, No Meat)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Dunkin'",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "dunkin",
+    "wake-up-wrap",
+    "egg-cheese",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "dunkin wake up wrap",
+    "egg and cheese wrap dunkin",
+    "plain wrap dunkin donuts"
+  ],
+  "whyItWorks": "Warm small soft flour tortilla folded around a fluffy egg patty and melted American cheese. Small portion size (under 200 calories) that avoids heavy stomach distension on road trips.",
+  "prepOrOrderInstructions": "Order: 'Egg & Cheese Wake-Up Wrap plain—NO bacon, NO sausage.' Order two if you need more protein.",
+  "safetyTier": "low-risk"
+}

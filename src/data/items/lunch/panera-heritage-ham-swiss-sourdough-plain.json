@@ -1,0 +1,37 @@
+{
+  "id": "panera-heritage-ham-swiss-sourdough-plain",
+  "name": "Panera Heritage Ham & Swiss on Sourdough (Plain)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "panera",
+    "ham-swiss",
+    "sourdough",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "panera ham and swiss",
+    "ham sandwich sourdough panera",
+    "deli ham panera bread"
+  ],
+  "whyItWorks": "Tender unsmoked ham and naturally aged Swiss cheese (virtually zero lactose) on country rustic sourdough bread. Mild and easy on gut motility.",
+  "prepOrOrderInstructions": "Order: 'Deli Ham & Swiss on Country Rustic Sourdough—plain with light mayo, NO spicy mustard, NO lettuce, NO tomato, NO red onions.'",
+  "safetyTier": "low-risk"
+}

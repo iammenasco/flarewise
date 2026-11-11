@@ -1,0 +1,37 @@
+{
+  "id": "peets-coffee-steamed-oat-milk-vanilla-steamer",
+  "name": "Peet's Coffee Steamed Oat Milk Vanilla Steamer (Caffeine-Free)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Peet's Coffee",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "peets-coffee",
+    "oat-milk",
+    "steamer",
+    "caffeine-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "peets vanilla steamer",
+    "steamed oat milk peets",
+    "caffeine free warm drink peets"
+  ],
+  "whyItWorks": "Creamy Pacific Barista oat milk gently steamed with a single pump of pure vanilla syrup. Zero caffeine, zero dairy, zero acids; wonderfully comforting on inflamed mucosa.",
+  "prepOrOrderInstructions": "Order: 'Steamed Oat Milk with 1 pump of vanilla syrup—NO espresso, NO dairy.'",
+  "safetyTier": "flare-safe"
+}

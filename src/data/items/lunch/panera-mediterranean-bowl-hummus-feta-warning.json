@@ -1,0 +1,39 @@
+{
+  "id": "panera-mediterranean-bowl-hummus-feta-warning",
+  "name": "WARNING: Panera Mediterranean Warm Grain Bowl with Chicken",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread Warning",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 9,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "restaurant",
+    "panera",
+    "grain-bowl",
+    "high-fiber",
+    "quinoa",
+    "garlic-hummus",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "panera mediterranean bowl warning",
+    "warm grain bowl diarrhea",
+    "quinoa brown rice bowl flare"
+  ],
+  "whyItWorks": "Features 9g of coarse fiber from whole-grain brown rice and quinoa, topped with raw diced cucumbers, raw red onions, whole kalamata olives, garlic hummus, and Greek yogurt dressing. Rough seeds, skins, and garlic triggers.",
+  "prepOrOrderInstructions": "Skip grain bowls with whole quinoa and raw veggies. Order plain white sourdough sandwiches.",
+  "safetyTier": "danger-zone"
+}
