@@ -1,0 +1,38 @@
+{
+  "id": "fresh-atlantic-salmon-fillet-pan-seared",
+  "name": "Fresh Atlantic Salmon Fillet (Skinless, Pan-Seared)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Fishmonger / Butcher Counter",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fresh-salmon",
+    "skinless-fillet",
+    "omega-3-fatty-acids",
+    "anti-inflammatory",
+    "zero-fiber",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "fresh salmon fillet",
+    "pan seared salmon",
+    "skinless salmon",
+    "omega 3 fish",
+    "healthy fish crohns"
+  ],
+  "whyItWorks": "One of the single most therapeutic whole foods for Crohn's disease and Ulcerative Colitis. Rich in marine EPA and DHA omega-3 polyunsaturated fatty acids, which actively resolve intestinal mucosal inflammation. Delicate protein fibers flake easily, requiring minimal digestive exertion.",
+  "prepOrOrderInstructions": "Sear skinless salmon fillet in 1 tsp olive oil or ghee on a nonstick skillet for 3–4 minutes per side with a pinch of sea salt. Serve over fluffy white rice.",
+  "safetyTier": "flare-safe"
+}

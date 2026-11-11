@@ -1,0 +1,36 @@
+{
+  "id": "smoked-polish-kielbasa-natural-casing-warning",
+  "name": "Smoked Polish Kielbasa (Tough Natural Casing WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Traditional Butcher Counter",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "tough-natural-casing",
+    "hog-casing",
+    "heavy-garlic",
+    "stricture-obstruction-risk"
+  ],
+  "searchKeywords": [
+    "kielbasa warning",
+    "polish sausage danger",
+    "natural casing obstruction",
+    "garlic smoked sausage"
+  ],
+  "whyItWorks": "Stuffed into chewy, fibrous natural hog casing that resists mastication and stomach acid, presenting a mechanical obstruction risk against intestinal strictures. Seasoned with heavy minced garlic and black pepper, provoking painful gas.",
+  "prepOrOrderInstructions": "AVOID during active disease. If eating in deep remission, peel and completely discard the outer casing before chewing.",
+  "safetyTier": "danger-zone"
+}

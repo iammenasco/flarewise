@@ -1,0 +1,36 @@
+{
+  "id": "fresh-pork-tenderloin-medallions",
+  "name": "Fresh Pork Tenderloin Medallions (Seared in Olive Oil)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork-tenderloin",
+    "lean-pork",
+    "as-lean-as-chicken",
+    "tender-medallions",
+    "thiamine-rich"
+  ],
+  "searchKeywords": [
+    "pork tenderloin medallions",
+    "lean pork fillet",
+    "pork tenderloin safe",
+    "easy digest pork"
+  ],
+  "whyItWorks": "Pork tenderloin is just as lean as skinless chicken breast (only 3g fat per 4 oz serving). Tender, mild, and high in thiamine (vitamin B1), without the tough sinew found in pork chops or roasts.",
+  "prepOrOrderInstructions": "Slice tenderloin into 1-inch thick medallions. Sear in olive oil on medium heat for 3–4 minutes per side until 145°F with a light blush in the center.",
+  "safetyTier": "flare-safe"
+}

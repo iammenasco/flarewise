@@ -1,0 +1,34 @@
+{
+  "id": "fresh-beef-flank-steak-marinated-tender",
+  "name": "Fresh Beef Flank Steak (Sliced Thin Across the Grain)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "flank-steak",
+    "thin-sliced-across-grain",
+    "lean-beef",
+    "iron-dense"
+  ],
+  "searchKeywords": [
+    "flank steak",
+    "sliced flank steak",
+    "lean beef steak",
+    "fajita steak meat"
+  ],
+  "whyItWorks": "Very lean cut of beef with long longitudinal muscle fibers. When marinated in light coconut aminos and sliced across the grain into paper-thin strips, it requires minimal mastication.",
+  "prepOrOrderInstructions": "Sear quickly on high heat for 3 minutes per side. CRITICAL: Cut diagonally across the grain into very thin strips before eating.",
+  "safetyTier": "low-risk"
+}

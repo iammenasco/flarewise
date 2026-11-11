@@ -1,0 +1,34 @@
+{
+  "id": "fresh-italian-sweet-pork-sausage",
+  "name": "Fresh Sweet Italian Pork Sausage (Mild, Fennel Only)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 7.7,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet-italian-sausage",
+    "mild-pork-sausage",
+    "fennel-seasoned",
+    "no-chili-flakes",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "sweet italian sausage",
+    "mild sausage no spice",
+    "fennel pork sausage"
+  ],
+  "whyItWorks": "Seasoned with gentle sweet fennel seeds and salt, completely omitting red pepper flakes and hot paprika. When removed from casing and crumbled in a skillet with fat drained, it is well-tolerated in remission.",
+  "prepOrOrderInstructions": "Slit casing, crumble sausage into skillet, cook until browned, and drain excess grease on paper towels.",
+  "safetyTier": "low-risk"
+}

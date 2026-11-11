@@ -1,0 +1,36 @@
+{
+  "id": "ahi-tuna-tartare-raw-sushi-warning",
+  "name": "Ahi Tuna Tartare / Raw Poke Bowl (WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Sushi Bar / Seafood Counter",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "raw-fish",
+    "sesame-seeds",
+    "chili-oil",
+    "opportunistic-pathogens"
+  ],
+  "searchKeywords": [
+    "ahi tartare warning",
+    "raw tuna danger",
+    "poke bowl raw fish",
+    "sushi tartare crohns"
+  ],
+  "whyItWorks": "Raw, uncooked fish poses foodborne bacterial and parasite risks on immunosuppression, while commercial tartare is heavily tossed with whole sesame seeds (stricture hazard!), spicy chili oil, and acidic citrus ponzu.",
+  "prepOrOrderInstructions": "Avoid raw tartare or poke during active disease. Order fully cooked grilled salmon or baked white fish instead.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bone-in-pork-ribs-bbq-crust-warning",
+  "name": "Barbecue Pork Spare Ribs (Grease & Char WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Smokehouse / Butcher Counter",
+  "crohnsScore": 3.4,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "pork-ribs",
+    "charred-bark",
+    "dense-fat",
+    "tough-gristle-hazard"
+  ],
+  "searchKeywords": [
+    "pork ribs warning",
+    "bbq ribs danger",
+    "spare ribs diarrhea",
+    "rib gristle obstruction"
+  ],
+  "whyItWorks": "Pork spare ribs feature high intermuscular fat, tough chewy gristle, and a sugary, charred barbecue bark loaded with black pepper and chili powder. High fat + tough gristle + spice creates intense digestive cramping.",
+  "prepOrOrderInstructions": "AVOID during active inflammation. Choose lean pork tenderloin medallions instead.",
+  "safetyTier": "danger-zone"
+}

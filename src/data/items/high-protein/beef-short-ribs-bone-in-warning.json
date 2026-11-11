@@ -1,0 +1,34 @@
+{
+  "id": "beef-short-ribs-bone-in-warning",
+  "name": "Braised Beef Short Ribs (Extreme Fat WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Butcher Counter",
+  "crohnsScore": 4.5,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "beef-short-ribs",
+    "high-saturated-fat-30g",
+    "heavy-connective-tissue",
+    "nausea-trigger"
+  ],
+  "searchKeywords": [
+    "beef short ribs warning",
+    "short ribs danger",
+    "fatty beef ribs"
+  ],
+  "whyItWorks": "Beef short ribs are one of the fattiest cuts of beef available, yielding over 35g fat per portion even after cooking. The heavy layer of rendered beef fat can trigger intense nausea, reflux, and loose stools.",
+  "prepOrOrderInstructions": "Avoid during flares. If cooking in remission, chill braising liquid overnight to lift and discard all solidified fat before serving.",
+  "safetyTier": "danger-zone"
+}

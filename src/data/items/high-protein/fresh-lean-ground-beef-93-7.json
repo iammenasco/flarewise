@@ -1,0 +1,36 @@
+{
+  "id": "fresh-lean-ground-beef-93-7",
+  "name": "Fresh 93% Lean / 7% Fat Ground Beef (Skillet-Browned)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "93-7-ground-beef",
+    "lean-ground-beef",
+    "iron-rich",
+    "drained-fat",
+    "dinner-staple"
+  ],
+  "searchKeywords": [
+    "93 7 ground beef",
+    "lean ground beef",
+    "extra lean beef",
+    "skillet ground beef"
+  ],
+  "whyItWorks": "Extra-lean beef ground from round or sirloin cuts. When browned and drained, it leaves less than 5g fat per serving while providing concentrated heme iron and zinc to combat anemia.",
+  "prepOrOrderInstructions": "Brown in a skillet, drain any released fat thoroughly on paper towels, and stir into soft white rice or gentle marinara.",
+  "safetyTier": "low-risk"
+}

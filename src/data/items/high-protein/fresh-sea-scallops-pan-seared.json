@@ -1,0 +1,35 @@
+{
+  "id": "fresh-sea-scallops-pan-seared",
+  "name": "Fresh Jumbo Sea Scallops (Pan-Seared in Ghee)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Fishmonger / Butcher Counter",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sea-scallops",
+    "pan-seared",
+    "tender-shellfish",
+    "low-fat",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "fresh scallops",
+    "jumbo sea scallops",
+    "seared scallops safe",
+    "soft shellfish"
+  ],
+  "whyItWorks": "The adductor muscle of sea scallops is naturally tender, sweet, and soft to chew, lacking the rubbery gristle found in squid or octopus. Contains under 1g fat and provides gentle protein and magnesium.",
+  "prepOrOrderInstructions": "Pat scallops dry with a paper towel. Sear in hot clarified ghee for 90 seconds per side until golden. Do not overcook to keep them fork-tender.",
+  "safetyTier": "flare-safe"
+}

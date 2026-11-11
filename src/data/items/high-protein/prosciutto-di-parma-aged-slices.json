@@ -1,0 +1,36 @@
+{
+  "id": "prosciutto-di-parma-aged-slices",
+  "name": "Prosciutto di Parma PDO (Authentic Aged Italian Ham)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Italian Specialty Deli",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "prosciutto-di-parma",
+    "two-ingredients",
+    "aged-18-months",
+    "melt-in-mouth",
+    "zero-nitrates"
+  ],
+  "searchKeywords": [
+    "prosciutto di parma",
+    "parma ham",
+    "cured italian ham",
+    "thin sliced prosciutto"
+  ],
+  "whyItWorks": "Regulated PDO product made strictly with two ingredients: Italian pork leg and sea salt, aged for 18+ months. Sliced paper-thin, the delicate cured fat and protein dissolve on the tongue without chewing effort.",
+  "prepOrOrderInstructions": "Enjoy 1 or 2 thin slices at room temperature paired with ripe cantaloupe melon or gluten-free bread.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bilinski-organic-mild-italian-chicken-sausage",
+  "name": "Bilinski's Organic Mild Italian Chicken Sausage (Skinless)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Bilinski's",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "skinless-sausage",
+    "organic-chicken-breast",
+    "no-casing",
+    "fennel-seasoned",
+    "zero-nitrates"
+  ],
+  "searchKeywords": [
+    "bilinskis chicken sausage",
+    "skinless chicken sausage",
+    "organic mild italian sausage"
+  ],
+  "whyItWorks": "Crafted without any casing (100% skinless) from organic skinless chicken breast, water, sea salt, and sweet fennel seed. Contains under 3g fat per link, zero nitrates/nitrites, and zero tough casing to choke strictures.",
+  "prepOrOrderInstructions": "Heat in a skillet with 1 tbsp water for 4 minutes until warm.",
+  "safetyTier": "low-risk"
+}

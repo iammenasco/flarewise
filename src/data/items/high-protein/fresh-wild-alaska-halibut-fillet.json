@@ -1,0 +1,36 @@
+{
+  "id": "fresh-wild-alaska-halibut-fillet",
+  "name": "Fresh Wild Alaska Halibut Fillet (Pan-Seared or Steamed)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Fishmonger / Butcher Counter",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "alaska-halibut",
+    "white-flatfish",
+    "lean-protein",
+    "mild-flavor",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "fresh halibut fillet",
+    "wild alaska halibut",
+    "steamed halibut",
+    "premium white fish"
+  ],
+  "whyItWorks": "Firm, sweet white fish offering 24g of easily assimilated protein per 4 oz serving. Extremely low in fat and virtually free of tough connective collagen.",
+  "prepOrOrderInstructions": "Pan-sear in a skillet with a tiny touch of butter or ghee, or steam gently over water. Avoid blackened or heavily peppered seasonings.",
+  "safetyTier": "flare-safe"
+}

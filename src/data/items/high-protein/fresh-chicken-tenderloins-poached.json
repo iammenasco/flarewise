@@ -1,0 +1,37 @@
+{
+  "id": "fresh-chicken-tenderloins-poached",
+  "name": "Fresh Chicken Breast Tenderloins (Poached in Broth)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 9.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken-tenderloins",
+    "poached-poultry",
+    "lean-protein",
+    "zero-fiber",
+    "zero-gristle",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "poached chicken tenderloins",
+    "fresh chicken tenders",
+    "gentle chicken crohns",
+    "tender poultry"
+  ],
+  "whyItWorks": "The pectoralis minor \"tenderloin\" is naturally the most tender, delicate cut of poultry, lacking tough stringy tendons. Simmering gently in chicken bone broth keeps the meat moist and fork-tender with under 1g fat and zero fiber.",
+  "prepOrOrderInstructions": "Place tenderloins in a saucepan, cover with chicken broth and a pinch of salt, bring to a gentle simmer for 8–10 minutes until cooked through (165°F). Shred with a fork.",
+  "safetyTier": "flare-safe"
+}

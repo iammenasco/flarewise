@@ -1,0 +1,36 @@
+{
+  "id": "ground-chicken-bulk-organic",
+  "name": "Fresh 100% Ground Chicken (Organic / Lean Butcher Cut)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ground-chicken",
+    "organic-poultry",
+    "tender-crumbles",
+    "easy-to-chew",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "ground chicken",
+    "lean ground chicken",
+    "chicken crumbles",
+    "poultry burgers"
+  ],
+  "whyItWorks": "Finely ground fresh chicken breast and thigh meat. Extremely tender when cooked, forming fine crumbles that require minimal chewing effort and digest cleanly.",
+  "prepOrOrderInstructions": "Cook in a skillet with a dash of coconut aminos and salt. Form into gentle, non-spicy chicken patties.",
+  "safetyTier": "flare-safe"
+}

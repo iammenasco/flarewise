@@ -1,0 +1,35 @@
+{
+  "id": "fresh-top-sirloin-steak-lean-center-cut",
+  "name": "Fresh Top Sirloin Steak (Center-Cut, Fat Trimmed)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "top-sirloin",
+    "lean-steak",
+    "trimmed-fat",
+    "bioavailable-iron",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "top sirloin steak",
+    "lean sirloin",
+    "trimmed steak crohns",
+    "beef steak safe"
+  ],
+  "whyItWorks": "A naturally lean steak cut from the sirloin primal. Trimmed of the outer fat strip, it provides robust beef flavor with low lipid load and zero roughage.",
+  "prepOrOrderInstructions": "Grill or pan-sear medium. Slice thinly against the grain to ensure short muscle fibers that chew smoothly.",
+  "safetyTier": "low-risk"
+}

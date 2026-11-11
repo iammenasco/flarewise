@@ -1,0 +1,37 @@
+{
+  "id": "mexican-pork-chorizo-sausage-warning",
+  "name": "Mexican Pork Chorizo Sausage (Acid & Chili WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Traditional Meat Market",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "breakfast",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "pork-fat",
+    "red-chili-paste",
+    "vinegar-acidity",
+    "severe-cramping",
+    "hot-spices"
+  ],
+  "searchKeywords": [
+    "chorizo warning",
+    "mexican chorizo danger",
+    "spicy chorizo diarrhea",
+    "pork fat chili burn"
+  ],
+  "whyItWorks": "A catastrophic combination for IBD: ground pork fat saturated in vinegar acid, crushed chili pods, garlic cloves, cumin, and hot paprika. The high fat, vinegar acid, and capsaicin cause chemical burning along ulcerated intestinal mucosa, leading to violent cramping and urgent bloody diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. One of the single most aggressive sausage triggers for Crohn's and Colitis.",
+  "safetyTier": "danger-zone"
+}

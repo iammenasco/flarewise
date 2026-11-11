@@ -1,0 +1,35 @@
+{
+  "id": "fresh-beef-tenderloin-filet-mignon",
+  "name": "Fresh Beef Tenderloin / Filet Mignon (Center Cut, Seared)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef-tenderloin",
+    "filet-mignon",
+    "lowest-connective-tissue",
+    "heme-iron",
+    "flare-safe-beef"
+  ],
+  "searchKeywords": [
+    "filet mignon safe",
+    "beef tenderloin steak",
+    "tender beef crohns",
+    "soft steak"
+  ],
+  "whyItWorks": "The psoas major muscle is non-weight-bearing, making it the most tender cut of beef on the entire animal. Contains minimal tough gristle or connective collagen; pan-seared medium-rare, it melts upon chewing and supplies vital heme iron.",
+  "prepOrOrderInstructions": "Sear in a cast-iron skillet with 1 tsp olive oil or ghee for 3–4 minutes per side. Let rest for 5 minutes before slicing thin.",
+  "safetyTier": "flare-safe"
+}

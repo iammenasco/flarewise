@@ -1,0 +1,37 @@
+{
+  "id": "bone-in-skin-on-crispy-chicken-wings-warning",
+  "name": "Crispy Skin-On Chicken Wings (High-Fat Lipids WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Pub / Butcher Counter",
+  "crohnsScore": 4.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "chicken-wings",
+    "high-fat-skin",
+    "gallbladder-dumping",
+    "connective-tissue"
+  ],
+  "searchKeywords": [
+    "chicken wings warning",
+    "crispy wings danger",
+    "fried wings diarrhea",
+    "chicken skin fat"
+  ],
+  "whyItWorks": "Chicken wings consist of over 60% skin and subcutaneous fat. Consuming 6–8 wings delivers 30+ grams of dense poultry grease that overwhelms impaired small bowel bile reabsorption, provoking rapid diarrhea and cramps.",
+  "prepOrOrderInstructions": "AVOID skin-on wings. Choose skinless chicken tenderloins or breast skewers instead.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fresh-turkey-breast-tenderloins-roasted",
+  "name": "Fresh Turkey Breast Tenderloins (Oven-Roasted)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey-tenderloin",
+    "lean-turkey",
+    "zero-fiber",
+    "high-protein-26g",
+    "clean-meat"
+  ],
+  "searchKeywords": [
+    "turkey breast tenderloins",
+    "roasted turkey tenderloin",
+    "lean turkey breast",
+    "clean poultry"
+  ],
+  "whyItWorks": "100% solid white turkey breast tenderloins. Free from injected sodium phosphates or preservatives; provides 26g of clean protein per 4 oz serving with virtually 0g fat and 0g residue.",
+  "prepOrOrderInstructions": "Rub lightly with olive oil and sea salt. Roast at 375°F for 25–30 minutes until 165°F internal temperature. Slice thin.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "applegate-naturals-roasted-turkey-breast-slices",
+  "name": "Applegate Naturals Oven Roasted Turkey Breast (Deli Slices)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Applegate Naturals",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "deli-turkey",
+    "clean-ingredients",
+    "zero-carrageenan",
+    "no-nitrates",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "applegate turkey",
+    "clean deli meat",
+    "organic sliced turkey",
+    "carrageenan free turkey"
+  ],
+  "whyItWorks": "Contains just 4 simple ingredients: turkey breast, water, sea salt, and potato starch. Free of carrageenan, chemical nitrates/nitrites, casein, and gluten. Clean, tender protein for sandwiches.",
+  "prepOrOrderInstructions": "Layer onto soft white sourdough bread or eat rolled with a slice of Swiss cheese.",
+  "safetyTier": "flare-safe"
+}

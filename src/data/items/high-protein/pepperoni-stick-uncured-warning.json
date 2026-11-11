@@ -1,0 +1,34 @@
+{
+  "id": "pepperoni-stick-uncured-warning",
+  "name": "Uncured Pork & Beef Pepperoni Stick (Grease & Spice WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Deli Counter",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "pepperoni-grease",
+    "crushed-red-pepper",
+    "paprika",
+    "heartburn-trigger"
+  ],
+  "searchKeywords": [
+    "pepperoni stick warning",
+    "pepperoni danger",
+    "greasy pepperoni cramps"
+  ],
+  "whyItWorks": "High-fat pork and beef loaded with crushed red pepper flakes, whole mustard seeds, and paprika. The dense oil and capsaicin irritate tender gastric and ileal linings, provoking severe heartburn and cramping.",
+  "prepOrOrderInstructions": "STRICTLY AVOID during flares. Choose lean sliced turkey or prosciutto instead.",
+  "safetyTier": "danger-zone"
+}

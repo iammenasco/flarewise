@@ -1,0 +1,35 @@
+{
+  "id": "ground-beef-73-27-fatty-blend-warning",
+  "name": "73% Lean / 27% Fat Ground Beef (Grease Bomb WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Butcher Counter Value Pack",
+  "crohnsScore": 3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "high-fat-27g",
+    "heavy-grease",
+    "gallbladder-dumping",
+    "cholecystokinin-trigger"
+  ],
+  "searchKeywords": [
+    "73 27 ground beef warning",
+    "fatty ground beef danger",
+    "greasy hamburger diarrhea"
+  ],
+  "whyItWorks": "Contains over 27% pure saturated beef tallow (nearly 30g fat per patty). The massive lipid load stimulates huge cholecystokinin secretion, causing aggressive gallbladder contractions, bile acid malabsorption, and explosive urgent diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Always buy 90/10 or 93/7 lean ground beef or ground turkey breast.",
+  "safetyTier": "danger-zone"
+}

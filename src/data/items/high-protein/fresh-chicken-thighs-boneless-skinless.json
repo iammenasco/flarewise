@@ -1,0 +1,35 @@
+{
+  "id": "fresh-chicken-thighs-boneless-skinless",
+  "name": "Fresh Boneless, Skinless Chicken Thighs (Slow-Braised)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken-thighs",
+    "boneless-skinless",
+    "dark-meat-poultry",
+    "iron-rich",
+    "slow-braised"
+  ],
+  "searchKeywords": [
+    "boneless skinless chicken thighs",
+    "braised chicken thighs",
+    "dark meat chicken safe"
+  ],
+  "whyItWorks": "Trimmed of all skin and surface fat, dark meat chicken thighs provide higher concentrations of bioavailable heme iron and zinc than breast meat. Braising in broth melts any collagen into tender, succulent protein.",
+  "prepOrOrderInstructions": "Simmer boneless skinless thighs in chicken broth with carrots on low heat for 35 minutes until falling apart.",
+  "safetyTier": "low-risk"
+}

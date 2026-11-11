@@ -1,0 +1,36 @@
+{
+  "id": "aidells-chicken-and-apple-sausage-dinner",
+  "name": "Aidells Chicken & Apple Smoked Sausage (Pork-Free)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Aidells",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken-sausage",
+    "pork-free",
+    "dried-apples",
+    "gluten-free",
+    "mild-flavor"
+  ],
+  "searchKeywords": [
+    "aidells chicken apple",
+    "chicken and apple sausage",
+    "pork free sausage",
+    "mild sausage safe"
+  ],
+  "whyItWorks": "Made from smoked chicken breast and dried sweet apples in a natural casing, completely free from pork fat, gluten, and spicy peppers. Mild, savory-sweet, and significantly lower in fat than pork sausage.",
+  "prepOrOrderInstructions": "Slice into 1/2-inch rounds and brown in a skillet for 5 minutes. Serve with white rice or mashed potatoes.",
+  "safetyTier": "low-risk"
+}

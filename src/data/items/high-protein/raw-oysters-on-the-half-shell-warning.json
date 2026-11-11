@@ -1,0 +1,36 @@
+{
+  "id": "raw-oysters-on-the-half-shell-warning",
+  "name": "Raw Oysters on the Half Shell (Vibrio Sepsis WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Raw Oyster Bar",
+  "crohnsScore": 1.2,
+  "mealTypes": [
+    "snack",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "vibrio-vulnificus",
+    "severe-infection-risk",
+    "immunocompromised-hazard",
+    "raw-shellfish"
+  ],
+  "searchKeywords": [
+    "raw oysters warning",
+    "oysters half shell danger",
+    "vibrio sepsis crohns",
+    "biologics raw seafood"
+  ],
+  "whyItWorks": "Severe Life-Threatening Medical Hazard! Raw oysters filter seawater and frequently harbor Vibrio vulnificus, Salmonella, and norovirus. For IBD patients on biologic therapies (e.g., Infliximab, Adalimumab, Vedolizumab) or steroids, consuming raw bivalves carries an extraordinarily high risk of fulminant sepsis, severe bloody enteritis, and hospitalization.",
+  "prepOrOrderInstructions": "STRICTLY AVOID ALL RAW SHELLFISH. Always ensure oysters, clams, and mussels are fully cooked to an internal temperature of 145°F.",
+  "safetyTier": "danger-zone"
+}

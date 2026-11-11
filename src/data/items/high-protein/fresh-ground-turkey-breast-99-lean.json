@@ -1,0 +1,36 @@
+{
+  "id": "fresh-ground-turkey-breast-99-lean",
+  "name": "Fresh 99% Lean Ground Turkey Breast (Skillet-Browned)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "99-lean-turkey",
+    "ground-turkey-breast",
+    "zero-grease",
+    "high-protein",
+    "stomach-safe"
+  ],
+  "searchKeywords": [
+    "99 percent lean ground turkey",
+    "ground turkey breast",
+    "extra lean turkey",
+    "skillet turkey"
+  ],
+  "whyItWorks": "Ground exclusively from skinless white turkey breast with 99% of fat removed (only 1g fat per serving). Browns into tender crumbles with zero greasy pooling, making it ideal for tacos, white rice bowls, or pasta.",
+  "prepOrOrderInstructions": "Brown in a nonstick skillet with 1 tsp olive oil and sea salt, breaking up finely with a wooden spoon.",
+  "safetyTier": "flare-safe"
+}

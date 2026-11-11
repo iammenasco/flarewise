@@ -1,0 +1,34 @@
+{
+  "id": "spicy-cajun-blackened-catfish-warning",
+  "name": "Blackened Cajun Catfish Fillet (Carbon Char WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Cajun Seafood Kitchen",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "cajun-spices",
+    "capsaicin",
+    "blackened-char",
+    "gastric-irritant"
+  ],
+  "searchKeywords": [
+    "blackened catfish warning",
+    "cajun fish danger",
+    "spicy blackened seasoning"
+  ],
+  "whyItWorks": "Dredged in heavy cayenne pepper, black pepper, garlic powder, and onion powder, then pan-seared in butter at extreme heat until a blackened carbon crust forms. Capsaicin and bitter char irritate tender gastrointestinal mucosa and trigger urgent spasms.",
+  "prepOrOrderInstructions": "Avoid blackened fish. Ask for fresh fish to be simply broiled with olive oil, salt, and oregano.",
+  "safetyTier": "danger-zone"
+}

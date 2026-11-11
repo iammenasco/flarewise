@@ -1,0 +1,35 @@
+{
+  "id": "boars-head-simplicity-all-natural-ham",
+  "name": "Boar's Head Simplicity All Natural Uncured Ham",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Boar's Head",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "lunch",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "uncured-ham",
+    "all-natural",
+    "no-added-nitrates",
+    "lean-pork-deli",
+    "tender-slices"
+  ],
+  "searchKeywords": [
+    "boars head simplicity ham",
+    "all natural ham slices",
+    "uncured deli ham"
+  ],
+  "whyItWorks": "Slow-roasted all-natural uncured pork loin ham with no synthetic nitrates, nitrites, or artificial binders. Low in gristle, tender, and provides gentle animal protein.",
+  "prepOrOrderInstructions": "Ask for it sliced thin at the deli counter for effortless chewing.",
+  "safetyTier": "low-risk"
+}

@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:04:29.494Z",
-  "itemCount": 1936,
+  "builtAt": "2026-11-11T20:09:37.346Z",
+  "itemCount": 1968,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1147,6 +1147,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/cera-lyte-rice-based-oral-electrolyte-solution.json"
     },
     {
+      "id": "fresh-chicken-tenderloins-poached",
+      "name": "Fresh Chicken Breast Tenderloins (Poached in Broth)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 9.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "chicken-tenderloins",
+        "poached-poultry",
+        "lean-protein",
+        "zero-fiber",
+        "zero-gristle",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "poached chicken tenderloins",
+        "fresh chicken tenders",
+        "gentle chicken crohns",
+        "tender poultry"
+      ],
+      "whyItWorks": "The pectoralis minor \"tenderloin\" is naturally the most tender, delicate cut of poultry, lacking tough stringy tendons. Simmering gently in chicken bone broth keeps the meat moist and fork-tender with under 1g fat and zero fiber.",
+      "prepOrOrderInstructions": "Place tenderloins in a saucepan, cover with chicken broth and a pinch of salt, bring to a gentle simmer for 8–10 minutes until cooked through (165°F). Shred with a fork.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-chicken-tenderloins-poached.json"
+    },
+    {
       "id": "holiday-leftover-turkey-bone-broth-noodle-soup",
       "name": "Holiday Leftover Homemade Turkey Carcass Bone Broth & Egg Noodle Soup",
       "categoryFolder": "lunch",
@@ -1683,6 +1721,45 @@
         "Contains wheat (gluten); choose Cream of Rice if co-diagnosed with celiac disease."
       ],
       "_sourcePath": "src/data/items/breakfast/nabisco-cream-of-wheat-original-farina.json"
+    },
+    {
+      "id": "fresh-atlantic-salmon-fillet-pan-seared",
+      "name": "Fresh Atlantic Salmon Fillet (Skinless, Pan-Seared)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Fishmonger / Butcher Counter",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "fresh-salmon",
+        "skinless-fillet",
+        "omega-3-fatty-acids",
+        "anti-inflammatory",
+        "zero-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "fresh salmon fillet",
+        "pan seared salmon",
+        "skinless salmon",
+        "omega 3 fish",
+        "healthy fish crohns"
+      ],
+      "whyItWorks": "One of the single most therapeutic whole foods for Crohn's disease and Ulcerative Colitis. Rich in marine EPA and DHA omega-3 polyunsaturated fatty acids, which actively resolve intestinal mucosal inflammation. Delicate protein fibers flake easily, requiring minimal digestive exertion.",
+      "prepOrOrderInstructions": "Sear skinless salmon fillet in 1 tsp olive oil or ghee on a nonstick skillet for 3–4 minutes per side with a pinch of sea salt. Serve over fluffy white rice.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-atlantic-salmon-fillet-pan-seared.json"
     },
     {
       "id": "kettle-and-fire-classic-chicken-bone-broth",
@@ -2951,6 +3028,80 @@
         "Discard the Tajín chili-lime seasoning packet often offered with fruit cups (chili + dehydrated lime trigger)"
       ],
       "_sourcePath": "src/data/items/produce-sides/disneyland-fruit-carts-fresh-banana-melon-cup.json"
+    },
+    {
+      "id": "fresh-turkey-breast-tenderloins-roasted",
+      "name": "Fresh Turkey Breast Tenderloins (Oven-Roasted)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "turkey-tenderloin",
+        "lean-turkey",
+        "zero-fiber",
+        "high-protein-26g",
+        "clean-meat"
+      ],
+      "searchKeywords": [
+        "turkey breast tenderloins",
+        "roasted turkey tenderloin",
+        "lean turkey breast",
+        "clean poultry"
+      ],
+      "whyItWorks": "100% solid white turkey breast tenderloins. Free from injected sodium phosphates or preservatives; provides 26g of clean protein per 4 oz serving with virtually 0g fat and 0g residue.",
+      "prepOrOrderInstructions": "Rub lightly with olive oil and sea salt. Roast at 375°F for 25–30 minutes until 165°F internal temperature. Slice thin.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-turkey-breast-tenderloins-roasted.json"
+    },
+    {
+      "id": "wild-pacific-cod-fillet-baked",
+      "name": "Fresh Wild Pacific Cod Fillet (Oven-Baked)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Fishmonger / Butcher Counter",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "wild-cod",
+        "lean-white-fish",
+        "ultra-low-fat",
+        "delicate-flakes",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "wild cod fillet",
+        "baked cod",
+        "lean white fish",
+        "cod crohns diet"
+      ],
+      "whyItWorks": "Pure, mild white fish containing less than 1g of fat per 4 oz serving and zero fiber. Delicate flaky flesh breaks down instantly without demanding heavy bile or pancreatic enzymes.",
+      "prepOrOrderInstructions": "Bake fillet at 375°F in a toaster oven or standard oven with a light brush of olive oil and salt for 10–12 minutes until it flakes easily with a fork.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/wild-pacific-cod-fillet-baked.json"
     },
     {
       "id": "gogo-squeez-original-applesauce-pouch",
@@ -5512,6 +5663,43 @@
       "_sourcePath": "src/data/items/lunch/wonder-classic-white-sandwich-bread.json"
     },
     {
+      "id": "applegate-naturals-roasted-turkey-breast-slices",
+      "name": "Applegate Naturals Oven Roasted Turkey Breast (Deli Slices)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Applegate Naturals",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "deli-turkey",
+        "clean-ingredients",
+        "zero-carrageenan",
+        "no-nitrates",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "applegate turkey",
+        "clean deli meat",
+        "organic sliced turkey",
+        "carrageenan free turkey"
+      ],
+      "whyItWorks": "Contains just 4 simple ingredients: turkey breast, water, sea salt, and potato starch. Free of carrageenan, chemical nitrates/nitrites, casein, and gluten. Clean, tender protein for sandwiches.",
+      "prepOrOrderInstructions": "Layer onto soft white sourdough bread or eat rolled with a slice of Swiss cheese.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/applegate-naturals-roasted-turkey-breast-slices.json"
+    },
+    {
       "id": "barilla-classic-white-spaghetti-pasta",
       "name": "Barilla Classic White Semolina Spaghetti (Cooked Tender)",
       "categoryFolder": "dinner",
@@ -5796,6 +5984,80 @@
         "Mild natural tomato acidity; generally well-tolerated by almost all IBD patients."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/fody-foods-low-fodmap-ketchup.json"
+    },
+    {
+      "id": "fresh-ground-turkey-breast-99-lean",
+      "name": "Fresh 99% Lean Ground Turkey Breast (Skillet-Browned)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "99-lean-turkey",
+        "ground-turkey-breast",
+        "zero-grease",
+        "high-protein",
+        "stomach-safe"
+      ],
+      "searchKeywords": [
+        "99 percent lean ground turkey",
+        "ground turkey breast",
+        "extra lean turkey",
+        "skillet turkey"
+      ],
+      "whyItWorks": "Ground exclusively from skinless white turkey breast with 99% of fat removed (only 1g fat per serving). Browns into tender crumbles with zero greasy pooling, making it ideal for tacos, white rice bowls, or pasta.",
+      "prepOrOrderInstructions": "Brown in a nonstick skillet with 1 tsp olive oil and sea salt, breaking up finely with a wooden spoon.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-ground-turkey-breast-99-lean.json"
+    },
+    {
+      "id": "fresh-wild-alaska-halibut-fillet",
+      "name": "Fresh Wild Alaska Halibut Fillet (Pan-Seared or Steamed)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Fishmonger / Butcher Counter",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "alaska-halibut",
+        "white-flatfish",
+        "lean-protein",
+        "mild-flavor",
+        "low-residue"
+      ],
+      "searchKeywords": [
+        "fresh halibut fillet",
+        "wild alaska halibut",
+        "steamed halibut",
+        "premium white fish"
+      ],
+      "whyItWorks": "Firm, sweet white fish offering 24g of easily assimilated protein per 4 oz serving. Extremely low in fat and virtually free of tough connective collagen.",
+      "prepOrOrderInstructions": "Pan-sear in a skillet with a tiny touch of butter or ghee, or steam gently over water. Avoid blackened or heavily peppered seasonings.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-wild-alaska-halibut-fillet.json"
     },
     {
       "id": "general-mills-rice-chex-cereal",
@@ -7005,6 +7267,116 @@
       "prepOrOrderInstructions": "Chill in refrigerator and drink over ice. (Verify with your endoscopy team if colored dyes like berry are permitted for your specific colonoscopy prep window).",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/drinks-sauces/ensure-clear-nutrition-drink.json"
+    },
+    {
+      "id": "ground-chicken-bulk-organic",
+      "name": "Fresh 100% Ground Chicken (Organic / Lean Butcher Cut)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ground-chicken",
+        "organic-poultry",
+        "tender-crumbles",
+        "easy-to-chew",
+        "zero-fiber"
+      ],
+      "searchKeywords": [
+        "ground chicken",
+        "lean ground chicken",
+        "chicken crumbles",
+        "poultry burgers"
+      ],
+      "whyItWorks": "Finely ground fresh chicken breast and thigh meat. Extremely tender when cooked, forming fine crumbles that require minimal chewing effort and digest cleanly.",
+      "prepOrOrderInstructions": "Cook in a skillet with a dash of coconut aminos and salt. Form into gentle, non-spicy chicken patties.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/ground-chicken-bulk-organic.json"
+    },
+    {
+      "id": "fresh-sea-scallops-pan-seared",
+      "name": "Fresh Jumbo Sea Scallops (Pan-Seared in Ghee)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Fishmonger / Butcher Counter",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sea-scallops",
+        "pan-seared",
+        "tender-shellfish",
+        "low-fat",
+        "zero-fiber"
+      ],
+      "searchKeywords": [
+        "fresh scallops",
+        "jumbo sea scallops",
+        "seared scallops safe",
+        "soft shellfish"
+      ],
+      "whyItWorks": "The adductor muscle of sea scallops is naturally tender, sweet, and soft to chew, lacking the rubbery gristle found in squid or octopus. Contains under 1g fat and provides gentle protein and magnesium.",
+      "prepOrOrderInstructions": "Pat scallops dry with a paper towel. Sear in hot clarified ghee for 90 seconds per side until golden. Do not overcook to keep them fork-tender.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-sea-scallops-pan-seared.json"
+    },
+    {
+      "id": "fresh-pork-tenderloin-medallions",
+      "name": "Fresh Pork Tenderloin Medallions (Seared in Olive Oil)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pork-tenderloin",
+        "lean-pork",
+        "as-lean-as-chicken",
+        "tender-medallions",
+        "thiamine-rich"
+      ],
+      "searchKeywords": [
+        "pork tenderloin medallions",
+        "lean pork fillet",
+        "pork tenderloin safe",
+        "easy digest pork"
+      ],
+      "whyItWorks": "Pork tenderloin is just as lean as skinless chicken breast (only 3g fat per 4 oz serving). Tender, mild, and high in thiamine (vitamin B1), without the tough sinew found in pork chops or roasts.",
+      "prepOrOrderInstructions": "Slice tenderloin into 1-inch thick medallions. Sear in olive oil on medium heat for 3–4 minutes per side until 145°F with a light blush in the center.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-pork-tenderloin-medallions.json"
     },
     {
       "id": "green-valley-creamery-lactose-free-sour-cream",
@@ -8470,6 +8842,79 @@
         "Gentle and non-bloating; safe for active disease and recovery."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/fody-foods-low-fodmap-bbq-sauce.json"
+    },
+    {
+      "id": "fresh-beef-tenderloin-filet-mignon",
+      "name": "Fresh Beef Tenderloin / Filet Mignon (Center Cut, Seared)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "beef-tenderloin",
+        "filet-mignon",
+        "lowest-connective-tissue",
+        "heme-iron",
+        "flare-safe-beef"
+      ],
+      "searchKeywords": [
+        "filet mignon safe",
+        "beef tenderloin steak",
+        "tender beef crohns",
+        "soft steak"
+      ],
+      "whyItWorks": "The psoas major muscle is non-weight-bearing, making it the most tender cut of beef on the entire animal. Contains minimal tough gristle or connective collagen; pan-seared medium-rare, it melts upon chewing and supplies vital heme iron.",
+      "prepOrOrderInstructions": "Sear in a cast-iron skillet with 1 tsp olive oil or ghee for 3–4 minutes per side. Let rest for 5 minutes before slicing thin.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-beef-tenderloin-filet-mignon.json"
+    },
+    {
+      "id": "fresh-rainbow-trout-fillet-baked",
+      "name": "Fresh Rainbow Trout Fillet (Skinless, Oven-Baked)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Fishmonger / Butcher Counter",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rainbow-trout",
+        "freshwater-fish",
+        "omega-3s",
+        "mild-fish",
+        "tender-fillet"
+      ],
+      "searchKeywords": [
+        "fresh trout",
+        "rainbow trout fillet",
+        "baked trout",
+        "mild fish crohns"
+      ],
+      "whyItWorks": "Freshwater trout has an exceptionally fine, tender flake and delivers anti-inflammatory omega-3 fats with very low connective tissue. Mild and soothing on sensitive stomachs.",
+      "prepOrOrderInstructions": "Bake skinless trout fillet in a toaster oven at 375°F for 8–10 minutes with olive oil and sea salt.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/fresh-rainbow-trout-fillet-baked.json"
     },
     {
       "id": "harmons-grocery-draper-south-jordan-bone-broth-rotisserie-sushi",
@@ -15422,6 +15867,42 @@
       "_sourcePath": "src/data/items/produce-sides/fody-foods-low-fodmap-mild-salsa.json"
     },
     {
+      "id": "fresh-chicken-thighs-boneless-skinless",
+      "name": "Fresh Boneless, Skinless Chicken Thighs (Slow-Braised)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "chicken-thighs",
+        "boneless-skinless",
+        "dark-meat-poultry",
+        "iron-rich",
+        "slow-braised"
+      ],
+      "searchKeywords": [
+        "boneless skinless chicken thighs",
+        "braised chicken thighs",
+        "dark meat chicken safe"
+      ],
+      "whyItWorks": "Trimmed of all skin and surface fat, dark meat chicken thighs provide higher concentrations of bioavailable heme iron and zinc than breast meat. Braising in broth melts any collagen into tender, succulent protein.",
+      "prepOrOrderInstructions": "Simmer boneless skinless thighs in chicken broth with carrots on low heat for 35 minutes until falling apart.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/fresh-chicken-thighs-boneless-skinless.json"
+    },
+    {
       "id": "coopers-bear-lake-west-grilled-salmon-rice",
       "name": "Fresh Grilled Atlantic Salmon with Steamed Jasmine Rice",
       "categoryFolder": "dinner",
@@ -17401,6 +17882,43 @@
       "_sourcePath": "src/data/items/breakfast/herms-inn-logan-scrambled-eggs-and-sourdough.json"
     },
     {
+      "id": "fresh-lean-ground-beef-93-7",
+      "name": "Fresh 93% Lean / 7% Fat Ground Beef (Skillet-Browned)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "93-7-ground-beef",
+        "lean-ground-beef",
+        "iron-rich",
+        "drained-fat",
+        "dinner-staple"
+      ],
+      "searchKeywords": [
+        "93 7 ground beef",
+        "lean ground beef",
+        "extra lean beef",
+        "skillet ground beef"
+      ],
+      "whyItWorks": "Extra-lean beef ground from round or sirloin cuts. When browned and drained, it leaves less than 5g fat per serving while providing concentrated heme iron and zinc to combat anemia.",
+      "prepOrOrderInstructions": "Brown in a skillet, drain any released fat thoroughly on paper towels, and stir into soft white rice or gentle marinara.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/fresh-lean-ground-beef-93-7.json"
+    },
+    {
       "id": "fresh-honeydew-melon-slices",
       "name": "Fresh Honeydew Melon Slices",
       "categoryFolder": "produce-sides",
@@ -18725,6 +19243,42 @@
       "_sourcePath": "src/data/items/diner-bbq/bam-bams-bbq-lindon-orem-smoked-turkey-brisket.json"
     },
     {
+      "id": "bilinski-organic-mild-italian-chicken-sausage",
+      "name": "Bilinski's Organic Mild Italian Chicken Sausage (Skinless)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Bilinski's",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "skinless-sausage",
+        "organic-chicken-breast",
+        "no-casing",
+        "fennel-seasoned",
+        "zero-nitrates"
+      ],
+      "searchKeywords": [
+        "bilinskis chicken sausage",
+        "skinless chicken sausage",
+        "organic mild italian sausage"
+      ],
+      "whyItWorks": "Crafted without any casing (100% skinless) from organic skinless chicken breast, water, sea salt, and sweet fennel seed. Contains under 3g fat per link, zero nitrates/nitrites, and zero tough casing to choke strictures.",
+      "prepOrOrderInstructions": "Heat in a skillet with 1 tbsp water for 4 minutes until warm.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/bilinski-organic-mild-italian-chicken-sausage.json"
+    },
+    {
       "id": "brachs-classic-candy-corn",
       "name": "Brach's Classic Candy Corn",
       "categoryFolder": "snacks-desserts",
@@ -19326,6 +19880,42 @@
         "Eat in modest portions (1 cup) to keep total fructose load comfortably balanced."
       ],
       "_sourcePath": "src/data/items/produce-sides/fresh-cantaloupe-melon-slices.json"
+    },
+    {
+      "id": "fresh-top-sirloin-steak-lean-center-cut",
+      "name": "Fresh Top Sirloin Steak (Center-Cut, Fat Trimmed)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "top-sirloin",
+        "lean-steak",
+        "trimmed-fat",
+        "bioavailable-iron",
+        "high-protein"
+      ],
+      "searchKeywords": [
+        "top sirloin steak",
+        "lean sirloin",
+        "trimmed steak crohns",
+        "beef steak safe"
+      ],
+      "whyItWorks": "A naturally lean steak cut from the sirloin primal. Trimmed of the outer fat strip, it provides robust beef flavor with low lipid load and zero roughage.",
+      "prepOrOrderInstructions": "Grill or pan-sear medium. Slice thinly against the grain to ensure short muscle fibers that chew smoothly.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/fresh-top-sirloin-steak-lean-center-cut.json"
     },
     {
       "id": "dca-boudin-sourdough-fresh-bread-loaf",
@@ -20545,6 +21135,42 @@
       "_sourcePath": "src/data/items/dinner/black-bear-diner-draper-american-fork-roast-turkey-pot-roast-pancakes.json"
     },
     {
+      "id": "boars-head-simplicity-all-natural-ham",
+      "name": "Boar's Head Simplicity All Natural Uncured Ham",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Boar's Head",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "lunch",
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "uncured-ham",
+        "all-natural",
+        "no-added-nitrates",
+        "lean-pork-deli",
+        "tender-slices"
+      ],
+      "searchKeywords": [
+        "boars head simplicity ham",
+        "all natural ham slices",
+        "uncured deli ham"
+      ],
+      "whyItWorks": "Slow-roasted all-natural uncured pork loin ham with no synthetic nitrates, nitrites, or artificial binders. Low in gristle, tender, and provides gentle animal protein.",
+      "prepOrOrderInstructions": "Ask for it sliced thin at the deli counter for effortless chewing.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/boars-head-simplicity-all-natural-ham.json"
+    },
+    {
       "id": "boost-original-rich-chocolate",
       "name": "Boost Original Complete Nutritional Drink (Rich Chocolate)",
       "categoryFolder": "drinks-sauces",
@@ -21226,6 +21852,42 @@
         "Contains distilled vinegar; if you have severe active stomach ulcers, use sparingly."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/frenchs-classic-yellow-mustard.json"
+    },
+    {
+      "id": "fresh-lamb-loin-chops-pan-seared",
+      "name": "Fresh Lamb Loin Chops (Trimmed, Pan-Seared with Rosemary)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "lamb-loin-chops",
+        "tender-lamb",
+        "pasture-raised",
+        "heme-iron",
+        "soft-meat"
+      ],
+      "searchKeywords": [
+        "lamb chops",
+        "lamb loin chops",
+        "fresh lamb seared",
+        "easy digest red meat"
+      ],
+      "whyItWorks": "Lamb loin is the mini T-bone of lamb, consisting of the eye of loin and tenderloin. Naturally fine-textured, low in tough gristle, and easily assimilated.",
+      "prepOrOrderInstructions": "Trim outer fat strip. Sear in a skillet for 3 minutes per side with sea salt and a pinch of dried rosemary.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/fresh-lamb-loin-chops-pan-seared.json"
     },
     {
       "id": "fresh-ripe-hass-avocado",
@@ -22778,6 +23440,43 @@
         "Sesame seeds"
       ],
       "_sourcePath": "src/data/items/lunch/ahi-tuna-tartare.json"
+    },
+    {
+      "id": "aidells-chicken-and-apple-sausage-dinner",
+      "name": "Aidells Chicken & Apple Smoked Sausage (Pork-Free)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Aidells",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "chicken-sausage",
+        "pork-free",
+        "dried-apples",
+        "gluten-free",
+        "mild-flavor"
+      ],
+      "searchKeywords": [
+        "aidells chicken apple",
+        "chicken and apple sausage",
+        "pork free sausage",
+        "mild sausage safe"
+      ],
+      "whyItWorks": "Made from smoked chicken breast and dried sweet apples in a natural casing, completely free from pork fat, gluten, and spicy peppers. Mild, savory-sweet, and significantly lower in fat than pork sausage.",
+      "prepOrOrderInstructions": "Slice into 1/2-inch rounds and brown in a skillet for 5 minutes. Serve with white rice or mashed potatoes.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/aidells-chicken-and-apple-sausage-dinner.json"
     },
     {
       "id": "angies-restaurant-logan-open-face-hot-roast-beef",
@@ -30602,6 +31301,43 @@
       "_sourcePath": "src/data/items/lunch/portos-bakery-buena-park-pechuga-de-pollo-sandwich.json"
     },
     {
+      "id": "prosciutto-di-parma-aged-slices",
+      "name": "Prosciutto di Parma PDO (Authentic Aged Italian Ham)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Italian Specialty Deli",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "prosciutto-di-parma",
+        "two-ingredients",
+        "aged-18-months",
+        "melt-in-mouth",
+        "zero-nitrates"
+      ],
+      "searchKeywords": [
+        "prosciutto di parma",
+        "parma ham",
+        "cured italian ham",
+        "thin sliced prosciutto"
+      ],
+      "whyItWorks": "Regulated PDO product made strictly with two ingredients: Italian pork leg and sea salt, aged for 18+ months. Sliced paper-thin, the delicate cured fat and protein dissolve on the tongue without chewing effort.",
+      "prepOrOrderInstructions": "Enjoy 1 or 2 thin slices at room temperature paired with ripe cantaloupe melon or gluten-free bread.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/prosciutto-di-parma-aged-slices.json"
+    },
+    {
       "id": "tahini-pure-ground-sesame-paste",
       "name": "Pure 100% Ground Sesame Tahini (Silky Smooth Paste)",
       "categoryFolder": "drinks-sauces",
@@ -33670,6 +34406,41 @@
         "Contains real cheese; take lactase enzyme if sensitive to dairy."
       ],
       "_sourcePath": "src/data/items/frozen-aisle/freschetta-gluten-free-four-cheese-pizza.json"
+    },
+    {
+      "id": "fresh-beef-flank-steak-marinated-tender",
+      "name": "Fresh Beef Flank Steak (Sliced Thin Across the Grain)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "flank-steak",
+        "thin-sliced-across-grain",
+        "lean-beef",
+        "iron-dense"
+      ],
+      "searchKeywords": [
+        "flank steak",
+        "sliced flank steak",
+        "lean beef steak",
+        "fajita steak meat"
+      ],
+      "whyItWorks": "Very lean cut of beef with long longitudinal muscle fibers. When marinated in light coconut aminos and sliced across the grain into paper-thin strips, it requires minimal mastication.",
+      "prepOrOrderInstructions": "Sear quickly on high heat for 3 minutes per side. CRITICAL: Cut diagonally across the grain into very thin strips before eating.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/fresh-beef-flank-steak-marinated-tender.json"
     },
     {
       "id": "fritos-the-original-corn-chips",
@@ -44934,6 +45705,41 @@
         "Avoid Tajín chili-lime salt topping"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/disneyland-tropical-hideaway-dole-whip-cup.json"
+    },
+    {
+      "id": "fresh-italian-sweet-pork-sausage",
+      "name": "Fresh Sweet Italian Pork Sausage (Mild, Fennel Only)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Butcher Counter",
+      "crohnsScore": 7.7,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sweet-italian-sausage",
+        "mild-pork-sausage",
+        "fennel-seasoned",
+        "no-chili-flakes",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "sweet italian sausage",
+        "mild sausage no spice",
+        "fennel pork sausage"
+      ],
+      "whyItWorks": "Seasoned with gentle sweet fennel seeds and salt, completely omitting red pepper flakes and hot paprika. When removed from casing and crumbled in a skillet with fat drained, it is well-tolerated in remission.",
+      "prepOrOrderInstructions": "Slit casing, crumble sausage into skillet, cook until browned, and drain excess grease on paper towels.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/fresh-italian-sweet-pork-sausage.json"
     },
     {
       "id": "hometown-drive-in-paris-cheeseburger-fries",
@@ -69761,6 +70567,44 @@
       "_sourcePath": "src/data/items/lunch/dans-drive-in-montpelier-corn-dog-warning.json"
     },
     {
+      "id": "bone-in-skin-on-crispy-chicken-wings-warning",
+      "name": "Crispy Skin-On Chicken Wings (High-Fat Lipids WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Pub / Butcher Counter",
+      "crohnsScore": 4.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "chicken-wings",
+        "high-fat-skin",
+        "gallbladder-dumping",
+        "connective-tissue"
+      ],
+      "searchKeywords": [
+        "chicken wings warning",
+        "crispy wings danger",
+        "fried wings diarrhea",
+        "chicken skin fat"
+      ],
+      "whyItWorks": "Chicken wings consist of over 60% skin and subcutaneous fat. Consuming 6–8 wings delivers 30+ grams of dense poultry grease that overwhelms impaired small bowel bile reabsorption, provoking rapid diarrhea and cramps.",
+      "prepOrOrderInstructions": "AVOID skin-on wings. Choose skinless chicken tenderloins or breast skewers instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/bone-in-skin-on-crispy-chicken-wings-warning.json"
+    },
+    {
       "id": "dans-drive-in-montpelier-beer-battered-onion-rings-warning",
       "name": "Dan's Drive-In (Montpelier, ID) Large Beer-Battered Onion Rings (High FODMAP Warning)",
       "categoryFolder": "produce-sides",
@@ -71118,6 +71962,41 @@
         "Quinoa and corn filling"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/plaza-de-coco-blistered-poblano-pepper.json"
+    },
+    {
+      "id": "beef-short-ribs-bone-in-warning",
+      "name": "Braised Beef Short Ribs (Extreme Fat WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Butcher Counter",
+      "crohnsScore": 4.5,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "slow-cooker"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "beef-short-ribs",
+        "high-saturated-fat-30g",
+        "heavy-connective-tissue",
+        "nausea-trigger"
+      ],
+      "searchKeywords": [
+        "beef short ribs warning",
+        "short ribs danger",
+        "fatty beef ribs"
+      ],
+      "whyItWorks": "Beef short ribs are one of the fattiest cuts of beef available, yielding over 35g fat per portion even after cooking. The heavy layer of rendered beef fat can trigger intense nausea, reflux, and loose stools.",
+      "prepOrOrderInstructions": "Avoid during flares. If cooking in remission, chill braising liquid overnight to lift and discard all solidified fat before serving.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/beef-short-ribs-bone-in-warning.json"
     },
     {
       "id": "buitoni-creamy-alfredo-sauce-warning",
@@ -74759,6 +75638,43 @@
       "_sourcePath": "src/data/items/frozen-aisle/trader-joes-vegetable-birds-nests-warning.json"
     },
     {
+      "id": "ahi-tuna-tartare-raw-sushi-warning",
+      "name": "Ahi Tuna Tartare / Raw Poke Bowl (WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Sushi Bar / Seafood Counter",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "raw-fish",
+        "sesame-seeds",
+        "chili-oil",
+        "opportunistic-pathogens"
+      ],
+      "searchKeywords": [
+        "ahi tartare warning",
+        "raw tuna danger",
+        "poke bowl raw fish",
+        "sushi tartare crohns"
+      ],
+      "whyItWorks": "Raw, uncooked fish poses foodborne bacterial and parasite risks on immunosuppression, while commercial tartare is heavily tossed with whole sesame seeds (stricture hazard!), spicy chili oil, and acidic citrus ponzu.",
+      "prepOrOrderInstructions": "Avoid raw tartare or poke during active disease. Order fully cooked grilled salmon or baked white fish instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/ahi-tuna-tartare-raw-sushi-warning.json"
+    },
+    {
       "id": "roasted-brussels-sprouts-gas-warning",
       "name": "Brussels Sprouts (High Raffinose & Sulfur Gas Warning)",
       "categoryFolder": "produce-sides",
@@ -75285,6 +76201,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/roquefort-blue-cheese-crumbled-warning.json"
     },
     {
+      "id": "smoked-polish-kielbasa-natural-casing-warning",
+      "name": "Smoked Polish Kielbasa (Tough Natural Casing WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Traditional Butcher Counter",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "tough-natural-casing",
+        "hog-casing",
+        "heavy-garlic",
+        "stricture-obstruction-risk"
+      ],
+      "searchKeywords": [
+        "kielbasa warning",
+        "polish sausage danger",
+        "natural casing obstruction",
+        "garlic smoked sausage"
+      ],
+      "whyItWorks": "Stuffed into chewy, fibrous natural hog casing that resists mastication and stomach acid, presenting a mechanical obstruction risk against intestinal strictures. Seasoned with heavy minced garlic and black pepper, provoking painful gas.",
+      "prepOrOrderInstructions": "AVOID during active disease. If eating in deep remission, peel and completely discard the outer casing before chewing.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/smoked-polish-kielbasa-natural-casing-warning.json"
+    },
+    {
       "id": "sour-patch-kids-original-warning",
       "name": "Sour Patch Kids Original (Concentrated Acid WARNING)",
       "categoryFolder": "snacks-desserts",
@@ -75569,6 +76522,42 @@
       "_sourcePath": "src/data/items/lunch/dca-award-wieners-bacon-street-dog-warning.json"
     },
     {
+      "id": "bone-in-pork-ribs-bbq-crust-warning",
+      "name": "Barbecue Pork Spare Ribs (Grease & Char WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Smokehouse / Butcher Counter",
+      "crohnsScore": 3.4,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "pork-ribs",
+        "charred-bark",
+        "dense-fat",
+        "tough-gristle-hazard"
+      ],
+      "searchKeywords": [
+        "pork ribs warning",
+        "bbq ribs danger",
+        "spare ribs diarrhea",
+        "rib gristle obstruction"
+      ],
+      "whyItWorks": "Pork spare ribs feature high intermuscular fat, tough chewy gristle, and a sugary, charred barbecue bark loaded with black pepper and chili powder. High fat + tough gristle + spice creates intense digestive cramping.",
+      "prepOrOrderInstructions": "AVOID during active inflammation. Choose lean pork tenderloin medallions instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/bone-in-pork-ribs-bbq-crust-warning.json"
+    },
+    {
       "id": "haagen-dazs-vanilla-swiss-almond-ice-cream-warning",
       "name": "Häagen-Dazs Vanilla Swiss Almond Ice Cream (WARNING)",
       "categoryFolder": "snacks-desserts",
@@ -75825,6 +76814,41 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Legume soups are major gas traps for Crohn's and Colitis patients.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/lunch/amys-organic-soups-light-in-sodium-lentil-warning.json"
+    },
+    {
+      "id": "spicy-cajun-blackened-catfish-warning",
+      "name": "Blackened Cajun Catfish Fillet (Carbon Char WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Cajun Seafood Kitchen",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "cajun-spices",
+        "capsaicin",
+        "blackened-char",
+        "gastric-irritant"
+      ],
+      "searchKeywords": [
+        "blackened catfish warning",
+        "cajun fish danger",
+        "spicy blackened seasoning"
+      ],
+      "whyItWorks": "Dredged in heavy cayenne pepper, black pepper, garlic powder, and onion powder, then pan-seared in butter at extreme heat until a blackened carbon crust forms. Capsaicin and bitter char irritate tender gastrointestinal mucosa and trigger urgent spasms.",
+      "prepOrOrderInstructions": "Avoid blackened fish. Ask for fresh fish to be simply broiled with olive oil, salt, and oregano.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/spicy-cajun-blackened-catfish-warning.json"
     },
     {
       "id": "doritos-nacho-cheese-warning",
@@ -76415,6 +77439,42 @@
         "Blue cheese dressing lactose"
       ],
       "_sourcePath": "src/data/items/diner-bbq/dcl-room-service-buffalo-wings.json"
+    },
+    {
+      "id": "ground-beef-73-27-fatty-blend-warning",
+      "name": "73% Lean / 27% Fat Ground Beef (Grease Bomb WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Butcher Counter Value Pack",
+      "crohnsScore": 3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "high-fat-27g",
+        "heavy-grease",
+        "gallbladder-dumping",
+        "cholecystokinin-trigger"
+      ],
+      "searchKeywords": [
+        "73 27 ground beef warning",
+        "fatty ground beef danger",
+        "greasy hamburger diarrhea"
+      ],
+      "whyItWorks": "Contains over 27% pure saturated beef tallow (nearly 30g fat per patty). The massive lipid load stimulates huge cholecystokinin secretion, causing aggressive gallbladder contractions, bile acid malabsorption, and explosive urgent diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Always buy 90/10 or 93/7 lean ground beef or ground turkey breast.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/ground-beef-73-27-fatty-blend-warning.json"
     },
     {
       "id": "pirate-night-angelicas-lime-shrimp",
@@ -77187,6 +78247,41 @@
       "whyItWorks": "Wheat noodles drenched in fiery chili oil, Sichuan peppercorns, crushed peanuts, and minced pork. The combination of intense capsaicin, numbing peppers, and rough crushed peanuts is catastrophic during gut inflammation.",
       "prepOrOrderInstructions": "Extreme Danger Warning: Strictly avoid. The combination of peanuts, chili, and oil will irritate intestinal walls.",
       "_sourcePath": "src/data/items/asian-indian/dca-lucky-fortune-spicy-dan-dan-noodles-warning.json"
+    },
+    {
+      "id": "pepperoni-stick-uncured-warning",
+      "name": "Uncured Pork & Beef Pepperoni Stick (Grease & Spice WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Deli Counter",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "pepperoni-grease",
+        "crushed-red-pepper",
+        "paprika",
+        "heartburn-trigger"
+      ],
+      "searchKeywords": [
+        "pepperoni stick warning",
+        "pepperoni danger",
+        "greasy pepperoni cramps"
+      ],
+      "whyItWorks": "High-fat pork and beef loaded with crushed red pepper flakes, whole mustard seeds, and paprika. The dense oil and capsaicin irritate tender gastric and ileal linings, provoking severe heartburn and cramping.",
+      "prepOrOrderInstructions": "STRICTLY AVOID during flares. Choose lean sliced turkey or prosciutto instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/pepperoni-stick-uncured-warning.json"
     },
     {
       "id": "vega-one-all-in-one-shake-warning",
@@ -78993,6 +80088,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/leatherbys-creamery-draper-alligator-giant-sundae-warning.json"
     },
     {
+      "id": "mexican-pork-chorizo-sausage-warning",
+      "name": "Mexican Pork Chorizo Sausage (Acid & Chili WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Traditional Meat Market",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "breakfast",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "pork-fat",
+        "red-chili-paste",
+        "vinegar-acidity",
+        "severe-cramping",
+        "hot-spices"
+      ],
+      "searchKeywords": [
+        "chorizo warning",
+        "mexican chorizo danger",
+        "spicy chorizo diarrhea",
+        "pork fat chili burn"
+      ],
+      "whyItWorks": "A catastrophic combination for IBD: ground pork fat saturated in vinegar acid, crushed chili pods, garlic cloves, cumin, and hot paprika. The high fat, vinegar acid, and capsaicin cause chemical burning along ulcerated intestinal mucosa, leading to violent cramping and urgent bloody diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. One of the single most aggressive sausage triggers for Crohn's and Colitis.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/mexican-pork-chorizo-sausage-warning.json"
+    },
+    {
       "id": "cheetos-flamin-hot-crunchy-warning",
       "name": "Cheetos Flamin' Hot Crunchy Snacks (WARNING)",
       "categoryFolder": "snacks-desserts",
@@ -79223,6 +80356,43 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Zero tolerance food for inflammatory bowel disease.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/snacks-desserts/takis-fuego-rolled-tortilla-chips-warning.json"
+    },
+    {
+      "id": "raw-oysters-on-the-half-shell-warning",
+      "name": "Raw Oysters on the Half Shell (Vibrio Sepsis WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Raw Oyster Bar",
+      "crohnsScore": 1.2,
+      "mealTypes": [
+        "snack",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "vibrio-vulnificus",
+        "severe-infection-risk",
+        "immunocompromised-hazard",
+        "raw-shellfish"
+      ],
+      "searchKeywords": [
+        "raw oysters warning",
+        "oysters half shell danger",
+        "vibrio sepsis crohns",
+        "biologics raw seafood"
+      ],
+      "whyItWorks": "Severe Life-Threatening Medical Hazard! Raw oysters filter seawater and frequently harbor Vibrio vulnificus, Salmonella, and norovirus. For IBD patients on biologic therapies (e.g., Infliximab, Adalimumab, Vedolizumab) or steroids, consuming raw bivalves carries an extraordinarily high risk of fulminant sepsis, severe bloody enteritis, and hospitalization.",
+      "prepOrOrderInstructions": "STRICTLY AVOID ALL RAW SHELLFISH. Always ensure oysters, clams, and mussels are fully cooked to an internal temperature of 145°F.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/raw-oysters-on-the-half-shell-warning.json"
     },
     {
       "id": "sugar-free-gummy-bears-sorbitol-warning",

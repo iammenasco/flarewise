@@ -1,0 +1,35 @@
+{
+  "id": "fresh-lamb-loin-chops-pan-seared",
+  "name": "Fresh Lamb Loin Chops (Trimmed, Pan-Seared with Rosemary)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Butcher Counter",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "lamb-loin-chops",
+    "tender-lamb",
+    "pasture-raised",
+    "heme-iron",
+    "soft-meat"
+  ],
+  "searchKeywords": [
+    "lamb chops",
+    "lamb loin chops",
+    "fresh lamb seared",
+    "easy digest red meat"
+  ],
+  "whyItWorks": "Lamb loin is the mini T-bone of lamb, consisting of the eye of loin and tenderloin. Naturally fine-textured, low in tough gristle, and easily assimilated.",
+  "prepOrOrderInstructions": "Trim outer fat strip. Sear in a skillet for 3 minutes per side with sea salt and a pinch of dried rosemary.",
+  "safetyTier": "low-risk"
+}
