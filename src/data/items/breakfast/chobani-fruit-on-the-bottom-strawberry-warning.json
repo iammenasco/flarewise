@@ -1,0 +1,35 @@
+{
+  "id": "chobani-fruit-on-the-bottom-strawberry-warning",
+  "name": "Chobani Fruit on the Bottom Strawberry (Seed WARNING)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Chobani",
+  "crohnsScore": 5,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "strawberry-seeds",
+    "achene-seeds",
+    "fruit-on-bottom",
+    "mechanical-irritant"
+  ],
+  "searchKeywords": [
+    "chobani fruit on bottom",
+    "strawberry yogurt warning",
+    "berry seeds yogurt"
+  ],
+  "whyItWorks": "The fruit compote layer at the bottom contains hundreds of tiny, abrasive whole strawberry seeds. In patients with active mucosal ulcerations or strictures, these tiny unchewed seeds irritate inflamed tissue and can spark localized pain.",
+  "prepOrOrderInstructions": "AVOID during active flares. Always select smooth, seedless, strained yogurts (like Plain or Vanilla).",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "green-valley-creamery-lactose-free-sour-cream",
+  "name": "Green Valley Creamery Lactose-Free Organic Sour Cream",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Green Valley Creamery",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "lactose-free-sour-cream",
+    "fodmap-friendly",
+    "organic-dairy",
+    "gut-safe-condiment",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "green valley sour cream",
+    "lactose free sour cream",
+    "low fodmap sour cream"
+  ],
+  "whyItWorks": "Certified organic cream treated with lactase enzyme and cultured with live probiotic microbes. 100% lactose-free and certified Low-FODMAP by Monash University. The gold-standard sour cream for sensitive guts.",
+  "prepOrOrderInstructions": "Dollop over baked potato flesh, soft corn tacos, or stir into chicken soups for creamy richness.",
+  "safetyTier": "flare-safe"
+}

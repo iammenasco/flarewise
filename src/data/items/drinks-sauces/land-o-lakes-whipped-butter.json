@@ -1,0 +1,36 @@
+{
+  "id": "land-o-lakes-whipped-butter",
+  "name": "Land O'Lakes Whipped Pure Butter (Tub)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Land O'Lakes",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "whipped-butter",
+    "easy-spread",
+    "45-percent-less-fat",
+    "pure-sweet-cream",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "land o lakes whipped butter",
+    "tub butter",
+    "soft spreadable butter",
+    "whipped sweet cream"
+  ],
+  "whyItWorks": "Pure sweet cream butter whipped with nitrogen air. Spreads smoothly straight from the refrigerator onto delicate soft bread without tearing the crumb, while reducing fat calories per tablespoon by nearly half.",
+  "prepOrOrderInstructions": "Spread lightly onto warm toast or English muffins.",
+  "safetyTier": "flare-safe"
+}

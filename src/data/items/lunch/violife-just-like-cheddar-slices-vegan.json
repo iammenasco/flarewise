@@ -1,0 +1,37 @@
+{
+  "id": "violife-just-like-cheddar-slices-vegan",
+  "name": "Violife 100% Vegan Just Like Cheddar Slices",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Violife",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vegan-cheese",
+    "dairy-free",
+    "soy-free",
+    "nut-free",
+    "coconut-oil-cheese",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "violife cheddar",
+    "vegan cheese slices",
+    "dairy free cheddar",
+    "allergy safe cheese"
+  ],
+  "whyItWorks": "Formulated with filtered water, coconut oil, and food starches (potato and corn). Completely free from dairy, lactose, casein, soy, gluten, and nuts. Melts smoothly on grilled sandwiches without dairy proteins.",
+  "prepOrOrderInstructions": "Place between sourdough bread for a gentle dairy-free grilled cheese.",
+  "safetyTier": "low-risk"
+}

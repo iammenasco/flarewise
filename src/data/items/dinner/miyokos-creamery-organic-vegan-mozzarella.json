@@ -1,0 +1,36 @@
+{
+  "id": "miyokos-creamery-organic-vegan-mozzarella",
+  "name": "Miyoko's Creamery Organic Cashew Milk Mozzarella (Pourable / Block)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Miyoko's Creamery",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cultured-cashew-mozzarella",
+    "dairy-free",
+    "organic",
+    "melts-for-pizza",
+    "clean-ingredients"
+  ],
+  "searchKeywords": [
+    "miyokos mozzarella",
+    "vegan mozzarella",
+    "cashew milk cheese",
+    "dairy free pizza cheese"
+  ],
+  "whyItWorks": "Crafted from cultured organic cashew milk using traditional cheesemaking techniques. Melts beautifully over pizza crusts without dairy proteins or synthetic melting gums.",
+  "prepOrOrderInstructions": "Shred or pour over gluten-free pizza crust or pasta and bake at 425°F until bubbly.",
+  "safetyTier": "low-risk"
+}

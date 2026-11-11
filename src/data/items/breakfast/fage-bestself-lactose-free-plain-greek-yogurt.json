@@ -1,0 +1,36 @@
+{
+  "id": "fage-bestself-lactose-free-plain-greek-yogurt",
+  "name": "FAGE BestSelf Lactose-Free Plain Greek Yogurt",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "FAGE",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "lactose-free-yogurt",
+    "strained-greek-yogurt",
+    "high-protein",
+    "probiotics",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "fage bestself",
+    "lactose free greek yogurt",
+    "fage plain",
+    "high protein gut safe yogurt"
+  ],
+  "whyItWorks": "Authentic strained Greek yogurt treated with lactase enzyme so that it is 100% lactose-free while retaining 15g of concentrated milk protein and live active cultures. Extremely thick, smooth, and devoid of gums or artificial thickeners.",
+  "prepOrOrderInstructions": "Eat chilled. Stir in a teaspoon of pure maple syrup or seedless blueberry puree for gentle flavor.",
+  "safetyTier": "flare-safe"
+}

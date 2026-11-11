@@ -1,0 +1,36 @@
+{
+  "id": "siggis-plant-based-coconut-blend-vanilla-yogurt",
+  "name": "siggi's Plant-Based Coconut Blend Vanilla Yogurt",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "siggi's",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "plant-based-yogurt",
+    "coconut-milk",
+    "dairy-free",
+    "vegan",
+    "high-protein-plant"
+  ],
+  "searchKeywords": [
+    "siggis plant based",
+    "coconut yogurt siggis",
+    "dairy free yogurt",
+    "vegan vanilla yogurt"
+  ],
+  "whyItWorks": "Made from a blend of coconut milk, macadamia nut milk, and pea protein, fermented with live active cultures. Delivers 10g protein with 0g dairy lactose and very low sugar, offering rich creaminess for strict dairy-free diets.",
+  "prepOrOrderInstructions": "Keep refrigerated. Stir well before eating.",
+  "safetyTier": "low-risk"
+}

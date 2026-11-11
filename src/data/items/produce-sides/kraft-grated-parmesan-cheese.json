@@ -1,0 +1,36 @@
+{
+  "id": "kraft-grated-parmesan-cheese",
+  "name": "Kraft 100% Grated Parmesan Cheese (Shaker Bottle)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Kraft Heinz",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grated-parmesan",
+    "aged-hard-cheese",
+    "0g-lactose",
+    "shelf-stable-parm",
+    "flavor-booster"
+  ],
+  "searchKeywords": [
+    "kraft parmesan",
+    "grated cheese shaker",
+    "parm shaker",
+    "safe pasta cheese"
+  ],
+  "whyItWorks": "Long aging eliminates all lactose sugars. Adds rich savory umami and calcium to plain steamed white rice, noodles, or bone broth without digestive upset.",
+  "prepOrOrderInstructions": "Dust 1–2 teaspoons over hot rice or buttered egg noodles.",
+  "safetyTier": "flare-safe"
+}

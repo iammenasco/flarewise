@@ -1,0 +1,37 @@
+{
+  "id": "cabot-seriously-sharp-cheddar-cheese-bar",
+  "name": "Cabot Seriously Sharp Cheddar Cheese (Naturally 0g Lactose)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Cabot Creamery",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "naturally-lactose-free",
+    "aged-cheddar",
+    "zero-carb",
+    "zero-fiber",
+    "high-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "cabot sharp cheddar",
+    "lactose free cheddar",
+    "aged cheddar crohns",
+    "0g lactose cheese"
+  ],
+  "whyItWorks": "Naturally aged for over 14 months. During aging, the natural cheese-making cultures consume all milk sugars, leaving 0g of lactose on the official nutrition label. Firm, savory, packed with bioavailable protein and calcium without digestive gas.",
+  "prepOrOrderInstructions": "Slice and eat with gluten-free pretzels, plain rice cakes, or melted onto soft sourdough toast.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "galbani-whole-milk-string-cheese",
+  "name": "Galbani Whole Milk Mozzarella String Cheese",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Galbani / Lactalis",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "galbani-string-cheese",
+    "whole-milk-mozzarella",
+    "creamy-snack",
+    "low-lactose"
+  ],
+  "searchKeywords": [
+    "galbani string cheese",
+    "whole milk cheese stick",
+    "italian mozzarella snack"
+  ],
+  "whyItWorks": "Crafted with whole milk for a richer, creamier mouthfeel than part-skim sticks. Very low in residual lactose, high in calcium, and completely free of roughage.",
+  "prepOrOrderInstructions": "Keep chilled. Pull into thin shreds before eating.",
+  "safetyTier": "flare-safe"
+}

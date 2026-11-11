@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:00:01.772Z",
-  "itemCount": 1872,
+  "builtAt": "2026-11-11T20:02:07.037Z",
+  "itemCount": 1904,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1882,6 +1882,45 @@
       "prepOrOrderInstructions": "Mix measured scoops with cool filtered water using a shaker bottle or blender on low speed. Do not boil or use hot liquids to protect the delicate TGF-beta proteins.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/drinks-sauces/modulen-ibd-nestle-health-science.json"
+    },
+    {
+      "id": "organic-valley-ghee-clarified-butter",
+      "name": "Organic Valley Ghee (Pure Clarified Butter Oil)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Organic Valley",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "Indian",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pure-ghee",
+        "clarified-butter",
+        "zero-lactose",
+        "zero-casein",
+        "high-smoke-point",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "organic valley ghee",
+        "clarified butter",
+        "pure butter oil",
+        "lactose free cooking fat"
+      ],
+      "whyItWorks": "Slowly simmered pasture-raised butter that has been filtered to remove all water, lactose, and casein milk solids. Contains pure short-chain and medium-chain fatty acids, notably butyrate, which serves as the primary fuel source for colonocytes (colon epithelial cells).",
+      "prepOrOrderInstructions": "Use for sautéing chicken, drizzling over white rice, or spreading on toast.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/organic-valley-ghee-clarified-butter.json"
     },
     {
       "id": "smooth-unsweetened-applesauce-cup",
@@ -4439,6 +4478,44 @@
       "_sourcePath": "src/data/items/high-protein/bumble-bee-wild-pink-salmon-in-water.json"
     },
     {
+      "id": "cabot-seriously-sharp-cheddar-cheese-bar",
+      "name": "Cabot Seriously Sharp Cheddar Cheese (Naturally 0g Lactose)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Cabot Creamery",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "naturally-lactose-free",
+        "aged-cheddar",
+        "zero-carb",
+        "zero-fiber",
+        "high-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "cabot sharp cheddar",
+        "lactose free cheddar",
+        "aged cheddar crohns",
+        "0g lactose cheese"
+      ],
+      "whyItWorks": "Naturally aged for over 14 months. During aging, the natural cheese-making cultures consume all milk sugars, leaving 0g of lactose on the official nutrition label. Firm, savory, packed with bioavailable protein and calcium without digestive gas.",
+      "prepOrOrderInstructions": "Slice and eat with gluten-free pretzels, plain rice cakes, or melted onto soft sourdough toast.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/cabot-seriously-sharp-cheddar-cheese-bar.json"
+    },
+    {
       "id": "disneyland-bengal-barbecue-steamed-white-rice-cup",
       "name": "Disneyland Bengal Barbecue Plain Steamed Jasmine White Rice Cup",
       "categoryFolder": "produce-sides",
@@ -5411,6 +5488,43 @@
       "_sourcePath": "src/data/items/drinks-sauces/dripdrop-ors-electrolyte-powder-watermelon.json"
     },
     {
+      "id": "fage-bestself-lactose-free-plain-greek-yogurt",
+      "name": "FAGE BestSelf Lactose-Free Plain Greek Yogurt",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "FAGE",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "lactose-free-yogurt",
+        "strained-greek-yogurt",
+        "high-protein",
+        "probiotics",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "fage bestself",
+        "lactose free greek yogurt",
+        "fage plain",
+        "high protein gut safe yogurt"
+      ],
+      "whyItWorks": "Authentic strained Greek yogurt treated with lactase enzyme so that it is 100% lactose-free while retaining 15g of concentrated milk protein and live active cultures. Extremely thick, smooth, and devoid of gums or artificial thickeners.",
+      "prepOrOrderInstructions": "Eat chilled. Stir in a teaspoon of pure maple syrup or seedless blueberry puree for gentle flavor.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/breakfast/fage-bestself-lactose-free-plain-greek-yogurt.json"
+    },
+    {
       "id": "fody-foods-low-fodmap-ketchup",
       "name": "Fody Foods Low-FODMAP Tomato Ketchup (No Onion, No Garlic)",
       "categoryFolder": "drinks-sauces",
@@ -5741,6 +5855,44 @@
       "whyItWorks": "Solid loins of albacore tuna packed in water without added vegetable oils or broths. Packs over 30g of pure, easily digested protein per can with zero carbohydrates or insoluble fiber.",
       "prepOrOrderInstructions": "Drain water thoroughly. Eat plain or seasoned with a touch of salt and olive oil. Avoid mixing with raw onions, celery, or relish.",
       "_sourcePath": "src/data/items/high-protein/kirkland-signature-canned-white-albacore-tuna-in-water.json"
+    },
+    {
+      "id": "lactaid-cottage-cheese-4-percent",
+      "name": "Lactaid 4% Milkfat Cottage Cheese (100% Lactose-Free)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Lactaid / HP Hood",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "lactose-free-cottage-cheese",
+        "high-protein",
+        "soft-curd",
+        "bland-diet",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "lactaid cottage cheese",
+        "lactose free cottage cheese",
+        "high protein bland food",
+        "soft curd"
+      ],
+      "whyItWorks": "Fresh cultured milk curds treated with lactase enzyme so there is 0g remaining lactose. Provides 13g of complete, highly bioavailable casein protein per 1/2 cup with zero fiber and zero spices. One of the top recovery foods in clinical gastroenterology.",
+      "prepOrOrderInstructions": "Eat chilled straight from the container or paired with canned peeled peaches or applesauce.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/breakfast/lactaid-cottage-cheese-4-percent.json"
     },
     {
       "id": "life-savers-hard-candy-5-flavors",
@@ -6515,6 +6667,42 @@
       "_sourcePath": "src/data/items/drinks-sauces/ensure-clear-nutrition-drink.json"
     },
     {
+      "id": "green-valley-creamery-lactose-free-sour-cream",
+      "name": "Green Valley Creamery Lactose-Free Organic Sour Cream",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Green Valley Creamery",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "lactose-free-sour-cream",
+        "fodmap-friendly",
+        "organic-dairy",
+        "gut-safe-condiment",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "green valley sour cream",
+        "lactose free sour cream",
+        "low fodmap sour cream"
+      ],
+      "whyItWorks": "Certified organic cream treated with lactase enzyme and cultured with live probiotic microbes. 100% lactose-free and certified Low-FODMAP by Monash University. The gold-standard sour cream for sensitive guts.",
+      "prepOrOrderInstructions": "Dollop over baked potato flesh, soft corn tacos, or stir into chicken soups for creamy richness.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/green-valley-creamery-lactose-free-sour-cream.json"
+    },
+    {
       "id": "heinz-homestyle-savory-turkey-gravy",
       "name": "Heinz Homestyle Savory Turkey Gravy (Low-Fat)",
       "categoryFolder": "drinks-sauces",
@@ -6882,6 +7070,42 @@
         "Contains real dairy milk protein (casein and whey); safe for lactose intolerance, but not for severe IgE milk allergies."
       ],
       "_sourcePath": "src/data/items/breakfast/lactaid-100-lactose-free-milk.json"
+    },
+    {
+      "id": "babybel-original-mini-cheese-wheels",
+      "name": "Mini Babybel Original Semisoft Cheese Wheels",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Bel Brands",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "babybel",
+        "naturally-lactose-free",
+        "red-wax-wheel",
+        "edam-cheese",
+        "travel-snack"
+      ],
+      "searchKeywords": [
+        "babybel cheese",
+        "mini babybel original",
+        "wax cheese wheel",
+        "safe cheese snack"
+      ],
+      "whyItWorks": "100% real French Edam cheese sealed in protective red wax. Naturally contains 0g lactose, 0g carbohydrates, 0g fiber, and 5g protein per wheel. Exceptionally gentle on inflamed intestines.",
+      "prepOrOrderInstructions": "Pull the red wax tab, peel open the shell, and enjoy the tender semisoft cheese inside.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/babybel-original-mini-cheese-wheels.json"
     },
     {
       "id": "mission-super-soft-flour-tortillas",
@@ -7961,6 +8185,79 @@
         "Completely hull-free; safe for strictures unlike whole sweet corn."
       ],
       "_sourcePath": "src/data/items/breakfast/kelloggs-corn-flakes-original.json"
+    },
+    {
+      "id": "kraft-grated-parmesan-cheese",
+      "name": "Kraft 100% Grated Parmesan Cheese (Shaker Bottle)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Kraft Heinz",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grated-parmesan",
+        "aged-hard-cheese",
+        "0g-lactose",
+        "shelf-stable-parm",
+        "flavor-booster"
+      ],
+      "searchKeywords": [
+        "kraft parmesan",
+        "grated cheese shaker",
+        "parm shaker",
+        "safe pasta cheese"
+      ],
+      "whyItWorks": "Long aging eliminates all lactose sugars. Adds rich savory umami and calcium to plain steamed white rice, noodles, or bone broth without digestive upset.",
+      "prepOrOrderInstructions": "Dust 1–2 teaspoons over hot rice or buttered egg noodles.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/kraft-grated-parmesan-cheese.json"
+    },
+    {
+      "id": "kraft-mozzarella-string-cheese",
+      "name": "Kraft Mozzarella String Cheese (Snack Sticks)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Kraft Heinz",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "string-cheese",
+        "part-skim-mozzarella",
+        "low-lactose",
+        "portable-snack",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "kraft string cheese",
+        "mozzarella sticks snack",
+        "cheese sticks crohns",
+        "low residue snack"
+      ],
+      "whyItWorks": "Part-skim mozzarella naturally contains less than 1g of lactose per stick. Low in fiber, seedless, rich in protein (7g), and easy to pull apart into fine strings that dissolve effortlessly in the stomach.",
+      "prepOrOrderInstructions": "Peel and eat as an afternoon protein boost on workdays or road trips.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/kraft-mozzarella-string-cheese.json"
     },
     {
       "id": "liquid-iv-hydration-multiplier-lemon-lime",
@@ -10803,6 +11100,40 @@
       "_sourcePath": "src/data/items/breakfast/malt-o-meal-dyno-bites.json"
     },
     {
+      "id": "galbani-whole-milk-string-cheese",
+      "name": "Galbani Whole Milk Mozzarella String Cheese",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Galbani / Lactalis",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "galbani-string-cheese",
+        "whole-milk-mozzarella",
+        "creamy-snack",
+        "low-lactose"
+      ],
+      "searchKeywords": [
+        "galbani string cheese",
+        "whole milk cheese stick",
+        "italian mozzarella snack"
+      ],
+      "whyItWorks": "Crafted with whole milk for a richer, creamier mouthfeel than part-skim sticks. Very low in residual lactose, high in calcium, and completely free of roughage.",
+      "prepOrOrderInstructions": "Keep chilled. Pull into thin shreds before eating.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/galbani-whole-milk-string-cheese.json"
+    },
+    {
       "id": "glutino-gluten-free-pretzel-twists",
       "name": "Glutino Gluten-Free Pretzel Twists",
       "categoryFolder": "snacks-desserts",
@@ -11586,6 +11917,43 @@
         "Contains real milk and eggs; take lactase enzyme if sensitive to lactose."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/kozy-shack-tapioca-pudding.json"
+    },
+    {
+      "id": "land-o-lakes-whipped-butter",
+      "name": "Land O'Lakes Whipped Pure Butter (Tub)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Land O'Lakes",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "whipped-butter",
+        "easy-spread",
+        "45-percent-less-fat",
+        "pure-sweet-cream",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "land o lakes whipped butter",
+        "tub butter",
+        "soft spreadable butter",
+        "whipped sweet cream"
+      ],
+      "whyItWorks": "Pure sweet cream butter whipped with nitrogen air. Spreads smoothly straight from the refrigerator onto delicate soft bread without tearing the crumb, while reducing fat calories per tablespoon by nearly half.",
+      "prepOrOrderInstructions": "Spread lightly onto warm toast or English muffins.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/land-o-lakes-whipped-butter.json"
     },
     {
       "id": "loaded-baked-potato-bowl",
@@ -15593,6 +15961,42 @@
       "_sourcePath": "src/data/items/dinner/aubergine-kitchen-herriman-draper-lehi-salmon-rice-bowl.json"
     },
     {
+      "id": "belgioioso-fresh-mozzarella-snack-bites",
+      "name": "BelGioioso Fresh Mozzarella Snacking Cheese Bites",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "BelGioioso Cheese",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "fresh-mozzarella",
+        "fresh-curd",
+        "low-sodium",
+        "soft-texture",
+        "gluten-free"
+      ],
+      "searchKeywords": [
+        "belgioioso mozzarella",
+        "fresh mozzarella bites",
+        "snacking mozzarella"
+      ],
+      "whyItWorks": "Small individual packs of fresh mozzarella pearls. Soft, milky, lower in salt than aged cheeses, and delicate on digestion.",
+      "prepOrOrderInstructions": "Drain any surface whey moisture and enjoy with plain crackers or a drizzle of olive oil.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/belgioioso-fresh-mozzarella-snack-bites.json"
+    },
+    {
       "id": "bibigo-steamed-chicken-vegetable-dumplings",
       "name": "Bibigo Steamed Chicken & Vegetable Dumplings (Tray with Dipping Sauce)",
       "categoryFolder": "frozen-aisle",
@@ -16287,6 +16691,43 @@
       "prepOrOrderInstructions": "Shake or blend 1 scoop with 8-10 oz water or plant milk.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/high-protein/drink-wholesome-egg-white-protein-powder.json"
+    },
+    {
+      "id": "earth-balance-original-buttery-spread",
+      "name": "Earth Balance Original Buttery Spread (Dairy-Free)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Earth Balance",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "vegan-butter",
+        "dairy-free-spread",
+        "non-gmo",
+        "zero-trans-fat",
+        "gluten-free"
+      ],
+      "searchKeywords": [
+        "earth balance",
+        "vegan butter tub",
+        "dairy free butter spread"
+      ],
+      "whyItWorks": "Plant-based oil blend (palm fruit, canola, soybean, olive) with sea salt and natural flavor. 100% vegan, dairy-free, lactose-free, and gluten-free; melts just like dairy butter.",
+      "prepOrOrderInstructions": "Spread onto toast or melt into steamed vegetables.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/earth-balance-original-buttery-spread.json"
     },
     {
       "id": "ensure-compact-nutrition-shake",
@@ -17339,6 +17780,42 @@
       "_sourcePath": "src/data/items/drinks-sauces/teeccino-dandelion-caramel-nut-chicory-free-tea.json"
     },
     {
+      "id": "laughing-cow-creamy-original-swiss-wedges",
+      "name": "The Laughing Cow Creamy Original Swiss Cheese Wedges",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Bel Brands",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "laughing-cow",
+        "spreadable-cheese",
+        "creamy-swiss",
+        "foil-wedge",
+        "portion-controlled"
+      ],
+      "searchKeywords": [
+        "laughing cow cheese",
+        "creamy swiss wedges",
+        "spreadable cheese snack"
+      ],
+      "whyItWorks": "Pasteurized Swiss cheese blend in individual foil wedges. Silky smooth, spreads effortlessly on crackers or soft bread without tearing, and low in lactose.",
+      "prepOrOrderInstructions": "Unpeel foil and spread over rice cakes, sourdough toast, or English muffins.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/laughing-cow-creamy-original-swiss-wedges.json"
+    },
+    {
       "id": "thomas-cuisine-bamboohr-custom-grain-bowl-chicken-rice",
       "name": "Thomas2Go @ BambooHR (Lindon, UT) Build-Your-Own Grain Bowl (Grilled Chicken & White Rice)",
       "categoryFolder": "lunch",
@@ -17457,6 +17934,44 @@
       "whyItWorks": "Formed from 100% wild-caught Alaskan salmon with light seasoning and zero dairy or fillers. Rich in natural omega-3 fatty acids that dampen intestinal inflammation, serving as an easy burger alternative.",
       "prepOrOrderInstructions": "Cook directly from frozen on a lightly oiled skillet for 4-5 minutes per side. Serve on a plain white bun with light mayo or plain white rice.",
       "_sourcePath": "src/data/items/frozen-aisle/trident-seafoods-wild-alaskan-salmon-burgers-costco.json"
+    },
+    {
+      "id": "violife-just-like-cheddar-slices-vegan",
+      "name": "Violife 100% Vegan Just Like Cheddar Slices",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Violife",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "vegan-cheese",
+        "dairy-free",
+        "soy-free",
+        "nut-free",
+        "coconut-oil-cheese",
+        "gluten-free"
+      ],
+      "searchKeywords": [
+        "violife cheddar",
+        "vegan cheese slices",
+        "dairy free cheddar",
+        "allergy safe cheese"
+      ],
+      "whyItWorks": "Formulated with filtered water, coconut oil, and food starches (potato and corn). Completely free from dairy, lactose, casein, soy, gluten, and nuts. Melts smoothly on grilled sandwiches without dairy proteins.",
+      "prepOrOrderInstructions": "Place between sourdough bread for a gentle dairy-free grilled cheese.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/violife-just-like-cheddar-slices-vegan.json"
     },
     {
       "id": "vita-coco-pure-coconut-water-original",
@@ -18762,6 +19277,42 @@
       "_sourcePath": "src/data/items/snacks-desserts/outshine-fruit-bars-creamy-coconut.json"
     },
     {
+      "id": "philadelphia-plant-based-cream-cheese",
+      "name": "Philadelphia Plant-Based Cream Cheese Spread",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Kraft Heinz",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "plant-based-cream-cheese",
+        "dairy-free",
+        "fava-bean-protein",
+        "seedless",
+        "bagel-spread"
+      ],
+      "searchKeywords": [
+        "philadelphia plant based",
+        "dairy free cream cheese",
+        "vegan cream cheese"
+      ],
+      "whyItWorks": "Combines coconut oil and fava bean protein into a silky spread that mimics traditional cream cheese without a drop of milk, whey, or lactose.",
+      "prepOrOrderInstructions": "Spread over toasted white bagels or English muffins.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/philadelphia-plant-based-cream-cheese.json"
+    },
+    {
       "id": "holiday-leftover-turkey-shepherds-pie",
       "name": "Post-Holiday Turkey & Mashed Potato Shepherd's Pie Casserole",
       "categoryFolder": "dinner",
@@ -18877,6 +19428,43 @@
         "Safe for remission and recovery; ensure adequate hydration."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/sensible-portions-garden-veggie-straws.json"
+    },
+    {
+      "id": "siggis-plant-based-coconut-blend-vanilla-yogurt",
+      "name": "siggi's Plant-Based Coconut Blend Vanilla Yogurt",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "siggi's",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "plant-based-yogurt",
+        "coconut-milk",
+        "dairy-free",
+        "vegan",
+        "high-protein-plant"
+      ],
+      "searchKeywords": [
+        "siggis plant based",
+        "coconut yogurt siggis",
+        "dairy free yogurt",
+        "vegan vanilla yogurt"
+      ],
+      "whyItWorks": "Made from a blend of coconut milk, macadamia nut milk, and pea protein, fermented with live active cultures. Delivers 10g protein with 0g dairy lactose and very low sugar, offering rich creaminess for strict dairy-free diets.",
+      "prepOrOrderInstructions": "Keep refrigerated. Stir well before eating.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/siggis-plant-based-coconut-blend-vanilla-yogurt.json"
     },
     {
       "id": "starburst-original-fruit-chews",
@@ -20091,6 +20679,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/goetzes-caramel-creams-bullseyes.json"
     },
     {
+      "id": "good-culture-organic-whole-milk-cottage-cheese",
+      "name": "Good Culture Organic Whole Milk Classic Cottage Cheese",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Good Culture",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "clean-cottage-cheese",
+        "live-cultures",
+        "pasture-raised",
+        "no-gums",
+        "high-protein-14g"
+      ],
+      "searchKeywords": [
+        "good culture",
+        "organic cottage cheese",
+        "probiotic cottage cheese",
+        "clean dairy"
+      ],
+      "whyItWorks": "Made without chemical stabilizers, guar gums, carrageenan, or added thickeners—only organic skim milk, cream, sea salt, and live active cultures. The clean ingredient deck prevents the cramping often triggered by commercial emulsifiers.",
+      "prepOrOrderInstructions": "Eat plain or with scrambled eggs. Take a lactase tablet if sensitive to dairy sugars.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/good-culture-organic-whole-milk-cottage-cheese.json"
+    },
+    {
       "id": "holiday-charcuterie-aged-cheese-prosciutto-crackers",
       "name": "Holiday Charcuterie Grazing Plate — Aged White Cheddar, Gruyère, Prosciutto & Water Crackers",
       "categoryFolder": "snacks-desserts",
@@ -20412,6 +21038,42 @@
         "Leave the fibrous outer potato skin behind, and avoid the Chili & Fritos potato"
       ],
       "_sourcePath": "src/data/items/produce-sides/knotts-miners-mac-and-spuds-baked-potato.json"
+    },
+    {
+      "id": "land-o-lakes-butter-with-canola-oil",
+      "name": "Land O'Lakes Butter with Canola Oil (Spreadable Tub)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Land O'Lakes",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "butter-spread",
+        "canola-oil-blend",
+        "spreadable",
+        "three-ingredients"
+      ],
+      "searchKeywords": [
+        "land o lakes butter canola",
+        "spreadable butter tub",
+        "butter with oil"
+      ],
+      "whyItWorks": "Made with simple sweet cream, canola oil, and salt. Free from artificial preservatives and spreads instantly.",
+      "prepOrOrderInstructions": "Keep in the fridge. Use for quick breakfast spreading.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/land-o-lakes-butter-with-canola-oil.json"
     },
     {
       "id": "le-nonne-logan-potato-gnocchi-butter-sage",
@@ -21244,6 +21906,42 @@
       "_sourcePath": "src/data/items/drinks-sauces/welchs-100-percent-white-grape-juice.json"
     },
     {
+      "id": "yoplait-original-french-vanilla-smooth-yogurt",
+      "name": "Yoplait Original French Vanilla Smooth Yogurt",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Yoplait / General Mills",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "smooth-yogurt",
+        "french-vanilla",
+        "creamy",
+        "seedless",
+        "calcium-rich"
+      ],
+      "searchKeywords": [
+        "yoplait vanilla",
+        "original yoplait",
+        "smooth french vanilla yogurt"
+      ],
+      "whyItWorks": "Cultured pasteurized reduced-fat milk whipped into a completely smooth, velvety texture. Gluten-free, seed-free, and fortified with vitamin D and A.",
+      "prepOrOrderInstructions": "Eat chilled with a spoon. A familiar, soothing grocery staple.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/yoplait-original-french-vanilla-smooth-yogurt.json"
+    },
+    {
       "id": "york-peppermint-pattie",
       "name": "York Dark Chocolate Peppermint Pattie",
       "categoryFolder": "snacks-desserts",
@@ -21362,6 +22060,43 @@
       "whyItWorks": "Center-cut beef tenderloin is the leanest, most tender cut of beef with minimal gristle or connective tissue. Paired with a soft baked Idaho potato (without rough skin), it provides premium nutrient-dense recovery fuel.",
       "prepOrOrderInstructions": "Ask for filet prepared medium-rare or medium without heavy black pepper crust. Scoop out the fluffy interior of the baked potato and top with a small pat of butter.",
       "_sourcePath": "src/data/items/dinner/coopers-bear-lake-west-center-cut-filet.json"
+    },
+    {
+      "id": "activia-probiotic-vanilla-yogurt-smooth",
+      "name": "Activia Probiotic Dailies Vanilla Yogurt (Smooth)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Dannon / Activia",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "probiotic-yogurt",
+        "bifidobacterium",
+        "smooth-texture",
+        "gut-health",
+        "low-fiber"
+      ],
+      "searchKeywords": [
+        "activia vanilla",
+        "activia probiotic",
+        "bifidus regularis",
+        "smooth yogurt"
+      ],
+      "whyItWorks": "Contains exclusive probiotic strain Bifidobacterium animalis lactis DN-173 010. Pureed into a silky smooth custard without fruit seeds or skins, delivering beneficial gut microbes without mechanical roughage.",
+      "prepOrOrderInstructions": "Consume 1 cup daily with breakfast or as an afternoon snack.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/activia-probiotic-vanilla-yogurt-smooth.json"
     },
     {
       "id": "ahi-tuna-tartare",
@@ -22702,6 +23437,43 @@
       "whyItWorks": "Uses the 9.5/10 Malt-O-Meal Crispy Rice base bound together with melted marshmallows and butter - zero insoluble roughage.",
       "prepOrOrderInstructions": "Make a batch with Malt-O-Meal Crispy Rice or grab pre-packaged treats.",
       "_sourcePath": "src/data/items/snacks-desserts/crispy-rice-marshmallow-treats.json"
+    },
+    {
+      "id": "daisy-sour-cream-pure-and-natural",
+      "name": "Daisy Pure & Natural Sour Cream (Tub or Squeeze)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Daisy Brand",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "pure-sour-cream",
+        "single-ingredient",
+        "no-gums",
+        "no-preservatives",
+        "creamy-topping"
+      ],
+      "searchKeywords": [
+        "daisy sour cream",
+        "pure sour cream",
+        "squeeze sour cream",
+        "baked potato topping"
+      ],
+      "whyItWorks": "Contains just one single ingredient: Grade A pasteurized cultured cream. Contains zero thickeners, gums, carrageenan, or artificial preservatives. Adds soothing fat calories to baked potatoes without chemical gut irritants.",
+      "prepOrOrderInstructions": "Top hot baked potatoes or plain white rice. Use in moderation (1–2 tbsp) to keep fat easily digestible.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/daisy-sour-cream-pure-and-natural.json"
     },
     {
       "id": "dca-flos-v8-cafe-ramones-low-and-slow-turkey-club",
@@ -24573,6 +25345,43 @@
       "_sourcePath": "src/data/items/asian-indian/mild-butter-chicken-white-naan.json"
     },
     {
+      "id": "miyokos-creamery-organic-vegan-mozzarella",
+      "name": "Miyoko's Creamery Organic Cashew Milk Mozzarella (Pourable / Block)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Miyoko's Creamery",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "cultured-cashew-mozzarella",
+        "dairy-free",
+        "organic",
+        "melts-for-pizza",
+        "clean-ingredients"
+      ],
+      "searchKeywords": [
+        "miyokos mozzarella",
+        "vegan mozzarella",
+        "cashew milk cheese",
+        "dairy free pizza cheese"
+      ],
+      "whyItWorks": "Crafted from cultured organic cashew milk using traditional cheesemaking techniques. Melts beautifully over pizza crusts without dairy proteins or synthetic melting gums.",
+      "prepOrOrderInstructions": "Shred or pour over gluten-free pizza crust or pasta and bake at 425°F until bubbly.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/dinner/miyokos-creamery-organic-vegan-mozzarella.json"
+    },
+    {
       "id": "mo-bettahs-draper-kalua-pig-steamed-white-rice",
       "name": "Mo' Bettahs Hawaiian Style Kalua Pig with Steamed White Rice",
       "categoryFolder": "dinner",
@@ -25398,6 +26207,41 @@
         "Verify jelly is seedless grape rather than seeded raspberry"
       ],
       "_sourcePath": "src/data/items/breakfast/dcl-kids-pbj-typhoon-pancake.json"
+    },
+    {
+      "id": "plugra-european-style-unsalted-butter",
+      "name": "PluGrá European Style Extra Creamy Unsalted Butter",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "PluGrá",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "breakfast",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "european-butter",
+        "82-percent-butterfat",
+        "slow-churned",
+        "pure-dairy"
+      ],
+      "searchKeywords": [
+        "plugra butter",
+        "european butter",
+        "unsalted butter premium"
+      ],
+      "whyItWorks": "Slow-churned to 82% butterfat with lower moisture than American butter. Delivers rich, gentle pastry and culinary fat without excess water.",
+      "prepOrOrderInstructions": "Use for baking and light pan basting.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/plugra-european-style-unsalted-butter.json"
     },
     {
       "id": "smooth-masa-pork-chicken-tamales",
@@ -27974,6 +28818,41 @@
       "whyItWorks": "Marinated, fire-grilled chicken breast served in soft warm corn tortillas without beans, sour cream, or fried shells. Clean, low-residue Mexican food.",
       "prepOrOrderInstructions": "Order grilled chicken tacos on corn tortillas with chicken only. Skip beans, cheese, pico, and lettuce. Pair with white rice.",
       "_sourcePath": "src/data/items/mexican-southwest/costa-vida-grilled-chicken-corn-tacos.json"
+    },
+    {
+      "id": "country-crock-original-spread-tub",
+      "name": "Country Crock Original Buttery Spread",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Country Crock / Upfield",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "breakfast",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "country-crock",
+        "vegetable-oil-spread",
+        "low-saturated-fat",
+        "zero-cholesterol"
+      ],
+      "searchKeywords": [
+        "country crock",
+        "margarine tub",
+        "buttery spread"
+      ],
+      "whyItWorks": "Made from purified water and plant-based vegetable oils. Spreads smoothly and contains less saturated fat than dairy butter.",
+      "prepOrOrderInstructions": "Use on baked potatoes or pancakes.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/country-crock-original-spread-tub.json"
     },
     {
       "id": "crepes-and-coffee-bear-lake-gluten-free-crepe",
@@ -31367,6 +32246,43 @@
       "prepOrOrderInstructions": "Order \"Grilled Chicken Sandwich PLAIN - no lettuce, no tomato, no pickles.\" Ask for a standard toasted white bun if high-fiber multigrain irritates your gut.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/lunch/chick-fil-a-grilled-chicken-sandwich-plain.json"
+    },
+    {
+      "id": "chobani-zero-sugar-vanilla-greek-yogurt",
+      "name": "Chobani Zero Sugar Vanilla Greek Yogurt",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Chobani",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "zero-sugar-yogurt",
+        "ultra-filtered-milk",
+        "lactose-free",
+        "monk-fruit",
+        "high-protein"
+      ],
+      "searchKeywords": [
+        "chobani zero sugar",
+        "vanilla chobani zero",
+        "sugar free greek yogurt",
+        "low calorie yogurt"
+      ],
+      "whyItWorks": "Crafted using ultra-filtered nonfat milk to eliminate natural milk sugars and lactose, sweetened with monk fruit and allulose. Delivers 11g protein with zero lactose distress, suitable for blood sugar and weight control in remission.",
+      "prepOrOrderInstructions": "Eat straight from the cup. If sensitive to allulose, enjoy a half-cup serving initially.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/chobani-zero-sugar-vanilla-greek-yogurt.json"
     },
     {
       "id": "disneyland-rancho-del-zocalo-citrus-chicken-platter",
@@ -38940,6 +39856,43 @@
         "Contains dairy cheese and milk; take lactase enzyme if sensitive to lactose."
       ],
       "_sourcePath": "src/data/items/frozen-aisle/trader-joes-gluten-free-mac-and-cheese.json"
+    },
+    {
+      "id": "feta-cheese-crumbled-in-brine",
+      "name": "Traditional Sheep & Goat Milk Feta Cheese (Crumbled in Brine)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "President / Athenos",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "feta-cheese",
+        "sheep-goat-milk",
+        "a2-dairy",
+        "tangy",
+        "crumbly"
+      ],
+      "searchKeywords": [
+        "feta cheese",
+        "crumbled feta",
+        "sheep milk feta",
+        "greek feta"
+      ],
+      "whyItWorks": "Traditional authentic feta is made from sheep and goat milk, which naturally contains A2 casein proteins and lower lactose than cow's milk. Tangy and flavorful in small quantities.",
+      "prepOrOrderInstructions": "Rinse briefly in cold water if you need to reduce surface brine sodium before crumbling over roasted potatoes or chicken.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/feta-cheese-crumbled-in-brine.json"
     },
     {
       "id": "rapunzels-trio-of-veal",
@@ -64605,6 +65558,41 @@
       "_sourcePath": "src/data/items/asian-indian/merrytime-pumpkin-lentil-apple-curry.json"
     },
     {
+      "id": "breakstones-smooth-and-creamy-cottage-cheese-doubles-blueberry-warning",
+      "name": "Breakstone's Cottage Doubles Blueberry (Fruit Seed WARNING)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Kraft Heinz",
+      "crohnsScore": 5.4,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "blueberry-seeds",
+        "fruit-skins",
+        "high-sugar-compote",
+        "stricture-irritant"
+      ],
+      "searchKeywords": [
+        "cottage doubles blueberry",
+        "fruit cottage cheese warning",
+        "blueberry seeds cottage cheese"
+      ],
+      "whyItWorks": "The fruit side cup contains whole blueberry preserves with intact tough skins and microscopic seeds. Insoluble blueberry skins can irritate inflamed mucosa, while the whole milk curds retain residual lactose.",
+      "prepOrOrderInstructions": "Choose plain cottage cheese and stir in smooth, seedless fruit purees at home.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/breakstones-smooth-and-creamy-cottage-cheese-doubles-blueberry-warning.json"
+    },
+    {
       "id": "cafe-sabor-logan-garden-city-white-cheddar-queso-warning",
       "name": "Café Sabor (Logan & Garden City, UT) White Cheddar Hatch Chile Queso (Spicy Warning)",
       "categoryFolder": "mexican-southwest",
@@ -65657,6 +66645,43 @@
       "_sourcePath": "src/data/items/dinner/disneyland-harbour-galley-clam-chowder-warning.json"
     },
     {
+      "id": "polly-o-part-skim-ricotta-cheese-warning",
+      "name": "Polly-O Part-Skim Ricotta Cheese (High Lactose WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Polly-O / Lactalis",
+      "crohnsScore": 5.2,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "high-lactose-warning",
+        "whey-cheese",
+        "severe-bloating",
+        "gas-trap"
+      ],
+      "searchKeywords": [
+        "ricotta cheese warning",
+        "polly o ricotta",
+        "high lactose cheese",
+        "ricotta gas"
+      ],
+      "whyItWorks": "Ricotta is traditionally produced by reheating the sweet whey left over from cheese production. Because it is whey-derived rather than curd-based, it retains up to 4–6g of concentrated lactose per 1/2 cup, provoking rapid fermentation, loud rumbling, and watery diarrhea in lactose-sensitive IBD guts.",
+      "prepOrOrderInstructions": "Avoid standard ricotta during active flares. If baking lasagna, use 100% lactose-free ricotta or aged parmesan.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/polly-o-part-skim-ricotta-cheese-warning.json"
+    },
+    {
       "id": "portos-bakery-buena-park-fresh-orange-juice-warning",
       "name": "Porto's Bakery (Buena Park, CA) Fresh-Squeezed Orange Juice (Citrus Acid Warning)",
       "categoryFolder": "drinks-sauces",
@@ -66487,6 +67512,42 @@
       "_sourcePath": "src/data/items/asian-indian/rapunzels-chili-spiced-tofu-ramen.json"
     },
     {
+      "id": "chobani-fruit-on-the-bottom-strawberry-warning",
+      "name": "Chobani Fruit on the Bottom Strawberry (Seed WARNING)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Chobani",
+      "crohnsScore": 5,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "strawberry-seeds",
+        "achene-seeds",
+        "fruit-on-bottom",
+        "mechanical-irritant"
+      ],
+      "searchKeywords": [
+        "chobani fruit on bottom",
+        "strawberry yogurt warning",
+        "berry seeds yogurt"
+      ],
+      "whyItWorks": "The fruit compote layer at the bottom contains hundreds of tiny, abrasive whole strawberry seeds. In patients with active mucosal ulcerations or strictures, these tiny unchewed seeds irritate inflamed tissue and can spark localized pain.",
+      "prepOrOrderInstructions": "AVOID during active flares. Always select smooth, seedless, strained yogurts (like Plain or Vanilla).",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/chobani-fruit-on-the-bottom-strawberry-warning.json"
+    },
+    {
       "id": "plaza-de-coco-chorizo-street-croquettes",
       "name": "Chorizo Street Croquettes & Empanadas (WARNING)",
       "categoryFolder": "mexican-southwest",
@@ -66788,6 +67849,42 @@
         "Acidic vinaigrette"
       ],
       "_sourcePath": "src/data/items/dinner/tritons-lumieres-farmhouse-salad.json"
+    },
+    {
+      "id": "i-cant-believe-its-not-butter-spray-warning",
+      "name": "I Can't Believe It's Not Butter! Spray (Emulsifier WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Upfield",
+      "crohnsScore": 5,
+      "mealTypes": [
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "polysorbate-60",
+        "chemical-emulsifiers",
+        "preservatives",
+        "mucus-barrier-disruptor"
+      ],
+      "searchKeywords": [
+        "butter spray warning",
+        "i cant believe its not butter spray",
+        "polysorbate spray danger"
+      ],
+      "whyItWorks": "Contains soybean oil emulsified with water, polysorbate 60, soy lecithin, artificial flavors, sodium benzoate, and calcium disodium EDTA. Synthetic food emulsifiers like polysorbate 60 have been demonstrated in peer-reviewed clinical studies to erode the colonic protective mucus layer and promote bacterial translocation.",
+      "prepOrOrderInstructions": "AVOID chemical butter sprays. Choose pure clarified ghee, olive oil, or whipped real butter instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/i-cant-believe-its-not-butter-spray-warning.json"
     },
     {
       "id": "kirkland-signature-deli-yakisoba-stir-fry-warning",
@@ -68490,6 +69587,41 @@
       "prepOrOrderInstructions": "Avoid during flares. Standard peeled white potato chips are much easier to digest.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/snacks-desserts/terra-original-root-vegetable-chips-warning.json"
+    },
+    {
+      "id": "laughing-cow-creamy-swiss-garlic-herb-warning",
+      "name": "The Laughing Cow Creamy Garlic & Herb Wedges (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Bel Brands",
+      "crohnsScore": 4.8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "dehydrated-garlic",
+        "onion-powder",
+        "allium-fructans",
+        "fodmap-trigger"
+      ],
+      "searchKeywords": [
+        "laughing cow garlic herb",
+        "garlic cheese spread warning",
+        "onion cheese wedge"
+      ],
+      "whyItWorks": "Heavily infused with dehydrated garlic powder and onion powder. The concentrated allium fructans trigger sharp gas pains and abdominal cramping.",
+      "prepOrOrderInstructions": "Choose The Laughing Cow Creamy Original Swiss instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/laughing-cow-creamy-swiss-garlic-herb-warning.json"
     },
     {
       "id": "holiday-spiced-eggnog-dairy-warning",
@@ -73117,6 +74249,43 @@
         "Fibrous celery strings tangle together in the GI tract, posing an acute blockage risk in Crohn's patients with strictures."
       ],
       "_sourcePath": "src/data/items/produce-sides/raw-celery-sticks-warning.json"
+    },
+    {
+      "id": "roquefort-blue-cheese-crumbled-warning",
+      "name": "Roquefort Blue Cheese (Penicillium Mold WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Gourmet Dairy Staple",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "snack",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "blue-cheese-mold",
+        "penicillium-roqueforti",
+        "pungent-acids",
+        "mucosal-irritant"
+      ],
+      "searchKeywords": [
+        "blue cheese warning",
+        "roquefort danger",
+        "gorgonzola warning",
+        "mold ripened cheese"
+      ],
+      "whyItWorks": "Inoculated with active cultures of Penicillium roqueforti mold, creating dense veins of fungal mycelium. The high levels of free butyric acid, methyl ketones, and histamine produce burning sensations and inflammatory spasms along ulcerated mucosal tissue.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Stick to mild, non-mold aged cheeses like Swiss or White Cheddar.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/roquefort-blue-cheese-crumbled-warning.json"
     },
     {
       "id": "sour-patch-kids-original-warning",

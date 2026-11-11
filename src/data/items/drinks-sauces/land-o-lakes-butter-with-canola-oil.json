@@ -1,0 +1,35 @@
+{
+  "id": "land-o-lakes-butter-with-canola-oil",
+  "name": "Land O'Lakes Butter with Canola Oil (Spreadable Tub)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Land O'Lakes",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "butter-spread",
+    "canola-oil-blend",
+    "spreadable",
+    "three-ingredients"
+  ],
+  "searchKeywords": [
+    "land o lakes butter canola",
+    "spreadable butter tub",
+    "butter with oil"
+  ],
+  "whyItWorks": "Made with simple sweet cream, canola oil, and salt. Free from artificial preservatives and spreads instantly.",
+  "prepOrOrderInstructions": "Keep in the fridge. Use for quick breakfast spreading.",
+  "safetyTier": "low-risk"
+}

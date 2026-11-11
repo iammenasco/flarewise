@@ -1,0 +1,37 @@
+{
+  "id": "lactaid-cottage-cheese-4-percent",
+  "name": "Lactaid 4% Milkfat Cottage Cheese (100% Lactose-Free)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Lactaid / HP Hood",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "lactose-free-cottage-cheese",
+    "high-protein",
+    "soft-curd",
+    "bland-diet",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "lactaid cottage cheese",
+    "lactose free cottage cheese",
+    "high protein bland food",
+    "soft curd"
+  ],
+  "whyItWorks": "Fresh cultured milk curds treated with lactase enzyme so there is 0g remaining lactose. Provides 13g of complete, highly bioavailable casein protein per 1/2 cup with zero fiber and zero spices. One of the top recovery foods in clinical gastroenterology.",
+  "prepOrOrderInstructions": "Eat chilled straight from the container or paired with canned peeled peaches or applesauce.",
+  "safetyTier": "flare-safe"
+}

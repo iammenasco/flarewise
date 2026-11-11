@@ -1,0 +1,35 @@
+{
+  "id": "belgioioso-fresh-mozzarella-snack-bites",
+  "name": "BelGioioso Fresh Mozzarella Snacking Cheese Bites",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "BelGioioso Cheese",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fresh-mozzarella",
+    "fresh-curd",
+    "low-sodium",
+    "soft-texture",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "belgioioso mozzarella",
+    "fresh mozzarella bites",
+    "snacking mozzarella"
+  ],
+  "whyItWorks": "Small individual packs of fresh mozzarella pearls. Soft, milky, lower in salt than aged cheeses, and delicate on digestion.",
+  "prepOrOrderInstructions": "Drain any surface whey moisture and enjoy with plain crackers or a drizzle of olive oil.",
+  "safetyTier": "low-risk"
+}

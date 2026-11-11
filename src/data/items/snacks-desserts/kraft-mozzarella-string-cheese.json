@@ -1,0 +1,35 @@
+{
+  "id": "kraft-mozzarella-string-cheese",
+  "name": "Kraft Mozzarella String Cheese (Snack Sticks)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kraft Heinz",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "string-cheese",
+    "part-skim-mozzarella",
+    "low-lactose",
+    "portable-snack",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "kraft string cheese",
+    "mozzarella sticks snack",
+    "cheese sticks crohns",
+    "low residue snack"
+  ],
+  "whyItWorks": "Part-skim mozzarella naturally contains less than 1g of lactose per stick. Low in fiber, seedless, rich in protein (7g), and easy to pull apart into fine strings that dissolve effortlessly in the stomach.",
+  "prepOrOrderInstructions": "Peel and eat as an afternoon protein boost on workdays or road trips.",
+  "safetyTier": "flare-safe"
+}

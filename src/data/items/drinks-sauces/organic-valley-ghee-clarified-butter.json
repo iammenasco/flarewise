@@ -1,0 +1,38 @@
+{
+  "id": "organic-valley-ghee-clarified-butter",
+  "name": "Organic Valley Ghee (Pure Clarified Butter Oil)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Organic Valley",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pure-ghee",
+    "clarified-butter",
+    "zero-lactose",
+    "zero-casein",
+    "high-smoke-point",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "organic valley ghee",
+    "clarified butter",
+    "pure butter oil",
+    "lactose free cooking fat"
+  ],
+  "whyItWorks": "Slowly simmered pasture-raised butter that has been filtered to remove all water, lactose, and casein milk solids. Contains pure short-chain and medium-chain fatty acids, notably butyrate, which serves as the primary fuel source for colonocytes (colon epithelial cells).",
+  "prepOrOrderInstructions": "Use for sautéing chicken, drizzling over white rice, or spreading on toast.",
+  "safetyTier": "flare-safe"
+}

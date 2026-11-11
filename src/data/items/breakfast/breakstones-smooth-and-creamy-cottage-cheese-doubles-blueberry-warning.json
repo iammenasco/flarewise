@@ -1,0 +1,34 @@
+{
+  "id": "breakstones-smooth-and-creamy-cottage-cheese-doubles-blueberry-warning",
+  "name": "Breakstone's Cottage Doubles Blueberry (Fruit Seed WARNING)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Kraft Heinz",
+  "crohnsScore": 5.4,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "blueberry-seeds",
+    "fruit-skins",
+    "high-sugar-compote",
+    "stricture-irritant"
+  ],
+  "searchKeywords": [
+    "cottage doubles blueberry",
+    "fruit cottage cheese warning",
+    "blueberry seeds cottage cheese"
+  ],
+  "whyItWorks": "The fruit side cup contains whole blueberry preserves with intact tough skins and microscopic seeds. Insoluble blueberry skins can irritate inflamed mucosa, while the whole milk curds retain residual lactose.",
+  "prepOrOrderInstructions": "Choose plain cottage cheese and stir in smooth, seedless fruit purees at home.",
+  "safetyTier": "danger-zone"
+}

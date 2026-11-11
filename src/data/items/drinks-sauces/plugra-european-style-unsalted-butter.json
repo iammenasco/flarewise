@@ -1,0 +1,34 @@
+{
+  "id": "plugra-european-style-unsalted-butter",
+  "name": "PluGrá European Style Extra Creamy Unsalted Butter",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "PluGrá",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "breakfast",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "european-butter",
+    "82-percent-butterfat",
+    "slow-churned",
+    "pure-dairy"
+  ],
+  "searchKeywords": [
+    "plugra butter",
+    "european butter",
+    "unsalted butter premium"
+  ],
+  "whyItWorks": "Slow-churned to 82% butterfat with lower moisture than American butter. Delivers rich, gentle pastry and culinary fat without excess water.",
+  "prepOrOrderInstructions": "Use for baking and light pan basting.",
+  "safetyTier": "low-risk"
+}

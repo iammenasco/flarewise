@@ -1,0 +1,37 @@
+{
+  "id": "good-culture-organic-whole-milk-cottage-cheese",
+  "name": "Good Culture Organic Whole Milk Classic Cottage Cheese",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Good Culture",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "clean-cottage-cheese",
+    "live-cultures",
+    "pasture-raised",
+    "no-gums",
+    "high-protein-14g"
+  ],
+  "searchKeywords": [
+    "good culture",
+    "organic cottage cheese",
+    "probiotic cottage cheese",
+    "clean dairy"
+  ],
+  "whyItWorks": "Made without chemical stabilizers, guar gums, carrageenan, or added thickeners—only organic skim milk, cream, sea salt, and live active cultures. The clean ingredient deck prevents the cramping often triggered by commercial emulsifiers.",
+  "prepOrOrderInstructions": "Eat plain or with scrambled eggs. Take a lactase tablet if sensitive to dairy sugars.",
+  "safetyTier": "low-risk"
+}

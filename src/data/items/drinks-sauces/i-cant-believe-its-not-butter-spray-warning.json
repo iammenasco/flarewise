@@ -1,0 +1,35 @@
+{
+  "id": "i-cant-believe-its-not-butter-spray-warning",
+  "name": "I Can't Believe It's Not Butter! Spray (Emulsifier WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Upfield",
+  "crohnsScore": 5,
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "polysorbate-60",
+    "chemical-emulsifiers",
+    "preservatives",
+    "mucus-barrier-disruptor"
+  ],
+  "searchKeywords": [
+    "butter spray warning",
+    "i cant believe its not butter spray",
+    "polysorbate spray danger"
+  ],
+  "whyItWorks": "Contains soybean oil emulsified with water, polysorbate 60, soy lecithin, artificial flavors, sodium benzoate, and calcium disodium EDTA. Synthetic food emulsifiers like polysorbate 60 have been demonstrated in peer-reviewed clinical studies to erode the colonic protective mucus layer and promote bacterial translocation.",
+  "prepOrOrderInstructions": "AVOID chemical butter sprays. Choose pure clarified ghee, olive oil, or whipped real butter instead.",
+  "safetyTier": "danger-zone"
+}

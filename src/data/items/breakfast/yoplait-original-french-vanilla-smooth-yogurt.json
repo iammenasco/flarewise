@@ -1,0 +1,35 @@
+{
+  "id": "yoplait-original-french-vanilla-smooth-yogurt",
+  "name": "Yoplait Original French Vanilla Smooth Yogurt",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Yoplait / General Mills",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "smooth-yogurt",
+    "french-vanilla",
+    "creamy",
+    "seedless",
+    "calcium-rich"
+  ],
+  "searchKeywords": [
+    "yoplait vanilla",
+    "original yoplait",
+    "smooth french vanilla yogurt"
+  ],
+  "whyItWorks": "Cultured pasteurized reduced-fat milk whipped into a completely smooth, velvety texture. Gluten-free, seed-free, and fortified with vitamin D and A.",
+  "prepOrOrderInstructions": "Eat chilled with a spoon. A familiar, soothing grocery staple.",
+  "safetyTier": "low-risk"
+}

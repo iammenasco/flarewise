@@ -1,0 +1,35 @@
+{
+  "id": "babybel-original-mini-cheese-wheels",
+  "name": "Mini Babybel Original Semisoft Cheese Wheels",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bel Brands",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "babybel",
+    "naturally-lactose-free",
+    "red-wax-wheel",
+    "edam-cheese",
+    "travel-snack"
+  ],
+  "searchKeywords": [
+    "babybel cheese",
+    "mini babybel original",
+    "wax cheese wheel",
+    "safe cheese snack"
+  ],
+  "whyItWorks": "100% real French Edam cheese sealed in protective red wax. Naturally contains 0g lactose, 0g carbohydrates, 0g fiber, and 5g protein per wheel. Exceptionally gentle on inflamed intestines.",
+  "prepOrOrderInstructions": "Pull the red wax tab, peel open the shell, and enjoy the tender semisoft cheese inside.",
+  "safetyTier": "flare-safe"
+}

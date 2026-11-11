@@ -1,0 +1,36 @@
+{
+  "id": "earth-balance-original-buttery-spread",
+  "name": "Earth Balance Original Buttery Spread (Dairy-Free)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Earth Balance",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vegan-butter",
+    "dairy-free-spread",
+    "non-gmo",
+    "zero-trans-fat",
+    "gluten-free"
+  ],
+  "searchKeywords": [
+    "earth balance",
+    "vegan butter tub",
+    "dairy free butter spread"
+  ],
+  "whyItWorks": "Plant-based oil blend (palm fruit, canola, soybean, olive) with sea salt and natural flavor. 100% vegan, dairy-free, lactose-free, and gluten-free; melts just like dairy butter.",
+  "prepOrOrderInstructions": "Spread onto toast or melt into steamed vegetables.",
+  "safetyTier": "low-risk"
+}

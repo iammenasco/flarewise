@@ -1,0 +1,36 @@
+{
+  "id": "roquefort-blue-cheese-crumbled-warning",
+  "name": "Roquefort Blue Cheese (Penicillium Mold WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Gourmet Dairy Staple",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "snack",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "blue-cheese-mold",
+    "penicillium-roqueforti",
+    "pungent-acids",
+    "mucosal-irritant"
+  ],
+  "searchKeywords": [
+    "blue cheese warning",
+    "roquefort danger",
+    "gorgonzola warning",
+    "mold ripened cheese"
+  ],
+  "whyItWorks": "Inoculated with active cultures of Penicillium roqueforti mold, creating dense veins of fungal mycelium. The high levels of free butyric acid, methyl ketones, and histamine produce burning sensations and inflammatory spasms along ulcerated mucosal tissue.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Stick to mild, non-mold aged cheeses like Swiss or White Cheddar.",
+  "safetyTier": "danger-zone"
+}

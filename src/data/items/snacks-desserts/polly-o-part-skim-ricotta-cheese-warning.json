@@ -1,0 +1,36 @@
+{
+  "id": "polly-o-part-skim-ricotta-cheese-warning",
+  "name": "Polly-O Part-Skim Ricotta Cheese (High Lactose WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Polly-O / Lactalis",
+  "crohnsScore": 5.2,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "high-lactose-warning",
+    "whey-cheese",
+    "severe-bloating",
+    "gas-trap"
+  ],
+  "searchKeywords": [
+    "ricotta cheese warning",
+    "polly o ricotta",
+    "high lactose cheese",
+    "ricotta gas"
+  ],
+  "whyItWorks": "Ricotta is traditionally produced by reheating the sweet whey left over from cheese production. Because it is whey-derived rather than curd-based, it retains up to 4–6g of concentrated lactose per 1/2 cup, provoking rapid fermentation, loud rumbling, and watery diarrhea in lactose-sensitive IBD guts.",
+  "prepOrOrderInstructions": "Avoid standard ricotta during active flares. If baking lasagna, use 100% lactose-free ricotta or aged parmesan.",
+  "safetyTier": "danger-zone"
+}

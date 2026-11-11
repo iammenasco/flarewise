@@ -1,0 +1,35 @@
+{
+  "id": "philadelphia-plant-based-cream-cheese",
+  "name": "Philadelphia Plant-Based Cream Cheese Spread",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Kraft Heinz",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "plant-based-cream-cheese",
+    "dairy-free",
+    "fava-bean-protein",
+    "seedless",
+    "bagel-spread"
+  ],
+  "searchKeywords": [
+    "philadelphia plant based",
+    "dairy free cream cheese",
+    "vegan cream cheese"
+  ],
+  "whyItWorks": "Combines coconut oil and fava bean protein into a silky spread that mimics traditional cream cheese without a drop of milk, whey, or lactose.",
+  "prepOrOrderInstructions": "Spread over toasted white bagels or English muffins.",
+  "safetyTier": "low-risk"
+}

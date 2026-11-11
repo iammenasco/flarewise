@@ -1,0 +1,36 @@
+{
+  "id": "daisy-sour-cream-pure-and-natural",
+  "name": "Daisy Pure & Natural Sour Cream (Tub or Squeeze)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Daisy Brand",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pure-sour-cream",
+    "single-ingredient",
+    "no-gums",
+    "no-preservatives",
+    "creamy-topping"
+  ],
+  "searchKeywords": [
+    "daisy sour cream",
+    "pure sour cream",
+    "squeeze sour cream",
+    "baked potato topping"
+  ],
+  "whyItWorks": "Contains just one single ingredient: Grade A pasteurized cultured cream. Contains zero thickeners, gums, carrageenan, or artificial preservatives. Adds soothing fat calories to baked potatoes without chemical gut irritants.",
+  "prepOrOrderInstructions": "Top hot baked potatoes or plain white rice. Use in moderation (1–2 tbsp) to keep fat easily digestible.",
+  "safetyTier": "low-risk"
+}

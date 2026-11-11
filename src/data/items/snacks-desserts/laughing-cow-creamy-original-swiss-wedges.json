@@ -1,0 +1,35 @@
+{
+  "id": "laughing-cow-creamy-original-swiss-wedges",
+  "name": "The Laughing Cow Creamy Original Swiss Cheese Wedges",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bel Brands",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "laughing-cow",
+    "spreadable-cheese",
+    "creamy-swiss",
+    "foil-wedge",
+    "portion-controlled"
+  ],
+  "searchKeywords": [
+    "laughing cow cheese",
+    "creamy swiss wedges",
+    "spreadable cheese snack"
+  ],
+  "whyItWorks": "Pasteurized Swiss cheese blend in individual foil wedges. Silky smooth, spreads effortlessly on crackers or soft bread without tearing, and low in lactose.",
+  "prepOrOrderInstructions": "Unpeel foil and spread over rice cakes, sourdough toast, or English muffins.",
+  "safetyTier": "low-risk"
+}

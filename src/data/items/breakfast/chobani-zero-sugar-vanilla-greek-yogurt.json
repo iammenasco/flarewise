@@ -1,0 +1,36 @@
+{
+  "id": "chobani-zero-sugar-vanilla-greek-yogurt",
+  "name": "Chobani Zero Sugar Vanilla Greek Yogurt",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Chobani",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "zero-sugar-yogurt",
+    "ultra-filtered-milk",
+    "lactose-free",
+    "monk-fruit",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "chobani zero sugar",
+    "vanilla chobani zero",
+    "sugar free greek yogurt",
+    "low calorie yogurt"
+  ],
+  "whyItWorks": "Crafted using ultra-filtered nonfat milk to eliminate natural milk sugars and lactose, sweetened with monk fruit and allulose. Delivers 11g protein with zero lactose distress, suitable for blood sugar and weight control in remission.",
+  "prepOrOrderInstructions": "Eat straight from the cup. If sensitive to allulose, enjoy a half-cup serving initially.",
+  "safetyTier": "low-risk"
+}

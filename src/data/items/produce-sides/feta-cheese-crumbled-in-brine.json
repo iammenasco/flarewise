@@ -1,0 +1,36 @@
+{
+  "id": "feta-cheese-crumbled-in-brine",
+  "name": "Traditional Sheep & Goat Milk Feta Cheese (Crumbled in Brine)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "President / Athenos",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "feta-cheese",
+    "sheep-goat-milk",
+    "a2-dairy",
+    "tangy",
+    "crumbly"
+  ],
+  "searchKeywords": [
+    "feta cheese",
+    "crumbled feta",
+    "sheep milk feta",
+    "greek feta"
+  ],
+  "whyItWorks": "Traditional authentic feta is made from sheep and goat milk, which naturally contains A2 casein proteins and lower lactose than cow's milk. Tangy and flavorful in small quantities.",
+  "prepOrOrderInstructions": "Rinse briefly in cold water if you need to reduce surface brine sodium before crumbling over roasted potatoes or chicken.",
+  "safetyTier": "low-risk"
+}

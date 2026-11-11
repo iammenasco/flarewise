@@ -1,0 +1,36 @@
+{
+  "id": "activia-probiotic-vanilla-yogurt-smooth",
+  "name": "Activia Probiotic Dailies Vanilla Yogurt (Smooth)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Dannon / Activia",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "probiotic-yogurt",
+    "bifidobacterium",
+    "smooth-texture",
+    "gut-health",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "activia vanilla",
+    "activia probiotic",
+    "bifidus regularis",
+    "smooth yogurt"
+  ],
+  "whyItWorks": "Contains exclusive probiotic strain Bifidobacterium animalis lactis DN-173 010. Pureed into a silky smooth custard without fruit seeds or skins, delivering beneficial gut microbes without mechanical roughage.",
+  "prepOrOrderInstructions": "Consume 1 cup daily with breakfast or as an afternoon snack.",
+  "safetyTier": "low-risk"
+}
