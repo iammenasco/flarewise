@@ -57,18 +57,19 @@ const CRUISE_TAGS = [
   'plaza-de-coco',
 ] as const
 
+/** Search scope: Everyday / Parks / Cruise (URL param still `place`). */
 export const PLACE_CONTEXTS = [
   {
     id: 'home' as const,
-    label: 'Home',
-    shortLabel: 'Home',
+    label: 'Everyday',
+    shortLabel: 'Everyday',
     hint: 'Everyday catalog — vacation menus stay tucked away',
     matchTags: [] as readonly string[],
     vacation: false as const,
   },
   {
     id: 'theme-parks' as const,
-    label: 'Theme parks',
+    label: 'Parks',
     shortLabel: 'Parks',
     hint: "Disneyland, DCA, Knott's",
     matchTags: THEME_PARK_TAGS,
@@ -133,7 +134,10 @@ export function getPlaceContext(id: PlaceContextId): PlaceContext {
   return PLACE_BY_ID.get(id) ?? PLACE_CONTEXTS[0]
 }
 
-/** Vacation browsing is on for Parks/Cruise places, or legacy Vacation mode at Home. */
+/**
+ * Vacation browsing follows search scope (Parks/Cruise).
+ * Legacy: `cruiseMode` at Everyday still unlocks vacation if a stale pref remains.
+ */
 export function isVacationBrowsing(
   place: PlaceContextId,
   cruiseMode: boolean,
@@ -158,7 +162,7 @@ export interface CatalogFilters {
   region: Region | ''
   tag: string
   cost: '' | '1' | '2' | '3'
-  /** Place dial: Home / Parks / Cruise (vacation scopes). */
+  /** Search scope: Everyday / Parks / Cruise (URL `place`). */
   place: PlaceContextId
   /** Exact brandOrRestaurant venue menu (URL-encoded in the query string). */
   venue: string
@@ -188,9 +192,8 @@ export function itemPassesFilters(
 ): boolean {
   if (prefs.personalStatus[item.id] === 'trigger') return false
 
-  // Vacation filter: unselected by default so cruise & theme-park items stay
-  // tucked out of everyday browsing unless a vacation place, Vacation mode,
-  // or a vacation destination tag is active.
+  // Vacation filter: Everyday hides parks/cruise menus unless scope is Parks/
+  // Cruise (or a legacy Everyday + cruiseMode pref / vacation destination tag).
   const isVacation = isCruiseOrVacationItem(item)
   const tagIsVacation = Boolean(filters.tag && isVacationTag(filters.tag))
   const vacationBrowsing = isVacationBrowsing(

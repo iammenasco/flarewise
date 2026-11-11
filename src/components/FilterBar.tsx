@@ -1,5 +1,4 @@
 import type { ReactNode } from 'react'
-import { Compass } from 'lucide-react'
 import {
   CRUISE_SHIP_CHIPS,
   THEME_PARK_CHIPS,
@@ -15,7 +14,6 @@ interface FilterBarProps {
   toasterOvenOnly: boolean
   grabAndGoOnly: boolean
   citrusFreeOnly: boolean
-  cruiseMode: boolean
   showDangerZone: boolean
   showServerCard: boolean
   onToggleGuardrail: (
@@ -24,7 +22,6 @@ interface FilterBarProps {
       | 'toasterOvenOnly'
       | 'grabAndGoOnly'
       | 'citrusFreeOnly'
-      | 'cruiseMode'
       | 'showDangerZone',
   ) => void
   onToggleShowServerCard: () => void
@@ -88,7 +85,6 @@ export function FilterPanel({
   toasterOvenOnly,
   grabAndGoOnly,
   citrusFreeOnly,
-  cruiseMode,
   showDangerZone,
   showServerCard,
   onToggleGuardrail,
@@ -96,6 +92,10 @@ export function FilterPanel({
   onSelectDestination,
   onClearExtra,
 }: FilterBarProps) {
+  const parksScope = filters.place === 'theme-parks'
+  const cruiseScope = filters.place === 'cruise'
+  const vacationScope = parksScope || cruiseScope
+
   return (
     <div className="space-y-3">
       <div>
@@ -187,77 +187,63 @@ export function FilterPanel({
         </div>
       </div>
 
-      <div>
-        <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
-          Vacation
-        </p>
-        <div className="flex flex-wrap gap-1.5">
-          <Chip
-            active={cruiseMode}
-            onClick={() => onToggleGuardrail('cruiseMode')}
-          >
-            <span className="inline-flex items-center gap-1.5">
-              <Compass className="h-3.5 w-3.5" />
-              Vacation mode
-            </span>
-          </Chip>
-        </div>
-        {cruiseMode ? (
-          <div className="mt-2 space-y-2.5 rounded-2xl border border-[var(--brand)]/20 bg-[var(--brand-soft)]/55 p-2.5">
-            <div>
-              <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
-                Destination
-              </p>
-              <div className="flex flex-wrap gap-1.5">
-                <Chip
-                  active={!filters.tag || !isVacationTag(filters.tag)}
-                  onClick={() => onPatch({ tag: '' })}
-                >
-                  All vacation
-                </Chip>
-              </div>
-            </div>
-            <div>
-              <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
-                Theme parks
-              </p>
-              <div className="flex flex-wrap gap-1.5">
-                {THEME_PARK_CHIPS.map((park) => (
-                  <Chip
-                    key={park.tag}
-                    active={filters.tag === park.tag}
-                    onClick={() => onSelectDestination(park.tag)}
-                  >
-                    {park.label}
-                  </Chip>
-                ))}
-              </div>
-            </div>
-            <div>
-              <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
-                Cruise ships
-              </p>
-              <div className="flex flex-wrap gap-1.5">
-                {CRUISE_SHIP_CHIPS.map((ship) => (
-                  <Chip
-                    key={ship.tag}
-                    active={filters.tag === ship.tag}
-                    onClick={() => onSelectDestination(ship.tag)}
-                  >
-                    {ship.label}
-                  </Chip>
-                ))}
-              </div>
-            </div>
-          </div>
-        ) : (
-          <p className="muted mt-1.5 text-xs">
-            Off by default — use <span className="font-semibold">Where are you?</span>{' '}
-            (Parks / Cruise) or turn this on to browse Disneyland, California
-            Adventure, Knott&apos;s Berry Farm, and Disney Cruise menus.
+      {vacationScope ? (
+        <div>
+          <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
+            Destination
           </p>
-        )}
-      </div>
+          <div className="space-y-2.5 rounded-2xl border border-[var(--brand)]/20 bg-[var(--brand-soft)]/55 p-2.5">
+            <div className="flex flex-wrap gap-1.5">
+              <Chip
+                active={!filters.tag || !isVacationTag(filters.tag)}
+                onClick={() => onPatch({ tag: '' })}
+              >
+                {parksScope ? 'All parks' : 'All ships'}
+              </Chip>
+            </div>
+            {parksScope ? (
+              <div>
+                <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+                  Theme parks
+                </p>
+                <div className="flex flex-wrap gap-1.5">
+                  {THEME_PARK_CHIPS.map((park) => (
+                    <Chip
+                      key={park.tag}
+                      active={filters.tag === park.tag}
+                      onClick={() => onSelectDestination(park.tag)}
+                    >
+                      {park.label}
+                    </Chip>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+            {cruiseScope ? (
+              <div>
+                <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+                  Cruise ships
+                </p>
+                <div className="flex flex-wrap gap-1.5">
+                  {CRUISE_SHIP_CHIPS.map((ship) => (
+                    <Chip
+                      key={ship.tag}
+                      active={filters.tag === ship.tag}
+                      onClick={() => onSelectDestination(ship.tag)}
+                    >
+                      {ship.label}
+                    </Chip>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+          </div>
+          <p className="muted mt-1.5 text-xs">
+            Scope is set next to search (Everyday / Parks / Cruise). Venue menus
+            stay on the catalog list.
+          </p>
+        </div>
+      ) : null}
 
       <div>
         <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
