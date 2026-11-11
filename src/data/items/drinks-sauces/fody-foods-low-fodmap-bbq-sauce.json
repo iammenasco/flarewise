@@ -1,0 +1,42 @@
+{
+  "id": "fody-foods-low-fodmap-bbq-sauce",
+  "name": "Fody Foods Low-FODMAP Classic BBQ Sauce (Sweet & Smoky)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Fody Foods",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "bbq-sauce",
+    "fody",
+    "low-fodmap",
+    "onion-free",
+    "garlic-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "low fodmap bbq sauce",
+    "fody bbq",
+    "garlic free bbq",
+    "safe bbq sauce"
+  ],
+  "whyItWorks": "Formulated without onion or garlic fructans. Sweetened with cane sugar and organic blackstrap molasses with natural smoke flavor. Delivers authentic pit BBQ flavor without gastrointestinal colic.",
+  "prepOrOrderInstructions": "Brush onto grilled chicken breast, pulled pork, or ground turkey crumbles.",
+  "watchOuts": [
+    "Gentle and non-bloating; safe for active disease and recovery."
+  ]
+}

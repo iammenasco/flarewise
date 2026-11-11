@@ -1,0 +1,44 @@
+{
+  "id": "extra-virgin-olive-oil-cold-pressed",
+  "name": "California Olive Ranch Cold-Pressed Extra Virgin Olive Oil",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "California Olive Ranch",
+  "crohnsScore": 9.7,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "olive-oil",
+    "evoo",
+    "anti-inflammatory",
+    "polyphenols",
+    "healthy-fats",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "olive oil",
+    "extra virgin olive oil",
+    "evoo",
+    "california olive ranch",
+    "cooking oil"
+  ],
+  "whyItWorks": "The gold-standard culinary fat in gastroenterology. Rich in monounsaturated oleic acid and oleocanthal (a natural phenolic compound that exerts anti-inflammatory effects mirroring ibuprofen without gastric toxicity). Soothes mucosal lining and aids nutrient absorption.",
+  "prepOrOrderInstructions": "Drizzle 1–2 teaspoons over warm white rice, boiled carrots, or scrambled eggs. Safe across all disease phases.",
+  "watchOuts": [
+    "Pure liquid fat; maintain standard 1-tablespoon servings."
+  ]
+}

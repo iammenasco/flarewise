@@ -1,0 +1,43 @@
+{
+  "id": "frenchs-classic-yellow-mustard",
+  "name": "French's Classic Yellow Mustard (Smooth Stone-Ground)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "French's / McCormick",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "mustard",
+    "yellow-mustard",
+    "frenchs",
+    "turmeric",
+    "zero-calorie",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "yellow mustard",
+    "frenchs mustard",
+    "classic mustard",
+    "hot dog mustard",
+    "mild mustard"
+  ],
+  "whyItWorks": "Made from finely milled #1 grade mustard seeds, distilled vinegar, water, salt, and turmeric. The seeds are stone-ground into a silky paste with zero whole seeds or abrasive grit, and natural turmeric provides gentle curcumin.",
+  "prepOrOrderInstructions": "Squirt 1–2 teaspoons onto roasted chicken breast, turkey sandwiches, or soft pretzel sticks.",
+  "watchOuts": [
+    "Contains distilled vinegar; if you have severe active stomach ulcers, use sparingly."
+  ]
+}

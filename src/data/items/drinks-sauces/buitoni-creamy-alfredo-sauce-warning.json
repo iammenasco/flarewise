@@ -1,0 +1,41 @@
+{
+  "id": "buitoni-creamy-alfredo-sauce-warning",
+  "name": "Buitoni Creamy Alfredo Sauce (Heavy Cream & Saturated Fat Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Buitoni Foods",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "alfredo",
+    "buitoni",
+    "heavy-cream",
+    "high-fat",
+    "lactose",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "alfredo sauce",
+    "creamy alfredo",
+    "buitoni alfredo",
+    "alfredo diarrhea",
+    "heavy cream sauce"
+  ],
+  "whyItWorks": "Made with heavy cream, butter, aged cheeses, and starch. Delivering over 12g of saturated fat per serving, this extreme lipid payload overwhelms digestive enzymes and stimulates rapid gastrocolic dumping and steatorrhea in active IBD.",
+  "prepOrOrderInstructions": "Severe Fat Trigger Warning: Avoid commercial alfredo sauce during flares. In remission, enjoy a light drizzle (1–2 tablespoons) and take a lactase enzyme tablet.",
+  "watchOuts": [
+    "Massive saturated fat and lactose payload triggers urgent bile-acid diarrhea and cramping."
+  ]
+}

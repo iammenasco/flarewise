@@ -1,0 +1,41 @@
+{
+  "id": "kikkoman-sweet-teriyaki-marinade",
+  "name": "Kikkoman Sweet Teriyaki Glaze & Marinade (Strained)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Kikkoman",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "dinner",
+    "lunch"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "teriyaki",
+    "kikkoman",
+    "sweet-soy",
+    "glaze",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "teriyaki sauce",
+    "kikkoman teriyaki",
+    "teriyaki glaze",
+    "sweet soy sauce"
+  ],
+  "whyItWorks": "A smooth reduction of brewed soy sauce, sugar, wine, and vinegar with all seeds and coarse ginger/garlic chunks strained out. Delivers sweet savory glaze flavor that adheres to lean chicken breast.",
+  "prepOrOrderInstructions": "Brush a light tablespoon over chicken or salmon during the last 2 minutes of cooking.",
+  "watchOuts": [
+    "Contains sugar and mild wine vinegar; avoid drowning food in sauce."
+  ]
+}

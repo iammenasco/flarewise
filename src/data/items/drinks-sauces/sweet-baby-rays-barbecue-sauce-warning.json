@@ -1,0 +1,40 @@
+{
+  "id": "sweet-baby-rays-barbecue-sauce-warning",
+  "name": "Sweet Baby Ray's BBQ Sauce (High Fructose Corn Syrup & Allium Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Sweet Baby Ray's / Ken's Foods",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "bbq-sauce",
+    "sweet-baby-rays",
+    "high-fructose",
+    "garlic-onion",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "sweet baby rays",
+    "bbq sauce",
+    "barbecue sauce",
+    "bbq trigger",
+    "smoky bbq"
+  ],
+  "whyItWorks": "First ingredient is high-fructose corn syrup, combined with concentrated garlic powder, onion powder, acetic acid, and artificial liquid smoke. In active Crohn's/Colitis, free fructose and concentrated alliums trigger intense cramping, osmotic diarrhea, and severe heartburn.",
+  "prepOrOrderInstructions": "Trigger Warning: Avoid commercial high-fructose BBQ sauces during flares. If craving barbecue, choose an allium-free low-FODMAP BBQ sauce or simple maple glaze.",
+  "watchOuts": [
+    "High free fructose and concentrated allium powders provoke rapid bloating and loose watery stools."
+  ]
+}

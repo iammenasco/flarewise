@@ -1,0 +1,42 @@
+{
+  "id": "bragg-organic-raw-apple-cider-vinegar-warning",
+  "name": "Bragg Raw Organic Apple Cider Vinegar with Mother (Acetic Acid Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Bragg Live Food Products",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink",
+    "sauce"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "vinegar",
+    "apple-cider-vinegar",
+    "acv",
+    "bragg",
+    "acid-reflux",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "apple cider vinegar",
+    "acv",
+    "bragg acv",
+    "vinegar with mother",
+    "raw vinegar"
+  ],
+  "whyItWorks": "Despite popular wellness claims, raw unfiltered apple cider vinegar contains concentrated 5% acetic acid and unpasteurized microbial mother. Drinking ACV burns raw esophageal and gastric mucosal ulcers and frequently triggers intense gastritis and abdominal pain.",
+  "prepOrOrderInstructions": "Warning: Never drink undiluted apple cider vinegar shots with IBD. If using for cooking in remission, use 1 teaspoon diluted in a large recipe.",
+  "watchOuts": [
+    "Concentrated acetic acid causes severe heartburn, gastric ulcer irritation, and bowel hypermotility."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "tabasco-original-red-pepper-sauce-warning",
+  "name": "McIlhenny Tabasco Original Red Pepper Sauce (Acid & Capsaicin Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "McIlhenny Company (Tabasco)",
+  "crohnsScore": 3.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "hot-sauce",
+    "tabasco",
+    "vinegar",
+    "capsaicin",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "tabasco",
+    "tabasco sauce",
+    "hot sauce trigger",
+    "red pepper sauce"
+  ],
+  "whyItWorks": "Oak-barrel aged tabasco pepper mash combined with high concentrations of distilled vinegar and salt. The extreme acidity (pH ~3.0) and capsaicin directly sting open aphthous ulcers in the stomach and colon, causing intense burning and urgent diarrhea.",
+  "prepOrOrderInstructions": "Severe Mucosal Warning: Avoid Tabasco sauce during active Crohn's, Colitis, or gastritis.",
+  "watchOuts": [
+    "High acidity and capsaicin burn ulcerated gut mucosa."
+  ]
+}

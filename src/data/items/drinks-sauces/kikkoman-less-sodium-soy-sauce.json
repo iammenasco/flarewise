@@ -1,0 +1,41 @@
+{
+  "id": "kikkoman-less-sodium-soy-sauce",
+  "name": "Kikkoman Less Sodium Soy Sauce (Naturally Brewed)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Kikkoman",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "soy-sauce",
+    "kikkoman",
+    "low-sodium",
+    "umami",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "soy sauce",
+    "kikkoman low sodium",
+    "green cap soy sauce",
+    "less sodium soy sauce"
+  ],
+  "whyItWorks": "Naturally brewed and aged, which breaks down soybean proteins into savory free glutamates. The 37% lower sodium level protects against dehydration and fluid retention, providing clean savory flavor over plain white rice.",
+  "prepOrOrderInstructions": "Drizzle 1–2 teaspoons over hot steamed Jasmine or Basmati white rice and poached eggs.",
+  "watchOuts": [
+    "Contains wheat and soy; choose Tamari if following a gluten-free diet."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "primal-kitchen-avocado-oil-mayo",
+  "name": "Primal Kitchen Avocado Oil Mayo (Clean Egg & Avocado Emulsion)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Primal Kitchen / Kraft Heinz",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "mayonnaise",
+    "avocado-oil",
+    "primal-kitchen",
+    "healthy-fats",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "avocado oil mayo",
+    "primal kitchen mayo",
+    "clean mayo",
+    "paleo mayonnaise"
+  ],
+  "whyItWorks": "Uses 100% pure avocado oil (rich in anti-inflammatory monounsaturated oleic acid) rather than refined soybean or canola oil. Contains organic cage-free eggs, vinegar, and salt without added sugars or artificial gums.",
+  "prepOrOrderInstructions": "An ideal anti-inflammatory mayonnaise for salads, canned salmon, and wraps.",
+  "watchOuts": [
+    "Rich in healthy fats; consume in standard 1-tablespoon servings."
+  ]
+}

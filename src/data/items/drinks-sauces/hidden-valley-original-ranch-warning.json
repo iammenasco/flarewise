@@ -1,0 +1,41 @@
+{
+  "id": "hidden-valley-original-ranch-warning",
+  "name": "Hidden Valley Original Ranch Dressing (High Dairy & Allium Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Hidden Valley / Clorox",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "salad-dressing",
+    "ranch",
+    "hidden-valley",
+    "allium-warning",
+    "dairy-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "ranch dressing",
+    "hidden valley ranch",
+    "creamy ranch",
+    "ranch dip",
+    "ranch diarrhea"
+  ],
+  "whyItWorks": "A potent multi-trigger dressing: combines cultured buttermilk and sour cream (lactose/fat) with high concentrations of dried garlic powder, dried onion, and herb flecks. One of the top self-reported sauce triggers for sudden cramping and urgent diarrhea.",
+  "prepOrOrderInstructions": "High Trigger Warning: Avoid commercial buttermilk ranch during flares. Choose a low-FODMAP garlic-free dressing or plain avocado oil mayo mixed with salt and dill.",
+  "watchOuts": [
+    "High lactose, heavy saturated fat, and concentrated allium powders stimulate acute intestinal hypermotility."
+  ]
+}

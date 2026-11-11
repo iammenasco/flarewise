@@ -1,0 +1,42 @@
+{
+  "id": "tahini-pure-ground-sesame-paste",
+  "name": "Pure 100% Ground Sesame Tahini (Silky Smooth Paste)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "tahini",
+    "sesame-paste",
+    "healthy-fats",
+    "calcium",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "tahini",
+    "sesame paste",
+    "ground sesame",
+    "tahini sauce",
+    "soom tahini"
+  ],
+  "whyItWorks": "Made from 100% hulled sesame seeds stone-ground into a silky liquid butter. Because the seeds are completely pulverized into a liquid emulsion, there are zero abrasive whole seeds, delivering rich plant calcium, iron, and healthy fats safely.",
+  "prepOrOrderInstructions": "Whisk 1 tablespoon with warm water, sea salt, and a drop of maple syrup for a rich, dairy-free sauce over rice and chicken.",
+  "watchOuts": [
+    "High in natural plant fats; stick to 1 tablespoon servings to prevent rapid transit."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "lao-gan-ma-spicy-chili-crisp-warning",
+  "name": "Lao Gan Ma Spicy Chili Crisp (Fried Chili Flakes & Soybean Rocks Hazard)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Lao Gan Ma",
+  "crohnsScore": 2.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "chili-crisp",
+    "lao-gan-ma",
+    "chili-flakes",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "chili crisp",
+    "lao gan ma",
+    "spicy chili crisp",
+    "fried chili oil",
+    "chili flakes hazard"
+  ],
+  "whyItWorks": "One of the most dangerous condiments in gastroenterology: suspended in fiery oil are rock-hard fried whole soybeans, sharp dried chili flakes, whole chili seeds, and numbing Sichuan peppercorns. The hard crispy chunks do not dissolve, acting like sharp gravel against inflamed ulcers and lodging in strictures.",
+  "prepOrOrderInstructions": "Extreme Stricture Hazard: Never consume chili crisp if you have Crohn's disease, intestinal strictures, or an ostomy. If wanting mild umami, use plain sesame oil or sweet soy glaze.",
+  "watchOuts": [
+    "Severe mechanical obstruction and bleeding hazard: hard fried soybeans and jagged chili flakes lacerate ulcerated tissue."
+  ]
+}

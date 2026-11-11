@@ -1,0 +1,41 @@
+{
+  "id": "lee-kum-kee-premium-oyster-sauce",
+  "name": "Lee Kum Kee Premium Oyster Flavored Sauce",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Lee Kum Kee",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "dinner",
+    "lunch"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "oyster-sauce",
+    "lee-kum-kee",
+    "umami",
+    "chinese-sauce",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "oyster sauce",
+    "lee kum kee oyster sauce",
+    "stir fry sauce",
+    "chinese brown sauce"
+  ],
+  "whyItWorks": "Made from true oyster extracts simmered until caramelized and thickened with modified corn starch. It has a silky smooth consistency with zero fiber, providing rich savory flavor for plain rice and noodles.",
+  "prepOrOrderInstructions": "Stir 1 tablespoon into cooked white rice, soft noodles, or steamed baby carrots and chicken.",
+  "watchOuts": [
+    "Rich in flavor; a small spoonful goes a long way."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "franks-redhot-original-cayenne-sauce-warning",
+  "name": "Frank's RedHot Original Cayenne Pepper Sauce (Severe Acidic Burn Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Frank's RedHot / McCormick",
+  "crohnsScore": 3.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "hot-sauce",
+    "franks-redhot",
+    "buffalo-sauce",
+    "cayenne",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "franks redhot",
+    "buffalo sauce",
+    "cayenne pepper sauce",
+    "hot sauce diarrhea"
+  ],
+  "whyItWorks": "Aged cayenne red peppers, distilled vinegar, water, and garlic powder. The pungent cayenne pepper and heavy vinegar create intense burning along denuded intestinal surfaces and stimulate rapid colonic contractions.",
+  "prepOrOrderInstructions": "Trigger Warning: Avoid Frank's RedHot and Buffalo wing sauces during flares.",
+  "watchOuts": [
+    "High vinegar acidity and cayenne heat inflame gastrointestinal tissue."
+  ]
+}

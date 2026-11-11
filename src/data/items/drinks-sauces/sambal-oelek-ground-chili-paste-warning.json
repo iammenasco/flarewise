@@ -1,0 +1,40 @@
+{
+  "id": "sambal-oelek-ground-chili-paste-warning",
+  "name": "Sambal Oelek Fresh Ground Chili Paste (Raw Seeds & Skin Hazard)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Huy Fong Foods",
+  "crohnsScore": 2.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "sambal",
+    "chili-paste",
+    "chili-seeds",
+    "capsaicin",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "sambal oelek",
+    "chili paste",
+    "ground chili",
+    "chili seeds",
+    "spicy paste"
+  ],
+  "whyItWorks": "Unlike strained hot sauces, Sambal Oelek is pure coarsely crushed raw red chili peppers, complete with tough insoluble chili skins and hundreds of flat woody chili seeds in raw vinegar. The seeds pass intact and abrade the intestine.",
+  "prepOrOrderInstructions": "Stricture Warning: Avoid all seeded chili pastes.",
+  "watchOuts": [
+    "Indigestible chili seeds and tough skins irritate active flares and can block narrow intestinal lumens."
+  ]
+}

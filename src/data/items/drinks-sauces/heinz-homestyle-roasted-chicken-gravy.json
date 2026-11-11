@@ -1,0 +1,43 @@
+{
+  "id": "heinz-homestyle-roasted-chicken-gravy",
+  "name": "Heinz Homestyle Roasted Chicken Gravy (Smooth Velouté)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Heinz / Kraft Heinz",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "gravy",
+    "chicken-gravy",
+    "heinz",
+    "comfort-food",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "chicken gravy",
+    "heinz gravy",
+    "jar gravy",
+    "roasted chicken gravy",
+    "smooth gravy"
+  ],
+  "whyItWorks": "A classic hospital comfort sauce: simmered chicken broth thickened smoothly with wheat flour and cornstarch. Contains 0g fiber, no gritty spices, and no whole alliums. Moistens dry chicken breast and mashed potatoes, making them effortless to swallow and digest.",
+  "prepOrOrderInstructions": "Warm in a small saucepan or microwave for 45 seconds. Spoon generously over white rice, baked chicken, or mashed potatoes.",
+  "watchOuts": [
+    "Contains wheat flour (gluten); safe for all IBD flare diets."
+  ]
+}

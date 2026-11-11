@@ -1,0 +1,40 @@
+{
+  "id": "spiced-chili-oil-warning",
+  "name": "Hot Chili Oil / Szechuan Rayu (Capsaicin Motility Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "chili-oil",
+    "rayu",
+    "capsaicin",
+    "spicy-trigger",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "chili oil",
+    "szechuan chili oil",
+    "rayu",
+    "hot oil",
+    "spicy oil trigger"
+  ],
+  "whyItWorks": "Hot chili oil infuses lipid-soluble capsaicin and red pepper extractives into vegetable oil. Capsaicin accelerates small bowel and colonic peristalsis, triggering immediate burning diarrhea, severe abdominal cramping, and rectal irritation.",
+  "prepOrOrderInstructions": "Trigger Warning: Completely avoid hot chili oils during flares. If craving Asian aroma, use toasted sesame oil.",
+  "watchOuts": [
+    "Potent gut motility irritant; provokes severe burning loose stools."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fody-foods-low-fodmap-caesar-ranch",
+  "name": "Fody Foods Low-FODMAP Vegan Caesar & Ranch Dressings",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Fody Foods",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "salad-dressing",
+    "ranch",
+    "caesar",
+    "fody",
+    "low-fodmap",
+    "dairy-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "low fodmap ranch",
+    "fody ranch",
+    "dairy free caesar",
+    "garlic free dressing",
+    "safe ranch"
+  ],
+  "whyItWorks": "Made with extra virgin olive oil and organic herbs without any dairy, buttermilk, garlic, or onion. Delivers creamy, savory herb dressing flavor with zero lactose and zero fructan distress.",
+  "prepOrOrderInstructions": "Drizzle over tender steamed chicken breast, baked potatoes, or soft cooked zucchini.",
+  "watchOuts": [
+    "Gentle, dairy-free emulsion certified safe by Monash University."
+  ]
+}

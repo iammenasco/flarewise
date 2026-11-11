@@ -1,0 +1,41 @@
+{
+  "id": "ken-steak-house-honey-mustard",
+  "name": "Ken's Steak House Honey Mustard Dressing & Dip",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Ken's Foods",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "salad-dressing",
+    "honey-mustard",
+    "kens",
+    "dairy-free",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "honey mustard",
+    "kens honey mustard",
+    "chicken tender dip",
+    "sweet mustard dressing"
+  ],
+  "whyItWorks": "Smooth, sweet, and completely dairy-free. Uses finely ground mustard flour and pure honey, creating a creamy texture without cream, buttermilk, raw garlic, or heavy alliums. Very gentle chicken dip.",
+  "prepOrOrderInstructions": "Dip plain baked or grilled chicken tenders into 1 tablespoon of honey mustard for comforting flavor.",
+  "watchOuts": [
+    "Contains honey (fructose); enjoy in standard 1–2 tablespoon portions."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "san-j-organic-gluten-free-tamari",
+  "name": "San-J Organic Gluten-Free Tamari Soy Sauce (Wheat-Free)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "San-J",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "tamari",
+    "gluten-free",
+    "san-j",
+    "soy-sauce",
+    "wheat-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "tamari",
+    "san j tamari",
+    "gluten free soy sauce",
+    "wheat free soy sauce",
+    "safe soy sauce"
+  ],
+  "whyItWorks": "Authentic Japanese Tamari brewed with 100% whole soybeans and zero wheat. The extended fermentation breaks down complex proteins into simple, soothing amino acids with richer umami and zero gluten.",
+  "prepOrOrderInstructions": "The gold-standard savory seasoning for IBD and celiac patients. Season white rice, chicken, or scrambled eggs.",
+  "watchOuts": [
+    "Certified gluten-free and low-FODMAP in 2-tablespoon servings."
+  ]
+}

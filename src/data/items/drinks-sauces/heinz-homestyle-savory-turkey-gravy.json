@@ -1,0 +1,41 @@
+{
+  "id": "heinz-homestyle-savory-turkey-gravy",
+  "name": "Heinz Homestyle Savory Turkey Gravy (Low-Fat)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Heinz / Kraft Heinz",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "gravy",
+    "turkey-gravy",
+    "heinz",
+    "low-fat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "turkey gravy",
+    "heinz turkey gravy",
+    "holiday gravy",
+    "savory gravy"
+  ],
+  "whyItWorks": "Smooth turkey broth velouté with only 1g of fat per serving and zero fiber. Provides savory holiday roast flavor without heavy pan drippings or greasy butter.",
+  "prepOrOrderInstructions": "Heat and pour over sliced roast turkey and white bread.",
+  "watchOuts": [
+    "Gentle comfort food for sensitive recovery periods."
+  ]
+}

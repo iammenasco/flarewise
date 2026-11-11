@@ -1,0 +1,44 @@
+{
+  "id": "fourth-heart-original-grassfed-ghee",
+  "name": "4th & Heart Original Grass-Fed Ghee (100% Clarified Butter)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "4th & Heart",
+  "crohnsScore": 9.6,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "breakfast",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "ghee",
+    "clarified-butter",
+    "lactose-free",
+    "casein-free",
+    "butyrate",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "ghee",
+    "clarified butter",
+    "grass fed ghee",
+    "4th and heart",
+    "dairy free butter"
+  ],
+  "whyItWorks": "Clarified butter slow-cooked until all water evaporates and all milk solids (casein and whey) and lactose are skimmed and filtered out. Ghee is naturally 100% lactose-free and casein-free, and exceptionally rich in short-chain butyric acid—the primary energy source for healing colonocytes.",
+  "prepOrOrderInstructions": "Melt over hot rice, oatmeal, or vegetables. Safe for individuals with severe lactose intolerance or milk protein sensitivities.",
+  "watchOuts": [
+    "100% pure butter oil; safe for all IBD dietary stages."
+  ]
+}

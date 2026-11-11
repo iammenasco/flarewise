@@ -1,0 +1,45 @@
+{
+  "id": "raos-homemade-sensitive-marinara",
+  "name": "Rao's Homemade Sensitive Formula Marinara (No Onion, No Garlic)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Rao's Homemade / Sovos Brands",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "pasta-sauce",
+    "marinara",
+    "raos",
+    "sensitive-formula",
+    "onion-free",
+    "garlic-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "raos sensitive",
+    "sensitive marinara",
+    "garlic free pasta sauce",
+    "onion free marinara",
+    "safe tomato sauce"
+  ],
+  "whyItWorks": "Crafted specifically for sensitive digestion: slow-simmered whole Italian peeled tomatoes, olive oil, basil, and sea salt with ABSOLUTELY NO ONION and NO GARLIC. The skins and seeds are strained out, leaving pure velvety tomato comfort.",
+  "prepOrOrderInstructions": "Warm gently in a saucepan and ladle over white pasta, grilled chicken, or baked polenta.",
+  "watchOuts": [
+    "Top recommendation for gut-safe Italian pasta meals."
+  ]
+}

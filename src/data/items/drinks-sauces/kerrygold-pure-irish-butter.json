@@ -1,0 +1,43 @@
+{
+  "id": "kerrygold-pure-irish-butter",
+  "name": "Kerrygold Pure Irish Salted Butter (Grass-Fed)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Kerrygold / Ornua",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "breakfast",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "butter",
+    "kerrygold",
+    "grass-fed",
+    "butyrate",
+    "comfort-food",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "butter",
+    "kerrygold",
+    "irish butter",
+    "salted butter",
+    "real butter"
+  ],
+  "whyItWorks": "Real creamery butter is virtually all butterfat (82%) with less than 0.1g lactose per tablespoon. Grass-fed butter provides natural butyrate and fat-soluble vitamins A, D, and K2, nourishing the colonic epithelium.",
+  "prepOrOrderInstructions": "Spread onto warm sourdough toast or melt into mashed potatoes and white rice.",
+  "watchOuts": [
+    "Contains trace dairy solids; use clarified ghee if severely allergic to dairy proteins."
+  ]
+}

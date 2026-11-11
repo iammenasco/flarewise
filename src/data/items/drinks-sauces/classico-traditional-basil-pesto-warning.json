@@ -1,0 +1,41 @@
+{
+  "id": "classico-traditional-basil-pesto-warning",
+  "name": "Traditional Basil Pesto with Pine Nuts & Garlic (Nut Fragment & Allium Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 4.9,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "pesto",
+    "basil-pesto",
+    "pine-nuts",
+    "raw-garlic",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "pesto",
+    "basil pesto",
+    "pine nuts pesto",
+    "pesto trigger",
+    "garlic pesto"
+  ],
+  "whyItWorks": "Traditional jarred pesto blends raw basil, olive oil, raw minced garlic, parmesan, and crushed pine nuts. The raw garlic causes severe fructan bloating, and coarse unchewed pine nut fragments can lodge in narrowed strictures.",
+  "prepOrOrderInstructions": "Avoid raw commercial pestos during flares. If in deep remission, make homemade pesto with garlic-infused oil and parmesan, omitting pine nuts.",
+  "watchOuts": [
+    "Raw garlic and sharp pine nut grit can cause severe intestinal irritation and stricture obstruction."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "heinz-tomato-ketchup",
+  "name": "Heinz Original Tomato Ketchup (Smooth Mild Condiment)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Heinz / Kraft Heinz",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "ketchup",
+    "heinz",
+    "condiment",
+    "tomato",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "ketchup",
+    "heinz ketchup",
+    "tomato ketchup",
+    "catsup",
+    "french fry dip"
+  ],
+  "whyItWorks": "Smooth, concentrated tomato paste cooked with vinegar, corn syrup, salt, and onion powder. It has zero seeds and zero tomato skins. Safe in remission in 1-tablespoon servings.",
+  "prepOrOrderInstructions": "Dip baked potato fries or chicken tenders lightly. Avoid drowning foods in ketchup during flares.",
+  "watchOuts": [
+    "Contains natural tomato acid, onion powder, and high-fructose corn syrup; avoid in acute gastritis or active flare-ups."
+  ]
+}

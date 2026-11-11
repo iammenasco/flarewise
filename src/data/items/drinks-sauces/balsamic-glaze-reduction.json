@@ -1,0 +1,41 @@
+{
+  "id": "balsamic-glaze-reduction",
+  "name": "Colavita / Nonna Pia's Aged Balsamic Glaze (Smooth Reduction)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "balsamic-glaze",
+    "reduction",
+    "colavita",
+    "sweet-savory",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "balsamic glaze",
+    "balsamic reduction",
+    "sweet balsamic",
+    "glaze"
+  ],
+  "whyItWorks": "Slow-simmered balsamic vinegar and cooked grape must reduced to a thick, syrupy glaze. Simmering burns off the sharp volatile acetic acid vapors that cause stomach burning in raw vinegar, leaving smooth, gentle sweet-tart flavor.",
+  "prepOrOrderInstructions": "Drizzle lightly over baked chicken breast, roasted carrots, or sourdough toast.",
+  "watchOuts": [
+    "Contains cooked grape sugars; a light drizzle provides ample flavor."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fody-foods-garlic-infused-olive-oil",
+  "name": "Fody Foods Garlic-Infused Extra Virgin Olive Oil (True Garlic Aroma)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Fody Foods",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "olive-oil",
+    "garlic-infused",
+    "fody",
+    "low-fodmap",
+    "fructan-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "garlic oil",
+    "garlic infused olive oil",
+    "fody garlic oil",
+    "safe garlic flavor",
+    "low fodmap garlic"
+  ],
+  "whyItWorks": "A scientific breakthrough for allium-sensitive IBD patients! Garlic fructans are water-soluble carbohydrates that cannot dissolve in oil. Oil infused with whole garlic cloves captures 100% of the delicious garlic aroma without a single molecule of fermentable fructans.",
+  "prepOrOrderInstructions": "The safest way on earth to cook with authentic garlic flavor in Crohn's and Colitis. Use for sautéing chicken, drizzling on potatoes, or pasta.",
+  "watchOuts": [
+    "100% low-FODMAP and fructan-free certified by Monash University."
+  ]
+}

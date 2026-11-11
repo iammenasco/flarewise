@@ -1,0 +1,44 @@
+{
+  "id": "fody-foods-shallot-infused-olive-oil",
+  "name": "Fody Foods Shallot-Infused Extra Virgin Olive Oil (True Onion Aroma)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Fody Foods",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "olive-oil",
+    "shallot-infused",
+    "fody",
+    "low-fodmap",
+    "onion-alternative",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "shallot oil",
+    "onion infused oil",
+    "fody onion oil",
+    "safe onion flavor",
+    "low fodmap onion"
+  ],
+  "whyItWorks": "Captures rich sweet shallot and onion aroma in extra virgin olive oil while leaving all gas-producing allium fructans behind. Allows IBD patients to enjoy authentic onion flavor in soups, rice, and stews with zero bloating or cramping.",
+  "prepOrOrderInstructions": "Sauté vegetables and meats with shallot oil as a direct drop-in replacement for diced onions.",
+  "watchOuts": [
+    "Completely fructan-free and gut-safe."
+  ]
+}

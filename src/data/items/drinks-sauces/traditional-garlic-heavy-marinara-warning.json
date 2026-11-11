@@ -1,0 +1,41 @@
+{
+  "id": "traditional-garlic-heavy-marinara-warning",
+  "name": "Traditional Pasta Sauce with Garlic & Onions (Concentrated Allium Trigger)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "marinara",
+    "pasta-sauce",
+    "garlic-heavy",
+    "fructans",
+    "acid-reflux",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "marinara trigger",
+    "prego",
+    "ragu",
+    "garlic pasta sauce",
+    "tomato sauce heartburn"
+  ],
+  "whyItWorks": "Standard commercial pasta sauces are loaded with minced dehydrated garlic, minced onion, tomato acidity, and sometimes rough tomato seeds. The high fructan load ferments into severe gas while the acidity triggers burning reflux and colonic urgency.",
+  "prepOrOrderInstructions": "Trigger Warning: Avoid garlic-loaded jarred marinara sauces. Choose Rao's Sensitive or Fody Low-FODMAP Tomato Basil sauce instead.",
+  "watchOuts": [
+    "High fructan alliums and concentrated tomato acid trigger acute bloating, reflux, and cramping."
+  ]
+}

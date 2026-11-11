@@ -1,0 +1,41 @@
+{
+  "id": "heinz-homestyle-savory-beef-gravy",
+  "name": "Heinz Homestyle Classic Savory Beef Gravy",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Heinz / Kraft Heinz",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "gravy",
+    "beef-gravy",
+    "heinz",
+    "comfort-food",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "beef gravy",
+    "brown gravy",
+    "heinz beef gravy",
+    "savory beef gravy"
+  ],
+  "whyItWorks": "Rich, smooth brown beef gravy made with beef stock. It has zero gristle, zero seeds, and zero insoluble fiber, providing comforting savory richness without chewing fatigue.",
+  "prepOrOrderInstructions": "Warm and ladle over mashed potatoes or tender pot roast.",
+  "watchOuts": [
+    "Low in fiber and residue; enjoy warm."
+  ]
+}

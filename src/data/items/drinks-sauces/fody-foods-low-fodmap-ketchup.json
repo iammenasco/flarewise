@@ -1,0 +1,43 @@
+{
+  "id": "fody-foods-low-fodmap-ketchup",
+  "name": "Fody Foods Low-FODMAP Tomato Ketchup (No Onion, No Garlic)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Fody Foods",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "ketchup",
+    "fody",
+    "low-fodmap",
+    "onion-free",
+    "garlic-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "low fodmap ketchup",
+    "fody ketchup",
+    "garlic free ketchup",
+    "onion free ketchup",
+    "safe ketchup"
+  ],
+  "whyItWorks": "Certified Low-FODMAP by Monash University. Formulated specifically for IBD and IBS patients: made from tomato puree and organic cane sugar with ZERO onion, ZERO garlic, and ZERO high-fructose corn syrup.",
+  "prepOrOrderInstructions": "Use freely on burgers, scrambled eggs, and baked potatoes even during sensitive digestion phases.",
+  "watchOuts": [
+    "Mild natural tomato acidity; generally well-tolerated by almost all IBD patients."
+  ]
+}

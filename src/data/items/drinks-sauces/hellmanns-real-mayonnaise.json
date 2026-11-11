@@ -1,0 +1,43 @@
+{
+  "id": "hellmanns-real-mayonnaise",
+  "name": "Hellmann's / Best Foods Real Mayonnaise",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Hellmann's / Best Foods (Unilever)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "condiment",
+    "mayonnaise",
+    "hellmanns",
+    "gluten-free",
+    "dairy-free",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "mayo",
+    "mayonnaise",
+    "hellmanns mayo",
+    "best foods mayo",
+    "real mayonnaise"
+  ],
+  "whyItWorks": "Made from soybean oil, water, whole eggs and egg yolks, vinegar, and salt. It is an ultra-smooth emulsion containing 0g fiber, zero dairy, and zero lactose. Provides easy, calorie-dense fats to prevent weight loss during recovery without irritating the bowel.",
+  "prepOrOrderInstructions": "Spread 1 tablespoon onto white bread for turkey sandwiches, or mix with drained canned tuna. Limit to 1–2 tablespoons if experiencing active bile acid malabsorption.",
+  "watchOuts": [
+    "High in fat (10g per tablespoon); enjoy in moderate portions to avoid rapid gastric emptying."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "grey-poupon-dijon-mustard-warning",
+  "name": "Grey Poupon Dijon & Whole Grain Mustard (Whole Seed & Wine Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Grey Poupon / Kraft Heinz",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "mustard",
+    "dijon",
+    "grey-poupon",
+    "whole-grain-mustard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "dijon mustard",
+    "grey poupon",
+    "whole grain mustard",
+    "spicy mustard",
+    "mustard trigger"
+  ],
+  "whyItWorks": "Dijon and stoneground whole grain mustards retain coarse crushed brown mustard seeds and white wine. The whole seeds pass through undigested and scrape against ulcerations, while higher allyl isothiocyanate pungency burns sensitive mucosal tissue.",
+  "prepOrOrderInstructions": "Stricture & Flare Warning: Avoid whole grain and coarse Dijon mustards. Stick strictly to smooth, finely micro-milled yellow mustard.",
+  "watchOuts": [
+    "Indigestible whole mustard seeds can irritate inflamed bowel segments and strictures."
+  ]
+}

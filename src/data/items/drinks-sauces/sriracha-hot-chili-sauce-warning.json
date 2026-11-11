@@ -1,0 +1,41 @@
+{
+  "id": "sriracha-hot-chili-sauce-warning",
+  "name": "Huy Fong Sriracha Hot Chili Sauce (Capsaicin & Vinegar Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Huy Fong Foods",
+  "crohnsScore": 3.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "sauce"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sauce",
+    "hot-sauce",
+    "sriracha",
+    "chili",
+    "capsaicin",
+    "spicy-trigger",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "sriracha",
+    "rooster sauce",
+    "huy fong sriracha",
+    "hot chili sauce",
+    "spicy sauce trigger"
+  ],
+  "whyItWorks": "Made from raw red jalapeño chili peppers ground with seeds, concentrated raw garlic, vinegar, and preservatives. Capsaicin directly activates TRPV1 receptors on intestinal mucosal nerve endings, triggering burning pain, hypermotility, and diarrhea.",
+  "prepOrOrderInstructions": "Severe Flare Warning: Avoid Sriracha during active IBD. Even in remission, heavy capsaicin can provoke rapid bowel movements and rectal burning.",
+  "watchOuts": [
+    "High capsaicin, raw garlic fructans, and chili seeds irritate intestinal ulcerations and cause painful spasms."
+  ]
+}
