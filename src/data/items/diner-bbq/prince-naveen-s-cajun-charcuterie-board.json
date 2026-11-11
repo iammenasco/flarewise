@@ -1,34 +1,45 @@
 {
+  "id": "prince-naveen-s-cajun-charcuterie-board",
   "name": "Prince Naveen's Cajun Charcuterie Board",
   "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
   "crohnsScore": 6.5,
   "safetyTier": "remission-road",
   "mealTypes": [
-    "lunch",
     "dinner",
     "snack"
   ],
   "region": "American",
   "costTier": 3,
-  "convenienceScore": 2,
+  "convenienceScore": 5,
   "prepMethod": [
     "ready-to-eat"
   ],
   "fiberGramsPerServing": 1,
-  "lactoseSafe": false,
-  "citrusFree": false,
+  "lactoseSafe": true,
+  "citrusFree": true,
   "tags": [
     "charcuterie",
     "pork",
     "cheese",
-    "cured"
+    "cured",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
   ],
   "searchKeywords": [
-    "charcuterie",
-    "pork",
-    "duck"
+    "prince naveen",
+    "cajun charcuterie",
+    "tianas place",
+    "disney wonder",
+    "prosciutto",
+    "cheese board"
   ],
-  "whyItWorks": "High protein, but higher risk due to processed meats and cheese.",
-  "prepOrOrderInstructions": "Monitor portion sizes and cheese/meat variety.",
-  "id": "prince-naveen-s-cajun-charcuterie-board"
+  "whyItWorks": "Aged cheeses and thinly sliced cured meats offer low-fiber protein, but spicy Cajun links, whole-grain mustard seeds, and pickled garnishes require careful picking.",
+  "prepOrOrderInstructions": "Stick to the mild aged cheeses, plain sliced prosciutto/ham, and refined bread/crackers. Leave the spicy Cajun sausage, whole-seed mustard, and pickled vegetables on the board.",
+  "watchOuts": [
+    "Whole mustard seeds",
+    "Spicy Cajun cured links",
+    "Pickled vegetables and coarse crusts"
+  ]
 }
