@@ -18,6 +18,8 @@ jobs:
     permissions:
       contents: write
       issues: write
+      # GITHUB_TOKEN pushes do not trigger other workflows; kick Pages explicitly.
+      actions: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -72,13 +74,21 @@ jobs:
             git rebase origin/main
           done
           echo "sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Trigger Pages deploy
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Token pushes never start workflow_run/push listeners. Dispatch deploy
+          # so the SPA catalog picks up the new item without waiting for a PR merge.
+          gh workflow run "Deploy GitHub Pages" --repo "${{ github.repository }}" --ref main
       - name: Close issue
         if: success()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh issue close "${{ github.event.issue.number }}" \
-            --comment "Ingested and pushed to \`main\` as \`${{ steps.commit.outputs.sha }}\`. Deploy follows from that push."
+            --comment "Ingested and pushed to \`main\` as \`${{ steps.commit.outputs.sha }}\`. Pages deploy triggered; the live catalog updates in about a minute."
       - name: Comment on failure
         if: failure()
         env:
