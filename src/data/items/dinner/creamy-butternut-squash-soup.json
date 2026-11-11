@@ -2,6 +2,7 @@
   "id": "creamy-butternut-squash-soup",
   "name": "Creamy Butternut Squash Soup",
   "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Animator's Palate / 1923 / Cabanas",
   "crohnsScore": 9.5,
   "safetyTier": "flare-safe",
   "mealTypes": [
@@ -12,18 +13,41 @@
   "costTier": 1,
   "convenienceScore": 5,
   "prepMethod": [
-    "stovetop"
+    "stovetop",
+    "ready-to-eat"
   ],
-  "fiberGramsPerServing": 5,
-  "lactoseSafe": true,
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
   "citrusFree": true,
+  "groceryIngredients": [
+    "Peeled Butternut Squash",
+    "Chicken Bone Broth",
+    "Lactose-Free Cream or Coconut Milk",
+    "Ground Ginger",
+    "Nutmeg"
+  ],
   "tags": [
     "soup",
-    "butternut-squash"
+    "butternut-squash",
+    "soluble-fiber",
+    "gluten-free",
+    "flare-recovery",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "animators-palate"
   ],
   "searchKeywords": [
-    "butternut-squash-soup"
+    "creamy butternut squash soup",
+    "squash bisque",
+    "animators palate soup",
+    "blended soup"
   ],
-  "whyItWorks": "Warm and soothing.",
-  "prepOrOrderInstructions": "Serve warm."
+  "whyItWorks": "Pureed peeled butternut squash and warm broth require zero chewing and deliver soothing soluble pectin that calms intestinal transit.",
+  "prepOrOrderInstructions": "Order or blend completely smooth without crunchy croutons, bacon bits, or pumpkin seed garnishes. Take a Lactaid enzyme if made with heavy dairy cream.",
+  "watchOuts": [
+    "Toasted pumpkin seed (pepita) garnish",
+    "Heavy dairy cream if lactose sensitive"
+  ]
 }
