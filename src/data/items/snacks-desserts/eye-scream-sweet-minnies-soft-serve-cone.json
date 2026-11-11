@@ -1,0 +1,46 @@
+{
+  "id": "eye-scream-sweet-minnies-soft-serve-cone",
+  "name": "Eye Scream / Sweet Minnie's Soft-Serve Ice Cream",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Eye Scream Treats / Disney Treasure · Sweet Minnie's Ice Cream",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "dessert",
+    "snack",
+    "sweet",
+    "grab-and-go",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "eye-scream",
+    "sweet-minnies"
+  ],
+  "searchKeywords": [
+    "eye scream treats",
+    "sweet minnies ice cream",
+    "soft serve",
+    "disney cruise ice cream",
+    "vanilla cone"
+  ],
+  "whyItWorks": "Complimentary pool-deck soft-serve has 0g fiber, lower milkfat than hard-scoop ice cream, and wafer cones dissolve into starch immediately.",
+  "prepOrOrderInstructions": "Swirl vanilla, chocolate, or banana/mango soft-serve into a cup or wafer cone (take a Lactaid pill if sensitive to dairy, or ask a cast member for the dairy-free soy/oat frozen dessert kept behind the counter).",
+  "watchOuts": [
+    "Lactose in standard soft-serve mix (dairy-free available on request)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "towneplace-suites-draper-oatmeal-bagel-banana-yogurt",
+  "name": "TownePlace Suites Salt Lake City Draper Breakfast: Plain Bagel, Oatmeal, Banana & Yogurt",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "TownePlace Suites by Marriott Salt Lake City Draper (Draper, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bagel",
+    "oatmeal",
+    "banana",
+    "yogurt",
+    "breakfast",
+    "hotel",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "towneplace suites breakfast",
+    "hotel oatmeal bagel banana",
+    "draper hotel breakfast"
+  ],
+  "whyItWorks": "Every TownePlace Suites breakfast bar stocks toasted plain white bagels, hot plain oatmeal, ripe bananas, Rice Chex/Corn Flakes, and individual Chobani Greek yogurts—plus every room has a full kitchen!",
+  "prepOrOrderInstructions": "Toast a plain white bagel or English muffin with peanut butter or cream cheese, grab a ripe banana, or top plain hot oatmeal with brown sugar and banana slices (skipping the walnuts and dried cranberries).",
+  "watchOuts": [
+    "Skip the walnut, almond, and dried raisin/cranberry toppings at the oatmeal bar",
+    "Skip the orange and grapefruit juice dispensers"
+  ]
+}

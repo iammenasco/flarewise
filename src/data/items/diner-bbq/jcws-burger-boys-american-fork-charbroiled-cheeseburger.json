@@ -1,0 +1,41 @@
+{
+  "id": "jcws-burger-boys-american-fork-charbroiled-cheeseburger",
+  "name": "JCW's (American Fork & Lehi, UT) Charbroiled Plain Cheeseburger on White Bun",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "JCW's The Burger Boys (American Fork & Lehi, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "american-fork",
+    "lehi",
+    "beef",
+    "burger"
+  ],
+  "searchKeywords": [
+    "jcws burger boys",
+    "jcws american fork",
+    "jcws lehi cheeseburger"
+  ],
+  "whyItWorks": "Famous Utah Valley burger spot! High flame charbroiling allows excess fat to drip off the beef patty. On a plain bun with ketchup, it is very easy on digestion.",
+  "prepOrOrderInstructions": "Order the Charbroiled Cheeseburger plain with ketchup only (hold lettuce, tomato, onion, and pickles).",
+  "watchOuts": [
+    "Skip raw onions and pickles"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "the-break-sports-grill-daybreak-grilled-salmon-fillet",
+  "name": "The Break Sports Grill (Daybreak / South Jordan, UT) Grilled Atlantic Salmon & Steamed Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "The Break Sports Grill (Daybreak / South Jordan, UT)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "south-jordan",
+    "daybreak",
+    "salmon",
+    "omega-3",
+    "rice",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "the break salmon",
+    "daybreak grilled salmon",
+    "south jordan salmon dinner"
+  ],
+  "whyItWorks": "Fresh Atlantic salmon fillet seasoned lightly with olive oil and sea salt, served with steamed white rice and tender carrots. Packed with anti-inflammatory omega-3 fatty acids.",
+  "prepOrOrderInstructions": "Order the Grilled Salmon with steamed rice and steamed carrots (hold spicy citrus glazes).",
+  "watchOuts": [
+    "None; premier flare-safe dinner"
+  ]
+}

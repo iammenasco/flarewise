@@ -1,0 +1,39 @@
+{
+  "id": "mad-moose-cafe-eden-french-dip-au-jus",
+  "name": "Mad Moose Cafe (Eden, UT) Angus Roast Beef French Dip with Melted Swiss & Au Jus",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mad Moose Cafe (Eden / Ogden Valley, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "beef",
+    "sandwich",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "mad moose cafe french dip",
+    "eden utah french dip",
+    "ogden valley lunch"
+  ],
+  "whyItWorks": "Thinly shaved tender Angus roast beef with melted low-lactose Swiss cheese on a toasted French roll. Dipped in savory, warm au jus broth that softens the bread.",
+  "prepOrOrderInstructions": "Order the French Dip with au jus; ask to hold grilled onions if sensitive to cooked alliums.",
+  "watchOuts": [
+    "Hold grilled onions to prevent fructan gas"
+  ]
+}

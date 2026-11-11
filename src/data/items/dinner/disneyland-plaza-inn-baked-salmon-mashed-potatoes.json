@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-plaza-inn-baked-salmon-mashed-potatoes",
+  "name": "Disneyland Plaza Inn Herb-Baked Salmon Fillet with Mashed Potatoes or White Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Plaza Inn (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "potato",
+    "high-protein",
+    "omega-3",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "plaza inn salmon disneyland",
+    "main street healthy dinner disneyland"
+  ],
+  "whyItWorks": "Plaza Inn's counter rotation routinely includes a tender baked salmon fillet alongside the fried chicken and pot roast—giving you a 9.0/10 non-fried omega-3 meal with whipped potatoes and a warm biscuit.",
+  "prepOrOrderInstructions": "Ask for the Baked Salmon with mashed potatoes (no gravy) and a biscuit, holding any lemon-caper sauce.",
+  "watchOuts": [
+    "Take a lactase tablet for the mashed potatoes and skip any lemon garnish"
+  ]
+}

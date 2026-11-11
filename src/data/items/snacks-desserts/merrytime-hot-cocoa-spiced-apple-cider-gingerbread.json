@@ -1,0 +1,46 @@
+{
+  "id": "merrytime-hot-cocoa-spiced-apple-cider-gingerbread",
+  "name": "Very Merrytime Deck Party Warm Spiced Apple Cider, Hot Cocoa & Soft Gingerbread Cookie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Mickey's Tree-Lighting & Deck Party",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cookie",
+    "cinnamon",
+    "ginger",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "very merrytime gingerbread cookie",
+    "warm spiced apple cider",
+    "holiday hot cocoa",
+    "disney cruise christmas"
+  ],
+  "whyItWorks": "Soft-baked refined-flour gingerbread cookies and warm filtered apple cider contain soothing ginger and zero insoluble fiber.",
+  "prepOrOrderInstructions": "Enjoy the soft gingerbread cookie and dilute warm apple cider 50/50 with hot water (or ask for dairy-free oat/almond milk hot cocoa).",
+  "watchOuts": [
+    "Dairy milk in standard hot cocoa",
+    "High sugar load in undiluted apple cider"
+  ]
+}

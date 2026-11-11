@@ -1,0 +1,41 @@
+{
+  "id": "saffron-valley-herriman-dosa-idli-tikka-masala",
+  "name": "Saffron Valley (South Jordan / Mountain View Village) Steamed Rice Idli, Plain Dosa & Mild Chicken",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Saffron Valley East India Café (South Jordan / Herriman Area, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "chicken",
+    "fermented",
+    "gluten-free-option",
+    "dairy-free",
+    "utah"
+  ],
+  "searchKeywords": [
+    "saffron valley south jordan",
+    "indian food herriman mountain view village",
+    "idli dosa south jordan",
+    "chicken tikka masala south jordan"
+  ],
+  "whyItWorks": "Right next to Herriman/South Jordan in the District/Mountain View corridor, Saffron Valley specializes in South Indian steamed fermented rice cakes (Idli) and crispy fermented rice-and-lentil crepes (Plain/Potato Dosa) that are naturally gluten-free, dairy-free, and pre-digested by fermentation.",
+  "prepOrOrderInstructions": "Order Steamed Rice Idli, a Plain or Masala Potato Dosa (skip the spicy red chutney and dip in mild broth or eat with plain basmati rice), or Mild (Spice Level 1) Chicken Tikka Skewers with basmati rice and garlic-free plain naan.",
+  "watchOuts": [
+    "Skip spicy vindaloo, green chili chutneys, and heavy coconut-shred chutneys"
+  ]
+}

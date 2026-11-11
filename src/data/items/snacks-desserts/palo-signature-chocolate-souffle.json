@@ -1,0 +1,44 @@
+{
+  "id": "palo-signature-chocolate-souffle",
+  "name": "Palo Signature Warm Chocolate Soufflé with Vanilla Bean & Chocolate Anglaise",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "egg",
+    "ice-cream",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo chocolate souffle",
+    "palo dessert",
+    "disney wonder",
+    "disney magic",
+    "disney treasure"
+  ],
+  "whyItWorks": "Baked to order from whipped egg whites, sugar, and dark cocoa—cloud-light, zero nuts, zero seeds, and 100% citrus-free (unlike the main dining room Grand Marnier soufflé).",
+  "prepOrOrderInstructions": "Order at the start of your meal; take 1–2 Lactaid tablets before pouring in the warm vanilla bean sauce and vanilla gelato.",
+  "watchOuts": [
+    "Dairy cream in vanilla anglaise and gelato"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "til-we-meet-again-roasted-cornish-hen",
+  "name": "Oven-Roasted Half Cornish Hen with Israeli Couscous ('Til We Meet Again)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "poultry",
+    "chicken",
+    "pasta",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "roasted half cornish hen",
+    "israeli couscous",
+    "til we meet again"
+  ],
+  "whyItWorks": "Tender roasted Cornish game hen and pearl Israeli couscous (refined toasted wheat pasta pearls) are soft and low-residue.",
+  "prepOrOrderInstructions": "Ask for the lemon-herb sauce on the side (or remove the skin) and skip the roasted bell pepper/zucchini ratatouille.",
+  "watchOuts": [
+    "Lemon-herb sauce on skin (order on side)",
+    "Vegetable skins in Mediterranean ratatouille"
+  ]
+}

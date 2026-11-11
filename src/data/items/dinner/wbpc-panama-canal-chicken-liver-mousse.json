@@ -1,0 +1,42 @@
+{
+  "id": "wbpc-panama-canal-chicken-liver-mousse",
+  "name": "Westbound Panama Canal Spiced Chicken Liver Mousse with Baguette & Caramelized Pears",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Magic · Westbound Panama Canal (Panama Canal Menu)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "bread",
+    "pear",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "spiced chicken liver mousse",
+    "caramelized pears",
+    "panama canal menu",
+    "westbound panama canal"
+  ],
+  "whyItWorks": "Silky whipped chicken liver mousse served with peeled caramelized pears and white baguette slices—zero seeds or raw roughage.",
+  "prepOrOrderInstructions": "Enjoy a modest smear of the smooth mousse and peeled caramelized pear over soft baguette bread.",
+  "watchOuts": [
+    "Rich butter/cream fat in the liver mousse",
+    "Pears contain natural fructose/sorbitol if eaten in large quantities"
+  ]
+}

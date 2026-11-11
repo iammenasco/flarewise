@@ -1,0 +1,44 @@
+{
+  "id": "panama-canal-smoked-salmon-napoleon-crab-royal",
+  "name": "Panama Canal Menu: Smoked Salmon Cream Cheese Napoleon & Steamed Crab Royal",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Panama Canal Dinner Menu",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "seafood",
+    "cheese",
+    "bread",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "smoked salmon napoleon",
+    "steamed crab royal",
+    "panama canal menu",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Signature Panama Canal crossing starters: layered smoked salmon with cream cheese and caviar, or steamed king crab legs.",
+  "prepOrOrderInstructions": "Hold the lemon butter on the Steamed Crab Royal (request plain melted butter instead) and take a Lactaid for the cream cheese Napoleon.",
+  "watchOuts": [
+    "Lemon in default crab butter (order plain butter)",
+    "Cream cheese lactose"
+  ]
+}

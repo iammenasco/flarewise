@@ -1,0 +1,41 @@
+{
+  "id": "knotts-firemans-brigade-bbq-roasted-chicken-baked-potato",
+  "name": "Knott's Fireman's Brigade BBQ (Ghost Town) Roasted Quarter/Half Chicken & Giant Baked Idaho Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Fireman's Brigade BBQ (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "high-protein",
+    "gluten-free-option",
+    "dairy-free",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "firemans brigade bbq knotts",
+    "ghost town bbq chicken baked potato",
+    "knotts dining plan safe"
+  ],
+  "whyItWorks": "Open-pit roasted bone-in chicken paired with a whole foil-baked Idaho Russet potato (instead of fries or beans) is included on the Knott's Dining Plan and gives you clean protein and soluble potato starch once you peel off the spiced chicken skin.",
+  "prepOrOrderInstructions": "Order the **Roasted Chicken & Baked Potato** combo with BBQ sauce on the side—peel off the peppery chicken skin and eat the fluffy interior of the baked potato with a touch of butter/salt.",
+  "watchOuts": [
+    "Peel off the outer herb/pepper chicken skin, leave the baked potato skin behind, and skip the BBQ baked beans"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-ronto-roasters-morning-egg-cheddar-pita",
+  "name": "Disneyland Ronto Roasters Morning Wrap (Scrambled Eggs, Cheddar & Grilled Pork Sausage in Soft Pita)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Ronto Roasters (Star Wars: Galaxy's Edge · Disneyland Park)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "cheese",
+    "pita",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "ronto morning wrap",
+    "ronto roasters breakfast disneyland",
+    "galaxys edge breakfast wrap"
+  ],
+  "whyItWorks": "Warm pillowy pita bread wrapped around fluffy scrambled eggs, melted aged cheddar, and a grilled pork sausage link—one of the best handheld breakfasts in Disneyland when ordered without the peppercorn sauce.",
+  "prepOrOrderInstructions": "Mobile-order the Ronto Morning Wrap and customize/ask at the counter for **\"No Peppercorn Sauce\"** so it is strictly eggs, cheddar, sausage, and warm pita.",
+  "watchOuts": [
+    "Default build includes a tangy peppercorn sauce—always request \"no peppercorn sauce\""
+  ]
+}

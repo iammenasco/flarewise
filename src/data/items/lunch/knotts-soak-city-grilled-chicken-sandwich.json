@@ -1,0 +1,39 @@
+{
+  "id": "knotts-soak-city-grilled-chicken-sandwich",
+  "name": "Knott's Soak City Longboard's Grill Charbroiled Chicken Breast on Brioche",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Knott's Soak City Waterpark (Buena Park, CA)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "chicken",
+    "sandwich",
+    "soak-city"
+  ],
+  "searchKeywords": [
+    "soak city chicken sandwich",
+    "longboards grill chicken",
+    "knotts waterpark lunch"
+  ],
+  "whyItWorks": "Clean, lean poolside dining! Boneless skinless chicken breast charbroiled and served on a soft bun with potato chips. Unbreaded and gentle between water slides.",
+  "prepOrOrderInstructions": "Order the Charbroiled Chicken Sandwich plain or with mayo (hold lettuce and tomato slices).",
+  "watchOuts": [
+    "None; clean unbreaded chicken sandwich"
+  ]
+}

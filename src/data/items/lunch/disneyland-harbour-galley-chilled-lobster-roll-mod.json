@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-harbour-galley-chilled-lobster-roll-mod",
+  "name": "Disneyland Harbour Galley Chilled Lobster Roll on Buttered Brioche (Light Mayo Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Harbour Galley (Bayou Country · Disneyland Park)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "seafood",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "harbour galley lobster roll",
+    "disneyland lobster roll"
+  ],
+  "whyItWorks": "Chilled poached claw and knuckle lobster meat served in a split-top toasted buttered brioche roll is lean and low-fiber, though the dressing contains a touch of lemon juice and diced celery.",
+  "prepOrOrderInstructions": "Pick out any visible diced celery bits and note that the lobster salad dressing includes a hint of lemon (citrusFree: false).",
+  "watchOuts": [
+    "Contains trace lemon in the mayo dressing (citrusFree: false) and butter on the brioche roll"
+  ]
+}

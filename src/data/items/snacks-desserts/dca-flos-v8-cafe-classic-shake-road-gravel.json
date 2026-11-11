@@ -1,0 +1,39 @@
+{
+  "id": "dca-flos-v8-cafe-classic-shake-road-gravel",
+  "name": "DCA Flo's V8 Cafe Classic Vanilla, Chocolate or Strawberry Shake (Take Lactase, Skip Cookie \"Gravel\" if Sensitive)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Flo's V8 Cafe (Cars Land · Disney California Adventure)",
+  "crohnsScore": 6.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "sweet",
+    "dessert",
+    "drink",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "flos v8 cafe shake",
+    "cars land milkshake road gravel"
+  ],
+  "whyItWorks": "Classic diner shake topped with crushed Oreo cookie \"road gravel\"—nut-free, though very high in dairy cream and sugar.",
+  "prepOrOrderInstructions": "Choose Vanilla or Chocolate (to avoid strawberry seeds), share a cup in remission, and take 2 lactase enzyme tablets.",
+  "watchOuts": [
+    "High lactose and sugar load—save for steady remission"
+  ]
+}

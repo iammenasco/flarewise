@@ -1,0 +1,42 @@
+{
+  "id": "cafe-sabor-logan-garden-city-arroz-con-pollo",
+  "name": "Café Sabor (Logan & Garden City, UT) Arroz con Pollo (Tender Chicken & Rice)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "chicken",
+    "rice",
+    "mexican"
+  ],
+  "searchKeywords": [
+    "cafe sabor arroz con pollo",
+    "chicken and rice cafe sabor",
+    "bear lake mexican food"
+  ],
+  "whyItWorks": "Arroz con Pollo is one of the safest traditional Mexican restaurant dishes. Well-cooked Spanish white rice and tender chicken breast strips with mild melted cheese digest smoothly.",
+  "prepOrOrderInstructions": "Order the Arroz con Pollo with warm flour tortillas; ask for mild ranchero sauce light or on the side (hold sour cream and guacamole upon request).",
+  "watchOuts": [
+    "Mild tomato sauce has slight acidity; order sauce light during sensitive phases"
+  ]
+}

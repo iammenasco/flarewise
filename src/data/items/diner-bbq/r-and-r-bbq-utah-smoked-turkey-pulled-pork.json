@@ -1,0 +1,40 @@
+{
+  "id": "r-and-r-bbq-utah-smoked-turkey-pulled-pork",
+  "name": "R&R BBQ (Draper / South Jordan / Lehi / Pleasant Grove) Smoked Turkey Breast or Pulled Pork & White Roll",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "R&R BBQ (Draper / South Jordan / Lehi / Pleasant Grove, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "pork",
+    "beef",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "r and r bbq draper",
+    "r&r bbq south jordan",
+    "r&r bbq pleasant grove lehi",
+    "smoked turkey utah bbq"
+  ],
+  "whyItWorks": "With locations right near TownePlace Suites Draper, South Jordan/Herriman, and Pleasant Grove/Lehi (near BambooHR), R&R's slow-smoked Turkey Breast and Pulled Pork are tender, low-fiber proteins when ordered with sauce on the side and a soft dinner roll.",
+  "prepOrOrderInstructions": "Order the Single Meat Plate with Smoked Turkey Breast or Pulled Pork (BBQ sauce on the side) paired with a soft dinner roll and smooth mashed potatoes or mac & cheese (with lactase).",
+  "watchOuts": [
+    "Skip the spicy Kielbasa sausage, red-pepper hushpuppies, raw cabbage coleslaw, and baked beans"
+  ]
+}

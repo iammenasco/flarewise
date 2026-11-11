@@ -1,0 +1,43 @@
+{
+  "id": "panama-canal-spinach-feta-pie-root-vegetables",
+  "name": "Panama Canal Menu: Savory Spinach & Feta Phyllo Pie & Roasted Root Vegetables",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Panama Canal Dinner Menu",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "greens",
+    "carrots",
+    "bakery",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "savory spinach feta cheese pie",
+    "roasted root vegetables",
+    "panama canal menu"
+  ],
+  "whyItWorks": "Peeled roasted carrots, turnips, and parsnips are soft, but caramelized leeks, bulgur wheat, and chickpea-tomato slaw add FODMAPs and roughage.",
+  "prepOrOrderInstructions": "Eat the peeled carrots/parsnips or choose the Lighter Note Oven-Baked Salmon or Roasted Chicken Breast with white rice instead.",
+  "watchOuts": [
+    "Chickpea-tomato slaw on the spinach pie",
+    "Leeks and bulgur wheat with the root vegetables"
+  ]
+}

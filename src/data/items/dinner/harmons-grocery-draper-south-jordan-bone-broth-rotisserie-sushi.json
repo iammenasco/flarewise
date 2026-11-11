@@ -1,0 +1,43 @@
+{
+  "id": "harmons-grocery-draper-south-jordan-bone-broth-rotisserie-sushi",
+  "name": "Harmons Neighborhood Grocer (Draper / Daybreak / Bangerter) Kitchen Rotisserie Chicken, Sushi & Soup Bar",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Harmons Neighborhood Grocer (Draper / South Jordan / Daybreak, UT)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "soup",
+    "sourdough",
+    "rice",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "harmons draper",
+    "harmons daybreak south jordan",
+    "harmons soup bar",
+    "towneplace suites draper grocery"
+  ],
+  "whyItWorks": "Minutes from both TownePlace Suites Draper (Bangerter Crossing) and Holiday Inn Express Herriman/South Jordan (Daybreak/District), Harmons has a scratch kitchen offering hot Chicken Noodle Soup, plain Rotisserie Chicken, fresh-made California/Salmon sushi rolls, and authentic long-fermented Artisan Sourdough bread.",
+  "prepOrOrderInstructions": "Grab a cup of hot Homemade Chicken Noodle Soup, a fresh Salmon Avocado Roll or Rotisserie Chicken breast, and a loaf of Harmons Artisan Sourdough bread to keep in your hotel room toaster.",
+  "watchOuts": [
+    "Avoid spicy chili, broccoli cheddar soup (unless taking lactase), and seeded multigrain breads"
+  ]
+}

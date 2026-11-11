@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-rancho-del-zocalo-burrito-sonora-warning",
+  "name": "Burrito Sonora Loaded with Cheese & Refried Beans",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Rancho del Zocalo (Disneyland)",
+  "crohnsScore": 4.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "burrito",
+    "refried-beans",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "rancho del zocalo",
+    "disneyland",
+    "burrito sonora",
+    "refried beans",
+    "frontierland"
+  ],
+  "whyItWorks": "Stuffed with whole lard-cooked pinto beans, melted jack cheese, sour cream, and spiced salsa, this hefty burrito delivers high fermentable oligosaccharides (GOS) that trigger severe gas, distention, and diarrhea in IBD.",
+  "prepOrOrderInstructions": "High Fiber & Gas Warning: Avoid bean-heavy burritos. Switch to grilled chicken tacos on corn tortillas."
+}

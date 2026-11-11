@@ -1,0 +1,38 @@
+{
+  "id": "dca-carthay-circle-kurobuta-pork-chop",
+  "name": "DCA Carthay Circle Restaurant Thick-Cut Kurobuta Pork Chop & Polenta",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Carthay Circle Restaurant (Disney California Adventure)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "pork",
+    "fine-dining",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "carthay circle pork chop",
+    "kurobuta pork chop dca",
+    "carthay circle restaurant dinner"
+  ],
+  "whyItWorks": "Fine dining at its peak in California Adventure! Kurobuta pork is intensely marbled, tender, and juicy. Paired with soft, creamy corn polenta and jus.",
+  "prepOrOrderInstructions": "Order the Kurobuta Pork Chop with polenta; request light sauce.",
+  "watchOuts": [
+    "None; exceptionally tender heritage pork"
+  ]
+}

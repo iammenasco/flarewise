@@ -1,0 +1,41 @@
+{
+  "id": "dca-wine-country-trattoria-salmon-steak-pasta",
+  "name": "DCA Wine Country Trattoria Pan-Seared Salmon, New York Steak & Mashed Potatoes or Plain Pasta",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Wine Country Trattoria (Performance Corridor · Disney California Adventure)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "beef",
+    "chicken",
+    "pasta",
+    "potato",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "wine country trattoria dca",
+    "dca sit down restaurant",
+    "wine country trattoria salmon"
+  ],
+  "whyItWorks": "DCA's relaxed Tuscan table-service patio serves pan-seared salmon, grilled chicken breast, New York strip steak with mashed potatoes, and pasta tossed simply in olive oil and Parmigiano-Reggiano.",
+  "prepOrOrderInstructions": "Order the Pan-Seared Salmon or Bistecca Steak with mashed potatoes/white rice (no citrus or peppercorn sauce), or spaghetti with olive oil, broth, and grilled chicken.",
+  "watchOuts": [
+    "Skip the Grapefruit Salad (1.0 hard citrus avoid!), Fried Calamari, and spicy red pepper flakes"
+  ]
+}

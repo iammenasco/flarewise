@@ -1,0 +1,37 @@
+{
+  "id": "le-nonne-logan-gnocchi-al-pomodoro",
+  "name": "Handmade Potato Gnocchi with Mild Pomodoro Sauce",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Le Nonne (Logan, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "italian",
+    "gnocchi",
+    "pasta"
+  ],
+  "searchKeywords": [
+    "le nonne",
+    "potato gnocchi",
+    "pomodoro",
+    "logan utah italian"
+  ],
+  "whyItWorks": "Handmade potato dumplings are tender, pillow-soft, and remarkably easy to chew and digest. Coated in a smooth, strained San Marzano tomato pomodoro sauce without chunky skins, it provides gentle Italian comfort.",
+  "prepOrOrderInstructions": "Ask for the pomodoro sauce to be smooth without whole garlic cloves or crushed chili flakes. Add light grated Parmigiano Reggiano if tolerated."
+}

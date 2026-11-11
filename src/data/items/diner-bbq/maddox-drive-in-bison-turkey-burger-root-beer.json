@@ -1,0 +1,41 @@
+{
+  "id": "maddox-drive-in-bison-turkey-burger-root-beer",
+  "name": "Maddox Drive-In Lean Bison Burger or Roasted Turkey Burger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Maddox Ranch House & Drive-In (Perry / Brigham City, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "turkey",
+    "burger",
+    "high-protein",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "maddox drive in bison burger",
+    "maddox turkey burger",
+    "maddox perry utah menu"
+  ],
+  "whyItWorks": "Maddox's famous Drive-In griddles freshly ground lean ranch bison and roasted Utah turkey burgers on house-baked soft white buns—offering far less saturated grease than standard fast-food burgers on the drive between Salt Lake and Logan.",
+  "prepOrOrderInstructions": "Order the Bison Burger or Turkey Burger on a house white bun with aged cheddar only (hold raw onion, lettuce, pickles, and heavy fry sauce).",
+  "watchOuts": [
+    "If ordering Maddox's famous homemade Root Beer, let the carbonation settle or sip slowly so gas bubbles don't cause bloating"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "captains-gala-white-onion-soup",
+  "name": "Creamy White Onion Soup with Smoked Salmon (Captain's Gala Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "salmon",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "white onion soup",
+    "smoked salmon soup",
+    "captains gala soup",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Blended smooth mechanically, but concentrated white onion fructans make this a major FODMAP gas/cramping trigger.",
+  "prepOrOrderInstructions": "Skip if sensitive to onion fructans and ask for plain chicken consommé or potato soup instead.",
+  "watchOuts": [
+    "Very high onion fructan FODMAP load",
+    "Heavy dairy cream"
+  ]
+}

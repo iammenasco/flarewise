@@ -1,0 +1,38 @@
+{
+  "id": "dca-aunt-cass-tomato-basil-soup-warning",
+  "name": "Creamy Tomato Basil Soup in Sourdough Bread Bowl",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Aunt Cass Café (Disney California Adventure)",
+  "crohnsScore": 6.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "tomato-soup",
+    "san-fransokyo",
+    "soup"
+  ],
+  "searchKeywords": [
+    "aunt cass cafe",
+    "dca",
+    "tomato soup",
+    "sourdough bowl",
+    "san fransokyo square"
+  ],
+  "whyItWorks": "Tomato acidity combined with heavy cream, garlic, and basil can cause heartburn and gastric reflux, while the concentrated dairy triggers lactose sensitivity in prone guts.",
+  "prepOrOrderInstructions": "Acid & Dairy Warning: Better suited for remission. Dip sourdough bread lightly into the soup rather than drinking the whole bowl."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "some-beaches-laketown-crinkle-fries-warning",
+  "name": "Crinkle-Cut Golden French Fries",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Some Beaches (Laketown, UT)",
+  "crohnsScore": 5.7,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "laketown",
+    "french-fries",
+    "fried-food"
+  ],
+  "searchKeywords": [
+    "some beaches laketown",
+    "crinkle cut fries",
+    "french fries",
+    "bear lake"
+  ],
+  "whyItWorks": "Crinkle-cut potatoes offer deep grooves that trap significant cooking oil during deep-frying. For Crohn's and UC patients, deep-fried vegetable oil can irritate gut mucosa and stimulate bile dumping.",
+  "prepOrOrderInstructions": "Fried Food Warning: Best reserved for stable remission. During flares, request soft white toast or a plain bun instead."
+}

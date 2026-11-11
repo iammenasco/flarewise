@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-carnation-cafe-mickey-waffle-eggs",
+  "name": "Disneyland Carnation Café Mickey-Shaped Waffle or Buttermilk Pancakes with Scrambled Eggs",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Carnation Café (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "waffles",
+    "pancakes",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "carnation cafe breakfast",
+    "mickey waffle carnation cafe",
+    "main street sit down breakfast"
+  ],
+  "whyItWorks": "Golden Mickey waffle or fluffy buttermilk pancakes paired with two scrambled eggs and turkey/pork bacon gives you a relaxed table-service breakfast with zero roughage.",
+  "prepOrOrderInstructions": "Order the Mickey-Shaped Waffle with scrambled eggs and maple syrup (skip the seeded berry compote topping; allergy-friendly dairy-free waffles available on request).",
+  "watchOuts": [
+    "Ask for maple syrup instead of spiced apple or seeded berry toppings"
+  ]
+}

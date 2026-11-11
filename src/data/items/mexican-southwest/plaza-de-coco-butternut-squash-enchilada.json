@@ -1,0 +1,42 @@
+{
+  "id": "plaza-de-coco-butternut-squash-enchilada",
+  "name": "Roasted Butternut Squash & Black Bean Enchilada in Mole Verde (Night 1)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "butternut-squash",
+    "beans",
+    "tortilla",
+    "vegetarian",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "butternut squash enchilada",
+    "plaza de coco vegetarian",
+    "disney treasure"
+  ],
+  "whyItWorks": "While the roasted butternut squash is soft, whole black beans, tomatillo-serrano mole verde, and pepita garnish make it risky.",
+  "prepOrOrderInstructions": "Eat only the soft roasted butternut squash and corn tortilla interior, or order the Pan-Seared Red Snapper / Pollo Asado plain instead.",
+  "watchOuts": [
+    "Whole black bean skins",
+    "Tomatillo acidity and serrano chili in mole verde",
+    "Pumpkin seed garnish"
+  ]
+}

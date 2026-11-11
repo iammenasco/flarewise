@@ -1,0 +1,41 @@
+{
+  "id": "plaza-de-coco-baby-romaine-avocado-salad",
+  "name": "Baby Romaine Salad with Cumin-Avocado Dressing & Charred Corn (Night 1)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "avocado",
+    "corn",
+    "greens",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "baby romaine cumin avocado salad",
+    "plaza de coco",
+    "disney treasure"
+  ],
+  "whyItWorks": "Combines raw romaine stalks, whole charred corn kernels, and lime-acidified avocado dressing.",
+  "prepOrOrderInstructions": "Avoid during flares due to whole corn kernels, raw lettuce, and lime juice.",
+  "watchOuts": [
+    "Whole corn kernel hulls",
+    "Lime juice in dressing (citrus)",
+    "Raw romaine roughage"
+  ]
+}

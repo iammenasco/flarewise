@@ -1,0 +1,41 @@
+{
+  "id": "angies-logan-chicken-noodle-soup-french-dip",
+  "name": "Angie's Restaurant Homemade Chicken Noodle Soup & Roast Beef French Dip",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "soup",
+    "sandwich",
+    "noodles",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "angies restaurant logan soup",
+    "angies french dip logan",
+    "cache valley comfort food"
+  ],
+  "whyItWorks": "Angie's tender egg-noodle chicken soup and thin-sliced roast beef French Dip on a soft hoagie roll dipped in warm au jus soften in the mouth and digest cleanly with minimal fat or fiber.",
+  "prepOrOrderInstructions": "Order a cup or bowl of Homemade Chicken Noodle Soup paired with a half or full Roast Beef French Dip (plain beef and Swiss cheese on the roll, dipped in warm au jus).",
+  "watchOuts": [
+    "Au jus is high in sodium, which is helpful for hydration during flares, but skip creamy soups like broccoli cheddar unless taking lactase"
+  ]
+}

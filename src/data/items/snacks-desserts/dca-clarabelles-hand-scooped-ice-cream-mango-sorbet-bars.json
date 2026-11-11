@@ -1,0 +1,40 @@
+{
+  "id": "dca-clarabelles-hand-scooped-ice-cream-mango-sorbet-bars",
+  "name": "DCA Clarabelle's Hand-Scooped Ice Cream Dairy-Free Mango Sorbet or Custom Ice Cream Bar (Lactase)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Clarabelle's Hand-Scooped Ice Cream (Buena Vista Street · Disney California Adventure)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sweet",
+    "dairy-free",
+    "gluten-free-option",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "clarabelles ice cream dca",
+    "buena vista street ice cream",
+    "dairy free ice cream dca"
+  ],
+  "whyItWorks": "Clarabelle's carries plant-based/dairy-free frozen options (and mango sorbet cups) with zero lactose, or you can use lactase enzymes to enjoy a hand-dipped Vanilla bar with milk chocolate coating (no nuts/popping candy).",
+  "prepOrOrderInstructions": "Ask for the Plant-Based Vanilla/Chocolate scoop or Mango Sorbet cup (verify no lemon juice if citrus-sensitive); if ordering a hand-dipped bar with lactase, choose plain chocolate dip with no nuts or whole raspberries.",
+  "watchOuts": [
+    "Avoid mixed-berry toppings with raspberry/blackberry seeds and nut coatings"
+  ]
+}

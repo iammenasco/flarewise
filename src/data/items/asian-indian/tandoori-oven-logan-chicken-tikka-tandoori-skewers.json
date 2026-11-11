@@ -1,0 +1,43 @@
+{
+  "id": "tandoori-oven-logan-chicken-tikka-tandoori-skewers",
+  "name": "Tandoori Oven (Logan, UT) Tandoori Chicken Tikka Skewers (Dairy-Free / Mild)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "indian",
+    "chicken",
+    "tandoori",
+    "high-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "tandoori chicken skewers logan",
+    "tandoori oven chicken tikka",
+    "indian restaurant logan"
+  ],
+  "whyItWorks": "Clay oven roasting seals in moisture while letting excess fat drip away. Lean chicken breast with aromatic spices like turmeric is extraordinarily digestible and gut-friendly.",
+  "prepOrOrderInstructions": "Order Chicken Tikka skewers with plain basmati rice; request no spicy mint chutney and no raw onion rings.",
+  "watchOuts": [
+    "None when eaten with plain rice and no spicy chutney"
+  ]
+}

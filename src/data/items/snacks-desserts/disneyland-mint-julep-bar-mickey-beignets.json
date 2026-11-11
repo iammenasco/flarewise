@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-mint-julep-bar-mickey-beignets",
+  "name": "Disneyland Mint Julep Bar Warm Mickey-Shaped Powdered Sugar Beignets",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mint Julep Bar & Tiana's Palace (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "fried",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "mickey beignets disneyland",
+    "mint julep bar beignets",
+    "tianas palace beignets"
+  ],
+  "whyItWorks": "Airy, hollow choux-style yeast pastry pillows dusted with powdered sugar have almost zero weight or fiber per beignet—making a single warm Mickey beignet a surprisingly light remission treat.",
+  "prepOrOrderInstructions": "Share a 3-pack of classic Powdered Sugar Mickey Beignets while warm (avoid citrus/lemon or berry-seed seasonal dipping sauces and skip the lime-heavy Mint Julep drink!).",
+  "watchOuts": [
+    "CRITICAL CITRUS WARNING: Do NOT order the New Orleans Mint Julep drink (made with pure limeade & lemon juice); stick to classic powdered-sugar beignets with water"
+  ]
+}

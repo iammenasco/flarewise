@@ -1,0 +1,40 @@
+{
+  "id": "firehouse-pizzeria-logan-garlic-cheese-breadsticks",
+  "name": "Firehouse Pizzeria (Logan, UT) Stone-Baked Mozzarella Breadsticks with Marinara",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Firehouse Pizzeria (Logan, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "breadsticks",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "firehouse pizzeria logan",
+    "firehouse breadsticks",
+    "stone baked pizza logan"
+  ],
+  "whyItWorks": "Stone-hearth baked dough brushed with light butter and melted whole-milk mozzarella. Served with smooth, mild marinara dipping sauce on the side.",
+  "prepOrOrderInstructions": "Order Mozzarella Breadsticks with light garlic and mild marinara for dipping.",
+  "watchOuts": [
+    "Request light garlic butter"
+  ]
+}

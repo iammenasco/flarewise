@@ -1,0 +1,41 @@
+{
+  "id": "let-the-magic-begin-pan-seared-halibut",
+  "name": "Pan-Seared Halibut with Shredded Potato Cake & White Wine Cream (Let the Magic Begin)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "pan seared halibut",
+    "let the magic begin halibut",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Thick, flaky white halibut and potato cake provide lean protein and digestible starch.",
+  "prepOrOrderInstructions": "Order the white wine-chive cream sauce on the side and skip the smashed green peas if sensitive to GOS FODMAPs.",
+  "watchOuts": [
+    "Smashed green peas (GOS FODMAPs)",
+    "Dairy cream sauce"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "plaza-de-coco-celeriac-guacamole",
+  "name": "Celeriac & Herb Guacamole with Blue Corn Tortilla Chips (Night 2)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "avocado",
+    "corn",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "celeriac guacamole",
+    "blue corn chips",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Prepared with lime juice, diced onions, celeriac polyols, and fried blue corn tortilla chips.",
+  "prepOrOrderInstructions": "Skip this starter due to the lime juice (citrus guardrail) and sharp fried tortilla chips.",
+  "watchOuts": [
+    "Fresh lime juice in guacamole (strict avoid)",
+    "Sharp fried corn tortilla chips",
+    "Polyols in avocado + celeriac"
+  ]
+}

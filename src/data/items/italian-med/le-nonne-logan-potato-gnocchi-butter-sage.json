@@ -1,0 +1,39 @@
+{
+  "id": "le-nonne-logan-potato-gnocchi-butter-sage",
+  "name": "Le Nonne (Logan, UT) Handcrafted Potato Gnocchi in Butter & Parmigiano",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Le Nonne (Logan, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "pasta",
+    "gnocchi",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "le nonne logan",
+    "le nonne gnocchi",
+    "italian restaurant logan utah"
+  ],
+  "whyItWorks": "Logan's fine dining Italian gem! Pillowy handcrafted potato dumplings gently simmered and tossed in browned butter and aged Parmigiano Reggiano. Aged parmesan is naturally lactose-free.",
+  "prepOrOrderInstructions": "Order the Potato Gnocchi with butter and parmesan cheese (hold rich gorgonzola or heavy garlic sauces).",
+  "watchOuts": [
+    "None; pillow-soft low-residue pasta"
+  ]
+}

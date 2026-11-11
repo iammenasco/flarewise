@@ -1,0 +1,44 @@
+{
+  "id": "palo-dinner-ciuppin-seafood-soup",
+  "name": "Palo Dinner Ciuppin Ligurian Seafood Stew (Mussels, Shrimp, Snapper & Monkfish)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "seafood",
+    "shrimp",
+    "fish",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "ciuppin soup",
+    "cioppino",
+    "palo seafood soup",
+    "palo dinner"
+  ],
+  "whyItWorks": "Poached red snapper, monkfish, and shrimp in a strained white-wine tomato broth are dairy-free, citrus-free, and high-protein.",
+  "prepOrOrderInstructions": "Eat the tender poached fish, shrimp, and mussels; skip if garlic/tomato broth triggers reflux or FODMAP symptoms.",
+  "watchOuts": [
+    "Garlic and tomato acidity in the Ligurian broth"
+  ]
+}

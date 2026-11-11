@@ -1,0 +1,41 @@
+{
+  "id": "dcl-sit-down-lunch-beef-empanadas",
+  "name": "Sit-Down Lunch Crispy Beef Empanadas with Red Chimichurri",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "fried",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "beef empanadas",
+    "sit down lunch",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Savory ground beef filling inside pastry, though the fried shell and garlic-chili red chimichurri require remission tolerance.",
+  "prepOrOrderInstructions": "Skip the red chimichurri sauce entirely and eat only the center beef filling if flaring.",
+  "watchOuts": [
+    "Fried pastry oil",
+    "Garlic and chili flakes in red chimichurri"
+  ]
+}

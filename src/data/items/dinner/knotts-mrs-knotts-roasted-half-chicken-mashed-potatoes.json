@@ -1,0 +1,39 @@
+{
+  "id": "knotts-mrs-knotts-roasted-half-chicken-mashed-potatoes",
+  "name": "Mrs. Knott's Chicken Dinner Restaurant Country-Roasted Half Chicken & Mashed Potatoes (Non-Fried Option!)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (California Marketplace · Knott's Berry Farm)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "soup",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "mrs knotts chicken dinner",
+    "knotts berry farm roasted chicken",
+    "flare safe knotts berry farm"
+  ],
+  "whyItWorks": "Most visitors don't realize Mrs. Knott's lets you order their complete Full Chicken Dinner with **Oven-Roasted Half Chicken** instead of fried chicken—giving you tender, non-fried poultry, homemade chicken noodle soup, mashed potatoes, and warm buttermilk biscuits!",
+  "prepOrOrderInstructions": "Order the **Country-Roasted Chicken Dinner** (instead of fried), choose **Chicken Noodle Soup** (skip the rhubarb starter and raw cabbage slaw), ask for gravy on the side, and swap the seeded boysenberry pie slice for vanilla ice cream or boysenberry sherbet (if strained).",
+  "watchOuts": [
+    "Take a lactase enzyme for the mashed potatoes and biscuits, and remove the seasoned chicken skin if sensitive"
+  ]
+}

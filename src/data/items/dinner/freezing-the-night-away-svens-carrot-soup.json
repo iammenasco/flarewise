@@ -1,0 +1,40 @@
+{
+  "id": "freezing-the-night-away-svens-carrot-soup",
+  "name": "Sven's Creamy Carrot Soup (Disney Wonder Alaska / Frozen Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Freezing the Night Away Menu (Alaska Sailings)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "carrots",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "svens carrot soup",
+    "freezing the night away soup",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Velvety blended cooked carrot soup rich in soluble pectin fiber—soothing and 100% citrus-free.",
+  "prepOrOrderInstructions": "Ask to hold any whole caraway seeds on top and pair with a Lactaid pill.",
+  "watchOuts": [
+    "Whole caraway seed garnish if not held",
+    "Dairy cream base"
+  ]
+}

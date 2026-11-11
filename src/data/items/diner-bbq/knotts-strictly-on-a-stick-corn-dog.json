@@ -1,0 +1,39 @@
+{
+  "id": "knotts-strictly-on-a-stick-corn-dog",
+  "name": "Knott's Strictly-on-a-Stick Hand-Dipped Corn Dog or Mozzarella/Cheddar Cheese on a Stick",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Strictly-on-a-Stick (Ghost Town / Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "cheese",
+    "fried",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "strictly on a stick knotts",
+    "corn dog knotts berry farm"
+  ],
+  "whyItWorks": "Classic hand-dipped corn dog with smooth cornmeal-wheat batter and fries—easy to share in remission.",
+  "prepOrOrderInstructions": "Order the Classic Corn Dog, blot excess oil with a napkin, and peel off thick batter ends if needed.",
+  "watchOuts": [
+    "Deep-fried batter—stick to roasted chicken at Fireman's BBQ or Boardwalk BBQ during flares"
+  ]
+}

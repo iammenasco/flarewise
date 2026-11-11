@@ -1,0 +1,40 @@
+{
+  "id": "animators-garlic-herb-focaccia",
+  "name": "Garlic & Herb Focaccia with Roasted Garlic Dip (Night 1 Bread Service)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "olive-oil",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "garlic herb focaccia",
+    "animators palate bread",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Soft olive-oil white focaccia bread is seed-free and easy to chew; the accompanying roasted garlic dip is the main FODMAP item.",
+  "prepOrOrderInstructions": "Choose the plain white rolls in the basket or brush off rosemary needles from the focaccia, and skip the concentrated roasted garlic dip.",
+  "watchOuts": [
+    "Concentrated garlic fructans in the dip",
+    "Woody rosemary needles on focaccia crust"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "angies-restaurant-logan-open-face-hot-turkey-sandwich",
+  "name": "Angie's Restaurant (Logan, UT) Open-Face Roast Turkey Sandwich & Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "turkey",
+    "mashed-potatoes",
+    "comfort-food",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "angies hot turkey sandwich",
+    "angies open face turkey",
+    "cache valley comfort food"
+  ],
+  "whyItWorks": "One of the most restorative comfort meals in Logan! Lean roast turkey breast, soft bread, smooth mashed potatoes, and mild gravy require minimal digestive effort.",
+  "prepOrOrderInstructions": "Order the Hot Turkey Sandwich with mashed potatoes and gravy; request no cranberry sauce if avoiding fruit seeds.",
+  "watchOuts": [
+    "None; premier flare-safe comfort dinner"
+  ]
+}

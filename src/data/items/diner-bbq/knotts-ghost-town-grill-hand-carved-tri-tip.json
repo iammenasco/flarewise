@@ -1,0 +1,40 @@
+{
+  "id": "knotts-ghost-town-grill-hand-carved-tri-tip",
+  "name": "Knott's Ghost Town Grill Hand-Carved Tri-Tip Steak Sandwich on Garlic Roll",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Ghost Town Grill (Knott's Berry Farm)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "beef",
+    "tri-tip",
+    "sandwich",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "ghost town grill tri tip",
+    "tri tip sandwich knotts",
+    "hand carved steak sandwich knotts"
+  ],
+  "whyItWorks": "Thinly carved Santa Maria style grilled tri-tip steak on a soft toasted roll with mild barbecue sauce. Rich in bioavailable iron and protein.",
+  "prepOrOrderInstructions": "Order the Tri-Tip Sandwich with light BBQ sauce; request roll toasted with light butter (hold raw onions).",
+  "watchOuts": [
+    "Hold raw onions"
+  ]
+}

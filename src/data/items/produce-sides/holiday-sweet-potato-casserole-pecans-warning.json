@@ -1,0 +1,41 @@
+{
+  "id": "holiday-sweet-potato-casserole-pecans-warning",
+  "name": "Holiday Sweet Potato Casserole with Marshmallows & Pecans (Nut Stricture Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 5.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "sweet-potato",
+    "pecans",
+    "nuts",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "sweet potato casserole pecans",
+    "thanksgiving sweet potato marshmallow",
+    "holiday sweet potatoes"
+  ],
+  "whyItWorks": "The whipped sweet potato base is soothing, but holiday casseroles are heavily topped with crunchy whole or chopped pecans which present a dangerous obstruction risk for stricturing Crohn's.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid nut-topped versions if stricture-prone. Scoop sweet potato strictly from the bottom center where no pecans have settled.",
+  "watchOuts": [
+    "Hard pecan nut fragments can lodge in bowel strictures"
+  ]
+}

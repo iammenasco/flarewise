@@ -1,0 +1,42 @@
+{
+  "id": "aubergine-kitchen-herriman-draper-lehi-salmon-rice-bowl",
+  "name": "Aubergine Kitchen (Mountain View Village Herriman / Lehi) Grilled Salmon or Chicken Bowl on White/Brown Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Aubergine Kitchen (Mountain View Village / Riverton-Herriman & Lehi, UT)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "chicken",
+    "rice",
+    "sweet-potato",
+    "avocado",
+    "high-protein",
+    "dairy-free",
+    "utah"
+  ],
+  "searchKeywords": [
+    "aubergine kitchen mountain view village",
+    "aubergine herriman riverton",
+    "healthy bowl south jordan lehi"
+  ],
+  "whyItWorks": "Aubergine Kitchen cooks 100% seed-oil-free (using only extra-virgin olive oil and avocado oil) with zero refined sugars; a build-your-own bowl with roasted salmon or grilled chicken, sweet potatoes, avocado, and rice is clean and anti-inflammatory.",
+  "prepOrOrderInstructions": "Build a warm bowl with Grilled Salmon or Free-Range Chicken, roasted sweet potatoes, avocado, and rice—skip raw kale, raw red onions, and lemon-tahini dressing (use plain olive oil and sea salt).",
+  "watchOuts": [
+    "Many house dressings contain lemon juice (citrus trigger)—dress with plain extra-virgin olive oil instead; skip raw kale and chickpea salads"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "knotts-prop-shop-pizzeria-breadsticks-mozzarella-moons",
+  "name": "Knott's Prop Shop Pizzeria Warm Breadsticks or Mozzarella Moons (Skip Marinara Dip)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Prop Shop Pizzeria (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "cheese",
+    "snack",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "prop shop pizzeria breadsticks knotts",
+    "mozzarella moons knotts"
+  ],
+  "whyItWorks": "Soft baked white-dough breadsticks provide quick carbs with zero roughage when you skip the acidic red marinara dipping cup.",
+  "prepOrOrderInstructions": "Eat the warm breadsticks plain (wipe off excess garlic-herb butter if sensitive) and skip the marinara cup.",
+  "watchOuts": [
+    "Mozzarella Moons are breaded and fried—take lactase and save for remission"
+  ]
+}

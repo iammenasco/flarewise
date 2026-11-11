@@ -1,0 +1,40 @@
+{
+  "id": "dca-lucky-fortune-cookery-teriyaki-chicken-white-rice",
+  "name": "DCA Lucky Fortune Cookery Teriyaki Chicken & Steamed White Rice Bowl",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Lucky Fortune Cookery (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rice",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lucky fortune cookery teriyaki chicken",
+    "dca rice bowl",
+    "san fransokyo teriyaki chicken"
+  ],
+  "whyItWorks": "Grilled chicken thigh/breast glazed in sweet soy teriyaki over a generous bed of steamed white jasmine rice with soft cooked carrots is 100% dairy-free, non-fried, and one of DCA's safest hot meals.",
+  "prepOrOrderInstructions": "Mobile-order the Teriyaki Chicken (adult or kids' portion) with steamed white rice and push aside any fibrous snap peas or cabbage.",
+  "watchOuts": [
+    "Skip the Karaage-inspired crispy fried chicken sandwich (spicy slaw) and spicy Birria ramen when flaring"
+  ]
+}

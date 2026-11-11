@@ -1,0 +1,39 @@
+{
+  "id": "tianas-bananas-foster-sundae",
+  "name": "New Orleans Bananas Foster Sundae",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "ice-cream",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "bananas foster sundae",
+    "tianas place sundae",
+    "disney wonder"
+  ],
+  "whyItWorks": "Warm caramelized bananas in rum-butterscotch sauce over vanilla ice cream; soft cooked bananas are a classic soluble-fiber fruit.",
+  "prepOrOrderInstructions": "Ask to hold any toasted pecan or almond garnish on top and pair with a Lactaid pill for the vanilla ice cream.",
+  "watchOuts": [
+    "Liquid dairy ice cream and butter-sugar sauce",
+    "Confirm no nut garnish"
+  ]
+}

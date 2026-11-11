@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-pan-con-lechon-sandwich",
+  "name": "Porto's Bakery (Buena Park, CA) Pan con Lechón (Slow-Roasted Pork on Cuban Bread)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "pork",
+    "sandwich",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos pan con lechon",
+    "portos pulled pork",
+    "cuban sandwich portos buena park"
+  ],
+  "whyItWorks": "Slow-roasted citrus-garlic pork shoulder (mojo pulled pork) on warm, crusty Cuban bread. Shredded pork is tender and easy to break down. Hold raw mojo onions for lowest FODMAP impact.",
+  "prepOrOrderInstructions": "Order the Pan con Lechón sandwich; request to hold pickled raw mojo onions.",
+  "watchOuts": [
+    "Hold raw pickled onions to prevent allium gas"
+  ]
+}

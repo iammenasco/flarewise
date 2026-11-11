@@ -1,0 +1,47 @@
+{
+  "id": "caribbean-castaway-cay-conch-cooler",
+  "name": "Castaway Cay & Caribbean Cruise Signature \"Conch Cooler\" (Mango, Passionfruit & Coconut Smoothie)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Disney Treasure, Magic & Wonder · Castaway Cay (Conched Out Bar) & Pool Deck",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "no-microwave"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "smoothie",
+    "mango",
+    "coconut",
+    "sweet",
+    "dairy-free",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-magic",
+    "disney-wonder",
+    "castaway-cay"
+  ],
+  "searchKeywords": [
+    "conch cooler",
+    "castaway cay drink",
+    "virgin conch cooler",
+    "mango passionfruit coconut smoothie"
+  ],
+  "whyItWorks": "Castaway Cay's most famous signature drink: blended mango, passionfruit purée, and cream of coconut—100% dairy-free, seedless, and citrus-free when ordered as a zero-proof mocktail.",
+  "prepOrOrderInstructions": "Order a \"Virgin Conch Cooler\" (zero alcohol—no dark/light rum) at Castaway Cay's Conched Out Bar, Heads Up Bar, or onboard pool bars.",
+  "watchOuts": [
+    "Always order Virgin (zero alcohol) as rum triggers gut permeability",
+    "High sugar content from tropical fruit purées and cream of coconut"
+  ]
+}

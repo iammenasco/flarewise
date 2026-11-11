@@ -1,0 +1,43 @@
+{
+  "id": "holiday-leftover-turkey-bone-broth-noodle-soup",
+  "name": "Holiday Leftover Homemade Turkey Carcass Bone Broth & Egg Noodle Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Holiday Home Cooking (Thanksgiving & Christmas)",
+  "crohnsScore": 9.7,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "soup",
+    "noodles",
+    "rice",
+    "high-protein",
+    "dairy-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "leftover turkey noodle soup",
+    "thanksgiving turkey carcass soup",
+    "turkey rice soup"
+  ],
+  "whyItWorks": "Simmering the holiday turkey frame releases gut-soothing glycine, proline, and gelatin; combined with shredded turkey breast, peeled soft-boiled carrots, and tender egg noodles or white rice, it helps your gut recover after rich holiday meals.",
+  "prepOrOrderInstructions": "Strain the turkey broth through a fine mesh sieve, chill and skim off the solid yellow fat cap, then simmer with shredded turkey breast, peeled sliced carrots, and egg noodles or white rice.",
+  "watchOuts": [
+    "Skim the rendered turkey fat off the top of the broth and strain out fibrous celery strings and onion skins"
+  ]
+}

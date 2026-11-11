@@ -1,0 +1,40 @@
+{
+  "id": "herms-inn-logan-canyon-jims-steel-cut-hot-oatmeal",
+  "name": "Herm's Inn (Logan, UT) \"Jim's Hot Cereal\" Steel-Cut Oats with Banana & Brown Sugar",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan Canyon / Logan, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "breakfast",
+    "oatmeal",
+    "banana",
+    "soluble-fiber"
+  ],
+  "searchKeywords": [
+    "herms inn jims hot cereal",
+    "herms inn oatmeal",
+    "logan canyon healthy breakfast"
+  ],
+  "whyItWorks": "Warm soluble fiber (beta-glucan) from well-cooked steel-cut oats helps form stool without mechanical scratching. Banana provides easy-to-absorb potassium.",
+  "prepOrOrderInstructions": "Order Jim's Hot Cereal with sliced bananas and brown sugar (request no nuts or dried cranberries).",
+  "watchOuts": [
+    "Hold nuts and dried fruit to prevent stricture irritation"
+  ]
+}

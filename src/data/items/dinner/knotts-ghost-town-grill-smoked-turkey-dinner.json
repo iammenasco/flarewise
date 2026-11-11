@@ -1,0 +1,39 @@
+{
+  "id": "knotts-ghost-town-grill-smoked-turkey-dinner",
+  "name": "Knott's Ghost Town Grill Sliced Smoked Turkey Breast & Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Ghost Town Grill (Knott's Berry Farm)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "turkey",
+    "mashed-potatoes",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "ghost town grill turkey",
+    "smoked turkey dinner knotts",
+    "knotts turkey platter"
+  ],
+  "whyItWorks": "Thick slices of tender smoked turkey breast served with real mashed Idaho potatoes and poultry gravy. Very lean, bioavailable protein that requires minimal digestive breakdown.",
+  "prepOrOrderInstructions": "Order the Smoked Turkey Dinner with extra mashed potatoes; request gravy on top (hold cranberry relish).",
+  "watchOuts": [
+    "Hold whole cranberry relish if served"
+  ]
+}

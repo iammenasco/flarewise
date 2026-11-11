@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-bengal-bbq-safari-skewer",
+  "name": "Disneyland Bengal Barbecue Safari Skewer (Bacon-Wrapped Asparagus — Eat Tips Only Mod)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bengal Barbecue (Adventureland · Disneyland Park)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "gluten-free-option",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "safari skewer disneyland",
+    "bacon wrapped asparagus bengal bbq"
+  ],
+  "whyItWorks": "A cult-favorite Disneyland snack that is gluten-free and dairy-free, though smoky bacon fat and fibrous lower asparagus stalks mean you should only eat the tender top tips in remission.",
+  "prepOrOrderInstructions": "Bite off the soft upper asparagus tips with the bacon and discard any woody, stringy lower asparagus stems.",
+  "watchOuts": [
+    "Woody lower asparagus stalks are high in insoluble fiber; stick to Chicken or Beef skewers during active flares"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "disneyland-anaheim-pf-changs-cheesecake-factory-gardenwalk-white-rice-salmon-chicken",
+  "name": "Anaheim GardenWalk (Near Disneyland) P.F. Chang's Steamed Chicken/Shrimp Dumplings, Wonton Soup & White Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "P.F. Chang's & Cheesecake Factory (Anaheim GardenWalk · 1 Block East of Disneyland)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "shrimp",
+    "salmon",
+    "rice",
+    "soup",
+    "gluten-free-option",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "anaheim gardenwalk restaurants",
+    "pf changs anaheim disneyland",
+    "cheesecake factory anaheim disneyland"
+  ],
+  "whyItWorks": "One block from Disneyland at Anaheim GardenWalk, P.F. Chang's prepares Steamed Shrimp/Pork Dumplings, Wonton Soup, and Gluten-Free/Mild Ginger Chicken or Salmon with steamed white rice (and Cheesecake Factory next door has a huge SkinnyLicious Grilled Salmon/Chicken & White Rice menu).",
+  "prepOrOrderInstructions": "At P.F. Chang's, ask for Steamed Dumplings (no chili sauce), Wonton Soup, or Grilled/Steamed Chicken Breast & White Rice with sauce on the side.",
+  "watchOuts": [
+    "Skip Chang's Spicy Chicken, Orange Peel Chicken (citrus!), and crispy green beans"
+  ]
+}

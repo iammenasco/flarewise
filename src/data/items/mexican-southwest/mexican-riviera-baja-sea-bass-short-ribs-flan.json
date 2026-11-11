@@ -1,0 +1,44 @@
+{
+  "id": "mexican-riviera-baja-sea-bass-short-ribs-flan",
+  "name": "Disney Wonder Mexican Riviera Regional Specials: Baja Sea Bass, Braised Short Ribs & Kahlúa Flan",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Wonder · Mexican Riviera / Baja Sailings",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "fish",
+    "beef",
+    "rice",
+    "egg",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "mexican-riviera"
+  ],
+  "searchKeywords": [
+    "mexican riviera menu",
+    "baja sea bass",
+    "braised beef short ribs",
+    "kahlua flan",
+    "disney wonder san diego"
+  ],
+  "whyItWorks": "On San Diego / Baja itineraries, pan-seared Baja white sea bass, slow-braised beef short ribs (without chili mole), and silky Kahlúa/caramel flan are top low-residue choices.",
+  "prepOrOrderInstructions": "Order the Baja Sea Bass or Mahi-Mahi pan-seared plain with olive oil and salt (hold citrus-mojo marinade and salsa) over white rice, and finish with Caramel/Kahlúa Flan or Tres Leches.",
+  "watchOuts": [
+    "Citrus-mojo marinades and chipotle salsa on standard Mexican Riviera fish/pork (always order plain/sauce on side)"
+  ]
+}

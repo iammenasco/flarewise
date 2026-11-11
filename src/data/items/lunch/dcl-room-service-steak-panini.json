@@ -1,0 +1,46 @@
+{
+  "id": "dcl-room-service-steak-panini",
+  "name": "24-Hour Room Service Grilled Sirloin Steak & Provolone Panini",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "sandwich",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "steak panini",
+    "room service steak panini",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Warm pressed ciabatta panini with sliced sirloin steak and aged provolone cheese (~0g lactose).",
+  "prepOrOrderInstructions": "Open the panini and scrape out any caramelized onions or bell peppers if sensitive to FODMAPs.",
+  "watchOuts": [
+    "Caramelized onions inside panini if not removed"
+  ]
+}

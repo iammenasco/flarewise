@@ -1,0 +1,41 @@
+{
+  "id": "sams-club-cafe-rotisserie-chicken",
+  "name": "Sam's Club (Logan & Riverdale, UT) Member's Mark Fresh Rotisserie Chicken",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Sam's Club (Utah Locations)",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "grocery",
+    "utah",
+    "chicken",
+    "high-protein",
+    "rotisserie",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sams club chicken",
+    "members mark rotisserie chicken",
+    "sams club logan"
+  ],
+  "whyItWorks": "Pure whole rotisserie-roasted chicken. The white breast meat is tender, moist, and free of tough fibers or seeds when the seasoned skin is removed.",
+  "prepOrOrderInstructions": "Remove and discard seasoned outer skin; shred tender chicken breast over steamed white rice.",
+  "watchOuts": [
+    "Discard seasoned skin during flares"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "coopers-bear-lake-west-classic-two-egg-breakfast",
+  "name": "Cooper's Restaurant (Fish Haven, ID) Bear Lake West Classic Two-Egg Breakfast",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Fish Haven / Bear Lake West, ID)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "fish-haven",
+    "bear-lake",
+    "breakfast",
+    "eggs",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "coopers breakfast",
+    "bear lake west breakfast",
+    "fish haven eggs hash browns"
+  ],
+  "whyItWorks": "A tranquil golf-course morning overlooking Bear Lake with pure, bioavailable protein. Soft scrambled or poached eggs and shredded potato hash browns are zero-roughage.",
+  "prepOrOrderInstructions": "Order two scrambled eggs, lean ham or bacon, well-cooked hash browns, and white or sourdough toast with butter.",
+  "watchOuts": [
+    "None; gentle low-residue breakfast"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dca-cozy-cone-motel-soft-serve-churro",
+  "name": "DCA Cozy Cone Motel Vanilla Soft-Serve Ice Cream Cup or Plain Cinnamon Churro",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Cozy Cone Motel (Cars Land · Disney California Adventure)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "sweet",
+    "dessert",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "cozy cone soft serve",
+    "cars land churro",
+    "cozy cone ice cream"
+  ],
+  "whyItWorks": "Smooth vanilla/chocolate twist soft-serve in a cup or cake cone has zero nuts, zero seeds, and zero fiber when paired with a lactase enzyme.",
+  "prepOrOrderInstructions": "Order a plain Vanilla or Twist Soft-Serve in a cup with lactase, or a classic Cinnamon Churro without heavy chocolate/peanut-butter sauce.",
+  "watchOuts": [
+    "Requires lactase enzymes for the soft-serve ice cream; skip the Red's Apple Freeze if avoiding high-fructose slushies"
+  ]
+}

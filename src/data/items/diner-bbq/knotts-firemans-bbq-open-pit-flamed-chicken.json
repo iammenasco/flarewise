@@ -1,0 +1,40 @@
+{
+  "id": "knotts-firemans-bbq-open-pit-flamed-chicken",
+  "name": "Knott's Fireman's BBQ Open-Pit Flamed Half Chicken & Baked Potato",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Fireman's BBQ (Knott's Berry Farm)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "chicken",
+    "bbq",
+    "potatoes",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "firemans bbq chicken",
+    "knotts open pit chicken",
+    "ghost town bbq knotts"
+  ],
+  "whyItWorks": "Roasted over giant open-air wood pits right in Ghost Town. Half chicken seasoned with mild herbs, paired with an Idaho baked potato. Unbreaded, lean, and high in protein.",
+  "prepOrOrderInstructions": "Order the Flamed Half Chicken with a plain baked potato (eat the soft inside flesh with butter, skip potato skin).",
+  "watchOuts": [
+    "Discard tough outer potato skin"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-downtown-disney-paseo-centrico-pollo-rostizado-rice",
+  "name": "Downtown Disney Paseo & Céntrico Roasted Chicken (Pollo) or Carne Asada with Rice & Tortillas (Plain Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Paseo & Céntrico (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "paseo downtown disney",
+    "centrico downtown disney",
+    "mexican restaurant downtown disney"
+  ],
+  "whyItWorks": "Chef Carlos Gaytán's kitchens at Paseo and Céntrico will prepare plain wood-grilled chicken breast or filet steak with white rice and warm tortillas upon request.",
+  "prepOrOrderInstructions": "Ask your server for plain grilled chicken or steak with steamed rice and warm tortillas—hold all chili moles, raw onions, and lime juice.",
+  "watchOuts": [
+    "Avoid complex moles (contain nuts, seeds, chilies, and spices) and citrus aguachile/ceviche"
+  ]
+}

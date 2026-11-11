@@ -1,0 +1,37 @@
+{
+  "id": "takara-sushi-logan-spicy-crunch-salmon-warning",
+  "name": "Spicy Crunch Salmon Roll (Spicy/Seed Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "sushi",
+    "specialty-roll",
+    "spicy"
+  ],
+  "searchKeywords": [
+    "takara sushi",
+    "spicy crunch salmon",
+    "tempura roll",
+    "logan utah"
+  ],
+  "whyItWorks": "Minced raw salmon tossed in chili oil and sriracha mayo, rolled with toasted sesame seeds and topped with deep-fried tempura flakes. The capsaicin irritates ulcerations while fried tempura flakes act as abrasive roughage.",
+  "prepOrOrderInstructions": "Spicy & Fried Warning: Avoid during active flare-ups. Order a simple salmon avocado roll or salmon nigiri instead."
+}

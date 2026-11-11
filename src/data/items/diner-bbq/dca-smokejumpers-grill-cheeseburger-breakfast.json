@@ -1,0 +1,43 @@
+{
+  "id": "dca-smokejumpers-grill-cheeseburger-breakfast",
+  "name": "DCA Smokejumpers Grill (Grizzly Peak) Plain Angus Cheeseburger, Chicken Tenders or Breakfast Sandwich",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Smokejumpers Grill (Grizzly Peak · Disney California Adventure)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "eggs",
+    "burger",
+    "cheese",
+    "gluten-free-option",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "smokejumpers grill dca",
+    "grizzly peak burger",
+    "smokejumpers breakfast sandwich"
+  ],
+  "whyItWorks": "Right next to Soarin', Smokejumpers serves plain Angus cheeseburgers on toasted brioche (or allergy-friendly gluten-free buns), waffle/crinkle fries, and a morning Egg-Bacon-Cheddar Brioche Breakfast Sandwich.",
+  "prepOrOrderInstructions": "For breakfast, order the Classic Breakfast Sandwich with **NO green chile sauce**; for lunch/dinner, order a plain Cheeseburger with cheddar only (skip the Spicy Buffalo Chicken and Jalapeño Bacon burgers).",
+  "watchOuts": [
+    "Morning breakfast sandwich comes with green chile sauce by default—always toggle \"No Green Chile\" in Mobile Order!"
+  ]
+}

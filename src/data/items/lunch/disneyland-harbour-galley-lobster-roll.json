@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-harbour-galley-lobster-roll",
+  "name": "Fisherman's Style Chilled Lobster Roll on Butter Bun",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Harbour Galley (Disneyland)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "lobster-roll",
+    "seafood",
+    "critter-country"
+  ],
+  "searchKeywords": [
+    "harbour galley",
+    "disneyland",
+    "lobster roll",
+    "seafood roll",
+    "critter country"
+  ],
+  "whyItWorks": "Sweet, tender Atlantic lobster claw and knuckle meat tossed in light mayonnaise and served in a soft toasted split-top brioche roll. Pure shellfish protein with low roughage.",
+  "prepOrOrderInstructions": "Ask for light mayonnaise and skip side kettle chips, choosing a soft banana or water instead."
+}

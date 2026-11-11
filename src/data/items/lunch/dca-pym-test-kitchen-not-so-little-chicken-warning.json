@@ -1,0 +1,37 @@
+{
+  "id": "dca-pym-test-kitchen-not-so-little-chicken-warning",
+  "name": "The Not So Little Chicken Sandwich (High Fat/Grease Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Pym Test Kitchen (Disney California Adventure)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "chicken-sandwich",
+    "avengers-campus",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "pym test kitchen",
+    "dca",
+    "not so little chicken sandwich",
+    "avengers campus"
+  ],
+  "whyItWorks": "An oversized fried chicken schnitzel deep-fried in oil, topped with pickled cabbage slaw and teriyaki chili sauce on a tiny miniature brioche bun. The high grease and raw pickled cabbage can provoke intense gut spasms.",
+  "prepOrOrderInstructions": "Fried & Slaw Warning: Avoid during flares. If ordering in remission, peel away the thick fried coating and discard the cabbage slaw."
+}

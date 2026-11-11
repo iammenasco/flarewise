@@ -1,0 +1,37 @@
+{
+  "id": "dans-drive-in-montpelier-butterscotch-shake-warning",
+  "name": "Thick Butterscotch Milkshake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "bear-lake",
+    "montpelier",
+    "shake",
+    "ice-cream"
+  ],
+  "searchKeywords": [
+    "dans drive in",
+    "butterscotch shake",
+    "milkshake",
+    "bear lake idaho"
+  ],
+  "whyItWorks": "Blended with whole milk, heavy soft-serve ice cream, and butterscotch syrup, this thick shake packs over 25g of lactose and high refined sugar, which triggers rapid osmotic diarrhea, bloating, and painful gas in sensitive bowels.",
+  "prepOrOrderInstructions": "Lactose & Sugar Warning: Best avoided or split with companions if in solid remission with lactase enzyme support."
+}

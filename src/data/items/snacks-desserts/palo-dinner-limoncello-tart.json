@@ -1,0 +1,40 @@
+{
+  "id": "palo-dinner-limoncello-tart",
+  "name": "Palo Limoncello Tart with Citrus Caramel (Hard Citrus Avoid)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse",
+  "crohnsScore": 2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "sweet",
+    "bakery",
+    "nuts",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo limoncello tart",
+    "limoncello torte",
+    "palo lemon dessert"
+  ],
+  "whyItWorks": "Hard avoid under the strict citrus guardrail: made with Sorrento lemon curd, Limoncello liqueur infused from lemon peels, and citrus caramel.",
+  "prepOrOrderInstructions": "Never order the Limoncello Tart (or the lemon Sgroppino palate cleanser); choose the Chocolate Soufflé, Amaretto Soufflé, or Vanilla Panna Cotta instead.",
+  "watchOuts": [
+    "Concentrated lemon peel oil in Limoncello and lemon curd (strict citrus trigger)"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pirate-night-barbossas-pot-stickers",
+  "name": "Barbossa's Deep-Fried Vegetable / Pork Pot Stickers (Pirate Night)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dumpling",
+    "pork",
+    "fried",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "barbossas pot stickers",
+    "pirate night pot stickers",
+    "dumplings",
+    "disney cruise"
+  ],
+  "whyItWorks": "Refined wheat dumpling wrappers with finely minced filling, though the Pirate Night version is deep-fried rather than steamed.",
+  "prepOrOrderInstructions": "Enjoy in remission with plain soy sauce (compare with Worlds of Marvel's steamed gyoza, which are gentler during flares).",
+  "watchOuts": [
+    "Deep-fried wrapper oil",
+    "Cabbage/garlic aromatics in dumpling filling"
+  ]
+}

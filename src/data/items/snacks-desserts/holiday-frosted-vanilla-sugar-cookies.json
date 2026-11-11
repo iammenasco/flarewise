@@ -1,0 +1,38 @@
+{
+  "id": "holiday-frosted-vanilla-sugar-cookies",
+  "name": "Holiday Soft Frosted Vanilla Sugar Cookies (Christmas Trees & Stars)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Traditional Holiday Feast (Christmas)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "christmas",
+    "cookies",
+    "dessert",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "christmas sugar cookies",
+    "frosted holiday cookies",
+    "vanilla cutout cookies"
+  ],
+  "whyItWorks": "Soft, pillowy butter sugar cookie cutouts frosted with smooth royal icing. Completely seed-free, nut-free, and easy to chew during holiday gatherings.",
+  "prepOrOrderInstructions": "Enjoy 1-2 soft frosted cookies with a warm cup of herbal tea.",
+  "watchOuts": [
+    "None; gentle holiday sweet treat"
+  ]
+}

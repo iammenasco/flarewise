@@ -1,0 +1,45 @@
+{
+  "id": "dcl-room-service-plant-based-chicken-sandwich",
+  "name": "24-Hour Room Service Crisp Plant-Based Chicken Sandwich with Sweet Potato Fries",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "sweet-potato",
+    "vegan",
+    "dairy-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "plant based chicken sandwich",
+    "sweet potato fries",
+    "room service vegan",
+    "disney cruise"
+  ],
+  "whyItWorks": "Dairy-free plant-based chicken patty on a soft toasted bun, though garlic aioli and fried coating require remission tolerance.",
+  "prepOrOrderInstructions": "Ask for no garlic aioli, remove raw Vidalia onions and lettuce, and blot excess oil from the sweet potato fries.",
+  "watchOuts": [
+    "Plant-based garlic aioli (fructans)",
+    "Raw onion and lettuce toppings"
+  ]
+}

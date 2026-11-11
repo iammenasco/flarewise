@@ -1,0 +1,42 @@
+{
+  "id": "viva-chicken-herriman-st-george-rotisserie-chicken-white-rice",
+  "name": "Viva Chicken (Herriman / Mountain View Corridor) Peruvian Rotisserie Chicken & White Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Viva Chicken (Herriman / South Jordan, UT)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rice",
+    "soup",
+    "high-protein",
+    "dairy-free",
+    "gluten-free-option",
+    "utah"
+  ],
+  "searchKeywords": [
+    "viva chicken herriman",
+    "peruvian chicken herriman utah",
+    "viva chicken aguadito soup"
+  ],
+  "whyItWorks": "Right near Holiday Inn Express Herriman, Viva Chicken slow-roasts tender Peruvian rotisserie chicken over charcoal; pairing a quarter white-meat chicken (skin removed) with cilantro-free white rice and warm chicken tortilla-free soup or ripe sweet fried plantains (maduros) is delicious and flare-friendly.",
+  "prepOrOrderInstructions": "Order the Quarter White Meat Rotisserie Chicken (remove the spiced skin if sensitive) with steamed white rice and sweet plantains (maduros)—skip the spicy Huacatay/Rocoto chili sauces and lime juice.",
+  "watchOuts": [
+    "Skip all three Peruvian dipping sauces (Yellow Aji, Green Huacatay, and Red Rocoto—all contain chili peppers and/or lime juice)"
+  ]
+}

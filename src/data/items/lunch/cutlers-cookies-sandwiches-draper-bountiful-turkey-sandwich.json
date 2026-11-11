@@ -1,0 +1,40 @@
+{
+  "id": "cutlers-cookies-sandwiches-draper-bountiful-turkey-sandwich",
+  "name": "Cutler's Cookies & Sandwiches (Draper / Salt Lake Area) Hot Roasted Turkey & Swiss on Soft White Bread",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cutler's Cookies & Sandwiches (Salt Lake / Draper Area, UT)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "cheese",
+    "sandwich",
+    "soup",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cutlers sandwiches utah",
+    "cutlers cookies",
+    "roasted turkey sandwich salt lake draper"
+  ],
+  "whyItWorks": "Thick-sliced bakery white bread piled with real slow-roasted turkey breast and aged Swiss cheese alongside a cup of chicken noodle soup makes a gentle, home-cooked lunch.",
+  "prepOrOrderInstructions": "Order the Roasted Turkey Breast Sandwich on homemade white bread with Swiss cheese and light mayo (no lettuce or tomato); if grabbing a famous frosted cookie, share half a plain Sugar or Snickerdoodle cookie.",
+  "watchOuts": [
+    "Skip broccoli cheese soup unless taking lactase, and avoid multi-grain seeded breads"
+  ]
+}

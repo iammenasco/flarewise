@@ -1,0 +1,39 @@
+{
+  "id": "dca-carthay-circle-filet-fish-parker-house-rolls",
+  "name": "DCA Carthay Circle Restaurant Sustainable Fish or Filet Mignon & Warm Cheddar Parker House Rolls",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Carthay Circle Restaurant (Buena Vista Street · Disney California Adventure)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "fish",
+    "potato",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "carthay circle dca",
+    "buena vista street dining",
+    "carthay circle fish filet"
+  ],
+  "whyItWorks": "As DCA's signature fine-dining kitchen, the chefs at Carthay Circle will prepare any sustainable fish fillet, chicken breast, or beef tenderloin completely plain with olive oil and potato puree—plus their famous Warm Cheddar Parker House Rolls.",
+  "prepOrOrderInstructions": "Tell your server about your citrus and spice guardrails: request the Sustainable Fish or Filet Mignon prepared simply with olive oil, salt, and potato puree, and ask for the Warm Cheddar Parker House Rolls without the spicy calabrian chili/apricot butter.",
+  "watchOuts": [
+    "Eat the warm Parker House Rolls plain without the spicy chili butter spread"
+  ]
+}

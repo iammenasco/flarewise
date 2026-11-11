@@ -1,0 +1,39 @@
+{
+  "id": "dca-flos-v8-cafe-fried-chicken-mashed-potatoes",
+  "name": "DCA Flo's V8 Cafe Famous Fried Chicken (Peel Crispy Skin Mod) & Roasted Garlic Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Flo's V8 Cafe (Cars Land · Disney California Adventure)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "fried",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "flos famous fried chicken",
+    "cars land fried chicken mashed potatoes",
+    "flos v8 cafe dinner"
+  ],
+  "whyItWorks": "Like Plaza Inn across the esplanade, Flo's serves tender bone-in chicken with creamy mashed potatoes; peeling away the seasoned fried skin gives you juicy white-meat chicken.",
+  "prepOrOrderInstructions": "Peel off the crispy fried breading, ask for gravy on the side, and take a lactase tablet for the mashed potatoes.",
+  "watchOuts": [
+    "Mashed potatoes at Flo's contain roasted garlic and dairy—take lactase and avoid if sensitive to garlic"
+  ]
+}

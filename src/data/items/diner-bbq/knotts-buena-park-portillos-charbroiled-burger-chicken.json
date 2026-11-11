@@ -1,0 +1,42 @@
+{
+  "id": "knotts-buena-park-portillos-charbroiled-burger-chicken",
+  "name": "Portillo's (Buena Park — Near Knott's) Charbroiled Cheeseburger, Grilled Chicken Brioche or Plain All-Beef Hot Dog",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Portillo's Hot Dogs & Italian Beef (Beach Blvd, Buena Park · Near Knott's Berry Farm)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "burger",
+    "sandwich",
+    "potato",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "portillos burger buena park",
+    "portillos hot dog plain",
+    "portillos crinkle fries"
+  ],
+  "whyItWorks": "Flame-broiled burgers, tender grilled chicken breast on brioche, or a plain all-beef Vienna Beef hot dog on a steamed poppy-seed-free bun (request plain bun) with crispy crinkle-cut fries.",
+  "prepOrOrderInstructions": "Order a Plain All-Beef Hot Dog (no Chicago-style sport peppers, raw onions, relish, or celery salt—ask for a plain steamed bun without poppy seeds) or a Charbroiled Cheeseburger with American/cheddar only and crinkle fries.",
+  "watchOuts": [
+    "Default Chicago-style hot dog comes on a poppy-seed bun with hot sport peppers and raw onions—always order \"Plain\" on a regular bun; save Portillo's Chocolate Cake Shake for deep remission"
+  ]
+}

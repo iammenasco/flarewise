@@ -1,0 +1,45 @@
+{
+  "id": "dcl-sit-down-buttermilk-pancakes",
+  "name": "Main Dining Buttermilk & Blueberry Pancakes with Maple Syrup",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pancake",
+    "berries",
+    "sweet",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "buttermilk pancakes",
+    "blueberry pancakes",
+    "sit down breakfast",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Fluffy refined-flour pancakes (plain or cooked-in blueberries) digest smoothly with minimal mechanical residue.",
+  "prepOrOrderInstructions": "Pair with scrambled eggs or turkey sausage for protein balance and take a Lactaid if sensitive to buttermilk.",
+  "watchOuts": [
+    "Buttermilk and butter dairy",
+    "Avoid pouring excess syrup on an empty stomach"
+  ]
+}

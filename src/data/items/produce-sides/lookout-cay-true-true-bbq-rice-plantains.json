@@ -1,0 +1,44 @@
+{
+  "id": "lookout-cay-true-true-bbq-rice-plantains",
+  "name": "Lookout Cay Oven-Baked Sweet Plantains & Saffron Seafood Rice vs. Pigeon Peas",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Disney Lookout Cay at Lighthouse Point · True-True BBQ & Serenity Bay BBQ",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "rice",
+    "shrimp",
+    "seafood",
+    "gluten-free",
+    "disney-cruise",
+    "disney-magic",
+    "disney-treasure",
+    "lookout-cay"
+  ],
+  "searchKeywords": [
+    "lookout cay plantains",
+    "pigeon peas and rice",
+    "true true bbq rice",
+    "disney lookout cay"
+  ],
+  "whyItWorks": "Oven-baked ripe sweet plantains and saffron shrimp/scallop rice provide gentle soluble starch, whereas traditional Bahamian Pigeon Peas & Rice contains whole legume skins.",
+  "prepOrOrderInstructions": "Load up on the soft Oven-Baked Sweet Plantains and plain/saffron rice with shrimp and scallops; skip the Pigeon Peas & Rice and fried okra during flares.",
+  "watchOuts": [
+    "Whole pigeon pea hulls in Pigeon Peas & Rice",
+    "Seeds inside fried okra"
+  ]
+}

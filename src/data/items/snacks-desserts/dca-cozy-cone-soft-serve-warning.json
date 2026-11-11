@@ -1,0 +1,38 @@
+{
+  "id": "dca-cozy-cone-soft-serve-warning",
+  "name": "Cozy Cone Vanilla Soft-Serve Ice Cream Cone",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Cozy Cone Motel (Disney California Adventure)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "soft-serve",
+    "ice-cream",
+    "cars-land"
+  ],
+  "searchKeywords": [
+    "cozy cone motel",
+    "dca",
+    "soft serve cone",
+    "cars land",
+    "ice cream"
+  ],
+  "whyItWorks": "Soft-serve dairy mix contains high levels of unbound lactose and emulsifiers that can trigger bloating, painful gas, and rapid transit in lactose-intolerant IBD patients.",
+  "prepOrOrderInstructions": "Lactose Warning: Order in a cup rather than a crunchy cone, take a lactase pill, or opt for dairy-free frozen fruit snacks."
+}

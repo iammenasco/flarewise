@@ -1,0 +1,45 @@
+{
+  "id": "dcl-room-service-penne-bolognaise",
+  "name": "24-Hour Room Service Penne Bolognaise with Parmigiano-Reggiano",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "beef",
+    "tomato",
+    "cheese",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "penne bolognaise",
+    "room service pasta",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Soft white penne pasta with finely ground beef Bolognese and lactose-free aged Parmigiano-Reggiano.",
+  "prepOrOrderInstructions": "Skip the garlic-rubbed crostini if sensitive to garlic fructans; during an active flare, ask if the kitchen can send plain buttered penne pasta.",
+  "watchOuts": [
+    "Onion/garlic soffritto and tomato acidity in Bolognese sauce"
+  ]
+}

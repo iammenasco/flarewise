@@ -1,0 +1,44 @@
+{
+  "id": "dans-drive-in-montpelier-rodeo-bbq-bacon-burger-warning",
+  "name": "Dan's Drive-In (Montpelier, ID) Rodeo BBQ Bacon Burger (Deep-Fried Onion Warning)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 5.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "beef",
+    "burger",
+    "bbq",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "dans drive in rodeo burger",
+    "bbq bacon burger montpelier",
+    "onion ring burger"
+  ],
+  "whyItWorks": "Deep-fried onion rings inside the burger combine high grease with concentrated allium fructans. Even in mild remission, this can trigger cramping and bloating.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flareups. In stable remission, order with onion rings on the side so you can sample one without eating the entire fried allium stack.",
+  "watchOuts": [
+    "Fried onion rings are high in fructan FODMAPs",
+    "Spiced BBQ sauce and bacon fat can irritate"
+  ]
+}

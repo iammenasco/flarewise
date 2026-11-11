@@ -1,0 +1,43 @@
+{
+  "id": "worlds-of-marvel-linguini-nero",
+  "name": "Linguini Nero: Squid Ink Pasta with Garlic Shrimp & Calamari (Groot Remix Night 2)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Celebration of Heroes: Groot Remix Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "shrimp",
+    "seafood",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "linguini nero",
+    "squid ink pasta",
+    "groot remix",
+    "worlds of marvel night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Refined squid-ink wheat pasta and shrimp are low-fiber, though squid ink turns stool dark black (harmless but alarming if unprepared) and calamari rings are chewy.",
+  "prepOrOrderInstructions": "Ask for no chili flakes and light garlic; eat the pasta and shrimp (leave chewy calamari rings if flaring). Note: squid ink naturally darkens stool the next day.",
+  "watchOuts": [
+    "Squid ink temporarily turns stool black",
+    "Garlic and crushed red pepper in sauce",
+    "Chewy calamari rings"
+  ]
+}

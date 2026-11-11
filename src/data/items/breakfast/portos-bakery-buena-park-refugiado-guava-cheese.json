@@ -1,0 +1,41 @@
+{
+  "id": "portos-bakery-buena-park-refugiado-guava-cheese",
+  "name": "Porto's Bakery (Buena Park, CA) Famous \"Refugiado\" Guava & Cream Cheese Pastry",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "pastry",
+    "guava",
+    "cheese",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos refugiado",
+    "portos guava cheese",
+    "buena park portos pastry"
+  ],
+  "whyItWorks": "Porto's world-famous flaky puff pastry filled with smooth, seedless guava jam and sweet cream cheese. Guava jam is strained completely smooth with zero seeds.",
+  "prepOrOrderInstructions": "Order the Refugiado fresh and warm from the bakery line.",
+  "watchOuts": [
+    "Contains dairy cream cheese"
+  ]
+}

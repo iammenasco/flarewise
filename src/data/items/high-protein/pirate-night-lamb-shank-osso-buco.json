@@ -1,0 +1,44 @@
+{
+  "id": "pirate-night-lamb-shank-osso-buco",
+  "name": "Chevalle's Slow-Braised Lamb Shank / Veal Osso Buco with Polenta (Pirate Night)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "corn",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "braised lamb shank",
+    "osso buco",
+    "pirate night lamb",
+    "disney cruise"
+  ],
+  "whyItWorks": "Hours of slow braising turn the shank meat fork-tender over smooth creamy polenta or mashed potatoes.",
+  "prepOrOrderInstructions": "Trim away any thick exterior fat pockets, ask for the braising gravy on the side, and skip any citrus gremolata garnish.",
+  "watchOuts": [
+    "Rendered lamb fat if not trimmed",
+    "Verify no lemon gremolata garnish"
+  ]
+}

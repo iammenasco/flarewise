@@ -1,0 +1,49 @@
+{
+  "id": "iced-lobster-and-jumbo-shrimp",
+  "name": "Iced Lobster and Jumbo Shrimp Cocktail",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "lobster",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "iced lobster and jumbo shrimp",
+    "shrimp cocktail",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Poached chilled lobster and jumbo shrimp are pure, zero-fiber, lean marine protein with virtually no fat or roughage.",
+  "prepOrOrderInstructions": "Order at Triton's or Lumiere's and eat the poached shrimp, lobster, and tender asparagus tips only (leave the woody bottom asparagus stalks and skip spicy horseradish cream if flaring).",
+  "watchOuts": [
+    "Spicy horseradish cream",
+    "Woody bottom stems of asparagus garnish",
+    "Lemon wedge squeeze"
+  ]
+}

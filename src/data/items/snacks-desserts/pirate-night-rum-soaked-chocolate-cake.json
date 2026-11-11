@@ -1,0 +1,41 @@
+{
+  "id": "pirate-night-rum-soaked-chocolate-cake",
+  "name": "Rum-Soaked Chocolate Layer Cake with Raspberry Glaze (Pirate Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "rum soaked chocolate cake",
+    "pirate night chocolate cake",
+    "disney cruise"
+  ],
+  "whyItWorks": "Moist dark chocolate sponge and ganache with zero nuts or citrus, though the rum syrup and cocoa fat are best for remission.",
+  "prepOrOrderInstructions": "Enjoy on steady days with a Lactaid pill and scrape off any seeded raspberry garnish.",
+  "watchOuts": [
+    "Rum syrup and dark chocolate richness",
+    "Raspberry seeds if garnished"
+  ]
+}

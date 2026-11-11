@@ -1,0 +1,40 @@
+{
+  "id": "thomas-cuisine-bamboohr-chicken-rice-congee",
+  "name": "Thomas2Go @ BambooHR (Lindon, UT) Gentle Shredded Chicken & White Rice Porridge (Congee)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Thomas Cuisine @ BambooHR (Lindon, UT)",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "chicken",
+    "rice",
+    "soup",
+    "bamboohr",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "thomas2go congee",
+    "bamboohr chicken rice soup",
+    "thomas cuisine porridge"
+  ],
+  "whyItWorks": "Traditional long-simmered white rice porridge cooked in clear chicken broth until grains dissolve into a soothing, silky cream. Requires zero digestive effort.",
+  "prepOrOrderInstructions": "Ladle a bowl of warm chicken congee; season with a drop of tamari soy sauce (skip scallions, chili oil, and fried garlic).",
+  "watchOuts": [
+    "None; premier flare-safe corporate comfort meal"
+  ]
+}

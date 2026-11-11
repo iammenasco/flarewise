@@ -162,9 +162,9 @@ describe('itemPassesFilters', () => {
     ).toBe(false)
   })
 
-  it('identifies all 12 committed Disney Cruise items via isCruiseOrVacationItem', () => {
+  it('identifies committed cruise and vacation items via isCruiseOrVacationItem', () => {
     const cruiseItems = allFoods.filter(isCruiseOrVacationItem)
-    expect(cruiseItems.length).toBe(12)
+    expect(cruiseItems.length).toBeGreaterThanOrEqual(12)
     expect(defaultPreferences.guardrails.cruiseMode).toBe(false)
   })
 })

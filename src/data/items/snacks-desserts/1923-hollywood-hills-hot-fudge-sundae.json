@@ -1,0 +1,38 @@
+{
+  "id": "1923-hollywood-hills-hot-fudge-sundae",
+  "name": "Hollywood Hills Hot Chocolate Fudge Brownie Sundae (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "hollywood hills hot chocolate fudge sundae",
+    "1923 sundae",
+    "disney treasure"
+  ],
+  "whyItWorks": "Vanilla ice cream, soft brownie bites, and warm chocolate fudge with zero nuts, seeds, or citrus.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid pills before eating.",
+  "watchOuts": [
+    "Liquid dairy ice cream and fudge sugar"
+  ]
+}

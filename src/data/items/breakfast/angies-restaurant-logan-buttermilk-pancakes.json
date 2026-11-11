@@ -1,0 +1,36 @@
+{
+  "id": "angies-restaurant-logan-buttermilk-pancakes",
+  "name": "Stack of Fluffy Buttermilk Pancakes with Warm Syrup",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "pancakes",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "angies restaurant",
+    "pancakes",
+    "hotcakes",
+    "logan utah breakfast"
+  ],
+  "whyItWorks": "Light and airy pancakes made from refined flour deliver easy-to-digest carbohydrates with virtually zero rough insoluble fiber, making them an excellent gentle breakfast during low-residue recovery.",
+  "prepOrOrderInstructions": "Drizzle with moderate warm pancake syrup. Skip margarine dollops or bacon sides if currently experiencing fat sensitivity."
+}

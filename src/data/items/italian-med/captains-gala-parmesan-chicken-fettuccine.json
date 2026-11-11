@@ -1,0 +1,43 @@
+{
+  "id": "captains-gala-parmesan-chicken-fettuccine",
+  "name": "Pan-Seared Parmesan-Crusted Chicken Breast with Fettuccine (Captain's Gala Night 2)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pasta",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "parmesan crusted chicken fettuccine",
+    "captains gala chicken",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Lean chicken breast coated in aged Parmesan breadcrumbs over soft white fettuccine ribbons is a hearty, low-fiber classic.",
+  "prepOrOrderInstructions": "Ask for light cream/butter on the fettuccine, hold any pancetta or mushroom garnish, and take a Lactaid.",
+  "watchOuts": [
+    "Cream sauce lactose",
+    "Pan-seared breading oil"
+  ]
+}

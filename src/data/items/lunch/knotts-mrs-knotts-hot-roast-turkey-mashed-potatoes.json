@@ -1,0 +1,38 @@
+{
+  "id": "knotts-mrs-knotts-hot-roast-turkey-mashed-potatoes",
+  "name": "Mrs. Knott's Open-Faced Hot Roast Turkey Sandwich with Mashed Potatoes",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (California Marketplace · Knott's Berry Farm)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "potato",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "mrs knotts turkey sandwich",
+    "hot roast turkey knotts berry farm"
+  ],
+  "whyItWorks": "Thick-sliced roasted turkey breast over soft white bread with whipped mashed potatoes is lean, un-fried, and low-residue.",
+  "prepOrOrderInstructions": "Ask for the turkey gravy on the side so you can keep the bread and mashed potatoes as light as you like.",
+  "watchOuts": [
+    "Mashed potatoes contain milk/butter—take a lactase enzyme"
+  ]
+}

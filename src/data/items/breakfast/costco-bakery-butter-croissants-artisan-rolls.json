@@ -1,0 +1,47 @@
+{
+  "id": "costco-bakery-butter-croissants-artisan-rolls",
+  "name": "Costco Bakery 12-Pack All-Butter Croissants & Soft Dinner Rolls",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Costco Bakery (North Logan, Draper, South Jordan & Nationwide)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Costco Bakery All-Butter Croissants (12-ct)"
+  ],
+  "tags": [
+    "croissant",
+    "bread",
+    "pastry",
+    "breakfast",
+    "costco",
+    "logan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco croissants",
+    "kirkland butter croissants",
+    "costco bakery rolls"
+  ],
+  "whyItWorks": "Baked fresh daily with 100% refined wheat flour and real butter (very low lactose), making the ultimate soft sandwich base for turkey, ham, or scrambled eggs.",
+  "prepOrOrderInstructions": "Toast lightly in a toaster oven and fill with sliced turkey breast, Havarti/Provolone, or scrambled eggs.",
+  "watchOuts": [
+    "Moderate butterfat content; limit to 1 croissant during active flares"
+  ]
+}

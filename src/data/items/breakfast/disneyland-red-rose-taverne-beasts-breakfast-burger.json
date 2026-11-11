@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-red-rose-taverne-beasts-breakfast-burger",
+  "name": "Disneyland Red Rose Taverne \"Beast's Breakfast Burger\" (Egg, Bacon & Hash Brown)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Red Rose Taverne (Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "breakfast",
+    "burger",
+    "bacon",
+    "fantasyland"
+  ],
+  "searchKeywords": [
+    "beasts breakfast burger",
+    "red rose taverne breakfast burger",
+    "disneyland breakfast burger"
+  ],
+  "whyItWorks": "Angus beef patty topped with a fried egg, crisp bacon, cheddar cheese, and a crispy hash brown on a brioche bun. High calorie and high protein for morning stamina in remission.",
+  "prepOrOrderInstructions": "Order Beast's Breakfast Burger with ketchup; hold raw onions or spiced aioli.",
+  "watchOuts": [
+    "Rich breakfast meal with bacon and beef fat; eat slowly in remission"
+  ]
+}

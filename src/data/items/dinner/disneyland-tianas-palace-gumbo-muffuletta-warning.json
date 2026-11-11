@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-tianas-palace-gumbo-muffuletta-warning",
+  "name": "Disneyland Tiana's Palace House Gumbo & Muffuletta Sandwich (Cajun Spice, Okra & Olive Salad Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Tiana's Palace (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "pork",
+    "spicy",
+    "soup",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tianas palace gumbo",
+    "7 greens gumbo disneyland",
+    "muffuletta disneyland"
+  ],
+  "whyItWorks": "Reference warning: both the House Gulf Prawn & Andouille Gumbo and 7 Greens Gumbo are built on a dark oil roux with spicy Cajun seasoning, holy trinity (onions, bell peppers, celery), okra seeds, and whole beans/greens.",
+  "prepOrOrderInstructions": "During flares or cautious days at Tiana's Palace, order the Oven-Roasted Half Chicken with plain steamed white rice instead of gumbo or the olive-heavy Muffuletta.",
+  "watchOuts": [
+    "Spicy Andouille sausage, bell peppers, onions, okra seeds, and dark oil roux"
+  ]
+}

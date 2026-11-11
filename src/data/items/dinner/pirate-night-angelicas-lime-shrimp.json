@@ -1,0 +1,41 @@
+{
+  "id": "pirate-night-angelicas-lime-shrimp",
+  "name": "Angelica's Lime-Marinated Shrimp Ceviche (Pirate Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "seafood",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "angelicas lime marinated shrimp",
+    "pirate night shrimp",
+    "disney cruise"
+  ],
+  "whyItWorks": "Direct citrus trigger: marinated in fresh lime juice with diced onions and peppers.",
+  "prepOrOrderInstructions": "Ask your server for plain steamed/chilled shrimp cocktail (no lime marinade) instead.",
+  "watchOuts": [
+    "Lime juice marinade (strict citrus guardrail)",
+    "Raw onion and bell pepper dice"
+  ]
+}

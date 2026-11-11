@@ -1,0 +1,40 @@
+{
+  "id": "knotts-boardwalk-bbq-roasted-corn-cob-warning",
+  "name": "Knott's Boardwalk BBQ Roasted Sweet Corn on the Cob (Indigestible Hull Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Boardwalk BBQ (Knott's Berry Farm)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "corn",
+    "vegetables",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "knotts corn on the cob",
+    "boardwalk bbq roasted corn",
+    "sweet corn knotts"
+  ],
+  "whyItWorks": "Whole sweet corn on the cob has tough outer cellulose hulls that cannot be digested. In stricturing Crohn's, whole corn kernels frequently cause complete mechanical bowel obstructions.",
+  "prepOrOrderInstructions": "Trigger warning item: absolute avoid for stricturing Crohn's disease and active flares. Substitute cornbread muffins or mashed potatoes.",
+  "watchOuts": [
+    "Insoluble corn hulls pass undigested and can block narrowed intestines"
+  ]
+}

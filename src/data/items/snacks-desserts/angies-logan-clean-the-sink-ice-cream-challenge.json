@@ -1,0 +1,40 @@
+{
+  "id": "angies-logan-clean-the-sink-ice-cream-challenge",
+  "name": "Angie's Restaurant (Logan) \"The Sink\" Massive Ice Cream Sundae Challenge (Avoid)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "banana",
+    "nuts",
+    "sweet",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "clean the sink at angies",
+    "angies the sink sundae",
+    "logan ice cream challenge"
+  ],
+  "whyItWorks": "Logan's most famous tradition (served in a mini kitchen sink), but massive amounts of dairy ice cream, whipped cream, syrups, and chopped nuts trigger osmotic diarrhea and lactose cramping.",
+  "prepOrOrderInstructions": "Only share a few spoonfuls of the plain vanilla/chocolate ice cream and banana slices with a family group (plus 2 Lactaid pills), and skip the chopped nuts and cherries.",
+  "watchOuts": [
+    "Extreme lactose and sugar load",
+    "Chopped nuts on top"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dca-cocina-cucamonga-quesabirria-tacos-warning",
+  "name": "DCA Cocina Cucamonga QuesaBirria Street Tacos (Rich Tallow & Chili Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cocina Cucamonga Mexican Grill (Disney California Adventure)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "beef",
+    "tacos",
+    "birria",
+    "spicy",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "quesabirria tacos dca",
+    "cocina cucamonga birria",
+    "san fransokyo birria tacos"
+  ],
+  "whyItWorks": "Braised beef short rib tacos griddled in rendered beef tallow, melted cheese, and served with rich spiced consommé and fresh lime. The heavy fat, grease, and chili spices trigger rapid diarrhea and cramping.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active IBD. Choose the Pollo Asado tacos with corn tortillas instead.",
+  "watchOuts": [
+    "Griddled beef tallow fat and spicy chili consommé cause severe digestive irritation"
+  ]
+}

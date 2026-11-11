@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-kat-sakas-kettle-cold-brew-black-caf-warning",
+  "name": "Disneyland Kat Saka's Kettle \"Cold Brew Black Caf\" (Caffeine + Sweet Cream Cheese Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Kat Saka's Kettle & Docking Bay 7 (Star Wars: Galaxy's Edge · Disneyland Park)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "dairy",
+    "chocolate",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "cold brew black caf galaxys edge",
+    "kat sakas cold brew disneyland"
+  ],
+  "whyItWorks": "Reference warning: combines concentrated high-caffeine Joffrey's cold brew coffee (which stimulates colonic gastrocolic contractions) with heavy liquid cream-cheese cold foam.",
+  "prepOrOrderInstructions": "If tasting a sip in remission, take a lactase tablet first and share the cup—during flares, stick to Blue Milk or water.",
+  "watchOuts": [
+    "Double trigger of concentrated cold-brew caffeine + unaged cream cheese lactose"
+  ]
+}

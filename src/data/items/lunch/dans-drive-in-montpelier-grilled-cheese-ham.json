@@ -1,0 +1,41 @@
+{
+  "id": "dans-drive-in-montpelier-grilled-cheese-ham",
+  "name": "Dan's Drive-In Grilled Ham & Swiss / Cheddar Sandwich",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "cheese",
+    "sandwich",
+    "budget-friendly",
+    "bear-lake",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "dans drive in montpelier grilled cheese",
+    "dans montpelier ham sandwich",
+    "montpelier idaho quick lunch"
+  ],
+  "whyItWorks": "Lightly griddled white bread with thin-sliced deli ham and melted cheese is lower in fat and smaller in volume than a double drive-in burger.",
+  "prepOrOrderInstructions": "Order a Grilled Ham & Cheese (or plain Grilled Cheese) on white bread, lightly buttered on the griddle.",
+  "watchOuts": [
+    "Blot any excess griddle butter on the bread with a napkin"
+  ]
+}

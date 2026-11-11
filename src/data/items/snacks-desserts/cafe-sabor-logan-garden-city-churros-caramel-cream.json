@@ -1,0 +1,39 @@
+{
+  "id": "cafe-sabor-logan-garden-city-churros-caramel-cream",
+  "name": "Café Sabor (Logan & Garden City, UT) Warm Cinnamon Churros with Caramel Dipping Sauce",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "dessert",
+    "churros"
+  ],
+  "searchKeywords": [
+    "cafe sabor churros",
+    "mexican dessert bear lake",
+    "cinnamon churros logan"
+  ],
+  "whyItWorks": "Crispy fried choux pastry sticks rolled in cinnamon sugar and served with warm caramel sauce. Completely seed-free and low-residue sweet indulgence.",
+  "prepOrOrderInstructions": "Order the Churros to share with the table; dip lightly in caramel sauce.",
+  "watchOuts": [
+    "Fried dough and sugar can speed up bowel transit"
+  ]
+}

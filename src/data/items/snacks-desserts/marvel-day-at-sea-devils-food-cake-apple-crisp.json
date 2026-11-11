@@ -1,0 +1,41 @@
+{
+  "id": "marvel-day-at-sea-devils-food-cake-apple-crisp",
+  "name": "Ravagers' Devil's Food Chocolate Cake & Collector's Warm Apple Crisp (Marvel Day at Sea)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Marvel Day at Sea Dinner Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "applesauce",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "ravagers devils food cake",
+    "collectors warm apple crisp",
+    "marvel day at sea dessert",
+    "disney magic"
+  ],
+  "whyItWorks": "Both the rich Devil's Food Chocolate Cake and Warm Baked Apple Crisp with oat-butter crumble are citrus-free and nut-free (unlike the Rocky Road Sundae).",
+  "prepOrOrderInstructions": "Choose the Devil's Food Cake or Warm Apple Crisp with a Lactaid pill; skip the Rocky Road Sundae (chopped nuts).",
+  "watchOuts": [
+    "Skip the Rocky Road Sundae on the same menu",
+    "Dairy ice cream/frosting"
+  ]
+}

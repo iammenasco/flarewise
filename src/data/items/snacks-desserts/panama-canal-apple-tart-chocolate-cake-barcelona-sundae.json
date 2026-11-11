@@ -1,0 +1,41 @@
+{
+  "id": "panama-canal-apple-tart-chocolate-cake-barcelona-sundae",
+  "name": "Panama Canal Menu Desserts: Warm French Apple Tart, Flourless Chocolate Cake & Barcelona Sundae",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Panama Canal Dinner Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "applesauce",
+    "chocolate",
+    "ice-cream",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "warm french apple almond tart",
+    "barcelona sundae",
+    "panama canal dessert"
+  ],
+  "whyItWorks": "The Warm French Apple Tart, Flourless Chocolate Cake, and No-Sugar-Added Chocolate Custard are all smooth and citrus-free.",
+  "prepOrOrderInstructions": "Brush off any sliced almonds on the French Apple Tart, pair with a Lactaid, and skip the Black Currant Napoleon if avoiding currant seeds.",
+  "watchOuts": [
+    "Sliced almond garnish on tart",
+    "Dairy lactose"
+  ]
+}

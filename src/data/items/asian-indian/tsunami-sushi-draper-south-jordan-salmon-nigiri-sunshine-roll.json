@@ -1,0 +1,45 @@
+{
+  "id": "tsunami-sushi-draper-south-jordan-salmon-nigiri-sunshine-roll",
+  "name": "Tsunami Restaurant & Sushi Bar (Draper / South Jordan) Salmon Nigiri, Teriyaki Bowl & Udon",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tsunami Restaurant & Sushi Bar (Draper & South Jordan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sushi",
+    "salmon",
+    "tuna",
+    "rice",
+    "noodles",
+    "high-protein",
+    "dairy-free",
+    "draper",
+    "south-jordan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "tsunami sushi draper",
+    "tsunami south jordan",
+    "draper sushi",
+    "tsunami teriyaki bowl"
+  ],
+  "whyItWorks": "Minutes from TownePlace Suites Draper and South Jordan: Tsunami serves top-grade sashimi/nigiri, soy-paper sushi rolls, steamed white rice bowls with grilled chicken or salmon, and soothing udon noodle soup.",
+  "prepOrOrderInstructions": "Order Salmon or Tuna Nigiri, any roll wrapped in Soy Paper (holding lemon slices, ponzu, and spicy mayo), or the Grilled Chicken/Salmon Teriyaki Bowl with white rice and miso soup.",
+  "watchOuts": [
+    "CITRUS WARNING: Tsunami rolls like the \"Sunshine Roll\" include thin lemon slices—always order rolls without lemon or ponzu!"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-docking-bay-7-ithorian-kids-pasta-meatballs",
+  "name": "Disneyland Docking Bay 7 Kids' Ithorian Pasta Rings & Meatballs or Grilled Chicken",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Docking Bay 7 Food and Cargo (Star Wars: Galaxy's Edge · Disneyland Park)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pasta",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "docking bay 7 kids meal",
+    "galaxys edge kids pasta chicken"
+  ],
+  "whyItWorks": "Right-sized portion of soft pasta or chicken with steamed white rice/macaroni for when you want a gentle meal in Galaxy's Edge.",
+  "prepOrOrderInstructions": "Mobile-order from the Docking Bay 7 Kids' menu and swap the Mandarin Orange pack for applesauce or water.",
+  "watchOuts": [
+    "Do not eat the included Mandarin Orange pack (citrus trigger)"
+  ]
+}

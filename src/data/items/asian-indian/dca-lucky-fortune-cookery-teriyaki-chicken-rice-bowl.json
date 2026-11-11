@@ -1,0 +1,41 @@
+{
+  "id": "dca-lucky-fortune-cookery-teriyaki-chicken-rice-bowl",
+  "name": "DCA Lucky Fortune Cookery Teriyaki Chicken & Steamed White Rice Bowl",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Lucky Fortune Cookery (Disney California Adventure)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "chicken",
+    "rice",
+    "san-fransokyo",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "lucky fortune chicken bowl",
+    "san fransokyo teriyaki chicken",
+    "dca rice bowl"
+  ],
+  "whyItWorks": "Grilled chicken breast pieces glazed with sweet teriyaki sauce over fluffy steamed white jasmine rice. White rice is ultra-low residue, and tender chicken is easily absorbed.",
+  "prepOrOrderInstructions": "Order the Teriyaki Chicken Rice Bowl; request steamed broccoli served soft or hold broccoli entirely during active flares.",
+  "watchOuts": [
+    "Hold broccoli if cruciferous vegetables cause bloating"
+  ]
+}

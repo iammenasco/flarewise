@@ -1,0 +1,40 @@
+{
+  "id": "marvel-day-at-sea-buttermilk-chicken-pork-tenderloin",
+  "name": "Hawkeye Baked Buttermilk Chicken & Huntsman Herb-Roasted Pork Tenderloin (Marvel Day at Sea)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Magic · Marvel Day at Sea Dinner Menu",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pork",
+    "sweet-potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "baked buttermilk corn fed chicken",
+    "huntsman pork tenderloin",
+    "marvel day at sea",
+    "disney magic"
+  ],
+  "whyItWorks": "Both the buttermilk-marinated baked chicken breast and roasted pork tenderloin are lean, high-protein mains.",
+  "prepOrOrderInstructions": "Ask for plain mashed potatoes or sweet potatoes (without the bell pepper hash) and gravy on the side; kids' menu Thor's Baked Cod is also a 9.5/10 flare swap.",
+  "watchOuts": [
+    "Diced bell peppers in the standard sweet potato hash (request plain potato)"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-popcorn-carts-hull-warning",
+  "name": "Disneyland Popcorn Carts & Kat Saka's Kettle Popcorn (Strict Crohn's Hull Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Popcorn Carts & Kat Saka's Kettle (Disneyland & California Adventure)",
+  "crohnsScore": 1.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "popcorn",
+    "high-fiber",
+    "vacation",
+    "disneyland",
+    "california-adventure",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "disneyland popcorn",
+    "popcorn bucket disneyland",
+    "kat sakas kettle popcorn"
+  ],
+  "whyItWorks": "Reference warning: even though Disneyland popcorn smells incredible and is cooked in dairy-free coconut/corn oil, razor-sharp insoluble corn kernel hulls do not digest and can mechanically scrape inflamed intestinal mucosa or catch on strictures.",
+  "prepOrOrderInstructions": "Buy the souvenir popcorn bucket if you collect them, let family members eat the popcorn, and grab a warm Mickey Pretzel or Churro for yourself instead.",
+  "watchOuts": [
+    "HARD AVOID for Crohn's strictures and flares: sharp, indigestible pericarp corn hulls"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "holiday-christmas-morning-egg-sausage-french-toast-bake",
+  "name": "Christmas Morning Brioche French Toast Bake or Egg, Cheddar & Turkey Sausage Strata",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Home Cooking (Christmas Morning & Thanksgiving Brunch)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "turkey",
+    "cheese",
+    "sourdough",
+    "high-protein",
+    "holiday",
+    "christmas",
+    "thanksgiving"
+  ],
+  "searchKeywords": [
+    "christmas morning breakfast casserole",
+    "overnight french toast bake",
+    "holiday egg strata",
+    "christmas brunch crohns"
+  ],
+  "whyItWorks": "Soaking cubed sourdough or brioche bread overnight in eggs and lactose-free milk with aged sharp cheddar and lean turkey sausage (or cinnamon-vanilla for French toast bake) turns the bread into a soft, soufflé-like custard that digests effortlessly on Christmas morning.",
+  "prepOrOrderInstructions": "Make with cubed crustless brioche or sourdough bread, eggs, lactose-free milk (Fairlife), aged sharp cheddar, and diced ham or mild turkey sausage (no bell peppers, onions, or spicy pork chorizo).",
+  "watchOuts": [
+    "Avoid adding diced green/red bell peppers, onions, or spicy sage sausage to the strata; skip orange zest in French toast bakes"
+  ]
+}

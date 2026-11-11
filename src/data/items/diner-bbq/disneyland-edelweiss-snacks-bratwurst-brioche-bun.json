@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-edelweiss-snacks-bratwurst-brioche-bun",
+  "name": "Disneyland Edelweiss Snacks (Fantasyland) Grilled Bratwurst on Brioche Roll (No Sauerkraut Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Edelweiss Snacks (Fantasyland · Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "edelweiss snacks bratwurst",
+    "fantasyland bratwurst disneyland"
+  ],
+  "whyItWorks": "Mild German-style pork/veal sausage on a soft buttery brioche roll—ordering it with NO fermented cabbage sauerkraut keeps it low-residue.",
+  "prepOrOrderInstructions": "Ask for the Bratwurst on the roll with **NO sauerkraut** and mustard on the side.",
+  "watchOuts": [
+    "Always skip the fibrous cabbage sauerkraut during flares"
+  ]
+}

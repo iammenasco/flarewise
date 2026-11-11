@@ -1,0 +1,41 @@
+{
+  "id": "takara-sushi-logan-grilled-hamachi-kama",
+  "name": "Takara Sushi (Logan, UT) Grilled Yellowtail Collar (Hamachi Kama) & White Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "japanese",
+    "fish",
+    "omega-3",
+    "rice",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "takara hamachi kama",
+    "grilled yellowtail collar logan",
+    "takara sushi fish"
+  ],
+  "whyItWorks": "A chef's secret gem! Grilled Hamachi collar is extraordinarily tender, juicy, and packed with anti-inflammatory omega-3 fatty acids without any breading, dairy, or harsh spices.",
+  "prepOrOrderInstructions": "Order the Hamachi Kama grilled with sea salt, served with steamed white sticky rice (hold citrus ponzu sauce upon request).",
+  "watchOuts": [
+    "None; pristine flare-safe Japanese seafood entree"
+  ]
+}

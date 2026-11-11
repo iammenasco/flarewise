@@ -1,0 +1,39 @@
+{
+  "id": "dca-fiddler-fifer-turkey-pesto-panini",
+  "name": "DCA Fiddler, Fifer & Practical Cafe Roasted Turkey & Pesto Provolone Panini",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Fiddler, Fifer & Practical Cafe (Disney California Adventure)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "turkey",
+    "panini",
+    "buena-vista-street"
+  ],
+  "searchKeywords": [
+    "fiddler fifer turkey panini",
+    "dca starbucks sandwich",
+    "buena vista street lunch"
+  ],
+  "whyItWorks": "Sliced roast turkey breast, melted provolone cheese, and mild basil pesto pressed on artisan sourdough bread. Sourdough digests easily and provolone is naturally low in lactose.",
+  "prepOrOrderInstructions": "Order the Turkey Pesto Panini warmed; hold raw tomato slices if sensitive to nightshades.",
+  "watchOuts": [
+    "Hold tomato slices if acid-sensitive"
+  ]
+}

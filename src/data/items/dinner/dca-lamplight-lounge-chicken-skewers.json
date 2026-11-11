@@ -1,0 +1,38 @@
+{
+  "id": "dca-lamplight-lounge-chicken-skewers",
+  "name": "Grilled Chicken Breast Skewers with Sweet Glaze",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Lamplight Lounge (Disney California Adventure)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "chicken-skewers",
+    "lamplight-lounge",
+    "pixar-pier"
+  ],
+  "searchKeywords": [
+    "lamplight lounge",
+    "dca",
+    "chicken skewers",
+    "pixar pier",
+    "disney dining"
+  ],
+  "whyItWorks": "Tender chunks of boneless chicken breast grilled on bamboo skewers with a gentle sweet soy reduction. Lean protein without frying batter or roughage.",
+  "prepOrOrderInstructions": "Request skewers without spicy aioli drizzle or sesame seeds. Accompany with steamed rice or a plain soft roll."
+}

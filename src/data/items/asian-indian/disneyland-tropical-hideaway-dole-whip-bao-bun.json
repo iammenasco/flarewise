@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-tropical-hideaway-dole-whip-bao-bun",
+  "name": "Disneyland Tropical Hideaway Steamed Chicken/Pork Bao Bun vs. Pineapple DOLE Whip",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "The Tropical Hideaway (Adventureland · Disneyland Park)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dessert",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pork",
+    "dairy-free",
+    "sweet",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tropical hideaway disneyland",
+    "dole whip disneyland",
+    "disneyland bao buns"
+  ],
+  "whyItWorks": "Fluffy, cloud-like steamed white-flour bao buns filled with savory chicken or char siu pork (skipping the spicy lime pork bao) are 100% dairy-free, non-fried, and gentle on the stomach; classic Pineapple or Mango DOLE Whip is also 100% dairy-free and lactose-free!",
+  "prepOrOrderInstructions": "Order the Teriyaki/Spiced Vegetable-Free Chicken or Char Siu Bao Bun (avoid the Spicy Lime Pork Bao), and for dessert choose Dairy-Free Pineapple, Mango, or Strawberry DOLE Whip (avoid Lemon/Orange citrus swirls).",
+  "watchOuts": [
+    "Avoid the Spicy Lime Pork Bao and Lemon DOLE Whip flavor (citrus triggers)"
+  ]
+}

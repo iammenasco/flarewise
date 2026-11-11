@@ -1,0 +1,47 @@
+{
+  "id": "dcl-room-service-angus-cheeseburger",
+  "name": "24-Hour Room Service Grilled Angus American Cheeseburger / Hamburger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "bread",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "angus cheeseburger",
+    "room service burger",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Grilled Angus beef patty on a soft seedless brioche bun provides high iron and protein.",
+  "prepOrOrderInstructions": "Order the burger plain or with cheddar/American cheese only—remove the raw Vidalia onion, shaved iceberg lettuce, tomato slice, and dill pickle.",
+  "watchOuts": [
+    "Remove raw Vidalia onion, lettuce, and tomato before eating",
+    "French fry oil on the side"
+  ]
+}

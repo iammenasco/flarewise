@@ -1,0 +1,41 @@
+{
+  "id": "hometown-drive-in-paris-cheeseburger-fries",
+  "name": "Hometown Drive-In (Paris / Montpelier, ID) Classic Smashed Cheeseburger & Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Hometown Drive-In (Paris / Montpelier, ID)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "beef",
+    "burger"
+  ],
+  "searchKeywords": [
+    "hometown drive in paris idaho",
+    "montpelier burger",
+    "bear lake idaho burger"
+  ],
+  "whyItWorks": "Historic Bear Lake valley roadside burger. Fresh griddled beef patty with melted cheese on a soft bun. Easily digested roadside comfort.",
+  "prepOrOrderInstructions": "Order the Cheeseburger plain with ketchup only (hold onions and pickles).",
+  "watchOuts": [
+    "Hold raw onions and pickles"
+  ]
+}

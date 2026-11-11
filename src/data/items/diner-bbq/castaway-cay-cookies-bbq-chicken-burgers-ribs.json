@@ -1,0 +1,47 @@
+{
+  "id": "castaway-cay-cookies-bbq-chicken-burgers-ribs",
+  "name": "Castaway Cay Cookie's BBQ & Cookie's Too: Rotisserie Chicken, Burgers & BBQ Ribs",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Castaway Cay · Cookie's BBQ, Cookie's Too & Serenity Bay BBQ",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "beef",
+    "pork",
+    "rice",
+    "bbq",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "castaway-cay"
+  ],
+  "searchKeywords": [
+    "cookies bbq",
+    "cookies too",
+    "castaway cay lunch",
+    "rotisserie chicken",
+    "disney cruise"
+  ],
+  "whyItWorks": "Interior carved rotisserie chicken breast, plain flame-grilled hamburgers, and steamed jasmine rice make an easy beach lunch.",
+  "prepOrOrderInstructions": "Peel off the lemon-rosemary chicken skin to eat the tender interior white meat with steamed jasmine rice and plain potato chips, or grab a plain burger on a white bun. Skip raw coleslaw, corn on the cob, and spicy ribs.",
+  "watchOuts": [
+    "Lemon-rosemary marinade on outer chicken skin (remove skin)",
+    "Strictly skip corn on the cob and raw cabbage slaw"
+  ]
+}

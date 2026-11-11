@@ -1,0 +1,38 @@
+{
+  "id": "rapunzels-creme-brulee-cheesecake",
+  "name": "Corona Crème Brûlée Cheesecake (Lantern Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "egg",
+    "sweet",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "creme brulee cheesecake",
+    "rapunzels royal table dessert",
+    "disney magic"
+  ],
+  "whyItWorks": "Silky vanilla cheesecake topped with caramelized sugar crust—completely free of citrus, nuts, and berry seeds.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets and skip any decorative berry on the plate.",
+  "watchOuts": [
+    "Cream cheese lactose and richness"
+  ]
+}

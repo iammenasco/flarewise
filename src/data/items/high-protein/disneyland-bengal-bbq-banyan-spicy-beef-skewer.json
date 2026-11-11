@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-bengal-bbq-banyan-spicy-beef-skewer",
+  "name": "Disneyland Bengal Barbecue Banyan Beef Skewer (Hot & Spicy Chili Sauce)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Bengal Barbecue (Adventureland · Disneyland Park)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "spicy",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "banyan beef skewer disneyland",
+    "spicy skewer bengal bbq"
+  ],
+  "whyItWorks": "Uses the same lean beef as the Bengal skewer, but the Banyan glaze is loaded with fiery cayenne and red chili paste that directly stimulates gut TRPV1 pain receptors.",
+  "prepOrOrderInstructions": "Swap to the sweet Bengal Beef Skewer or ask for an un-sauced plain grilled beef skewer.",
+  "watchOuts": [
+    "High capsaicin chili heat—avoid during flares or sensitive days"
+  ]
+}

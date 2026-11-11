@@ -1,0 +1,37 @@
+{
+  "id": "thomas-cuisine-bamboohr-deli-turkey-sourdough",
+  "name": "Custom Deli Turkey & Provolone on Sourdough Bread",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine (BambooHR Lindon, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bamboohr",
+    "office-cafe",
+    "lindon",
+    "deli-sandwich"
+  ],
+  "searchKeywords": [
+    "thomas cuisine",
+    "bamboohr lunch",
+    "thomas2go",
+    "deli sandwich",
+    "sourdough"
+  ],
+  "whyItWorks": "At the made-to-order deli station, slicing lean oven-roasted turkey and aged provolone (low lactose) onto soft artisan sourdough bread creates an easily digested, protein-rich meal with zero irritating raw vegetables.",
+  "prepOrOrderInstructions": "Order turkey and provolone on sourdough. Skip raw onions, tomatoes, lettuce, hot peppers, and spicy mustard. Mayonnaise or light olive oil is usually tolerated."
+}

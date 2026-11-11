@@ -1,0 +1,40 @@
+{
+  "id": "costco-deli-stuffed-bell-peppers",
+  "name": "Costco Kirkland Deli Ground Beef & Rice Stuffed Bell Peppers (Eat Filling Only Mod)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Costco Wholesale Deli (Logan / Lehi / South Jordan / Sandy, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "rice",
+    "cheese",
+    "high-protein",
+    "gluten-free-option",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco stuffed bell peppers",
+    "kirkland deli stuffed peppers",
+    "costco easy dinner"
+  ],
+  "whyItWorks": "The interior filling of seasoned ground beef, tender white rice, and melted mozzarella/parmesan cheese is soft and high in protein once you scoop it out of the fibrous bell pepper shell.",
+  "prepOrOrderInstructions": "Bake until piping hot, then scoop out and eat the seasoned beef-and-rice interior while leaving the tough outer bell pepper skin on the plate.",
+  "watchOuts": [
+    "Bell pepper skins are insoluble nightshade fiber that resists digestion—eat the beef and rice filling only"
+  ]
+}

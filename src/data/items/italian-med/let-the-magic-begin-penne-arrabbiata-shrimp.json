@@ -1,0 +1,42 @@
+{
+  "id": "let-the-magic-begin-penne-arrabbiata-shrimp",
+  "name": "Penne Arrabbiata with Garlic-Herb Shrimp (Let the Magic Begin Menu)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "shrimp",
+    "tomato",
+    "spicy",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "penne arrabbiata",
+    "garlic herb shrimp",
+    "let the magic begin",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "White penne pasta and shrimp are 9/10 flare-safe, but \"Arrabbiata\" means \"angry\" spicy chili-tomato sauce.",
+  "prepOrOrderInstructions": "Ask your server for the shrimp and penne pasta tossed in plain olive oil or butter with aged Parmesan instead of the spicy red Arrabbiata sauce.",
+  "watchOuts": [
+    "Spicy chili-garlic Arrabbiata tomato sauce (swap for butter/olive oil)"
+  ]
+}

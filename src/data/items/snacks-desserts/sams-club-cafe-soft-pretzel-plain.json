@@ -1,0 +1,37 @@
+{
+  "id": "sams-club-cafe-soft-pretzel-plain",
+  "name": "Sam's Club Cafe (Logan & Riverdale, UT) Warm Salted Soft Pretzel (Hold Mustard)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sam's Club (Utah Locations)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "pretzel",
+    "snack",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "sams club pretzel",
+    "sams club soft pretzel",
+    "warm salted pretzel"
+  ],
+  "whyItWorks": "Warm, fluffy baked yeast pretzel dough. Zero seeds, low-fat, and highly comforting for gut fatigue during warehouse shopping.",
+  "prepOrOrderInstructions": "Order the warm soft pretzel with light salt; enjoy plain without spicy dipping sauces.",
+  "watchOuts": [
+    "Brush off excess coarse salt if sodium-sensitive"
+  ]
+}

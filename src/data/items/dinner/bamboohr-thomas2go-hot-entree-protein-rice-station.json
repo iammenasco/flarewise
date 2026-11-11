@@ -1,0 +1,40 @@
+{
+  "id": "bamboohr-thomas2go-hot-entree-protein-rice-station",
+  "name": "BambooHR Café (Thomas2Go) Daily Hot Entrée Station: Baked Salmon or Herb Chicken with Steamed Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine Café at BambooHR (Lindon, UT)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salmon",
+    "rice",
+    "potato",
+    "high-protein",
+    "dairy-free",
+    "gluten-free-option",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bamboohr cafe hot bar",
+    "thomas2go lunch specials",
+    "thomas cuisine bamboohr lindon"
+  ],
+  "whyItWorks": "Thomas Cuisine's hot line at BambooHR focuses on scratch-made whole proteins; asking the server for just the plain roasted chicken breast or baked salmon fillet with steamed white rice or roasted potatoes (skipping the composed sauce) gives you a clean 9+/10 workday lunch.",
+  "prepOrOrderInstructions": "At the Thomas2Go hot entrée counter, ask for the plain grilled/roasted protein (chicken, turkey, or salmon) with steamed rice or mashed/roasted potatoes and cooked carrots—ask to hold any citrus glaze, chimichurri, or spicy crema.",
+  "watchOuts": [
+    "Check the placard at the station for lemon-herb or garlic-cream sauces and ask for an un-sauced piece from the pan"
+  ]
+}

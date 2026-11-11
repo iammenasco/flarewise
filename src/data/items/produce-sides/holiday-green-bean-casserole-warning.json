@@ -1,0 +1,41 @@
+{
+  "id": "holiday-green-bean-casserole-warning",
+  "name": "Traditional Holiday Green Bean Casserole (Crispy Fried Onions Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "green-beans",
+    "onions",
+    "casserole",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "green bean casserole",
+    "thanksgiving green beans",
+    "frenchs crispy fried onions casserole"
+  ],
+  "whyItWorks": "Topped with French's crispy fried onions (concentrated allium fructans and deep-fried grease) and bound with condensed cream of mushroom soup. Causes intense gas, bloating, and cramping.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares. If sampling in remission, scrape off the fried onion topping to eat only the soft green beans.",
+  "watchOuts": [
+    "Crispy fried onions and cream of mushroom soup trigger severe allium gas and diarrhea"
+  ]
+}

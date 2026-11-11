@@ -1,0 +1,43 @@
+{
+  "id": "panama-canal-cheddar-bacon-tartlet-cauliflower-soup",
+  "name": "Panama Canal Menu: Warm Cheddar & Bacon Tartlet and Cream of Cauliflower Soup",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Panama Canal Dinner Menu",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "pork",
+    "soup",
+    "bakery",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "cheddar bacon tartlet",
+    "cream of cauliflower soup",
+    "cold avocado corn soup",
+    "panama canal menu"
+  ],
+  "whyItWorks": "Aged cheddar and bacon tartlet is low-fiber if you skip the sweet onion sauce; cauliflower soup is blended smooth but high in mannitol FODMAPs.",
+  "prepOrOrderInstructions": "Eat the Warm Cheddar & Bacon Tartlet without the sweet onion sauce; if ordering the Cream of Cauliflower Soup in remission, ask to hold the toasted almond garnish.",
+  "watchOuts": [
+    "Cauliflower mannitol and toasted almonds in soup",
+    "Skip the Cold Avocado Corn Soup during flares"
+  ]
+}

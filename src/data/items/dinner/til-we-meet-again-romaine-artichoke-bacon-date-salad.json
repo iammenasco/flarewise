@@ -1,0 +1,39 @@
+{
+  "id": "til-we-meet-again-romaine-artichoke-bacon-date-salad",
+  "name": "Romaine Leaves with Artichoke Chips & Bacon-Wrapped Date ('Til We Meet Again)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "pork",
+    "greens",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "romaine leaves with artichoke chips",
+    "bacon wrapped date",
+    "til we meet again"
+  ],
+  "whyItWorks": "The warm bacon-wrapped roasted date is a tasty bite, but fried artichoke chips, raw romaine stalks, and lemon Caesar dressing are rough.",
+  "prepOrOrderInstructions": "Eat the warm bacon-wrapped date only or swap for the smooth Potato Leek Soup.",
+  "watchOuts": [
+    "Raw romaine stalks and fried artichoke chips",
+    "Lemon juice in Caesar dressing"
+  ]
+}

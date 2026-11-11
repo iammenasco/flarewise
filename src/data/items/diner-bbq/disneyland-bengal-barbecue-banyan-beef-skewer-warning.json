@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-bengal-barbecue-banyan-beef-skewer-warning",
+  "name": "Disneyland Bengal Barbecue \"Banyan Beef\" Skewer (Hot & Spicy Sauce Warning)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Bengal Barbecue (Disneyland Park)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "beef",
+    "spicy",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "banyan beef skewer",
+    "spicy beef skewer disneyland",
+    "bengal barbecue spicy"
+  ],
+  "whyItWorks": "Coated in a fiery, concentrated hot pepper barbecue sauce. The heavy capsaicin heat causes severe intestinal cramping and burning in inflamed mucosa.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active disease. Order the mild sweet Bengal Beef skewer instead.",
+  "watchOuts": [
+    "Fiery hot pepper sauce burns intestinal lining"
+  ]
+}

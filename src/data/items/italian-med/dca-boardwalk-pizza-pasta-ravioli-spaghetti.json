@@ -1,0 +1,39 @@
+{
+  "id": "dca-boardwalk-pizza-pasta-ravioli-spaghetti",
+  "name": "DCA Boardwalk Pizza & Pasta Five-Cheese Ravioli or Kids' Turkey Meatball Spaghetti",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Boardwalk Pizza & Pasta (Paradise Gardens Park · Disney California Adventure)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "turkey",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "boardwalk pizza and pasta dca",
+    "five cheese ravioli dca",
+    "paradise gardens pasta"
+  ],
+  "whyItWorks": "Soft pillowy cheese ravioli or tender spaghetti with lean turkey meatballs (sauce on the side upon request at the pasta counter) gives you low-residue carbs and protein.",
+  "prepOrOrderInstructions": "At the pasta counter, ask for spaghetti with turkey meatballs and light/no marinara (or plain butter/Parmesan), or take 1–2 lactase tablets with the Five-Cheese Ravioli.",
+  "watchOuts": [
+    "Ricotta/mozzarella filling in ravioli and pesto cream sauces require lactase enzymes"
+  ]
+}

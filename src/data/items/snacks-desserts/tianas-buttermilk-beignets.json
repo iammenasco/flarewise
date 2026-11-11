@@ -1,0 +1,43 @@
+{
+  "id": "tianas-buttermilk-beignets",
+  "name": "Tiana's Buttermilk Beignets",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pastry",
+    "beignets",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "tianas buttermilk beignets",
+    "beignets",
+    "new orleans donut",
+    "tianas place dessert",
+    "disney wonder"
+  ],
+  "whyItWorks": "Airy refined white-flour pastry dusted with powdered sugar has virtually zero insoluble fiber and melts quickly like a warm glazed doughnut.",
+  "prepOrOrderInstructions": "Enjoy warm with the powdered sugar and smooth chocolate espresso dipping sauce (skip the dipping sauce if avoiding trace coffee/caffeine). Best when fried grease doesn't bother your stomach.",
+  "watchOuts": [
+    "Deep-fried pastry oil if fat-sensitive",
+    "Espresso in the chocolate dipping sauce"
+  ]
+}

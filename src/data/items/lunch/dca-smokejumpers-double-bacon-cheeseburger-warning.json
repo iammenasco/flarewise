@@ -1,0 +1,38 @@
+{
+  "id": "dca-smokejumpers-double-bacon-cheeseburger-warning",
+  "name": "Double Bacon Cheeseburger with Crinkle Waffle Fries",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Smokejumpers Grill (Disney California Adventure)",
+  "crohnsScore": 3.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.8,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "bacon-cheeseburger",
+    "danger-food",
+    "grizzly-peak"
+  ],
+  "searchKeywords": [
+    "smokejumpers grill",
+    "dca",
+    "double cheeseburger",
+    "waffle fries",
+    "grizzly peak"
+  ],
+  "whyItWorks": "Two fatty beef patties smothered in melted cheddar, thick bacon strips, burger sauce, and served with a basket of deep-fried waffle fries. Packs over 55g of fat that heavily stresses digestion.",
+  "prepOrOrderInstructions": "High Fat Warning: Choose the plain grilled chicken breast sandwich or a single hamburger patty instead."
+}

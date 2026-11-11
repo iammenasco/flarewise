@@ -1,0 +1,44 @@
+{
+  "id": "pirate-night-tia-dalmas-jerk-chicken",
+  "name": "Tia Dalma's Caribbean Jerk Chicken with Rice & Peas (Pirate Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "spicy",
+    "beans",
+    "rice",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "tia dalmas jerk chicken",
+    "pirate night jerk chicken",
+    "disney cruise"
+  ],
+  "whyItWorks": "Scotch bonnet / habanero jerk spice rub, allspice, lime, and whole red kidney beans in the rice make this a severe flare trigger.",
+  "prepOrOrderInstructions": "Do not order the Jerk Chicken; request the Lighter Note plain oven-roasted chicken breast with plain white rice instead.",
+  "watchOuts": [
+    "Scotch bonnet chili capsaicin in jerk rub",
+    "Whole kidney beans/pigeon peas",
+    "Lime juice"
+  ]
+}

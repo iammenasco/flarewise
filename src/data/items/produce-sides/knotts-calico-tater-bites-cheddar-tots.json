@@ -1,0 +1,40 @@
+{
+  "id": "knotts-calico-tater-bites-cheddar-tots",
+  "name": "Knott's Calico Tater Bites Crispy Tater Tots with Melted Cheddar & Bacon (Plain Mod)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Calico Tater Bites (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "cheese",
+    "pork",
+    "fried",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "calico tater bites knotts",
+    "tater tots knotts berry farm"
+  ],
+  "whyItWorks": "Shredded white potato tots have no skins or seeds; ordering them plain or with melted cheddar & bacon (holding jalapeños, raw green onions, and spicy sauces) makes a fun shareable snack.",
+  "prepOrOrderInstructions": "Ask for plain Tater Bites or Cheddar & Bacon Tater Bites with NO jalapeños, NO raw onions, and NO chili.",
+  "watchOuts": [
+    "Deep-fried tots + cheese sauce—share a basket and take lactase"
+  ]
+}

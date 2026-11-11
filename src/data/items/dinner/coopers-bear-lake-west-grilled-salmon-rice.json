@@ -1,0 +1,36 @@
+{
+  "id": "coopers-bear-lake-west-grilled-salmon-rice",
+  "name": "Fresh Grilled Atlantic Salmon with Steamed Jasmine Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cooper's at Bear Lake West (Fish Haven, ID)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "bear-lake",
+    "fish-haven",
+    "salmon",
+    "seafood"
+  ],
+  "searchKeywords": [
+    "coopers bear lake west",
+    "grilled salmon",
+    "jasmine rice",
+    "fish haven idaho"
+  ],
+  "whyItWorks": "Flaky grilled salmon delivers easily digestible marine protein packed with gut-healing EPA/DHA omega-3 fatty acids. Served with fragrant steamed jasmine rice, it is exceptionally gentle on the digestive tract.",
+  "prepOrOrderInstructions": "Request the salmon simply grilled with olive oil and salt, no blackened spices or creamy garlic sauces. Pair with steamed rice and skip steamed broccoli."
+}

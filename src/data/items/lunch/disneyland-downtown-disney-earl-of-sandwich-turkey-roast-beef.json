@@ -1,0 +1,43 @@
+{
+  "id": "disneyland-downtown-disney-earl-of-sandwich-turkey-roast-beef",
+  "name": "Downtown Disney Earl of Sandwich \"The Original 1762\" Roast Beef & Cheddar or Holiday Turkey",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Earl of Sandwich (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "budget-friendly",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "earl of sandwich downtown disney",
+    "holiday turkey sandwich disneyland",
+    "original 1762 roast beef"
+  ],
+  "whyItWorks": "Baked to order on soft hearth-baked white artisan bread: \"Holiday Turkey\" (roasted turkey, cornbread stuffing, gravy, cranberry) or \"The Original 1762\" (warm roast beef & sharp cheddar, holding the horseradish sauce) are warm, soft, and budget-friendly.",
+  "prepOrOrderInstructions": "Order \"The Original 1762\" with NO horseradish sauce, the \"Holiday Turkey\" (light cranberry), or the Morning Egg & Cheddar Breakfast Sandwich.",
+  "watchOuts": [
+    "Always ask for NO horseradish sauce on the Original 1762 and skip raw tomato/lettuce on club sandwiches"
+  ]
+}

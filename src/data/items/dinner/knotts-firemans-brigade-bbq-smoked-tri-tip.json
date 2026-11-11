@@ -1,0 +1,41 @@
+{
+  "id": "knotts-firemans-brigade-bbq-smoked-tri-tip",
+  "name": "Knott's Fireman's Brigade BBQ Sliced Smoked Tri-Tip Sirloin & Baked Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Fireman's Brigade BBQ (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "potato",
+    "high-protein",
+    "gluten-free-option",
+    "dairy-free",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "firemans bbq tri tip knotts",
+    "ghost town tri tip",
+    "knotts berry farm steak"
+  ],
+  "whyItWorks": "Tri-tip is a lean bottom-sirloin cut; grilled over the open pit and sliced thin alongside a baked Idaho potato, it is a high-protein, dairy-free meal in Ghost Town.",
+  "prepOrOrderInstructions": "Order the Sliced Tri-Tip with a Baked Potato (swap out baked beans or corn on the cob), ask for BBQ sauce on the side, and trim off any heavily peppered outer bark edges.",
+  "watchOuts": [
+    "Trim any coarse black-pepper outer crust and chew thoroughly"
+  ]
+}

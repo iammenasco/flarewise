@@ -1,0 +1,43 @@
+{
+  "id": "periscope-pub-wings-coconut-shrimp",
+  "name": "Periscope Pub Fried Coconut Shrimp & \"Hades Hot\" / Buffalo Chicken Wings (Avoid)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Periscope Pub",
+  "crohnsScore": 2.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "chicken",
+    "fried",
+    "spicy",
+    "coconut",
+    "disney-cruise",
+    "disney-treasure",
+    "periscope-pub"
+  ],
+  "searchKeywords": [
+    "periscope pub wings",
+    "coconut shrimp",
+    "hades hot wings",
+    "disney treasure pub"
+  ],
+  "whyItWorks": "Hard avoid: deep-fried shredded coconut crust (insoluble roughage + grease) and fiery habanero/cayenne \"Hades Hot\" wings trigger active flares.",
+  "prepOrOrderInstructions": "Skip the wings and fried coconut shrimp at Periscope Pub; order the Giant Warm German Pretzel instead.",
+  "watchOuts": [
+    "Capsaicin burn in Hades Hot / Buffalo sauce",
+    "Deep-fried shredded coconut roughage"
+  ]
+}

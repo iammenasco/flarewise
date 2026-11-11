@@ -1,0 +1,41 @@
+{
+  "id": "some-beaches-laketown-2nd-point-sweet-pulled-pork-sandwich",
+  "name": "Some Beaches (Laketown, UT) \"2nd Point\" Sweet Pulled Pork Sandwich (Slaw on Side)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "pork",
+    "bbq",
+    "sandwich"
+  ],
+  "searchKeywords": [
+    "some beaches pulled pork",
+    "2nd point sweet pulled pork",
+    "bear lake pork sandwich"
+  ],
+  "whyItWorks": "Slow-roasted pork shoulder is exceptionally tender with broken-down muscle fibers. Strained seedless raspberry BBQ sauce adds sweet flavor without seeds. Order coleslaw on the side.",
+  "prepOrOrderInstructions": "Order the 2nd Point Pulled Pork sandwich on an artisan bun with coleslaw served on the side (so raw cabbage roughage does not touch your sandwich).",
+  "watchOuts": [
+    "Do not eat raw cabbage coleslaw during digestive flareups"
+  ]
+}

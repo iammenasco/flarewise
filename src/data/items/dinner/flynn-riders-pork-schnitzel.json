@@ -1,0 +1,46 @@
+{
+  "id": "flynn-riders-pork-schnitzel",
+  "name": "Pork or Chicken Schnitzel (Pan-Fried Cutlet)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table / Disney Treasure · Worlds of Marvel",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "chicken",
+    "schnitzel",
+    "potato",
+    "disney-cruise",
+    "disney-magic",
+    "disney-treasure",
+    "rapunzels-royal-table",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "flynn riders platter",
+    "chicken schnitzel",
+    "pork schnitzel",
+    "wiener schnitzel",
+    "rapunzels royal table",
+    "worlds of marvel"
+  ],
+  "whyItWorks": "Pounding pork or chicken breast paper-thin breaks down tough muscle fibers before cooking, making it tender on the stomach when not overly greasy.",
+  "prepOrOrderInstructions": "Order with smooth mashed potatoes or white rice instead of fried potato hash/salad, and skip any lemon wedge or berry compote with seeds.",
+  "watchOuts": [
+    "Pan-fried breading oil if fat-sensitive",
+    "Lingonberry/cranberry skins and seeds"
+  ]
+}

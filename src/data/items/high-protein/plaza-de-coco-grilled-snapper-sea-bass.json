@@ -1,0 +1,43 @@
+{
+  "id": "plaza-de-coco-grilled-snapper-sea-bass",
+  "name": "Pan-Seared Snapper or Sea Bass (Plain Mod · Plaza de Coco)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "sea-bass",
+    "rice-base",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "grilled snapper",
+    "adobo spiced sea bass",
+    "plaza de coco fish",
+    "disney treasure"
+  ],
+  "whyItWorks": "Flaky red snapper and sea bass are ultra-gentle proteins; pairing them with smooth refried beans and white rice makes a flare-safe Mexican dinner.",
+  "prepOrOrderInstructions": "Ask for the snapper or sea bass seared plain (no adobo spice or chimichurri/pico de gallo) and served with plain white rice, peeled rainbow carrots, and a small side of smooth refried pinto beans.",
+  "watchOuts": [
+    "Default adobo spice rub and herb chimichurri",
+    "Raw tomato pico de gallo and lime squeeze"
+  ]
+}

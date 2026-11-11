@@ -1,0 +1,40 @@
+{
+  "id": "dca-pym-test-kitchen-quantum-pretzel",
+  "name": "DCA Pym Test Kitchen Giant \"Quantum Pretzel\" (453.8g Warm Bavarian Sourdough Pretzel)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pym Test Kitchen (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "sourdough",
+    "snack",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "quantum pretzel pym test kitchen",
+    "giant pretzel avengers campus",
+    "dca pretzel"
+  ],
+  "whyItWorks": "A massive, pillowy-soft Bavarian-style pretzel baked with refined wheat flour—naturally dairy-free and very gentle on the gut when eaten plain without the sharp beer-cheese and mustard dips.",
+  "prepOrOrderInstructions": "Share the giant Quantum Pretzel with your group, brush off excess coarse salt crystals, and leave the sharp beer-cheese sauce and whole-grain mustard in their cups.",
+  "watchOuts": [
+    "Skip the beer-cheese sauce (dairy + onion/garlic) and coarse mustard seed dip"
+  ]
+}

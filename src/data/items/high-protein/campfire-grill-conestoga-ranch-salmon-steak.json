@@ -1,0 +1,45 @@
+{
+  "id": "campfire-grill-conestoga-ranch-salmon-steak",
+  "name": "Campfire Grill at Conestoga Ranch Seared Salmon, Ribeye Steak or Farmhouse Omelet",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Campfire Grill at Conestoga Ranch (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "beef",
+    "steak",
+    "eggs",
+    "high-protein",
+    "gluten-free",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "campfire grill bear lake",
+    "conestoga ranch restaurant",
+    "garden city fine dining",
+    "seared salmon bear lake"
+  ],
+  "whyItWorks": "Bear Lake's best scratch sit-down kitchen: pan-seared sustainable salmon, steaks, and morning egg omelets cooked to order with whole ingredients.",
+  "prepOrOrderInstructions": "For dinner, order the Pan-Seared Salmon or Steak with plain potatoes; for breakfast, order the Farmhouse Omelet or Wrangler Egg Sandwich with eggs, meat, and aged cheese only.",
+  "watchOuts": [
+    "Request sauces and compound butters on the side"
+  ]
+}

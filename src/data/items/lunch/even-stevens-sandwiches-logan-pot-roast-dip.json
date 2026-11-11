@@ -1,0 +1,41 @@
+{
+  "id": "even-stevens-sandwiches-logan-pot-roast-dip",
+  "name": "Even Stevens (Logan, UT) Slow-Braised Pot Roast Dip with Melted Provolone",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Even Stevens Sandwiches (Logan, UT)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "beef",
+    "pot-roast",
+    "sandwich"
+  ],
+  "searchKeywords": [
+    "even stevens logan",
+    "pot roast dip even stevens",
+    "french dip logan utah"
+  ],
+  "whyItWorks": "Tender, slow-braised chuck roast with melted provolone on a soft French baguette. Dipping in warm beef au jus softens the bread for easy chewing and gentle transit.",
+  "prepOrOrderInstructions": "Order the Pot Roast Dip with au jus; request no pickled onions or horseradish.",
+  "watchOuts": [
+    "Hold pickled onions and spicy horseradish sauce"
+  ]
+}

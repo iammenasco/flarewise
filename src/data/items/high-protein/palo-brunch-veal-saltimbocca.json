@@ -1,0 +1,41 @@
+{
+  "id": "palo-brunch-veal-saltimbocca",
+  "name": "Palo Brunch Veal Saltimbocca with Prosciutto, Sage & Barolo Wine Jus",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pork",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "veal saltimbocca",
+    "palo brunch veal",
+    "disney cruise"
+  ],
+  "whyItWorks": "Thinly pounded tender veal escalopes wrapped in prosciutto are zero-fiber protein; only the bitter rapini/broccoli rabe side needs swapping.",
+  "prepOrOrderInstructions": "Ask to swap the fibrous black-garlic rapini side for creamy risotto or fondant potatoes, and order the Barolo jus on the side.",
+  "watchOuts": [
+    "Fibrous rapini (broccoli rabe) side and black garlic (swap for risotto/potatoes)"
+  ]
+}

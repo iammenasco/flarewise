@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-plaza-inn-fried-chicken-mashed-potatoes",
+  "name": "Disneyland Plaza Inn Famous Fried Chicken (Peel Crispy Skin Mod) & Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Plaza Inn (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "fried",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "plaza inn fried chicken",
+    "disneyland famous fried chicken",
+    "main street fried chicken"
+  ],
+  "whyItWorks": "Disneyland's most iconic comfort meal; the moist white-meat chicken breast inside the crust is tender and low-residue once you peel off most of the heavily seasoned, deep-fried skin.",
+  "prepOrOrderInstructions": "Peel away the thick fried skin/breading from the chicken breast to cut the fryer oil and black pepper by 80%, eat with mashed potatoes and a soft biscuit, and ask for gravy on the side.",
+  "watchOuts": [
+    "The outer fried skin is rich in fryer oil and pepper—always remove most of the crust if not in deep remission, or order the Plaza Inn Pot Roast instead"
+  ]
+}

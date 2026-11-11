@@ -1,0 +1,40 @@
+{
+  "id": "plaza-de-coco-plant-based-mushroom-tacos",
+  "name": "Plant-Based Wild Mushroom & Charred Onion Flour Tacos (Night 1)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "tortilla",
+    "mushroom",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "wild mushroom flour tacos",
+    "plaza de coco plant based",
+    "disney treasure"
+  ],
+  "whyItWorks": "Soft flour tortillas are flare-friendly, but the filling of chewy wild mushrooms, charred onions, and pickled cabbage/lime is high-FODMAP.",
+  "prepOrOrderInstructions": "If ordering tacos, ask the kitchen to fill the warm flour tortillas with plain shredded chicken or plain beef tenderloin strips instead of mushrooms and onions.",
+  "watchOuts": [
+    "Wild mushroom mannitol and charred onion fructans",
+    "Raw cabbage slaw and lime squeeze"
+  ]
+}

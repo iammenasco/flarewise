@@ -1,0 +1,42 @@
+{
+  "id": "til-we-meet-again-artichoke-spinach-jalapeno-dip",
+  "name": "Artichoke, Spinach & Jalapeño Cheese Dip with Pita ('Til We Meet Again)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "greens",
+    "spicy",
+    "bread",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "artichoke spinach jalapeno cheese dip",
+    "til we meet again",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Combines fibrous artichoke hearts, spinach stems, diced jalapeño heat, and heavy melted cheese.",
+  "prepOrOrderInstructions": "Skip this dip during flares and order the Potato Leek Soup or Chilled Seafood Medley instead.",
+  "watchOuts": [
+    "Jalapeño capsaicin heat",
+    "Fibrous artichoke hearts and heavy dairy cream"
+  ]
+}

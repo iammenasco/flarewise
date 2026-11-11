@@ -1,0 +1,45 @@
+{
+  "id": "disneyland-storytellers-cafe-grand-californian-carved-turkey-prime-rib-waffles",
+  "name": "Disney's Grand Californian Storytellers Cafe Carved Turkey, Prime Rib, Salmon, Rice & Mickey Waffles",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Storytellers Cafe (Disney's Grand Californian Hotel & Spa · Disneyland Resort)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "salmon",
+    "eggs",
+    "waffles",
+    "potato",
+    "high-protein",
+    "gluten-free-option",
+    "vacation",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "storytellers cafe grand californian",
+    "grand californian breakfast dinner buffet",
+    "best character dining disneyland"
+  ],
+  "whyItWorks": "With its private entrance right into Disney California Adventure, Storytellers Cafe's carving station and made-to-order omelet bar let you eat clean carved turkey breast, prime rib (trim outer fat), baked salmon, mashed potatoes, white rice, scrambled eggs, and allergy-friendly Mickey waffles.",
+  "prepOrOrderInstructions": "Head to the carving station for lean roasted turkey or center-cut prime rib with mashed potatoes and cooked carrots, or ask your server for freshly made dairy-free/gluten-free Mickey waffles and a plain ham & cheddar omelet.",
+  "watchOuts": [
+    "Skip creamy horseradish sauce, raw salad bar veggies, and seeded berry desserts"
+  ]
+}

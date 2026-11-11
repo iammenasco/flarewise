@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-tropical-hideaway-pork-lemongrass-bao",
+  "name": "Disneyland The Tropical Hideaway Steamed Pork & Lemongrass Bao Bun",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "The Tropical Hideaway (Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "bao",
+    "pork",
+    "adventureland"
+  ],
+  "searchKeywords": [
+    "tropical hideaway pork bao",
+    "disneyland bao bun",
+    "steamed pork bun adventureland"
+  ],
+  "whyItWorks": "Soft, pillowy steamed yeast dough filled with savory minced pork, sweet soy, and a hint of lemongrass. Steamed buns are low-fat and easy to chew.",
+  "prepOrOrderInstructions": "Order the Steamed Pork Bao Bun; enjoy with mild soy dipping sauce (avoid spicy chili garlic sauce).",
+  "watchOuts": [
+    "Avoid spicy chili dipping sauce"
+  ]
+}

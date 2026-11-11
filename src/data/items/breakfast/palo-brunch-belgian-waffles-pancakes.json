@@ -1,0 +1,44 @@
+{
+  "id": "palo-brunch-belgian-waffles-pancakes",
+  "name": "Palo Brunch Belgian Waffles & Buttermilk Pancakes",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "waffle",
+    "pancake",
+    "sweet",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo belgian waffles",
+    "palo buttermilk pancakes",
+    "palo brunch waffles"
+  ],
+  "whyItWorks": "Crisp-tender Belgian waffles and fluffy buttermilk pancakes made from refined white flour are completely seedless and citrus-free.",
+  "prepOrOrderInstructions": "Ask for maple syrup and whipped butter on the side and hold the macerated strawberry/raspberry berry compote (seeds).",
+  "watchOuts": [
+    "Berry compote seeds if not ordered plain",
+    "Dairy buttermilk/whipped cream"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tsunami-sushi-south-jordan-lehi-salmon-nigiri-udon",
+  "name": "Tsunami Restaurant & Sushi Bar (South Jordan / Lehi) Salmon Nigiri, Sunshine Roll & Chicken Udon Soup",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tsunami Restaurant & Sushi Bar (South Jordan / Lehi / Sugar House, UT)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "rice",
+    "noodles",
+    "soup",
+    "high-protein",
+    "dairy-free",
+    "utah"
+  ],
+  "searchKeywords": [
+    "tsunami sushi south jordan",
+    "tsunami lehi traverse mountain",
+    "sushi near herriman south jordan",
+    "sushi near bamboohr"
+  ],
+  "whyItWorks": "With locations in South Jordan (106th S / District area near Herriman) and Lehi (Traverse Mountain near BambooHR), Tsunami offers ultra-fresh Salmon Nigiri, steamed white rice with teriyaki salmon/chicken, and soothing dashi-broth Chicken Udon noodle soup.",
+  "prepOrOrderInstructions": "Order Salmon Nigiri, a plain California or Salmon Avocado Roll, or Chicken/Tempura-Free Udon Soup—avoid rolls topped with thin lemon slices (like the Sunshine Roll unless you request \"no lemon slices\") or spicy jalapeno/sriracha sauces.",
+  "watchOuts": [
+    "IMPORTANT: Tsunami's popular \"Sunshine Roll\" is topped with thin raw lemon slices (citrus trigger)—always order it with \"NO lemon\" or stick to Salmon Nigiri & Avocado Rolls"
+  ]
+}

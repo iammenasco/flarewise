@@ -1,0 +1,42 @@
+{
+  "id": "cafe-sabor-logan-garden-city-beef-taquitos-plate",
+  "name": "Café Sabor (Logan & Garden City, UT) Crispy Shredded Beef Taquitos (Sour Cream on Side)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "beef",
+    "taquitos",
+    "mexican"
+  ],
+  "searchKeywords": [
+    "cafe sabor taquitos",
+    "shredded beef taquitos bear lake",
+    "crispy taquitos logan"
+  ],
+  "whyItWorks": "Shredded beef rolled tight in corn tortillas and crisped golden. Tender, lean beef inside a crunchy shell. Digestible in remission.",
+  "prepOrOrderInstructions": "Order the Shredded Beef Taquitos with sour cream and guacamole on the side; dip in mild salsa or plain guacamole.",
+  "watchOuts": [
+    "Crunchy corn shell requires thorough chewing"
+  ]
+}

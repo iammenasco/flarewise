@@ -1,0 +1,39 @@
+{
+  "id": "sams-club-deli-enchiladas-potato-soup",
+  "name": "Sam's Club Member's Mark Loaded Baked Potato Soup (Take Lactase)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Sam's Club Deli (Logan / South Jordan, UT)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "soup",
+    "cheese",
+    "pork",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sams club baked potato soup",
+    "members mark potato soup",
+    "logan sams club deli"
+  ],
+  "whyItWorks": "Tender diced Russet potatoes, cheddar, and bacon in a velvety base have very low fiber and zero raw vegetables, making a warm comfort soup when paired with a lactase enzyme.",
+  "prepOrOrderInstructions": "Heat gently on the stovetop, pair with saltines or sourdough toast, and take a lactase tablet before eating.",
+  "watchOuts": [
+    "Creamy dairy base requires lactase enzymes; skip Sam's Club green chile chicken enchiladas during flares due to spicy Hatch green chiles"
+  ]
+}

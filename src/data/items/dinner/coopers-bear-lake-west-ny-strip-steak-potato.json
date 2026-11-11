@@ -1,0 +1,40 @@
+{
+  "id": "coopers-bear-lake-west-ny-strip-steak-potato",
+  "name": "Cooper's Restaurant (Fish Haven, ID) Charbroiled New York Strip Steak & Idaho Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Fish Haven / Bear Lake West, ID)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "fish-haven",
+    "bear-lake",
+    "beef",
+    "steak",
+    "potatoes",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "coopers ny strip",
+    "bear lake west steak dinner",
+    "fish haven strip steak"
+  ],
+  "whyItWorks": "Lean hand-cut New York strip steak charbroiled with sea salt and cracked pepper. Rich in bioavailable iron and zinc, paired with fluffy Idaho potato flesh.",
+  "prepOrOrderInstructions": "Order the New York Strip medium with a plain baked Idaho potato (eat the soft inside flesh with butter, skip tough potato skins).",
+  "watchOuts": [
+    "Chew steak thoroughly and discard tough outer potato skin"
+  ]
+}

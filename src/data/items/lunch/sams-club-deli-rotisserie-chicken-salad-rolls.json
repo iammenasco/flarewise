@@ -1,0 +1,45 @@
+{
+  "id": "sams-club-deli-rotisserie-chicken-salad-rolls",
+  "name": "Sam's Club Deli Member's Mark Chicken Noodle Soup & Hawaiian Rolls",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Sam's Club Deli & Bakery (Logan, South Jordan & Nationwide)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Member's Mark Rotisserie Chicken Noodle Soup",
+    "Member's Mark Sweet Hawaiian Rolls"
+  ],
+  "tags": [
+    "soup",
+    "chicken",
+    "bread",
+    "high-protein",
+    "sams-club",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sams club chicken noodle soup",
+    "members mark hawaiian rolls",
+    "sams club deli meals"
+  ],
+  "whyItWorks": "Prepared deli tub of rotisserie chicken noodle soup paired with pillowy sweet Hawaiian rolls makes an effortless, gut-gentle meal.",
+  "prepOrOrderInstructions": "Heat the soup on the stovetop and serve with warm Hawaiian rolls (avoid the pre-made Cranberry Pecan Chicken Salad which contains raw celery, dried cranberries, and pecans).",
+  "watchOuts": [
+    "Do not confuse with the Deli Chicken Salad (which often contains celery and pecans)"
+  ]
+}

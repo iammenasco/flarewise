@@ -1,0 +1,39 @@
+{
+  "id": "knotts-boardwalk-bbq-smoked-half-chicken",
+  "name": "Knott's Boardwalk BBQ Hickory-Smoked Half Chicken Platter",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Boardwalk BBQ (Knott's Berry Farm)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "chicken",
+    "bbq",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "boardwalk bbq chicken",
+    "knotts smoked chicken",
+    "boardwalk bbq platter"
+  ],
+  "whyItWorks": "Slow-smoked half chicken with tender white and dark meat. Unbreaded, naturally lean, and low-residue. Great protein source during long park walking days.",
+  "prepOrOrderInstructions": "Order the Smoked Half Chicken with baked macaroni & cheese or white bread; peel off crispy skin if feeling sensitive.",
+  "watchOuts": [
+    "None; lean, satisfying protein"
+  ]
+}

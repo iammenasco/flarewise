@@ -1,0 +1,42 @@
+{
+  "id": "quick-n-tasty-garden-city-chicken-tenders-basket",
+  "name": "Quick N Tasty (Garden City, UT) Crispy Golden Chicken Tenders & Fries Basket",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Quick N Tasty (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "chicken",
+    "tenders",
+    "fries"
+  ],
+  "searchKeywords": [
+    "quick n tasty chicken tenders",
+    "chicken strips bear lake",
+    "garden city chicken basket"
+  ],
+  "whyItWorks": "Tender white meat chicken strips fried crisp, served with golden french fries and mild honey or ketchup. Simple, high-protein lake comfort food.",
+  "prepOrOrderInstructions": "Order the Chicken Tenders basket with honey or ketchup for dipping.",
+  "watchOuts": [
+    "Peel off crispy skin if experiencing active digestive sensitivity"
+  ]
+}

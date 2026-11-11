@@ -1,0 +1,45 @@
+{
+  "id": "castaway-cay-serenity-bay-ribeye-steak",
+  "name": "Castaway Cay Serenity Bay Adult BBQ Flame-Grilled Ribeye Steak",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Castaway Cay · Serenity Bay BBQ (Adults 18+)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "rice",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "castaway-cay"
+  ],
+  "searchKeywords": [
+    "serenity bay ribeye steak",
+    "castaway cay steak",
+    "serenity bay bbq",
+    "disney cruise island"
+  ],
+  "whyItWorks": "Exclusive to the 18+ Serenity Bay beach tram stop on Castaway Cay: freshly grilled-to-order ribeye steak paired with plain steamed jasmine rice.",
+  "prepOrOrderInstructions": "Ask the grill chef for a freshly cooked ribeye steak with light salt only (no heavy black pepper), trim visible edge fat, and pair with steamed jasmine rice and banana bread.",
+  "watchOuts": [
+    "Trim ribeye marbling fat",
+    "Coarse grill pepper if not requested light"
+  ]
+}

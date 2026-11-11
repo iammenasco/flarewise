@@ -1,0 +1,41 @@
+{
+  "id": "pirate-night-vegetable-samosa",
+  "name": "Sri Sumbhajee's Crispy Vegetable Samosa with Tamarind & Yogurt Raita (Pirate Night)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "fried",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "sri sumbhajees vegetable samosa",
+    "pirate night samosa",
+    "disney cruise"
+  ],
+  "whyItWorks": "Spiced potato filling is soft, but the deep-fried pastry shell, whole green peas, and garam masala/chili spices irritate flares.",
+  "prepOrOrderInstructions": "If tasting in remission, eat the soft potato center only and skip the fried pastry corners and whole peas.",
+  "watchOuts": [
+    "Deep-fried pastry oil",
+    "Whole green peas and Indian chili spices"
+  ]
+}

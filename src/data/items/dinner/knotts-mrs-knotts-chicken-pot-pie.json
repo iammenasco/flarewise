@@ -1,0 +1,39 @@
+{
+  "id": "knotts-mrs-knotts-chicken-pot-pie",
+  "name": "Knott's Mrs. Knott's Golden Chicken Pot Pie with Flaky Pastry Crust",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (Knott's Berry Farm)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "chicken",
+    "pot-pie",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "mrs knotts pot pie",
+    "chicken pot pie knotts",
+    "knotts berry farm pot pie"
+  ],
+  "whyItWorks": "Tender shredded chicken breast and soft diced carrots simmered in rich chicken gravy under a golden, flaky pastry crust. Comforting and easy to break down in remission.",
+  "prepOrOrderInstructions": "Order the Chicken Pot Pie; eat the tender chicken, soft carrots, and flaky top crust (leave whole green peas if pea skins cause gas).",
+  "watchOuts": [
+    "Whole green peas can produce mild gas in sensitive intestines"
+  ]
+}

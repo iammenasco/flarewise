@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-harbour-galley-clam-chowder-sourdough-bowl",
+  "name": "Disneyland Harbour Galley New England Clam Chowder in a Boudin Sourdough Bread Bowl",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Harbour Galley (Bayou Country / New Orleans Square · Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "potato",
+    "sourdough",
+    "soup",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "harbour galley clam chowder",
+    "disneyland sourdough bread bowl",
+    "harbour galley cookies"
+  ],
+  "whyItWorks": "Authentic long-fermented Boudin sourdough bread filled with tender diced potatoes and clam chowder gives you warm, low-residue comfort by the Rivers of America when paired with lactase.",
+  "prepOrOrderInstructions": "Take 1–2 lactase tablets before eating, or ask for the soup on the side so you can eat the soft interior of the warm sourdough bread bowl at your own pace.",
+  "watchOuts": [
+    "Cream chowder is high in dairy lactose; if ordering Harbour Galley's viral warm Chocolate Chip Cookies, share 1–2 small cookies with protein"
+  ]
+}

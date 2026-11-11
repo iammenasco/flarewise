@@ -1,0 +1,43 @@
+{
+  "id": "captains-gala-braised-oxtail-soup",
+  "name": "Braised Oxtail Consommé Soup with Porcini Tortellini (Captain's Gala Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "beef",
+    "pasta",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "braised oxtail soup",
+    "porcini tortellini",
+    "captains gala soup",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Clarified collagen-rich beef oxtail broth with tender shredded beef and soft pasta tortellini is soothing and low-residue.",
+  "prepOrOrderInstructions": "Sip the clear beef broth and shredded oxtail meat; skip the tortellini only if mushroom mannitol bothers you.",
+  "watchOuts": [
+    "Porcini mushroom filling inside the single tortellini"
+  ]
+}

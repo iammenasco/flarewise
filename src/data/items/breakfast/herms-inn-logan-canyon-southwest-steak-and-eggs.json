@@ -1,0 +1,42 @@
+{
+  "id": "herms-inn-logan-canyon-southwest-steak-and-eggs",
+  "name": "Herm's Inn (Logan, UT) Charbroiled NY Strip Steak, Eggs & Avocado (Hold Sriracha)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan Canyon / Logan, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "steak",
+    "breakfast",
+    "eggs",
+    "avocado",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "herms inn steak and eggs",
+    "southwest steak eggs logan",
+    "canyon road steak breakfast"
+  ],
+  "whyItWorks": "10 oz New York strip steak with fresh eggs, breakfast potatoes, and sliced ripe avocado. Pure protein and healthy potassium.",
+  "prepOrOrderInstructions": "Order Steak & Eggs with avocado and toast; request no sriracha and hold raw pico de gallo.",
+  "watchOuts": [
+    "Request no sriracha hot sauce and hold raw pico de gallo"
+  ]
+}

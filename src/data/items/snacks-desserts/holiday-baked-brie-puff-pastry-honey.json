@@ -1,0 +1,37 @@
+{
+  "id": "holiday-baked-brie-puff-pastry-honey",
+  "name": "Holiday Warm Baked Brie in Puff Pastry with Honey & Water Crackers (No Nuts/Cranberries)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Holiday Home Cooking (Thanksgiving & Christmas Appetizer)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "sweet",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "holiday baked brie",
+    "baked brie puff pastry honey",
+    "christmas cheese appetizer"
+  ],
+  "whyItWorks": "Ripened Brie is naturally very low in lactose (<0.5g per serving) because the mold cultures break down the milk sugars; drizzled with pure honey inside flaky puff pastry with plain water crackers, it is a safe holiday party starter.",
+  "prepOrOrderInstructions": "Top the wheel of Brie with pure honey or seedless apricot preserves before wrapping in puff pastry—leave off chopped pecans/walnuts and whole cranberries.",
+  "watchOuts": [
+    "Skip chopped pecans, walnuts, and whole cranberry-orange toppings; eat a modest portion as puff pastry is high in butterfat"
+  ]
+}

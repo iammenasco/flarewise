@@ -1,0 +1,42 @@
+{
+  "id": "captains-gala-orange-almond-cake",
+  "name": "Warm Valencia Orange-Almond Cake with Citrus Syrup (Captain's Gala Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "nuts",
+    "sweet",
+    "bakery",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "orange almond cake",
+    "captains gala dessert",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Hard avoid under the strict citrus guardrail: baked with whole pureed Valencia oranges (including peel) and citrus syrup.",
+  "prepOrOrderInstructions": "Do not order this dessert; choose the Warm Chocolate Lava Cake or Amaretto Cheesecake instead.",
+  "watchOuts": [
+    "Whole orange peel and citrus syrup (strict avoid)",
+    "Almond meal fiber"
+  ]
+}

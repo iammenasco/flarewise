@@ -1,0 +1,36 @@
+{
+  "id": "knotts-mrs-knotts-country-fried-chicken-warning",
+  "name": "Classic Country Fried Chicken (Skin & Batter Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "fried-chicken",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "mrs knotts chicken dinner",
+    "fried chicken",
+    "country fried chicken",
+    "knotts berry farm"
+  ],
+  "whyItWorks": "Deep-fried chicken pieces with crunchy thick flour crust and rich skin. The heavy saturated fat content from deep-frying triggers vigorous gall bladder contraction and rapid bowel evacuation.",
+  "prepOrOrderInstructions": "High Grease Warning: If eating fried chicken at Mrs. Knott's, peel off and discard all outer skin and fried batter."
+}

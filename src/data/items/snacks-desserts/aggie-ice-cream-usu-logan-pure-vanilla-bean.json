@@ -1,0 +1,39 @@
+{
+  "id": "aggie-ice-cream-usu-logan-pure-vanilla-bean",
+  "name": "Aggie Ice Cream (USU Logan, UT) Classic Caine Dairy Pure Vanilla Bean Dish",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Aggie Ice Cream (Utah State University, Logan, UT)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "usu",
+    "ice-cream",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "aggie ice cream vanilla",
+    "usu vanilla ice cream",
+    "caine dairy pure vanilla"
+  ],
+  "whyItWorks": "The baseline classic of USU creamery! Pure milk and cream with Madagascar vanilla bean extract. Zero seeds, zero nuts, zero cookies, and zero artificial colors.",
+  "prepOrOrderInstructions": "Order a single baby scoop in a cup; take a lactase enzyme tablet if lactose sensitive.",
+  "watchOuts": [
+    "Contains dairy lactose"
+  ]
+}

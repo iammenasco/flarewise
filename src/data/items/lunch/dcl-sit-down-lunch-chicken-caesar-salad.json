@@ -1,0 +1,44 @@
+{
+  "id": "dcl-sit-down-lunch-chicken-caesar-salad",
+  "name": "Sit-Down Lunch Roasted Chicken Breast Caesar Salad",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "salad",
+    "cheese",
+    "greens",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "chicken caesar salad",
+    "sit down lunch",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "The sliced roasted chicken breast, croutons, and shaved aged Parmesan are great protein, while the raw romaine and lemon Caesar dressing need modification.",
+  "prepOrOrderInstructions": "Eat the warm roasted chicken breast, croutons, and shaved Parmesan (or ask for the chicken breast served over mashed potatoes instead of romaine).",
+  "watchOuts": [
+    "Raw romaine lettuce stalks",
+    "Lemon juice and garlic in Caesar dressing"
+  ]
+}

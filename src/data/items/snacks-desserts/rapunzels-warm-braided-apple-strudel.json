@@ -1,0 +1,41 @@
+{
+  "id": "rapunzels-warm-braided-apple-strudel",
+  "name": "Warm Braided Apple Strudel with Vanilla Sauce & Ice Cream (Lantern Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "applesauce",
+    "bakery",
+    "sweet",
+    "ice-cream",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "warm braided apple strudel",
+    "rapunzels royal table strudel",
+    "disney magic"
+  ],
+  "whyItWorks": "Soft baked cinnamon apples in flaky strudel pastry; watch out for plump golden raisins tucked inside the apple filling.",
+  "prepOrOrderInstructions": "Pick out any raisins/sultanas from the apple filling if flaring and take a Lactaid for the vanilla sauce and ice cream.",
+  "watchOuts": [
+    "Raisins inside strudel filling",
+    "Dairy vanilla anglaise and ice cream"
+  ]
+}

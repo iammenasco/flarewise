@@ -1,0 +1,43 @@
+{
+  "id": "dans-drive-in-montpelier-burger-fries",
+  "name": "Dan's Drive-In (Montpelier, ID) Hand-Pressed Cheeseburger & Fresh Home-Cut Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "potato",
+    "bear-lake",
+    "montpelier",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "dans drive in montpelier",
+    "montpelier idaho burger",
+    "dans bear lake",
+    "home cut fries"
+  ],
+  "whyItWorks": "Fresh-never-frozen hand-pressed Idaho beef patty on a soft bun; ordering it plain with American/Cheddar cheese makes a reliable stop on the north end of Bear Lake.",
+  "prepOrOrderInstructions": "Order a single Cheeseburger plain (meat, cheese, bun, light ketchup) and eat only the soft centers of the fresh home-cut Idaho fries (leaving dark potato skins behind).",
+  "watchOuts": [
+    "Home-cut fries retain potato skins—eat lightly or stick to the burger",
+    "Skip fried onion rings on the Rodeo Burger"
+  ]
+}

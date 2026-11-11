@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-cafe-orleans-grilled-chicken-rice",
+  "name": "Disneyland Cafe Orleans Roasted Chicken or Petite Steak with Potatoes/Rice (No Blackening Mod)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cafe Orleans (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "potato",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "cafe orleans steak",
+    "cafe orleans chicken",
+    "new orleans square safe meal"
+  ],
+  "whyItWorks": "Ordering the roasted chicken breast or steak entrée (or the Kids' Grilled Chicken & Rice) without Cajun pepper seasoning gives you a lean, freshly cooked table-service meal.",
+  "prepOrOrderInstructions": "Request your chicken or steak prepared plain without Creole/Cajun pepper rub, and swap garlic-parmesan Pommes Frites for plain fries, mashed potatoes, or white rice.",
+  "watchOuts": [
+    "Standard Pommes Frites are tossed in minced raw garlic and herbs—ask for plain fries or rice instead"
+  ]
+}

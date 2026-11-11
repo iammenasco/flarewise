@@ -1,0 +1,41 @@
+{
+  "id": "plaza-de-coco-romaine-wedge-salad",
+  "name": "Roasted Corn & Romaine Wedge Salad with Cotija & Pepitas (Night 2)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "corn",
+    "seeds",
+    "greens",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "romaine wedge salad cotija pepitas",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Hard avoid for flares: combines raw romaine stalks, whole corn kernels, whole pumpkin seeds (pepitas), and lime-cilantro dressing.",
+  "prepOrOrderInstructions": "Skip this salad and order the Creamy Corn Chowder (strained of whole kernels) instead.",
+  "watchOuts": [
+    "Whole corn kernels and pumpkin seeds",
+    "Lime dressing (citrus)",
+    "Raw romaine lettuce"
+  ]
+}

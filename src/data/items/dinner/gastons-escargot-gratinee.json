@@ -1,0 +1,46 @@
+{
+  "id": "gastons-escargot-gratinee",
+  "name": "Gaston's Escargot Gratinée (Avoid in Flares)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Lumiere's / Disney Wonder · Triton's",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "french",
+    "garlic",
+    "butter",
+    "warning",
+    "disney-cruise",
+    "disney-magic",
+    "disney-wonder",
+    "lumieres",
+    "tritons"
+  ],
+  "searchKeywords": [
+    "gastons escargot",
+    "snails",
+    "lumieres",
+    "tritons",
+    "disney magic",
+    "disney wonder"
+  ],
+  "whyItWorks": "Chewy snail meat, finely chopped indigestible mushrooms, and a heavy pool of garlic-herb butter combine tough texture with high fat and FODMAPs.",
+  "prepOrOrderInstructions": "Avoid during flares. In solid remission, dip a small piece of French bread into the melted herb butter rather than eating the chewy snails and mushrooms.",
+  "flareEmergencySwap": "Order the Iced Lobster and Jumbo Shrimp or Potage Parmentier (smooth leek and potato soup) instead.",
+  "watchOuts": [
+    "Chewy snail texture and chopped mushrooms",
+    "Heavy garlic butter pool"
+  ]
+}

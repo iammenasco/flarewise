@@ -1,0 +1,42 @@
+{
+  "id": "zipz-bear-lake-mushroom-swiss-burger",
+  "name": "Zipz (Garden City, UT) Sautéed Mushroom & Swiss Cheeseburger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Zipz Bear Lake (Garden City, UT)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "beef",
+    "burger",
+    "mushrooms"
+  ],
+  "searchKeywords": [
+    "zipz mushroom swiss burger",
+    "zipz bear lake burger",
+    "garden city drive in burger"
+  ],
+  "whyItWorks": "Sautéed mushrooms are cooked soft, making them much easier to digest than raw vegetables. Swiss cheese is aged and naturally low in lactose. Great roadside burger in remission.",
+  "prepOrOrderInstructions": "Order the Mushroom Swiss Burger on a soft bun with mayo (hold raw onions and lettuce).",
+  "watchOuts": [
+    "Mushroom polyols (FODMAPs) can produce bloating in sensitive stomachs"
+  ]
+}

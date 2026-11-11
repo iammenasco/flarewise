@@ -1,0 +1,44 @@
+{
+  "id": "world-of-flavour-apple-pithiviers-golden-award-pear-tart",
+  "name": "World of Flavour Desserts: Baked Apple-Blueberry Pithiviers, Golden Award Cake & Pear Tart",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · World of Flavour Menu (Panama Canal / Long Voyages)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "applesauce",
+    "berries",
+    "chocolate",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "baked apple blueberry pithiviers",
+    "the golden award chocolate",
+    "baked pear tart",
+    "world of flavour dessert"
+  ],
+  "whyItWorks": "The Golden Award milk-chocolate mousse chiffon cake and Warm Apple-Blueberry Puff Pastry Pithiviers are seedless and 100% citrus-free.",
+  "prepOrOrderInstructions": "Choose The Golden Award chocolate chiffon cake or Apple-Blueberry Pithiviers (with a Lactaid); skip the Triple Strawberry Sundae (macadamia nuts + strawberry seeds).",
+  "watchOuts": [
+    "Macadamia nuts and strawberry seeds in Triple Strawberry Sundae",
+    "Pear sorbitol in Pear Tart"
+  ]
+}

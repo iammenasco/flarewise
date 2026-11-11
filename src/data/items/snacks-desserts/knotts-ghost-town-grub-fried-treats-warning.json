@@ -1,0 +1,37 @@
+{
+  "id": "knotts-ghost-town-grub-fried-treats-warning",
+  "name": "Knott's Ghost Town Grub Deep-Fried Funnel Cake Fries & Fried Twinkies (Fryer Oil Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ghost Town Grub (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sweet",
+    "fried",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "ghost town grub knotts",
+    "funnel cake fries knotts"
+  ],
+  "whyItWorks": "Reference warning: cutting funnel cake dough into thin fry strips multiplies the fryer-oil surface area, making it a heavy grease and sugar trigger.",
+  "prepOrOrderInstructions": "Skip Ghost Town Grub during sensitive periods and walk to Ghost Town Bakery for a baked Snoopy Sugar Cookie or Croissant instead.",
+  "watchOuts": [
+    "Extremely high saturated fryer oil and sugar load"
+  ]
+}

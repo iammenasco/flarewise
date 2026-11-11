@@ -1,0 +1,48 @@
+{
+  "id": "holiday-classic-deviled-eggs",
+  "name": "Holiday Classic Smooth Deviled Eggs (Paprika & Dijon — No Relish)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Thanksgiving & Christmas Appetizer Table",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "no-microwave"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Hard-Boiled Eggs",
+    "Mayonnaise",
+    "Yellow or Dijon Mustard",
+    "Sweet Paprika"
+  ],
+  "tags": [
+    "eggs",
+    "high-protein",
+    "gluten-free",
+    "dairy-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "deviled eggs",
+    "holiday appetizer",
+    "thanksgiving appetizer"
+  ],
+  "whyItWorks": "While everyone else snacks on raw veggie trays and mixed nuts before holiday dinner, smooth deviled eggs give you zero-fiber, dairy-free protein that won't hurt your stomach.",
+  "prepOrOrderInstructions": "Make with mashed egg yolks, mayo, a touch of mustard, and sweet paprika (not cayenne), and leave out chopped pickle relish or jalapenos.",
+  "watchOuts": [
+    "Skip deviled eggs topped with jalapeño slices or cayenne pepper"
+  ]
+}

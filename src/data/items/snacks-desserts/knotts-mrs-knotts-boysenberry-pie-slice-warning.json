@@ -1,0 +1,39 @@
+{
+  "id": "knotts-mrs-knotts-boysenberry-pie-slice-warning",
+  "name": "Knott's Mrs. Knott's Deep-Dish Boysenberry Pie (Berry Seed Stricture Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (Knott's Berry Farm)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "pie",
+    "boysenberry",
+    "seeds",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "mrs knotts boysenberry pie",
+    "knotts berry farm pie",
+    "boysenberry pie slice"
+  ],
+  "whyItWorks": "The legendary pie that started the theme park! However, deep-dish boysenberry pie is densely packed with millions of tough, insoluble boysenberry seeds that pose a severe mechanical obstruction risk.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid if stricture-prone or in active flares. In remission, enjoy a boysenberry scone or seedless boysenberry soft-serve instead.",
+  "watchOuts": [
+    "Dense boysenberry seeds are notorious stricture blockage triggers"
+  ]
+}

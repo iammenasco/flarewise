@@ -1,0 +1,41 @@
+{
+  "id": "zao-asian-cafe-draper-yellow-curry-jasmine-rice",
+  "name": "Zao Asian Cafe (Draper & South Jordan, UT) Mild Yellow Coconut Chicken Curry & Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Zao Asian Cafe (Draper & South Jordan, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "south-jordan",
+    "chicken",
+    "curry",
+    "rice"
+  ],
+  "searchKeywords": [
+    "zao asian cafe curry",
+    "yellow curry zao draper",
+    "coconut chicken curry south jordan"
+  ],
+  "whyItWorks": "Mild coconut milk curry with turmeric, diced chicken breast, and tender carrots served over white jasmine rice. Turmeric provides anti-inflammatory curcumin, and coconut milk is naturally lactose-free.",
+  "prepOrOrderInstructions": "Order the Yellow Curry Rice Bowl with chicken breast and white rice (hold raw jalapeños and spicy sambal).",
+  "watchOuts": [
+    "Skip spicy red chili oil or jalapeño toppings"
+  ]
+}

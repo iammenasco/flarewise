@@ -1,0 +1,41 @@
+{
+  "id": "crepes-and-coffee-bear-lake-butter-cinnamon-sugar-crepe",
+  "name": "Crepes and Coffee (Garden City, UT) Sweet Cinnamon Sugar & Butter Crepe",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "crepes",
+    "cinnamon",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "crepes and coffee bear lake",
+    "cinnamon sugar crepe garden city",
+    "bear lake breakfast crepe"
+  ],
+  "whyItWorks": "Thin, delicate French-style batter cooked soft on a round griddle. Folded with sweet cream butter and light cinnamon sugar. Completely seed-free, nut-free, and practically zero residue.",
+  "prepOrOrderInstructions": "Order the Cinnamon Sugar and Butter Crepe warm; enjoy as a gentle morning carb before a day on the lake.",
+  "watchOuts": [
+    "None; gentle low-residue sweet crepe"
+  ]
+}

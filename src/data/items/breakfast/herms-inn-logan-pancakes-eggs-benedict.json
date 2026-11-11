@@ -1,0 +1,41 @@
+{
+  "id": "herms-inn-logan-pancakes-eggs-benedict",
+  "name": "Herm's Inn (Logan) Classic Buttermilk Pancakes, Eggs Benedict & Scramble",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pancakes",
+    "ham",
+    "breakfast",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "herms inn logan",
+    "herms inn pancakes",
+    "herms inn eggs benedict",
+    "logan breakfast"
+  ],
+  "whyItWorks": "Logan's favorite breakfast cottage: poached eggs over English muffins, fluffy buttermilk pancakes, and simple egg scrambles are gentle when you skip the spicy specials.",
+  "prepOrOrderInstructions": "Order the Classic Two-Egg Breakfast with sourdough toast, Buttermilk Pancakes, or classic Eggs Benedict (hollandaise on the side).",
+  "watchOuts": [
+    "Hollandaise is high in egg-yolk/butter fat and a touch of lemon—request on the side"
+  ]
+}

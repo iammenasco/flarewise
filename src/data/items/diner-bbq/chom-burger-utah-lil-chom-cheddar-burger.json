@@ -1,0 +1,40 @@
+{
+  "id": "chom-burger-utah-lil-chom-cheddar-burger",
+  "name": "CHOM Burger \"Lil Chom\" Single Cheddar Smashburger & Plain Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "CHOM Burger (Orem / Provo / South Jordan / Cottonwood Heights, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "potato",
+    "utah"
+  ],
+  "searchKeywords": [
+    "chom burger orem",
+    "chom burger south jordan",
+    "lil chom burger",
+    "utah smashburger"
+  ],
+  "whyItWorks": "The \"Lil Chom\" single-patty burger on CHOM's soft house-baked potato bun gives you a right-sized portion of antibiotic-free beef and melted cheddar without the heavy grease of a double burger.",
+  "prepOrOrderInstructions": "Order the \"Lil Chom\" Burger with cheddar cheese only on the potato bun (no lettuce, tomato, raw onion, pickles, or CHOM sauce) and pair with a small plain French fries.",
+  "watchOuts": [
+    "Skip the spicy Jalapeño Chom, Guacamole Bacon Burger, and garlic-herb fries"
+  ]
+}

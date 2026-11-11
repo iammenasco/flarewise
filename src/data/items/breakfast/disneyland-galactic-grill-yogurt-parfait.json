@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-galactic-grill-yogurt-parfait",
+  "name": "Strawberry Greek Yogurt Parfait Cup (No Granola)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Galactic Grill (Disneyland)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "yogurt-parfait",
+    "breakfast",
+    "tomorrowland"
+  ],
+  "searchKeywords": [
+    "galactic grill",
+    "disneyland",
+    "yogurt parfait",
+    "tomorrowland breakfast",
+    "disney snack"
+  ],
+  "whyItWorks": "Strained Greek yogurt provides rich protein and probiotic cultures, while soft ripe strawberries deliver antioxidants. Skipping hard seed-heavy oat granola protects narrowing gut lumen.",
+  "prepOrOrderInstructions": "Ask for the parfait without granola topping (or discard granola packet). Safe if lactose tolerant or taking lactase."
+}

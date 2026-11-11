@@ -1,0 +1,40 @@
+{
+  "id": "crepes-and-coffee-sweetaly-gelato",
+  "name": "Crepes & Coffee / Sweetaly Dairy-Free Fruit Sorbetto vs. Cream Gelato",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sweet",
+    "dairy-free",
+    "gluten-free-option",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "crepes and coffee gelato",
+    "sweetaly gelato garden city",
+    "bear lake dairy free dessert"
+  ],
+  "whyItWorks": "Sweetaly artisanal fruit sorbetto (such as mango or raspberry-strained) served at Crepes & Coffee is 100% dairy-free and fat-free, giving you a cold Bear Lake treat without the heavy lactose crash of famous raspberry shakes.",
+  "prepOrOrderInstructions": "Order a small cup of non-citrus Dairy-Free Fruit Sorbetto (avoid lemon/limoncello sorbetto and seedy berry flavors; or take lactase if choosing dairy Stracciatella/Vanilla gelato).",
+  "watchOuts": [
+    "Skip Lemon/Citrus sorbetto flavors (citrus trigger) and chocolate-hazelnut/pistachio gelato if avoiding nuts"
+  ]
+}

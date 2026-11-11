@@ -1,0 +1,39 @@
+{
+  "id": "costco-food-court-chocolate-chunk-cookie-warning",
+  "name": "Costco Food Court (Logan & Draper, UT) Warm Double Chocolate Chunk Cookie (800 Cal Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Costco Wholesale (Utah Locations)",
+  "crohnsScore": 5.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "cookies",
+    "chocolate",
+    "dessert",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "costco giant cookie",
+    "costco chocolate chunk cookie",
+    "food court cookie"
+  ],
+  "whyItWorks": "An all-butter monster cookie served warm with nearly 800 calories and heavy butterfat. The sheer sugar and melted butter density cause rapid osmotic gastric dumping in sensitive guts.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid eating whole. In remission, break off a quarter to enjoy with milk and save the rest.",
+  "watchOuts": [
+    "Extreme fat and sugar load provokes rapid diarrhea"
+  ]
+}

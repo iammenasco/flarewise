@@ -1,0 +1,39 @@
+{
+  "id": "dca-studio-catering-co-hollywood-land-snack",
+  "name": "DCA Studio Catering Co. (Hollywood Land) Kids' Turkey Sandwich or Seasonal Mild Slider",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Studio Catering Co. (Hollywood Land · Disney California Adventure)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "studio catering co dca",
+    "hollywood land food truck dca"
+  ],
+  "whyItWorks": "Hollywood Land's walk-up catering truck consistently offers a simple Kids' Turkey Sandwich or mild slider alongside rotating seasonal items.",
+  "prepOrOrderInstructions": "Check the current seasonal menu in the app; stick to the plain Turkey Sandwich or un-spiced slider and swap Mandarin Oranges for applesauce.",
+  "watchOuts": [
+    "Avoid seasonal spicy buffalo/jalapeño loaded fries"
+  ]
+}

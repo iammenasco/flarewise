@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-rancho-del-zocalo-citrus-chicken-platter",
+  "name": "Citrus-Fire Grilled Half Chicken with Mexican Rice",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Rancho del Zocalo (Disneyland)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "grilled-chicken",
+    "mexican",
+    "frontierland"
+  ],
+  "searchKeywords": [
+    "rancho del zocalo",
+    "disneyland",
+    "citrus grilled chicken",
+    "mexican rice",
+    "frontierland"
+  ],
+  "whyItWorks": "Juicy fire-grilled chicken breast meat paired with well-steamed Mexican white or seasoned rice delivers lean protein and gentle carbs without greasy batter or inflammatory sauces.",
+  "prepOrOrderInstructions": "Peel off and discard the charred spiced chicken skin. Eat tender white meat with seasoned rice and warm corn tortillas. Skip refried beans."
+}

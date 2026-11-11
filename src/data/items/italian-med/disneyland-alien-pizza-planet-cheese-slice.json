@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-alien-pizza-planet-cheese-slice",
+  "name": "Cheese Pizza Slice with Soft Crust & Mozzarella",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Alien Pizza Planet (Disneyland)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "pizza",
+    "tomorrowland",
+    "cheese-pizza"
+  ],
+  "searchKeywords": [
+    "alien pizza planet",
+    "disneyland",
+    "cheese pizza",
+    "tomorrowland",
+    "disney pizza"
+  ],
+  "whyItWorks": "Soft baked crust with mild tomato sauce and melted part-skim mozzarella cheese provides convenient quick-service calories without greasy pepperoni, spicy sausage, or rough vegetable toppings.",
+  "prepOrOrderInstructions": "Dab top with a napkin to absorb extra oil. Choose plain cheese over spicy meat or pepperoni slices."
+}

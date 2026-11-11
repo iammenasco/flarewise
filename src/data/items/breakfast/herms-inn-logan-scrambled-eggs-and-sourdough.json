@@ -1,0 +1,36 @@
+{
+  "id": "herms-inn-logan-scrambled-eggs-and-sourdough",
+  "name": "Fluffy Scrambled Eggs with Toasted Sourdough & Jam",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan, UT)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "breakfast",
+    "scrambled-eggs",
+    "sourdough"
+  ],
+  "searchKeywords": [
+    "herms inn",
+    "scrambled eggs",
+    "sourdough toast",
+    "logan utah breakfast"
+  ],
+  "whyItWorks": "Farm fresh eggs scrambled soft in a non-stick pan provide top-tier bioavailable protein. Combined with toasted artisan sourdough bread and seedless strawberry or grape jam, it is ideal for Crohn's flare recovery.",
+  "prepOrOrderInstructions": "Request eggs cooked soft with light cooking spray or oil, plain sourdough toast lightly buttered, and seedless jelly."
+}

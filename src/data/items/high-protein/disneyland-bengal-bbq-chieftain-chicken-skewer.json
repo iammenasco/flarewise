@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-bengal-bbq-chieftain-chicken-skewer",
+  "name": "Disneyland Bengal Barbecue Chieftain Chicken Skewer (Polynesian Teriyaki)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Bengal Barbecue (Adventureland · Disneyland Park)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "bengal barbecue disneyland",
+    "chieftain chicken skewer",
+    "adventureland skewers",
+    "disneyland flare safe food"
+  ],
+  "whyItWorks": "Lean cubed chicken breast flame-grilled to order in a mild, sweet Polynesian teriyaki glaze with zero dairy, zero breading, and zero insoluble fiber—one of the highest-protein, gentlest snacks in all of Disneyland.",
+  "prepOrOrderInstructions": "Mobile-order the Chieftain Chicken Skewer (Polynesian teriyaki) and pair with a side of steamed white rice (Spring Roll Plate rice side) or a plain Tiger Tail breadstick.",
+  "watchOuts": [
+    "Do not confuse with the spicy Banyan Beef Skewer—always choose Chieftain Chicken or sweet Bengal Beef"
+  ]
+}

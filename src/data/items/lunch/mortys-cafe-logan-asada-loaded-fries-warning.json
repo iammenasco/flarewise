@@ -1,0 +1,37 @@
+{
+  "id": "mortys-cafe-logan-asada-loaded-fries-warning",
+  "name": "Asada Loaded Fries with Guacamole & Sour Cream",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Morty's Cafe (Logan, UT)",
+  "crohnsScore": 3.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.8,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "asada-fries",
+    "danger-food",
+    "high-fat"
+  ],
+  "searchKeywords": [
+    "mortys cafe",
+    "asada fries",
+    "loaded french fries",
+    "logan utah"
+  ],
+  "whyItWorks": "A mountain of deep-fried crinkle fries piled with grilled flank steak, melted jack and cheddar, heavy sour cream, guacamole, diced raw onions, and spicy jalapenos creates a severe inflammatory cocktail for gut patients.",
+  "prepOrOrderInstructions": "Extreme Danger Warning: Steer completely clear during any active symptoms. Order a plain burger or grilled cheese instead."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "r-and-r-bbq-draper-south-jordan-logan-sliced-turkey-pulled-pork",
+  "name": "R&R BBQ (Draper / South Jordan / Logan) Smoked Turkey Breast, Pulled Pork & Funeral Potatoes",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "R&R BBQ (Draper, South Jordan & Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "pork",
+    "brisket",
+    "potato",
+    "high-protein",
+    "draper",
+    "south-jordan",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "r&r bbq",
+    "r and r bbq utah",
+    "smoked turkey r&r",
+    "utah bbq"
+  ],
+  "whyItWorks": "Championship Utah BBQ chain offering ultra-lean sliced smoked turkey breast, tender pulled pork, soft white Texas Toast, and creamy mac & cheese or mashed potatoes.",
+  "prepOrOrderInstructions": "Order the Single or Double Meat Plate with Sliced Smoked Turkey Breast (or lean Brisket / Pulled Pork) with BBQ sauce on the side, Texas Toast, and Mac & Cheese or Mashed Potatoes (skipping fried okra and coleslaw).",
+  "watchOuts": [
+    "Use sweet/mild BBQ sauce sparingly and skip the spicy BBQ sauce and raw cabbage slaw"
+  ]
+}

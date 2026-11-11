@@ -1,0 +1,44 @@
+{
+  "id": "dcl-sit-down-lunch-carrot-cake",
+  "name": "Sit-Down Lunch Spiced Layer Carrot Cake with Cream Cheese Frosting",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "carrots",
+    "cheese",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "sit down lunch carrot cake",
+    "carrot cake",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Soft baked grated carrot sponge with tangy cream cheese frosting, though walnut pieces or raisins must be picked out.",
+  "prepOrOrderInstructions": "Inspect for and remove any chopped walnuts or raisins, and take a Lactaid pill for the cream cheese icing.",
+  "watchOuts": [
+    "Possible chopped walnuts or raisins in batter",
+    "Cream cheese lactose"
+  ]
+}

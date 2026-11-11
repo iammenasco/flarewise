@@ -1,0 +1,39 @@
+{
+  "id": "knotts-ghost-town-grill-sourdough-soup-bowl",
+  "name": "Knott's Ghost Town Grill Sourdough Bread Bowl Clam Chowder or Chicken Noodle Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Ghost Town Grill (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "seafood",
+    "sourdough",
+    "soup",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "ghost town grill bread bowl",
+    "knotts clam chowder",
+    "ghost town grill soup"
+  ],
+  "whyItWorks": "Warm sourdough bread bowl filled with comforting soup (or Chicken Noodle Soup in a bowl) gives you a gentle break from theme-park burgers—just avoid the spicy bean Chili Bread Bowl.",
+  "prepOrOrderInstructions": "Order Chicken Noodle Soup with warm bread (or Clam Chowder in a Sourdough Bread Bowl with a lactase enzyme)—never order the Beef & Bean Chili bowl during flares.",
+  "watchOuts": [
+    "Skip the Chili Bread Bowl (beans + chili powder); take lactase if choosing Clam Chowder"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bear-trapper-garden-city-turkey-croissant-cowboy-burger",
+  "name": "Bear Trapper Turkey Sandwich or Plain Cheeseburger (Skip Cowboy Onion Rings)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Bear Trapper Steakhouse (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "sandwich",
+    "burger",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bear trapper turkey sandwich",
+    "bear trapper cowboy burger",
+    "garden city lunch"
+  ],
+  "whyItWorks": "Sliced roast turkey on white/sourdough bread or a plain charbroiled cheeseburger with aged cheddar gives you a reliable lunch option when skipping the fried onion rings and smoky BBQ sauce on the Cowboy Burger.",
+  "prepOrOrderInstructions": "Order the Sliced Turkey Sandwich on white or sourdough bread (no lettuce or tomato) or a plain Cheeseburger with cheddar—avoid the Cowboy Burger onion rings and BBQ sauce.",
+  "watchOuts": [
+    "Skip deep-fried onion rings and raw tomato/lettuce"
+  ]
+}

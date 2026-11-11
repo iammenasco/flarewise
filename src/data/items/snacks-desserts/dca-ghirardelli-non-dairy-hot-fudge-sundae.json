@@ -1,0 +1,41 @@
+{
+  "id": "dca-ghirardelli-non-dairy-hot-fudge-sundae",
+  "name": "DCA Ghirardelli Soda Fountain Non-Dairy Hot Fudge Sundae (Coconut Vanilla & Non-Dairy Fudge)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ghirardelli Soda Fountain & Chocolate Shop (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "dessert",
+    "dairy-free",
+    "lactose-free",
+    "sweet",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "ghirardelli dca non dairy sundae",
+    "dairy free hot fudge sundae dca",
+    "ghirardelli san fransokyo"
+  ],
+  "whyItWorks": "Ghirardelli in DCA makes a dedicated Non-Dairy Hot Fudge Sundae using creamy coconut-milk vanilla \"ice cream,\" dairy-free dark chocolate hot fudge, and almond-milk whipped topping—zero lactose! Just remember to ask for NO diced almonds.",
+  "prepOrOrderInstructions": "Order the **Non-Dairy Hot Fudge Sundae** and specifically request **\"No Diced Almonds\"** on top; share the generous cup to keep sugar reasonable.",
+  "watchOuts": [
+    "Default sundae comes topped with chopped almonds—always ask for \"no almonds\" so it stays nut-free and low-residue"
+  ]
+}

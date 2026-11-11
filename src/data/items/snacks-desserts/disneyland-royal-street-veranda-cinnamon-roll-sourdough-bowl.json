@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-royal-street-veranda-cinnamon-roll-sourdough-bowl",
+  "name": "Disneyland Royal Street Veranda / Stage Door Sourdough Bread Bowl (Eat Warm Bread, Skip Spicy Gumbo)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Royal Street Veranda & Harbour Galley (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sourdough",
+    "bread",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "royal street veranda disneyland",
+    "sourdough bread bowl on the side disneyland"
+  ],
+  "whyItWorks": "Pro Disneyland hack: at any location that serves Boudin Sourdough Bread Bowls (Harbour Galley, Royal Street Veranda, Pacific Wharf/Aunt Cass), you can ask for the soup \"on the side\" (or order just the warm Sourdough Bread Bowl!) to get a whole fresh-baked sourdough boule for a few dollars.",
+  "prepOrOrderInstructions": "Ask for the Sourdough Bread Bowl with soup on the side so your family can eat the soup while you tear into the warm, un-soaked sourdough bread interior.",
+  "watchOuts": [
+    "Zero triggers in the plain Boudin sourdough bread"
+  ]
+}

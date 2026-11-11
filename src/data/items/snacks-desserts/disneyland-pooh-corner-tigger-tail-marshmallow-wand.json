@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-pooh-corner-tigger-tail-marshmallow-wand",
+  "name": "Disneyland Pooh Corner \"Tigger Tail\" Caramel Marshmallow Wand (Check Orange Coating)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pooh Corner (Bayou Country · Disneyland Park)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "sweet",
+    "dessert",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tigger tail disneyland",
+    "pooh corner marshmallow wand"
+  ],
+  "whyItWorks": "Giant marshmallows dipped in caramel and orange-tinted white chocolate; while low in fiber, the orange-colored coating sometimes uses natural orange citrus oil/flavoring—so choose the plain Chocolate Caramel Marshmallow Wand instead if strictly avoiding trace citrus!",
+  "prepOrOrderInstructions": "If sensitive to trace orange flavoring, choose the classic **Milk/Dark Chocolate Caramel Marshmallow Wand** right next to the Tigger Tails in the Pooh Corner case.",
+  "watchOuts": [
+    "Orange candy coating may contain natural orange oil/flavoring (citrusFree: false)—opt for the chocolate caramel wand to be 100% citrus-safe"
+  ]
+}

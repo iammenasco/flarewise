@@ -1,0 +1,39 @@
+{
+  "id": "rapunzels-beef-and-mushroom-ravioli",
+  "name": "Beef Ravioli in Broth (Rapunzel's Royal Table)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "ravioli",
+    "beef",
+    "broth",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "beef and mushroom ravioli",
+    "rapunzels royal table",
+    "disney magic"
+  ],
+  "whyItWorks": "Tender fresh pasta filled with finely braised beef in a savory thyme broth requires almost no mechanical work.",
+  "prepOrOrderInstructions": "Push aside any whole garnished mushroom slices and enjoy the soft beef ravioli and savory broth.",
+  "watchOuts": [
+    "Whole sautéed mushroom garnish"
+  ]
+}

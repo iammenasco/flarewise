@@ -1,0 +1,46 @@
+{
+  "id": "caribbean-cruise-pearls-of-the-caribbean",
+  "name": "Caribbean Cruise \"Pearls of the Caribbean\" (Crabmeat, Shrimp & Salmon in Pearl Couscous)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure, Magic & Wonder · Caribbean / Pirate Night Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "crab",
+    "shrimp",
+    "salmon",
+    "seafood",
+    "pasta",
+    "high-protein",
+    "dairy-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-magic",
+    "disney-wonder",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "pearls of the caribbean",
+    "crabmeat shrimp salmon",
+    "pearl couscous",
+    "caribbean cruise appetizer",
+    "pirate night"
+  ],
+  "whyItWorks": "Chilled crabmeat, poached shrimp, and smoked salmon layered with soft refined-wheat Israeli pearl couscous—a lean, low-fiber seafood starter.",
+  "prepOrOrderInstructions": "Request it without the lemon-grass infused vinaigrette (or with olive oil on the side) to keep it 100% citrus-safe.",
+  "watchOuts": [
+    "CITRUS WARNING: Standard dressing is a lemon-grass/citrus vinaigrette"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pirate-night-jacks-treasure-of-the-seas",
+  "name": "Jack's Treasure-of-the-Seas Grilled Shrimp, Scallops & Pasta (Pirate Night)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "seafood",
+    "pasta",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "jacks treasure of the seas",
+    "pirate night pasta",
+    "shrimp scallop pasta",
+    "disney cruise"
+  ],
+  "whyItWorks": "Grilled shrimp and sea scallops over white pasta provide lean marine protein and low-residue carbohydrates.",
+  "prepOrOrderInstructions": "Ask for the shrimp, scallops, and pasta tossed in plain butter or olive oil instead of the lemon-tomato cream sauce to stay 100% citrus-free.",
+  "watchOuts": [
+    "Lemon-tomato cream sauce on standard build (swap for plain butter/olive oil)",
+    "Dairy cream"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "tritons-lumieres-duo-chocolate-slice",
+  "name": "No-Sugar-Added Duo Chocolate Slice",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "duo chocolate slice",
+    "no sugar added chocolate",
+    "tritons",
+    "lumieres"
+  ],
+  "whyItWorks": "Smooth dark and white chocolate mousse layers over thin sponge with zero seeds or citrus.",
+  "prepOrOrderInstructions": "Eat half a slice to avoid osmotic bloating from sugar-free polyols (maltitol/sorbitol) and take a Lactaid.",
+  "watchOuts": [
+    "Sugar alcohols (maltitol/sorbitol) can draw water into the bowel",
+    "Dairy mousse cream"
+  ]
+}

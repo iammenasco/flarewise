@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-carnation-cafe-baked-potato-soup",
+  "name": "Disneyland Carnation Café Famous Loaded Baked Potato Soup (Take Lactase)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Carnation Café (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "soup",
+    "cheese",
+    "pork",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "carnation cafe baked potato soup",
+    "disneyland potato soup"
+  ],
+  "whyItWorks": "Smooth, tender potato chunks simmered in a rich velvety base with cheddar and bacon; low in fiber and soothing on cool evenings when you hold the raw green onion garnish and take lactase.",
+  "prepOrOrderInstructions": "Order a cup of the Baked Potato Soup with NO raw green onions/chives on top and take 1–2 lactase enzyme tablets.",
+  "watchOuts": [
+    "Creamy dairy base requires lactase enzymes; ask for no raw green onion garnish"
+  ]
+}

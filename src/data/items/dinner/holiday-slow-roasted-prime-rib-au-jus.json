@@ -1,0 +1,39 @@
+{
+  "id": "holiday-slow-roasted-prime-rib-au-jus",
+  "name": "Holiday Slow-Roasted Prime Rib Roast with Beef Au Jus & Soft Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Traditional Holiday Feast (Christmas / New Year)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "christmas",
+    "beef",
+    "prime-rib",
+    "comfort-food",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "christmas prime rib",
+    "holiday standing rib roast",
+    "prime rib au jus christmas dinner"
+  ],
+  "whyItWorks": "Slow roasting dissolves collagen into tender, succulent beef that requires minimal chewing. Dipped in savory au jus with smooth peeled potatoes, it is a low-residue luxury.",
+  "prepOrOrderInstructions": "Request a center cut of prime rib cooked medium; trim the outer fat cap before eating (pass on spicy creamy horseradish).",
+  "watchOuts": [
+    "Avoid pungent raw horseradish sauce which can burn mucosal tissue"
+  ]
+}

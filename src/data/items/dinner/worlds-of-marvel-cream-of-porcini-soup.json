@@ -1,0 +1,40 @@
+{
+  "id": "worlds-of-marvel-cream-of-porcini-soup",
+  "name": "Cream of Porcini Mushroom Soup with Sour Cream (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "mushroom",
+    "vegetarian",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "cream of porcini mushroom soup",
+    "worlds of marvel",
+    "disney treasure"
+  ],
+  "whyItWorks": "Blended smooth so mushroom chitin is pulverized, though concentrated mushroom mannitol remains high-FODMAP.",
+  "prepOrOrderInstructions": "Choose the Sokovian Kartoffelsuppe potato soup during flares; in remission, pair with a Lactaid.",
+  "watchOuts": [
+    "Concentrated mushroom mannitol FODMAPs",
+    "Heavy cream and sour cream dairy"
+  ]
+}

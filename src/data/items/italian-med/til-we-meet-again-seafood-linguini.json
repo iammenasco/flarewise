@@ -1,0 +1,42 @@
+{
+  "id": "til-we-meet-again-seafood-linguini",
+  "name": "Seafood Linguini Pasta with Lobster, Scallops, Shrimp & Clams ('Til We Meet Again)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "seafood",
+    "shrimp",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "seafood linguini pasta",
+    "til we meet again pasta",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Lobster, scallops, and shrimp tossed with refined white linguini in a light white-wine broth.",
+  "prepOrOrderInstructions": "Ask to hold the asparagus spears and request light garlic in the white wine broth.",
+  "watchOuts": [
+    "Asparagus stalks if not held",
+    "Garlic in white wine sauce"
+  ]
+}

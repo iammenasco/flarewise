@@ -1,0 +1,39 @@
+{
+  "id": "dca-cozy-cone-motel-bacon-mac-cheese-cone",
+  "name": "DCA Cozy Cone Motel Cone 3: Bacon Macaroni & Cheese Bread Cone",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cozy Cone Motel (Disney California Adventure)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "mac-and-cheese",
+    "bacon",
+    "cars-land"
+  ],
+  "searchKeywords": [
+    "cozy cone mac and cheese",
+    "bacon mac cone dca",
+    "cars land cozy cone 3"
+  ],
+  "whyItWorks": "Creamy macaroni and cheese topped with crumbled bacon inside a warm, soft dough bread cone. Soft, carb-rich, and seed-free comfort food in Cars Land.",
+  "prepOrOrderInstructions": "Order the Bacon Mac & Cheese Cone; avoid the spicy Chili Cone Queso.",
+  "watchOuts": [
+    "High dairy cheese and bacon fat; eat slowly in remission"
+  ]
+}

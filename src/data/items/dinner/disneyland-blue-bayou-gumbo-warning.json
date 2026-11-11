@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-blue-bayou-gumbo-warning",
+  "name": "Traditional New Orleans Gumbo with Andouille Sausage",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Blue Bayou Restaurant (Disneyland)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "gumbo",
+    "spicy",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "blue bayou",
+    "disneyland",
+    "gumbo",
+    "andouille sausage",
+    "new orleans square"
+  ],
+  "whyItWorks": "A dark roux stew simmering spicy cured andouille sausage, tasso ham, diced bell peppers, onions, celery, and cayenne pepper. The heavy spice load, smoked casing, and alliums provoke sharp mucosal burning and cramping.",
+  "prepOrOrderInstructions": "Spicy & Allium Hazard: Avoid during active flares or ulcerations. Order a bowl of plain white rice or pan-roasted salmon instead."
+}

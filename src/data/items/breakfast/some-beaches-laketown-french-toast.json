@@ -1,0 +1,36 @@
+{
+  "id": "some-beaches-laketown-french-toast",
+  "name": "Golden Thick-Cut French Toast with Syrup & Butter",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Some Beaches (Laketown, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "laketown",
+    "breakfast",
+    "french-toast"
+  ],
+  "searchKeywords": [
+    "some beaches laketown",
+    "french toast",
+    "bear lake breakfast",
+    "syrup"
+  ],
+  "whyItWorks": "Soft thick Texas toast dipped in smooth beaten egg batter and cooked on a flat griddle provides easily absorbable carbohydrates and gentle protein with zero harsh roughage, making it a reliable warm breakfast choice.",
+  "prepOrOrderInstructions": "Ask for butter on the side and use pure maple syrup or pancake syrup in moderate amounts. Avoid ordering with powdered sugar dusting or side bacon if fat-sensitive."
+}

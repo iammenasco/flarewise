@@ -1,0 +1,38 @@
+{
+  "id": "dca-jack-jack-gluten-friendly-shortbread",
+  "name": "DCA Jack-Jack Cookie Num Nums Gluten-Friendly / Jam-Free Incredi-Cookie Shortbread",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Jack-Jack Cookie Num Nums (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "gluten-free-option",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "jack jack gluten friendly cookie",
+    "incredi cookie dca"
+  ],
+  "whyItWorks": "Jack-Jack's cart always stocks a dedicated Gluten-Friendly Shortbread Cookie—just check whether the current filling uses seedless blackberry/strawberry jam or eat the crumbly butter shortbread cookie sides.",
+  "prepOrOrderInstructions": "Ask at the window for the Gluten-Friendly Cookie and scrape out the center jam if it contains berry seeds.",
+  "watchOuts": [
+    "Center jam filling sometimes contains berry seeds—eat around the jam center if flaring"
+  ]
+}

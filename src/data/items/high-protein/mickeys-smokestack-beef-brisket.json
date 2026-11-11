@@ -1,0 +1,43 @@
+{
+  "id": "mickeys-smokestack-beef-brisket",
+  "name": "Mickey's Smokestack BBQ Carved Texas Smoked Beef Brisket (Standalone)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Mickey's Smokestack Barbecue",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "bbq",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "mickeys-smokestack"
+  ],
+  "searchKeywords": [
+    "smoked beef brisket",
+    "mickeys smokestack brisket",
+    "disney treasure bbq"
+  ],
+  "whyItWorks": "Slow-smoked for 12+ hours until collagen melts; the lean \"flat\" cut of brisket is zero-fiber, dairy-free, and citrus-free.",
+  "prepOrOrderInstructions": "Ask the carver for lean slices from the flat cut (not the fatty point), trim off the black-pepper outer bark edge, and eat without spicy BBQ sauce.",
+  "watchOuts": [
+    "Coarse black pepper on outer bark edge",
+    "Fatty point cut if not requested lean"
+  ]
+}

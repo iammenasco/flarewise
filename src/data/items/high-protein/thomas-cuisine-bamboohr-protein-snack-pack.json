@@ -1,0 +1,39 @@
+{
+  "id": "thomas-cuisine-bamboohr-protein-snack-pack",
+  "name": "Thomas2Go @ BambooHR (Lindon, UT) Grab-and-Go Hard-Boiled Egg & Cheddar Snack Pack",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Thomas Cuisine @ BambooHR (Lindon, UT)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "snack",
+    "eggs",
+    "cheese",
+    "bamboohr"
+  ],
+  "searchKeywords": [
+    "thomas2go protein pack",
+    "bamboohr grab and go",
+    "thomas cuisine snack"
+  ],
+  "whyItWorks": "Peeled hard-boiled egg paired with cubes of naturally low-lactose sharp cheddar cheese. Convenient office snack that stabilizes blood sugar without roughage.",
+  "prepOrOrderInstructions": "Pick up from the grab-and-go cooler for a midday desk snack.",
+  "watchOuts": [
+    "None; clean protein snack"
+  ]
+}

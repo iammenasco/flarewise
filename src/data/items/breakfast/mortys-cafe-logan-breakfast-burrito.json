@@ -1,0 +1,41 @@
+{
+  "id": "mortys-cafe-logan-breakfast-burrito",
+  "name": "Morty's Cafe Morning Egg, Cheddar, Potato & Bacon/Steak Breakfast Burrito",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Morty's Cafe (Logan / USU Campus, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "beef",
+    "potato",
+    "cheese",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "mortys breakfast burrito logan",
+    "usu breakfast burrito",
+    "mortys cafe morning menu"
+  ],
+  "whyItWorks": "Scrambled eggs, melted cheddar, potatoes, and bacon or steak wrapped in a warm flour tortilla make a filling, portable breakfast before heading up Logan Canyon.",
+  "prepOrOrderInstructions": "Order the Bacon or Steak Breakfast Burrito with eggs, cheddar, and potatoes only—ask for no salsa, no raw pico de gallo, and no jalapeños.",
+  "watchOuts": [
+    "Skip salsa verde/rojo and hot sauce packets"
+  ]
+}

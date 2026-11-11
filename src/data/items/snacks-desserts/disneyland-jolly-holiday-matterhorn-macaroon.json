@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-jolly-holiday-matterhorn-macaroon",
+  "name": "Disneyland Jolly Holiday Famous Matterhorn Macaroon (Coconut & White Chocolate)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Disneyland Park)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "macaroon",
+    "coconut",
+    "dessert",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "matterhorn macaroon",
+    "jolly holiday macaroon",
+    "disneyland coconut macaroon"
+  ],
+  "whyItWorks": "Shredded sweet coconut baked golden in the shape of the Matterhorn mountain, dipped in white chocolate to resemble snow. Completely seed-free (unlike the Raspberry Rose Macaron).",
+  "prepOrOrderInstructions": "Order the Matterhorn Macaroon as your seed-free Disney bakery treat.",
+  "watchOuts": [
+    "Contains shredded coconut"
+  ]
+}

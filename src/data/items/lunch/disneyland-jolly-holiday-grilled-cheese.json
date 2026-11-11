@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-jolly-holiday-grilled-cheese",
+  "name": "Disneyland Jolly Holiday Bakery Cafe Toasted White Cheddar & Provolone Grilled Cheese (Skip Tomato Soup)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "sourdough",
+    "sandwich",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "jolly holiday grilled cheese",
+    "disneyland grilled cheese tomato soup",
+    "main street bakery lunch"
+  ],
+  "whyItWorks": "Made with naturally low-lactose aged white cheddar and provolone melted between toasted artisan sourdough slices—giving you a comforting Main Street classic once you skip the acidic tomato basil soup.",
+  "prepOrOrderInstructions": "Order the Toasted Cheese Sandwich and give the cup of Tomato Basil Soup to a family member (or swap for chips/plain bread), since concentrated cooked tomato + cream + garlic is a frequent flare trigger.",
+  "watchOuts": [
+    "Skip dipping in the Tomato Basil Soup if nightshades or acidic tomato sauces trigger reflux or cramping"
+  ]
+}

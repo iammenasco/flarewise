@@ -1,0 +1,46 @@
+{
+  "id": "merrytime-mexican-riviera-chipotle-chicken-mojo-pork",
+  "name": "Merrytime Mexican Riviera Roasted Pollo Asado & Baja Mojo Pork Loin",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Wonder & Magic · Merrytime Mexican Riviera Cruise Specials",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "pork",
+    "mexican",
+    "high-protein",
+    "gluten-free",
+    "dairy-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "pollo asado",
+    "baja mojo pork loin",
+    "merrytime mexican riviera",
+    "disney wonder mexican riviera"
+  ],
+  "whyItWorks": "Lean roasted chicken breast and pork tenderloin carved on Mexican Riviera sailings; very safe when ordered plain without citrus-chile marinade.",
+  "prepOrOrderInstructions": "Ask the galley or carving station for plain herb-roasted chicken or pork tenderloin with steamed white rice—strictly without sour orange/lime mojo or chipotle glaze.",
+  "watchOuts": [
+    "CITRUS & SPICE WARNING: Traditional Baja mojo uses sour orange/lime juice and chipotle uses smoked jalapeño"
+  ]
+}

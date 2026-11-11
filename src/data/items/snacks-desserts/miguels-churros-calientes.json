@@ -1,0 +1,40 @@
+{
+  "id": "miguels-churros-calientes",
+  "name": "Miguel's Churros Calientes with Warm Cajeta Caramel (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bakery",
+    "fried",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "miguels churros calientes",
+    "churros",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Refined wheat choux pastry dusted in cinnamon sugar with silky goat-milk cajeta caramel—zero nuts, seeds, or citrus, though deep-fried.",
+  "prepOrOrderInstructions": "Share 1–2 warm churros in remission and take a Lactaid if dipping into the cajeta caramel.",
+  "watchOuts": [
+    "Frying oil in choux pastry",
+    "Lactose in cajeta caramel dip"
+  ]
+}

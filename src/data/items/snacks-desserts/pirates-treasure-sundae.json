@@ -1,0 +1,41 @@
+{
+  "id": "pirates-treasure-sundae",
+  "name": "Pirate's Treasure Pineapple-Coconut Ice Cream Sundae (Pirate Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "coconut",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "pirates treasure sundae",
+    "pirate night sundae",
+    "disney cruise"
+  ],
+  "whyItWorks": "Rum-raisin or vanilla ice cream with pineapple compote and coconut cookies—citrus-free, though pineapple fibers and raisins need care.",
+  "prepOrOrderInstructions": "Ask for plain vanilla ice cream with caramel/fudge instead of the fibrous pineapple-raisin compote if flaring.",
+  "watchOuts": [
+    "Fibrous pineapple chunks and raisins",
+    "Liquid dairy ice cream"
+  ]
+}

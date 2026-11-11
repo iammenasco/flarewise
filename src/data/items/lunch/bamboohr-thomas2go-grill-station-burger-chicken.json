@@ -1,0 +1,39 @@
+{
+  "id": "bamboohr-thomas2go-grill-station-burger-chicken",
+  "name": "BambooHR Café (Thomas2Go) Grill Station: Plain Smashburger or Grilled Chicken Sandwich",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine Café at BambooHR (Lindon, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "sandwich",
+    "burger",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bamboohr cafe grill",
+    "thomas2go burger",
+    "thomas cuisine lindon lunch",
+    "bamboohr grilled chicken sandwich"
+  ],
+  "whyItWorks": "Ordering a fresh-off-the-grill herb-free chicken breast or single beef patty with aged cheddar or Swiss on a soft brioche/potato bun at the BambooHR café grill station avoids the hidden garlic, citrus dressings, and spicy sauces in daily specials.",
+  "prepOrOrderInstructions": "Ask the grill cook for a plain Grilled Chicken Breast or Single Cheeseburger with cheddar or Swiss on a soft bun—skip raw red onion, tomato, pickles, and chipotle/garlic aioli.",
+  "watchOuts": [
+    "Skip seasoned curly/waffle fries if coated in paprika/onion batter; pair with a banana or plain kettle chips"
+  ]
+}

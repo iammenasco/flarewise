@@ -1,0 +1,41 @@
+{
+  "id": "wbpc-land-and-sea-venison-loin-olive-loaf",
+  "name": "Westbound Panama Canal \"Land & Sea\" Roasted Venison Loin & Warm Olive Loaf",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Westbound Panama Canal (Land and Sea Menu)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "high-protein",
+    "bread",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "roasted venison loin",
+    "freshly baked olive loaf",
+    "land and sea menu",
+    "westbound panama canal"
+  ],
+  "whyItWorks": "Venison loin is one of the leanest red meats available (even leaner than beef tenderloin), making it exceptionally easy on bile-acid digestion.",
+  "prepOrOrderInstructions": "Order the roasted venison loin with jus on the side and mashed potatoes; pick around whole olives in the freshly baked bread loaf if flaring.",
+  "watchOuts": [
+    "Skip red wine/berry reduction if it contains whole seeds or heavy black pepper"
+  ]
+}

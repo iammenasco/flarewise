@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-hungry-bear-bbq-brisket-pulled-pork",
+  "name": "Disneyland Hungry Bear Barbecue Jamboree Smoked Brisket or Pulled Pork Sandwich & Fries (Plain Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Hungry Bear Barbecue Jamboree (Bayou Country · Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pork",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "hungry bear barbecue jamboree",
+    "disneyland bbq brisket",
+    "bayou country disneyland food"
+  ],
+  "whyItWorks": "The newly reimagined Hungry Bear Barbecue Jamboree slow-smokes tender beef brisket and pulled pork; ordering on a soft bun with BBQ sauce on the side and plain french fries (skipping the baked beans and slaw) makes a hearty park meal.",
+  "prepOrOrderInstructions": "Order the Smoked Brisket Sandwich or Pulled Pork Sandwich with BBQ sauce on the side, no raw coleslaw/pickles, and swap the baked beans side for French fries or mandarin-free applesauce.",
+  "watchOuts": [
+    "Skip the BBQ baked beans, jalapeño cornbread, and raw cabbage coleslaw; DO NOT order the specialty lemonades (citrus trigger)"
+  ]
+}

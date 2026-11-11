@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-milk-stand-green-milk-citrus-warning",
+  "name": "Disneyland Milk Stand \"Green Milk\" (Tropical Blossom & Citrus Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Milk Stand (Disneyland Park)",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "drink",
+    "citrus",
+    "galaxys-edge",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "green milk disneyland",
+    "milk stand green milk",
+    "citrus green milk"
+  ],
+  "whyItWorks": "Unlike Blue Milk, Green Milk has pronounced tropical citrus and floral notes with citric acid additives that can irritate sensitive stomachs and acid reflux.",
+  "prepOrOrderInstructions": "Trigger warning item: choose the gentle, non-citrus Blue Milk instead.",
+  "watchOuts": [
+    "Contains citrus flavor extracts that can cause heartburn"
+  ]
+}

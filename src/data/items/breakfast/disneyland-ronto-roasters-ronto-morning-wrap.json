@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-ronto-roasters-ronto-morning-wrap",
+  "name": "Disneyland Ronto Roasters \"Ronto Morning Wrap\" (Eggs & Cheddar on Pita)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Ronto Roasters (Disneyland Park)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "breakfast",
+    "eggs",
+    "wrap",
+    "galaxys-edge"
+  ],
+  "searchKeywords": [
+    "ronto morning wrap",
+    "breakfast ronto wrap",
+    "galaxys edge breakfast"
+  ],
+  "whyItWorks": "Scrambled eggs, grilled pork sausage, and melted cheddar cheese wrapped in a warm soft pita bread. Soft, filling, and high in morning protein.",
+  "prepOrOrderInstructions": "Order the Ronto Morning Wrap with light peppercorn sauce (or request no sauce for zero spice).",
+  "watchOuts": [
+    "Request no peppercorn sauce if sensitive to black pepper"
+  ]
+}

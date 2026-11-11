@@ -1,0 +1,42 @@
+{
+  "id": "merrytime-holiday-loaf-truffle-butter",
+  "name": "Very Merrytime Warm Holiday Loaf Bread Service with Truffle Butter Dip",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime (\"Happy Holidays\" Menu)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "butter",
+    "mushroom",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "holiday loaf",
+    "truffle butter dip",
+    "very merrytime bread service",
+    "happy holidays menu"
+  ],
+  "whyItWorks": "Soft, pillowy pull-apart white holiday bread served warm in the basket; very gentle on the gut when paired with a light smear of butter.",
+  "prepOrOrderInstructions": "Pull from the soft white interior of the holiday loaf and use a light touch of truffle butter (or ask for plain butter/olive oil).",
+  "watchOuts": [
+    "Truffle butter is rich in dairy fat; use sparingly"
+  ]
+}

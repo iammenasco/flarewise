@@ -1,0 +1,47 @@
+{
+  "id": "holiday-honey-baked-spiral-glazed-ham",
+  "name": "Christmas & Thanksgiving Honey-Baked Spiral Sliced Glazed Ham",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Holiday Table / The Honey Baked Ham Co. / Costco Kirkland Spiral Ham",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Spiral-Sliced Honey Glazed Ham"
+  ],
+  "tags": [
+    "ham",
+    "pork",
+    "high-protein",
+    "sweet",
+    "gluten-free",
+    "dairy-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "honey baked ham",
+    "christmas ham",
+    "spiral sliced ham",
+    "thanksgiving ham"
+  ],
+  "whyItWorks": "Tender spiral-sliced cured ham with a sweet honey-brown-sugar glaze has zero fiber, zero dairy, and zero citrus—great warm at dinner or cold on leftover Hawaiian roll sliders.",
+  "prepOrOrderInstructions": "Choose lean center-cut slices and pair with mashed potatoes and soft dinner rolls.",
+  "watchOuts": [
+    "Verify no orange juice or pineapple-citrus glaze was used if homemade"
+  ]
+}

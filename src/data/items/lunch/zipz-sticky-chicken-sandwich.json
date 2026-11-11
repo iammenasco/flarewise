@@ -1,0 +1,40 @@
+{
+  "id": "zipz-sticky-chicken-sandwich",
+  "name": "Zipz Crispy Sticky Chicken Sandwich vs. Grilled Chicken (Avoid Chipotle)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Zipz Bear Lake (Garden City, UT)",
+  "crohnsScore": 6.7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "sandwich",
+    "fried",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "zipz sticky chicken sandwich",
+    "zipz chipotle chicken sandwich",
+    "garden city chicken sandwich"
+  ],
+  "whyItWorks": "Zipz Sticky Chicken uses a sweet soy-ginger glaze rather than spicy chili pepper, making it far gentler than their Chipotle Chicken Sandwich when you want a remission treat.",
+  "prepOrOrderInstructions": "Order the Sticky Chicken Sandwich with sauce on the side and no raw lettuce or pickles (avoid the spicy Chipotle Chicken Sandwich completely).",
+  "watchOuts": [
+    "Breaded and deep-fried chicken patty—choose a grilled chicken breast or plain turkey burger during flares"
+  ]
+}

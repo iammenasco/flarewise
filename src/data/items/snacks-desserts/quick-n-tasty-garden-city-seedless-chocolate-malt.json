@@ -1,0 +1,41 @@
+{
+  "id": "quick-n-tasty-garden-city-seedless-chocolate-malt",
+  "name": "Quick N Tasty (Garden City, UT) Seedless Hand-Spun Chocolate Malt Milkshake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Quick N Tasty (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "shake",
+    "chocolate",
+    "malt"
+  ],
+  "searchKeywords": [
+    "quick n tasty chocolate shake",
+    "bear lake chocolate malt",
+    "seedless shake garden city"
+  ],
+  "whyItWorks": "Quick N Tasty's seedless lake alternative! Creamy vanilla soft-serve blended with chocolate syrup and malted barley powder. Completely seedless, eliminating the stricture danger of raspberry shakes.",
+  "prepOrOrderInstructions": "Order a small Chocolate Malt instead of the seeded raspberry shake.",
+  "watchOuts": [
+    "Contains dairy lactose; take lactase enzyme tablet if lactose sensitive"
+  ]
+}

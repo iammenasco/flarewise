@@ -1,0 +1,40 @@
+{
+  "id": "hector-riveras-sweet-shrimp-coctel",
+  "name": "Héctor Rivera's Sweet Shrimp Coctel with Tomato-Avocado Salsa (Night 2)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "avocado",
+    "seafood",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "hector riveras sweet shrimp coctel",
+    "shrimp cocktail",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Poached shrimp and avocado cubes are great, but the Mexican coctel clamato/catsup sauce contains lime juice, raw onion, and jalapeño.",
+  "prepOrOrderInstructions": "Ask for plain poached shrimp and avocado slices on a clean plate without the citrus-spiked coctel sauce or raw onions.",
+  "watchOuts": [
+    "Lime juice in coctel sauce (citrus guardrail)",
+    "Diced raw onion and jalapeño"
+  ]
+}

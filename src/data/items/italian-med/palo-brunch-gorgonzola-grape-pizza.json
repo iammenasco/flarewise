@@ -1,0 +1,44 @@
+{
+  "id": "palo-brunch-gorgonzola-grape-pizza",
+  "name": "Palo Brunch Sweet Green Grape & Gorgonzola Blue Cheese Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "gorgonzola grape pizza",
+    "palo grape pizza",
+    "palo brunch pizza",
+    "disney cruise"
+  ],
+  "whyItWorks": "A cult-classic off-menu/secret Palo Brunch request: thin refined-flour crust with melted Gorgonzola and roasted seedless grapes.",
+  "prepOrOrderInstructions": "Enjoy a slice or two in remission with a Lactaid; peel or skip charred grape skins if mid-flare.",
+  "watchOuts": [
+    "Rich Gorgonzola cheese fat",
+    "Blistered grape skins"
+  ]
+}

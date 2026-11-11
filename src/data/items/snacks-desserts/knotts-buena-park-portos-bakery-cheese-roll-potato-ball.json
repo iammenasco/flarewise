@@ -1,0 +1,43 @@
+{
+  "id": "knotts-buena-park-portos-bakery-cheese-roll-potato-ball",
+  "name": "Porto's Bakery (Buena Park — 1 Block from Knott's!) Famous Cheese Roll (Quesito), Chicken Croquette & Potato Ball",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Beach Blvd, Buena Park · Steps from Knott's Berry Farm)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "potato",
+    "chicken",
+    "sweet",
+    "budget-friendly",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "portos bakery buena park",
+    "portos cheese roll potato ball",
+    "food near knotts berry farm"
+  ],
+  "whyItWorks": "Located literally one block north of Knott's Berry Farm on Beach Blvd, Porto's Bakery is a Southern California legend: their flaky puff-pastry **Cheese Roll**, creamy **Chicken Croquette**, and whipped mashed-potato **Potato Ball (Papa Rellena)** have ultra-smooth textures and cost ~$1.50–$2.25 each!",
+  "prepOrOrderInstructions": "Mobile-order ahead or grab a box of Cheese Rolls, Dulce de Leche Besitos, Chicken Croquettes, and plain Potato Balls (avoid the Spicy Pepper/Cheese Potato Ball!) before or after Knott's, and take a lactase enzyme.",
+  "watchOuts": [
+    "Order the classic Beef Potato Ball or Chicken Croquette—skip the Jalapeño/Spicy Potato Ball and Guava Roll (if avoiding guava seeds, though Porto's guava paste is strained smooth!)"
+  ]
+}

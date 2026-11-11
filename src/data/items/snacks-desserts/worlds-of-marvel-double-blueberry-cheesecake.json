@@ -1,0 +1,39 @@
+{
+  "id": "worlds-of-marvel-double-blueberry-cheesecake",
+  "name": "Star-Lord Double Blueberry Cheesecake (Groot Remix Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Celebration of Heroes: Groot Remix Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "berries",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "double blueberry cheesecake",
+    "groot remix dessert",
+    "worlds of marvel night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Smooth blueberry swirl cheesecake—blueberries lack the hard seeds of raspberries/blackberries and the dessert is citrus-free.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets with the cheesecake.",
+  "watchOuts": [
+    "Cream cheese lactose and dairy fat"
+  ]
+}

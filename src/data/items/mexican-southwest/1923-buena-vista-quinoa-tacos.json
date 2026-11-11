@@ -1,0 +1,38 @@
+{
+  "id": "1923-buena-vista-quinoa-tacos",
+  "name": "Buena Vista Soft Shell Quinoa & Roasted Vegetable Tacos (Night 1)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "tortilla",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "buena vista quinoa tacos",
+    "1923 vegetarian",
+    "disney treasure"
+  ],
+  "whyItWorks": "Grainy quinoa, bell pepper skins, black beans, and lime crema create high insoluble fiber load.",
+  "prepOrOrderInstructions": "Skip the quinoa tacos and order the Seared Verlasso Salmon Filet or Peppered Filet Mignon (no peppercorns) instead.",
+  "watchOuts": [
+    "High insoluble fiber from quinoa and vegetable skins",
+    "Lime juice garnish"
+  ]
+}

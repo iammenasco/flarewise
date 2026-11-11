@@ -1,0 +1,41 @@
+{
+  "id": "holiday-scratch-turkey-gravy-white-rice",
+  "name": "Holiday Scratch Turkey Bone Broth Gravy over Steamed White Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "turkey",
+    "gravy",
+    "rice",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "holiday turkey gravy rice",
+    "turkey gravy white rice",
+    "thanksgiving flare meal"
+  ],
+  "whyItWorks": "Simmered holiday turkey drippings, rich turkey bone stock, and light flour roux ladled over soft, fluffy steamed white rice. Ultra-gentle on the gut, soothing, and packed with bioavailable collagen.",
+  "prepOrOrderInstructions": "Ladle warm, smooth strained turkey gravy over freshly steamed white jasmine or basmati rice with a pinch of sea salt.",
+  "watchOuts": [
+    "None; exceptional flare-safe recovery meal"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bear-trapper-garden-city-broiled-idaho-trout",
+  "name": "Bear Trapper Fresh Broiled Idaho Trout & Baked Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Bear Trapper Steakhouse (Garden City / Bear Lake, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "potato",
+    "high-protein",
+    "gluten-free-option",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bear trapper garden city",
+    "idaho trout bear lake",
+    "broiled trout baked potato",
+    "bear trapper steakhouse"
+  ],
+  "whyItWorks": "Fresh broiled Idaho rainbow trout is flaky, lean, and rich in anti-inflammatory omega-3s; paired with the soft interior of a baked Idaho potato and plain dinner roll, it is one of the safest sit-down dinners in Garden City.",
+  "prepOrOrderInstructions": "Order the Fresh Idaho Trout broiled (not breaded or fried) with no lemon wedge, paired with a plain baked potato (eat the fluffy interior, leave the skin) and skip the house salad.",
+  "watchOuts": [
+    "Ask for no lemon garnish (citrus trigger)",
+    "Leave the thick baked potato skin and skip the raw dinner salad"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dca-terran-treats-cosmic-cream-orb-churro",
+  "name": "DCA Terran Treats (Avengers Campus) \"Cosmic Cream Orb\" Cream Puff & Sweet Spiral Churro",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Terran Treats Cart (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 6.7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "dairy",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "terran treats dca",
+    "cosmic cream orb avengers campus",
+    "sweet spiral ration churro"
+  ],
+  "whyItWorks": "Airy choux pastry cream puff filled with whipped cheesecake mousse; low in fiber when shared with a lactase enzyme (verify the seasonal spiral churro flavor is not citrus/chili).",
+  "prepOrOrderInstructions": "Take a lactase tablet for the whipped cheesecake filling and scrape off any seeded raspberry sauce.",
+  "watchOuts": [
+    "Contains cream cheese/whipped dairy; check seasonal spiral churro flavors for lime/lemon or chili powder"
+  ]
+}

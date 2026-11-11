@@ -1,0 +1,43 @@
+{
+  "id": "let-the-magic-begin-sweet-potato-lentil-dhal",
+  "name": "Spinach, Sweet Potato & Red Lentil Dhal with Coconut Rice (Let the Magic Begin)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet-potato",
+    "beans",
+    "rice",
+    "coconut",
+    "vegan",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "spinach sweet potato lentil dhal",
+    "let the magic begin vegan",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Coconut rice and soft sweet potato cubes are gentle, but lentil GOS FODMAPs and Indian curry spices can trigger gas and urgency.",
+  "prepOrOrderInstructions": "Eat the coconut rice and sweet potato pieces in remission; skip during active flares.",
+  "watchOuts": [
+    "High-FODMAP lentil GOS and curry spices"
+  ]
+}

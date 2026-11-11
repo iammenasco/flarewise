@@ -1,0 +1,39 @@
+{
+  "id": "dca-award-wieners-all-beef-hot-dog-fries",
+  "name": "DCA Award Wieners (Hollywood Land) Plain All-Beef Hot Dog on Potato Bun & Filmstrip Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Award Wieners (Hollywood Land · Disney California Adventure)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "potato",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "award wieners dca",
+    "filmstrip fries california adventure",
+    "hollywood land hot dog"
+  ],
+  "whyItWorks": "A skinless all-beef frankfurter served on a pillowy soft toasted potato roll with crispy ribbon-cut Filmstrip Fries is dairy-free, citrus-free, and low-fiber.",
+  "prepOrOrderInstructions": "Order the **All-Beef Hot Dog** (or Kids' Mini Hot Dog) plain with Filmstrip Fries—skip the Bacon Street Dog (bell peppers/onions) and Uptown Chili Dog.",
+  "watchOuts": [
+    "Avoid Loaded Carne Asada Fries (spicy salsa de arbol + raw onions + cilantro) and Uptown Chili Dogs"
+  ]
+}

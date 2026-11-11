@@ -1,0 +1,40 @@
+{
+  "id": "spitz-utah-doner-rice-bowl-pita",
+  "name": "Spitz Mediterranean (Draper / South Jordan / Lehi) Chicken or Beef Doner Rice Bowl / Pita (Mild Mod)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Spitz Home of the Döner Kebab (Draper / South Jordan / Lehi, UT)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "pita",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "spitz mediterranean draper",
+    "spitz south jordan",
+    "doner kebab rice bowl utah"
+  ],
+  "whyItWorks": "Rotisserie-roasted chicken or beef/lamb doner over steamed basmati rice with warm soft pita triangles provides high protein when you skip the raw onions, spicy harissa/berbere, and fried garbanzo beans.",
+  "prepOrOrderInstructions": "Order a Customize-Your-Own Rice Bowl or Soft Pita with Chicken or Beef Doner, basmati rice, and tzatziki on the side—specifically ask for NO raw onions, NO green peppers, NO fried garbanzo beans, and NO spicy chili sauce.",
+  "watchOuts": [
+    "Standard bowls include crunchy fried garbanzo beans, raw red onions, and garlic/harissa sauces—always request plain meat and rice"
+  ]
+}

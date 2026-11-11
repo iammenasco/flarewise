@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-rancho-del-zocalo-beef-barbacoa-tacos",
+  "name": "Soft Beef Barbacoa Street Tacos with Warm Corn Tortillas",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Rancho del Zocalo (Disneyland)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "barbacoa",
+    "street-tacos",
+    "frontierland"
+  ],
+  "searchKeywords": [
+    "rancho del zocalo",
+    "disneyland",
+    "beef barbacoa",
+    "street tacos",
+    "frontierland"
+  ],
+  "whyItWorks": "Slow-simmered shredded barbacoa beef served in double warm soft corn tortillas provides gentle animal protein and easy gluten-free starch without frying oils.",
+  "prepOrOrderInstructions": "Request no fresh cilantro-onion relish and no spicy red salsa. Accompany with plain Mexican rice."
+}

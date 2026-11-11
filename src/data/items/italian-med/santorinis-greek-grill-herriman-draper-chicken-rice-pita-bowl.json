@@ -1,0 +1,45 @@
+{
+  "id": "santorinis-greek-grill-herriman-draper-chicken-rice-pita-bowl",
+  "name": "Santorini's Greek Grill & The Great Greek (Herriman & Draper) Lemon-Free Chicken Souvlaki, Rice & Pita",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Santorini's Greek Grill (Mountain View Village · Herriman) / The Great Greek (Draper, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "beef",
+    "lamb",
+    "rice",
+    "pita",
+    "high-protein",
+    "herriman",
+    "south-jordan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "santorinis greek grill herriman",
+    "mountain view village restaurants",
+    "the great greek draper",
+    "gyro rice bowl"
+  ],
+  "whyItWorks": "Located in Mountain View Village right by Holiday Inn Express Herriman (and on 12300 S in Draper): warm fluffy pita bread, basmati rice pilaf, and shaved gyro meat or grilled chicken skewers.",
+  "prepOrOrderInstructions": "Order a Build-Your-Own Rice Bowl or Pita with shaved Gyro meat (citrus-free!) or plain grilled chicken over white rice with smooth hummus and warm pita—skipping raw onions, tomatoes, and lemon-herb dressing.",
+  "watchOuts": [
+    "CITRUS WARNING: Greek chicken marinades and avgolemono soup often contain lemon—choose shaved Gyro meat or confirm chicken is lemon-free!"
+  ]
+}

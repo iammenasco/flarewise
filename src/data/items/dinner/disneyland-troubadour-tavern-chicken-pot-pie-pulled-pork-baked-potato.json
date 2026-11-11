@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-troubadour-tavern-chicken-pot-pie-pulled-pork-baked-potato",
+  "name": "Disneyland Troubadour Tavern Specialty Loaded Baked Potato (Chicken Pot Pie or Pulled Pork Mod)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Troubadour Tavern (Fantasyland · Disneyland Park)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "chicken",
+    "pork",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "troubadour tavern loaded potato",
+    "fantasyland theater baked potato"
+  ],
+  "whyItWorks": "Troubadour Tavern tops giant fluffy baked Idaho Russet potatoes with rotating comfort fillings like creamy Chicken Pot Pie velouté or slow-smoked Pulled Pork.",
+  "prepOrOrderInstructions": "Ask for any raw slaw, crispy onions, or spicy sauces on the side, eat the soft potato flesh and tender meat, and leave the outer potato skin behind.",
+  "watchOuts": [
+    "Leave the fibrous potato skin on the tray and take lactase if choosing a creamy topping"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pirate-night-shanghaied-noodle-stir-fry",
+  "name": "Shanghaied Egg Noodle Stir-Fry with Cashews & Vegetables (Pirate Night)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "nuts",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "shanghaied noodle stir fry",
+    "pirate night vegetarian",
+    "disney cruise"
+  ],
+  "whyItWorks": "Soft egg noodles are tossed with whole roasted cashews, fibrous cabbage, bell peppers, snow peas, and chili-garlic soy sauce.",
+  "prepOrOrderInstructions": "If craving noodles, ask the kitchen for plain egg noodles tossed with soy sauce and shredded chicken only (no cashews, no stir-fry vegetables).",
+  "watchOuts": [
+    "Whole roasted cashews",
+    "Cabbage, snow pea, and pepper roughage",
+    "Garlic/chili stir-fry sauce"
+  ]
+}

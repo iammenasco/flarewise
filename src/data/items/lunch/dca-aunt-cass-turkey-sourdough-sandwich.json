@@ -1,0 +1,41 @@
+{
+  "id": "dca-aunt-cass-turkey-sourdough-sandwich",
+  "name": "DCA Aunt Cass Café Roasted Turkey Sandwich on Fresh Boudin Sourdough (No Pesto/Tomato Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Aunt Cass Café (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "cheese",
+    "sourdough",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "aunt cass turkey pesto club",
+    "dca turkey sourdough sandwich",
+    "kids turkey sandwich aunt cass"
+  ],
+  "whyItWorks": "Slices of oven-roasted turkey breast, bacon, and Havarti/provolone cheese on fresh-baked Boudin sourdough bread make one of the cleanest lunches in California Adventure.",
+  "prepOrOrderInstructions": "Order the Turkey Club on Sourdough (or the Kids' Turkey Sandwich on Sourdough) and ask for no pesto mayo, no raw tomato, and no shredded lettuce.",
+  "watchOuts": [
+    "Standard adult sandwich includes garlic basil pesto aioli—request plain or order the Kids' Turkey Sandwich on Sourdough"
+  ]
+}

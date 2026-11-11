@@ -1,0 +1,46 @@
+{
+  "id": "marceline-market-asian-noodle-curry-station",
+  "name": "Marceline Market / Cabanas Asian Noodle, Jasmine Rice & Indian Curry Station",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Treasure · Marceline Market / Disney Wonder & Magic · Cabanas",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "chicken",
+    "pasta",
+    "naan",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "marceline-market",
+    "cabanas"
+  ],
+  "searchKeywords": [
+    "marceline market curry",
+    "jasmine rice",
+    "naan",
+    "asian noodle bowl",
+    "cabanas lunch"
+  ],
+  "whyItWorks": "Steamed white jasmine rice, warm white naan flatbread, and plain broth noodle bowls offer great lunch staples if you bypass fiery curries.",
+  "prepOrOrderInstructions": "Load up on plain steamed jasmine rice, warm naan bread, and mild butter chicken or plain poached chicken/shrimp noodle broth; skip vindaloo, chili oil, and raw bean sprouts.",
+  "watchOuts": [
+    "Capsaicin chili heat in spicy curries",
+    "Raw bean sprouts and scallions at the noodle bar"
+  ]
+}

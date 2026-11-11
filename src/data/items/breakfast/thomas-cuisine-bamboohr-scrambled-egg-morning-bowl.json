@@ -1,0 +1,38 @@
+{
+  "id": "thomas-cuisine-bamboohr-scrambled-egg-morning-bowl",
+  "name": "Thomas2Go @ BambooHR (Lindon, UT) Scratch Scrambled Egg & Turkey Sausage Breakfast Bowl",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thomas Cuisine @ BambooHR (Lindon, UT)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "breakfast",
+    "eggs",
+    "bamboohr",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "thomas2go bamboohr",
+    "bamboohr office cafe",
+    "thomas cuisine breakfast bowl"
+  ],
+  "whyItWorks": "Thomas Cuisine's real-food scratch kitchen standard! Fresh cage-free scrambled eggs, lean turkey sausage crumbles, and well-steamed diced potatoes with light cheddar. Soft, zero-roughage corporate fuel.",
+  "prepOrOrderInstructions": "Order the Morning Scramble Bowl with scrambled eggs, turkey sausage, and breakfast potatoes (hold salsa and jalapeños).",
+  "watchOuts": [
+    "None; premier corporate office breakfast"
+  ]
+}

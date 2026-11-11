@@ -1,0 +1,44 @@
+{
+  "id": "palo-brunch-lasagna",
+  "name": "Palo Brunch Traditional Meat Lasagna Bolognese",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "beef",
+    "cheese",
+    "tomato",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo lasagna",
+    "lasagna bolognese",
+    "palo brunch",
+    "disney cruise"
+  ],
+  "whyItWorks": "Freshly rolled egg pasta sheets layered with slow-simmered beef Bolognese and creamy béchamel—zero tough vegetable skins or seeds.",
+  "prepOrOrderInstructions": "Pair with a Lactaid enzyme; if tomato sauce acidity bothers you, ask for the Parmesan-Crusted Chicken or Butternut Agnolotti instead.",
+  "watchOuts": [
+    "Béchamel milk lactose",
+    "Mild tomato and onion soffritto in Bolognese"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sweet-lake-biscuits-draper-mint-limeade-citrus-warning",
+  "name": "Sweet Lake Biscuits (Draper, UT) Fresh Mint Limeade (Concentrated Citrus Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Sweet Lake Biscuits & Limeade (Draper, UT)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "drink",
+    "limeade",
+    "citrus",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "sweet lake limeade",
+    "fresh mint limeade draper",
+    "citrus drink sweet lake"
+  ],
+  "whyItWorks": "Sweet Lake is famous for fresh-squeezed limeade! However, concentrated lime juice citric acid causes direct chemical irritation, burning, and spasms in ulcerated bowel tissue.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flareups and citrus intolerance. In remission, dilute heavily with ice water or choose herbal iced tea.",
+  "watchOuts": [
+    "Raw lime juice citric acid burns inflamed intestinal mucosa"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "caribbean-cruise-plantain-soup-black-bean-soup",
+  "name": "Caribbean Cruise West Indian Cream of Plantain Soup vs. Pigeon Pea / Black Bean Soup",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure, Magic & Wonder · Caribbean Cruise Menus",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "banana",
+    "smooth",
+    "vegetarian",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-magic",
+    "disney-wonder"
+  ],
+  "searchKeywords": [
+    "west indian cream of plantain soup",
+    "caribbean black bean soup",
+    "pigeon pea soup",
+    "caribbean cruise"
+  ],
+  "whyItWorks": "Puréed West Indian Cream of Plantain Soup harnesses the gut-soothing soluble starch of green/ripe plantains blended completely smooth.",
+  "prepOrOrderInstructions": "Always choose the smooth Cream of Plantain Soup (with a Lactaid) over the fibrous Pigeon Pea or Black Bean soups on Caribbean sailings.",
+  "watchOuts": [
+    "Avoid whole black bean or pigeon pea soups during flares due to legume hulls",
+    "Dairy cream in plantain soup"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "palo-brunch-parmesan-crusted-chicken",
+  "name": "Palo Brunch Signature Parmesan-Crusted Chicken Breast over Arborio Risotto",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rice",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo chicken parmesan",
+    "parmesan crusted chicken breast",
+    "palo brunch",
+    "disney cruise"
+  ],
+  "whyItWorks": "Arguably the single most famous dish on Disney Cruise Line: tender pounded chicken breast in a light 24-month Parmigiano-Reggiano crust over creamy white Arborio rice risotto.",
+  "prepOrOrderInstructions": "Order as your centerpiece Palo Brunch entrée; aged Parmigiano-Reggiano is naturally lactose-free, though take a Lactaid for the butter/cream in the risotto.",
+  "watchOuts": [
+    "Butter/cream finish in risotto"
+  ]
+}

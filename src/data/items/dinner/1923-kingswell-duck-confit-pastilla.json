@@ -1,0 +1,39 @@
+{
+  "id": "1923-kingswell-duck-confit-pastilla",
+  "name": "Kingswell Duck Confit Pastilla in Spiced Phyllo Pastry (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "poultry",
+    "bakery",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "kingswell duck confit pastilla",
+    "1923 duck",
+    "disney treasure"
+  ],
+  "whyItWorks": "Shredded duck in cinnamon-dusted phyllo is tender, but rendered duck fat, dried fruit, and almonds in traditional pastilla can trigger flares.",
+  "prepOrOrderInstructions": "Save for remission and choose the Hyperion Four-Cheese Tri-Color Tortelloni or Burrata starter on sensitive days.",
+  "watchOuts": [
+    "Rendered duck fat",
+    "Possible sliced almonds and dried fruit inside pastilla"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "christmas-merrytime-marmalade-ham-cheddar-croquettes",
+  "name": "Very Merrytime Christmas Menu: Virginia Ham & Cheddar Croquettes vs. Marmalade Glazed Ham (Citrus Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime \"Happy Holidays\" Dinner Menu",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "pork",
+    "cheese",
+    "corn",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "christmas-cruise"
+  ],
+  "searchKeywords": [
+    "marmalade glazed baked virginia ham",
+    "virginia ham and white cheddar croquettes",
+    "very merrytime menu",
+    "disney cruise christmas"
+  ],
+  "whyItWorks": "Critical holiday warning: while the Virginia Ham & White Cheddar Croquette starter is citrus-free, the Baked Virginia Ham entrée is glazed with bitter orange peel marmalade.",
+  "prepOrOrderInstructions": "Strictly skip the Marmalade-Glazed Baked Virginia Ham (or ask the kitchen for an unglazed center cut of ham with zero orange marmalade); choose the Holiday Roast Turkey or Rib Roast instead.",
+  "watchOuts": [
+    "Orange peel marmalade glaze on the Christmas Ham (strict citrus guardrail)",
+    "Wholegrain mustard seeds"
+  ]
+}

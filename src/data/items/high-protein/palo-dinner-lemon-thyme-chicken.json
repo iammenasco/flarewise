@@ -1,0 +1,40 @@
+{
+  "id": "palo-dinner-lemon-thyme-chicken",
+  "name": "Palo Dinner Roasted Free-Range Lemon & Thyme Chicken",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "roasted free range lemon thyme chicken",
+    "palo dinner chicken"
+  ],
+  "whyItWorks": "Since Palo cooks every protein fresh to order, the kitchen can roast this free-range chicken breast with olive oil and sea salt only (zero lemon).",
+  "prepOrOrderInstructions": "Tell your server to prepare the Free-Range Chicken with olive oil and salt only—strictly no lemon juice or lemon zest—to make it 100% citrus-free and flare-safe.",
+  "watchOuts": [
+    "Standard preparation includes lemon juice/zest unless requested plain"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "palo-dinner-fritto-di-calamari-gamberi",
+  "name": "Palo Dinner Fritto di Calamari e Gamberi (Crispy Fried Calamari & Jumbo Shrimp)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "seafood",
+    "fried",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "fritto di calamari e gamberi",
+    "palo calamari",
+    "fried calamari shrimp",
+    "palo dinner"
+  ],
+  "whyItWorks": "Lightly dusted in semolina/flour and flash-fried, but frying oil, chewy squid rings, and lemon-garlic aioli make it risky during flares.",
+  "prepOrOrderInstructions": "If sharing in remission, eat the tender jumbo shrimp (skip rubbery calamari tentacles), blot oil, and avoid the lemon-garlic mayo.",
+  "watchOuts": [
+    "Deep-frying oil",
+    "Lemon-garlic mayonnaise (citrus + garlic)",
+    "Chewy calamari rings"
+  ]
+}

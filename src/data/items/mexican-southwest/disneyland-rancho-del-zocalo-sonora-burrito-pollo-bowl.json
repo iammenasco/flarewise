@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-rancho-del-zocalo-sonora-burrito-pollo-bowl",
+  "name": "Disneyland Rancho del Zocalo Pollo Asado / Carne Asada Burrito (Ask for Dry / No Sauce & No Beans)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Rancho del Zocalo Restaurante (Frontierland · Disneyland Park)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "cheese",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "rancho del zocalo burrito",
+    "sonora burrito disneyland",
+    "frontierland burrito"
+  ],
+  "whyItWorks": "A warm oversized flour tortilla filled with grilled chicken or steak, Spanish/white rice, and shredded cheese—as long as you ask the counter to hold the refried beans and red guajillo chili sauce on top.",
+  "prepOrOrderInstructions": "At the counter, ask for the Chicken or Beef Burrito **\"Dry (no red sauce on top) and no beans\"** with rice and cheese only.",
+  "watchOuts": [
+    "Default Sonora Burrito is smothered in red guajillo sauce and filled with refried beans—always request dry and bean-free"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sabores-logan-beef-pho-noodle-soup",
+  "name": "Sabores Vietnamese Beef Pho Rice Noodle Soup (No Lime/Jalapeño Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Sabores (Logan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "soup",
+    "noodles",
+    "rice",
+    "dairy-free",
+    "gluten-free-option",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sabores pho logan",
+    "vietnamese pho logan utah",
+    "sabores beef noodle soup"
+  ],
+  "whyItWorks": "Clear aromatic beef bone broth with soft rice noodles and thin-sliced lean beef is hydrating, dairy-free, wheat-free, and gentle on an inflamed gut.",
+  "prepOrOrderInstructions": "Order the Beef Pho and skip the raw garnish plate (do not squeeze the lime wedge, and skip raw bean sprouts, sliced jalapeños, and sriracha).",
+  "watchOuts": [
+    "Do NOT add the lime wedge (citrus trigger), raw bean sprouts (insoluble fiber), or sriracha/jalapeños"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "holiday-whole-cranberry-orange-relish-warning",
+  "name": "Holiday Whole Cranberry & Orange Relish (Skins, Seeds & Acid Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "cranberries",
+    "citrus",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "cranberry orange relish",
+    "thanksgiving fresh cranberries",
+    "raw cranberry sauce"
+  ],
+  "whyItWorks": "Raw chopped cranberries contain tough insoluble outer skins and seeds, and the fresh orange zest/juice adds harsh citric acid. Irritates ulcerated intestines.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares. Use smooth, strained jellied canned cranberry sauce instead.",
+  "watchOuts": [
+    "Raw cranberry skins and orange citric acid irritate mucosal tissue"
+  ]
+}

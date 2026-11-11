@@ -1,0 +1,41 @@
+{
+  "id": "angies-restaurant-logan-diced-ham-scramble",
+  "name": "Angie's Restaurant (Logan, UT) Angie's Diced Ham & Egg Scramble with Hash Browns",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "breakfast",
+    "eggs",
+    "ham",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "angies ham scramble",
+    "angies logan eggs",
+    "all day breakfast angies logan"
+  ],
+  "whyItWorks": "Diced lean country ham scrambled gently into fresh eggs, served with well-browned shredded hash browns and sourdough toast. Simple, pure nutrition.",
+  "prepOrOrderInstructions": "Order Angie's Scramble with hash browns and sourdough toast with butter.",
+  "watchOuts": [
+    "None; classic low-residue breakfast"
+  ]
+}

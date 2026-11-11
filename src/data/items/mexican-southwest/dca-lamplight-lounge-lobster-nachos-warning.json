@@ -1,0 +1,38 @@
+{
+  "id": "dca-lamplight-lounge-lobster-nachos-warning",
+  "name": "DCA Lamplight Lounge Famous Lobster Nachos (Serrano Chili, Chipotle Crema & Corn Chip Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Lamplight Lounge (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "seafood",
+    "cheese",
+    "spicy",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lamplight lounge lobster nachos",
+    "pixar pier lobster nachos"
+  ],
+  "whyItWorks": "Reference warning: although the warm poached lobster meat itself is lean, the dish is built on sharp fried corn tortilla chips with black beans, aged cheddar-oaxaca cheese sauce, pico de gallo, sliced raw serrano chilies, and chipotle crema.",
+  "prepOrOrderInstructions": "If your table orders Lobster Nachos to share, pick out a few pieces of plain warm lobster meat from the top and avoid the serrano chilies, black beans, and spicy chipotle crema.",
+  "watchOuts": [
+    "Loaded with raw serrano chilies, black beans, fried corn tortilla edges, dairy queso, and lime (citrusFree: false)"
+  ]
+}

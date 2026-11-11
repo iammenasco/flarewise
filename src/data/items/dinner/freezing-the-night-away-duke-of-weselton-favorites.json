@@ -1,0 +1,39 @@
+{
+  "id": "freezing-the-night-away-duke-of-weselton-favorites",
+  "name": "Duke of Weselton's Favorites: Nordic Meats, Cheeses & Knäckebröd (Wonder Alaska)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Freezing the Night Away Menu (Alaska Sailings)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "cheese",
+    "bread",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "duke of weseltons favorites",
+    "freezing the night away",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Aged Nordic cheeses and cured meats are lactose-safe, but hard seeded rye crispbread (Knäckebröd) and pickled vegetables are rough.",
+  "prepOrOrderInstructions": "Eat the aged cheese and lean cured meat slices with a soft white dinner roll instead of the hard seeded rye crispbread.",
+  "watchOuts": [
+    "Hard seeded rye Knäckebröd crispbread",
+    "Pickled garnish"
+  ]
+}

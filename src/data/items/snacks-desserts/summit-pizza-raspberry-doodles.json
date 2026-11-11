@@ -1,0 +1,41 @@
+{
+  "id": "summit-pizza-raspberry-doodles",
+  "name": "Summit Pizza Co. Bear Lake \"Raspberry Doodles\" (Seed Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pastry",
+    "sweet",
+    "cheese",
+    "bear-lake",
+    "garden-city",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "raspberry doodles",
+    "summit pizza raspberry doodles",
+    "bear lake raspberry dessert"
+  ],
+  "whyItWorks": "A famous Bear Lake specialty (swirled pizza crust stuffed with cream cheese and Bear Lake raspberries), but the whole raspberry seeds and cream cheese make it a remission-only treat.",
+  "prepOrOrderInstructions": "Swap to the Cinnadoodles or Skillet Cookie Sundae if you are avoiding berry seeds; otherwise eat 1–2 pieces with a Lactaid in steady remission.",
+  "watchOuts": [
+    "Whole Bear Lake raspberry seeds in the filling",
+    "High lactose in cream cheese and frosting"
+  ]
+}

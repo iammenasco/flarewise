@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-guava-besito-cookie",
+  "name": "Porto's Bakery (Buena Park, CA) Guava \"Besito\" Butter Shortbread Cookie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "cookies",
+    "guava",
+    "dessert",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos guava besito",
+    "guava shortbread cookie",
+    "buena park bakery cookies"
+  ],
+  "whyItWorks": "Melt-in-your-mouth Cuban butter shortbread cookie filled with smooth, strained seedless guava jam and dusted in powdered sugar. Completely seed-free and gentle.",
+  "prepOrOrderInstructions": "Order a box of Guava Besito cookies for snacking during your Knott's Berry Farm day.",
+  "watchOuts": [
+    "None; delicate seed-free cookie"
+  ]
+}

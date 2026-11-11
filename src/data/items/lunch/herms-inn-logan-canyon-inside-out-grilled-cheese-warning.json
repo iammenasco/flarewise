@@ -1,0 +1,42 @@
+{
+  "id": "herms-inn-logan-canyon-inside-out-grilled-cheese-warning",
+  "name": "Herm's Inn (Logan, UT) \"Inside-Out\" Grilled Cheese (Diners, Drive-Ins & Dives Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Herm's Inn (Logan Canyon / Logan, UT)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "cheese",
+    "sandwich",
+    "spicy",
+    "beans",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "herms inn inside out grilled cheese",
+    "triple d logan utah",
+    "food network herms inn"
+  ],
+  "whyItWorks": "Featured on Food Network's Triple D! Crispy grilled cheese exterior crust, but stuffed with black bean skins, garlic guacamole, and spicy sriracha. High gas/acid risk.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid in active flares. If ordering in remission, ask for no sriracha and hold black beans to convert it into a pure cheese melt.",
+  "watchOuts": [
+    "Whole black bean skins and spicy sriracha cause cramping and gas",
+    "Exterior cheese crust is very greasy"
+  ]
+}

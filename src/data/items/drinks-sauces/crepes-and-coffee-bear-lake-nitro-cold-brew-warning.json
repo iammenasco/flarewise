@@ -1,0 +1,39 @@
+{
+  "id": "crepes-and-coffee-bear-lake-nitro-cold-brew-warning",
+  "name": "Crepes and Coffee (Garden City, UT) Wasatch Roasters Nitro Cold Brew (Caffeine Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "coffee",
+    "caffeine",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "crepes and coffee nitro cold brew",
+    "wasatch roasters bear lake",
+    "garden city coffee"
+  ],
+  "whyItWorks": "Nitro cold brew delivers a concentrated, highly bioavailable burst of caffeine and chlorogenic acids that stimulate powerful gastrocolic contractions, risking urgency.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active diarrhea or flares. In remission, sip slowly or switch to herbal tea or decaf coffee.",
+  "watchOuts": [
+    "High caffeine content accelerates intestinal peristalsis and causes cramping"
+  ]
+}

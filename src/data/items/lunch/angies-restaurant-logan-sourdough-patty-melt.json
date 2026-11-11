@@ -1,0 +1,37 @@
+{
+  "id": "angies-restaurant-logan-sourdough-patty-melt",
+  "name": "Classic Sourdough Patty Melt (No Grilled Onions)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "patty-melt",
+    "sourdough"
+  ],
+  "searchKeywords": [
+    "angies restaurant",
+    "patty melt",
+    "sourdough melt",
+    "logan cache valley"
+  ],
+  "whyItWorks": "A fresh ground beef patty seared on the flat top with melted Swiss cheese on toasted sourdough provides hearty protein and simple fermented carbs. Swiss cheese is low in lactose.",
+  "prepOrOrderInstructions": "Crucial order note: Request NO grilled onions and light butter on the sourdough to protect sensitive digestion."
+}

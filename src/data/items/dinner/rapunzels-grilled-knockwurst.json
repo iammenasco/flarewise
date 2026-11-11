@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-grilled-knockwurst",
+  "name": "Grilled Knockwurst Sausage Starter with Sauerkraut & Mustard (Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "fermented",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "grilled knockwurst",
+    "sauerkraut",
+    "snuggly duckling",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Snap-casing emulsified pork sausage over fibrous fermented cabbage (sauerkraut) and mustard seeds is rough on active inflammation.",
+  "prepOrOrderInstructions": "Skip during flares; if tasting in remission, peel off the tough outer sausage casing and leave the sauerkraut.",
+  "watchOuts": [
+    "Tough sausage casing and high pork fat",
+    "Fibrous sauerkraut cabbage and whole mustard seeds"
+  ]
+}

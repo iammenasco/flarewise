@@ -1,0 +1,39 @@
+{
+  "id": "knotts-mrs-knotts-broiled-salmon-baked-potato",
+  "name": "Mrs. Knott's Broiled Atlantic Salmon Fillet with Mashed or Baked Potato (No Lemon Mod)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (California Marketplace · Knott's Berry Farm)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "potato",
+    "high-protein",
+    "omega-3",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "mrs knotts salmon",
+    "knotts berry farm fish dinner"
+  ],
+  "whyItWorks": "Tender broiled salmon fillet paired with a plain baked potato (eat the fluffy interior) and chicken noodle soup is a 9.0/10 flare-safe sit-down meal right outside the Knott's main gate.",
+  "prepOrOrderInstructions": "Order the Broiled Salmon plain (no lemon butter sauce and no lemon wedge) with a plain baked potato or mashed potatoes.",
+  "watchOuts": [
+    "Ask for no lemon garnish (citrus trigger)"
+  ]
+}

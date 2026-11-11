@@ -1,0 +1,39 @@
+{
+  "id": "knotts-panda-express-marketplace-teriyaki-chicken-white-rice",
+  "name": "Knott's Panda Express (Boardwalk / Marketplace) Grilled Teriyaki Chicken & Double Steamed White Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Panda Express (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rice",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "panda express knotts berry farm",
+    "teriyaki chicken white rice knotts"
+  ],
+  "whyItWorks": "Inside Knott's Boardwalk area, Panda Express's un-breaded Grilled Teriyaki Chicken thigh over 100% steamed white rice is dairy-free, citrus-free (unlike Orange Chicken!), and high in protein.",
+  "prepOrOrderInstructions": "Order a Bowl or Plate with **100% Steamed White Rice** (no Chow Mein cabbage/onions and no Fried Rice) and **Grilled Teriyaki Chicken** with the sweet teriyaki sauce packet on the side.",
+  "watchOuts": [
+    "NEVER order Panda Express Orange Chicken (citrus orange peel + chili flakes + deep-fried breading) or Beijing Beef during flares"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cafe-sabor-garden-city-traditional-flan",
+  "name": "Traditional Mexican Caramel Flan",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Café Sabor (Garden City / Logan, UT)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "logan",
+    "dessert",
+    "flan"
+  ],
+  "searchKeywords": [
+    "cafe sabor",
+    "caramel flan",
+    "mexican custard",
+    "logan",
+    "bear lake"
+  ],
+  "whyItWorks": "Smooth baked egg and condensed milk custard with amber caramel sauce contains zero fiber, nuts, or seeds, making it physically silky and gentle on the bowel lining despite dairy and sugar content.",
+  "prepOrOrderInstructions": "Enjoy a few spoonfuls as a soft treat if dairy is tolerated. Take lactase enzymes if sensitive to condensed milk."
+}

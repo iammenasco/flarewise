@@ -1,0 +1,46 @@
+{
+  "id": "palo-brunch-eggs-benedict-waffles",
+  "name": "Palo Brunch Smoked Salmon Eggs Benedict, Omelets & Mickey Waffles/Pancakes",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "salmon",
+    "waffle",
+    "pancake",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo eggs benedict",
+    "palo waffles",
+    "palo brunch eggs",
+    "disney cruise"
+  ],
+  "whyItWorks": "Cooked fresh to order: custom aged-cheese omelets, poached eggs with smoked salmon on English muffins, and fluffy buttermilk pancakes/waffles.",
+  "prepOrOrderInstructions": "Ask for hollandaise on the side (contains lemon juice) on any Eggs Benedict, or order a custom omelet with aged Parmigiano/Swiss and plain waffles with maple syrup.",
+  "watchOuts": [
+    "Lemon juice in hollandaise sauce (order on side or dry)",
+    "Skip seeded berry compote on waffles"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "herms-inn-logan-canyon-the-cuban-sandwich",
+  "name": "Herm's Inn (Logan, UT) \"The Cuban\" Slow-Roasted Pork & Smoked Ham on Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Herm's Inn (Logan Canyon / Logan, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "pork",
+    "sandwich",
+    "sourdough"
+  ],
+  "searchKeywords": [
+    "herms inn cuban sandwich",
+    "cuban sandwich logan utah",
+    "canyon road lunch"
+  ],
+  "whyItWorks": "Tender slow-roasted pulled pork, smoked ham, and Swiss cheese on pressed sourdough. Holding spicy sriracha mayo keeps it mild and easily digested.",
+  "prepOrOrderInstructions": "Order The Cuban on sourdough with yellow mustard instead of sriracha mayo; hold spicy pickles upon request.",
+  "watchOuts": [
+    "Request plain yellow mustard or mayo instead of sriracha mayo"
+  ]
+}

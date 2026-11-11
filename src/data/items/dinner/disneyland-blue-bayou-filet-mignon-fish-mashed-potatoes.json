@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-blue-bayou-filet-mignon-fish-mashed-potatoes",
+  "name": "Disneyland Blue Bayou Restaurant Center-Cut Filet Mignon or Sustainable Fish & Mashed Potatoes (Plain Mod)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Blue Bayou Restaurant (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "fish",
+    "potato",
+    "high-protein",
+    "gluten-free-option",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "blue bayou disneyland",
+    "pirates of the caribbean restaurant",
+    "blue bayou filet mignon",
+    "blue bayou fish"
+  ],
+  "whyItWorks": "Blue Bayou's kitchen readily accommodates dietary requests—ordering the Center-Cut Filet Mignon or Market Sustainable Fish seasoned simply with salt and olive oil alongside mashed potatoes or white rice lets you enjoy the Pirates of the Caribbean ambiance safely.",
+  "prepOrOrderInstructions": "Ask your server for the Filet Mignon or Sustainable Fish prepared \"plain grilled with olive oil and kosher salt only—no Cajun blackening spice and no citrus/cream sauce,\" paired with mashed potatoes or steamed white rice and warm dinner rolls.",
+  "watchOuts": [
+    "Skip the spicy Jambalaya, dark-roux Gumbo, and deep-fried Monte Cristo during flares"
+  ]
+}

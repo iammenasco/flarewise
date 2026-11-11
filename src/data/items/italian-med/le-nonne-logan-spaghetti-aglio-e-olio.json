@@ -1,0 +1,36 @@
+{
+  "id": "le-nonne-logan-spaghetti-aglio-e-olio",
+  "name": "Classic Spaghetti Aglio e Olio (Light Olive Oil & Parsley)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Le Nonne (Logan, UT)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "italian",
+    "spaghetti",
+    "pasta"
+  ],
+  "searchKeywords": [
+    "le nonne",
+    "spaghetti aglio e olio",
+    "olive oil pasta",
+    "logan utah"
+  ],
+  "whyItWorks": "Al dente spaghetti tossed in high-quality extra virgin olive oil with minced Italian parsley and lightly infused garlic oil. It is naturally 100% dairy-free, but olive oil quantity should be moderated if you have fat malabsorption.",
+  "prepOrOrderInstructions": "Ask for light oil and mild infusion (discard the whole fried garlic pieces and skip red pepper flakes)."
+}

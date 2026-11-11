@@ -1,0 +1,40 @@
+{
+  "id": "knotts-mrs-knotts-herb-roasted-half-chicken",
+  "name": "Knott's Mrs. Knott's Oven Herb-Roasted Half Chicken (Gluten-Friendly Alternative)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (Knott's Berry Farm)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "chicken",
+    "roasted",
+    "comfort-food",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "mrs knotts roasted chicken",
+    "knotts berry farm roasted chicken",
+    "gluten free chicken knotts"
+  ],
+  "whyItWorks": "The smart IBD alternative to heavy fried chicken! Half chicken seasoned with herbs and slow-roasted in the oven until tender and juicy. Pure unbreaded protein with smooth mashed potatoes.",
+  "prepOrOrderInstructions": "Order the Herb-Roasted Chicken Dinner with real mashed potatoes and poultry gravy (sub extra potatoes for whole kernel corn).",
+  "watchOuts": [
+    "Substitute extra mashed potatoes for the whole kernel sweet corn"
+  ]
+}

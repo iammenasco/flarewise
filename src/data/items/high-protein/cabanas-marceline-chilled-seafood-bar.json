@@ -1,0 +1,48 @@
+{
+  "id": "cabanas-marceline-chilled-seafood-bar",
+  "name": "Buffet Peel-and-Eat Shrimp, Crab Legs & Smoked Salmon",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "salmon",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "peel and eat shrimp",
+    "crab legs",
+    "smoked salmon",
+    "cabanas seafood",
+    "marceline market seafood",
+    "disney cruise buffet"
+  ],
+  "whyItWorks": "Chilled poached shrimp, snow crab/stone crab claws, and cured smoked salmon have 0g fiber, zero fried grease, and digest rapidly.",
+  "prepOrOrderInstructions": "Load up on plain poached shrimp and smoked salmon (great on a toasted white bagel at breakfast or with white rice at lunch). Skip spicy horseradish cocktail sauce and lemon wedges if flaring.",
+  "watchOuts": [
+    "Horseradish in cocktail sauce",
+    "Lemon wedges and capers"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "captains-gala-prosciutto-coppa-soppressata",
+  "name": "Sliced Prosciutto, Coppa & Soppressata Charcuterie Plate (Captain's Gala Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "cheese",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "prosciutto coppa soppressata",
+    "captains gala charcuterie",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Thinly sliced prosciutto and aged Parmigiano chunks are low-residue, while soppressata contains whole black peppercorns and higher cured fat.",
+  "prepOrOrderInstructions": "Eat the thin prosciutto and aged cheese with white rolls; skip the peppercorn-studded soppressata, olives, and pickled peppers.",
+  "watchOuts": [
+    "Whole black peppercorns in soppressata",
+    "High sodium and cured fat"
+  ]
+}

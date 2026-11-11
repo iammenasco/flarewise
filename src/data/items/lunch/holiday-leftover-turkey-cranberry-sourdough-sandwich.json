@@ -1,0 +1,43 @@
+{
+  "id": "holiday-leftover-turkey-cranberry-sourdough-sandwich",
+  "name": "Holiday Leftover Roasted Turkey, Jellied Cranberry & Sourdough Sandwich (\"The Moist Maker\")",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Holiday Home Cooking (Thanksgiving & Christmas)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "sourdough",
+    "sandwich",
+    "high-protein",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "thanksgiving leftover turkey sandwich",
+    "the moist maker",
+    "turkey cranberry sourdough sandwich",
+    "christmas leftovers"
+  ],
+  "whyItWorks": "Sliced leftover turkey breast, a thin ribbon of seedless jellied cranberry sauce, and soft white-bread stuffing on toasted sourdough is a top-tier day-after-Thanksgiving meal with minimal fat and zero roughage.",
+  "prepOrOrderInstructions": "Layer sliced white-meat turkey breast, smooth canned jellied cranberry sauce (not whole-berry orange relish), and a spoonful of plain herb stuffing or light mayo between lightly toasted sourdough slices.",
+  "watchOuts": [
+    "Use canned seedless jellied cranberry sauce only—never use homemade orange-zest whole-berry cranberry relish (citrus + skin triggers)"
+  ]
+}

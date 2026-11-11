@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-milk-stand-blue-milk-plant-based",
+  "name": "Disneyland Milk Stand Legendary \"Blue Milk\" (Plant-Based Coconut & Rice Milk)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Milk Stand (Disneyland Park)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "drink",
+    "dairy-free",
+    "galaxys-edge"
+  ],
+  "searchKeywords": [
+    "blue milk disneyland",
+    "milk stand galaxys edge",
+    "plant based blue milk"
+  ],
+  "whyItWorks": "100% dairy-free and vegan! Blended frozen smoothie made from coconut and rice milks flavored with mild dragon fruit and berry notes. Completely free of lactose and heavy dairy fat.",
+  "prepOrOrderInstructions": "Order the classic Blue Milk; sip slowly to avoid brain freeze.",
+  "watchOuts": [
+    "Cold frozen beverage; drink at moderate pace to avoid cold-induced gut motility"
+  ]
+}

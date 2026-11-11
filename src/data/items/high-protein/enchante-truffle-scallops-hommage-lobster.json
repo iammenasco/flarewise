@@ -1,0 +1,42 @@
+{
+  "id": "enchante-truffle-scallops-hommage-lobster",
+  "name": "Enchanté \"Hommage à mon Papa\" Blue Lobster Bisque & Black Truffle Sea Scallops",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Enchanté by Chef Arnaud Lallement (Passion & Collection Menus)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "high-protein",
+    "french",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "enchante"
+  ],
+  "searchKeywords": [
+    "hommage a mon papa",
+    "enchante scallops",
+    "enchante lobster bisque",
+    "arnaud lallement"
+  ],
+  "whyItWorks": "Chef Lallement's signature tribute to his father: butter-poached blue lobster in strained velvety bisque and seared sea scallops with Coteaux Champenois reduction.",
+  "prepOrOrderInstructions": "Request your tasting courses prepared without citrus reduction (Chef Lallement's brigade customizes every course for dietary restrictions) and pair with a Lactaid.",
+  "watchOuts": [
+    "Rich French cream/butter reduction",
+    "Request zero lemon acidity when seated"
+  ]
+}

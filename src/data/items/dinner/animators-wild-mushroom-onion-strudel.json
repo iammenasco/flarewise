@@ -1,0 +1,41 @@
+{
+  "id": "animators-wild-mushroom-onion-strudel",
+  "name": "Wild Mushroom & Sweet Onion Strudel in Phyllo Pastry (Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "mushroom",
+    "bakery",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "wild mushroom sweet onion strudel",
+    "animation magic vegetarian",
+    "animators palate"
+  ],
+  "whyItWorks": "High-FODMAP double hit of caramelized onions (fructans) and wild mushrooms (mannitol) wrapped in buttered phyllo.",
+  "prepOrOrderInstructions": "Avoid if sensitive to FODMAP bloating; choose a plain pasta or rice dish instead.",
+  "watchOuts": [
+    "Concentrated onion fructans and mushroom mannitol",
+    "Fibrous mushroom stems"
+  ]
+}

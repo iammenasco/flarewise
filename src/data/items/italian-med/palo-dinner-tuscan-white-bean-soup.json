@@ -1,0 +1,41 @@
+{
+  "id": "palo-dinner-tuscan-white-bean-soup",
+  "name": "Palo Dinner Tuscan Cannellini White Bean & Pancetta Soup",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "beans",
+    "pork",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "tuscan white bean soup",
+    "cannellini bean soup",
+    "palo soup"
+  ],
+  "whyItWorks": "Even though half the cannellini beans are blended into the chicken stock, whole white beans remain high in GOS FODMAPs and bean skins.",
+  "prepOrOrderInstructions": "Skip during flares and choose the Butternut Squash Agnolotti as your first course instead.",
+  "watchOuts": [
+    "High-FODMAP GOS in cannellini beans and whole bean skins"
+  ]
+}

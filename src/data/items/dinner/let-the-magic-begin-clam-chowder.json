@@ -1,0 +1,42 @@
+{
+  "id": "let-the-magic-begin-clam-chowder",
+  "name": "New England Clam Chowder with Potatoes & Sourdough Croutons (Let the Magic Begin Menu)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "seafood",
+    "potato",
+    "sourdough",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "new england clam chowder",
+    "let the magic begin soup",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Creamy potato-and-clam broth with soft sourdough croutons is low-fiber and soothing.",
+  "prepOrOrderInstructions": "Pair with a Lactaid enzyme and skip any crispy bacon lardons if sensitive to cured fat.",
+  "watchOuts": [
+    "Heavy cream lactose",
+    "Bacon lardons"
+  ]
+}

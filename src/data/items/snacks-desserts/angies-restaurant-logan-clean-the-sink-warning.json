@@ -1,0 +1,36 @@
+{
+  "id": "angies-restaurant-logan-clean-the-sink-warning",
+  "name": "The Famous \"Clean the Sink\" Ice Cream Challenge",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 2.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "ice-cream-challenge",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "angies restaurant",
+    "clean the sink",
+    "ice cream challenge",
+    "logan utah"
+  ],
+  "whyItWorks": "Served in an actual miniature kitchen sink with 6 giant scoops of ice cream, 3 toppings, bananas, whole crushed nuts, whipped cream, and cherries. It represents a massive barrage of lactose, sugar, nuts, and fat.",
+  "prepOrOrderInstructions": "Severe Flare Hazard: Do not attempt under any circumstances if you have Crohn's disease or ulcerative colitis. Severe cramping, obstruction risk from nuts, and diarrhea will follow."
+}

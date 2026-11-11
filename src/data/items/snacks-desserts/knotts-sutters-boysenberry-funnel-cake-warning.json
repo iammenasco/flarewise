@@ -1,0 +1,39 @@
+{
+  "id": "knotts-sutters-boysenberry-funnel-cake-warning",
+  "name": "Knott's Sutter's Giant Boysenberry Funnel Cake with Soft Serve (High Risk Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sutter's Fine Pastries (Knott's Berry Farm)",
+  "crohnsScore": 4.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "funnel-cake",
+    "boysenberry",
+    "seeds",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "giant boysenberry funnel cake",
+    "knotts boysenberry funnel cake",
+    "sutters dessert warning"
+  ],
+  "whyItWorks": "Massive deep-fried funnel cake topped with seeded boysenberry fruit compote, whipped cream, and vanilla soft serve. Combines extreme frying oil, heavy dairy lactose, and abrasive berry seeds.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares. Choose the plain powdered sugar funnel cake to share.",
+  "watchOuts": [
+    "Boysenberry seeds irritate strictures; frying oil and dairy cause rapid diarrhea"
+  ]
+}

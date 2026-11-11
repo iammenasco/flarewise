@@ -1,0 +1,41 @@
+{
+  "id": "dans-drive-in-montpelier-triple-cheeseburger",
+  "name": "Dan's Drive-In (Montpelier, ID) Triple Cheeseburger \"Montpelier Mountain\"",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "beef",
+    "burger"
+  ],
+  "searchKeywords": [
+    "dans triple cheeseburger",
+    "montpelier mountain burger",
+    "dans drive in huge burger"
+  ],
+  "whyItWorks": "Three hand-pressed beef chuck patties with melted American cheese. High in protein and calories for active lake days, though the fat volume requires eating slowly in remission.",
+  "prepOrOrderInstructions": "Order the Triple Cheeseburger plain or with ketchup and mustard; split or save part if prone to volume distension.",
+  "watchOuts": [
+    "High fat volume from three patties can speed transit"
+  ]
+}

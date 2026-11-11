@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-chicken-pita-salad",
+  "name": "Snuggly Duckling Chicken Pita Salad with Yogurt-Mint Dressing (Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "bread",
+    "yogurt",
+    "salad",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "chicken pita salad",
+    "snuggly duckling",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Warm grilled chicken strips and soft pita bread with yogurt sauce are gentle once separated from the raw lettuce bed.",
+  "prepOrOrderInstructions": "Eat the grilled chicken and soft pita triangles with a touch of yogurt sauce, leaving the raw shredded lettuce and red onions on the plate.",
+  "watchOuts": [
+    "Raw lettuce and red onion slices",
+    "Dairy yogurt dressing if lactose sensitive"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "maddox-ranch-house-famous-skinless-fried-chicken",
+  "name": "Maddox Ranch House Famous \"Skinless\" Steamed-Fried Chicken & Mashed Potatoes",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Maddox Ranch House (Perry / Brigham City — Hwy 89 to Logan & Bear Lake)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "high-protein",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "maddox ranch house",
+    "maddox skinless fried chicken",
+    "perry utah restaurant",
+    "brigham city maddox"
+  ],
+  "whyItWorks": "Maddox's legendary 1949 specialty: fresh chicken with the fatty skin completely removed, lightlydusted and pressure-steamed until fork-tender with far less grease than traditional fried chicken.",
+  "prepOrOrderInstructions": "Order the Famous Skinless Fried Chicken (white meat breast) with baked or mashed potatoes and warm Maddox rolls; sub soup or applesauce for the raw green salad.",
+  "watchOuts": [
+    "Contains wheat flour dusting and dairy butter"
+  ]
+}

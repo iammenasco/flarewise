@@ -1,0 +1,41 @@
+{
+  "id": "dans-drive-in-montpelier-all-beef-hot-dog",
+  "name": "Dan's Drive-In (Montpelier, ID) Classic All-Beef Hot Dog on Steamed Bun",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "beef",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "dans hot dog",
+    "montpelier idaho hot dog",
+    "all beef frank bear lake"
+  ],
+  "whyItWorks": "A simple all-beef frank on a steamed white bun is soft, ultra-low fiber, and easy on digestion while traveling through Montpelier. Skip raw onion, chili, and relish.",
+  "prepOrOrderInstructions": "Order the Hot Dog plain on a soft bun with mild yellow mustard or ketchup (hold chili, onions, and relish).",
+  "watchOuts": [
+    "Skip chili and raw onions"
+  ]
+}

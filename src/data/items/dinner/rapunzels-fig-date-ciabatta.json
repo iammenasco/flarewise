@@ -1,0 +1,36 @@
+{
+  "id": "rapunzels-fig-date-ciabatta",
+  "name": "Warm Fig & Date Ciabatta Roll with Malt Butter (Snuggly Duckling Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "fig and date ciabatta",
+    "snuggly duckling bread",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Dried figs contain hundreds of tiny crunchy seeds and high fructans that can irritate an inflamed ileum.",
+  "prepOrOrderInstructions": "Skip the fig roll and ask your server for plain white dinner rolls or pretzel bread (salt/seeds brushed off).",
+  "watchOuts": [
+    "Crunchy fig seeds and dried fruit FODMAPs"
+  ]
+}

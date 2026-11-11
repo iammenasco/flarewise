@@ -1,0 +1,40 @@
+{
+  "id": "mo-bettahs-hawaiian-teriyaki-chicken-white-rice",
+  "name": "Mo' Bettahs (Logan, Draper & Orem, UT) Grilled Teriyaki Chicken with White Steamed Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Mo' Bettahs Hawaiian Style Food (Utah Locations)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "chicken",
+    "rice",
+    "hawaiian",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "mo bettahs teriyaki chicken",
+    "mo bettahs utah",
+    "hawaiian plate lunch logan draper"
+  ],
+  "whyItWorks": "Flame-grilled boneless skinless chicken thighs marinated in sweet teriyaki glaze, served over fluffy steamed white rice. Tender, low-residue, and soothing.",
+  "prepOrOrderInstructions": "Order the Mini or Regular Teriyaki Chicken Plate with double white rice (substitute extra white rice for the macaroni salad if dairy/mayo sensitive).",
+  "watchOuts": [
+    "Macaroni salad contains mayonnaise and gluten; substitute extra white rice if sensitive"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-downtown-disney-salt-and-straw-dairy-free-vanilla-ice-cream",
+  "name": "Downtown Disney Salt & Straw Dairy-Free Coconut/Oat Flavors or Double Fold Vanilla (With Lactase)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Salt & Straw Scoop Shop (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sweet",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "salt and straw downtown disney",
+    "dairy free ice cream downtown disney"
+  ],
+  "whyItWorks": "Salt & Straw always keeps 20% of its menu 100% Vegan/Dairy-Free (made with coconut cream or oat milk) and offers Kids'/Single Split Scoops so you can enjoy a small portion without lactose.",
+  "prepOrOrderInstructions": "Ask to sample the current non-citrus, nut-free Dairy-Free Coconut/Oat flavor (or order a Kids' scoop of Double Fold Vanilla / Sea Salt Caramel with 2 lactase tablets).",
+  "watchOuts": [
+    "Avoid flavors with black pepper, habanero, citrus curd, or whole brittle nuts"
+  ]
+}

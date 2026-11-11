@@ -1,0 +1,41 @@
+{
+  "id": "let-the-magic-begin-sticky-toffee-apple-pudding",
+  "name": "Warm Sticky Toffee-Apple Pudding with Vanilla Ice Cream (Let the Magic Begin)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "applesauce",
+    "bakery",
+    "ice-cream",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "sticky toffee apple pudding",
+    "let the magic begin dessert",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Warm steamed sponge cake with soft peeled apples and butterscotch toffee sauce—100% nut-free and citrus-free.",
+  "prepOrOrderInstructions": "Pair with a Lactaid enzyme for the toffee sauce and vanilla ice cream.",
+  "watchOuts": [
+    "Dairy cream and ice cream lactose"
+  ]
+}

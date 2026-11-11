@@ -1,0 +1,40 @@
+{
+  "id": "some-beaches-laketown-oreo-fat-boy-shake",
+  "name": "Some Beaches (Laketown, UT) Famous \"Oreo Fat Boy\" Hand-Spun Shake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 6.7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "shake",
+    "oreo",
+    "ice-cream"
+  ],
+  "searchKeywords": [
+    "some beaches oreo shake",
+    "oreo fat boy shake laketown",
+    "bear lake oreo milkshake"
+  ],
+  "whyItWorks": "Made with rich vanilla ice cream and crushed Oreo cookies. Seed-free, making it far safer for strictures than seeded raspberry shakes, though high in dairy lactose.",
+  "prepOrOrderInstructions": "Order a small Oreo Fat Boy shake; take a lactase enzyme tablet if lactose sensitive.",
+  "watchOuts": [
+    "High in dairy lactose and sugar; share portion"
+  ]
+}

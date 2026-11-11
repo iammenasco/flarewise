@@ -1,0 +1,40 @@
+{
+  "id": "dca-corn-dog-castle-original-corn-dog",
+  "name": "DCA Corn Dog Castle Original Hand-Dipped Corn Dog or Cheddar Cheese Stick",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Corn Dog Castle (Paradise Gardens Park · Disney California Adventure)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "cheese",
+    "fried",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "corn dog castle dca",
+    "cheddar cheese stick corn dog castle",
+    "paradise gardens corn dog"
+  ],
+  "whyItWorks": "Smooth, seedless cornmeal-wheat batter dipped around a mild frankfurter or block of aged cheddar cheese—strictly avoid the spicy Hot-Link Corn Dog.",
+  "prepOrOrderInstructions": "Order the **Original Corn Dog** (or Cheddar Cheese Stick) with chips—never order the spicy Hot-Link Corn Dog—and peel off part of the fried batter if sensitive to oil.",
+  "watchOuts": [
+    "Avoid the Hot-Link Corn Dog (spicy cayenne sausage); blot excess fryer oil"
+  ]
+}

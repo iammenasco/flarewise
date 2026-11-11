@@ -1,0 +1,36 @@
+{
+  "id": "disneyland-jolly-holiday-raspberry-rose-macaron-seed-warning",
+  "name": "Disneyland Jolly Holiday Raspberry Rose Mickey Macaron (Whole Raspberry Seed Warning!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sweet",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "raspberry rose mickey macaron",
+    "jolly holiday mickey macaron"
+  ],
+  "whyItWorks": "Reference warning: the center of the famous Raspberry Rose Mickey Macaron is packed with whole fresh raspberries containing hundreds of hard insoluble seeds.",
+  "prepOrOrderInstructions": "If tasting in remission, eat only the outer almond-flour macaron shell and rose buttercream ring while leaving the whole raspberries in the center—or order the Alien Macarooooon (salted caramel) in Tomorrowland instead!",
+  "watchOuts": [
+    "Center is filled with whole raspberries (insoluble berry seeds) plus almond flour shell"
+  ]
+}

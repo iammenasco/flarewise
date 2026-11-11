@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-potato-ball-seasoned-beef",
+  "name": "Porto's Bakery (Buena Park, CA) Famous Papa Rellena (Mashed Potato Beef Ball)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "beef",
+    "potatoes",
+    "portos",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos potato ball",
+    "papa rellena portos",
+    "buena park potato ball"
+  ],
+  "whyItWorks": "Porto's signature savory creation! Fluffy mashed potatoes stuffed with seasoned lean ground beef, lightly coated in panko breadcrumbs and fried golden. The mashed potato interior is soft and soothing.",
+  "prepOrOrderInstructions": "Order 2-3 warm Potato Balls fresh from the bakery case; eat slowly.",
+  "watchOuts": [
+    "Light panko coating is fried; interior is pure soft mashed potato and beef"
+  ]
+}

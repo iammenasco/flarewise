@@ -1,0 +1,48 @@
+{
+  "id": "holiday-utah-jello-fluff-salad",
+  "name": "Utah Holiday Jell-O Salad / Peach or Strawberry Gelatin Fluff (Citrus-Free)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Utah Thanksgiving & Christmas Holiday Table",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "no-microwave",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Peach or Strawberry Jell-O",
+    "Canned Diced Peaches or Pears (in juice)",
+    "Cool Whip or Whipped Cream",
+    "Mini Marshmallows"
+  ],
+  "tags": [
+    "sweet",
+    "fruit",
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "utah"
+  ],
+  "searchKeywords": [
+    "utah jello salad",
+    "holiday jello fluff",
+    "pretzel jello salad"
+  ],
+  "whyItWorks": "A staple on every Utah holiday table: gelatin, mini marshmallows, whipped topping, and canned peeled peaches or pears are virtually fiber-free and soothe the gut.",
+  "prepOrOrderInstructions": "Enjoy Peach, Cherry, or Strawberry Jell-O fluff made with canned peaches/pears and marshmallows; avoid versions made with canned Mandarin oranges (citrus) or seeded raspberries.",
+  "watchOuts": [
+    "CITRUS CHECK: Skip Jell-O salads containing canned Mandarin orange segments or crushed pineapple in citrus juice",
+    "Skip Raspberry Jell-O salads made with whole seeded frozen raspberries"
+  ]
+}

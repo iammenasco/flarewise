@@ -1,0 +1,40 @@
+{
+  "id": "mama-cocos-coffee-creme",
+  "name": "No-Sugar-Added Mamá Coco's Coffee Crème Custard (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "coffee",
+    "egg",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "mama cocos coffee creme",
+    "no sugar added plaza de coco",
+    "disney treasure"
+  ],
+  "whyItWorks": "Smooth coffee-infused custard with zero fiber, though caffeine and sugar-free sweeteners require a small portion.",
+  "prepOrOrderInstructions": "Eat half a portion with a Lactaid enzyme to test tolerance to coffee and sugar alcohols.",
+  "watchOuts": [
+    "Coffee motility stimulation",
+    "Sugar-alcohol sweeteners and dairy cream"
+  ]
+}

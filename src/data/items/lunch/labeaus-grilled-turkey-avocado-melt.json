@@ -1,0 +1,43 @@
+{
+  "id": "labeaus-grilled-turkey-avocado-melt",
+  "name": "LaBeau's Hot Grilled Turkey & Avocado Sandwich on White Bread",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "LaBeau's (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "avocado",
+    "sandwich",
+    "high-protein",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "labeaus turkey avocado",
+    "labeaus turkey club",
+    "garden city lunch",
+    "bear lake safe food"
+  ],
+  "whyItWorks": "The safest savory item on the LaBeau's menu: lean sliced turkey breast and creamy avocado grilled on soft white bread—skipping deep-fryer oils entirely.",
+  "prepOrOrderInstructions": "Order the Hot Turkey Avocado (or Turkey Club without tomato/lettuce) on grilled white bread.",
+  "watchOuts": [
+    "Hold raw tomato and iceberg lettuce if flaring"
+  ]
+}

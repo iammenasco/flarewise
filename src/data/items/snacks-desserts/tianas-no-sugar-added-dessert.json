@@ -1,0 +1,38 @@
+{
+  "id": "tianas-no-sugar-added-dessert",
+  "name": "No-Sugar-Added Coconut Tapioca Pudding / Berry Mousse",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "coconut",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "no sugar added coconut tapioca",
+    "tianas place no sugar added",
+    "disney wonder"
+  ],
+  "whyItWorks": "Soft tapioca pearls in coconut milk have zero roughage, though sugar-free sweeteners and lime/citrus garnish require caution.",
+  "prepOrOrderInstructions": "Verify no lime zest is mixed into the coconut tapioca and eat a small portion to test sugar-alcohol tolerance.",
+  "watchOuts": [
+    "Sugar-alcohol osmotic laxative effect",
+    "Possible citrus zest garnish"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "palo-brunch-buttermilk-panna-cotta-pot",
+  "name": "Palo Brunch Buttermilk Panna Cotta Pot with Strawberry Popping Pearls & Pistachio",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "nuts",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "buttermilk panna cotta pot",
+    "strawberry popping pearls",
+    "palo brunch panna cotta"
+  ],
+  "whyItWorks": "Silky set buttermilk-vanilla custard with seedless juice-filled popping pearls; only the pistachio crumble on top adds nut fiber.",
+  "prepOrOrderInstructions": "Ask your server to hold the pistachio crumble topping (or scrape it off) and take a Lactaid for the buttermilk panna cotta.",
+  "watchOuts": [
+    "Crushed pistachio nuts on top",
+    "Buttermilk/cream lactose"
+  ]
+}

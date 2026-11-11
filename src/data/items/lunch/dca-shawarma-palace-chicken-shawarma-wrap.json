@@ -1,0 +1,40 @@
+{
+  "id": "dca-shawarma-palace-chicken-shawarma-wrap",
+  "name": "DCA Shawarma Palace \"New York's Tastiest\" Chicken Shawarma Pita Wrap (Sauce on Side Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Shawarma Palace (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "pita",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "shawarma palace avengers campus",
+    "new yorks tastiest shawarma dca",
+    "chicken shawarma dca"
+  ],
+  "whyItWorks": "Warm flatbread pita filled with tender rotisserie-style chicken thighs; the yogurt-tahini dipping sauce is served in a separate cup on the side, though the chicken marinade contains garlic, warm spices, and a hint of lemon.",
+  "prepOrOrderInstructions": "Enjoy the warm chicken and pita bread without the pickled red onions and keep the lemon-garlic coconut-yogurt tahini sauce on the side.",
+  "watchOuts": [
+    "Contains garlic, cumin/coriander shawarma spice, and trace lemon in the marinade/dip (citrusFree: false)—skip during active flares"
+  ]
+}

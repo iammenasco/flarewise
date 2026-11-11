@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-carnation-cafe-walts-chili-warning",
+  "name": "Disneyland Carnation Cafe \"Walt's Chili\" (Whole Bean & Spice Warning)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Carnation Cafe (Disneyland Park)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 7,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "beef",
+    "beans",
+    "chili",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "carnation cafe walts chili",
+    "walts chili disneyland",
+    "disneyland chili bowl"
+  ],
+  "whyItWorks": "Walt Disney's personal favorite chili recipe! Loaded with pinto and kidney beans, ground beef, tomatoes, chili powder, and raw diced onions with cheddar. The high bean hull fiber and chili spices cause severe gas and cramping.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flareups. Choose the roasted turkey sandwich or country scrambled eggs instead.",
+  "watchOuts": [
+    "Whole bean skins and chili spices trigger severe cramping and bloating"
+  ]
+}

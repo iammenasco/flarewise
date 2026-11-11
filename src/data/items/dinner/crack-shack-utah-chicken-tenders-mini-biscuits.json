@@ -1,0 +1,37 @@
+{
+  "id": "crack-shack-utah-chicken-tenders-mini-biscuits",
+  "name": "The Crack Shack (Lehi / Murray / SLC) Grilled Chicken Tenders (\"Lil' Cluckers\") & Mini Biscuits",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "The Crack Shack (Lehi / Murray / Salt Lake City, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "the crack shack utah",
+    "crack shack mini biscuits",
+    "grilled chicken tenders lehi murray"
+  ],
+  "whyItWorks": "The Crack Shack uses Jidori free-range, non-GMO chicken breast and offers Grilled Chicken Tenders alongside their famous warm mini buttermilk biscuits with miso-maple butter—giving you a clean option without spicy fried breading.",
+  "prepOrOrderInstructions": "Order the Grilled Chicken Tenders (or the \"All-American Chick\" swapping to a grilled chicken breast with cheddar on a brioche bun, no pickles) and a side of Mini Biscuits.",
+  "watchOuts": [
+    "Avoid the \"Firebird\" spicy fried chicken sandwich and note that the schmaltz fries are cooked in rendered chicken fat"
+  ]
+}

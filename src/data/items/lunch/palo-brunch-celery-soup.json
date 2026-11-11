@@ -1,0 +1,44 @@
+{
+  "id": "palo-brunch-celery-soup",
+  "name": "Palo Brunch Creamy White Celery Soup with Spiced Ciabatta Croutons",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "bread",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo celery soup",
+    "creamy white celery soup",
+    "palo brunch soup",
+    "disney cruise"
+  ],
+  "whyItWorks": "Puréed and strained through a fine chinois so tough celery strings are removed, leaving a velvety cream soup, though celery root/stalk polyols (mannitol) remain.",
+  "prepOrOrderInstructions": "Enjoy in remission with a Lactaid enzyme; skip if celery mannitol triggers FODMAP gas.",
+  "watchOuts": [
+    "Mannitol polyols in concentrated celery purée",
+    "Heavy dairy cream"
+  ]
+}

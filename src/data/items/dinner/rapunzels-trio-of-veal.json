@@ -1,0 +1,41 @@
+{
+  "id": "rapunzels-trio-of-veal",
+  "name": "Trio of Veal: Grilled Tenderloin, Pulled Shank & Tortellacci Pasta (Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pasta",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "trio of veal",
+    "veal tenderloin shank tortellacci",
+    "snuggly duckling",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Fine-grained veal tenderloin, fork-tender braised veal shank, and soft egg pasta tortellacci have minimal connective tissue and low fiber.",
+  "prepOrOrderInstructions": "Ask for the demi-glace sauce on the side and take a Lactaid for the cheese inside the tortellacci.",
+  "watchOuts": [
+    "Onion/garlic reduction in demi-glace",
+    "Cheese filling inside pasta"
+  ]
+}

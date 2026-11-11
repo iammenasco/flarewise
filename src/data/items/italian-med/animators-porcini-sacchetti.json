@@ -1,0 +1,43 @@
+{
+  "id": "animators-porcini-sacchetti",
+  "name": "Porcini Mushroom Sacchetti Pasta Purses in Truffle Cream (Night 2)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "mushroom",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "porcini sacchetti",
+    "pasta purses",
+    "animation magic",
+    "animators palate"
+  ],
+  "whyItWorks": "Puréed porcini and ricotta inside delicate egg pasta purses have a smooth texture without rubbery whole mushroom chunks.",
+  "prepOrOrderInstructions": "Great remission appetizer paired with a Lactaid enzyme; skip if mushroom polyols (mannitol) cause gas.",
+  "watchOuts": [
+    "Mushroom mannitol FODMAPs",
+    "Rich Parmesan cream sauce"
+  ]
+}

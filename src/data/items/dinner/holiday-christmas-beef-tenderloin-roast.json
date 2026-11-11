@@ -1,0 +1,39 @@
+{
+  "id": "holiday-christmas-beef-tenderloin-roast",
+  "name": "Christmas Roasted Beef Tenderloin (Chateaubriand) — Center-Cut Filet",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Holiday Home Cooking (Christmas & New Year's)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "high-protein",
+    "gluten-free-option",
+    "dairy-free",
+    "holiday",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "christmas beef tenderloin",
+    "chateaubriand roast",
+    "holiday filet mignon roast"
+  ],
+  "whyItWorks": "Beef tenderloin (filet mignon) is the leanest, most tender muscle on the cow, free of the heavy intramuscular fat seams and gristle found in standing rib roast (prime rib).",
+  "prepOrOrderInstructions": "Roast with olive oil, kosher salt, and fresh rosemary/thyme sprigs (skip coarse cracked black peppercorn crusts and creamy horseradish sauce) and slice thin alongside whipped potatoes.",
+  "watchOuts": [
+    "Avoid coarse peppercorn-crusted outer edges and pungent creamy horseradish sauce"
+  ]
+}

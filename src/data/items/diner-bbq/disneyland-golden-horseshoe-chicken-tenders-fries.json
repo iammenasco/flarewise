@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-golden-horseshoe-chicken-tenders-fries",
+  "name": "Disneyland The Golden Horseshoe (Frontierland) Crispy Chicken Tenders or Mini Corn Dogs & Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "The Golden Horseshoe (Frontierland · Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "fried",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "golden horseshoe disneyland",
+    "frontierland chicken tenders",
+    "golden horseshoe show food"
+  ],
+  "whyItWorks": "Air-conditioned indoor saloon seating in Frontierland serving white-meat chicken breast tenders and french fries with zero spicy seasoning.",
+  "prepOrOrderInstructions": "Order the Chicken Tenders (peel off thick breading edges if sensitive to fryer oil) with French fries or applesauce and honey mustard/ketchup on the side.",
+  "watchOuts": [
+    "Skip the spicy buffalo/Nashville hot tenders when featured"
+  ]
+}

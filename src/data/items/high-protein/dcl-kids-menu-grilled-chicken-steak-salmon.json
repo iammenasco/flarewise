@@ -1,0 +1,47 @@
+{
+  "id": "dcl-kids-menu-grilled-chicken-steak-salmon",
+  "name": "DCL Kids' Menu Staples (Any Adult Can Order): Plain Chicken, Mini Steak, Salmon & Mickey Bar",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · All Main Dining Rooms (Kids' Menu)",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salmon",
+    "beef",
+    "potato",
+    "rice",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "kids menu",
+    "mickey check meal",
+    "plain grilled chicken",
+    "mickey ice cream bar",
+    "disney cruise"
+  ],
+  "whyItWorks": "Every single night in every restaurant, adults are welcome to order off the DCL Kids' Menu—which features completely unspiced grilled chicken breast, baked salmon, mini beef tenderloin/sirloin steak, plain mac & cheese, mashed potatoes, white rice, and the Mickey Ice Cream Bar.",
+  "prepOrOrderInstructions": "Whenever a main dining menu looks risky during a flare, ask your server for the Kids' Menu Grilled Chicken Breast, Baked Salmon, or Mini Steak with mashed potatoes or white rice (you can ask for an adult-sized portion!).",
+  "watchOuts": [
+    "Ask for an adult-sized double portion of the protein"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tucanos-brazilian-grill-orem-abacaxi-grilled-pineapple",
+  "name": "Tucanos Brazilian Grill (Orem, UT) \"Abacaxi\" Roasted Brown Sugar Pineapple (Bromelain Mod)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Tucanos Brazilian Grill (Orem / University Place, UT)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "orem",
+    "pineapple",
+    "fruit",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "tucanos abacaxi",
+    "tucanos grilled pineapple",
+    "roasted pineapple orem"
+  ],
+  "whyItWorks": "Whole fresh pineapple glazed with brown sugar and cinnamon, roasted on skewers until soft and caramelized. Roasting deactivates harsh raw enzymes while retaining gentle digestive bromelain.",
+  "prepOrOrderInstructions": "Accept 2-3 warm slices of roasted pineapple; enjoy as a digestive palate cleanser after grilled meats.",
+  "watchOuts": [
+    "Limit to 2-3 slices to avoid excessive sugar and fruit acid"
+  ]
+}

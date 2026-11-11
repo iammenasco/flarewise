@@ -1,0 +1,47 @@
+{
+  "id": "merrytime-mexican-riviera-taquitos-bunuelos",
+  "name": "Merrytime Mexican Riviera Crispy Chicken/Beef Taquitos & Cinnamon Buñuelos",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Wonder & Magic · Merrytime Mexican Riviera Cruise Specials",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "mexican",
+    "chicken",
+    "beef",
+    "fried",
+    "cinnamon",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "mexican riviera taquitos",
+    "cinnamon bunuelos",
+    "merrytime mexican riviera cruise",
+    "disney wonder baja"
+  ],
+  "whyItWorks": "Festive Merrytime Baja/Mexican Riviera specialties; shredded chicken and flour buñuelos are low-fiber but deep-fried in oil.",
+  "prepOrOrderInstructions": "Ask for soft warm flour or corn tortillas with plain shredded chicken instead of fried taquitos if flaring, and skip spicy salsa/crema.",
+  "watchOuts": [
+    "Deep-fried tortillas and fried pastry oil",
+    "Dairy crema and spicy salsa"
+  ]
+}

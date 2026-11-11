@@ -1,0 +1,42 @@
+{
+  "id": "eudoras-artichoke-ravioli",
+  "name": "Eudora's Artichoke Ravioli",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "pasta",
+    "ravioli",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "eudoras artichoke ravioli",
+    "tianas place pasta",
+    "disney wonder",
+    "ravioli"
+  ],
+  "whyItWorks": "Soft white-flour pasta pillows with a pureed artichoke and cheese filling are gentle to chew when ordered without fibrous vegetable garnishes.",
+  "prepOrOrderInstructions": "Order at Tiana's Place with melted butter or plain parmesan broth instead of the Meyer lemon white wine sauce if you follow a strict citrus guardrail, and push aside the whole sautéed spinach and cherry tomato skins.",
+  "watchOuts": [
+    "Meyer lemon sauce (citrus guardrail)",
+    "Whole spinach leaves and blistered tomato skins",
+    "Ricotta/cheese filling lactose"
+  ]
+}

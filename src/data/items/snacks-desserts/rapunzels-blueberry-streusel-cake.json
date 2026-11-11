@@ -1,0 +1,41 @@
+{
+  "id": "rapunzels-blueberry-streusel-cake",
+  "name": "Warm Blueberry Streusel Cake with Vanilla Ice Cream (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "berries",
+    "bakery",
+    "sweet",
+    "ice-cream",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "blueberry streusel cake",
+    "snuggly duckling dessert",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Unlike raspberries or blackberries, baked blueberries have soft skins and tiny undetectable seeds, over a tender butter streusel cake.",
+  "prepOrOrderInstructions": "Confirm no nuts are in the streusel crumble and pair with a Lactaid for the vanilla ice cream.",
+  "watchOuts": [
+    "Butter/sugar richness in streusel topping",
+    "Vanilla ice cream lactose"
+  ]
+}

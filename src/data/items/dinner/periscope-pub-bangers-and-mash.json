@@ -1,0 +1,40 @@
+{
+  "id": "periscope-pub-bangers-and-mash",
+  "name": "Periscope Pub Bangers and Mash with Onion Gravy (Disney Treasure)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Periscope Pub",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "potato",
+    "disney-cruise",
+    "disney-treasure",
+    "periscope-pub"
+  ],
+  "searchKeywords": [
+    "bangers and mash",
+    "periscope pub",
+    "disney treasure pub food"
+  ],
+  "whyItWorks": "The creamy mashed potato base is soothing, but traditional British pork sausages have tough casings/high fat and the gravy is loaded with caramelized onions.",
+  "prepOrOrderInstructions": "Eat the mashed potatoes (ask for onion gravy on the side) and peel the outer sausage casing if tasting in remission.",
+  "watchOuts": [
+    "High-FODMAP onion gravy",
+    "Pork sausage fat and tough casing"
+  ]
+}

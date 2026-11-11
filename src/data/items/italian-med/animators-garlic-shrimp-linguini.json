@@ -1,0 +1,43 @@
+{
+  "id": "animators-garlic-shrimp-linguini",
+  "name": "Grilled Garlic-Marinated Shrimp with Linguini & Heirloom Tomato Sauce (Night 2)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "pasta",
+    "seafood",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "garlic shrimp linguini",
+    "animation magic",
+    "animators palate",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Tender grilled shrimp over refined white linguini pasta is low-residue and dairy-light.",
+  "prepOrOrderInstructions": "If garlic or tomato acidity bothers you, ask for the grilled shrimp served over linguini tossed in plain olive oil or butter.",
+  "watchOuts": [
+    "Garlic marinade fructans",
+    "Tomato skins/acidity in the standard sauce"
+  ]
+}

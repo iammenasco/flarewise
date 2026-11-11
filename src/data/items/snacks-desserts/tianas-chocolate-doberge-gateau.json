@@ -1,0 +1,40 @@
+{
+  "id": "tianas-chocolate-doberge-gateau",
+  "name": "New Orleans Chocolate Doberge Gateau",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "chocolate doberge gateau",
+    "doberge cake",
+    "tianas place dessert",
+    "disney wonder"
+  ],
+  "whyItWorks": "Six thin layers of seedless sponge cake and smooth chocolate pudding/ganache with zero nuts or tough fruit skins.",
+  "prepOrOrderInstructions": "Share a portion on steady days and take a Lactaid enzyme for the rich chocolate custard layers.",
+  "watchOuts": [
+    "High sugar and cocoa fat load",
+    "Dairy pudding layers"
+  ]
+}

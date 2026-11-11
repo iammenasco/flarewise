@@ -1,0 +1,38 @@
+{
+  "id": "dca-award-wieners-filmstrip-fries-warning",
+  "name": "Thick-Cut Filmstrip Crispy French Fries",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Award Wieners (Disney California Adventure)",
+  "crohnsScore": 5.7,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "filmstrip-fries",
+    "french-fries",
+    "fried-food"
+  ],
+  "searchKeywords": [
+    "award wieners",
+    "dca",
+    "filmstrip fries",
+    "curly fries",
+    "hollywood land"
+  ],
+  "whyItWorks": "Broad ribbon-cut potatoes fried to an extra-crispy exterior trap substantial frying shortening. The crunchy edges and high oil load can scrape inflamed intestinal mucosa and speed up bowel transit.",
+  "prepOrOrderInstructions": "Fried Food Warning: Best kept to a few pieces during stable remission. Avoid during active symptom flares."
+}

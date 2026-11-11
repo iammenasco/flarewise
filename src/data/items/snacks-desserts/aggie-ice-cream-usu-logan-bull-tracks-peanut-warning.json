@@ -1,0 +1,40 @@
+{
+  "id": "aggie-ice-cream-usu-logan-bull-tracks-peanut-warning",
+  "name": "Aggie Ice Cream (USU Logan, UT) \"Aggie Bull Tracks\" (Peanut Butter Cup Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Aggie Ice Cream (Utah State University, Logan, UT)",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "usu",
+    "ice-cream",
+    "peanuts",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "aggie bull tracks",
+    "usu peanut butter ice cream",
+    "chocolate peanut butter cup aggie"
+  ],
+  "whyItWorks": "Rich chocolate ice cream packed with peanut butter cups and caramel swirls. The heavy fat from chocolate, peanut butter, and cream can trigger rapid digestive motility.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares or peanut sensitivity. Sample a bite in remission.",
+  "watchOuts": [
+    "High fat density from peanut butter cups and dairy cream accelerates gastric emptying"
+  ]
+}

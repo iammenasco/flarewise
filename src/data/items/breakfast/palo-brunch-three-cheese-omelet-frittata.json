@@ -1,0 +1,46 @@
+{
+  "id": "palo-brunch-three-cheese-omelet-frittata",
+  "name": "Palo Brunch Made-to-Order Three-Cheese Omelet & Ham/Cheese Frittata",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "cheese",
+    "pork",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo omelet",
+    "palo frittata",
+    "three cheese omelet",
+    "palo brunch"
+  ],
+  "whyItWorks": "Fluffy whipped eggs with aged Italian cheeses and diced lean ham provide zero-fiber, high-bioavailability protein.",
+  "prepOrOrderInstructions": "Order the Three-Cheese Omelet or Ham & Cheese Frittata (skip the Tomato & Onion omelet option to avoid onion fructans) and swap crispy potato hash for a soft white roll if flaring.",
+  "watchOuts": [
+    "Skip the onion/tomato omelet variant",
+    "Take a Lactaid if unaged fontina/ricotta is included"
+  ]
+}

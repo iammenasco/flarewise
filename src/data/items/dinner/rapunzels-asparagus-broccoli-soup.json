@@ -1,0 +1,39 @@
+{
+  "id": "rapunzels-asparagus-broccoli-soup",
+  "name": "Green Asparagus & Broccoli Cream Soup (Lantern Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "vegetarian",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "asparagus broccoli soup",
+    "rapunzels royal table",
+    "disney magic"
+  ],
+  "whyItWorks": "Blended smooth so mechanical fiber is broken down, but asparagus (fructans) and broccoli (raffinose) can produce gas.",
+  "prepOrOrderInstructions": "Choose the Potato Cream Soup instead if you are prone to FODMAP gas; otherwise pair with a Lactaid.",
+  "watchOuts": [
+    "Broccoli/asparagus FODMAP gas",
+    "Dairy cream"
+  ]
+}

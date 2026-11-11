@@ -1,0 +1,46 @@
+{
+  "id": "merrytime-pumpkin-lentil-apple-curry",
+  "name": "Very Merrytime Vegetarian Holiday Pumpkin, Brown Lentil & Apple Curry with Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime (\"Happy Holidays\" Menu)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "curry",
+    "lentils",
+    "pumpkin",
+    "rice",
+    "vegan",
+    "dairy-free",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "pumpkin lentil apple curry",
+    "vegetarian holiday curry",
+    "very merrytime vegan"
+  ],
+  "whyItWorks": "Dairy-free coconut/pumpkin curry over steamed basmati rice, though whole brown lentils add fermentable FODMAPs and insoluble hulls.",
+  "prepOrOrderInstructions": "During a flare, eat the steamed basmati rice and tender pumpkin pieces while leaving most of the fibrous brown lentils behind.",
+  "watchOuts": [
+    "High fiber and gas-producing oligosaccharides from whole brown lentils",
+    "Warm curry spices"
+  ]
+}

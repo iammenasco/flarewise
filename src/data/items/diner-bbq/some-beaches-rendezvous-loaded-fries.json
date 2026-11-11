@@ -1,0 +1,40 @@
+{
+  "id": "some-beaches-rendezvous-loaded-fries",
+  "name": "Some Beaches \"Rendezvous Beach\" Pulled Pork / Brisket Loaded Fries (Avoid in Flares)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "pork",
+    "beef",
+    "fried",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "rendezvous beach loaded fries",
+    "some beaches fries",
+    "laketown bear lake"
+  ],
+  "whyItWorks": "Delicious Bear Lake favorite for deep remission only; deep-fried french fries piled with fatty meat, sauces, and toppings are a heavy lipid load.",
+  "prepOrOrderInstructions": "During a flare or cautious day, opt for the plain grilled chicken wrap or a plain cheeseburger instead of loaded fries.",
+  "watchOuts": [
+    "High fryer oil load plus rich sauces and dairy toppings"
+  ]
+}

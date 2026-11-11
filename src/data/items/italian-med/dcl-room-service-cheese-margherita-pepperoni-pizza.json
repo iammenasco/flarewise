@@ -1,0 +1,45 @@
+{
+  "id": "dcl-room-service-cheese-margherita-pepperoni-pizza",
+  "name": "24-Hour Room Service Personal Cheese, Margherita & Pepperoni Pizzas",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "cheese",
+    "tomato",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "room service pizza",
+    "cheese pizza",
+    "margherita pizza",
+    "stateroom dining"
+  ],
+  "whyItWorks": "Soft personal pan crust with melted mozzarella and smooth tomato sauce is a reliable stateroom meal when ordered plain cheese.",
+  "prepOrOrderInstructions": "Order the plain Cheese or Margherita Pizza (skip Pepperoni grease and spices) and take 1–2 Lactaid tablets.",
+  "watchOuts": [
+    "Mozzarella lactose",
+    "Skip pepperoni variant during flares"
+  ]
+}

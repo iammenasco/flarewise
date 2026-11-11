@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-rancho-del-zocalo-chicken-tacos-rice",
+  "name": "Disneyland Rancho del Zocalo Pollo Asado or Carne Asada Soft Flour Tacos & Rice (Mild Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Rancho del Zocalo Restaurante (Frontierland · Disneyland Park)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "rancho del zocalo disneyland",
+    "frontierland mexican food",
+    "disneyland tacos rice"
+  ],
+  "whyItWorks": "Rancho del Zocalo offers generous portions of flame-grilled chicken or carne asada and a Kids' Bean-Free Chicken Taco & Rice plate—swapping to soft flour tortillas and holding raw onions/lime keeps it gentle.",
+  "prepOrOrderInstructions": "Order the Pollo Asado or Carne Asada on soft flour tortillas (or the Kids' Taco Plate) with rice only—ask for no whole/refried beans, no raw onion/cilantro relish, no salsa, and no lime squeeze.",
+  "watchOuts": [
+    "Standard plates include whole/refried pinto beans, pickled onions, and lime wedges—request plain meat, flour tortillas, and rice"
+  ]
+}

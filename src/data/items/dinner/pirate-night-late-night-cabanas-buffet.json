@@ -1,0 +1,44 @@
+{
+  "id": "pirate-night-late-night-cabanas-buffet",
+  "name": "Pirate Night Late-Night Deck/Cabanas Buffet: Smoked Turkey Legs, Crepes & Taco Bar",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Magic · Pirate in the Caribbean Late-Night Buffet",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner",
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "bakery",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "pirate night buffet",
+    "smoked turkey leg",
+    "pirate crepes",
+    "late night buffet",
+    "disney cruise pirate night"
+  ],
+  "whyItWorks": "On select sailings offering the late-night Pirate Buffet after fireworks, the freshly folded chocolate/vanilla crepes and carved turkey are gentle late-night bites.",
+  "prepOrOrderInstructions": "Stick to a warm crepe with chocolate/vanilla sauce or plain carved turkey meat; avoid heavy fried churros/empanadas and spicy jalapeño nachos right before bed.",
+  "watchOuts": [
+    "Late-night large fatty meals can trigger nocturnal reflux/cramping"
+  ]
+}

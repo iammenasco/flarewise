@@ -1,0 +1,41 @@
+{
+  "id": "dca-aunt-cass-cafe-broccoli-cheddar-soup-warning",
+  "name": "DCA Aunt Cass Café Broccoli Cheddar Soup (Roughage & Heavy Cream Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Aunt Cass Café / Boudin Bakery (Disney California Adventure)",
+  "crohnsScore": 5.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "soup",
+    "broccoli",
+    "cheese",
+    "san-fransokyo",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "aunt cass broccoli cheddar soup",
+    "san fransokyo soup bowl",
+    "boudin broccoli cheese"
+  ],
+  "whyItWorks": "Thick cheese soup loaded with chopped broccoli florets, heavy cream, and sharp cheddar inside a sourdough bread bowl. Broccoli sulfur and roughage combine with heavy cream to cause severe gas and bloating.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active disease. Order a fresh sourdough loaf with butter or plain chicken noodle soup instead.",
+  "watchOuts": [
+    "Broccoli roughage and heavy dairy cream cause severe intestinal gas and bloating"
+  ]
+}

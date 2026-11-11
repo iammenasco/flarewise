@@ -1,0 +1,40 @@
+{
+  "id": "tjs-grill-montpelier-flat-iron-steak-potato",
+  "name": "TJ's Grill (Montpelier, ID) Charbroiled Flat Iron Steak & Baked Idaho Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "TJ's Grill (Montpelier, ID)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "beef",
+    "steak",
+    "potatoes",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "tjs grill steak",
+    "montpelier flat iron steak",
+    "idaho steak dinner bear lake"
+  ],
+  "whyItWorks": "Flat iron steak is naturally uniform, tender, and lean with no tough connective gristle. Charbroiled with sea salt and paired with fluffy baked Idaho potato flesh.",
+  "prepOrOrderInstructions": "Order the Flat Iron Steak cooked medium with a baked potato (eat the soft inside flesh with butter, skip potato skin).",
+  "watchOuts": [
+    "Discard tough potato skin"
+  ]
+}

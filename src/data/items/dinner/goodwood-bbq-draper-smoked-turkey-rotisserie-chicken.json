@@ -1,0 +1,40 @@
+{
+  "id": "goodwood-bbq-draper-smoked-turkey-rotisserie-chicken",
+  "name": "Goodwood Barbecue Company (Draper) Slow-Smoked Turkey Breast or Rotisserie Chicken & Baked Idaho Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Goodwood Barbecue Company (Draper, UT)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "chicken",
+    "potato",
+    "high-protein",
+    "gluten-free-option",
+    "utah"
+  ],
+  "searchKeywords": [
+    "goodwood bbq draper",
+    "towneplace suites draper restaurants",
+    "draper rotisserie chicken baked potato"
+  ],
+  "whyItWorks": "Right down the street from TownePlace Suites Draper, Goodwood BBQ slow-smokes lean turkey breast and spit-roasts herb chicken; paired with a hot baked Idaho potato (eat the fluffy inside) and warm dinner roll, it is a very safe sit-down meal.",
+  "prepOrOrderInstructions": "Order the Hickory-Smoked Turkey Breast or Rotisserie Chicken (remove the skin, BBQ sauce on the side) with a plain Baked Potato (butter on the side) and skip the house salad/coleslaw.",
+  "watchOuts": [
+    "Leave the baked potato skin behind and skip BBQ baked beans and raw slaw"
+  ]
+}

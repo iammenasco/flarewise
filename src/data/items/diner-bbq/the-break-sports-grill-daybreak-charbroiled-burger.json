@@ -1,0 +1,40 @@
+{
+  "id": "the-break-sports-grill-daybreak-charbroiled-burger",
+  "name": "The Break Sports Grill (Daybreak / South Jordan, UT) Charbroiled Plain Cheeseburger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "The Break Sports Grill (Daybreak / South Jordan, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "south-jordan",
+    "daybreak",
+    "beef",
+    "burger"
+  ],
+  "searchKeywords": [
+    "the break daybreak",
+    "the break sports grill burger",
+    "south jordan burger"
+  ],
+  "whyItWorks": "Charbroiled Angus beef patty with melted American cheese on a soft brioche bun. When ordered without raw onions, pickles, or spicy pub sauces, it is very easy on digestion.",
+  "prepOrOrderInstructions": "Order the Classic Cheeseburger plain with ketchup only (hold lettuce, tomato, onion, and pickles).",
+  "watchOuts": [
+    "Hold raw onions and spicy pub sauces"
+  ]
+}

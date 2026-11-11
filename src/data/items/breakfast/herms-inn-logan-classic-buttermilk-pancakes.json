@@ -1,0 +1,36 @@
+{
+  "id": "herms-inn-logan-classic-buttermilk-pancakes",
+  "name": "Herm's Giant Buttermilk Pancakes with Pure Maple Syrup",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "breakfast",
+    "pancakes",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "herms inn",
+    "pancakes",
+    "buttermilk pancakes",
+    "logan canyon breakfast"
+  ],
+  "whyItWorks": "Herm's famous plate-sized pancakes made from sifted flour deliver smooth, easily broken-down carbohydrates. Zero rough fiber or irritating seeds make this comforting breakfast very gentle on sensitive intestines.",
+  "prepOrOrderInstructions": "Order with real pure maple syrup. Eat half or share due to the generous portion size, and ask for butter on the side."
+}

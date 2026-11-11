@@ -1,0 +1,45 @@
+{
+  "id": "petes-boiler-bites-fish-sandwich",
+  "name": "Pool Deck Crispy Fish Sandwich & Fish Tacos",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder · Pete's Boiler Bites / Disney Magic · Duck-In Diner / Disney Treasure · Donald's Cantina",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "fish",
+    "fried",
+    "bread",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "petes-boiler-bites",
+    "donalds-cantina"
+  ],
+  "searchKeywords": [
+    "crispy fish sandwich",
+    "fish tacos",
+    "petes boiler bites",
+    "donalds cantina"
+  ],
+  "whyItWorks": "White cod/pollock fish inside is lean, but deep-fried batter, raw cabbage slaw, tartar sauce, and lime wedges make the default build risky.",
+  "prepOrOrderInstructions": "Peel off the thick fried batter and skip the raw cabbage slaw and lime juice, or order the plain Grilled Chicken Breast Sandwich instead.",
+  "watchOuts": [
+    "Deep-fried batter oil",
+    "Raw cabbage slaw and lime crema"
+  ]
+}

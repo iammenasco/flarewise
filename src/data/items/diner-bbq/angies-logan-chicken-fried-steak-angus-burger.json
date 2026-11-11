@@ -1,0 +1,41 @@
+{
+  "id": "angies-logan-chicken-fried-steak-angus-burger",
+  "name": "Angie's Restaurant (Logan) 1/2-Lb Charbroiled Angus Burger vs. Country Chicken Fried Steak",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "avocado",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "angies california burger",
+    "angies chicken fried steak",
+    "angies bacon cheeseburger",
+    "logan diner"
+  ],
+  "whyItWorks": "Angie's charbroiled California Burger (topped with avocado and naturally lactose-safe Swiss cheese) on a white bun is much easier to digest than the breaded Chicken Fried Steak.",
+  "prepOrOrderInstructions": "Order the California Burger (beef patty, Swiss cheese, avocado, and bun—no raw onion or tomato) instead of the deep-fried Chicken Fried Steak.",
+  "watchOuts": [
+    "Chicken Fried Steak with country sausage gravy is high in fried fat and black pepper"
+  ]
+}

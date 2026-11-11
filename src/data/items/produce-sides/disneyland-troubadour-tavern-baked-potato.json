@@ -1,0 +1,42 @@
+{
+  "id": "disneyland-troubadour-tavern-baked-potato",
+  "name": "Disneyland Troubadour Tavern (Fantasyland) Classic Butter, Cheddar & Bacon Baked Russet Potato",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Troubadour Tavern (Fantasyland Theater · Disneyland Park)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "cheese",
+    "pork",
+    "gluten-free-option",
+    "budget-friendly",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "troubadour tavern baked potato",
+    "disneyland baked potato fantasyland",
+    "gluten free disneyland lunch"
+  ],
+  "whyItWorks": "Troubadour Tavern is Disneyland's dedicated baked-potato stand! A hot foil-baked Idaho Russet potato with butter, aged cheddar, and bacon bits (or pulled pork/chicken when featured) is an inexpensive, gluten-free, soluble-fiber gem.",
+  "prepOrOrderInstructions": "Order the Classic Baked Potato with butter, cheddar, and bacon—ask to hold the sour cream and raw green onions, and scoop out the soft potato interior while leaving the skin.",
+  "watchOuts": [
+    "Leave the fibrous outer potato skin behind and ask for no raw green onions or spicy sauces"
+  ]
+}

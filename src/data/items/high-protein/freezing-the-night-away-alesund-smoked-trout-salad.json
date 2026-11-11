@@ -1,0 +1,40 @@
+{
+  "id": "freezing-the-night-away-alesund-smoked-trout-salad",
+  "name": "Ålesund Flaked Smoked Trout Salad with Roasted Carrots & Parsnips (Wonder Alaska)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Freezing the Night Away Menu (Alaska Sailings)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "carrots",
+    "omega-3",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "alesund smoked trout salad",
+    "freezing the night away",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Flaked smoked Nordic trout and roasted carrots are gentle when you avoid the walnut vinaigrette.",
+  "prepOrOrderInstructions": "Eat the flaked smoked trout and cooked carrots, and ask to hold any walnut pieces or walnut vinaigrette.",
+  "watchOuts": [
+    "Walnut vinaigrette/pieces",
+    "Beetroot fructans and sour cream"
+  ]
+}

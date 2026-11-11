@@ -1,0 +1,41 @@
+{
+  "id": "holiday-deviled-eggs-classic-mild",
+  "name": "Holiday Classic Deviled Eggs (Mayo & Yellow Mustard — No Relish/Cayenne)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Home Cooking (Thanksgiving, Christmas & Easter)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "high-protein",
+    "dairy-free",
+    "gluten-free-option",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "holiday deviled eggs",
+    "thanksgiving deviled eggs",
+    "christmas appetizer eggs"
+  ],
+  "whyItWorks": "Hard-boiled egg whites and mashed yolks whipped with a touch of mayo and yellow mustard provide 6g of pure, zero-fiber, dairy-free protein per two halves.",
+  "prepOrOrderInstructions": "Choose classic deviled eggs made without crunchy pickle relish, bacon bits, or spicy cayenne pepper (a light dusting of mild sweet paprika is fine).",
+  "watchOuts": [
+    "Avoid deviled eggs topped with pickled jalapeño slices, cayenne pepper, or chunky dill pickle relish"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-pan-suave-cuban-sweet-bread",
+  "name": "Porto's Bakery (Buena Park, CA) \"Pan Suave\" Traditional Cuban Sweet Egg Bread",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "bread",
+    "cuban",
+    "portos",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos pan suave",
+    "cuban sweet bread portos",
+    "buena park portos bread"
+  ],
+  "whyItWorks": "Golden, pillowy soft sweet yeast roll enriched with eggs and a light glaze. Ultra-soft texture requires zero chewing strain and absorbs smoothly in the stomach.",
+  "prepOrOrderInstructions": "Order a fresh Pan Suave roll with light sweet cream butter.",
+  "watchOuts": [
+    "None; premier gentle bakery bread"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "knotts-coasters-diner-cheeseburger-chicken-club",
+  "name": "Knott's Coasters Diner (Boardwalk) Plain Cheeseburger, Grilled Chicken Club or Hot Dog Basket",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Coasters Diner (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "burger",
+    "sandwich",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "coasters diner knotts",
+    "boardwalk diner knotts berry farm"
+  ],
+  "whyItWorks": "50s diner serving plain cheeseburgers, jumbo all-beef hot dogs, and grilled chicken sandwiches with French fries.",
+  "prepOrOrderInstructions": "Order the Cheeseburger, Grilled Chicken Sandwich, or Hot Dog plain on the bun (no raw onions, lettuce, tomato, or diner sauce) with fries.",
+  "watchOuts": [
+    "Skip Chili Cheese Fries and deep-fried Onion Rings"
+  ]
+}

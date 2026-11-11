@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-candy-palace-pooh-corner-marshmallow-wand-rice-krispies",
+  "name": "Disneyland Candy Palace, Pooh Corner & Trolley Treats Mickey Rice Krispies Treat or Marshmallow Wand",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Candy Palace, Pooh Corner & Trolley Treats (Disneyland & DCA)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "sweet",
+    "dessert",
+    "vacation",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "mickey rice krispies treat disneyland",
+    "marshmallow wand disneyland",
+    "pooh corner treats",
+    "candy palace main street"
+  ],
+  "whyItWorks": "Puffed white rice cereal bound with melted gelatin marshmallow (or three giant marshmallows on a stick dipped in caramel) has 0g insoluble fiber, 0g nuts, and is gentle on the digestive tract when eaten in halves.",
+  "prepOrOrderInstructions": "Grab a plain or chocolate-ear Mickey Rice Krispies Treat (or handmade Caramel Marshmallow Wand) from the bakery case to keep in your backpack for low-blood-sugar moments.",
+  "watchOuts": [
+    "Skip candy apples (tough raw apple skin + hard nuts) and M&M/peanut-crusted treats"
+  ]
+}

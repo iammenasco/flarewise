@@ -1,0 +1,39 @@
+{
+  "id": "plaza-de-coco-cappuccino-creme-brulee-cheesecake",
+  "name": "Mexican Cappuccino Crème Brûlée Cheesecake (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "coffee",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "cappuccino creme brulee cheesecake",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Velvety baked cream cheese custard with coffee notes and zero fiber, nuts, or citrus.",
+  "prepOrOrderInstructions": "Pair with 1–2 Lactaid tablets and eat a moderate slice if sensitive to evening caffeine.",
+  "watchOuts": [
+    "Cream cheese lactose",
+    "Espresso flavoring"
+  ]
+}

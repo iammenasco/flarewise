@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-plaza-inn-penne-pasta-marinara",
+  "name": "Disneyland Plaza Inn Penne Pasta with Mild Tomato-Basil Marinara",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Plaza Inn (Disneyland Park)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "pasta",
+    "marinara",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "plaza inn penne pasta",
+    "disneyland pasta marinara",
+    "plaza inn kid friendly"
+  ],
+  "whyItWorks": "Tender semolina penne pasta tossed in smooth, mild tomato-basil marinara sauce and topped with parmesan cheese. Low-fat, low-residue, and soothing for tired stomachs.",
+  "prepOrOrderInstructions": "Order the Penne Pasta with mild marinara sauce; add a side breadstick or dinner roll.",
+  "watchOuts": [
+    "None; mild strained marinara is gentle"
+  ]
+}

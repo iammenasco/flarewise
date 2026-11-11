@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-cafe-daisy-toontown-cheesy-pizza-flop-over",
+  "name": "Disneyland Café Daisy (Toontown) Cheesy Pizza Flop-Over (Folded Mozzarella & Provolone Flatbread)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Café Daisy (Mickey's Toontown · Disneyland Park)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "pasta",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "cheesy pizza flop over toontown",
+    "cafe daisy pizza",
+    "kids mini flop over disneyland"
+  ],
+  "whyItWorks": "A soft folded flatbread calzone-style pocket with provolone, mozzarella, and light tomato sauce (also available as a smaller Kids' Mini Cheese Flop-Over).",
+  "prepOrOrderInstructions": "Order the Cheesy Pizza Flop-Over (not Pepperoni) and take a lactase enzyme tablet before eating.",
+  "watchOuts": [
+    "Contains mozzarella dairy and tomato sauce; skip Café Daisy's Spring Garden Wrap (quinoa, pumpkin seeds, and lemon vinaigrette)"
+  ]
+}

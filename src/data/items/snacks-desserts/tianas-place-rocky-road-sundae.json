@@ -1,0 +1,40 @@
+{
+  "id": "tianas-place-rocky-road-sundae",
+  "name": "Tiana's Place Rocky Road Ice Cream Sundae",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "nuts",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "rocky road sundae",
+    "tianas place sundae",
+    "disney wonder"
+  ],
+  "whyItWorks": "Combines high-lactose chocolate ice cream with sharp roasted almond/walnut pieces that scrape inflamed mucosa.",
+  "prepOrOrderInstructions": "Skip the Rocky Road sundae and ask your server for a plain scoop of vanilla ice cream with marshamallow/fudge sauce and zero nuts.",
+  "watchOuts": [
+    "Sharp whole/chopped nuts in Rocky Road ice cream",
+    "High lactose and sugar load"
+  ]
+}

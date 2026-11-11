@@ -1,0 +1,45 @@
+{
+  "id": "costco-deli-chicken-noodle-soup-stuffed-peppers",
+  "name": "Costco Kirkland Signature Homestyle Chicken Noodle Soup (Deli Tub)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Costco Fresh Deli (North Logan, Draper, South Jordan & Nationwide)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Kirkland Signature Chicken Noodle Soup (Deli Refrigerator Tub)"
+  ],
+  "tags": [
+    "soup",
+    "chicken",
+    "noodles",
+    "broth",
+    "dairy-free",
+    "costco",
+    "logan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco chicken noodle soup",
+    "kirkland chicken noodle soup",
+    "costco deli soup"
+  ],
+  "whyItWorks": "Loaded with big chunks of Kirkland rotisserie chicken breast, soft egg noodles, and tender cooked carrots in savory chicken broth—a 9/10 flare-safe refrigerator staple.",
+  "prepOrOrderInstructions": "Warm gently in a saucepan on the stove (no microwave needed) and pair with sourdough toast or saltines.",
+  "watchOuts": [
+    "Contains soft cooked celery pieces; easily picked around if ultra-sensitive"
+  ]
+}

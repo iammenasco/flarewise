@@ -1,0 +1,38 @@
+{
+  "id": "1923-burbank-blueberry-lemon-bavarian-cream",
+  "name": "Burbank Blueberry-Lemon Bavarian Cream Tart (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "berries",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "burbank blueberry lemon bavarian cream",
+    "1923 dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Infused with lemon curd and lemon zest, violating the strict citrus guardrail.",
+  "prepOrOrderInstructions": "Skip this dessert due to the lemon component and order the Churros Calientes, Apple Cheesecake Tart, or Hot Fudge Sundae instead.",
+  "watchOuts": [
+    "Lemon curd and lemon zest (strict citrus trigger)",
+    "Dairy Bavarian cream"
+  ]
+}

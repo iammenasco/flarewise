@@ -1,0 +1,41 @@
+{
+  "id": "1923-alameda-porcini-spiced-ahi-tuna",
+  "name": "Alameda Porcini-Spiced Ahi Tuna",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · 1923",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "tuna",
+    "fish",
+    "raw",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "alameda porcini spiced ahi tuna",
+    "1923 tuna appetizer",
+    "disney treasure"
+  ],
+  "whyItWorks": "Thinly sliced seared ahi tuna dusted with umami mushroom powder (zero rubbery mushroom chunks!) is a textbook Crohn's-friendly protein.",
+  "prepOrOrderInstructions": "Eat the seared porcini-dusted ahi tuna slices Only — strictly skip the black sesame brittle (seed shrapnel), pickled lotus root, and yuzu-wasabi mayonnaise (citrus extract).",
+  "watchOuts": [
+    "Yuzu mayonnaise (citrus guardrail)",
+    "Black sesame seed brittle (indigestible seeds)",
+    "Crunchy lotus root"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "wbpc-panama-canal-california-grill-pork-tenderloin",
+  "name": "Westbound Panama Canal \"California Grill\" Fire-Roasted Pork Tenderloin with Goat Cheese Polenta",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Westbound Panama Canal (Panama Canal Menu)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "high-protein",
+    "cheese",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "california grill pork tenderloin",
+    "goat cheese polenta",
+    "panama canal menu",
+    "westbound panama canal"
+  ],
+  "whyItWorks": "Inspired by Walt Disney World's California Grill: ultra-lean pork tenderloin medallions served over smooth, creamy polenta.",
+  "prepOrOrderInstructions": "Order the pork tenderloin medallions with mushroom/zinfandel jus on the side and take a Lactaid for the creamy polenta (or sub mashed potatoes/white rice).",
+  "watchOuts": [
+    "Unaged goat cheese and cream in the polenta",
+    "Skip sautéed button mushrooms if sensitive to fungi"
+  ]
+}

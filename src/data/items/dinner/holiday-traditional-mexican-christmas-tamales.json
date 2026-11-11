@@ -1,0 +1,41 @@
+{
+  "id": "holiday-traditional-mexican-christmas-tamales",
+  "name": "Traditional Christmas Pork or Chicken Tamales (Steamed Corn Masa)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Holiday Mexican Tradition (Christmas Eve / New Year)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "christmas",
+    "tamales",
+    "pork",
+    "chicken",
+    "mexican",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "christmas tamales",
+    "mexican holiday tamales",
+    "steamed pork tamales christmas eve"
+  ],
+  "whyItWorks": "A beloved Western holiday tradition! Steamed ground corn masa is soft, thoroughly cooked, and gentle on digestion. Shredded pork or chicken filling is tender and unbreaded.",
+  "prepOrOrderInstructions": "Unwrap the corn husk and enjoy the warm steamed tamale with mild red chile sauce.",
+  "watchOuts": [
+    "Ensure red chile sauce is mild and not overly spiced with jalapeños"
+  ]
+}

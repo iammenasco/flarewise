@@ -1,0 +1,39 @@
+{
+  "id": "tjs-grill-montpelier-grilled-chicken-baked-potato",
+  "name": "TJ's Grill (Montpelier, ID) Grilled Chicken Breast Dinner & Idaho Baked Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "TJ's Grill (Montpelier, ID)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "chicken",
+    "potatoes",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "tjs grill montpelier",
+    "montpelier idaho dinner",
+    "grilled chicken baked potato bear lake"
+  ],
+  "whyItWorks": "Clean, wholesome Idaho roadside dinner! Boneless skinless chicken breast grilled with light seasoning, served with a fluffy Idaho baked potato. Pure protein and potassium-rich soft starch.",
+  "prepOrOrderInstructions": "Order Grilled Chicken Breast with a baked Idaho potato (eat the soft inside flesh with butter, skip tough potato skin).",
+  "watchOuts": [
+    "Discard tough baked potato skin during flare periods"
+  ]
+}

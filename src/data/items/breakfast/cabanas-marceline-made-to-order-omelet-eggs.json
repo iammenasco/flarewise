@@ -1,0 +1,51 @@
+{
+  "id": "cabanas-marceline-made-to-order-omelet-eggs",
+  "name": "Buffet Made-to-Order Omelet & Soft Scrambled Eggs",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "cheese",
+    "cheddar",
+    "swiss",
+    "ham",
+    "breakfast",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "cabanas breakfast",
+    "marceline market breakfast",
+    "omelet station",
+    "scrambled eggs",
+    "poached eggs",
+    "disney cruise breakfast"
+  ],
+  "whyItWorks": "Fresh-cracked eggs cooked to order with diced ham and aged cheddar or Swiss provide 20g+ of zero-fiber protein to anchor a cruise morning.",
+  "prepOrOrderInstructions": "Step up to the omelet window at Cabanas or Marceline Market and order a plain, ham-and-cheddar, or Swiss omelet (strictly no raw diced onions, bell peppers, tomatoes, or mushrooms). Pair with a white bagel, croissant, or hash brown inside.",
+  "watchOuts": [
+    "Pre-mixed liquid buffet scrambled eggs if they contain dairy cream (use the fresh omelet station if lactose sensitive)",
+    "Diced raw pepper/onion mix-ins"
+  ]
+}

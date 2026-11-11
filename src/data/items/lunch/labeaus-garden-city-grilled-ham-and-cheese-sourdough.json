@@ -1,0 +1,42 @@
+{
+  "id": "labeaus-garden-city-grilled-ham-and-cheese-sourdough",
+  "name": "LaBeau's (Garden City, UT) Hot Grilled Ham & Swiss on Sourdough Bread",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "LaBeau's (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "ham",
+    "cheese",
+    "sourdough",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "labeaus grilled ham and cheese",
+    "bear lake hot sandwich",
+    "labeaus sourdough sandwich"
+  ],
+  "whyItWorks": "A very safe, soothing hot sandwich at Bear Lake! Naturally fermented sourdough is gentle on the gut, paired with aged Swiss and lean ham.",
+  "prepOrOrderInstructions": "Order the Grilled Ham & Swiss on sourdough bread with light butter.",
+  "watchOuts": [
+    "None; gentle low-residue lunch"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-cafe-orleans-monte-cristo-sandwich",
+  "name": "Disneyland Cafe Orleans / Blue Bayou Deep-Fried Monte Cristo Sandwich (Remission Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cafe Orleans & Blue Bayou (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 5.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "pork",
+    "cheese",
+    "fried",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "disneyland monte cristo",
+    "cafe orleans monte cristo",
+    "three cheese monte cristo"
+  ],
+  "whyItWorks": "Although filled with low-fiber sliced turkey, ham, and Swiss cheese, the entire sandwich is submerged in deep-fryer batter and served with seeded berry compote—making it a heavy fat bomb that can trigger cramping.",
+  "prepOrOrderInstructions": "If tasting in deep remission, split one order across 3–4 people, blot excess fryer oil with a napkin, and skip the seeded berry puree; otherwise order the grilled chicken or steak dish.",
+  "watchOuts": [
+    "Deep-fried batter is extremely high in fryer oil fat; Three-Cheese version adds melted Brie/Mozzarella lactose"
+  ]
+}

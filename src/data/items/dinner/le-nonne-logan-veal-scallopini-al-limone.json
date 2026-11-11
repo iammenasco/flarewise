@@ -1,0 +1,36 @@
+{
+  "id": "le-nonne-logan-veal-scallopini-al-limone",
+  "name": "Tender Veal Scallopini al Limone with Creamy Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Le Nonne (Logan, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "italian",
+    "veal",
+    "fine-dining"
+  ],
+  "searchKeywords": [
+    "le nonne",
+    "veal scallopini",
+    "mashed potatoes",
+    "logan fine dining"
+  ],
+  "whyItWorks": "Tender veal cutlets lightly pounded thin and gently sauteed in white wine and a delicate squeeze of lemon. Veal is exceptionally tender and easy on the stomach compared to tough beef cuts.",
+  "prepOrOrderInstructions": "Ask for light lemon reduction and smooth peeled mashed potatoes as the side. Skip capers if seeds cause irritation."
+}

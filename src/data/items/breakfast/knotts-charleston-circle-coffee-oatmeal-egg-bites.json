@@ -1,0 +1,45 @@
+{
+  "id": "knotts-charleston-circle-coffee-oatmeal-egg-bites",
+  "name": "Knott's Charleston Circle Coffee / Marketplace StarbucksSous-Vide Egg Bites, Rolled Oatmeal & Banana",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Charleston Circle Coffee & California Marketplace Starbucks (Knott's Berry Farm)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "oats",
+    "banana",
+    "cheese",
+    "high-protein",
+    "gluten-free-option",
+    "vacation",
+    "knotts-berry-farm",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "starbucks knotts berry farm",
+    "charleston circle coffee knotts",
+    "market place starbucks disneyland",
+    "egg bites theme park"
+  ],
+  "whyItWorks": "Available inside Knott's (Charleston Circle / Marketplace), Disneyland (Market House), and DCA (Fiddler, Fifer & Practical Cafe): Bacon & Gruyère Egg Bites, plain Classic Rolled Oatmeal, and a ripe banana are a universal 9.0/10 theme-park safety net.",
+  "prepOrOrderInstructions": "Order Classic Oatmeal (no nut packet), Bacon & Gruyère Sous-Vide Egg Bites (Gruyère is aged and naturally lactose-safe), or a Turkey Bacon Egg-White Sandwich on an English muffin.",
+  "watchOuts": [
+    "Discard the mixed-nut packet that comes with the oatmeal; avoid citrus refreshers/lemonades"
+  ]
+}

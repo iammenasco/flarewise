@@ -1,0 +1,46 @@
+{
+  "id": "mickey-churro-waffles-pancakes-buffet",
+  "name": "Mickey Waffles & Cinnamon Churro Waffles",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "waffles",
+    "pancake",
+    "cinnamon",
+    "sweet",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "mickey waffles",
+    "churro waffles",
+    "cabanas waffles",
+    "marceline market",
+    "disney cruise breakfast"
+  ],
+  "whyItWorks": "Iconic Disney Cruise Line Mickey waffles and cinnamon-sugar churro waffles are made from refined white pastry batter with ~0.5g fiber and zero seeds or whole-grain husks.",
+  "prepOrOrderInstructions": "Grab warm Mickey waffles or Churro waffles from the buffet with pure maple syrup or butter (skip strawberry/berry compote with seeds). Ask a chef for allergy-friendly/dairy-free Mickey waffles if strictly avoiding lactose.",
+  "watchOuts": [
+    "Berry compote seeds at the topping bar"
+  ]
+}

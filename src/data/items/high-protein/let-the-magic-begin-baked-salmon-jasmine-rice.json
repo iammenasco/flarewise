@@ -1,0 +1,44 @@
+{
+  "id": "let-the-magic-begin-baked-salmon-jasmine-rice",
+  "name": "Oven-Baked Salmon Fillet with Steamed Jasmine Rice (Let the Magic Begin Menu)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "rice",
+    "omega-3",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "baked salmon fillet",
+    "jasmine rice",
+    "let the magic begin salmon",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Textbook 9.5/10 flare meal on Night 1: plain oven-baked omega-3 salmon over steamed white jasmine rice.",
+  "prepOrOrderInstructions": "Eat the baked salmon and steamed jasmine rice; leave the fibrous bok choy stalks on the side.",
+  "watchOuts": [
+    "Skip the bok choy stalks if flaring"
+  ]
+}

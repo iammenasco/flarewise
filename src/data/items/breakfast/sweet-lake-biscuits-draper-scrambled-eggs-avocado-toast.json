@@ -1,0 +1,39 @@
+{
+  "id": "sweet-lake-biscuits-draper-scrambled-eggs-avocado-toast",
+  "name": "Sweet Lake Biscuits (Draper, UT) Two Scrambled Eggs with Sliced Avocado Toast",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Sweet Lake Biscuits & Limeade (Draper, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "breakfast",
+    "eggs",
+    "avocado",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "sweet lake breakfast eggs",
+    "avocado toast sweet lake draper",
+    "draper utah brunch"
+  ],
+  "whyItWorks": "Soft scrambled farm eggs paired with fresh mashed ripe avocado on toasted sourdough bread with light sea salt. Healthy monounsaturated fats, bioavailable protein, and potassium.",
+  "prepOrOrderInstructions": "Order two scrambled eggs with sourdough toast and sliced avocado (hold tomato slices and red pepper flakes).",
+  "watchOuts": [
+    "None; gentle flare-safe brunch"
+  ]
+}

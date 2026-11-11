@@ -1,0 +1,40 @@
+{
+  "id": "dca-cozy-cone-motel-mac-and-cheese-bread-cone",
+  "name": "DCA Cozy Cone Motel (Cone 3) Creamy Bacon Mac 'n' Cheese in a Warm Bread Cone",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cozy Cone Motel (Cars Land · Disney California Adventure)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "pork",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "cozy cone mac and cheese",
+    "cars land bread cone",
+    "bacon mac n cheese cone dca"
+  ],
+  "whyItWorks": "Soft spiral pasta in cheddar cheese sauce tucked inside a warm, soft-baked white bread cone—completely free of spicy peppers or raw vegetables (unlike the Chili Cone Queso next door).",
+  "prepOrOrderInstructions": "Order the Bacon Mac 'n' Cheese Cone (you can also ask for no bacon crumbles) and take 1–2 lactase enzyme tablets before eating.",
+  "watchOuts": [
+    "Avoid the Chili Cone Queso (beans + chili spice + Fritos) and take lactase for the cheese sauce"
+  ]
+}

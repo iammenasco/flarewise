@@ -1,0 +1,37 @@
+{
+  "id": "takara-sushi-logan-beef-teriyaki-bento",
+  "name": "Tender Beef Teriyaki with White Rice & Gyoza",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "bento",
+    "beef-teriyaki",
+    "japanese"
+  ],
+  "searchKeywords": [
+    "takara sushi",
+    "beef teriyaki bento",
+    "teriyaki steak",
+    "logan utah"
+  ],
+  "whyItWorks": "Thinly sliced tender beef simmered in sweet soy glaze served over hot white rice provides clean protein and easy carbohydrates. Steamed pork gyoza adds gentle calories.",
+  "prepOrOrderInstructions": "Ask for steamed white rice, skip the cabbage salad with ginger dressing, and ensure teriyaki sauce is poured lightly."
+}

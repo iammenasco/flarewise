@@ -1,0 +1,39 @@
+{
+  "id": "knotts-mrs-knotts-fried-chicken-dinner",
+  "name": "Mrs. Knott's Famous Fried Chicken Dinner (Peel Crispy Breading Mod) with Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (California Marketplace · Knott's Berry Farm)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "fried",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "mrs knotts fried chicken",
+    "cordelia knott fried chicken",
+    "knotts berry farm chicken dinner"
+  ],
+  "whyItWorks": "Cordelia Knott's 1934 pressure-fried chicken is moist and tender inside; peeling off most of the fried skin/breading and pairing with chicken noodle soup, mashed potatoes, and warm biscuits makes it workable in remission.",
+  "prepOrOrderInstructions": "Peel off most of the fried breading, choose Chicken Noodle Soup as your starter (skip raw salad and tart cherry-rhubarb compote), ask for country gravy on the side, and take lactase.",
+  "watchOuts": [
+    "Fried skin and country milk gravy are high in fat and lactose—order the Oven-Roasted Half Chicken during flares"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "camp-west-garden-city-grilled-chicken-sandwich",
+  "name": "Camp West (Garden City, UT) Grilled Chicken Breast on Soft Potato Bun",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Camp West Burgers & Shakes (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "chicken",
+    "sandwich",
+    "lean-protein"
+  ],
+  "searchKeywords": [
+    "camp west grilled chicken",
+    "chicken sandwich bear lake",
+    "potato bun chicken garden city"
+  ],
+  "whyItWorks": "Pure grilled chicken breast on an ultra-soft potato flour bun with light mayo. Potato buns are exceptionally tender, and unbreaded chicken is easy on digestion.",
+  "prepOrOrderInstructions": "Order the Grilled Chicken Sandwich plain or with mayo only (hold lettuce, tomato, and onion).",
+  "watchOuts": [
+    "None when ordered plain"
+  ]
+}

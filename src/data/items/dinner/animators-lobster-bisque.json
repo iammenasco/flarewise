@@ -1,0 +1,41 @@
+{
+  "id": "animators-lobster-bisque",
+  "name": "Animator's Creamy Lobster Bisque (Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "seafood",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "lobster bisque",
+    "animation magic soup",
+    "animators palate",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Velvety strained shellfish stock and cream with tender lobster morsels—zero vegetable skins, seeds, or insoluble fiber.",
+  "prepOrOrderInstructions": "Take a Lactaid enzyme with the first spoonful of bisque.",
+  "watchOuts": [
+    "Heavy cream lactose and butterfat"
+  ]
+}

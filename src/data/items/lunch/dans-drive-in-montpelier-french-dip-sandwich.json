@@ -1,0 +1,37 @@
+{
+  "id": "dans-drive-in-montpelier-french-dip-sandwich",
+  "name": "French Dip Roast Beef Sandwich with Au Jus",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "bear-lake",
+    "montpelier",
+    "roast-beef",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "dans drive in",
+    "french dip",
+    "roast beef au jus",
+    "montpelier bear lake"
+  ],
+  "whyItWorks": "Thinly sliced, tender lean roast beef served on a soft French hoagie bun is naturally dairy-free and virtually free of rough fiber. Dipping lightly in warm au jus provides savory moisture without needing irritating condiments.",
+  "prepOrOrderInstructions": "Order the French dip on a soft plain French roll with au jus on the side. Skip cheese and creamy horseradish sauce."
+}

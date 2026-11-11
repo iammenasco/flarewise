@@ -1,0 +1,39 @@
+{
+  "id": "rapunzels-no-sugar-added-tiramisu",
+  "name": "No-Sugar-Added Tiramisu / Coffee Crème Dome (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "coffee",
+    "cheese",
+    "sweet",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "no sugar added tiramisu",
+    "coffee creme",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Zero-fiber ladyfinger sponge and mascarpone mousse, free of nuts and citrus.",
+  "prepOrOrderInstructions": "Eat a modest portion due to espresso caffeine and sugar-free sweeteners, and take a Lactaid.",
+  "watchOuts": [
+    "Espresso caffeine stimulation",
+    "Sugar-alcohol sweeteners and mascarpone dairy"
+  ]
+}

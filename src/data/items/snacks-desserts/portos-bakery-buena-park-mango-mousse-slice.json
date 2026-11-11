@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-mango-mousse-slice",
+  "name": "Porto's Bakery (Buena Park, CA) Light Mango & Passion Fruit Mousse Cake Slice",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "cake",
+    "mousse",
+    "mango",
+    "dessert",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos mango mousse",
+    "mango cake slice portos",
+    "buena park bakery cake"
+  ],
+  "whyItWorks": "Airy, cloud-like mango mousse layered with delicate vanilla sponge cake and smooth tropical glaze. Strained completely seed-free, melting effortlessly in the mouth.",
+  "prepOrOrderInstructions": "Order a chilled slice of Mango Mousse Cake to celebrate a theme park trip.",
+  "watchOuts": [
+    "Contains dairy cream in the mousse"
+  ]
+}

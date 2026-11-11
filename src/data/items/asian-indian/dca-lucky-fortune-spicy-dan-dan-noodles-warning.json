@@ -1,0 +1,38 @@
+{
+  "id": "dca-lucky-fortune-spicy-dan-dan-noodles-warning",
+  "name": "Spicy Dan Dan Noodles with Chili Oil (Capsaicin Hazard)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Lucky Fortune Cookery (Disney California Adventure)",
+  "crohnsScore": 2.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "dan-dan-noodles",
+    "spicy",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "lucky fortune cookery",
+    "dca",
+    "dan dan noodles",
+    "chili oil",
+    "san fransokyo"
+  ],
+  "whyItWorks": "Wheat noodles drenched in fiery chili oil, Sichuan peppercorns, crushed peanuts, and minced pork. The combination of intense capsaicin, numbing peppers, and rough crushed peanuts is catastrophic during gut inflammation.",
+  "prepOrOrderInstructions": "Extreme Danger Warning: Strictly avoid. The combination of peanuts, chili, and oil will irritate intestinal walls."
+}

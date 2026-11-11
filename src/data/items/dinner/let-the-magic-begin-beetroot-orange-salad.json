@@ -1,0 +1,40 @@
+{
+  "id": "let-the-magic-begin-beetroot-orange-salad",
+  "name": "Roasted Beetroot & Orange Salad with Spinach & Feta (Let the Magic Begin — Citrus Avoid)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "greens",
+    "cheese",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "roasted beetroot and orange salad",
+    "let the magic begin salad",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Hard avoid under the strict citrus guardrail: plated with fresh orange segments alongside beetroot fructans and raw bitter greens.",
+  "prepOrOrderInstructions": "Skip this salad completely and order the New England Clam Chowder or Chilled Mango & Papaya Soup instead.",
+  "watchOuts": [
+    "Fresh orange segments (strict citrus avoid)",
+    "Raw spinach/radicchio and beet fructans"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pesto-italian-kitchen-draper-herriman-fettuccine-grilled-chicken-marinara-free",
+  "name": "Toscano / Terza / Local Italian (Draper & Herriman) Grilled Chicken or Salmon with Olive Oil Capellini & Potato Gnocchi",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Toscano Italian Bistro (Draper, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salmon",
+    "pasta-grains",
+    "potato",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "toscano draper",
+    "draper italian restaurant",
+    "towneplace suites draper dinner",
+    "chicken capellini olive oil"
+  ],
+  "whyItWorks": "At Toscano in Draper, ordering grilled chicken breast or Atlantic salmon over delicate angel-hair capellini or soft potato gnocchi tossed simply in extra-virgin olive oil, broth, and aged Parmigiano-Reggiano avoids heavy cream and acidic tomato marinara.",
+  "prepOrOrderInstructions": "Ask for Grilled Chicken Breast or Salmon with capellini pasta or potato gnocchi tossed in light olive oil, chicken broth, and grated Parmigiano-Reggiano (no lemon butter, no red chili flakes, and no heavy cream Alfredo).",
+  "watchOuts": [
+    "Skip lemon-caper piccata sauce (citrus trigger) and spicy arrabbiata tomato sauce"
+  ]
+}

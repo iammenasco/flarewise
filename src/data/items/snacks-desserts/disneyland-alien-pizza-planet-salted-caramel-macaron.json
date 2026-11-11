@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-alien-pizza-planet-salted-caramel-macaron",
+  "name": "Disneyland Alien Pizza Planet \"Alien Macarooooon\" (Salted Caramel Buttercream — Seed-Free!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Alien Pizza Planet (Tomorrowland · Disneyland Park)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "gluten-free-option",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "alien macarooooon disneyland",
+    "alien pizza planet macaron",
+    "tomorrowland dessert"
+  ],
+  "whyItWorks": "Unlike Jolly Holiday's coconut-shred Matterhorn Macaron or raspberry-seeded Rose Macaron, the cute green **Alien Macarooooon** at Pizza Planet is filled with smooth salted caramel buttercream and chocolate ganache—zero coconut shreds and zero berry seeds!",
+  "prepOrOrderInstructions": "Mobile-order the Alien Macarooooon at Alien Pizza Planet and take a lactase tablet for the buttercream.",
+  "watchOuts": [
+    "Shell is made with finely ground blanched almond flour—avoid if allergic to tree nuts"
+  ]
+}

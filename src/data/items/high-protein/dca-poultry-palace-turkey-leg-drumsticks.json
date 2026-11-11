@@ -1,0 +1,41 @@
+{
+  "id": "dca-poultry-palace-turkey-leg-drumsticks",
+  "name": "DCA Poultry Palace (Pixar Pier) Chicken Drumstick Box or Jumbo Turkey Leg (Peel Skin, Skip Slaw)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Poultry Palace (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "turkey",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "poultry palace pixar pier",
+    "chicken drumstick box dca",
+    "pixar pier turkey leg"
+  ],
+  "whyItWorks": "Three juicy roasted/seasoned chicken drumsticks or a smoked turkey leg provide quick, high-protein fuel right on Pixar Pier once you peel away the spiced skin and skip the coleslaw.",
+  "prepOrOrderInstructions": "Peel the seasoned skin off the drumsticks and discard the cup of raw cabbage coleslaw (avoid the chili-lime corn on the cob).",
+  "watchOuts": [
+    "Never order the Chili-Lime Corn on the Cob (whole corn hulls + lime juice + chili powder)"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "worlds-of-marvel-sauteed-mushrooms",
+  "name": "Sautéed Crimini & Oyster Mushrooms on Brioche Toast (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "mushroom",
+    "bread",
+    "vegetarian",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "sauteed crimini and oyster mushrooms",
+    "worlds of marvel",
+    "disney treasure"
+  ],
+  "whyItWorks": "Whole crimini and oyster mushrooms are high in chitin fiber and mannitol FODMAPs.",
+  "prepOrOrderInstructions": "Eat the toasted brioche base or swap for the smooth Sokovian Kartoffelsuppe potato soup.",
+  "watchOuts": [
+    "High-FODMAP mushroom mannitol and rubbery mushroom stems",
+    "Garlic butter sauté"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "queen-ariannas-pan-seared-sea-bass-turbot",
+  "name": "Queen Arianna's Grilled Turbot / Pan-Seared Sea Bass",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "sea-bass",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "queen ariannas turbot",
+    "pan seared sea bass",
+    "rapunzels royal table fish",
+    "disney magic"
+  ],
+  "whyItWorks": "Delicate, snow-white turbot and Chilean sea bass flake at the touch of a fork with virtually zero connective tissue.",
+  "prepOrOrderInstructions": "Pair with creamy mashed potatoes or white rice and ask to hold any whole green peas, beans, or citrus-herb garnish.",
+  "watchOuts": [
+    "Whole pea or fava bean skins on the plate"
+  ]
+}

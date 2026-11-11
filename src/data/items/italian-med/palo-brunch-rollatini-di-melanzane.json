@@ -1,0 +1,42 @@
+{
+  "id": "palo-brunch-rollatini-di-melanzane",
+  "name": "Palo Brunch Rollatini di Melanzane (Baked Eggplant Rollatini)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "tomato",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "rollatini di melanzane",
+    "eggplant rollatini",
+    "palo brunch eggplant"
+  ],
+  "whyItWorks": "Thinly sliced peeled eggplant rolled around ricotta and baked in San Marzano marinara; softer than raw vegetables, though eggplant seeds and tomato sauce require remission.",
+  "prepOrOrderInstructions": "Take a Lactaid for the ricotta/mozzarella filling and skip during active flares due to tiny eggplant seeds and tomato acidity.",
+  "watchOuts": [
+    "Tiny internal eggplant seeds and sorbitol",
+    "Ricotta lactose and tomato sauce acidity"
+  ]
+}

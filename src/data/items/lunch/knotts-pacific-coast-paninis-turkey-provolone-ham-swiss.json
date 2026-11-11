@@ -1,0 +1,40 @@
+{
+  "id": "knotts-pacific-coast-paninis-turkey-provolone-ham-swiss",
+  "name": "Knott's Pacific Coast Paninis (Boardwalk) Toasted Turkey & Provolone or Ham & Swiss Panini (Plain Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Pacific Coast Paninis & Sandwiches (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "pork",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "pacific coast paninis knotts",
+    "boardwalk sandwich knotts berry farm"
+  ],
+  "whyItWorks": "Warm pressed artisan bread with sliced deli turkey and aged provolone or ham and Swiss—a much lighter, non-fried alternative to theme-park burgers.",
+  "prepOrOrderInstructions": "Ask for the Turkey or Ham Panini without raw tomatoes, red onions, or pesto spread, paired with plain potato chips.",
+  "watchOuts": [
+    "Hold pesto/garlic spreads and raw tomato slices"
+  ]
+}

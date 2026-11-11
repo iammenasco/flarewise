@@ -1,0 +1,38 @@
+{
+  "id": "worlds-of-marvel-quantum-key-lime-pie",
+  "name": "Quantum Key Lime Pie with Raspberry Gel (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "quantum key lime pie",
+    "worlds of marvel key lime",
+    "disney treasure"
+  ],
+  "whyItWorks": "Direct citrus trigger: baked with concentrated key lime juice and zest.",
+  "prepOrOrderInstructions": "Skip the Quantum Key Lime Pie and order the Pym Doughnut Sundae or Nano Dobos Torta instead.",
+  "watchOuts": [
+    "Key lime juice and zest (strict citrus guardrail)",
+    "Condensed milk lactose"
+  ]
+}

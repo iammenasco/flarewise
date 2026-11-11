@@ -1,0 +1,41 @@
+{
+  "id": "animators-orchard-peach-tart",
+  "name": "Warm Orchard Peach Almond Tart with Vanilla Ice Cream (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "bakery",
+    "ice-cream",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "orchard peach tart",
+    "animation magic dessert",
+    "animators palate"
+  ],
+  "whyItWorks": "Peeled baked peaches over soft frangipane almond pastry are gentle in moderate portions and completely citrus-free.",
+  "prepOrOrderInstructions": "Brush off any sliced toasted almonds on top and take a Lactaid for the vanilla ice cream.",
+  "watchOuts": [
+    "Stone-fruit sorbitol in large portions",
+    "Sliced almond garnish if present"
+  ]
+}

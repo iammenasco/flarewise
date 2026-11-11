@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-bengal-bbq-bengal-beef-skewer-rice",
+  "name": "Disneyland Bengal Barbecue Bengal Beef Skewer (Sweet Zulu Glaze) & Steamed White Rice",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Bengal Barbecue (Adventureland · Disneyland Park)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "rice",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "bengal beef skewer disneyland",
+    "bengal bbq rice plate",
+    "sweet zulu beef skewer"
+  ],
+  "whyItWorks": "Tender marinated sirloin beef cubes glazed in a mild, non-spicy sweet Zulu sauce over fluffy steamed white rice give you warm, fryer-free energy for walking the park.",
+  "prepOrOrderInstructions": "Order the Bengal Beef Skewer (Sweet Zulu sauce—NOT the spicy Banyan sauce) with a side of plain steamed white rice, skipping the raw pickled citrus slaw on the plate.",
+  "watchOuts": [
+    "Skip the raw pickled slaw on the Bengal Rice Plate (contains raw cabbage and citrus vinegar)"
+  ]
+}

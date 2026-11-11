@@ -1,0 +1,41 @@
+{
+  "id": "let-the-magic-begin-moroccan-couscous-salad",
+  "name": "Moroccan Couscous Salad with Almonds, Cranberries & Lime Dressing (Let the Magic Begin)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "nuts",
+    "beans",
+    "vegan",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "moroccan couscous salad",
+    "let the magic begin",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Avoid: dressed in lime vinaigrette (citrus trigger) and loaded with toasted almonds, dried cranberries, and garlic hummus.",
+  "prepOrOrderInstructions": "Skip this starter due to the lime dressing and toasted almonds.",
+  "watchOuts": [
+    "Lime dressing (strict citrus guardrail)",
+    "Toasted almonds, dried cranberries, and garlic chickpea hummus"
+  ]
+}

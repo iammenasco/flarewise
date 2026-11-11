@@ -1,0 +1,40 @@
+{
+  "id": "some-beaches-laketown-kids-pulled-pork-slider",
+  "name": "Some Beaches (Laketown, UT) Kids Pulled Pork Sandwich / Slider (Kid Portion)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "pork",
+    "portion-control"
+  ],
+  "searchKeywords": [
+    "some beaches kids meal",
+    "kids pulled pork bear lake",
+    "laketown slider"
+  ],
+  "whyItWorks": "A smaller portion slider that prevents gastrointestinal volume overload! Tender slow-cooked shredded pork on a soft white slider bun digests cleanly and easily.",
+  "prepOrOrderInstructions": "Order the Kids Pulled Pork Sandwich with sweet BBQ sauce and choice of potato chips or soft fries.",
+  "watchOuts": [
+    "None; gentle portion size"
+  ]
+}

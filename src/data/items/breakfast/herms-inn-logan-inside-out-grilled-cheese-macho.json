@@ -1,0 +1,40 @@
+{
+  "id": "herms-inn-logan-inside-out-grilled-cheese-macho",
+  "name": "Herm's Inn (Logan) \"Inside-Out\" Sriracha-Black-Bean Grilled Cheese & \"Macho\" (Avoid)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan, UT)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "beans",
+    "pork",
+    "spicy",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "herms inn inside out grilled cheese",
+    "herms inn macho",
+    "diners drive ins and dives logan"
+  ],
+  "whyItWorks": "Featured on Diners, Drive-Ins and Dives, but the Inside-Out Grilled Cheese (stuffed with black beans, guacamole, and Sriracha) and the Macho (chorizo and green chile) are flare bombs.",
+  "prepOrOrderInstructions": "If ordering a grilled cheese at Herm's Inn, ask for a plain Cheddar/Swiss Grilled Cheese on sourdough with no Sriracha and no black beans.",
+  "watchOuts": [
+    "Sriracha hot sauce, spicy pork chorizo, pork chile verde, and whole black beans"
+  ]
+}

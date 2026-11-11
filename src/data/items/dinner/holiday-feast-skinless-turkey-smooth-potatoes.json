@@ -1,0 +1,38 @@
+{
+  "id": "holiday-feast-skinless-turkey-smooth-potatoes",
+  "name": "Skinless Roast Turkey Breast with Smooth Yukon Gold Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Holiday Feasts & Traditions",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "turkey",
+    "mashed-potatoes",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "thanksgiving turkey",
+    "christmas dinner",
+    "skinless roast turkey",
+    "mashed potatoes",
+    "holiday feast"
+  ],
+  "whyItWorks": "The quintessential flare-safe holiday plate. Tender roasted white meat turkey breast is low in fat, ultra-high in protein, and completely gentle on the gut. Paired with peeled, smoothly whipped potatoes with a splash of broth or butter, it delivers guilt-free festive nourishment.",
+  "prepOrOrderInstructions": "Carve white meat without the seasoned outer skin. Enjoy with skinless mashed potatoes lightly salted. Bypass celery-packed stuffing, fried onions, and whole-berry cranberry relish."
+}

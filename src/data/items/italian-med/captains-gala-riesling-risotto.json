@@ -1,0 +1,43 @@
+{
+  "id": "captains-gala-riesling-risotto",
+  "name": "Californian Riesling & Sweet Pea Risotto (Captain's Gala Night 2)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "cheese",
+    "vegetarian",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "californian riesling risotto",
+    "captains gala risotto",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Slow-simmered white Arborio rice releases soluble amylopectin starch that coats and calms the gut.",
+  "prepOrOrderInstructions": "Ask to hold the green peas if flaring and pair with a Lactaid for the butter/Parmesan finish.",
+  "watchOuts": [
+    "Whole green peas if not held",
+    "Butter and cheese richness"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-jolly-holiday-matterhorn-macaron-cookie",
+  "name": "Disneyland Jolly Holiday Matterhorn Coconut Macaron (Fiber Warning) vs. Mickey Shortbread Cookie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 6.3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sweet",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "matterhorn macaron disneyland",
+    "jolly holiday bakery cookies",
+    "mickey shortbread cookie"
+  ],
+  "whyItWorks": "While the Matterhorn Macaron is gluten-friendly, it is packed with dense shredded coconut (which is pure insoluble fiber that does not dissolve in the gut)—swap for a smooth Mickey Butter Shortbread or Sugar Cookie instead.",
+  "prepOrOrderInstructions": "Skip the shredded-coconut Matterhorn Macaron and raspberry-seeded Rose Gold macarons during sensitive days; order a plain Mickey Shortbread Cookie or Chocolate Chip Cookie instead.",
+  "watchOuts": [
+    "Shredded coconut in the Matterhorn Macaron is a deceptive insoluble-fiber trigger for Crohn's"
+  ]
+}

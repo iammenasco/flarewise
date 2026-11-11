@@ -1,0 +1,36 @@
+{
+  "id": "holiday-inn-express-herriman-cinnamon-roll-pancake-bar",
+  "name": "Holiday Inn Express & Suites Herriman One-Touch Pancake Machine & Warm Cinnamon Roll (With Eggs Mod)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Inn Express & Suites Herriman - South Jordan (Herriman, UT)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "sweet",
+    "hotel",
+    "utah"
+  ],
+  "searchKeywords": [
+    "holiday inn express herriman pancake machine",
+    "holiday inn express cinnamon roll",
+    "herriman south jordan hotel breakfast"
+  ],
+  "whyItWorks": "Holiday Inn Express's signature conveyor-belt warm pancakes and famous glazed cinnamon rolls are made with refined white flour and zero nuts or seeds; pairing a single pancake or half cinnamon roll with two hard-boiled or scrambled eggs prevents an empty-stomach sugar spike.",
+  "prepOrOrderInstructions": "Eat 1–2 hard-boiled or scrambled eggs first for protein, then enjoy a warm conveyor-belt pancake with light syrup or half a signature cinnamon roll (scrape off excess cream-cheese frosting if lactose-sensitive).",
+  "watchOuts": [
+    "High sugar and dairy frosting on the cinnamon roll—save for remission and always pair with eggs or a banana"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "enchante-just-desserts-mille-feuille-tatin",
+  "name": "Enchanté Chocolate Mille-Feuille & Warm Apple Tatin vs. Signature Lemon Dessert",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Enchanté by Chef Arnaud Lallement",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "applesauce",
+    "bakery",
+    "sweet",
+    "french",
+    "disney-cruise",
+    "disney-treasure",
+    "enchante"
+  ],
+  "searchKeywords": [
+    "enchante just desserts",
+    "chocolate mille feuille",
+    "enchante lemon dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "At Enchanté dinner or the \"Just Desserts\" event, the Dark Chocolate Mille-Feuille, Vanilla Tahiti Custard, and Warm Apple Tatin are smooth and citrus-free.",
+  "prepOrOrderInstructions": "Choose the Dark Chocolate Mille-Feuille, Warm Apple Tatin, or Vanilla Bean Custard with a Lactaid pill; strictly skip Chef Lallement's Signature Organic Lemon Dessert (confit lemon + citrus).",
+  "watchOuts": [
+    "Strictly skip the Signature Organic Lemon Dessert (pure citrus confit)",
+    "Rich French pastry cream"
+  ]
+}

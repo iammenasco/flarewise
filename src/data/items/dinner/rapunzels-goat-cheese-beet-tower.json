@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-goat-cheese-beet-tower",
+  "name": "Goat Cheese, Yellow & Red Beetroot Tower with Pistachios (Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "nuts",
+    "vegetarian",
+    "gluten-free",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "goat cheese beet tower",
+    "snuggly duckling",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Whipped goat cheese and cooked beets are soft, but crushed pistachios and beet fructans lower tolerance.",
+  "prepOrOrderInstructions": "If ordering in remission, scrape off all crushed pistachio nuts and eat a small portion of the goat cheese and roasted beets.",
+  "watchOuts": [
+    "Crushed pistachio nuts",
+    "Beetroot fructans (FODMAPs)"
+  ]
+}

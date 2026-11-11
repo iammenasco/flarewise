@@ -1,0 +1,43 @@
+{
+  "id": "dcl-room-service-continental-breakfast",
+  "name": "Room Service Door-Hanger Continental Breakfast (Bagels, Toast, Banana, Cereal)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bagel",
+    "bread",
+    "banana",
+    "cereal",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "continental breakfast door hanger",
+    "room service breakfast",
+    "rice krispies",
+    "disney cruise"
+  ],
+  "whyItWorks": "Hang the breakfast card on your stateroom door before 3 AM for complimentary early-morning delivery of plain bagels, white toast, Rice Krispies/Corn Flakes, and whole bananas.",
+  "prepOrOrderInstructions": "Check off Plain Bagel, White Toast, Honey/Jelly, Rice Krispies or Corn Flakes (with soy/almond milk), and Whole Banana. Do not check Grapefruit Juice or Orange Juice.",
+  "watchOuts": [
+    "Never check Grapefruit Juice or Orange Juice on the door card"
+  ]
+}

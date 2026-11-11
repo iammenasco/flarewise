@@ -1,0 +1,39 @@
+{
+  "id": "dca-lamplight-lounge-warm-cinnamon-donuts",
+  "name": "DCA Lamplight Lounge Warm Cinnamon-Sugar Donuts with Chocolate Dipping Sauce",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Lamplight Lounge (Disney California Adventure)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "donuts",
+    "dessert",
+    "pixar-pier"
+  ],
+  "searchKeywords": [
+    "lamplight lounge donuts",
+    "warm donuts dca",
+    "pixar pier dessert donuts"
+  ],
+  "whyItWorks": "Warm, pillowy fried cake donuts rolled in cinnamon sugar, served with chocolate and seasonal berry dipping sauces. Completely seed-free when dipped in chocolate sauce.",
+  "prepOrOrderInstructions": "Order the Warm Donuts; dip exclusively in the chocolate sauce (pass on the seeded berry sauce).",
+  "watchOuts": [
+    "Dip in chocolate sauce; avoid the seasonal berry sauce containing fruit seeds"
+  ]
+}

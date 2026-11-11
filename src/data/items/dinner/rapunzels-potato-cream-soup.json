@@ -1,0 +1,39 @@
+{
+  "id": "rapunzels-potato-cream-soup",
+  "name": "Corona Potato Cream Soup with Knockwurst & Croutons (Lantern Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "potato",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "potato cream soup",
+    "rapunzels royal table soup",
+    "disney magic"
+  ],
+  "whyItWorks": "Velvety blended German potato soup provides soluble potato starch with zero roughage.",
+  "prepOrOrderInstructions": "Ask to hold the sliced knockwurst sausage garnish and raw chives for the cleanest, flare-friendly bowl, and take a Lactaid.",
+  "watchOuts": [
+    "Smoked knockwurst sausage fat/casing",
+    "Dairy cream base"
+  ]
+}

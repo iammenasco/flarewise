@@ -1,0 +1,43 @@
+{
+  "id": "mickeys-smokestack-jalapeno-cornbread-collards",
+  "name": "Mickey's Smokestack Jalapeño Cheese Cornbread, Baked Beans & Collard Greens (Avoid)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Treasure · Mickey's Smokestack Barbecue",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "corn",
+    "beans",
+    "greens",
+    "spicy",
+    "disney-cruise",
+    "disney-treasure",
+    "mickeys-smokestack"
+  ],
+  "searchKeywords": [
+    "jalapeno cornbread",
+    "collard greens",
+    "baked beans",
+    "mickeys smokestack"
+  ],
+  "whyItWorks": "Warning entry: unlike Pirate Night's plain Johnny Cake, the Smokestack cornbread has diced jalapeños and whole corn kernels, while baked beans and collard stems are high-residue.",
+  "prepOrOrderInstructions": "Skip the jalapeño cornbread, collard greens, coleslaw, and baked beans at the BBQ counter; choose Baked Mac & Cheese or a white bun instead.",
+  "watchOuts": [
+    "Diced jalapeño peppers and whole corn kernels in cornbread",
+    "High insoluble fiber in collard greens and baked beans"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "miguels-remember-me-sundae",
+  "name": "Miguel's \"Remember Me\" Cookies 'n' Cream Sundae (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "miguels remember me sundae",
+    "cookies and cream sundae",
+    "plaza de coco",
+    "disney treasure"
+  ],
+  "whyItWorks": "Cookies-and-cream ice cream with chocolate fudge and whipped cream—completely nut-free, seedless, and citrus-free.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid pills before eating.",
+  "watchOuts": [
+    "Liquid dairy ice cream and sugar load"
+  ]
+}

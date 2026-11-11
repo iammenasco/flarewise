@@ -1,0 +1,44 @@
+{
+  "id": "palo-brunch-wild-mushroom-artichoke-ravioli",
+  "name": "Palo Brunch Wild Mushroom or Artichoke Ravioli with Meyer Lemon & Pine Nuts",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "pasta",
+    "mushroom",
+    "nuts",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "wild mushroom ravioli",
+    "artichoke ravioli",
+    "palo brunch ravioli"
+  ],
+  "whyItWorks": "Unlike Palo's safe Butternut Squash Agnolotti, the Wild Mushroom Ravioli is finished with Meyer lemon brown butter and whole toasted pine nuts.",
+  "prepOrOrderInstructions": "Skip this ravioli due to the Meyer lemon (citrus guardrail), pine nuts, and mushroom mannitol; order the Butternut Squash Agnolotti instead.",
+  "watchOuts": [
+    "Meyer lemon in sauce (strict citrus guardrail)",
+    "Whole toasted pine nuts",
+    "Mushroom/artichoke FODMAPs"
+  ]
+}

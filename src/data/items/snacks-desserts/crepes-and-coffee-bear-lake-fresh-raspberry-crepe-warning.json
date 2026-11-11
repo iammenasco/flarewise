@@ -1,0 +1,41 @@
+{
+  "id": "crepes-and-coffee-bear-lake-fresh-raspberry-crepe-warning",
+  "name": "Crepes and Coffee (Garden City, UT) Bear Lake Fresh Raspberry Crepe (Seed Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 5.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "breakfast"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "crepes",
+    "raspberry",
+    "seeds",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "crepes and coffee raspberry",
+    "bear lake raspberry crepe",
+    "garden city dessert crepe"
+  ],
+  "whyItWorks": "Featuring fresh local Bear Lake raspberries, this crepe is delicious but packed with thousands of tiny, hard, insoluble raspberry seeds that can irritate inflamed bowel mucosa and lodge in strictures.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares or stricturing Crohn's. Choose the seed-free Nutella Banana crepe instead.",
+  "watchOuts": [
+    "Hard raspberry seeds are abrasive to inflamed intestinal lining"
+  ]
+}

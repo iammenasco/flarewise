@@ -1,0 +1,39 @@
+{
+  "id": "costco-food-court-chicken-bake-warning",
+  "name": "Costco Food Court (Logan & Draper, UT) Chicken Bake (Caesar & Green Onion Warning)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Costco Wholesale (Utah Locations)",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "chicken",
+    "bacon",
+    "cheese",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "costco chicken bake",
+    "chicken bake food court",
+    "costco dough roll"
+  ],
+  "whyItWorks": "Stuffed with chicken breast, bacon, melted cheeses, green onions, and creamy Caesar dressing inside a heavy pizza dough crust. Caesar dressing acidity, bacon grease, and green onions frequently trigger GI distress.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares. Choose the plain hot dog or cheese pizza slice instead.",
+  "watchOuts": [
+    "Caesar dressing, bacon grease, and green onions produce stomach upset and gas"
+  ]
+}

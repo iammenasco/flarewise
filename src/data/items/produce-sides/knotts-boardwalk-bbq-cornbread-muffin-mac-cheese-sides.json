@@ -1,0 +1,40 @@
+{
+  "id": "knotts-boardwalk-bbq-cornbread-muffin-mac-cheese-sides",
+  "name": "Knott's Boardwalk BBQ Warm Honey Cornbread Muffin & Creamy Mashed Potatoes / Mac & Cheese Sides",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Boardwalk BBQ (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "pasta",
+    "cheese",
+    "bread",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "boardwalk bbq sides knotts",
+    "knotts cornbread mashed potatoes"
+  ],
+  "whyItWorks": "Even if you only want a small hot side in the afternoon, Boardwalk BBQ sells individual sides of whipped Mashed Potatoes, Cavatappi Mac & Cheese, and soft Cornbread Muffins.",
+  "prepOrOrderInstructions": "Order a side of Mashed Potatoes and a Cornbread Muffin for an easy, non-fried mini-meal (take lactase for dairy).",
+  "watchOuts": [
+    "Contains milk/butter in mashed potatoes and cheese in mac & cheese—take lactase"
+  ]
+}

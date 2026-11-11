@@ -1,0 +1,39 @@
+{
+  "id": "animators-six-grain-country-bread",
+  "name": "Six-Grain Country Bread with Caramelized Onion Dip (Animation Magic Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "six grain country bread",
+    "caramelized onion dip",
+    "animation magic",
+    "animators palate"
+  ],
+  "whyItWorks": "Whole-grain seeds in the six-grain loaf plus high-FODMAP caramelized onion dip can trigger bloating and mechanical irritation.",
+  "prepOrOrderInstructions": "Ask your server for plain white dinner rolls with butter instead of the seeded six-grain bread and onion dip.",
+  "watchOuts": [
+    "Whole seeds/grains in bread crust",
+    "High-FODMAP caramelized onion dip"
+  ]
+}

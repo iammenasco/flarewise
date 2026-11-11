@@ -1,0 +1,45 @@
+{
+  "id": "wbpc-land-and-sea-tenderloin-lobster-medallions",
+  "name": "Westbound Panama Canal \"Land & Sea\" Beef Tenderloin & Lobster Medallions Surf & Turf",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Westbound Panama Canal (Land and Sea Menu)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "lobster",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "land and sea menu",
+    "beef tenderloin lobster medallions",
+    "surf and turf",
+    "westbound panama canal"
+  ],
+  "whyItWorks": "Center-cut filet mignon paired with sweet poached lobster medallions is the ultimate zero-fiber, ultra-tender protein combination on the 14-night WBPC.",
+  "prepOrOrderInstructions": "Order the beef tenderloin medium-rare to medium with plain olive oil and the lobster medallions steamed plain (drawn butter and béarnaise on the side) with baked potato or white rice.",
+  "watchOuts": [
+    "Skip rich béarnaise and heavy drawn butter during flares"
+  ]
+}

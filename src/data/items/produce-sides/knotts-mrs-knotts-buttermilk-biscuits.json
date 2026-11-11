@@ -1,0 +1,38 @@
+{
+  "id": "knotts-mrs-knotts-buttermilk-biscuits",
+  "name": "Mrs. Knott's Fresh Fluffy Buttermilk Biscuits with Boysenberry Jam",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "biscuits",
+    "boysenberry",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "mrs knotts chicken dinner",
+    "buttermilk biscuits",
+    "boysenberry jam",
+    "knotts berry farm"
+  ],
+  "whyItWorks": "Freshly baked buttermilk biscuits are light, tender, and soft on the digestive system. Topped with a moderate smear of Knott's famous boysenberry jam, it provides comforting carbohydrates.",
+  "prepOrOrderInstructions": "Eat the soft interior of the biscuit with seedless boysenberry jam or butter. Chew thoroughly."
+}

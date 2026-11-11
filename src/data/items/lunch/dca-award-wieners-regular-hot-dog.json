@@ -1,0 +1,37 @@
+{
+  "id": "dca-award-wieners-regular-hot-dog",
+  "name": "All-Beef Regular Hot Dog on Soft Warm Bun (Plain)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Award Wieners (Disney California Adventure)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "hot-dog",
+    "hollywood-land"
+  ],
+  "searchKeywords": [
+    "award wieners",
+    "dca",
+    "california adventure",
+    "hot dog",
+    "hollywood land"
+  ],
+  "whyItWorks": "An uncured or regular steamed all-beef frankfurter served plain on a soft white baker's bun is naturally dairy-free and fiber-free, offering easy-to-chew protein and simple starch on the go.",
+  "prepOrOrderInstructions": "Order the hot dog plain without relish, sauerkraut, onions, or spicy mustard. Ketchup or light yellow mustard is usually tolerated."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dans-drive-in-montpelier-acey-burger",
+  "name": "Dan's Drive-In (Montpelier, ID) Famous \"Acey Burger\" Specialty Cheeseburger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "beef",
+    "burger",
+    "diner"
+  ],
+  "searchKeywords": [
+    "dans drive in",
+    "montpelier idaho",
+    "acey burger",
+    "bear lake burgers",
+    "dans burger"
+  ],
+  "whyItWorks": "Dan's Drive-In is a Montpelier roadside landmark. The signature Acey Burger features fresh, daily hand-pressed beef chuck, melted American cheese, and bacon on a soft sesame seed bun. Soft and high in bioavailable protein in remission.",
+  "prepOrOrderInstructions": "Order the Acey Burger with light special sauce, and ask to hold the sliced tomato and raw onion rings if sensitive to acid or allium roughage.",
+  "watchOuts": [
+    "Hold raw onions and tomato slices during sensitive phases",
+    "Mayo-relish special sauce is rich"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "jade-cricket-ube-matcha-oat-lattes",
+  "name": "Jade Cricket Café & Heihei Café: Iced Matcha, Chai & Ube Oat Milk Lattes",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Disney Treasure · Jade Cricket Café & Heihei Café / Wonder & Magic · Cove Café",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "drink"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "tea",
+    "matcha",
+    "oat",
+    "dairy-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "jade-cricket-cafe",
+    "heihei-cafe",
+    "cove-cafe"
+  ],
+  "searchKeywords": [
+    "jade cricket cafe",
+    "heihei cafe",
+    "ube latte",
+    "matcha oat latte",
+    "cove cafe",
+    "disney treasure"
+  ],
+  "whyItWorks": "Ceremonial matcha green tea or caffeine-free purple yam (ube) steamed with oat or almond milk avoids high-acid espresso and dairy lactose.",
+  "prepOrOrderInstructions": "Order an iced or hot Matcha Latte, Ube Latte, or decaf Oat Milk Latte with half-sweet syrup; strictly skip Earl Grey tea (bergamot citrus oil).",
+  "watchOuts": [
+    "Never order Earl Grey / Lady Grey tea (bergamot citrus oil)",
+    "Cinnamon/clove spice in Chai if flaring"
+  ]
+}

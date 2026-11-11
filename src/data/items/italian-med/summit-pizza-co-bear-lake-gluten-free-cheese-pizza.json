@@ -1,0 +1,42 @@
+{
+  "id": "summit-pizza-co-bear-lake-gluten-free-cheese-pizza",
+  "name": "Summit Pizza Co. (Garden City & Logan, UT) Gluten-Free Crust Plain Cheese Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City & Logan, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "logan",
+    "bear-lake",
+    "pizza",
+    "gluten-free",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "summit pizza gluten free",
+    "bear lake gluten free pizza",
+    "garden city gf pizza"
+  ],
+  "whyItWorks": "Summit Pizza offers a dedicated gluten-free crust that is thin, crispy, and free of wheat fructans. Excellent for gluten-sensitive IBD diners at Bear Lake.",
+  "prepOrOrderInstructions": "Order a 10-inch Gluten-Free Cheese Pizza with light marinara sauce.",
+  "watchOuts": [
+    "Contains dairy mozzarella; order light cheese if sensitive"
+  ]
+}

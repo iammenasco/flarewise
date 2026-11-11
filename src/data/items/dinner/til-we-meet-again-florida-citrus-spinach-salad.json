@@ -1,0 +1,40 @@
+{
+  "id": "til-we-meet-again-florida-citrus-spinach-salad",
+  "name": "Florida Citrus & Baby Spinach Salad ('Til We Meet Again — Citrus Avoid)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "greens",
+    "cheese",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "florida citrus and baby spinach salad",
+    "til we meet again salad",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Hard 1.0 avoid: plated with fresh Florida grapefruit and orange segments plus raw baby spinach.",
+  "prepOrOrderInstructions": "Never order this salad; choose the Potato Leek Soup or Chilled Seafood Medley instead.",
+  "watchOuts": [
+    "Fresh grapefruit and orange segments (strict 1.0 avoid)",
+    "Raw baby spinach"
+  ]
+}

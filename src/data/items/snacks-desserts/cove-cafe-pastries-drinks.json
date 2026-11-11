@@ -1,0 +1,46 @@
+{
+  "id": "cove-cafe-pastries-drinks",
+  "name": "Cove Café Adult Lounge Complimentary Croissants, Cake Bites & Fruit",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Cove Café (Adults 18+)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bakery",
+    "bread",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cove-cafe"
+  ],
+  "searchKeywords": [
+    "cove cafe",
+    "complimentary pastries",
+    "adult pool cafe",
+    "disney wonder",
+    "disney magic",
+    "disney treasure"
+  ],
+  "whyItWorks": "The pastry display case inside Cove Café is 100% complimentary all day: mini butter croissants, plain pound cake slices, and afternoon cheese cubes.",
+  "prepOrOrderInstructions": "Help yourself to mini butter croissants, plain vanilla/chocolate cake bites, or aged cheddar/Swiss cubes in the afternoon; skip lemon bars and nut-topped tarts.",
+  "watchOuts": [
+    "Skip lemon bars and orange-glazed pastries in the case",
+    "Dairy butter/cheese"
+  ]
+}

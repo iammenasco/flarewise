@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-carnation-cafe-garlic-turkey-burger",
+  "name": "Disneyland Carnation Cafe Charbroiled Turkey Burger on Brioche Bun",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Carnation Cafe (Disneyland Park)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "turkey",
+    "burger",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "carnation cafe turkey burger",
+    "disneyland turkey burger",
+    "main street burger"
+  ],
+  "whyItWorks": "Lean seasoned ground turkey patty charbroiled and served on a soft toasted brioche bun with provolone cheese and fries. Much lower in grease and saturated fat than beef chuck.",
+  "prepOrOrderInstructions": "Order the Turkey Burger plain or with mayo only (hold raw red onions, lettuce, and tomato).",
+  "watchOuts": [
+    "Hold raw red onions"
+  ]
+}

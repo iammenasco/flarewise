@@ -1,0 +1,42 @@
+{
+  "id": "charlotte-la-bouffs-bucatini-pasta",
+  "name": "Charlotte La Bouff's Bucatini Pasta",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "mushroom",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "charlotte la bouff bucatini pasta",
+    "tianas place pasta",
+    "disney wonder"
+  ],
+  "whyItWorks": "Thick refined durum-wheat bucatini noodles are gentle, though the standard build tosses in charred baby artichokes, wild mushrooms, and chili flakes.",
+  "prepOrOrderInstructions": "Ask your server for the bucatini pasta tossed simply in butter, olive oil, and aged Parmesan, holding the fibrous artichoke hearts, mushrooms, and chili flakes.",
+  "watchOuts": [
+    "Fibrous artichoke bracts and wild mushrooms",
+    "Crushed red pepper flakes",
+    "Goat cheese / cream"
+  ]
+}

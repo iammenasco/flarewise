@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-harbour-galley-clam-chowder-warning",
+  "name": "Pacific Clam Chowder in Sourdough Bread Bowl",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Harbour Galley (Disneyland)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "clam-chowder",
+    "sourdough-bowl",
+    "critter-country"
+  ],
+  "searchKeywords": [
+    "harbour galley",
+    "disneyland",
+    "clam chowder",
+    "sourdough bowl",
+    "critter country"
+  ],
+  "whyItWorks": "Rich clam chowder loaded with heavy cream, butter, and bacon fat poured into a dense, chewy sourdough bowl. Concentrated lactose and dairy fat can stimulate severe loose stools in Crohn's patients.",
+  "prepOrOrderInstructions": "Lactose & Fat Warning: Savor the sourdough bread exterior and only small spoonfuls of soup, or take lactase enzyme tablets."
+}

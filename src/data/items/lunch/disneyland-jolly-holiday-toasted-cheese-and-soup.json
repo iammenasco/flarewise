@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-jolly-holiday-toasted-cheese-and-soup",
+  "name": "Disneyland Jolly Holiday \"Jolly Holiday Combo\" Toasted Cheese & Tomato Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "grilled-cheese",
+    "soup",
+    "comfort-food",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "jolly holiday combo",
+    "disneyland toasted cheese",
+    "grilled cheese tomato soup disneyland"
+  ],
+  "whyItWorks": "Disneyland's signature rainy-day comfort meal! Melted cheddar and Swiss cheeses griddled on sourdough bread, paired with smooth, creamy tomato basil soup.",
+  "prepOrOrderInstructions": "Order the Jolly Holiday Combo; dip the warm grilled cheese into the smooth tomato soup.",
+  "watchOuts": [
+    "Tomato soup has mild acidity; enjoy in moderation if acid-sensitive"
+  ]
+}

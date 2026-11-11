@@ -1,0 +1,41 @@
+{
+  "id": "dca-lucky-fortune-cookery-beef-bulgogi-rice-bowl",
+  "name": "DCA Lucky Fortune Cookery Beef Bulgogi & Steamed Jasmine White Rice Bowl",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Lucky Fortune Cookery (Disney California Adventure)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "beef",
+    "rice",
+    "korean",
+    "san-fransokyo"
+  ],
+  "searchKeywords": [
+    "lucky fortune beef bulgogi",
+    "san fransokyo beef bowl",
+    "dca bulgogi rice"
+  ],
+  "whyItWorks": "Thinly shaved tender ribeye marinated in sweet soy and garlic, wok-seared and served over fluffy steamed jasmine white rice. High in bioavailable heme iron and easily digested carbs.",
+  "prepOrOrderInstructions": "Order the Beef Bulgogi Bowl with steamed white rice; request vegetables soft or hold raw green onions.",
+  "watchOuts": [
+    "Hold raw green onions"
+  ]
+}

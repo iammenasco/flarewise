@@ -1,0 +1,38 @@
+{
+  "id": "thomas-cuisine-bamboohr-turkey-swiss-panini",
+  "name": "Thomas2Go @ BambooHR (Lindon, UT) Made-to-Order Roast Turkey & Swiss Panini",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Thomas Cuisine @ BambooHR (Lindon, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "lunch",
+    "turkey",
+    "panini",
+    "bamboohr"
+  ],
+  "searchKeywords": [
+    "thomas2go turkey panini",
+    "bamboohr cafe sandwich",
+    "thomas cuisine deli panini"
+  ],
+  "whyItWorks": "Freshly sliced roasted turkey breast and naturally aged Swiss cheese pressed warm on sourdough bread with light olive oil or mayo. Warm, crispy, and easy on the gut.",
+  "prepOrOrderInstructions": "Order the Turkey Panini on sourdough bread with Swiss cheese; ask for mayo and hold raw red onions or mustard.",
+  "watchOuts": [
+    "Hold raw onions"
+  ]
+}

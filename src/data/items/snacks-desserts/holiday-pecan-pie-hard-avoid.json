@@ -1,0 +1,40 @@
+{
+  "id": "holiday-pecan-pie-hard-avoid",
+  "name": "Holiday Pecan Pie (Whole Nuts & High-Fructose Corn Syrup — Flare Avoid)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Thanksgiving & Christmas Dessert Table",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pie",
+    "nuts",
+    "sweet",
+    "warning",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "pecan pie",
+    "thanksgiving pecan pie",
+    "holiday nut pie"
+  ],
+  "whyItWorks": "Flagged as a strict holiday Avoid: packed with sharp whole pecan halves and a concentrated corn-syrup/butter filling that scrapes inflamed mucosa and draws osmotic water into the bowel.",
+  "prepOrOrderInstructions": "Always pass on Pecan Pie and choose Pumpkin Pie, Banana Cream Pie, or Peeled Apple Pie instead.",
+  "watchOuts": [
+    "Sharp whole pecans (mechanical stricture/mucosal hazard)",
+    "Concentrated corn syrup osmotic load"
+  ]
+}

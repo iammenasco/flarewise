@@ -1,0 +1,45 @@
+{
+  "id": "cafe-sabor-sweet-pork-chicken-enchiladas",
+  "name": "Café Sabor Shredded Chicken Enchiladas or Smothered Burrito (Mild Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pork",
+    "tortilla",
+    "rice",
+    "mexican",
+    "bear-lake",
+    "garden-city",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cafe sabor enchiladas",
+    "cafe sabor burrito",
+    "logan mexican restaurant",
+    "garden city cafe sabor"
+  ],
+  "whyItWorks": "Soft tortillas filled with tender shredded chicken and melted cheese with rice; safe on steady days when ordered with mild sauce on the side and no black beans.",
+  "prepOrOrderInstructions": "Order the Shredded Chicken Burrito or Enchiladas with rice only (no whole black beans), sauce on the side, and a Lactaid for the melted cheese/sour cream.",
+  "watchOuts": [
+    "Hold whole black beans and spicy salsa",
+    "Take a Lactaid for melted cheese and sour cream"
+  ]
+}

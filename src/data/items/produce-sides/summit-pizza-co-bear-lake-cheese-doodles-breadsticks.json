@@ -1,0 +1,41 @@
+{
+  "id": "summit-pizza-co-bear-lake-cheese-doodles-breadsticks",
+  "name": "Summit Pizza Co. (Garden City & Logan, UT) Warm Mozzarella Cheese Doodles (Light Garlic)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City & Logan, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "logan",
+    "bear-lake",
+    "breadsticks",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "summit pizza cheese doodles",
+    "bear lake cheesy breadsticks",
+    "garden city cheese doodles"
+  ],
+  "whyItWorks": "Twisted scratch pizza dough smothered in melted whole-milk mozzarella. Soft, comforting, and seed-free carb companion.",
+  "prepOrOrderInstructions": "Order Cheese Doodles with marinara dipping sauce on the side; request light garlic butter.",
+  "watchOuts": [
+    "Contains dairy mozzarella; order light garlic"
+  ]
+}

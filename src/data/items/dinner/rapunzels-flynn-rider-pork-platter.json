@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-flynn-rider-pork-platter",
+  "name": "Flynn Rider Platter: Smoked Pork Loin, Roasted Pork Belly & Bockwurst (Lantern Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "potato",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "flynn rider platter",
+    "smoked pork loin pork belly",
+    "rapunzels royal table",
+    "disney magic"
+  ],
+  "whyItWorks": "The lean smoked pork loin medallion and potato dumpling are gentle, but fatty pork belly, sausage casing, and braised red cabbage are flare triggers.",
+  "prepOrOrderInstructions": "Eat only the lean center-cut pork loin and soft potato dumpling; leave the fatty pork belly, sausage casing, and red cabbage untouched.",
+  "watchOuts": [
+    "High-fat pork belly and tough sausage casing",
+    "Braised red cabbage roughage"
+  ]
+}

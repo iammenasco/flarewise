@@ -1,0 +1,42 @@
+{
+  "id": "prince-princess-vegetable-lasagna",
+  "name": "Layered Garden Vegetable Lasagna (Prince & Princess Menu)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Prince & Princess Dinner Menu",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "tomato",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "vegetable lasagna",
+    "prince and princess menu",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Soft lasagna noodles and cheese are layered with diced zucchini skins, bell peppers, mushrooms, and tomato sauce.",
+  "prepOrOrderInstructions": "Skip during flares in favor of the Roasted Tom Turkey Breast or Grilled Pork Chop.",
+  "watchOuts": [
+    "Mushrooms, bell pepper skins, and zucchini peels inside layers",
+    "Ricotta/mozzarella lactose"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dca-fiddler-fifer-practical-cafe-sandwich-egg-bites",
+  "name": "DCA Fiddler, Fifer & Practical Cafe (Buena Vista Street) Turkey Sandwich, Egg Bites, Oatmeal & Cinnamon Roll",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Fiddler, Fifer & Practical Cafe (Buena Vista Street · Disney California Adventure)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "turkey",
+    "oats",
+    "banana",
+    "cheese",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "fiddler fifer practical cafe dca",
+    "starbucks dca buena vista street",
+    "dca breakfast egg bites"
+  ],
+  "whyItWorks": "DCA's Buena Vista Street café serves Starbucks Sous-Vide Bacon & Gruyère Egg Bites, Classic Rolled Oatmeal, Butter Croissants, Bananas, and deli Turkey/Ham sandwiches.",
+  "prepOrOrderInstructions": "Grab Bacon & Gruyère Egg Bites (naturally lactose-safe aged Gruyère), plain Oatmeal (no nut packet), or a Butter Croissant.",
+  "watchOuts": [
+    "Discard the mixed-nut packet from the oatmeal and avoid citrus refreshers"
+  ]
+}

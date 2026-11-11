@@ -1,0 +1,47 @@
+{
+  "id": "holiday-standing-prime-rib-roast-yorkshire-pudding",
+  "name": "Christmas Standing Prime Rib Roast (Center Eye) & Yorkshire Pudding / Popovers",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Christmas & Holiday Feast",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Standing Beef Rib Roast (Prime Rib)",
+    "Eggs",
+    "White Flour",
+    "Lactose-Free Milk"
+  ],
+  "tags": [
+    "beef",
+    "steak",
+    "bread",
+    "high-protein",
+    "holiday",
+    "christmas",
+    "thanksgiving"
+  ],
+  "searchKeywords": [
+    "christmas prime rib",
+    "standing rib roast",
+    "yorkshire pudding",
+    "au jus"
+  ],
+  "whyItWorks": "Slow-roasted medium-rare prime rib is melt-in-your-mouth tender with zero plant fiber, and egg-rich Yorkshire puddings puff into airy refined-flour popovers.",
+  "prepOrOrderInstructions": "Trim away the outer fat cap and peppercorn crust, eat the lean center \"eye\" of the ribeye dipped in clear au jus, and skip the spicy creamy horseradish sauce.",
+  "watchOuts": [
+    "Trim the heavy ribeye fat cap and black peppercorn crust",
+    "Skip pungent horseradish cream"
+  ]
+}

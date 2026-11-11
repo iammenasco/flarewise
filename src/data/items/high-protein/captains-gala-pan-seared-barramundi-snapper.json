@@ -1,0 +1,43 @@
+{
+  "id": "captains-gala-pan-seared-barramundi-snapper",
+  "name": "Pan-Seared Barramundi / Roasted Red Snapper with Crushed Potatoes (Captain's Gala Night 2)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "pan seared barramundi",
+    "roasted red snapper",
+    "captains gala fish",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Mild, flaky white barramundi or red snapper over crushed olive-oil potatoes is ultra-lean, low-residue, and easy to digest.",
+  "prepOrOrderInstructions": "Order the fish pan-seared in olive oil with salt only (sauce on the side, no lemon) over crushed or mashed potatoes.",
+  "watchOuts": [
+    "Confirm sauce on the side contains no citrus"
+  ]
+}

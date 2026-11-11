@@ -1,0 +1,37 @@
+{
+  "id": "mortys-cafe-logan-grilled-chicken-sandwich",
+  "name": "Grilled Chicken Breast Sandwich on Plain White Bun",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Morty's Cafe (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "chicken-sandwich",
+    "mortys",
+    "lean-protein"
+  ],
+  "searchKeywords": [
+    "mortys cafe",
+    "grilled chicken sandwich",
+    "chicken breast",
+    "logan utah"
+  ],
+  "whyItWorks": "A tender, boneless grilled chicken breast served on a soft white burger bun provides high-quality lean protein without batter, grease, or high-fiber roughage.",
+  "prepOrOrderInstructions": "Order plain (grilled chicken breast and bun only). Skip lettuce, tomato, raw red onion, pickles, and fry sauce."
+}

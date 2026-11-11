@@ -1,0 +1,37 @@
+{
+  "id": "dca-lamplight-lounge-warm-donut-holes",
+  "name": "DCA Lamplight Lounge Warm Fluffy Donuts (Skip Raspberry Seed Dip)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Lamplight Lounge (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "fried",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lamplight lounge donuts",
+    "pixar pier warm donuts"
+  ],
+  "whyItWorks": "Pillowy warm cinnamon-sugar donut holes made from refined white flour with zero nuts or roughage.",
+  "prepOrOrderInstructions": "Enjoy 1–2 warm donut holes plain or dipped lightly in the chocolate sauce, and skip the raspberry dipping sauce if it contains berry seeds.",
+  "watchOuts": [
+    "Fried pastry dough and sugar—share with the table in remission"
+  ]
+}

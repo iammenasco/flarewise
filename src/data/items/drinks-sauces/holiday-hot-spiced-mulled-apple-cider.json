@@ -1,0 +1,39 @@
+{
+  "id": "holiday-hot-spiced-mulled-apple-cider",
+  "name": "Warm Spiced Mulled Apple Cider with Cinnamon & Clove",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "cider",
+    "apple",
+    "drink"
+  ],
+  "searchKeywords": [
+    "mulled apple cider",
+    "hot spiced cider holiday",
+    "warm christmas apple cider"
+  ],
+  "whyItWorks": "Pure apple cider heated gently with cinnamon sticks and whole cloves (strained before serving). Soothing, hydrating, and seed-free winter warmer.",
+  "prepOrOrderInstructions": "Sip warm strained cider; ensure orange peel citrus slices are kept minimal.",
+  "watchOuts": [
+    "High natural apple fructose; drink slowly if sensitive to fruit sugars"
+  ]
+}

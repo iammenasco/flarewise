@@ -1,0 +1,42 @@
+{
+  "id": "mickeys-smokestack-smoked-kielbasa",
+  "name": "Mickey's Smokestack BBQ Smoked Kielbasa Sausage Link",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Treasure · Mickey's Smokestack Barbecue",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "beef",
+    "bbq",
+    "disney-cruise",
+    "disney-treasure",
+    "mickeys-smokestack"
+  ],
+  "searchKeywords": [
+    "smoked kielbasa",
+    "mickeys smokestack sausage",
+    "disney treasure"
+  ],
+  "whyItWorks": "Zero plant fiber, but tough natural sausage casing, garlic seasoning, and high emulsified fat can trigger cramping.",
+  "prepOrOrderInstructions": "Peel away the tough outer casing if tasting in remission, or choose the carved Smoked Beef Brisket (lean flat) or Smoked Chicken instead.",
+  "watchOuts": [
+    "Tough outer sausage casing",
+    "Garlic seasoning and high saturated fat"
+  ]
+}

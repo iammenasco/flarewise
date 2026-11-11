@@ -1,0 +1,40 @@
+{
+  "id": "codys-gastro-garage-bear-lake-cod-fish-and-chips-basket",
+  "name": "Cody's Gastro Garage (Garden City, UT) Golden Fried Pacific Cod Fish & Chips",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "seafood",
+    "fish"
+  ],
+  "searchKeywords": [
+    "codys fish and chips",
+    "bear lake fried cod",
+    "garden city seafood basket"
+  ],
+  "whyItWorks": "Flaky Pacific cod fillets are naturally lean, low-residue, and gentle on digestion. The fried coating is light and crispy in remission.",
+  "prepOrOrderInstructions": "Order the Fish & Chips basket with tartar sauce on the side and a lemon wedge on the side (discard lemon).",
+  "watchOuts": [
+    "Peel off outer batter if feeling sensitive to frying oil"
+  ]
+}

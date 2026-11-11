@@ -1,0 +1,40 @@
+{
+  "id": "summit-pizza-co-bear-lake-cinnadoodles-sweet-dough",
+  "name": "Summit Pizza Co. (Garden City & Logan, UT) Warm Cinnamon Sugar \"Cinnadoodles\"",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City & Logan, UT)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "logan",
+    "bear-lake",
+    "dessert",
+    "cinnamon"
+  ],
+  "searchKeywords": [
+    "summit pizza cinnadoodles",
+    "bear lake dessert pizza",
+    "cinnamon dough garden city"
+  ],
+  "whyItWorks": "Fresh baked pizza dough sticks tossed in warm cinnamon and brown sugar, drizzled with sweet vanilla cream cheese glaze. Seed-free and soft.",
+  "prepOrOrderInstructions": "Order Cinnadoodles warm to share with tablemates.",
+  "watchOuts": [
+    "High sugar; share portion"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "jumbeauxs-sweets-gelato-ice-cream",
+  "name": "Jumbeaux's Sweets Artisanal Gelato, Ice Cream & Vegan Sorbet (Disney Treasure)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Jumbeaux's Sweets",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "mango",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "jumbeauxs-sweets"
+  ],
+  "searchKeywords": [
+    "jumbeauxs sweets",
+    "gelato",
+    "zootopia ice cream",
+    "mango sorbet",
+    "disney treasure"
+  ],
+  "whyItWorks": "Zootopia-themed sweet shop on Disney Treasure serving 20+ daily flavors of smooth Italian gelato, ice cream, and dairy-free fruit sorbets.",
+  "prepOrOrderInstructions": "Choose dairy-free Mango Sorbet (9/10 flare-safe) or take 1–2 Lactaid pills with Vanilla Bean, Chocolate, Salted Caramel, or Cookies & Cream gelato. Strictly skip Lemon Sorbet (citrus), Pistachio/Praline (nuts), and Raspberry (seeds).",
+  "watchOuts": [
+    "Lemon/citrus sorbets (strict avoid)",
+    "Whole nuts in pistachio/pecan flavors",
+    "Dairy lactose in gelato/ice cream"
+  ]
+}

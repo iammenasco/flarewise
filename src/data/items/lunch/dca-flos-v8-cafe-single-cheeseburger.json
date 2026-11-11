@@ -1,0 +1,38 @@
+{
+  "id": "dca-flos-v8-cafe-single-cheeseburger",
+  "name": "Ka-Cheeseburger Single Patty on Plain White Bun",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Flo's V-8 Cafe (Disney California Adventure)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "burger",
+    "cars-land",
+    "flos-v8-cafe"
+  ],
+  "searchKeywords": [
+    "flos v8 cafe",
+    "dca",
+    "cheeseburger",
+    "cars land",
+    "disney burger"
+  ],
+  "whyItWorks": "A single fresh beef patty grilled and topped with a slice of mild American cheese on a soft bakery bun provides balanced protein and easily digested carbohydrates.",
+  "prepOrOrderInstructions": "Order the burger plain (meat, cheese, bun only). Skip lettuce, tomato, raw onions, pickles, and 1000 Island dressing. Swap steak fries for cuties mandarin or apple slices."
+}

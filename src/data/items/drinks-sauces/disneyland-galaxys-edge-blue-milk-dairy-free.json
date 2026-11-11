@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-galaxys-edge-blue-milk-dairy-free",
+  "name": "Disneyland Galaxy's Edge Milk Stand Blue Milk (100% Dairy-Free Coconut & Rice Milk Blend)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Milk Stand (Star Wars: Galaxy's Edge · Disneyland Park)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "dairy-free",
+    "sweet",
+    "gluten-free-option",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "blue milk disneyland",
+    "milk stand galaxys edge",
+    "dairy free star wars milk"
+  ],
+  "whyItWorks": "Blue Milk is a 100% plant-based coconut and rice-milk frozen smoothie flavored with gentle dragonfruit, pineapple, and melon notes—giving you a cold theme-park shake with zero lactose (avoid Green Milk, which uses mandarin orange & passionfruit citrus).",
+  "prepOrOrderInstructions": "Order **Blue Milk** (skip Green Milk, which has citrus mandarin orange notes) and sip slowly so the icy temperature doesn't shock your stomach.",
+  "watchOuts": [
+    "Avoid Green Milk if sensitive to citrus (contains mandarin orange blossom flavor); sip slowly"
+  ]
+}

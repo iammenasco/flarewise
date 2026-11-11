@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-galactic-grill-french-toast-sticks",
+  "name": "Disneyland Galactic Grill Golden French Toast Sticks with Maple Syrup",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Galactic Grill (Disneyland Park)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "breakfast",
+    "french-toast",
+    "tomorrowland"
+  ],
+  "searchKeywords": [
+    "galactic grill french toast sticks",
+    "disneyland french toast",
+    "tomorrowland breakfast sticks"
+  ],
+  "whyItWorks": "Soft, golden-fried thick white bread sticks dusted with cinnamon sugar and served with warm maple syrup. Finger-food breakfast that is seed-free and easy to digest.",
+  "prepOrOrderInstructions": "Order French Toast Sticks with warm syrup for dipping.",
+  "watchOuts": [
+    "None; gentle breakfast carb"
+  ]
+}

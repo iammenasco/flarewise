@@ -1,0 +1,41 @@
+{
+  "id": "palo-dinner-herbed-yellowfin-tuna",
+  "name": "Palo Dinner Sliced Herbed Yellowfin Tuna Carpaccio",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "tuna",
+    "fish",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "sliced herbed yellowfin tuna",
+    "palo tuna carpaccio",
+    "palo dinner"
+  ],
+  "whyItWorks": "Paper-thin sushi-grade yellowfin tuna is pure, zero-fiber protein when dressed in plain extra-virgin olive oil instead of lemon.",
+  "prepOrOrderInstructions": "Ask the kitchen to dress your Sliced Yellowfin Tuna with extra-virgin olive oil and sea salt only—holding any lemon juice or citrus emulsion.",
+  "watchOuts": [
+    "Lemon dressing on default build (request olive oil only)"
+  ]
+}

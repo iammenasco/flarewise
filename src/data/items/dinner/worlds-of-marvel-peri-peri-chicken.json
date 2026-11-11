@@ -1,0 +1,41 @@
+{
+  "id": "worlds-of-marvel-peri-peri-chicken",
+  "name": "Roasted Marinated Peri-Peri Chicken with Herb Potatoes (Groot Remix Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Celebration of Heroes: Groot Remix Night 2)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "potato",
+    "spicy",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "peri peri chicken",
+    "groot remix chicken",
+    "worlds of marvel night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Traditional African bird's-eye chili Peri-Peri marinade combines capsaicin heat, garlic, and lemon juice.",
+  "prepOrOrderInstructions": "Ask your server for the Lighter Note plain oven-roasted chicken breast with herb-free mashed or roasted potatoes instead of the Peri-Peri marinade.",
+  "watchOuts": [
+    "Peri-Peri chili heat (capsaicin)",
+    "Lemon juice in marinade (citrus guardrail)"
+  ]
+}

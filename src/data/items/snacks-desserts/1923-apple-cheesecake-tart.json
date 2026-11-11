@@ -1,0 +1,41 @@
+{
+  "id": "1923-apple-cheesecake-tart",
+  "name": "Atwater Fuji Apple Cheesecake Tart with Caramel Sauce (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "applesauce",
+    "cheese",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "apple cheesecake tart",
+    "atwater apple cheesecake",
+    "1923 dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Peeled baked cinnamon Fuji apples over smooth vanilla cheesecake in a shortbread crust—citrus-free and nut-free.",
+  "prepOrOrderInstructions": "Pair with a Lactaid enzyme for the cheesecake layer.",
+  "watchOuts": [
+    "Cream cheese lactose",
+    "Baked apple fructose in large portions"
+  ]
+}

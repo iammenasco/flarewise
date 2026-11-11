@@ -1,0 +1,41 @@
+{
+  "id": "dcl-kids-pbj-typhoon-pancake",
+  "name": "PB&J Typhoon Pancake (Peanut Butter & Jelly Griddle Cake)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pancake",
+    "peanut-butter",
+    "sweet",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "pbj typhoon pancake",
+    "peanut butter jelly pancake",
+    "disney cruise breakfast"
+  ],
+  "whyItWorks": "Any adult can order this beloved DCL breakfast classic: warm buttermilk pancake swirled with creamy peanut butter and seedless grape/strawberry jelly.",
+  "prepOrOrderInstructions": "Ask for creamy peanut butter and seedless grape jelly on your pancake stack.",
+  "watchOuts": [
+    "Verify jelly is seedless grape rather than seeded raspberry"
+  ]
+}

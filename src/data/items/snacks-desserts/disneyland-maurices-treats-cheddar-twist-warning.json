@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-maurices-treats-cheddar-twist-warning",
+  "name": "Maurice's Warm Garlic Cheddar Pastry Twist",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Maurice's Treats (Disneyland)",
+  "crohnsScore": 5.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "cheddar-twist",
+    "pastry",
+    "fantasyland"
+  ],
+  "searchKeywords": [
+    "maurices treats",
+    "disneyland",
+    "cheddar twist",
+    "garlic twist",
+    "fantasyland"
+  ],
+  "whyItWorks": "Flaky puff pastry rolled with cheddar cheese and coated in concentrated garlic butter seasoning. Laminated puff pastry contains dense butter layers, which combined with alliums can provoke gas and rapid motility.",
+  "prepOrOrderInstructions": "Dairy & Allium Warning: Nibble cautiously if in remission. Avoid during active inflammatory flare-ups."
+}

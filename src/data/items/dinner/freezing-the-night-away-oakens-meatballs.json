@@ -1,0 +1,43 @@
+{
+  "id": "freezing-the-night-away-oakens-meatballs",
+  "name": "Oaken's Warm Swedish Meatballs over Egg Noodles / Mashed Potatoes (Wonder Alaska)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Freezing the Night Away Menu (Alaska Sailings)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pork",
+    "pasta",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "oakens meatballs",
+    "swedish meatballs",
+    "freezing the night away",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Finely ground tender Nordic meatballs in savory cream gravy over soft egg noodles or mashed potatoes require minimal mechanical digestion.",
+  "prepOrOrderInstructions": "Take a Lactaid for the cream gravy and skip the whole-berry lingonberry jam if avoiding berry seeds.",
+  "watchOuts": [
+    "Dairy cream gravy",
+    "Lingonberry seeds in compote garnish"
+  ]
+}

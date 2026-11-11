@@ -1,0 +1,38 @@
+{
+  "id": "knotts-grizzly-creek-grilled-cheese-sandwich",
+  "name": "Grizzly Creek Classic Grilled American Cheese on Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Grizzly Creek Lodge (Knott's Berry Farm)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "grilled-cheese",
+    "camp-snoopy",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "grizzly creek lodge",
+    "knotts berry farm",
+    "grilled cheese",
+    "camp snoopy",
+    "kids meal"
+  ],
+  "whyItWorks": "Melted American cheese griddled between two slices of white or sourdough bread provides gentle carbohydrates and warm comfort food in Camp Snoopy without fried batter, raw greens, or spicy seasoning.",
+  "prepOrOrderInstructions": "Order the grilled cheese lightly griddled. Ask to swap french fries for a fruit cup or applesauce pouch."
+}

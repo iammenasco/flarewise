@@ -1,0 +1,39 @@
+{
+  "id": "summit-pizza-garden-city-cheesy-breadsticks-no-garlic",
+  "name": "Summit Pizza Co. Soft Mozzarella & Parmesan Dough Breadsticks (Light Butter Mod)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "pasta-grains",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "summit pizza breadsticks",
+    "garden city cheesy bread",
+    "bear lake pizza sides"
+  ],
+  "whyItWorks": "Made from Summit's soft, fermented white pizza dough with melted cheese and zero tomato sauce, avoiding nightshade acidity while still sharing pizza night.",
+  "prepOrOrderInstructions": "Order the Cheesy Breadsticks with light butter and no garlic powder; skip the spicy marinara dipping cup.",
+  "watchOuts": [
+    "Contains mozzarella lactose and garlic seasoning unless requested plain—take lactase enzymes"
+  ]
+}

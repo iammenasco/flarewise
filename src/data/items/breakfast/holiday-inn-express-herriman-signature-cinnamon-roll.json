@@ -1,0 +1,40 @@
+{
+  "id": "holiday-inn-express-herriman-signature-cinnamon-roll",
+  "name": "Holiday Inn Express (Herriman, UT) Signature Warm Iced Cinnamon Roll",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Inn Express & Suites Herriman - South Jordan",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "herriman",
+    "south-jordan",
+    "breakfast",
+    "cinnamon-roll"
+  ],
+  "searchKeywords": [
+    "holiday inn express cinnamon roll",
+    "herriman hotel cinnamon roll",
+    "signature cinnamon roll"
+  ],
+  "whyItWorks": "The brand's iconic warm breakfast pastry! Soft sweet dough swirled with cinnamon and topped with warm white cream cheese glaze. Completely seed-free.",
+  "prepOrOrderInstructions": "Warm in the breakfast microwave for 10-15 seconds for an ultra-soft texture.",
+  "watchOuts": [
+    "High sugar content; eat with scrambled eggs to balance glycemic impact"
+  ]
+}

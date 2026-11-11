@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-carnation-cafe-fried-pickles-warning",
+  "name": "Disneyland Carnation Cafe Fried Pickles with House Sauce (Acid & Grease Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Carnation Cafe (Disneyland Park)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "pickles",
+    "fried",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "carnation cafe fried pickles",
+    "disneyland fried pickles",
+    "carnation cafe appetizers"
+  ],
+  "whyItWorks": "Crispy panko-breaded dill pickle spears served with spiced dipping sauce. The combination of acidic vinegar-brined pickles and deep-fried grease causes severe gastric burning and mucosal irritation.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares and active gastritis. Opt for a warm sourdough roll or mashed potatoes instead.",
+  "watchOuts": [
+    "Vinegar acidity and deep-fried batter cause intense heartburn and stomach irritation"
+  ]
+}

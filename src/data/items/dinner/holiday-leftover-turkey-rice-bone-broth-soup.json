@@ -1,0 +1,42 @@
+{
+  "id": "holiday-leftover-turkey-rice-bone-broth-soup",
+  "name": "Post-Holiday Leftover Roast Turkey, White Rice & Bone Broth Soup",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Home Kitchen Post-Holiday Comfort",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "turkey",
+    "soup",
+    "rice",
+    "bone-broth",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "leftover turkey soup",
+    "turkey rice soup after thanksgiving",
+    "holiday bone broth soup"
+  ],
+  "whyItWorks": "The ultimate post-holiday digestive recovery meal! Simmering the holiday turkey carcass creates rich collagen and glycine bone broth. Combined with tender shredded white turkey meat and soft white rice, it heals inflamed mucosa.",
+  "prepOrOrderInstructions": "Simmer turkey bones with celery and carrots, strain clear broth, and add shredded turkey breast and cooked white rice with sea salt.",
+  "watchOuts": [
+    "None; premier therapeutic flare-safe dish"
+  ]
+}

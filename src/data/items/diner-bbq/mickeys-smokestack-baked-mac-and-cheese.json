@@ -1,0 +1,45 @@
+{
+  "id": "mickeys-smokestack-baked-mac-and-cheese",
+  "name": "Mickey's Smokestack Baked Macaroni & Cheese & Sweet Potato Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Treasure · Mickey's Smokestack Barbecue",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "sweet-potato",
+    "vegetarian",
+    "disney-cruise",
+    "disney-treasure",
+    "mickeys-smokestack"
+  ],
+  "searchKeywords": [
+    "baked macaroni and cheese",
+    "sweet potato fries",
+    "mickeys smokestack",
+    "disney treasure"
+  ],
+  "whyItWorks": "Soft elbow macaroni in cheddar cheese sauce is the safest comfort side at the BBQ counter—far gentler than collard greens, baked beans, or jalapeño cornbread.",
+  "prepOrOrderInstructions": "Pair the Baked Mac & Cheese with 1–2 Lactaid tablets and carved smoked turkey/chicken.",
+  "watchOuts": [
+    "Cheddar cheese sauce lactose",
+    "Frying oil on sweet potato fries"
+  ]
+}

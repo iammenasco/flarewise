@@ -1,0 +1,41 @@
+{
+  "id": "dca-carthay-circle-lounge-alfresco-salmon-cheese",
+  "name": "DCA Carthay Circle Lounge — Alfresco Dining: Kids' Teriyaki Salmon/Chicken & Rice or Artisanal Cheese Board",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Carthay Circle Lounge — Alfresco Dining (Buena Vista Street · Disney California Adventure)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "chicken",
+    "rice",
+    "cheese",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "carthay circle lounge alfresco",
+    "walk up dining dca",
+    "carthay lounge safe food"
+  ],
+  "whyItWorks": "Carthay Circle Lounge (easier walk-up waitlist than the main dining room!) has a Kids' Orecchiette Pasta or Grilled Salmon/Chicken Breast with steamed white rice that any guest can order.",
+  "prepOrOrderInstructions": "Join the walk-up list in the Disneyland App and order the Grilled Salmon or Chicken Breast with steamed white rice (or plain butter/Parmesan pasta), or graze on the aged hard cheeses and crackers from the Artisanal Cheese Board.",
+  "watchOuts": [
+    "Skip whole nuts, olives, and spicy harissa/chili appetizers on the lounge menu"
+  ]
+}

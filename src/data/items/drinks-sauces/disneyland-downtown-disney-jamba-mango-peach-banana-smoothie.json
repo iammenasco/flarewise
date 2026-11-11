@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-downtown-disney-jamba-mango-peach-banana-smoothie",
+  "name": "Downtown Disney Jamba (Jamba Juice) Vanilla Blue Sky or Peach Perfection Smoothie (Citrus-Free Check!)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Jamba (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "drink",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "drink",
+    "dairy-free",
+    "soluble-fiber",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "jamba juice downtown disney",
+    "smoothie downtown disney",
+    "vanilla blue sky jamba"
+  ],
+  "whyItWorks": "Jamba's **Vanilla Blue Sky** (unsweetened almond milk, vanilla coconut milk, banana, pineapple, blue spirulina—100% dairy-free and citrus-free!) or **Banana Berry** (apple-strawberry juice, banana, blueberries, dairy-free) gives you cold soluble fiber and hydration walking between the parks and hotels.",
+  "prepOrOrderInstructions": "Order **Vanilla Blue Sky** or a custom **Almond Milk + Banana + Peach + Mango** smoothie—strictly avoid Orange Dream Machine, Caribbean Passion, and White Gummi (all use orange/lime/lemon sherbet or juice!).",
+  "watchOuts": [
+    "CRITICAL CITRUS CHECK: Avoid Orange Dream Machine, Mango-A-Go-Go (contains passionfruit-orange-guava juice), and sour citrus smoothies"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dca-lucky-fortune-steamed-white-rice",
+  "name": "Side Bowl of Warm Steamed Jasmine White Rice",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Lucky Fortune Cookery (Disney California Adventure)",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "white-rice",
+    "san-fransokyo",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "lucky fortune cookery",
+    "dca",
+    "steamed rice",
+    "white rice",
+    "san fransokyo"
+  ],
+  "whyItWorks": "Pure steamed jasmine white rice is the ultimate soothing staple in DCA. It calms nausea, slows bowel transit, requires minimal digestive work, and contains zero dairy, gluten, or seeds.",
+  "prepOrOrderInstructions": "Order an extra side bowl of plain steamed white rice. Eat plain or lightly seasoned with soy sauce."
+}

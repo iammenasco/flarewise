@@ -1,0 +1,41 @@
+{
+  "id": "mickeys-smokestack-st-louis-pork-ribs",
+  "name": "Mickey's Smokestack BBQ St. Louis Pork Ribs",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Treasure · Mickey's Smokestack Barbecue",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "bbq",
+    "disney-cruise",
+    "disney-treasure",
+    "mickeys-smokestack"
+  ],
+  "searchKeywords": [
+    "st louis pork ribs",
+    "mickeys smokestack bbq",
+    "disney treasure pool deck"
+  ],
+  "whyItWorks": "Slow-smoked until tender, but St. Louis spare ribs carry high rendered pork fat and a black-pepper/paprika dry rub plus sugary tomato BBQ glaze.",
+  "prepOrOrderInstructions": "In remission, eat 1–2 lean center ribs with excess BBQ glaze wiped off; during a flare, choose the Smoked Chicken Breast at the same counter instead.",
+  "watchOuts": [
+    "High rendered pork rib fat",
+    "Coarse black pepper/chili bark and HFCS/garlic in BBQ sauce"
+  ]
+}

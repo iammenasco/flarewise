@@ -1,0 +1,44 @@
+{
+  "id": "animators-tomato-tarte-goat-cheese",
+  "name": "Roma Tomato Tarte with Glazed Goat Cheese & Radish Salad",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "tomato",
+    "cheese",
+    "bakery",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "tomato tarte",
+    "glazed goat cheese",
+    "animators palate",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Flaky puff pastry and creamy goat cheese are gentle, though roasted Roma tomato skins and raw radish garnish require remission tolerance.",
+  "prepOrOrderInstructions": "Eat the puff pastry and goat cheese center, peel away tough tomato skin edges, and leave the raw radish salad untouched.",
+  "watchOuts": [
+    "Tomato skins and acidity",
+    "Raw peppery radish slices"
+  ]
+}

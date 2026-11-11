@@ -1,0 +1,41 @@
+{
+  "id": "rapunzels-portobello-triangoli",
+  "name": "Portobello Mushroom Triangoli Pasta with Cream Sauce (Night 2)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "mushroom",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "portobello triangoli",
+    "snuggly duckling pasta",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Soft triangle ravioli filled with pureed portobello and ricotta; gentle mechanically, though high in mushroom mannitol.",
+  "prepOrOrderInstructions": "Enjoy in remission with a Lactaid enzyme, or request plain pasta with butter and Parmesan during a flare.",
+  "watchOuts": [
+    "Portobello mushroom mannitol FODMAPs",
+    "Heavy cream sauce"
+  ]
+}

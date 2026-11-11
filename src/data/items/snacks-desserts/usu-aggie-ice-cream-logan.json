@@ -1,0 +1,40 @@
+{
+  "id": "usu-aggie-ice-cream-logan",
+  "name": "USU Aggie Ice Cream (Aggie Blue Mint / Vanilla Bean — Lactase Required)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "USU Aggie Ice Cream (Logan / Utah State University, UT)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "sweet",
+    "dessert",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "aggie ice cream logan",
+    "aggie blue mint",
+    "utah state university ice cream",
+    "true aggie night"
+  ],
+  "whyItWorks": "Iconic Utah State University creamery ice cream; smooth, nut-free, seedless flavors like Vanilla Bean, Cookies & Cream, or Aggie Blue Mint (white chocolate & cookies, no nuts) have zero insoluble fiber when paired with lactase enzymes in remission.",
+  "prepOrOrderInstructions": "Order a single kiddie/small scoop of Vanilla Bean or Aggie Blue Mint in a cup, and take 2 lactase enzyme tablets before the first bite.",
+  "watchOuts": [
+    "Extra-rich 16% butterfat dairy cream—strictly requires lactase enzymes and remission status; avoid Aggie Bull Tracks or Raspberry flavors with nuts/seeds"
+  ]
+}

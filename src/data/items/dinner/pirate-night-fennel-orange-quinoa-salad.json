@@ -1,0 +1,41 @@
+{
+  "id": "pirate-night-fennel-orange-quinoa-salad",
+  "name": "Shaved Fennel, Orange Segment & Quinoa Salad (Pirate Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "greens",
+    "vegan",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "fennel orange quinoa salad",
+    "pirate night salad",
+    "disney cruise"
+  ],
+  "whyItWorks": "Hard avoid: contains fresh orange segments and citrus dressing (strict citrus guardrail) plus raw shaved fennel and grainy quinoa.",
+  "prepOrOrderInstructions": "Skip this salad completely and order the warm Carrot & Cilantro Soup instead.",
+  "watchOuts": [
+    "Fresh orange segments and citrus dressing (strict avoid)",
+    "Raw shaved fennel and quinoa fiber"
+  ]
+}

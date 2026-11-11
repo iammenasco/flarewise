@@ -1,0 +1,39 @@
+{
+  "id": "holiday-southern-pecan-pie-warning",
+  "name": "Traditional Holiday Southern Pecan Pie (Whole Nut Stricture Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 4.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "pecans",
+    "nuts",
+    "pie",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "pecan pie thanksgiving",
+    "holiday pecan pie",
+    "southern pecan pie slice"
+  ],
+  "whyItWorks": "Layered with dozens of crunchy, whole toasted pecan halves bound in concentrated corn syrup and brown sugar. Pecan halves do not break down smoothly and present a dangerous stricture blockage risk.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares or stricturing Crohn's. Choose smooth pumpkin pie instead.",
+  "watchOuts": [
+    "Dense whole pecan nuts pose serious mechanical obstruction risks"
+  ]
+}

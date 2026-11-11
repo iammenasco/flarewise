@@ -1,0 +1,41 @@
+{
+  "id": "jumbeauxs-sweets-paw-shortbread-rice-crispy",
+  "name": "Jumbeaux's Sweets Pawpsicle Shortbread Cookie & Character Rice Crispy Treats",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Jumbeaux's Sweets",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "jumbeauxs-sweets"
+  ],
+  "searchKeywords": [
+    "paw shortbread",
+    "rice crispy treat",
+    "jumbeauxs sweets",
+    "disney treasure"
+  ],
+  "whyItWorks": "Puffed white rice marshmallow treats and refined butter shortbread cookies have almost zero fiber and no citrus or nuts.",
+  "prepOrOrderInstructions": "Pick a plain/chocolate-dipped Character Rice Crispy Treat or butter shortbread cookie (avoid raspberry jam filling if seeded).",
+  "watchOuts": [
+    "Sugar load",
+    "Check shortbread sandwich filling for raspberry seeds"
+  ]
+}

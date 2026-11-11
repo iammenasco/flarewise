@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-little-red-wagon-corn-dog",
+  "name": "Disneyland Little Red Wagon Hand-Dipped Corn Dog & Applesauce/Chips",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Little Red Wagon & Stage Door Café (Main Street / Frontierland · Disneyland Park)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pork",
+    "fried",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "little red wagon corn dog",
+    "disneyland hand dipped corn dog",
+    "stage door cafe corn dog"
+  ],
+  "whyItWorks": "Uses finely milled cornmeal/wheat batter with zero whole corn kernels around an all-beef/pork frankfurter; blot the outer fried batter or peel half off if sensitive to fryer oil.",
+  "prepOrOrderInstructions": "Order with a small bag of chips or applesauce (if choosing sliced apples, peel or skip the tough red apple skins) and blot excess fryer oil with a napkin.",
+  "watchOuts": [
+    "Deep-fried batter is high in oil and sodium—save for steady days or peel away part of the thick batter"
+  ]
+}

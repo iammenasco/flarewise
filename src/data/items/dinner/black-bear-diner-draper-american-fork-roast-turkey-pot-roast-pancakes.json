@@ -1,0 +1,41 @@
+{
+  "id": "black-bear-diner-draper-american-fork-roast-turkey-pot-roast-pancakes",
+  "name": "Black Bear Diner (Draper / American Fork) Slow-Cooked Pot Roast, Roasted Turkey Dinner or Sweet Cream Pancakes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Black Bear Diner (Draper / American Fork / Ogden, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "potato",
+    "eggs",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "black bear diner draper",
+    "towneplace suites draper breakfast dinner",
+    "black bear diner pot roast turkey"
+  ],
+  "whyItWorks": "Located right off I-15 in Draper near TownePlace Suites, Black Bear Diner serves homestyle Roasted Turkey Breast Dinner, fork-tender Old-Fashioned Pot Roast with mashed potatoes and cooked carrots, and \"Little Less\" smaller-portion Sweet Cream Pancakes & Scrambled Eggs all day.",
+  "prepOrOrderInstructions": "Order from the \"Little Less\" smaller-portion menu so you aren't overwhelmed by giant diner portions: choose Roasted Turkey or Pot Roast with mashed potatoes (gravy on the side) and a soft biscuit, or 2 Scrambled Eggs with 1 Sweet Cream Pancake.",
+  "watchOuts": [
+    "Standard Black Bear portions are massive—order from the smaller \"Grizzly/Cub/Little Less\" section and ask for gravy on the side"
+  ]
+}

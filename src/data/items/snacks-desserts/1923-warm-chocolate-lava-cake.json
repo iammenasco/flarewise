@@ -1,0 +1,43 @@
+{
+  "id": "1923-warm-chocolate-lava-cake",
+  "name": "1923 Warm Molten Chocolate Lava Cake with Vanilla Ice Cream (Night 1 / Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "bakery",
+    "ice-cream",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "warm chocolate lava cake",
+    "1923 chocolate cake",
+    "captains gala lava cake",
+    "disney treasure"
+  ],
+  "whyItWorks": "Warm baked chocolate cake with a molten fudge center—completely smooth, nut-free, and citrus-free.",
+  "prepOrOrderInstructions": "Enjoy warm with a Lactaid enzyme; share if rich chocolate butter slows gastric emptying.",
+  "watchOuts": [
+    "High cocoa butter and dairy richness"
+  ]
+}

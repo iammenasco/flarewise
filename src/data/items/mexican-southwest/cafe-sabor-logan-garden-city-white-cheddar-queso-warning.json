@@ -1,0 +1,44 @@
+{
+  "id": "cafe-sabor-logan-garden-city-white-cheddar-queso-warning",
+  "name": "Café Sabor (Logan & Garden City, UT) White Cheddar Hatch Chile Queso (Spicy Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 5.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "cheese",
+    "queso",
+    "spicy",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "cafe sabor queso dip",
+    "hatch chile queso bear lake",
+    "white cheddar queso logan"
+  ],
+  "whyItWorks": "Blend of melted white cheddar with diced Hatch green chiles, poblano, and jalapeño peppers. The spicy pepper heat and heavy dairy fat trigger rapid cramping.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares. Dip lightly in remission with soft flour tortilla strips.",
+  "watchOuts": [
+    "Hatch and jalapeño peppers cause intestinal burning",
+    "Heavy melted cheese can trigger lactose intolerance"
+  ]
+}

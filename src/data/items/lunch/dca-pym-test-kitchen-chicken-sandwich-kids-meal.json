@@ -1,0 +1,40 @@
+{
+  "id": "dca-pym-test-kitchen-chicken-sandwich-kids-meal",
+  "name": "DCA Pym Test Kitchen Kids' Sub-Atomic Turkey Sandwich or Plain Pasta vs. \"Not So Little Chicken\"",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Pym Test Kitchen (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "chicken",
+    "pasta",
+    "sandwich",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "not so little chicken sandwich dca",
+    "pym test kitchen kids meal",
+    "avengers campus safe food"
+  ],
+  "whyItWorks": "While the viral \"Not So Little Chicken Sandwich\" has a giant deep-fried breaded cutlet and pickled cabbage slaw, Pym's Kids' menu offers a clean Sub-Atomic Turkey Sandwich on soft bread or plain butter/parmesan pasta.",
+  "prepOrOrderInstructions": "On sensitive days, order the Kids' Sub-Atomic Turkey Sandwich or Pasta (sauce on the side); if ordering the Not So Little Chicken Sandwich in remission, ask for no slaw/pickles and peel off excess fried breading.",
+  "watchOuts": [
+    "Do NOT eat the cutaneous Mandarin Orange pack included with Kids' Meals (citrus trigger)—swap for applesauce or potato bites"
+  ]
+}

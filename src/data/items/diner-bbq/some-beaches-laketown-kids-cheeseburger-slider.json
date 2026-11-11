@@ -1,0 +1,41 @@
+{
+  "id": "some-beaches-laketown-kids-cheeseburger-slider",
+  "name": "Some Beaches (Laketown, UT) Kids Hand-Smashed Cheeseburger Slider",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "beef",
+    "burger",
+    "portion-control"
+  ],
+  "searchKeywords": [
+    "some beaches kids cheeseburger",
+    "slider burger bear lake",
+    "laketown kids meal"
+  ],
+  "whyItWorks": "Single smash patty slider with mild cheddar on a soft white bun. Small controlled portion prevents bloating.",
+  "prepOrOrderInstructions": "Order the Kids Cheeseburger plain on a soft bun with ketchup only.",
+  "watchOuts": [
+    "None; gentle portion size"
+  ]
+}

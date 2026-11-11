@@ -1,0 +1,42 @@
+{
+  "id": "jcws-burger-boys-utah-turkey-swiss-burger",
+  "name": "JCW's (The Burger Boys) Grilled Turkey Bacon Swiss Sandwich or Plain Charbroiled Burger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "JCW's The Burger Boys (Orem / Lehi / South Jordan, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "burger",
+    "sandwich",
+    "cheese",
+    "utah"
+  ],
+  "searchKeywords": [
+    "jcws burger boys",
+    "jcws orem",
+    "jcws south jordan",
+    "turkey bacon swiss jcws"
+  ],
+  "whyItWorks": "A popular lunch spot near both BambooHR (Orem/Lehi) and South Jordan; ordering the Grilled Turkey Breast & Swiss Sandwich on sourdough or a plain single Cheeseburger keeps fat and spice manageable.",
+  "prepOrOrderInstructions": "Order the Grilled Turkey Bacon Swiss (no tomato or lettuce) or a plain single Hamburger/Cheeseburger with aged cheddar or Swiss—ask for JCW's special fry sauce on the side.",
+  "watchOuts": [
+    "JCW's famous shakes are huge and extremely high in lactose/sugar—skip shakes during flares or share a mini cup with lactase"
+  ]
+}

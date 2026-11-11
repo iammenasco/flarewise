@@ -1,0 +1,40 @@
+{
+  "id": "worlds-of-marvel-lamb-shawarma",
+  "name": "Avengers Warm Lamb Shawarma Salad with Pita & Tzatziki (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "bread",
+    "yogurt",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "lamb shawarma",
+    "avengers shawarma",
+    "worlds of marvel",
+    "disney treasure"
+  ],
+  "whyItWorks": "A nod to the Avengers post-credits scene: warm shaved spiced lamb and soft pita bread are filling if separated from the raw vegetable salad.",
+  "prepOrOrderInstructions": "Eat the shaved lamb and warm pita bread with a dab of yogurt tzatziki, leaving all raw lettuce, tomatoes, red onions, and pickles on the plate.",
+  "watchOuts": [
+    "Rendered lamb fat and warm shawarma spices",
+    "Raw red onion, tomato, and lettuce bed"
+  ]
+}

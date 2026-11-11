@@ -1,0 +1,39 @@
+{
+  "id": "sweet-lake-biscuits-basic-b-citrus-warning",
+  "name": "Sweet Lake Biscuits & Limeade \"The Basic B\" Egg, Cheddar & Bacon Biscuit (Skip the Limeade!)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Sweet Lake Biscuits & Limeade (Salt Lake City / Riverton / Draper Area, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "cheese",
+    "sandwich",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sweet lake biscuits and limeade",
+    "the basic b biscuit",
+    "hoss biscuit utah brunch"
+  ],
+  "whyItWorks": "\"The Basic B\" layers fluffy scrambled eggs, melted cheddar & Swiss cheese, and bacon on a tender scratch-made buttermilk biscuit—a solid savory brunch as long as you do NOT order their signature fresh-squeezed limeade.",
+  "prepOrOrderInstructions": "Order \"The Basic B\" Biscuit Sandwich (egg, cheddar, Swiss, bacon) or plain Biscuit & Honey Butter with scrambled eggs—drink water or herbal tea and strictly avoid all Mint/Raspberry/Classic Limeades (citrus trigger).",
+  "watchOuts": [
+    "CRITICAL CITRUS WARNING: Never order Sweet Lake's signature fresh-squeezed Limeades (pure lime juice trigger); also skip \"The Hoss\" fried chicken sausage gravy biscuit during flares"
+  ]
+}

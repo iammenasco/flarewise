@@ -1,0 +1,41 @@
+{
+  "id": "palo-brunch-italian-zabaglione",
+  "name": "Palo Brunch Traditional Italian Marsala Zabaglione with Biscotti",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "sweet",
+    "italian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "italian zabaglione",
+    "marsala custard",
+    "palo brunch dessert"
+  ],
+  "whyItWorks": "Warm whipped egg-yolk and sweet Marsala wine custard is cloud-light and zero-fiber; only the fresh berry base and almond biscotti carry roughage.",
+  "prepOrOrderInstructions": "Ask for the whipped Marsala Zabaglione custard served in a coupe glass without the seeded raspberries/blackberries, and skip the whole-almond biscotti.",
+  "watchOuts": [
+    "Seeded fresh berries at the bottom of the glass",
+    "Whole almonds inside traditional biscotti"
+  ]
+}

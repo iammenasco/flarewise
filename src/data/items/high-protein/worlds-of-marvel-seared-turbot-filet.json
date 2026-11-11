@@ -1,0 +1,41 @@
+{
+  "id": "worlds-of-marvel-seared-turbot-filet",
+  "name": "Pan-Seared Turbot Filet with Sweet Pea Purée & Fingerling Potatoes (Night 1)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "seared turbot filet",
+    "worlds of marvel fish",
+    "disney treasure"
+  ],
+  "whyItWorks": "Delicate, flaky white turbot fish and tender fingerling potatoes are low-fat, low-residue, and easy to digest.",
+  "prepOrOrderInstructions": "Ask for the turbot pan-seared in olive oil or butter (no lemon butter sauce) with extra fingerling or whipped Yukon potatoes, and skip the pea purée if GOS FODMAPs cause gas.",
+  "watchOuts": [
+    "Green pea purée (GOS FODMAPs in large amounts)",
+    "Verify no lemon squeeze on fish"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dca-lucky-fortune-teriyaki-chicken-rice",
+  "name": "Tender Teriyaki Chicken over Steamed White Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Lucky Fortune Cookery (Disney California Adventure)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "teriyaki-chicken",
+    "san-fransokyo"
+  ],
+  "searchKeywords": [
+    "lucky fortune cookery",
+    "dca",
+    "teriyaki chicken",
+    "white rice",
+    "san fransokyo"
+  ],
+  "whyItWorks": "Tender pieces of chicken tossed in mild sweet soy glaze over hot steamed white rice provide gentle fuel and quality protein without deep-fried batter or chili peppers.",
+  "prepOrOrderInstructions": "Ask for NO green onion garnish, no sesame seeds, and request the sauce served lightly or on the side."
+}

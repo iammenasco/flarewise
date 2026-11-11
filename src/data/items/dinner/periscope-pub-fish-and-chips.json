@@ -1,0 +1,43 @@
+{
+  "id": "periscope-pub-fish-and-chips",
+  "name": "Periscope Pub / Crown & Fin Beer-Battered Fish & Chips & Plant-Based Tenders",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Periscope Pub / Disney Wonder · Crown & Fin Pub / Disney Magic · O'Gills Pub",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "fish",
+    "potato",
+    "fried",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "periscope-pub"
+  ],
+  "searchKeywords": [
+    "periscope pub fish and chips",
+    "crown and fin",
+    "ogills pub",
+    "disney treasure"
+  ],
+  "whyItWorks": "Flaky white cod inside the batter and thick potato pub chips are low-fiber, though deep-fried batter requires remission stability.",
+  "prepOrOrderInstructions": "Cut open the crispy batter to eat the steamed flaky white fish inside with malt vinegar or salt (discard the lemon wedge).",
+  "watchOuts": [
+    "Deep-fried beer batter oil",
+    "Lemon wedge garnish (discard)"
+  ]
+}

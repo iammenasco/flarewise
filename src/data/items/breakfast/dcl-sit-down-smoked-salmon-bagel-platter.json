@@ -1,0 +1,46 @@
+{
+  "id": "dcl-sit-down-smoked-salmon-bagel-platter",
+  "name": "Sit-Down Breakfast Smoked Salmon (Lox), Toasted White Bagel & Cream Cheese",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "bagel",
+    "omega-3",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "smoked salmon bagel",
+    "lox and bagel",
+    "sit down breakfast",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Cold-smoked Atlantic salmon over a toasted plain white bagel provides anti-inflammatory omega-3s and zero-residue carbs.",
+  "prepOrOrderInstructions": "Use a light smear of cream cheese (with a Lactaid) or plain butter, and leave the raw red onion rings, capers, and lemon wedge untouched.",
+  "watchOuts": [
+    "Discard lemon wedge, raw red onions, and capers",
+    "Cream cheese lactose"
+  ]
+}

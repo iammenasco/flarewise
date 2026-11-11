@@ -1,0 +1,38 @@
+{
+  "id": "knotts-ghost-town-grill-cheddar-burger",
+  "name": "Knott's Ghost Town Grill Plain Cheddar Burger on Brioche or Sourdough Patty Melt (No Grilled Onions)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Ghost Town Grill (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "sourdough",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "ghost town grill burger",
+    "patty melt ghost town grill knotts"
+  ],
+  "whyItWorks": "Cooked to order in a sit-down kitchen rather than kept under a heat lamp: a plain Cheddar Burger or Sourdough Patty Melt (ordered without grilled onions or thousand island) with fries.",
+  "prepOrOrderInstructions": "Order the Burger with aged cheddar only (or Patty Melt on sourdough with Swiss/cheddar and NO grilled onions).",
+  "watchOuts": [
+    "Always request no grilled/raw onions on the Patty Melt"
+  ]
+}

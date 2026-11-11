@@ -1,0 +1,40 @@
+{
+  "id": "holiday-creamy-mashed-idaho-potatoes",
+  "name": "Holiday Fluffy Mashed Idaho Russet Potatoes with Melted Butter & Sea Salt",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "potatoes",
+    "mashed-potatoes",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "holiday mashed potatoes",
+    "thanksgiving mashed potatoes",
+    "creamy idaho potatoes"
+  ],
+  "whyItWorks": "Peeled Idaho russet potatoes boiled until fork-tender and whipped smooth with melted butter, light milk, and sea salt. Zero skins, zero roughage, and high in potassium.",
+  "prepOrOrderInstructions": "Enjoy warm whipped mashed potatoes; top with clear turkey broth or light gravy.",
+  "watchOuts": [
+    "Ensure potatoes are peeled with zero skins remaining"
+  ]
+}

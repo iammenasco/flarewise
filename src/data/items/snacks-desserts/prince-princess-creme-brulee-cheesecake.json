@@ -1,0 +1,39 @@
+{
+  "id": "prince-princess-creme-brulee-cheesecake",
+  "name": "Royal Vanilla Bean Crème Brûlée Cheesecake (Prince & Princess Menu)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Prince & Princess Dinner Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "egg",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "royal creme brulee cheesecake",
+    "prince and princess dessert",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Hybrid of silky vanilla bean crème brûlée and New York cheesecake with zero nuts, seeds, or citrus.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets and leave any fresh raspberry garnish on the plate.",
+  "watchOuts": [
+    "Cream cheese and heavy cream lactose"
+  ]
+}

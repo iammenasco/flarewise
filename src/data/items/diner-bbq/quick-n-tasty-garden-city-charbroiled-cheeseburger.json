@@ -1,0 +1,41 @@
+{
+  "id": "quick-n-tasty-garden-city-charbroiled-cheeseburger",
+  "name": "Quick N Tasty (Garden City, UT) Charbroiled Plain Cheeseburger & Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Quick N Tasty (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "beef",
+    "burger"
+  ],
+  "searchKeywords": [
+    "quick n tasty bear lake",
+    "quick n tasty cheeseburger",
+    "garden city drive in"
+  ],
+  "whyItWorks": "Classic Bear Lake roadside drive-in. High-heat charbroiled beef patty on a soft toasted bun with American cheese and ketchup. Easy to tolerate in remission when ordered plain.",
+  "prepOrOrderInstructions": "Order the Cheeseburger plain with ketchup only (hold onions, pickles, and lettuce).",
+  "watchOuts": [
+    "Hold raw onions and pickles"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "knotts-ghost-town-grill-smoked-tri-tip-sliders",
+  "name": "Knott's Ghost Town Grill Applewood-Smoked Tri-Tip Sliders on Brioche Rolls (Sauce on Side Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Ghost Town Grill (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "ghost town grill tri tip sliders",
+    "knotts sliders"
+  ],
+  "whyItWorks": "Tender thin-sliced smoked tri-tip sirloin on soft mini brioche buns gives you a smaller, easy-to-digest portion of steak and bread.",
+  "prepOrOrderInstructions": "Order the Tri-Tip Sliders with boysenberry BBQ sauce on the side and no crispy fried onion strings.",
+  "watchOuts": [
+    "Ask for no fried onion strings on top"
+  ]
+}

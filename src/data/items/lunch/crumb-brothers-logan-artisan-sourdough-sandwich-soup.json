@@ -1,0 +1,43 @@
+{
+  "id": "crumb-brothers-logan-artisan-sourdough-sandwich-soup",
+  "name": "Crumb Brothers Bakery (Logan) Long-Fermented Sourdough Loaf, Turkey Sandwich & Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Crumb Brothers Artisan Bread & Cafe (Logan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sourdough",
+    "bread",
+    "turkey",
+    "sandwich",
+    "soup",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "crumb brothers logan",
+    "logan sourdough bread",
+    "crumb brothers cafe",
+    "cache valley bakery"
+  ],
+  "whyItWorks": "Crumb Brothers is famous across Utah for true slow-fermented artisan country white sourdough, where wild yeast fermentation pre-digests gluten and fructans for effortless Crohn's digestion.",
+  "prepOrOrderInstructions": "Pick up a sliced Country White Sourdough loaf or butter croissants for home/cabin toast, or order a hot Turkey & Cheese sandwich on white sourdough (skip seeded multi-grain loaves).",
+  "watchOuts": [
+    "Choose unseeded Country White Sourdough or French Baguette over seeded whole-grain loaves"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "zipz-bear-lake-all-beef-corn-dog-basket",
+  "name": "Zipz (Garden City, UT) Golden Honey-Battered All-Beef Corn Dog",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Zipz Bear Lake (Garden City, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "corn-dog",
+    "beef"
+  ],
+  "searchKeywords": [
+    "zipz corn dog",
+    "bear lake corn dog",
+    "garden city corn dog basket"
+  ],
+  "whyItWorks": "Finely ground cornmeal batter is soft and completely smooth (zero corn kernels or rough hulls). Digestible and filling on a lake day.",
+  "prepOrOrderInstructions": "Order the All-Beef Corn Dog with yellow mustard or ketchup for dipping.",
+  "watchOuts": [
+    "Cured all-beef frankfurter has sodium, but contains no roughage or irritating fiber"
+  ]
+}

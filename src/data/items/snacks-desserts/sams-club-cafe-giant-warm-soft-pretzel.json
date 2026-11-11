@@ -1,0 +1,43 @@
+{
+  "id": "sams-club-cafe-giant-warm-soft-pretzel",
+  "name": "Sam's Club Café $1.00 Giant Warm Salted or Cinnamon-Sugar Soft Pretzel",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sam's Club Café (Logan, South Jordan & Nationwide)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "bread",
+    "cinnamon",
+    "sweet",
+    "savory",
+    "sams-club",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sams club pretzel",
+    "sams club cinnamon sugar pretzel",
+    "sams club cafe menu",
+    "logan sams club"
+  ],
+  "whyItWorks": "Baked-to-order refined white-flour soft pretzel for $1.00—low-fat, zero seeds, and super gentle on the stomach while shopping.",
+  "prepOrOrderInstructions": "Order the plain Salted Soft Pretzel (brush off excess coarse salt crystals if sensitive) or the Cinnamon-Sugar Pretzel via Scan & Go.",
+  "watchOuts": [
+    "Skip the pepperoni Pizza Pretzel during flares due to greasy pepperoni and heavy cheese"
+  ]
+}

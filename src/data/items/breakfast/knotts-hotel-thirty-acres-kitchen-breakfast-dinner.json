@@ -1,0 +1,42 @@
+{
+  "id": "knotts-hotel-thirty-acres-kitchen-breakfast-dinner",
+  "name": "Knott's Hotel Thirty Acres Kitchen Scrambled Eggs, Sourdough Toast, Roasted Chicken & Salmon",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thirty Acres Kitchen at Knott's Hotel (Buena Park · Knott's Berry Farm)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "chicken",
+    "salmon",
+    "sourdough",
+    "potato",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "thirty acres kitchen knotts hotel",
+    "knotts berry farm hotel breakfast",
+    "buena park knotts hotel dining"
+  ],
+  "whyItWorks": "Right at the Knott's Hotel steps from the park entrance, Thirty Acres Kitchen serves a calm sit-down breakfast (eggs any style, bacon, sourdough toast, oatmeal, pancakes) and dinner (herb-roasted chicken, salmon, mashed potatoes).",
+  "prepOrOrderInstructions": "Start your park day here with two scrambled eggs, bacon/turkey sausage, and sourdough toast or buttermilk pancakes before entering the park.",
+  "watchOuts": [
+    "Ask for noboysenberry seeded compote on pancakes/waffles"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "dca-boudin-sourdough-fresh-bread-loaf",
+  "name": "Freshly Baked San Francisco Sourdough Bread Loaf (Sliced)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Boudin Bakery / San Fransokyo Square (DCA)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "sourdough",
+    "boudin",
+    "bread"
+  ],
+  "searchKeywords": [
+    "boudin bakery",
+    "dca",
+    "sourdough bread",
+    "san fransokyo square",
+    "mickey bread"
+  ],
+  "whyItWorks": "Authentic long-fermented sourdough made with flour, water, salt, and wild yeast culture. The fermentation process partially breaks down wheat proteins and starches, making it easier to tolerate than non-fermented commercial breads.",
+  "prepOrOrderInstructions": "Pick up a fresh loaf or bread slices. Enjoy plain or with a light smear of butter. Discard any overly hard crust pieces."
+}

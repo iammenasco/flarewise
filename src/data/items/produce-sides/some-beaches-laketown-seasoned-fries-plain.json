@@ -1,0 +1,40 @@
+{
+  "id": "some-beaches-laketown-seasoned-fries-plain",
+  "name": "Some Beaches (Laketown, UT) Crispy Skin-On Seasoned Fries (Plain Ketchup)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "potatoes",
+    "fries"
+  ],
+  "searchKeywords": [
+    "some beaches fries",
+    "laketown french fries",
+    "bear lake seasoned fries"
+  ],
+  "whyItWorks": "Crispy skin-on russet potato fries. Salted and crunchy outside with soft interior potato starch that absorbs easily in remission.",
+  "prepOrOrderInstructions": "Order the Seasoned Fries plain with ketchup (skip the loaded Rendezvous cheese/pork topping during sensitive phases).",
+  "watchOuts": [
+    "Frying oil can be rich during active digestive flareups"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1923-roasted-roma-tomato-soup",
+  "name": "Creamy Roasted Roma Tomato Soup with Sourdough Crouton (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "tomato",
+    "bread",
+    "vegetarian",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "roasted roma tomato soup",
+    "1923 soup",
+    "disney treasure"
+  ],
+  "whyItWorks": "Strained smooth with zero tomato seeds or skins, though tomato acidity and garlic require remission stability.",
+  "prepOrOrderInstructions": "Pair with a Lactaid enzyme and dip the sourdough crouton; skip if you have active gastric/duodenal irritation.",
+  "watchOuts": [
+    "Tomato acidity",
+    "Cream and garlic in soup base"
+  ]
+}

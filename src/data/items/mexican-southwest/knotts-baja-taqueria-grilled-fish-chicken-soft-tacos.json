@@ -1,0 +1,37 @@
+{
+  "id": "knotts-baja-taqueria-grilled-fish-chicken-soft-tacos",
+  "name": "Knott's Baja Taqueria (Fiesta Village) Grilled Fish or Chicken Soft Tacos (No Cabbage Slaw / No Crema Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Baja Taqueria (Fiesta Village · Knott's Berry Farm)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "chicken",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "baja taqueria knotts",
+    "fiesta village fish tacos knotts"
+  ],
+  "whyItWorks": "In Fiesta Village, Baja Taqueria serves grilled fish or grilled chicken tacos that are light and digestible when you hold the raw shredded cabbage, pico de gallo, and lime crema.",
+  "prepOrOrderInstructions": "Order the **Grilled** Fish or Chicken Tacos (not beer-battered fried) with **no cabbage slaw, no pico de gallo, no spicy crema, and no lime squeeze**.",
+  "watchOuts": [
+    "Discard the lime wedge (citrus trigger) and skip the salsa bar"
+  ]
+}

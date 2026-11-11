@@ -35,6 +35,7 @@ export function CatalogPage() {
 
   const [pickerOpen, setPickerOpen] = useState(false)
   const [filtersOpen, setFiltersOpen] = useState(false)
+  const [visibleCount, setVisibleCount] = useState(40)
   const [picks, setPicks] = useState(() => pickForMe(filtered))
   const [buildInfo, setBuildInfo] = useState<{ builtAt?: string } | null>(null)
   const { online, justReconnected, dismissReconnect } = useJustReconnected()
@@ -48,6 +49,17 @@ export function CatalogPage() {
 
   const selected = selectedId ? (foodById.get(selectedId) ?? null) : null
   const feeling = feelingFromMinScore(prefs.minScore)
+
+  const [prevFilterKey, setPrevFilterKey] = useState('')
+  const filterKey = `${filters.q}:${filters.tag}:${filters.mode}:${filters.meal}:${filters.region}:${filters.cost}:${prefs.minScore}:${prefs.guardrails.showDangerZone}:${prefs.guardrails.cruiseMode}`
+  if (prevFilterKey !== filterKey) {
+    setPrevFilterKey(filterKey)
+    setVisibleCount(40)
+  }
+
+  const visibleFoods = useMemo(() => {
+    return filtered.slice(0, visibleCount)
+  }, [filtered, visibleCount])
 
   useEffect(() => {
     void fetch(`${import.meta.env.BASE_URL}build-info.json`)
@@ -255,7 +267,7 @@ export function CatalogPage() {
             />
           ) : null}
 
-          {filtered.map((item) => (
+          {visibleFoods.map((item) => (
             <FoodCard
               key={item.id}
               item={item}
@@ -268,6 +280,18 @@ export function CatalogPage() {
               onToggleCart={() => toggleGrocery(item.id)}
             />
           ))}
+
+          {filtered.length > visibleCount ? (
+            <div className="pt-2 pb-4 text-center">
+              <button
+                type="button"
+                onClick={() => setVisibleCount((c) => c + 40)}
+                className="btn btn-ghost !min-h-10 !px-4 !text-xs font-semibold text-[var(--brand)]"
+              >
+                Show more foods ({filtered.length - visibleCount} remaining)
+              </button>
+            </div>
+          ) : null}
 
           {!filtered.length ? (
             <div className="panel rounded-2xl p-6 text-center text-sm text-[var(--brand-ink)]/65">

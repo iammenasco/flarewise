@@ -1,0 +1,47 @@
+{
+  "id": "cabanas-marceline-bakery-croissants-bagels",
+  "name": "Buffet Bakery Station: Plain Croissants, White Bagels, Muffins & Donuts",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "bagel",
+    "bakery",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "cabanas bakery",
+    "marceline market bakery",
+    "white bagel",
+    "croissant",
+    "disney cruise breakfast"
+  ],
+  "whyItWorks": "Toasted plain white bagels, flaky butter croissants, and banana/blueberry muffins provide low-residue carbohydrates.",
+  "prepOrOrderInstructions": "Stick to plain white bagels (skip everything-bagel seeds), butter croissants, or plain glazed donuts; avoid bran muffins and seeded multigrain toast.",
+  "watchOuts": [
+    "Poppy/sesame seeds on Everything bagels",
+    "Cream cheese lactose (use butter, peanut butter, or Lactaid)"
+  ]
+}

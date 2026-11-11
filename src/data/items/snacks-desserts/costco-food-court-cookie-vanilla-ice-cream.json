@@ -1,0 +1,40 @@
+{
+  "id": "costco-food-court-cookie-vanilla-ice-cream",
+  "name": "Costco Food Court Vanilla Ice Cream Cup or Warm Double Chocolate Chunk Cookie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Costco Wholesale Food Court (Logan / Lehi / South Jordan / Sandy, UT)",
+  "crohnsScore": 6.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "chocolate",
+    "sweet",
+    "dessert",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco food court cookie",
+    "costco vanilla ice cream cup",
+    "costco sundae"
+  ],
+  "whyItWorks": "Both the plain Vanilla Soft-Serve Ice Cream and the all-butter Double Chocolate Chunk Cookie are 100% nut-free and seed-free, but the massive portion size, butterfat, and sugar load require splitting a portion in remission.",
+  "prepOrOrderInstructions": "Order the plain Vanilla Ice Cream Cup (skip the seeded strawberry sundae topping) or split a warm Chocolate Chunk Cookie into quarters, taking lactase enzymes beforehand.",
+  "watchOuts": [
+    "Very high sugar and dairy butterfat per full serving—never eat a whole food-court cup or cookie during a flare"
+  ]
+}

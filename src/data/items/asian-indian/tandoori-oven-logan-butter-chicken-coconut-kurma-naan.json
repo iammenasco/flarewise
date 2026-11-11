@@ -1,0 +1,44 @@
+{
+  "id": "tandoori-oven-logan-butter-chicken-coconut-kurma-naan",
+  "name": "Tandoori Oven (Logan) Mild Butter Chicken or Chicken Coconut Kurma with Plain Naan",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "curry",
+    "rice",
+    "bread",
+    "smooth",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "tandoori oven logan",
+    "butter chicken logan",
+    "chicken coconut kurma",
+    "logan indian food"
+  ],
+  "whyItWorks": "Logan's top Indian kitchen: their Chicken Coconut Kurma and Murgh Makhani (Butter Chicken) use velvety, completely smooth puréed sauces with anti-inflammatory turmeric and ginger over basmati rice and clay-baked white naan.",
+  "prepOrOrderInstructions": "Order Mild (Spice Level 1 / Zero Heat) Chicken Coconut Kurma (dairy-free coconut base) or Butter Chicken (with a Lactaid) with steamed basmati rice and Plain Naan (not garlic naan).",
+  "watchOuts": [
+    "Always specify \"Mild / Zero Chili Heat\"",
+    "Order Plain Naan instead of raw-garlic-topped Garlic Naan"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-refreshment-corner-all-beef-footlong-dog",
+  "name": "Disneyland Refreshment Corner All-Beef Footlong Hot Dog on Steamed Bun",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Refreshment Corner (Disneyland Park)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "hot-dog",
+    "beef",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "refreshment corner hot dog",
+    "coke corner footlong",
+    "disneyland footlong dog"
+  ],
+  "whyItWorks": "All-beef footlong hot dog on a soft steamed white bun. Ultra-low fiber, zero roughage, and highly filling during park tours.",
+  "prepOrOrderInstructions": "Order the Footlong Hot Dog plain or with yellow mustard only (avoid the chili mac & cheese topping).",
+  "watchOuts": [
+    "Avoid the hearty chili mac & cheese topping"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-maximus-salad",
+  "name": "Maximus Salad with Gouda Cheese, Apple, Walnuts & Crispy Bacon (Lantern Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salad",
+    "cheese",
+    "nuts",
+    "greens",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "maximus salad",
+    "rapunzels royal table salad",
+    "disney magic"
+  ],
+  "whyItWorks": "While aged Gouda is naturally lactose-safe, raw apple skins, whole walnuts, and raw greens make this mechanically rough.",
+  "prepOrOrderInstructions": "Pick out the aged Gouda cheese cubes only or skip in favor of the Potato Cream Soup.",
+  "watchOuts": [
+    "Whole walnuts and raw apple peels",
+    "Raw salad greens and bacon fat"
+  ]
+}

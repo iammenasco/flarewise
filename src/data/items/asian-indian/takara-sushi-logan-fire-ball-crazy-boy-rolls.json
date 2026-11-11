@@ -1,0 +1,43 @@
+{
+  "id": "takara-sushi-logan-fire-ball-crazy-boy-rolls",
+  "name": "Takara Sushi (Logan) Baked \"Fire Ball\" Roll, \"Crazy Boy\" Roll & Spicy \"Baja\" Roll",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sushi",
+    "crab",
+    "shrimp",
+    "rice",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "fire ball roll takara",
+    "crazy boy roll takara",
+    "baja california roll takara",
+    "logan sushi rolls"
+  ],
+  "whyItWorks": "The Baked Fire Ball Roll (California roll baked with crab and shrimp) is fully cooked and warm; safe on good days if you ask for eel sauce only and hold spicy mayo.",
+  "prepOrOrderInstructions": "Order the Fire Ball Roll baked with sweet eel sauce only (no spicy sriracha mayo), and strictly avoid the Baja California Roll (topped with raw jalapeño and spicy tuna).",
+  "watchOuts": [
+    "Strictly avoid the Baja California Roll (raw jalapeño & spicy tuna)",
+    "Deep-fried Crazy Boy Roll is high in fryer oil"
+  ]
+}

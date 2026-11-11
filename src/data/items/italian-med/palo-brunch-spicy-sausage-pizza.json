@@ -1,0 +1,44 @@
+{
+  "id": "palo-brunch-spicy-sausage-pizza",
+  "name": "Palo Brunch Spicy Italian Sausage & Goat Cheese Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "pork",
+    "cheese",
+    "spicy",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "spicy italian sausage pizza",
+    "goat cheese pizza",
+    "palo brunch pizza"
+  ],
+  "whyItWorks": "Thin baked pizza crust is low-fiber, but spicy Italian pork sausage (crushed red pepper + fennel seeds) and goat cheese fat can trigger flares.",
+  "prepOrOrderInstructions": "Skip the spicy sausage pizza during flares and order the plain Margherita or Prosciutto Burrata pizza instead.",
+  "watchOuts": [
+    "Crushed red pepper flakes and whole fennel seeds in sausage",
+    "Pork sausage grease and goat cheese dairy"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "james-roasted-pork-tenderloin",
+  "name": "James's Roasted Pork Tenderloin",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "tenderloin",
+    "polenta",
+    "rice-base",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "james roasted pork tenderloin",
+    "tianas place pork",
+    "disney wonder",
+    "white rice polenta"
+  ],
+  "whyItWorks": "Pork tenderloin is as lean and tender as chicken breast, and pairing it with smooth polenta or white rice keeps insoluble fiber near zero.",
+  "prepOrOrderInstructions": "Order with the smooth polenta or plain mashed potatoes/white rice, ask for the Cajun Andouille pork jus on the side, and skip any pickled onion or greens garnish.",
+  "watchOuts": [
+    "Spicy Andouille reduction sauce",
+    "Collard greens or fibrous vegetable sides"
+  ]
+}

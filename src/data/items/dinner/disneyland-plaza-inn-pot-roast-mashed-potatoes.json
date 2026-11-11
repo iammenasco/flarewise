@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-plaza-inn-pot-roast-mashed-potatoes",
+  "name": "Disneyland Plaza Inn Slow-Cooked Pot Roast, Mashed Potatoes & Buttermilk Biscuit",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Plaza Inn (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "potato",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "plaza inn pot roast",
+    "disneyland main street dinner",
+    "plaza inn mashed potatoes"
+  ],
+  "whyItWorks": "Slow-braised chuck roast is fork-tender with broken-down collagen fibers, served alongside creamy whipped potatoes and a warm buttermilk biscuit with zero deep-frying.",
+  "prepOrOrderInstructions": "At the Plaza Inn counter, ask for the Pot Roast with mashed potatoes and a buttermilk biscuit—ask for gravy on the side and swap the green beans for extra mashed potatoes or cooked carrots.",
+  "watchOuts": [
+    "Mashed potatoes and biscuit contain dairy—take a lactase enzyme before eating; skip the fried onion strings on top"
+  ]
+}

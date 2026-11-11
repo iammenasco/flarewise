@@ -1,0 +1,39 @@
+{
+  "id": "dca-adorable-snowman-chocolate-vanilla-soft-serve",
+  "name": "DCA Adorable Snowman Frosted Treats \"It's Vanilla!\" or \"It's Chocolate!\" Soft-Serve Cup (No Lemon!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Adorable Snowman Frosted Treats (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "chocolate",
+    "sweet",
+    "dessert",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "adorable snowman chocolate vanilla soft serve",
+    "pixar pier ice cream"
+  ],
+  "whyItWorks": "Smooth, seedless chocolate or vanilla dairy soft-serve in a cup with zero citrus and zero fiber when paired with a lactase enzyme.",
+  "prepOrOrderInstructions": "Order \"It's Vanilla!\", \"It's Chocolate!\", or \"It's Snow-Capped!\" (skip the lemon base!) in a cup and take a lactase tablet.",
+  "watchOuts": [
+    "Contains dairy lactose—take lactase before eating"
+  ]
+}

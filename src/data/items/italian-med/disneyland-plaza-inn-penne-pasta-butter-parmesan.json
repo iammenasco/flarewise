@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-plaza-inn-penne-pasta-butter-parmesan",
+  "name": "Disneyland Plaza Inn Penne Pasta with Plain Butter, Olive Oil & Parmesan (No Marinara Mod)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Plaza Inn (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "plaza inn pasta",
+    "disneyland plain pasta",
+    "main street kids pasta"
+  ],
+  "whyItWorks": "Refined semolina penne pasta served plain or with a touch of butter/olive oil and aged Parmesan cheese gives you a completely tomato-free, spice-free sit-down meal on Main Street.",
+  "prepOrOrderInstructions": "At the pasta station, ask for plain un-sauced penne pasta (available on both the adult and kids' station) topped only with grated Parmesan and a warm breadstick.",
+  "watchOuts": [
+    "Skip both the acidic marinara sauce and the heavy garlic pesto cream sauce during flares"
+  ]
+}

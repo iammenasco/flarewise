@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-tianas-palace-beef-po-boy-sandwich",
+  "name": "Disneyland Tiana's Palace Slow-Cooked Beef Po'Boy on New Orleans French Bread (Hold Pickles/Remoulade)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Tiana's Palace (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tianas palace beef po boy",
+    "disneyland po boy sandwich",
+    "new orleans square sandwich"
+  ],
+  "whyItWorks": "Slow-braised shredded beef tossed in savory beef gravy and melted cheddar on airy, soft New Orleans-style Leidenheimer French bread is very tender once you hold the tangy remoulade and pickles.",
+  "prepOrOrderInstructions": "Order the Beef Po'Boy with **NO remoulade**, **NO shredded lettuce**, and **NO pickles**, and swap the red beans & rice side for plain steamed white rice.",
+  "watchOuts": [
+    "Default sandwich includes tangy/spicy remoulade, lettuce, and pickles—must order plain"
+  ]
+}

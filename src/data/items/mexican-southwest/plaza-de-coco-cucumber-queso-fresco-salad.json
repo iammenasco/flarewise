@@ -1,0 +1,40 @@
+{
+  "id": "plaza-de-coco-cucumber-queso-fresco-salad",
+  "name": "Marinated Cucumber, Red Onion & Queso Fresco Salad (Night 1)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "cucumber queso fresco salad",
+    "plaza de coco",
+    "disney treasure"
+  ],
+  "whyItWorks": "Dressed in lime vinaigrette with raw red onions, cucumber seeds/skins, and unaged queso fresco.",
+  "prepOrOrderInstructions": "Skip this salad to avoid lime juice and raw red onions; choose Mamá Imelda's Chicken Tortilla Soup (strained) instead.",
+  "watchOuts": [
+    "Lime vinaigrette (strict citrus guardrail)",
+    "Raw red onion fructans and cucumber skins",
+    "Unaged queso fresco lactose"
+  ]
+}

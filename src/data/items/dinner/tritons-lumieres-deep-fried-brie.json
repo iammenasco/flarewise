@@ -1,0 +1,45 @@
+{
+  "id": "tritons-lumieres-deep-fried-brie",
+  "name": "Breaded and Deep-Fried Brie with Orange-Cranberry Chutney",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "cheese",
+    "fried",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "deep fried brie",
+    "orange cranberry chutney",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Triple trigger: deep-fried breading, molten high-fat Brie cheese, and orange-cranberry chutney containing citrus peel.",
+  "prepOrOrderInstructions": "Skip this appetizer completely to protect the strict citrus guardrail and avoid deep-fried dairy fat.",
+  "watchOuts": [
+    "Orange peel/citrus in chutney (strict avoid)",
+    "Deep-fried breading oil",
+    "High dairy fat"
+  ]
+}

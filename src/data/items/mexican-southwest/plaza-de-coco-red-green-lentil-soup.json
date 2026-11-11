@@ -1,0 +1,40 @@
+{
+  "id": "plaza-de-coco-red-green-lentil-soup",
+  "name": "Spiced Red & Green Lentil Soup (Night 1)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 5.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "beans",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "red and green lentil soup",
+    "plaza de coco soup",
+    "disney treasure"
+  ],
+  "whyItWorks": "Whole green lentils retain their insoluble outer seed coats and high GOS FODMAP load.",
+  "prepOrOrderInstructions": "Choose Mamá Imelda's Chicken Tortilla Soup (request broth + shredded chicken only) instead of the lentil soup.",
+  "watchOuts": [
+    "High insoluble lentil fiber and GOS FODMAPs",
+    "Cumin/onion spice base"
+  ]
+}

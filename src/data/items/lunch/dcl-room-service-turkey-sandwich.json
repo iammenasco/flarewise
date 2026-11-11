@@ -1,0 +1,45 @@
+{
+  "id": "dcl-room-service-turkey-sandwich",
+  "name": "24-Hour Room Service Roasted Turkey Breast Sandwich",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "sandwich",
+    "bread",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "room service turkey sandwich",
+    "roasted turkey sandwich",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Lean sliced roasted turkey breast on plain white or sourdough bread is ultra-low-fat, dairy-free, citrus-free, and easy to pack for port excursions.",
+  "prepOrOrderInstructions": "Ask for the Roasted Turkey Sandwich on plain white bread (no seeds), dry or with mayo on the side, and remove any raw lettuce or tomato slices.",
+  "watchOuts": [
+    "Verify bread is unseeded white/sourdough",
+    "Remove raw lettuce and tomato slices"
+  ]
+}

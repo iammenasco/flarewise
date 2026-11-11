@@ -1,0 +1,51 @@
+{
+  "id": "daisys-de-lites-turkey-panini-melon-bowl",
+  "name": "Daisy's De-Lites Deli Panini, Soup & Fresh Melon",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder & Magic · Daisy's De-Lites",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "snack",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sandwich",
+    "turkey",
+    "ham",
+    "cheese",
+    "fruit",
+    "soup",
+    "grab-and-go",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "daisys-de-lites"
+  ],
+  "searchKeywords": [
+    "daisys de lites",
+    "disney wonder",
+    "disney magic",
+    "panini",
+    "wraps",
+    "melon",
+    "cantaloupe",
+    "soup"
+  ],
+  "whyItWorks": "Daisy's De-Lites serves warm pressed deli paninis, rotating smooth soups, and freshly cut cantaloupe, honeydew, and watermelon (>90% hydrating water, ~0g insoluble fiber).",
+  "prepOrOrderInstructions": "Grab a bowl of ripe cantaloupe, honeydew, and banana slices, plus a turkey/ham and Swiss/cheddar panini or wrap (pull out any leafy greens or tomato slices). Skip the quinoa/raw kale grain bowls and seeded berries during flares.",
+  "watchOuts": [
+    "Quinoa, raw kale, and chickpea salad bowls",
+    "Pineapple acidity and berry seeds at the fruit bar"
+  ]
+}

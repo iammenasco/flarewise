@@ -1,0 +1,41 @@
+{
+  "id": "apollo-burger-orem-charbroiled-chicken-pita",
+  "name": "Apollo Burger (Orem & PG, UT) Charbroiled Lemon-Herb Chicken Breast on Warm Pita",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Apollo Burger (Utah Valley Locations)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "orem",
+    "chicken",
+    "pita",
+    "sandwich"
+  ],
+  "searchKeywords": [
+    "apollo burger orem",
+    "chicken souvlaki pita utah",
+    "apollo burger drive thru"
+  ],
+  "whyItWorks": "Tender flame-broiled chicken breast wrapped inside a thick, soft Greek pita bread with light tzatziki cucumber yogurt. Pure lean protein and soft bread.",
+  "prepOrOrderInstructions": "Order the Chicken Pita with light tzatziki (hold raw red onions and sliced tomatoes).",
+  "watchOuts": [
+    "Hold raw red onions"
+  ]
+}

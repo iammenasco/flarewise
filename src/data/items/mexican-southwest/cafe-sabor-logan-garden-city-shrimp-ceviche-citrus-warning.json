@@ -1,0 +1,45 @@
+{
+  "id": "cafe-sabor-logan-garden-city-shrimp-ceviche-citrus-warning",
+  "name": "Café Sabor (Logan & Garden City, UT) Shrimp Ceviche (Fresh Lime Citrus Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 5.3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "seafood",
+    "shrimp",
+    "citrus",
+    "raw-onion",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "cafe sabor shrimp ceviche",
+    "ceviche bear lake",
+    "lime shrimp ceviche"
+  ],
+  "whyItWorks": "Contains concentrated raw lime juice (citrus acid), raw jalapeño peppers, and raw red onion. High risk for heartburn, mucosal burning, and gas.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares and citrus intolerance. Opt for warm grilled shrimp fajitas or chicken tacos instead.",
+  "watchOuts": [
+    "Raw lime juice citrus acid burns inflamed mucosa",
+    "Raw jalapeño and red onion cause severe gas"
+  ]
+}

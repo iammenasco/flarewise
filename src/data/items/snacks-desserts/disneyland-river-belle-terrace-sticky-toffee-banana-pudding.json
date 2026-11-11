@@ -1,0 +1,36 @@
+{
+  "id": "disneyland-river-belle-terrace-sticky-toffee-banana-pudding",
+  "name": "Disneyland River Belle Terrace Banana Pudding or Sticky Toffee Pudding (Take Lactase)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "River Belle Terrace (Frontierland · Disneyland Park)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "sweet",
+    "dessert",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "river belle terrace pudding",
+    "frontierland dessert disneyland"
+  ],
+  "whyItWorks": "Soft vanilla wafers, ripe sliced bananas, and creamy pudding (or warm date-free sponge cake) have zero nuts or berry seeds.",
+  "prepOrOrderInstructions": "Share with the table after your meal and take a lactase enzyme tablet.",
+  "watchOuts": [
+    "High dairy cream and sugar—enjoy a modest portion with lactase"
+  ]
+}

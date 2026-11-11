@@ -1,0 +1,43 @@
+{
+  "id": "snuggly-duckling-charcuterie-platter",
+  "name": "Snuggly Duckling Charcuterie Platter",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "charcuterie",
+    "pork",
+    "sausage",
+    "cheese",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "snuggly duckling platter",
+    "rapunzels royal table",
+    "disney magic",
+    "german charcuterie"
+  ],
+  "whyItWorks": "Thinly sliced cured ham/prosciutto and aged cheeses offer low-carb protein, though dense pumpernickel bread and coarse sausages need careful selection.",
+  "prepOrOrderInstructions": "Stick to the thinly sliced prosciutto/ham and aged cheese paired with the table's soft white pretzel bread; skip the seeded pumpernickel, whole-grain mustard, and pickled garnish.",
+  "watchOuts": [
+    "Dense whole-grain pumpernickel bread",
+    "Whole mustard seeds",
+    "Coarse sausage casings"
+  ]
+}

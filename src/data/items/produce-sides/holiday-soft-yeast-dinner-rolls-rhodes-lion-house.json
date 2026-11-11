@@ -1,0 +1,47 @@
+{
+  "id": "holiday-soft-yeast-dinner-rolls-rhodes-lion-house",
+  "name": "Holiday Warm Lion House / Rhodes White Yeast Dinner Rolls with Honey Butter",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Lion House / Rhodes Bake-N-Serv / Thanksgiving & Christmas Table",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Rhodes Dinner Rolls or Lion House Rolls",
+    "Honey",
+    "Butter or Ghee"
+  ],
+  "tags": [
+    "bread",
+    "honey",
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "utah"
+  ],
+  "searchKeywords": [
+    "lion house rolls",
+    "rhodes rolls",
+    "thanksgiving dinner rolls",
+    "christmas rolls"
+  ],
+  "whyItWorks": "Feather-light refined white flour yeast rolls are the ultimate gut-safe starch sponge alongside holiday turkey and gravy.",
+  "prepOrOrderInstructions": "Enjoy warm with a light touch of butter or honey, or use them to make leftover turkey-and-gravy sliders the next day.",
+  "watchOuts": [
+    "Stick to white yeast rolls rather than seeded multigrain rolls"
+  ]
+}

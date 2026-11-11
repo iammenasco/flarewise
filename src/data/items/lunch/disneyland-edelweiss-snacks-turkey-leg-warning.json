@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-edelweiss-snacks-turkey-leg-warning",
+  "name": "Jumbo Smoked Turkey Leg (High Sodium/Fat Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Edelweiss Snacks (Disneyland)",
+  "crohnsScore": 5.7,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "turkey-leg",
+    "smoked-meat",
+    "fantasyland"
+  ],
+  "searchKeywords": [
+    "edelweiss snacks",
+    "disneyland",
+    "turkey leg",
+    "jumbo turkey leg",
+    "fantasyland"
+  ],
+  "whyItWorks": "Though turkey is lean, Disney's giant cured dark-meat legs are brined in heavy sodium nitrate solutions, smoked with skin-on, and contain significant rendered subcutaneous grease that can trigger severe intestinal cramping.",
+  "prepOrOrderInstructions": "Sodium & Grease Warning: Peel off and discard all outer dark skin and fat; consume only small portions of inner lean meat."
+}

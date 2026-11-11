@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-rancho-del-zocalo-cinnamon-crisps",
+  "name": "Disneyland Rancho del Zocalo Cinnamon Crisps (Crispy Flour Tortilla Buñuelos with Cinnamon Sugar)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Rancho del Zocalo Restaurante (Frontierland · Disneyland Park)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "rancho del zocalo cinnamon crisps",
+    "bunuelos disneyland"
+  ],
+  "whyItWorks": "Made from refined white flour tortillas (not corn!) puffed crisp and dusted with cinnamon sugar—lighter and thinner than a thick churro and naturally dairy-free.",
+  "prepOrOrderInstructions": "Share an order of Cinnamon Crisps with the table (use caramel/chocolate dip sparingly).",
+  "watchOuts": [
+    "Fried flour tortilla chips—share a portion in remission"
+  ]
+}

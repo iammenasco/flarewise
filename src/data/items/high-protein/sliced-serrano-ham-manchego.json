@@ -1,0 +1,44 @@
+{
+  "id": "sliced-serrano-ham-manchego",
+  "name": "Sliced Serrano Ham & Aged Manchego",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ham",
+    "prosciutto",
+    "cheese",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "sliced serrano ham",
+    "manchego cheese",
+    "animators palate appetizer",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Paper-thin cured Serrano ham and aged sheep's-milk Manchego cheese (~0g lactose) dissolve cleanly and deliver savory protein and sodium.",
+  "prepOrOrderInstructions": "Eat the Serrano ham and Manchego cheese with a soft white dinner roll, and skip the coarse olive tapenade if flaring.",
+  "watchOuts": [
+    "Olive tapenade skins"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dans-drive-in-montpelier-finger-steaks-shake",
+  "name": "Dan's Drive-In (Montpelier, ID) Idaho Finger Steaks & Hand-Spun Milkshake (Avoid)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "fried",
+    "ice-cream",
+    "shake",
+    "bear-lake",
+    "montpelier",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "idaho finger steaks",
+    "dans drive in shake",
+    "montpelier idaho"
+  ],
+  "whyItWorks": "Deep-fried battered beef strips (\"finger steaks\") paired with a heavy dairy milkshake pack a double punch of fryer oil and lactose.",
+  "prepOrOrderInstructions": "Choose the grilled hamburger/cheeseburger or plain hot dog instead of battered deep-fried finger steaks when your gut is sensitive.",
+  "watchOuts": [
+    "Heavy deep-fried batter on finger steaks",
+    "High lactose in thick milkshakes"
+  ]
+}

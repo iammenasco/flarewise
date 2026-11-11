@@ -1,0 +1,39 @@
+{
+  "id": "rapunzels-sacher-torte",
+  "name": "Classic Viennese Sacher Torte with Apricot Glaze (Snuggly Duckling Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "sacher torte",
+    "snuggly duckling dessert",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Smooth dark chocolate sponge layered with seedless strained apricot jam and chocolate glaze—100% nut-free and citrus-free.",
+  "prepOrOrderInstructions": "Enjoy with a Lactaid pill if eating the accompanying whipped cream.",
+  "watchOuts": [
+    "Rich dark chocolate glaze",
+    "Dairy in cake/whipped cream"
+  ]
+}

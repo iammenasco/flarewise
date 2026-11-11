@@ -1,0 +1,38 @@
+{
+  "id": "coopers-fish-haven-rotisserie-chicken-mashed-potatoes",
+  "name": "Cooper's at Bear Lake West Roasted Chicken or Mashed Potato Side",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Fish Haven / Bear Lake, ID)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "high-protein",
+    "bear-lake",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "coopers fish haven chicken",
+    "bear lake west coopers",
+    "fish haven idaho dinner"
+  ],
+  "whyItWorks": "Simple roasted chicken breast or tenderloin paired with whipped mashed potatoes or a baked potato gives you a calm dinner option on the Idaho side of Bear Lake.",
+  "prepOrOrderInstructions": "Order the Roasted/Grilled Chicken with a baked potato (eat the inside) or mashed potatoes, holding any black pepper crust or raw salad.",
+  "watchOuts": [
+    "Mashed potatoes contain butter and milk—choose a plain baked potato if strictly dairy-free"
+  ]
+}

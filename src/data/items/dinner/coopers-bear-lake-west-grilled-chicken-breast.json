@@ -1,0 +1,37 @@
+{
+  "id": "coopers-bear-lake-west-grilled-chicken-breast",
+  "name": "Grilled Marinated Chicken Breast with Steamed Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cooper's at Bear Lake West (Fish Haven, ID)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "bear-lake",
+    "fish-haven",
+    "grilled-chicken",
+    "lean-protein"
+  ],
+  "searchKeywords": [
+    "coopers bear lake west",
+    "grilled chicken",
+    "steamed rice",
+    "fish haven idaho"
+  ],
+  "whyItWorks": "Tender skinless chicken breast marinated lightly in herbs and olive oil, grilled over open flame and served with fluffy white rice. Extremely gentle on sensitive intestinal mucosa.",
+  "prepOrOrderInstructions": "Ask for chicken simply grilled without blackened spices or heavy butter sauces. Pair with steamed rice and skip raw salad."
+}

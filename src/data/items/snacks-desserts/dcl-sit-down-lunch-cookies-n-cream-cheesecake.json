@@ -1,0 +1,42 @@
+{
+  "id": "dcl-sit-down-lunch-cookies-n-cream-cheesecake",
+  "name": "Sit-Down Lunch Cookies 'n' Cream Cheesecake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "cookies n cream cheesecake",
+    "sit down lunch dessert",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Smooth Oreo-swirled cream cheese filling on a chocolate crumb crust—zero nuts, zero seeds, and 100% citrus-free.",
+  "prepOrOrderInstructions": "Pair with 1–2 Lactaid tablets.",
+  "watchOuts": [
+    "Cream cheese lactose and sugar"
+  ]
+}

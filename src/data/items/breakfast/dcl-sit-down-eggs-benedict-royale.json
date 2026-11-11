@@ -1,0 +1,45 @@
+{
+  "id": "dcl-sit-down-eggs-benedict-royale",
+  "name": "Main Dining Sit-Down Eggs Benedict & Smoked Salmon Eggs Royale",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "egg",
+    "bread",
+    "pork",
+    "salmon",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "eggs benedict",
+    "eggs royale",
+    "sit down breakfast",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Poached eggs, Canadian bacon (or smoked salmon), and toasted white English muffins are a 9.5/10 flare meal when ordered without lemon hollandaise.",
+  "prepOrOrderInstructions": "Order the poached eggs and Canadian bacon/smoked salmon on a toasted English muffin with hollandaise on the side (or skipped altogether, since hollandaise contains lemon juice and heavy liquid butter).",
+  "watchOuts": [
+    "Lemon juice and emulsified butter in hollandaise sauce (order dry/on side)"
+  ]
+}

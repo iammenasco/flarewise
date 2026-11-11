@@ -1,0 +1,41 @@
+{
+  "id": "aubergine-kitchen-warm-acai-bowl-seeds-warning",
+  "name": "Aubergine Kitchen (Orem & Lehi, UT) Signature Açai Smoothie Bowl (Seed & Granola Warning)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Aubergine Kitchen (Orem & Lehi, UT)",
+  "crohnsScore": 5.3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "orem",
+    "lehi",
+    "acai",
+    "seeds",
+    "granola",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "aubergine acai bowl",
+    "acai bowl orem",
+    "granola seeds bowl utah"
+  ],
+  "whyItWorks": "Açai smoothie base topped with crunchy hard granola, chia seeds, flax seeds, and sliced raw strawberries. Hard seeds and dense insoluble oat clusters present a severe stricture obstruction risk.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active disease and strictures. If ordering in remission, ask for no chia seeds, no flax seeds, and sub soft banana slices for crunchy granola.",
+  "watchOuts": [
+    "Chia seeds, flax seeds, and hard granola clusters cause severe mechanical obstruction risks"
+  ]
+}

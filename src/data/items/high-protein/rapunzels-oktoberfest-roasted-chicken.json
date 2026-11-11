@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-oktoberfest-roasted-chicken",
+  "name": "Oktoberfest Lemon & Thyme Roasted Chicken with Mashed Potatoes (Lantern Night)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "oktoberfest lemon thyme roasted chicken",
+    "rapunzels royal table chicken",
+    "disney magic"
+  ],
+  "whyItWorks": "Tender roasted half-chicken with mashed potatoes, but the standard skin is basted with lemon-thyme jus.",
+  "prepOrOrderInstructions": "Remove the lemon-basted chicken skin and eat the tender interior breast meat with mashed potatoes, or ask your server for the plain Lighter Note roasted chicken breast (zero lemon).",
+  "watchOuts": [
+    "Lemon-thyme glaze on the skin (citrus guardrail)",
+    "Butter/milk in mashed potatoes"
+  ]
+}

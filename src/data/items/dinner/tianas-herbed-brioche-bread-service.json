@@ -1,0 +1,40 @@
+{
+  "id": "tianas-herbed-brioche-bread-service",
+  "name": "Tiana's Herbed Brioche with Roasted Onion Dip",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "butter",
+    "egg",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "herbed brioche",
+    "roasted onion dip",
+    "tianas place bread service",
+    "disney wonder"
+  ],
+  "whyItWorks": "Soft enriched white brioche is completely seedless and low-residue; the FODMAP risk lies solely in the roasted onion cream dip.",
+  "prepOrOrderInstructions": "Enjoy the warm herbed brioche with plain butter rather than the heavy roasted onion dip if sensitive to onion fructans.",
+  "watchOuts": [
+    "High-FODMAP roasted onion dip",
+    "Dairy butter/cream"
+  ]
+}

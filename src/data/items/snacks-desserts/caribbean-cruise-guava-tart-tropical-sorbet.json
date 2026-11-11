@@ -1,0 +1,43 @@
+{
+  "id": "caribbean-cruise-guava-tart-tropical-sorbet",
+  "name": "Caribbean Cruise Warm Guava Cream Cheese Pastelito / Tart & Tropical Mango Sorbet",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure, Magic & Wonder · Caribbean Cruise Dessert & Pastry Menus",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pastry",
+    "mango",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-magic",
+    "disney-wonder"
+  ],
+  "searchKeywords": [
+    "guava cream cheese tart",
+    "guava pastelito",
+    "tropical mango sorbet",
+    "caribbean cruise dessert"
+  ],
+  "whyItWorks": "Seedless strained guava paste baked into flaky puff pastry and dairy-free mango/passionfruit sorbets are classic Eastern & Western Caribbean treats.",
+  "prepOrOrderInstructions": "Choose the dairy-free Mango Sorbet for a 9/10 flare-safe dessert, or take a Lactaid if enjoying a warm guava-and-cream-cheese pastelito.",
+  "watchOuts": [
+    "Cream cheese lactose and puff pastry butterfat in the pastelito"
+  ]
+}

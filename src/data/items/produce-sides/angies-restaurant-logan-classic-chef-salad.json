@@ -1,0 +1,41 @@
+{
+  "id": "angies-restaurant-logan-classic-chef-salad",
+  "name": "Angie's Restaurant (Logan, UT) Classic Chef Salad (Ham, Turkey, Egg & Jack)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "salad",
+    "turkey",
+    "ham",
+    "eggs"
+  ],
+  "searchKeywords": [
+    "angies chef salad",
+    "angies logan salad",
+    "cache valley chef salad"
+  ],
+  "whyItWorks": "Packed with lean protein from hard-boiled eggs, smoked ham, and roast turkey breast. In stable remission, the protein helps balance the leafy greens.",
+  "prepOrOrderInstructions": "Order the Chef Salad with ranch dressing on the side; hold raw tomato slices if sensitive to nightshade acid.",
+  "watchOuts": [
+    "Raw salad greens require active remission to digest comfortably"
+  ]
+}

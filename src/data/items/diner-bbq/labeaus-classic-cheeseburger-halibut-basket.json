@@ -1,0 +1,42 @@
+{
+  "id": "labeaus-classic-cheeseburger-halibut-basket",
+  "name": "LaBeau's Classic Cheeseburger, Pastrami Burger, or Chicken Strips Basket",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "LaBeau's (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "chicken",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "labeaus cheeseburger",
+    "labeaus pastrami burger",
+    "labeaus chicken strips",
+    "garden city"
+  ],
+  "whyItWorks": "Classic drive-in burger on a soft white bun is low-fiber when ordered plain without raw onions or fry sauce overload.",
+  "prepOrOrderInstructions": "Order a plain Single Cheeseburger on a white bun (meat, cheese, bun only) and go easy on the deep-fried french fries, tater tots, or onion rings.",
+  "watchOuts": [
+    "Skip deep-fried onion rings and heavy pastrami fat during flares"
+  ]
+}

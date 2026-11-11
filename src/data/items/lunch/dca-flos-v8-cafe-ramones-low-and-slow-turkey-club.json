@@ -1,0 +1,39 @@
+{
+  "id": "dca-flos-v8-cafe-ramones-low-and-slow-turkey-club",
+  "name": "DCA Flo's V8 Cafe \"Ramone's Low & Slow\" Turkey Bacon Avocado Club on Brioche",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Flo's V8 Cafe (Cars Land · Disney California Adventure)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "avocado",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "ramones low and slow club flos v8",
+    "turkey sandwich cars land dca"
+  ],
+  "whyItWorks": "Lean roasted turkey breast, crispy bacon, and creamy avocado on toasted brioche bread—a lighter, non-fried alternative to burgers in Cars Land.",
+  "prepOrOrderInstructions": "Order the Turkey Club with no raw tomato or shredded lettuce and pair with steak fries or applesauce.",
+  "watchOuts": [
+    "Remove raw tomato slices and lettuce before eating"
+  ]
+}

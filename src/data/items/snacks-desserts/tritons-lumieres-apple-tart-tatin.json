@@ -1,0 +1,45 @@
+{
+  "id": "tritons-lumieres-apple-tart-tatin",
+  "name": "Warm Apple Tart Tatin with Vanilla Ice Cream",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "applesauce",
+    "sweet",
+    "bakery",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "apple tart tatin",
+    "tritons dessert",
+    "lumieres dessert",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Peeled apples caramelized until fork-soft over flaky puff pastry provide soothing soluble apple pectin without raw apple skins.",
+  "prepOrOrderInstructions": "Enjoy warm; pair with a Lactaid pill if eating the accompanying scoop of vanilla bean ice cream.",
+  "watchOuts": [
+    "Apple fructose load in very large portions",
+    "Butter in puff pastry and dairy ice cream"
+  ]
+}

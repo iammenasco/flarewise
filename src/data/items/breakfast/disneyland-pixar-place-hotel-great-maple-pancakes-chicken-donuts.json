@@ -1,0 +1,42 @@
+{
+  "id": "disneyland-pixar-place-hotel-great-maple-pancakes-chicken-donuts",
+  "name": "Pixar Place Hotel Great Maple Modern American Eatery: Buttermilk Pancakes, Eggs, Salmon & Famous Maple Bacon Donuts",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Great Maple (Pixar Place Hotel · Disneyland Resort)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pancakes",
+    "salmon",
+    "chicken",
+    "pork",
+    "vacation",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "great maple pixar place hotel",
+    "maple bacon donuts disneyland",
+    "pixar place hotel restaurant"
+  ],
+  "whyItWorks": "Right across from the Grand Californian/DCA entrance inside Pixar Place Hotel, Great Maple serves scratch-made American breakfasts (eggs, sourdough toast, buttermilk pancakes), roasted chicken/salmon dinners, and their made-to-order warm Maple Bacon Donuts.",
+  "prepOrOrderInstructions": "Order the Classic American Breakfast with scrambled eggs and sourdough toast; if sharing the famous warm Maple Bacon Donuts in remission, pair half a donut with your eggs and take lactase.",
+  "watchOuts": [
+    "Maple Bacon Donuts are fried to order and rich—share one with the table after eating protein"
+  ]
+}

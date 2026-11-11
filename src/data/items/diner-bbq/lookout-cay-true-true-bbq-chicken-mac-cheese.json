@@ -1,0 +1,45 @@
+{
+  "id": "lookout-cay-true-true-bbq-chicken-mac-cheese",
+  "name": "Lookout Cay True-True BBQ: Baked Mac & Cheese, Burgers & Rotisserie Chicken",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Lookout Cay at Lighthouse Point · True-True BBQ, True-True Too & Serenity Bay BBQ",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "beef",
+    "pasta",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic",
+    "disney-treasure",
+    "lookout-cay"
+  ],
+  "searchKeywords": [
+    "true true bbq",
+    "lookout cay",
+    "lighthouse point",
+    "bahamian mac and cheese",
+    "disney cruise"
+  ],
+  "whyItWorks": "At Disney's Eleuthera island destination, the Baked Macaroni & Cheese, plain cheeseburger/hamburger, and interior rotisserie chicken breast are the safest picks.",
+  "prepOrOrderInstructions": "Choose a plain burger (white bun), Baked Macaroni & Cheese (with Lactaid), or interior white rotisserie chicken meat (peel off the lime/goat-pepper skin). Strictly skip corn on the cob, fried okra, and black bean salad.",
+  "watchOuts": [
+    "Lime and Bahamian goat-pepper marinade on chicken skin (remove skin)",
+    "Cheese lactose in mac & cheese"
+  ]
+}

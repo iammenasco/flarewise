@@ -1,0 +1,44 @@
+{
+  "id": "disneyland-castle-inn-anaheim-harbor-blvd-panera-ihop-safety-net",
+  "name": "Anaheim Harbor Blvd (Across from Disneyland Main Entrance) Panera Bread Chicken Noodle Soup, Sourdough & IHOP Pancakes/Eggs",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Panera Bread & IHOP (S. Harbor Blvd · Directly Across from Disneyland Esplanade)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "eggs",
+    "soup",
+    "sourdough",
+    "pancakes",
+    "high-protein",
+    "vacation",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "harbor blvd food disneyland",
+    "panera bread disneyland entrance",
+    "ihop disneyland harbor blvd"
+  ],
+  "whyItWorks": "Literally a 3-minute walk across the Harbor Blvd crosswalk from the Disneyland & DCA turnstiles, Panera Bread (Homestyle Chicken Noodle Soup, Sourdough Bread Bowl, Turkey Sandwich) and IHOP (Scrambled Eggs & Pancakes) give you a 24/7 flare-safe safety net on arrival or late at night.",
+  "prepOrOrderInstructions": "Stop at Panera on Harbor Blvd for a bowl of Homestyle Chicken Noodle Soup with Country Sourdough bread or a Deli Turkey Sandwich on Sourdough to bring right into the parks (Disneyland allows outside food!).",
+  "watchOuts": [
+    "Avoid Panera's Charged Lemonades/Citrus Refreshers and broccoli cheddar soup (unless taking lactase)"
+  ]
+}

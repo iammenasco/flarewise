@@ -1,0 +1,42 @@
+{
+  "id": "mortys-cafe-logan-sweet-potato-fries",
+  "name": "Morty's Cafe (Logan, UT) Crispy Sweet Potato Fries (Salted)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Morty's Cafe (Logan / USU, UT)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "usu",
+    "sweet-potato",
+    "fries"
+  ],
+  "searchKeywords": [
+    "mortys sweet potato fries",
+    "sweet potato fries logan",
+    "mortys cafe sides"
+  ],
+  "whyItWorks": "Sweet potatoes are high in soluble fiber and vitamin A, which supports gut mucosal lining. The frying oil is moderate; enjoy as a side in remission.",
+  "prepOrOrderInstructions": "Order sweet potato fries with sea salt; dip in ketchup or plain mayo (skip the spicy fry sauce).",
+  "watchOuts": [
+    "Moderate portion advised during digestive sensitivity"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dca-carthay-circle-jalapeno-cheddar-biscuits-warning",
+  "name": "DCA Carthay Circle Famous Fried Cheddar, Bacon & Jalapeño Biscuits (Jalapeño Warning vs. Parker House Rolls!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Carthay Circle Restaurant (Buena Vista Street · Disney California Adventure)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "pork",
+    "spicy",
+    "fried",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "carthay circle fried biscuits",
+    "warm cheddar parker house rolls carthay"
+  ],
+  "whyItWorks": "Reference warning: Carthay's classic Fried Biscuits are stuffed with diced jalapeños and deep-fried—instead, order Carthay's **Warm Cheddar Parker House Rolls** (hold the chili butter), which are baked soft and jalapeño-free!",
+  "prepOrOrderInstructions": "Skip the jalapeño-stuffed Fried Biscuits and order the baked **Warm Cheddar Parker House Rolls** (with plain butter instead of calabrian chili-apricot butter).",
+  "watchOuts": [
+    "Fried Biscuits contain diced jalapeño peppers and fryer oil"
+  ]
+}

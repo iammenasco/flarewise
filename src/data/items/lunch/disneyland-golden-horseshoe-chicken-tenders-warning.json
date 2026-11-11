@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-golden-horseshoe-chicken-tenders-warning",
+  "name": "Hand-Breaded Golden Chicken Tenders with Crinkle Fries",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "The Golden Horseshoe (Disneyland)",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "chicken-tenders",
+    "fried-food",
+    "frontierland"
+  ],
+  "searchKeywords": [
+    "golden horseshoe",
+    "disneyland",
+    "chicken tenders",
+    "french fries",
+    "frontierland"
+  ],
+  "whyItWorks": "While chicken breast is gentle, the thick seasoned flour coating deep-fried in commercial oil absorbs heavy lipids that delay gastric emptying and accelerate lower GI motility.",
+  "prepOrOrderInstructions": "Fried Food Warning: If dining here, peel off the crispy fried skin/crust to expose the moist inner white chicken breast."
+}

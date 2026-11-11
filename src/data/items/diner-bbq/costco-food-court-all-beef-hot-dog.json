@@ -1,0 +1,39 @@
+{
+  "id": "costco-food-court-all-beef-hot-dog",
+  "name": "Costco Food Court (Logan & Draper, UT) 1/4-Lb All-Beef Hot Dog on Steamed Bun",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Costco Wholesale (Utah Locations)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "beef",
+    "comfort-food",
+    "low-cost"
+  ],
+  "searchKeywords": [
+    "costco hot dog",
+    "costco food court hot dog",
+    "costco 1.50 hot dog"
+  ],
+  "whyItWorks": "The legendary $1.50 combo! Steamed all-beef frank on an ultra-soft bun. Completely seed-free, zero roughage, and highly filling during errands.",
+  "prepOrOrderInstructions": "Order the Hot Dog plain or with mild yellow mustard; avoid the raw onion crank dispenser and relish.",
+  "watchOuts": [
+    "Skip raw onions, relish, and sauerkraut"
+  ]
+}

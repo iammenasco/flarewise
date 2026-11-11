@@ -1,0 +1,41 @@
+{
+  "id": "palo-dinner-parmesan-rack-of-lamb",
+  "name": "Palo Dinner Parmesan-Crusted Rack of Niman Ranch Lamb",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "parmesan crusted rack of lamb",
+    "niman ranch lamb",
+    "palo lamb"
+  ],
+  "whyItWorks": "Tender center-eye lamb rib chops encrusted with lactose-free aged Parmigiano-Reggiano and herbs.",
+  "prepOrOrderInstructions": "Order medium-rare, trim away the outer fat cap along the bone, and ask for Barolo jus on the side.",
+  "watchOuts": [
+    "Exterior lamb fat cap if not trimmed"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "bear-lake-pizza-co-wood-fired-cheese-pizza",
+  "name": "Bear Lake Pizza Co. (Garden City, UT) Wood-Fired Plain Mozzarella Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Bear Lake Pizza Co. (Garden City, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "pizza",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "bear lake pizza co",
+    "wood fired pizza garden city",
+    "bear lake cheese pizza"
+  ],
+  "whyItWorks": "High-temperature wood-fired thin crust pizza topped with strained marinara and melted mozzarella. Thin crust has lower dough density and digests quickly.",
+  "prepOrOrderInstructions": "Order a 12-inch Wood-Fired Cheese Pizza with light sauce.",
+  "watchOuts": [
+    "Contains dairy mozzarella"
+  ]
+}

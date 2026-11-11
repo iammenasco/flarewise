@@ -1,0 +1,38 @@
+{
+  "id": "knotts-mrs-knotts-chicken-and-dumplings-pot-pie",
+  "name": "Mrs. Knott's Old-Fashioned Chicken & Dumplings or Homemade Chicken Pot Pie",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (California Marketplace · Knott's Berry Farm)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "mrs knotts chicken and dumplings",
+    "mrs knotts chicken pot pie",
+    "knotts comfort food"
+  ],
+  "whyItWorks": "Simmered white-meat chicken with pillowy soft flour dumplings (or flaky pie crust with tender carrots and potatoes) offers zero fried breading and soft, easily digested textures.",
+  "prepOrOrderInstructions": "Order the Old-Fashioned Chicken & Dumplings for the softest texture, and take a lactase tablet for the rich chicken-cream velouté gravy.",
+  "watchOuts": [
+    "Contains dairy in the creamy gravy/crust—take lactase; pick around green peas in the pot pie if sensitive to pea skins"
+  ]
+}

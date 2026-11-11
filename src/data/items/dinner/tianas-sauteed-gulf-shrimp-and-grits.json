@@ -1,0 +1,45 @@
+{
+  "id": "tianas-sauteed-gulf-shrimp-and-grits",
+  "name": "Sautéed Gulf Shrimp and Grits",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "grits",
+    "cheese",
+    "cheddar",
+    "cajun",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "shrimp and grits",
+    "tianas place",
+    "disney wonder",
+    "gulf shrimp",
+    "cheddar grits"
+  ],
+  "whyItWorks": "Tender Gulf shrimp and creamy white hominy cheddar grits digest with very little mechanical friction when ordered without spicy Creole gravy.",
+  "prepOrOrderInstructions": "At Tiana's Place, ask for the Creole sauce on the side (or plain butter/garlic shrimp over the cheddar grits) and hold the spicy andouille sausage slices if flaring.",
+  "watchOuts": [
+    "Spicy Creole tomato gravy",
+    "Smoked andouille sausage casing/spice",
+    "Dairy cream in grits if lactose sensitive"
+  ]
+}

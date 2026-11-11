@@ -1,0 +1,40 @@
+{
+  "id": "towneplace-suites-draper-waffles-scrambled-eggs-sausage",
+  "name": "TownePlace Suites Salt Lake City Draper Hot Breakfast: Waffles, Scrambled Eggs & Turkey Sausage",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "TownePlace Suites by Marriott Salt Lake City Draper (Draper, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "waffle",
+    "eggs",
+    "turkey",
+    "breakfast",
+    "hotel",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "towneplace suites draper",
+    "marriott breakfast draper",
+    "hotel breakfast waffles eggs"
+  ],
+  "whyItWorks": "Complimentary hot hotel buffet featuring DIY golden Belgian waffles, fluffy scrambled eggs, and lean turkey sausage links—warm, low-residue protein and refined carbs before work.",
+  "prepOrOrderInstructions": "Make a fresh Belgian waffle topped with a light drizzle of maple syrup or butter, pair with scrambled eggs and turkey sausage (over greasy pork patties), and take a Lactaid if sensitive to milk in the waffle batter.",
+  "watchOuts": [
+    "Choose turkey sausage over spicy/greasy pork sausage patties",
+    "Skip the seeded strawberry waffle compote"
+  ]
+}

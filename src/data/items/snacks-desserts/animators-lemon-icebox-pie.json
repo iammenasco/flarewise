@@ -1,0 +1,40 @@
+{
+  "id": "animators-lemon-icebox-pie",
+  "name": "Lemon Icebox Pie with Citrus Curd",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "lemon icebox pie",
+    "animators palate lemon pie",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Made with concentrated lemon juice and grated lemon zest, directly violating the strict citrus guardrail.",
+  "prepOrOrderInstructions": "Skip the Lemon Icebox Pie and order the Warm Sticky Date Pudding or Chocolate Fudge Cheesecake instead.",
+  "watchOuts": [
+    "Lemon juice and lemon zest (strict citrus trigger)",
+    "Condensed milk lactose"
+  ]
+}

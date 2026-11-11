@@ -1,0 +1,43 @@
+{
+  "id": "disneyland-tangaroa-terrace-hotel-loco-moco-ramen-pancakes",
+  "name": "Disneyland Hotel Tangaroa Terrace Tonkotsu Ramen, Teriyaki Chicken & White Rice or Macadamia-Free Pancakes",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tangaroa Terrace Tropical Bar & Grill (Disneyland Hotel · Disneyland Resort)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "chicken",
+    "eggs",
+    "rice",
+    "noodles",
+    "soup",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tangaroa terrace disneyland hotel",
+    "trader sams disneyland food",
+    "disneyland hotel quick service"
+  ],
+  "whyItWorks": "Right by the Disneyland Hotel pool (next to Trader Sam's), Tangaroa Terrace serves soothing Tonkotsu Ramen with soft wheat noodles, slow-roasted Kalua Pork or Teriyaki Chicken over steamed white rice, and thick fluffy Japanese-style soufflé pancakes.",
+  "prepOrOrderInstructions": "For lunch/dinner, order the Teriyaki Chicken/Kalua Pork & White Rice or Tonkotsu Ramen (no green onions or chili oil); for breakfast, order the American Breakfast (eggs, bacon, potatoes) or Thick Fluffy Pancakes with **NO macadamia nuts**.",
+  "watchOuts": [
+    "Always ask for NO macadamia nuts on the Japanese pancakes and skip the spicy Poke Bowl"
+  ]
+}

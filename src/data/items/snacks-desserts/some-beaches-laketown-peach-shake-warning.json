@@ -1,0 +1,37 @@
+{
+  "id": "some-beaches-laketown-peach-shake-warning",
+  "name": "Fresh Peach Thick Milkshake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Some Beaches (Laketown, UT)",
+  "crohnsScore": 4.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "laketown",
+    "peach-shake",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "some beaches laketown",
+    "peach shake",
+    "fresh peach milkshake",
+    "bear lake"
+  ],
+  "whyItWorks": "Combining whole dairy ice cream with high-FODMAP real peach chunks creates a double digestive challenge: lactose induces gas and bloating, while stone fruit fructose can trigger rapid loose stools.",
+  "prepOrOrderInstructions": "High Lactose & FODMAP Warning: Consume only small sips during remission with lactase enzymes, or choose a dairy-free beverage."
+}

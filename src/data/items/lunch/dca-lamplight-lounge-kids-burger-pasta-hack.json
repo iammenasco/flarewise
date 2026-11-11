@@ -1,0 +1,39 @@
+{
+  "id": "dca-lamplight-lounge-kids-burger-pasta-hack",
+  "name": "DCA Lamplight Lounge Kids' Grilled Chicken/Burger Sliders or Plain Elbow Pasta with Butter & Parmesan",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Lamplight Lounge (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "pasta",
+    "burger",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lamplight lounge kids menu",
+    "lamplight boardwalk dining safe food"
+  ],
+  "whyItWorks": "Even when Lamplight Lounge's adult menu leans spicy, any adult can order off the Kids' menu (or ask the kitchen for an adult portion): plain mini burger sliders on Hawaiian rolls, grilled chicken tenderloin, or elbow pasta with butter and Parmesan.",
+  "prepOrOrderInstructions": "Ask your server for the Kids' Burger Slider (plain cheddar & bun) or Pasta with butter and grated Parmesan (hold the cheese sauce if lactose-sensitive).",
+  "watchOuts": [
+    "Zero spice or roughage—a great fallback when dining with friends at Pixar Pier"
+  ]
+}

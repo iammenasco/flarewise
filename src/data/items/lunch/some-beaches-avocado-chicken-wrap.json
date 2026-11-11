@@ -1,0 +1,41 @@
+{
+  "id": "some-beaches-avocado-chicken-wrap",
+  "name": "Some Beaches Grilled Chicken & Avocado Flour Tortilla Wrap (Hold Ranch)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "avocado",
+    "wrap",
+    "high-protein",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "some beaches wrap",
+    "avocado chicken wrap",
+    "bbq chicken bacon wrap",
+    "laketown bear lake"
+  ],
+  "whyItWorks": "Lean chicken, creamy soluble-fiber avocado, and bacon wrapped in a soft white flour tortilla make a lighter beach-day lunch than fried baskets.",
+  "prepOrOrderInstructions": "Order the Avocado Chicken Wrap with grilled chicken, avocado, bacon, and cheddar—hold the buttermilk ranch dressing, raw lettuce, and chipotle sauce.",
+  "watchOuts": [
+    "Skip the Chipotle Shrimp wrap (spicy capsaicin) and dairy ranch"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-cafe-daisy-toontown-mini-corn-dogs",
+  "name": "Disneyland Café Daisy (Toontown) \"Goody-Goody\" Mini Corn Dogs & Applesauce",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Café Daisy (Mickey's Toontown · Disneyland Park)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "turkey",
+    "fried",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "goody goody mini corn dogs toontown",
+    "cafe daisy kids meal"
+  ],
+  "whyItWorks": "Bite-sized mini corn dogs give you a much smaller, lighter portion of fried cornmeal batter than a giant wagon corn dog, paired with smooth applesauce.",
+  "prepOrOrderInstructions": "Order with smooth applesauce or plain potato bites (give away any cutaneous Mandarin Orange pack).",
+  "watchOuts": [
+    "Fried cornmeal batter—blot any excess oil with a napkin"
+  ]
+}

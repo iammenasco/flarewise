@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-jolly-holiday-quiche-lorraine-egg-tart",
+  "name": "Disneyland Jolly Holiday Bakery Cafe Warm Bacon, Egg & Gruyère Quiche",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "cheese",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "jolly holiday quiche",
+    "disneyland breakfast quiche"
+  ],
+  "whyItWorks": "Silky baked egg custard with diced ham/bacon and cheese inside a tender flaky pastry crust—soft, warm, and completely free of roughage.",
+  "prepOrOrderInstructions": "Pair with a fresh banana and take a lactase tablet for the cream in the egg custard.",
+  "watchOuts": [
+    "Custard base contains cream/milk—take a lactase enzyme"
+  ]
+}

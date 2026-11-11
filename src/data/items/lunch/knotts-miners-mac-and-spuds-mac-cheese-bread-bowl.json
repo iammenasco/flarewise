@@ -1,0 +1,39 @@
+{
+  "id": "knotts-miners-mac-and-spuds-mac-cheese-bread-bowl",
+  "name": "Knott's Miner's Mac & Spuds Creamy Macaroni & Cheese in a Sourdough Bread Bowl (Lactase Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Miner's Mac & Spuds (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "sourdough",
+    "chicken",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "miners mac and spuds bread bowl",
+    "knotts mac and cheese"
+  ],
+  "whyItWorks": "Tender cavatappi/elbow pasta in cheddar sauce inside a warm sourdough bread bowl—completely free of roughage when ordered plain or with diced chicken.",
+  "prepOrOrderInstructions": "Order the plain Mac & Cheese (with optional diced chicken, no broccoli or spicy buffalo sauce) and take 1–2 lactase enzyme tablets.",
+  "watchOuts": [
+    "High lactose load in the cheese sauce—requires lactase enzymes and sharing the huge portion"
+  ]
+}

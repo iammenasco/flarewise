@@ -1,0 +1,40 @@
+{
+  "id": "codys-gastro-garage-slow-roasted-pork-burger",
+  "name": "Cody's Gastro Garage (Garden City) Plain Burger or Slow-Roasted Pulled Pork",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Cody's Gastro Garage (Water's Edge Resort · Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pork",
+    "burger",
+    "sandwich",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "codys gastro garage",
+    "gastro garage bear lake",
+    "waters edge garden city"
+  ],
+  "whyItWorks": "Hot-rod gastropub at Water's Edge Resort offering tender slow-roasted pork sandwiches, grilled chicken, and burgers that can be ordered plain on a soft bun.",
+  "prepOrOrderInstructions": "Order a plain Cheeseburger or Slow-Roasted Pork Sandwich with sauce on the side—strictly avoid the \"Hellcat Jalapeño Burger\" and spicy wings.",
+  "watchOuts": [
+    "Avoid the Hellcat Jalapeño Burger and buffalo wings"
+  ]
+}

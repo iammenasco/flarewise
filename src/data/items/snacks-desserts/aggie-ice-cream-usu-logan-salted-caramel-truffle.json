@@ -1,0 +1,40 @@
+{
+  "id": "aggie-ice-cream-usu-logan-salted-caramel-truffle",
+  "name": "Aggie Ice Cream (USU Logan, UT) Salted Caramel with Milk Chocolate Truffles",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Aggie Ice Cream (Utah State University, Logan, UT)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "usu",
+    "ice-cream",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "aggie ice cream salted caramel",
+    "usu logan ice cream",
+    "caine dairy ice cream"
+  ],
+  "whyItWorks": "Made fresh from the cow to the cone at USU's Department of Food Science. Salted caramel ice cream blended with soft milk chocolate truffles is completely seed-free.",
+  "prepOrOrderInstructions": "Order a single baby or regular scoop in a dish; take a lactase enzyme tablet if lactose sensitive.",
+  "watchOuts": [
+    "Contains dairy lactose and rich cream"
+  ]
+}

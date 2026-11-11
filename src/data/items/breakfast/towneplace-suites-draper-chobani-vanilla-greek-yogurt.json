@@ -1,0 +1,40 @@
+{
+  "id": "towneplace-suites-draper-chobani-vanilla-greek-yogurt",
+  "name": "TownePlace Suites (Draper, UT) Individual Chobani Vanilla Greek Yogurt Cup",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "TownePlace Suites Salt Lake City Draper",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "draper",
+    "breakfast",
+    "yogurt",
+    "probiotics"
+  ],
+  "searchKeywords": [
+    "towneplace suites yogurt",
+    "chobani hotel breakfast draper",
+    "hotel greek yogurt"
+  ],
+  "whyItWorks": "Strained Greek yogurt contains active live cultures (probiotics) that assist gut microbiome balance. Straining removes most whey lactose, making Greek yogurt much better tolerated than standard milk.",
+  "prepOrOrderInstructions": "Grab an individual Chobani Vanilla cup from the breakfast cooler; pair with a fresh banana.",
+  "watchOuts": [
+    "Strained Greek yogurt is naturally lower in lactose, but monitor individual dairy tolerance"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "knotts-mrs-knotts-chicken-to-go-bucket-biscuits-soup",
+  "name": "Mrs. Knott's Chicken-To-Go: Roasted or Fried Chicken Bucket, Pint of Mashed Potatoes, Soup & Hot Biscuits",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken-To-Go (California Marketplace · Knott's Berry Farm)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "soup",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "mrs knotts chicken to go",
+    "knotts biscuits to go",
+    "knotts chicken bucket hotel"
+  ],
+  "whyItWorks": "Skip the 90-minute sit-down wait at Mrs. Knott's: the dedicated **Chicken-To-Go** counter right next door lets you walk up and buy individual pieces of Roasted or Fried Chicken, a quart of Homemade Chicken Noodle Soup, Mashed Potatoes, and a half-dozen hot Buttermilk Biscuits with seedless Boysenberry Jelly in 5 minutes!",
+  "prepOrOrderInstructions": "Order Roasted Chicken pieces (or peel the breading off the Fried Chicken), a pint of Mashed Potatoes (gravy on the side), Chicken Noodle Soup, and hot Buttermilk Biscuits to eat at the outdoor patio or take back to your hotel.",
+  "watchOuts": [
+    "Ask for gravy on the side and take a lactase tablet for the mashed potatoes and biscuits"
+  ]
+}

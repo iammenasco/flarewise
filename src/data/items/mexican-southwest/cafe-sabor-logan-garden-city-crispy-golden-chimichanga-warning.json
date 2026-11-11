@@ -1,0 +1,42 @@
+{
+  "id": "cafe-sabor-logan-garden-city-crispy-golden-chimichanga-warning",
+  "name": "Café Sabor (Logan & Garden City, UT) Crispy Golden Chimichanga (Deep-Fried Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 6.6,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "mexican",
+    "fried",
+    "beef"
+  ],
+  "searchKeywords": [
+    "cafe sabor chimichanga",
+    "fried burrito bear lake",
+    "crispy chimichanga logan"
+  ],
+  "whyItWorks": "Unlike a soft flour burrito, chimichangas are deep-fried until crunchy, resulting in heavy oil absorption. Digestible in remission, but order a soft burrito during flares.",
+  "prepOrOrderInstructions": "If feeling sensitive, order a soft smothered burrito instead of a deep-fried chimichanga with mild red sauce.",
+  "watchOuts": [
+    "Deep-fried flour tortilla carries high oil content"
+  ]
+}

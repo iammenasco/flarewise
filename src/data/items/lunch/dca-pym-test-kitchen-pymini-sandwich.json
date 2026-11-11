@@ -1,0 +1,41 @@
+{
+  "id": "dca-pym-test-kitchen-pymini-sandwich",
+  "name": "DCA Pym Test Kitchen \"The Pym-ini\" Toasted Ham, Turkey, Salami & Provolone Panini (No Marinara Dip)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Pym Test Kitchen (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "pork",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "pym test kitchen pymini",
+    "avengers campus sandwich",
+    "dca pymini panini"
+  ],
+  "whyItWorks": "Pressed warm on soft focaccia bread with sliced turkey, ham, salami, and naturally low-lactose aged provolone cheese; skipping the marinara dipping cup and arugula salad makes it a solid Avengers Campus lunch.",
+  "prepOrOrderInstructions": "Order the Individual Pym-ini Sandwich, remove any raw onions/lettuce, skip the red marinara dipping cup, and eat the potato tots on the side.",
+  "watchOuts": [
+    "Skip the acidic marinara dipping sauce; remove cured salami slices if sensitive to peppercorns/nitrates"
+  ]
+}

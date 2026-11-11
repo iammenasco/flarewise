@@ -1,0 +1,40 @@
+{
+  "id": "dca-cozy-cone-motel-chili-cone-queso-warning",
+  "name": "DCA Cozy Cone Motel Cone 3: Chili Cone Queso (Whole Bean & Spice Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cozy Cone Motel (Disney California Adventure)",
+  "crohnsScore": 4.7,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "chili",
+    "beans",
+    "cars-land",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "chili cone queso dca",
+    "cozy cone chili",
+    "cars land chili cone"
+  ],
+  "whyItWorks": "Warm bread cone stuffed with beef chili, whole pinto beans, sharp cheddar cheese, and crushed corn chips. Beans and chili spices trigger severe cramping, gas, and diarrhea.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active disease. Choose the Bacon Mac & Cheese Cone or plain churro instead.",
+  "watchOuts": [
+    "Whole bean skins and chili spices cause severe abdominal pain and bloating"
+  ]
+}

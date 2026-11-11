@@ -1,0 +1,38 @@
+{
+  "id": "knotts-cable-car-kitchen-churro-soft-serve",
+  "name": "Knott's Churro Factory & Cable Car Kitchen Classic Cinnamon Churro (Skip Boysenberry Stuffing)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ghost Town Churro Factory & Cable Car Kitchen (Knott's Berry Farm)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "fried",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "knotts churro factory",
+    "cable car kitchen knotts"
+  ],
+  "whyItWorks": "Freshly fried tube of refined wheat choux dough rolled in cinnamon sugar—enjoyable when shared in remission as long as you order it un-stuffed.",
+  "prepOrOrderInstructions": "Order the Classic Cinnamon-Sugar Churro (skip the Boysenberry-stuffed filling if it contains berry seeds) and share half.",
+  "watchOuts": [
+    "Fried pastry dough—keep portion small"
+  ]
+}

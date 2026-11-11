@@ -1,0 +1,45 @@
+{
+  "id": "tritons-lumieres-wild-mushroom-stuffed-pasta",
+  "name": "Wild Mushroom-Stuffed Pasta in Vegetable Broth",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "mushroom",
+    "vegetarian",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "wild mushroom stuffed pasta",
+    "tritons vegetarian",
+    "lumieres vegetarian",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Soft egg pasta parcels in clear savory broth are gentle, though the minced wild mushroom filling is high in mannitol FODMAPs.",
+  "prepOrOrderInstructions": "Suitable for remission if you tolerate finely chopped mushrooms; otherwise ask for plain pasta with butter and Parmesan.",
+  "watchOuts": [
+    "Mushroom mannitol (FODMAP bloat)",
+    "Garlic/onion aromatics in broth"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cafe-zupas-draper-herriman-wisconsin-cauliflower-tomato-basil-soup",
+  "name": "Café Zupas (Draper / Riverton / Logan) Wisconsin Cauliflower or Tomato Basil Soup & Soft Roll",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Café Zupas (12300 S Draper, Riverton/Herriman & Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "cheese",
+    "bread",
+    "smooth",
+    "draper",
+    "herriman",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cafe zupas",
+    "wisconsin cauliflower soup",
+    "tomato basil soup zupas",
+    "draper 12300 s restaurants"
+  ],
+  "whyItWorks": "Right down the street from TownePlace Suites Draper on 12300 S (and in Riverton & Logan): Zupas blends their Wisconsin Cauliflower and Tomato Basil soups completely smooth and serves every meal with a soft white bread roll.",
+  "prepOrOrderInstructions": "Order a bowl of Wisconsin Cauliflower Soup, Tomato Basil Soup, or Chickpea & Vegetable/Chicken Noodle Soup with the soft white roll (take a Lactaid for the cream/cheese base, and give away the seeded chocolate-dipped strawberry if flaring).",
+  "watchOuts": [
+    "Every Zupas meal comes with a chocolate-dipped strawberry—skip the strawberry if avoiding achenes/seeds during a flare"
+  ]
+}

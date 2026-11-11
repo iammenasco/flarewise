@@ -1,0 +1,40 @@
+{
+  "id": "worlds-of-marvel-berbere-pork-chop",
+  "name": "Berbere-Spiced Pork Chop with Wakandan Chakalaka (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "spicy",
+    "beans",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "berbere spiced pork chop",
+    "worlds of marvel pork",
+    "disney treasure"
+  ],
+  "whyItWorks": "Ethiopian berbere spice rub is loaded with cayenne/chili heat, fenugreek, and garlic, and Chakalaka is a spicy bean-and-tomato relish.",
+  "prepOrOrderInstructions": "If ordering the pork chop, ask for it grilled plain with salt only and served with whipped Yukon potatoes instead of Chakalaka beans.",
+  "watchOuts": [
+    "Fiery berbere chili rub",
+    "Beans, onions, and peppers in Chakalaka relish"
+  ]
+}

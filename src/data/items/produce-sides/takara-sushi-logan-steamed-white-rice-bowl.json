@@ -1,0 +1,38 @@
+{
+  "id": "takara-sushi-logan-steamed-white-rice-bowl",
+  "name": "Warm Steamed Premium White Calrose Rice Bowl",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "sushi",
+    "rice",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "takara sushi",
+    "steamed rice",
+    "white rice bowl",
+    "logan utah"
+  ],
+  "whyItWorks": "Pure steamed short-grain white rice is one of the safest foods on earth for active inflammatory bowel disease. It is non-allergenic, virtually fiber-free, easy to absorb, and actively soothes hyperactive intestines.",
+  "prepOrOrderInstructions": "Order plain steamed white rice without sushi vinegar seasoning, sesame seeds, or sauce."
+}

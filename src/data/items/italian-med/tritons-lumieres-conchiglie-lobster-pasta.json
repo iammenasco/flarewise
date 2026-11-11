@@ -1,0 +1,45 @@
+{
+  "id": "tritons-lumieres-conchiglie-lobster-pasta",
+  "name": "Conchiglie Buttered Lobster Pasta",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "pasta",
+    "lobster",
+    "shrimp",
+    "seafood",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "conchiglie pasta",
+    "lobster pasta",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Soft white semolina shell pasta and tender buttered lobster meat provide a low-fiber, high-protein comfort dish.",
+  "prepOrOrderInstructions": "If you follow a strict citrus guardrail or are avoiding tomato acidity, ask for the lobster pasta tossed in plain garlic butter and parmesan instead of the tomato-tarragon-lemon brandy sauce.",
+  "watchOuts": [
+    "Lemon basil garnish (citrus guardrail)",
+    "Tomato brandy cream sauce acidity"
+  ]
+}

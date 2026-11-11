@@ -1,0 +1,39 @@
+{
+  "id": "knotts-soak-city-longboard-grill-chicken-tenders-burger",
+  "name": "Knott's Soak City Waterpark Longboard's Grill: Grilled Chicken Sandwich, Plain Cheeseburger or Hot Dog",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Longboard's Grill (Knott's Soak City Waterpark · Buena Park)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "burger",
+    "sandwich",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "knotts soak city food",
+    "longboards grill soak city"
+  ],
+  "whyItWorks": "Inside Knott's Soak City waterpark across the street, Longboard's Grill serves plain grilled chicken breast sandwiches, cheeseburgers, and all-beef hot dogs on the Dining Plan.",
+  "prepOrOrderInstructions": "Order the Grilled Chicken Sandwich or Single Cheeseburger plain on the bun with cheese only and fries.",
+  "watchOuts": [
+    "Stay hydrated with water and skip neon citrus slushies"
+  ]
+}

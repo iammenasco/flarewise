@@ -1,0 +1,39 @@
+{
+  "id": "codys-gastro-garage-garden-city-bacon-cheddar-burger-warning",
+  "name": "The Piston Bacon Cheddar Burger with Onion Rings",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cody's Gastro Garage (Garden City, UT)",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "garden-city",
+    "burger",
+    "high-fat",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "codys gastro garage",
+    "piston burger",
+    "bacon cheeseburger",
+    "onion rings",
+    "bear lake"
+  ],
+  "whyItWorks": "Thick ground beef topped with smoked bacon strips, melted cheddar cheese, sweet BBQ sauce, and towering battered deep-fried onion rings. Heavy grease, alliums, and dairy trigger acute gut irritation.",
+  "prepOrOrderInstructions": "Grease & Allium Warning: Avoid during flares. Order a plain grilled chicken sandwich or plain single hamburger without onion rings."
+}

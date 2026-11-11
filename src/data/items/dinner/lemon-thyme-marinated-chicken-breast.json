@@ -1,0 +1,44 @@
+{
+  "id": "lemon-thyme-marinated-chicken-breast",
+  "name": "Roasted Chicken Breast & Sour Cream Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "potato",
+    "mashed-potatoes",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "lemon thyme marinated chicken breast",
+    "animators palate chicken",
+    "mashed potatoes",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Tender roasted chicken breast atop smooth, peeled mashed potatoes and fork-soft roasted root carrots is one of the gentlest main dining meals onboard.",
+  "prepOrOrderInstructions": "If you have a strict citrus guardrail, ask for the plain \"Lighter Note\" roasted chicken breast paired with the sour cream mashed potatoes, and hold the whole-grain mustard jus.",
+  "watchOuts": [
+    "Lemon-thyme marinade (citrus guardrail — request plain roasted breast)",
+    "Whole mustard seeds in the jus",
+    "Sour cream in mashed potatoes if lactose sensitive"
+  ]
+}

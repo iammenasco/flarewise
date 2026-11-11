@@ -1,0 +1,38 @@
+{
+  "id": "dca-cocina-cucamonga-quesabirria-warning",
+  "name": "DCA Cocina Cucamonga QuesaBirria Tacos (Chili Consomé & Radish/Onion Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cocina Cucamonga Mexican Grill (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "beef",
+    "cheese",
+    "spicy",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "cocina cucamonga quesabirria tacos",
+    "dca birria tacos",
+    "san fransokyo tacos"
+  ],
+  "whyItWorks": "While the braised beef is shredded and soft, the tacos are pan-fried in dried guajillo/ancho chili grease, stuffed with melted Monterey Jack, and served with a spicy red chili consomé, raw onions, and lime.",
+  "prepOrOrderInstructions": "If ordering at Cocina Cucamonga during a flare or cautious day, skip the QuesaBirria and order the Kids' Pollo Asado Taco with plain rice instead.",
+  "watchOuts": [
+    "High chili oil fat, raw chopped onions, lime juice (citrusFree: false), and dairy cheese"
+  ]
+}

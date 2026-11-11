@@ -1,0 +1,41 @@
+{
+  "id": "worlds-of-marvel-plant-based-soba-bowl",
+  "name": "Plant-Based Miso Soba Noodle Bowl with Edamame & Bok Choy (Groot Remix Night 2)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Celebration of Heroes: Groot Remix Night 2)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "tofu",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "soba noodle bowl",
+    "groot remix plant based",
+    "worlds of marvel night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Soft buckwheat-wheat soba noodles in miso broth are gentle, provided you skip the fibrous bok choy stalks, mushrooms, and whole edamame beans.",
+  "prepOrOrderInstructions": "Eat the soba noodles, broth, and tofu cubes; leave the whole edamame beans and fibrous greens in the bowl.",
+  "watchOuts": [
+    "Whole edamame beans and fibrous bok choy stems",
+    "Sesame seeds"
+  ]
+}

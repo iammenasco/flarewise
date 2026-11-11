@@ -1,0 +1,39 @@
+{
+  "id": "mad-moose-cafe-eden-bruce-the-moose-blt-avocado",
+  "name": "Mad Moose Cafe (Eden, UT) \"Bruce the Moose\" BLT with Sliced Avocado on Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mad Moose Cafe (Eden / Ogden Valley, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bacon",
+    "avocado",
+    "sourdough",
+    "sandwich"
+  ],
+  "searchKeywords": [
+    "mad moose cafe blt",
+    "bruce the moose sandwich",
+    "eden utah sandwich"
+  ],
+  "whyItWorks": "Crispy applewood smoked bacon, creamy sliced avocado, and mayo on toasted fermented sourdough bread. Sourdough is naturally low in FODMAPs.",
+  "prepOrOrderInstructions": "Order Bruce the Moose BLT on toasted sourdough; hold raw tomato slices during sensitive phases.",
+  "watchOuts": [
+    "Hold tomato slices if acid-sensitive"
+  ]
+}

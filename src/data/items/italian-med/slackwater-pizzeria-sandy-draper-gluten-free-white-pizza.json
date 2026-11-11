@@ -1,0 +1,37 @@
+{
+  "id": "slackwater-pizzeria-sandy-draper-gluten-free-white-pizza",
+  "name": "Slackwater Pizzeria (Sandy / Draper Border) Rotisserie Chicken, Provolone & Olive Oil Flatbread Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Slackwater Pizzeria & Pub (Sandy / Draper / Ogden, UT)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "cheese",
+    "gluten-free-option",
+    "utah"
+  ],
+  "searchKeywords": [
+    "slackwater pizzeria sandy draper",
+    "white pizza draper sandy",
+    "towneplace suites draper pizza"
+  ],
+  "whyItWorks": "Minutes from TownePlace Suites Draper, Slackwater's thin artisan crust (or gluten-free crust) brushed with olive oil, shredded chicken, and light mozzarella/parmesan avoids acidic red marinara sauce.",
+  "prepOrOrderInstructions": "Order a custom Olive Oil base pizza with grilled chicken and light cheese (hold raw red onions, jalapeños, balsamic glaze, and spicy sausage) and take a lactase enzyme.",
+  "watchOuts": [
+    "Avoid spicy honey/red-pepper pizzas and take lactase for the mozzarella cheese"
+  ]
+}

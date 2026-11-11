@@ -1,0 +1,43 @@
+{
+  "id": "pirate-night-carrot-cilantro-soup",
+  "name": "Caribbean Carrot & Cilantro Cream Soup with Banana Bread Croutons (Pirate Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "carrots",
+    "banana",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "carrot and cilantro soup",
+    "banana bread croutons",
+    "pirate night soup",
+    "disney cruise"
+  ],
+  "whyItWorks": "Puréed cooked carrots and soft banana bread croutons are rich in soothing soluble pectin with zero rough skins or seeds.",
+  "prepOrOrderInstructions": "Take a Lactaid enzyme for the cream base and enjoy warm.",
+  "watchOuts": [
+    "Dairy cream in soup base"
+  ]
+}

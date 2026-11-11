@@ -1,0 +1,40 @@
+{
+  "id": "bear-trapper-garden-city-all-day-pancakes-omelet",
+  "name": "Bear Trapper All-Day Homestyle Pancakes, Eggs & Ham/Swiss Omelet",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Bear Trapper Steakhouse (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "cheese",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bear trapper breakfast",
+    "garden city all day breakfast",
+    "bear trapper pancakes omelet"
+  ],
+  "whyItWorks": "Bear Trapper serves breakfast all day—fluffy white-flour pancakes, scrambled eggs, or a diced ham and aged Swiss/cheddar omelet provide gentle, low-residue protein and carbs anytime.",
+  "prepOrOrderInstructions": "Order the plain Homestyle Pancakes with scrambled eggs or a Ham & Cheese Omelet (skip raw bell peppers, onions, and mushrooms in the Denver/Western omelet).",
+  "watchOuts": [
+    "Pancake batter contains dairy/buttermilk",
+    "Skip hash browns if heavily browned in griddle oil"
+  ]
+}

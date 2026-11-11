@@ -1,0 +1,41 @@
+{
+  "id": "bear-lake-pizza-co-gluten-free-cheese-pizza",
+  "name": "Bear Lake Pizza Co. (Garden City, UT) Thin Gluten-Free Crust Mozzarella Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Bear Lake Pizza Co. (Garden City, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "pizza",
+    "gluten-free",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "bear lake pizza co gluten free",
+    "gf pizza garden city",
+    "gluten free bear lake"
+  ],
+  "whyItWorks": "Dedicated thin gluten-free crust topped with mild crushed tomato sauce and melted mozzarella. Digestible and free of wheat fructans.",
+  "prepOrOrderInstructions": "Order the 10-inch Gluten-Free Cheese Pizza with light marinara sauce.",
+  "watchOuts": [
+    "Contains dairy mozzarella"
+  ]
+}

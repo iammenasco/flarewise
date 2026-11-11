@@ -1,0 +1,37 @@
+{
+  "id": "gourmandise-draper-butternut-squash-pasta-salmon",
+  "name": "Gourmandise (Draper) Pan-Seared Salmon or Hand-Cut Butternut Squash Pasta (No Walnuts)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Gourmandise the Euro Bakery & Café (Draper, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "pasta-grains",
+    "squash",
+    "utah"
+  ],
+  "searchKeywords": [
+    "gourmandise draper dinner",
+    "gourmandise butternut squash pasta",
+    "gourmandise salmon draper"
+  ],
+  "whyItWorks": "Gourmandise's dinner menu in Draper features tender pan-seared salmon with mashed potatoes and fresh egg-pasta ribbons with sweet, soluble-fiber-rich roasted butternut squash.",
+  "prepOrOrderInstructions": "Order the Pan-Seared Salmon with no lemon sauce, or the Butternut Squash Pasta asking to hold any toasted walnuts/pine nuts and take a lactase tablet for the sage cream.",
+  "watchOuts": [
+    "Ask for no walnuts/pine nuts on the pasta and take lactase for the butter-sage sauce"
+  ]
+}

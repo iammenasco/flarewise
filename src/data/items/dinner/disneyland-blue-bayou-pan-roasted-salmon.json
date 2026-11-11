@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-blue-bayou-pan-roasted-salmon",
+  "name": "Pan-Roasted Sustainable Salmon with Glazed Carrots",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Blue Bayou Restaurant (Disneyland)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "fine-dining",
+    "salmon",
+    "seafood"
+  ],
+  "searchKeywords": [
+    "blue bayou",
+    "disneyland",
+    "pan roasted salmon",
+    "new orleans square"
+  ],
+  "whyItWorks": "Pristine salmon filet pan-seared with olive oil delivers anti-inflammatory omega-3 fatty acids and gentle protein inside Pirates of the Caribbean. Tender braised carrots provide digestible beta-carotene without tough cell walls.",
+  "prepOrOrderInstructions": "Ask for salmon cooked with light olive oil and sea salt, skipping any spicy Cajun blackening rubs or heavy butter emulsion sauces."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "plaza-de-coco-pumpkin-seed-hummus",
+  "name": "Toasted Pumpkin Seed & Garbanzo Hummus with Crisp Flatbread (Night 1)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "beans",
+    "seeds",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "toasted pumpkin seed garbanzo hummus",
+    "plaza de coco",
+    "disney treasure"
+  ],
+  "whyItWorks": "Chickpea GOS FODMAPs, whole toasted pepita (pumpkin) seeds on top, garlic, and lemon juice make this a multi-trigger dip.",
+  "prepOrOrderInstructions": "Skip the hummus and enjoy the warm Chorizo Street Croquettes or plain white bread rolls instead.",
+  "watchOuts": [
+    "Whole toasted pepita seeds",
+    "Chickpea GOS FODMAPs and garlic",
+    "Citrus juice in hummus"
+  ]
+}

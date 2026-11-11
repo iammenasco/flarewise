@@ -1,0 +1,41 @@
+{
+  "id": "mortys-cafe-logan-turkey-bacon-sandwich",
+  "name": "Morty's Cafe Roasted Turkey, Bacon & Provolone Sandwich on Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Morty's Cafe (Logan / USU Campus, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "pork",
+    "cheese",
+    "sourdough",
+    "sandwich",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "mortys cafe turkey sandwich",
+    "logan utah sourdough sandwich",
+    "mortys lunch"
+  ],
+  "whyItWorks": "Lean sliced turkey breast and naturally low-lactose provolone cheese on toasted sourdough bread is much lighter and gentler than a fried basket or spicy burger.",
+  "prepOrOrderInstructions": "Order the Turkey & Provolone Sandwich on sourdough or white bread, holding raw tomatoes, red onions, and sprouts.",
+  "watchOuts": [
+    "Ask for mayo or pesto-free spread on the side"
+  ]
+}

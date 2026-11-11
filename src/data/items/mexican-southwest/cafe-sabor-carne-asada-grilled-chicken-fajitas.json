@@ -1,0 +1,47 @@
+{
+  "id": "cafe-sabor-carne-asada-grilled-chicken-fajitas",
+  "name": "Café Sabor Grilled Chicken or Carne Asada with Warm Flour Tortillas & Rice",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "beef",
+    "steak",
+    "rice",
+    "tortilla",
+    "mexican",
+    "bear-lake",
+    "garden-city",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cafe sabor",
+    "carne asada",
+    "chicken fajitas",
+    "garden city mexican",
+    "logan cafe sabor"
+  ],
+  "whyItWorks": "Charbroiled carne asada steak or grilled chicken breast wrapped in soft white flour tortillas with white/Spanish rice and fresh avocado slices.",
+  "prepOrOrderInstructions": "Order the Carne Asada or Chicken Fajitas (eat the meat, flour tortillas, rice, and guacamole/avocado; leave the sautéed bell peppers and onions on the skillet) and ask for no lime squeeze.",
+  "watchOuts": [
+    "CITRUS WARNING: Request no lime wedge squeeze on carne asada or fajitas",
+    "Leave sautéed bell peppers and onions on the skillet"
+  ]
+}

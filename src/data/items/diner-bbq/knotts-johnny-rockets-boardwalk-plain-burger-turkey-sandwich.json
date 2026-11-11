@@ -1,0 +1,40 @@
+{
+  "id": "knotts-johnny-rockets-boardwalk-plain-burger-turkey-sandwich",
+  "name": "Knott's Johnny Rockets (Boardwalk) Plain Single Cheddar Burger, Grilled Chicken or Sourdough Melt",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Johnny Rockets (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "burger",
+    "sourdough",
+    "cheese",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "johnny rockets knotts berry farm",
+    "boardwalk burger knotts"
+  ],
+  "whyItWorks": "Freshly griddled single burger patty or grilled chicken breast on a soft bun or sourdough bread with American/cheddar cheese and thick-cut potato fries.",
+  "prepOrOrderInstructions": "Order the Original Single Burger or Grilled Chicken Breast Sandwich plain with cheese only (no grilled onions, relish, lettuce, tomato, or spicy Houston jalapeños).",
+  "watchOuts": [
+    "Avoid the spicy Houston Burger (jalapeños) and Smoke House fried onion rings"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "worlds-of-marvel-tamari-honey-salmon",
+  "name": "Tamari & Honey Glazed Salmon Filet with Soboro Rice (Groot Remix Night 2)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Celebration of Heroes: Groot Remix Night 2)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "rice",
+    "omega-3",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "tamari honey glazed salmon",
+    "groot remix menu",
+    "worlds of marvel night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Wheat-free tamari soy and honey glaze over baked omega-3 salmon and steamed white rice is dairy-free, citrus-free, and flare-friendly.",
+  "prepOrOrderInstructions": "Ask to hold any sesame seed or raw scallion garnish and request steamed white rice alongside.",
+  "watchOuts": [
+    "Sesame seeds or raw green onion garnish if not held"
+  ]
+}

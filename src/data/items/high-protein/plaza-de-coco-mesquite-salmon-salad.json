@@ -1,0 +1,41 @@
+{
+  "id": "plaza-de-coco-mesquite-salmon-salad",
+  "name": "Lighter Note Mesquite-Spiced Salmon Salad (Night 1)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "omega-3",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "mesquite spiced salmon",
+    "plaza de coco salmon",
+    "disney treasure"
+  ],
+  "whyItWorks": "The salmon filet itself is omega-3-rich and tender; ordering it plain over white rice instead of salad greens makes it a 9/10 meal.",
+  "prepOrOrderInstructions": "Ask for the salmon filet seasoned with salt only (no smoky mesquite chili rub) served with steamed jasmine rice or baked potato instead of the raw salad bed.",
+  "watchOuts": [
+    "Mesquite spice rub if not ordered plain",
+    "Raw salad greens in standard Lighter Note presentation"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "let-the-magic-begin-chicken-bastilla",
+  "name": "Moroccan Chicken \"Bastilla\" in Cinnamon Phyllo Pastry (Let the Magic Begin Menu)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "chicken bastilla",
+    "let the magic begin",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Anti-inflammatory turmeric-spiced pulled chicken wrapped in flaky cinnamon-sugar phyllo pastry.",
+  "prepOrOrderInstructions": "Eat the warm chicken phyllo pie only and leave the raw carrot-bell-pepper-almond slaw untouched.",
+  "watchOuts": [
+    "Raw carrot, bell pepper, and toasted almond slaw on the side (do not eat)"
+  ]
+}

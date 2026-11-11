@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-ronto-roasters-ronto-wrap-mild-mod",
+  "name": "Disneyland Ronto Roasters \"Ronto Wrap\" on Warm Pita (Hold Peppercorn Sauce)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Ronto Roasters (Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "pork",
+    "wrap",
+    "galaxys-edge"
+  ],
+  "searchKeywords": [
+    "ronto wrap",
+    "ronto roasters disneyland",
+    "galaxys edge wrap"
+  ],
+  "whyItWorks": "Roasted pork and grilled sausage wrapped in warm, soft pita bread. Asking to hold the spicy peppercorn sauce and crunchy cabbage slaw converts this into a gentle pork wrap.",
+  "prepOrOrderInstructions": "Order the Ronto Wrap and specifically request 'no peppercorn sauce and no raw cabbage slaw'.",
+  "watchOuts": [
+    "Hold spicy peppercorn sauce and raw cabbage slaw"
+  ]
+}

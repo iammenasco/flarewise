@@ -1,0 +1,40 @@
+{
+  "id": "worlds-of-marvel-ice-cream-sundae",
+  "name": "Celebration of Heroes Chocolate Peanut Butter / Brownie Sundae (Groot Remix Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Celebration of Heroes: Groot Remix Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "peanut-butter",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "groot remix sundae",
+    "worlds of marvel sundae",
+    "disney treasure"
+  ],
+  "whyItWorks": "Fudgy brownie pieces, smooth peanut butter swirl, and vanilla/chocolate ice cream with zero citrus.",
+  "prepOrOrderInstructions": "Ask to hold any chopped roasted peanut garnish on top (keep only the smooth peanut butter sauce) and take a Lactaid.",
+  "watchOuts": [
+    "Chopped nuts if garnished on top",
+    "High dairy lactose and sugar"
+  ]
+}

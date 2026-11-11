@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-gibson-girl-firehouse-dalmatian-sundae",
+  "name": "Disneyland Gibson Girl Firehouse Dalmatian Mint Chocolate Chip Sundae",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Gibson Girl Ice Cream Parlor (Disneyland Park)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "ice-cream",
+    "sundae",
+    "mint",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "gibson girl dalmatian sundae",
+    "firehouse dalmatian sundae",
+    "disneyland mint sundae"
+  ],
+  "whyItWorks": "Mint chocolate chip ice cream served with warm hot fudge, whipped cream, and a cherry. Mint naturally calms gastrointestinal smooth muscle.",
+  "prepOrOrderInstructions": "Order the Firehouse Dalmatian Sundae in a cup; take lactase enzyme tablets if lactose sensitive.",
+  "watchOuts": [
+    "Contains dairy ice cream and hot fudge"
+  ]
+}

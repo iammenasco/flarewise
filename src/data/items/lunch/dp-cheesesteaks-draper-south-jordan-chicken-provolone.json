@@ -1,0 +1,40 @@
+{
+  "id": "dp-cheesesteaks-draper-south-jordan-chicken-provolone",
+  "name": "DP Cheesesteaks (Draper / South Jordan / Lehi) Grilled Chicken or Ribeye & Provolone (\"Wiz Witout\")",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "DP Cheesesteaks (Draper / South Jordan / Lehi, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "dp cheesesteaks draper",
+    "dp cheesesteaks south jordan",
+    "philly cheesesteak utah"
+  ],
+  "whyItWorks": "Thinly shaved chicken breast or ribeye steak Chop-Griddled on an authentic soft Amoroso hoagie roll with mild aged provolone cheese (\"witout\" onions/peppers) is soft, low-fiber, and easy to chew.",
+  "prepOrOrderInstructions": "Order a Plain Chicken or Steak Provolone Cheesesteak \"Witout\" (NO grilled onions, NO bell peppers, NO jalapenos, and provolone instead of processed Cheez Whiz).",
+  "watchOuts": [
+    "Choose aged Provolone cheese instead of liquid Cheez Whiz (high lactose + emulsifiers) and always order \"witout\" onions"
+  ]
+}

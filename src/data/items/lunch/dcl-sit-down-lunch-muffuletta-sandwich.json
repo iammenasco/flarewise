@@ -1,0 +1,42 @@
+{
+  "id": "dcl-sit-down-lunch-muffuletta-sandwich",
+  "name": "Sit-Down Lunch New Orleans Muffuletta Sandwich with Chips",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "pork",
+    "cheese",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "muffuletta sandwich",
+    "sit down lunch",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Aged provolone cheese and mortadella are lactose-safe, but sesame-crusted bread, fatty salami, and briny olive-giardiniera salad are rough.",
+  "prepOrOrderInstructions": "Ask for the sandwich made without the chopped olive/pickled vegetable salad and swap sesame bread for plain white bread.",
+  "watchOuts": [
+    "Chopped olive and pickled giardiniera relish",
+    "Sesame seeds on muffuletta loaf and cured salami fat"
+  ]
+}

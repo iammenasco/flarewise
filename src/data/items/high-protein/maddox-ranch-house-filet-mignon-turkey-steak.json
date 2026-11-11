@@ -1,0 +1,43 @@
+{
+  "id": "maddox-ranch-house-filet-mignon-turkey-steak",
+  "name": "Maddox Ranch House Center-Cut Filet Mignon & Throwback Crown Turkey Steak",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Maddox Ranch House (Perry / Brigham City — Hwy 89 to Logan & Bear Lake)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "turkey",
+    "potato",
+    "high-protein",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "maddox filet mignon",
+    "maddox turkey steak",
+    "maddox roast beef",
+    "maddox ranch house menu"
+  ],
+  "whyItWorks": "Never wrapped in fatty bacon, Maddox's center-cut beef filet mignon and grilled Crown Turkey Steak are ultra-lean, zero-fiber proteins.",
+  "prepOrOrderInstructions": "Order the Filet Mignon, Tender Roast Beef, or Crown Turkey Steak with a plain baked potato (eat the fluffy inside) and warm dinner rolls.",
+  "watchOuts": [
+    "Skip the raw green salad starter and fried shrimp"
+  ]
+}

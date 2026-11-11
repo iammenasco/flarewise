@@ -1,0 +1,37 @@
+{
+  "id": "dans-drive-in-montpelier-hot-ham-and-swiss",
+  "name": "Hot Ham & Swiss on Grilled White Bread",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "bear-lake",
+    "montpelier",
+    "sandwich",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "dans drive in",
+    "montpelier idaho",
+    "hot ham and swiss",
+    "grilled sandwich"
+  ],
+  "whyItWorks": "Tender sliced deli ham served on plain griddled white bread provides gentle protein with low roughage. Swiss cheese is naturally very low in lactose, making this warm sandwich far gentler on Crohn's digestion than fatty burgers or fried items.",
+  "prepOrOrderInstructions": "Ask for it lightly grilled without extra butter or margarine on the griddle. Skip mustard, pickles, or tomato if sensitive to acids."
+}

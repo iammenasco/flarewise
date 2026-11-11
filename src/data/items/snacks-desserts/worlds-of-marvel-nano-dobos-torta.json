@@ -1,0 +1,39 @@
+{
+  "id": "worlds-of-marvel-nano-dobos-torta",
+  "name": "Sokovian Nano Dobos Torta (7-Layer Chocolate Buttercream Sponge, Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "nano dobos torta",
+    "dobos torte",
+    "worlds of marvel dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Delicate Hungarian vanilla sponge layers with smooth chocolate buttercream and hard caramel top—100% nut-free, seedless, and citrus-free.",
+  "prepOrOrderInstructions": "Enjoy with a Lactaid pill for the buttercream layers.",
+  "watchOuts": [
+    "Chocolate buttercream dairy fat and sugar"
+  ]
+}

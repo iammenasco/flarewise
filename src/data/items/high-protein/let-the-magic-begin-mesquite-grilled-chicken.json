@@ -1,0 +1,41 @@
+{
+  "id": "let-the-magic-begin-mesquite-grilled-chicken",
+  "name": "Mesquite Grilled Chicken Breast with Crushed Sweet Potatoes (Let the Magic Begin)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "sweet-potato",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "mesquite grilled chicken breast",
+    "crushed sweet potatoes",
+    "let the magic begin"
+  ],
+  "whyItWorks": "Grilled chicken breast over mashed sweet potatoes is a high-protein, soluble-fiber powerhouse once the corn-bacon sauce is held.",
+  "prepOrOrderInstructions": "Ask for the chicken breast grilled plain (light salt, no smoky mesquite rub) over the crushed sweet potatoes, holding the cream-of-corn bacon sauce and spinach.",
+  "watchOuts": [
+    "Corn kernels and bacon fat in the sauce (ask to hold)",
+    "Mesquite spice rub"
+  ]
+}

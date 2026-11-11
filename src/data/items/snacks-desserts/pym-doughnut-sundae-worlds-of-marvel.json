@@ -1,0 +1,45 @@
+{
+  "id": "pym-doughnut-sundae-worlds-of-marvel",
+  "name": "Pym Doughnut Sundae & Nano Dobos Torta",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pastry",
+    "ice-cream",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "pym doughnut sundae",
+    "nano dobos torta",
+    "chocolate decadence",
+    "marvel ice cream sundae",
+    "worlds of marvel dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Soft glazed doughnut + dulche de leche ice cream or layered sponge/chocolate ganache (Nano Dobos Torta) deliver smooth, zero-fiber sweet calories.",
+  "prepOrOrderInstructions": "Order the Pym Doughnut Sundae, Nano Dobos Torta, or Marvel Ice Cream Sundae (with a Lactaid pill). Strictly avoid the Quantum Key Lime Pie and Double Blueberry Cheesecake (lemon shortcrust) if following the citrus guardrail.",
+  "watchOuts": [
+    "Quantum Key Lime Pie (lime citrus)",
+    "Double Blueberry Cheesecake (lemon crust + berry skins)",
+    "Dairy ice cream lactose"
+  ]
+}

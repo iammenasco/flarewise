@@ -1,0 +1,48 @@
+{
+  "id": "dcl-royal-tea-sandwiches-scones-eclairs",
+  "name": "Royal Court / Adventure Tea: Finger Sandwiches, Warm Scones with Clotted Cream & Éclairs",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Royal Tea Experience & Cove Café",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack",
+    "dessert",
+    "drink"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "tea",
+    "sandwich",
+    "bakery",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "royal court royal tea",
+    "afternoon tea",
+    "scones",
+    "tea sandwiches",
+    "chocolate eclair",
+    "disney cruise"
+  ],
+  "whyItWorks": "Crustless white-bread turkey, ham, egg-salad, and peeled-cucumber tea sandwiches plus plain buttermilk scones and chocolate éclairs are low-residue.",
+  "prepOrOrderInstructions": "Choose chamomile, peppermint, or vanilla rooibos herbal tea (strictly skip Earl Grey / Lady Grey tea due to bergamot citrus oil), and pair scones/éclairs with a Lactaid.",
+  "watchOuts": [
+    "Strictly avoid Earl Grey tea (bergamot citrus oil)",
+    "Skip seeded raspberry jam on scones (use honey/butter or strawberry jelly)"
+  ]
+}

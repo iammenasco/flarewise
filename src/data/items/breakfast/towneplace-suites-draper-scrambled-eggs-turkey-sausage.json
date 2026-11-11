@@ -1,0 +1,39 @@
+{
+  "id": "towneplace-suites-draper-scrambled-eggs-turkey-sausage",
+  "name": "TownePlace Suites (Draper, UT) Hot Scrambled Eggs & Lean Turkey Sausage Patties",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "TownePlace Suites Salt Lake City Draper",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "draper",
+    "breakfast",
+    "eggs",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "towneplace suites eggs",
+    "hotel hot breakfast draper",
+    "turkey sausage hotel breakfast"
+  ],
+  "whyItWorks": "Hot buffet staple providing lean, easily absorbed protein. Turkey sausage has significantly less grease and saturated fat than pork links. Soft scrambled eggs are practically zero-residue.",
+  "prepOrOrderInstructions": "Serve two scoops of fluffy scrambled eggs and two lean turkey sausage patties with white toast.",
+  "watchOuts": [
+    "None; premier gentle travel breakfast"
+  ]
+}

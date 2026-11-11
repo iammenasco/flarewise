@@ -1,0 +1,39 @@
+{
+  "id": "dca-pym-test-kitchen-not-so-little-chicken-sandwich",
+  "name": "DCA Pym Test Kitchen \"Not So Little Chicken Sandwich\" (Slaw on Side Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Pym Test Kitchen (Disney California Adventure)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "chicken",
+    "sandwich",
+    "avengers-campus"
+  ],
+  "searchKeywords": [
+    "not so little chicken sandwich",
+    "pym chicken sandwich",
+    "avengers campus chicken"
+  ],
+  "whyItWorks": "Enormous crispy fried chicken cutlet on a comically small mini brioche bun with sweet teriyaki glaze. White meat chicken breast is lean and digestible.",
+  "prepOrOrderInstructions": "Order the Not So Little Chicken Sandwich with sweet teriyaki glaze; ask for the raw red cabbage slaw served on the side.",
+  "watchOuts": [
+    "Keep raw cabbage slaw on the side to prevent roughage gas"
+  ]
+}

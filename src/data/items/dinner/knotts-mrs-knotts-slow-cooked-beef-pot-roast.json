@@ -1,0 +1,39 @@
+{
+  "id": "knotts-mrs-knotts-slow-cooked-beef-pot-roast",
+  "name": "Knott's Mrs. Knott's Slow-Cooked Beef Pot Roast & Mashed Idaho Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (Knott's Berry Farm)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "beef",
+    "pot-roast",
+    "mashed-potatoes"
+  ],
+  "searchKeywords": [
+    "mrs knotts pot roast",
+    "knotts berry farm pot roast",
+    "beef pot roast buena park"
+  ],
+  "whyItWorks": "Braised fork-tender beef chuck simmered with carrots and savory brown gravy over fluffy mashed potatoes. Collagen is melted into a soothing, low-residue dinner.",
+  "prepOrOrderInstructions": "Order the Pot Roast Dinner with mashed potatoes and brown gravy (substitute extra potatoes for kernel corn).",
+  "watchOuts": [
+    "None; gentle tender beef dinner"
+  ]
+}

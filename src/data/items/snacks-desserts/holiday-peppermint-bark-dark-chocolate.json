@@ -1,0 +1,38 @@
+{
+  "id": "holiday-peppermint-bark-dark-chocolate",
+  "name": "Holiday Handcrafted Peppermint Bark (Dark & White Chocolate Layers)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Traditional Holiday Feast (Christmas)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "christmas",
+    "chocolate",
+    "peppermint",
+    "candy"
+  ],
+  "searchKeywords": [
+    "peppermint bark",
+    "christmas peppermint bark",
+    "holiday dark chocolate peppermint"
+  ],
+  "whyItWorks": "Layered dark and white chocolate infused with natural peppermint oil and topped with finely crushed candy cane pieces. Peppermint oil naturally relaxes intestinal smooth muscle spasms.",
+  "prepOrOrderInstructions": "Savor a small square of peppermint bark after meals; the peppermint oil helps soothe bloating.",
+  "watchOuts": [
+    "Contains dairy in the white chocolate layer"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-ronto-roasters-pork-pita-plain-mod",
+  "name": "Disneyland Ronto Roasters Classic Ronto Wrap (Roasted Pork & Sausage in Pita — No Slaw/Sauce Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Ronto Roasters (Star Wars: Galaxy's Edge · Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "pita",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "ronto wrap disneyland",
+    "ronto roasters plain wrap",
+    "star wars ronto wrap"
+  ],
+  "whyItWorks": "Sliced slow-roasted pork and grilled sausage in a warm, soft pita bread are dairy-free and high-protein once you hold the crunchy cabbage slaw and peppercorn \"clutch\" sauce.",
+  "prepOrOrderInstructions": "Order the Ronto Wrap with **NO slaw** and **NO peppercorn sauce** (just the roasted pork, sausage, and warm pita).",
+  "watchOuts": [
+    "Standard wrap is topped with raw cabbage slaw and spicy Sichuan peppercorn sauce—must order plain"
+  ]
+}

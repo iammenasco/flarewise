@@ -1,0 +1,39 @@
+{
+  "id": "holiday-sugar-cookies-snickerdoodles-shortbread",
+  "name": "Holiday Frosted Sugar Cookies, Butter Shortbread & Snickerdoodles",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Holiday Home Cooking & Local Bakeries (Christmas & Thanksgiving)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "holiday",
+    "christmas",
+    "thanksgiving"
+  ],
+  "searchKeywords": [
+    "christmas sugar cookies",
+    "holiday shortbread cookies",
+    "snickerdoodle cookie",
+    "swig sugar cookie"
+  ],
+  "whyItWorks": "Made strictly from white flour, butter, sugar, eggs, and vanilla/cinnamon—100% free of nuts, coconut shreds, dried fruit, or oats, making them the safest Christmas cookie plate choice.",
+  "prepOrOrderInstructions": "Choose plain Butter Shortbread, Snickerdoodles, or soft Frosted Sugar Cookies (without lemon/almond extract if citrus-sensitive, and without hard metallic dragée sprinkles).",
+  "watchOuts": [
+    "Skip oatmeal raisin, pecan sandies, macaroons (shredded coconut is high insoluble fiber), and lemon-glazed cookies"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "knotts-pemmican-pickle-skin-seed-warning",
+  "name": "Knott's Pemmican Pickle & Park Pickle Carts Giant Whole Dill Pickle (Skin & Seed Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pemmican Pickle (Ghost Town · Knott's) & Disneyland Fruit Carts",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "snack",
+    "vacation",
+    "knotts-berry-farm",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "disneyland pickle",
+    "pemmican pickle knotts berry farm"
+  ],
+  "whyItWorks": "While salty dill pickle juice is great for heat-exhaustion electrolytes, a giant whole cucumber pickle has thick, waxy insoluble skin and hundreds of seeds that can irritate an active flare.",
+  "prepOrOrderInstructions": "If craving the salt on a hot park day, sip the pickle brine or eat only the soft inner flesh while leaving the tough dark-green outer skin behind (and never order the Spicy Hot Pickle!).",
+  "watchOuts": [
+    "Tough cucumber skins and seeds; avoid Spicy Chamoy/Hot Pickles completely"
+  ]
+}

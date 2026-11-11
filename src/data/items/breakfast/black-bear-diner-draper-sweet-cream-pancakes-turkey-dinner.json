@@ -1,0 +1,45 @@
+{
+  "id": "black-bear-diner-draper-sweet-cream-pancakes-turkey-dinner",
+  "name": "Black Bear Diner (Draper) Sweet Cream Pancakes, Scrambled Eggs & Carved Roast Turkey Dinner",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Black Bear Diner (12300 S · Draper & South Jordan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pancakes",
+    "eggs",
+    "turkey",
+    "potato",
+    "bread",
+    "draper",
+    "south-jordan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "black bear diner draper",
+    "sweet cream pancakes",
+    "black bear roast turkey dinner",
+    "draper breakfast"
+  ],
+  "whyItWorks": "Right across from TownePlace Suites Draper: Black Bear's famous Sweet Cream Pancakes, scrambled eggs, and slow-roasted Carved Turkey Dinner with mashed potatoes and a homemade biscuit are classic comfort food.",
+  "prepOrOrderInstructions": "For breakfast, order the \" Bear's Choice\" with Sweet Cream Pancakes, scrambled eggs, and ham/bacon; for dinner, order the Roasted Turkey Dinner or Pot Roast with mashed potatoes and a cup of Chicken Noodle Soup.",
+  "watchOuts": [
+    "Portions are huge—eat half and save the rest so you don't overload a sensitive stomach"
+  ]
+}

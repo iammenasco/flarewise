@@ -1,0 +1,41 @@
+{
+  "id": "some-beaches-laketown-spinnaker-bbq-burger",
+  "name": "Some Beaches (Laketown, UT) \"The Spinnaker\" BBQ Bacon Cheeseburger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "beef",
+    "burger",
+    "bbq"
+  ],
+  "searchKeywords": [
+    "some beaches spinnaker burger",
+    "laketown bbq burger",
+    "bear lake smash burger"
+  ],
+  "whyItWorks": "Some Beaches in Laketown makes excellent flat-top smash burgers. The Spinnaker features sweet BBQ sauce and bacon on an artisan bun. Safe in remission with light sauce.",
+  "prepOrOrderInstructions": "Order The Spinnaker BBQ Burger with light BBQ sauce and hold any raw onion slices.",
+  "watchOuts": [
+    "Griddled chuck patty, bacon fat, and spiced barbecue sauce can be rich during active symptoms"
+  ]
+}

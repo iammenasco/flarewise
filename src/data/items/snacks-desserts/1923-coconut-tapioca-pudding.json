@@ -1,0 +1,39 @@
+{
+  "id": "1923-coconut-tapioca-pudding",
+  "name": "No-Sugar-Added Coconut Tapioca Pudding with Berry Compote (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "coconut",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "coconut tapioca pudding",
+    "1923 no sugar added",
+    "disney treasure"
+  ],
+  "whyItWorks": "Dairy-free coconut milk and soft tapioca pearls are gentle, though the berry topping and possible lime zest garnish require scraping off.",
+  "prepOrOrderInstructions": "Eat the white coconut tapioca base only, scraping off any seeded berry compote or lime zest on top.",
+  "watchOuts": [
+    "Berry seeds and possible lime zest garnish on top",
+    "Sugar-free sweetener"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "towneplace-suites-draper-fresh-belgian-waffle",
+  "name": "TownePlace Suites (Draper, UT) Freshly Griddled Belgian Waffle & Maple Syrup",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "TownePlace Suites Salt Lake City Draper",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "draper",
+    "breakfast",
+    "waffles"
+  ],
+  "searchKeywords": [
+    "towneplace suites draper breakfast",
+    "hotel waffle station",
+    "draper utah breakfast buffet"
+  ],
+  "whyItWorks": "Made fresh in the hotel lobby waffle iron. Golden, fluffy, and tender interior with zero seeds, nuts, or roughage. Highly digestible carbohydrate energy for travel days.",
+  "prepOrOrderInstructions": "Pour batter into the rotating waffle maker until golden; top with pure maple syrup and a pat of butter (skip strawberry toppings with seeds).",
+  "watchOuts": [
+    "Avoid fruit compote toppings containing whole berry seeds"
+  ]
+}

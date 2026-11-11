@@ -1,0 +1,41 @@
+{
+  "id": "prince-princess-garlic-parsley-shrimp-asparagus",
+  "name": "Garlic & Parsley Sautéed Shrimp with Asparagus Spears (Prince & Princess Menu)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Prince & Princess Dinner Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "garlic parsley sauteed shrimp",
+    "asparagus salad",
+    "prince and princess menu"
+  ],
+  "whyItWorks": "Tender sautéed shrimp and soft asparagus tips provide lean protein; leave fibrous lower asparagus stalks on the plate.",
+  "prepOrOrderInstructions": "Eat the sautéed shrimp and tender asparagus tips only (leave woody lower stalks behind).",
+  "watchOuts": [
+    "Fibrous lower asparagus stalks and fructans",
+    "Garlic butter seasoning"
+  ]
+}

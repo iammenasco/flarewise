@@ -1,0 +1,41 @@
+{
+  "id": "coopers-bear-lake-west-pan-seared-salmon-baked-potato",
+  "name": "Cooper's Restaurant (Fish Haven, ID) Pan-Seared Atlantic Salmon & Idaho Baked Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Fish Haven / Bear Lake West, ID)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "fish-haven",
+    "bear-lake",
+    "salmon",
+    "omega-3",
+    "potatoes",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "coopers salmon",
+    "bear lake west salmon",
+    "fish haven idaho dinner",
+    "coopers restaurant"
+  ],
+  "whyItWorks": "An elite flare-safe dinner overlooking Bear Lake. Fresh pan-seared Atlantic salmon is rich in anti-inflammatory omega-3 fatty acids, paired with smooth, easily digested Idaho baked potato flesh.",
+  "prepOrOrderInstructions": "Order Pan-Seared Salmon with sea salt and olive oil, accompanied by an Idaho baked potato (eat the soft interior with butter, leave the tough potato skin uneaten).",
+  "watchOuts": [
+    "Discard tough baked potato skin during flare periods"
+  ]
+}

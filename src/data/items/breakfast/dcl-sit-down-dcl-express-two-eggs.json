@@ -1,0 +1,47 @@
+{
+  "id": "dcl-sit-down-dcl-express-two-eggs",
+  "name": "Sit-Down Breakfast \"DCL Express\" & Two Eggs Any Style Platter",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "turkey",
+    "pork",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "dcl express breakfast",
+    "two eggs any style",
+    "turkey sausage",
+    "corned beef hash",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Freshly cooked scrambled, poached, or over-well eggs with grilled turkey sausage and white toast is a clean, high-protein morning baseline.",
+  "prepOrOrderInstructions": "Order Two Eggs Any Style with grilled turkey sausage and white toast or English muffin; skip the half-grilled tomato and heavy corned beef hash.",
+  "watchOuts": [
+    "Skip the grilled tomato skin/seeds",
+    "Blot fried hash brown triangle"
+  ]
+}

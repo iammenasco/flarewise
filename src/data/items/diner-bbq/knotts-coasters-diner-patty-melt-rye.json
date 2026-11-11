@@ -1,0 +1,40 @@
+{
+  "id": "knotts-coasters-diner-patty-melt-rye",
+  "name": "Knott's Coasters Diner Sourdough / Rye Patty Melt (Hold Sautéed Onions)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Coasters Diner (Knott's Berry Farm)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "beef",
+    "burger",
+    "sandwich",
+    "boardwalk"
+  ],
+  "searchKeywords": [
+    "coasters diner patty melt",
+    "knotts patty melt",
+    "boardwalk diner sandwich"
+  ],
+  "whyItWorks": "Grilled beef patty with melted Swiss cheese on toasted marbled rye bread. Swiss cheese is naturally low in lactose. Holding sautéed onions eliminates gas triggers.",
+  "prepOrOrderInstructions": "Order the Patty Melt on grilled rye with Swiss cheese; request 'no sautéed onions'.",
+  "watchOuts": [
+    "Hold sautéed onions to prevent allium gas"
+  ]
+}

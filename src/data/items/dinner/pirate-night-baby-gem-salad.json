@@ -1,0 +1,41 @@
+{
+  "id": "pirate-night-baby-gem-salad",
+  "name": "Pirate's Baby Gem Lettuce Salad with Buttermilk Ranch & Crispy Bacon (Pirate Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salad",
+    "greens",
+    "pork",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "baby gem salad",
+    "pirate night salad",
+    "disney cruise"
+  ],
+  "whyItWorks": "Raw baby gem lettuce ribs, cherry tomato skins, and buttermilk ranch dressing carry mechanical and dairy triggers.",
+  "prepOrOrderInstructions": "Skip raw salads during flares in favor of the Carrot & Cilantro Soup.",
+  "watchOuts": [
+    "Raw lettuce ribs and cherry tomato skins",
+    "Buttermilk ranch lactose"
+  ]
+}

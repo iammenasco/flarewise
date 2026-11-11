@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-croquetas-de-jamon",
+  "name": "Porto's Bakery (Buena Park, CA) Crispy Golden Ham Croquettes (Croquetas de Jamón)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "ham",
+    "croquettes",
+    "portos",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos ham croquettes",
+    "croquetas de jamon portos",
+    "buena park savory snacks"
+  ],
+  "whyItWorks": "Minced smoked ham blended into smooth white sauce and fried until crisp outside and creamy inside. Savory, protein-packed, and low in fiber.",
+  "prepOrOrderInstructions": "Order 2-3 warm Ham Croquettes; enjoy warm.",
+  "watchOuts": [
+    "Smoked ham provides natural sodium"
+  ]
+}

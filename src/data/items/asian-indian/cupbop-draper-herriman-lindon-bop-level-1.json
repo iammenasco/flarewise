@@ -1,0 +1,44 @@
+{
+  "id": "cupbop-draper-herriman-lindon-bop-level-1",
+  "name": "Cupbop Korean BBQ (Draper / Herriman / Lindon / Logan) \"KKO KKO Bop\" Chicken or \"B Bop\" Beef (Spice Level 1)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Cupbop Korean BBQ in a Cup (Draper / Herriman / Lindon / Logan, UT)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "noodles",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cupbop utah",
+    "kko kko bop",
+    "cupbop spice level 1",
+    "korean bbq bowl draper herriman logan"
+  ],
+  "whyItWorks": "Cupbop's base of steamed white rice and sweet-potato glass noodles (japchae) topped with grilled chicken (KKO KKO Bop) or bulgogi beef (B Bop) at Spice Level 1 (0% chili heat, sweet-savory soy only) and \"no cabbage\" is an ultra-digestible Utah fast-casual staple.",
+  "prepOrOrderInstructions": "Order KKO KKO Bop (Grilled Chicken) or B Bop (Bulgogi Beef) at **Spice Level 1** (Sweet & Mild, no spicy sauce) and ask for **\"No Cabbage\"** so your bowl is strictly white rice, glass noodles, and meat.",
+  "watchOuts": [
+    "Always specify \"No Cabbage\" (shredded raw cabbage is default) and stick to Spice Level 1 or 2—never order Level 5+ during a flare"
+  ]
+}

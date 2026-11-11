@@ -1,0 +1,41 @@
+{
+  "id": "halloween-on-the-high-seas-spider-cake-pumpkin-treats",
+  "name": "Halloween on the High Seas: Chocolate Spider Cake, Pumpkin Cheesecake & Ghost Cupcakes",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Halloween on the High Seas",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "halloween on the high seas",
+    "spider cake",
+    "pumpkin tart",
+    "disney cruise halloween"
+  ],
+  "whyItWorks": "Special October/Halloween desserts—Chocolate Spider Mousse Cake, Spiced Pumpkin Tart, and Vanilla Ghost Cupcakes—are smooth, nut-free, and citrus-free.",
+  "prepOrOrderInstructions": "Pair with a Lactaid pill and check café display placards to avoid any blood-orange or green-apple citrus gels.",
+  "watchOuts": [
+    "Verify decorative gels are berry/vanilla rather than blood-orange citrus"
+  ]
+}

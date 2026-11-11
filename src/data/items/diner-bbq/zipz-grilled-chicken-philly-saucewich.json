@@ -1,0 +1,43 @@
+{
+  "id": "zipz-grilled-chicken-philly-saucewich",
+  "name": "Zipz Grilled Chicken Sandwich, Philly Cheesesteak, or All-Beef Hot Dog",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Zipz (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "sandwich",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "zipz chicken sandwich",
+    "zipz philly cheesesteak",
+    "zipz saucewich",
+    "zipz hot dog"
+  ],
+  "whyItWorks": "Zipz offers grilled chicken breast sandwiches, shaved beef cheesesteaks, and all-beef hot dogs on white buns with a DIY sauce bar so you control every condiment.",
+  "prepOrOrderInstructions": "Order the Grilled Chicken Sandwich (not chipotle/spicy), Philly Cheesesteak without bell peppers/onions, or a plain Hot Dog.",
+  "watchOuts": [
+    "Order Philly Cheesesteak without sautéed bell peppers and onions",
+    "Skip spicy sauces at the dipping bar"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-cafe-orleans-pommes-frites-warning",
+  "name": "Pommes Frites with Garlic, Parmesan & Cajun Remoulade",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Cafe Orleans (Disneyland)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "pommes-frites",
+    "french-fries",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "cafe orleans",
+    "disneyland",
+    "pommes frites",
+    "garlic fries",
+    "cajun remoulade"
+  ],
+  "whyItWorks": "Deep-fried thin shoestring potatoes tossed in minced raw garlic, chopped parsley, grated parmesan cheese, and served with spicy cajun remoulade. Raw alliums and deep-fry grease aggressively spark GI spasms.",
+  "prepOrOrderInstructions": "Garlic & Fat Hazard: Best avoided. If craving fries, request plain fries without garlic, cheese, or dipping remoulade."
+}

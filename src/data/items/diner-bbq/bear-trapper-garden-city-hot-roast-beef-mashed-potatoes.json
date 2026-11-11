@@ -1,0 +1,38 @@
+{
+  "id": "bear-trapper-garden-city-hot-roast-beef-mashed-potatoes",
+  "name": "Bear Trapper Slow-Cooked Hot Roast Beef & Mashed Potatoes",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Bear Trapper Steakhouse (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "potato",
+    "high-protein",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bear trapper hot roast beef",
+    "garden city roast beef mashed potatoes",
+    "bear lake comfort food"
+  ],
+  "whyItWorks": "Slow-cooked roast beef is fork-tender with broken-down connective tissue, served over soft white bread and whipped mashed potatoes with zero roughage.",
+  "prepOrOrderInstructions": "Order the Hot Roast Beef Sandwich platter with mashed potatoes and ask for gravy on the side so you can control the richness.",
+  "watchOuts": [
+    "Mashed potatoes and gravy contain dairy and roux—take lactase and ask for gravy on the side"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "labeaus-smooth-shake-burnt-almond-banana-chocolate",
+  "name": "LaBeau's Seedless Shake Hack (Fresh Banana, Chocolate Malt, or Vanilla Cheesecake)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "LaBeau's / LaBeau's Too (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "shake",
+    "banana",
+    "chocolate",
+    "sweet",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "labeaus shake flavors",
+    "labeaus banana shake",
+    "labeaus chocolate shake",
+    "bear lake seedless shake"
+  ],
+  "whyItWorks": "Lets you join the LaBeau's shake line without ingesting sharp raspberry seeds by choosing one of their smooth, seed-free flavors like Fresh Banana, Chocolate Malt, or Oreo/Cheesecake.",
+  "prepOrOrderInstructions": "Order a small Fresh Banana, Chocolate Malt, or Vanilla shake (avoid berry flavors with seeds and nut flavors like Burnt Almond Fudge) and take 2 Lactaid caplets before sipping.",
+  "watchOuts": [
+    "High lactose in ice cream base—always pair with Lactaid",
+    "Avoid Burnt Almond Fudge or Pecan flavors (whole nuts)"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "some-beaches-the-rock-cheeseburger",
+  "name": "Some Beaches \"The Rock\" Hand-Smashed Cheeseburger (Plain Bun Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "some beaches",
+    "laketown utah",
+    "bear lake burger",
+    "the rock cheeseburger",
+    "spinnacker burger"
+  ],
+  "whyItWorks": "100% ground chuck smashburger on a soft artisan white bun with aged cheddar cheese; skipping raw onion rings and spicy hot honey keeps it easy on the gut after a day on Bear Lake.",
+  "prepOrOrderInstructions": "Order \"The Rock Cheeseburger\" plain with aged cheddar on the artisan bun (ketchup or mayo on the side)—skip the fried onion rings on the Spinnacker and the chili-infused Garden City Hot Honey.",
+  "watchOuts": [
+    "Skip raw onions, fried onion rings, and spicy hot honey glaze"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "dca-cappuccino-cart-san-fransokyo-breakfast-burrito",
+  "name": "DCA Cappuccino Cart (San Fransokyo) Morning Chorizo-Free Egg, Potato & Cheese Breakfast Burrito Mod",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Cappuccino Cart (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "potato",
+    "cheese",
+    "pork",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "cappuccino cart breakfast burrito dca",
+    "san fransokyo breakfast"
+  ],
+  "whyItWorks": "Popular rope-drop burrito filled with scrambled eggs, potatoes, and cheese, though the pre-mixed pork chorizo sausage adds paprika/chili fat that makes Pym Test Kitchen's Calculated Breakfast a safer flare choice.",
+  "prepOrOrderInstructions": "If ordering in steady remission, skip the spicy green tomatillo salsa cup; on sensitive days, walk 2 minutes to Pym Test Kitchen for plain Scrambled Eggs, Bacon & Focaccia Toast instead.",
+  "watchOuts": [
+    "Contains spiced chorizo sausage—choose Pym Test Kitchen or Shawarma Palace (no harissa) for a gentler DCA breakfast"
+  ]
+}

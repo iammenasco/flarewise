@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-downtown-disney-splitsville-sushi-california-roll-chicken-bowl",
+  "name": "Downtown Disney Splitsville Luxury Lanes: Fresh Salmon Nigiri, California Roll & Grilled Chicken Rice Bowl",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Splitsville Luxury Lanes (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "seafood",
+    "chicken",
+    "rice",
+    "avocado",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "splitsville downtown disney sushi",
+    "sushi disneyland",
+    "grilled chicken bowl downtown disney"
+  ],
+  "whyItWorks": "Splitsville actually has one of the best sushi bars and scratch kitchens in Downtown Disney: fresh Salmon Nigiri, plain California/Avocado Rolls, and a Grilled Chicken & White Rice bowl (ordered with mild teriyaki on the side, no broccoli/peppers).",
+  "prepOrOrderInstructions": "Order the California Roll, Salmon Nigiri, or Grilled Chicken & White Rice Bowl (ask for plain grilled chicken and white rice only, no spicy volcano/sriracha mayo and no ponzu citrus sauce).",
+  "watchOuts": [
+    "Skip Volcano Roll (spicy mayo) and any rolls with ponzu/lemon slices"
+  ]
+}

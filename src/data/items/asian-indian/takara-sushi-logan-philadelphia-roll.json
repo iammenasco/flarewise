@@ -1,0 +1,42 @@
+{
+  "id": "takara-sushi-logan-philadelphia-roll",
+  "name": "Takara Sushi (Logan, UT) Philadelphia Roll (Smoked Salmon & Cream Cheese)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "japanese",
+    "sushi",
+    "salmon",
+    "cream-cheese"
+  ],
+  "searchKeywords": [
+    "takara philadelphia roll",
+    "smoked salmon roll logan",
+    "cream cheese sushi logan"
+  ],
+  "whyItWorks": "Smoked salmon and smooth cream cheese provide mild, comforting protein and fat inside tender sushi rice. Ask for peeled cucumber or sub avocado for zero seeds.",
+  "prepOrOrderInstructions": "Order the Philadelphia Roll with avocado instead of cucumber matchsticks for softer texture.",
+  "watchOuts": [
+    "Contains dairy cream cheese"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dans-drive-in-montpelier-raspberry-shake-seed-warning",
+  "name": "Dan's Drive-In (Montpelier, ID) Famous Bear Lake Fresh Raspberry Milkshake (Seed Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "shake",
+    "raspberry",
+    "seeds",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "dans raspberry shake",
+    "montpelier raspberry shake",
+    "bear lake fresh raspberry shake"
+  ],
+  "whyItWorks": "Famous local treat made with real fresh Bear Lake raspberries! However, thousands of tiny hard raspberry seeds can lodge in inflamed mucosal pockets or strictures.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares or stricturing Crohn's. In remission, order vanilla or chocolate malt, or ask if they can strain seeds.",
+  "watchOuts": [
+    "Hard raspberry seeds cause mechanical gut irritation",
+    "High dairy lactose"
+  ]
+}

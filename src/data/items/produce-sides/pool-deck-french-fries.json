@@ -1,0 +1,47 @@
+{
+  "id": "pool-deck-french-fries",
+  "name": "Pool Deck Golden French Fries (Salted Potato Fries)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Disney Wonder · Pete's Boiler Bites / Disney Magic · Duck-In Diner / Disney Treasure · Mickey's Smokestack",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "fried",
+    "salty",
+    "vegan",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "french fries",
+    "pool deck fries",
+    "petes boiler bites",
+    "duck in diner",
+    "disney cruise"
+  ],
+  "whyItWorks": "Skinless white potato strips are low-FODMAP, dairy-free, and citrus-free, though deep-fryer oil requires remission tolerance and small portions.",
+  "prepOrOrderInstructions": "Blot excess fryer oil with a napkin and eat a small side portion while hot; during an active flare, swap for baked/mashed potatoes or white rice.",
+  "watchOuts": [
+    "Deep-frying oil load",
+    "Avoid Cajun/chili seasoning blends"
+  ]
+}

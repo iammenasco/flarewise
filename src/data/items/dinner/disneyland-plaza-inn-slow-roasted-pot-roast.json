@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-plaza-inn-slow-roasted-pot-roast",
+  "name": "Home-Style Slow-Roasted Pot Roast with Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Plaza Inn (Disneyland)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "pot-roast",
+    "mashed-potatoes",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "plaza inn",
+    "disneyland",
+    "pot roast",
+    "main street usa",
+    "mashed potatoes"
+  ],
+  "whyItWorks": "Melt-in-your-mouth slow braised beef chuck roast served in savory brown beef gravy over smooth mashed potatoes. It provides rich complete protein and low-fiber starch with zero fried crust.",
+  "prepOrOrderInstructions": "Ask for extra smooth mashed potatoes and tender roast meat. Skip whole glazed baby carrots or whole green beans if currently adhering to a strict low-residue diet."
+}

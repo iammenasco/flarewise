@@ -1,0 +1,46 @@
+{
+  "id": "tritons-lumieres-french-onion-soup",
+  "name": "Classic French Onion Soup (Broth & Bread Hack)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "broth",
+    "cheese",
+    "swiss",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "french onion soup",
+    "gruyere soup",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Rich beef broth and naturally lactose-free melted Gruyère (~0g lactose) on soaked bread are soothing, but stringy caramelized whole onions can catch on inflamed tissue.",
+  "prepOrOrderInstructions": "Only order on steady/good days: eat the broth-soaked bread crouton, melted Gruyère cheese, and savory beef broth while pushing the stringy caramelized onion strands to the side of the crock.",
+  "flareEmergencySwap": "Order the Potage Parmentier (pureed leek & potato soup) instead for a 9.5/10 liquid-smooth bowl.",
+  "watchOuts": [
+    "Stringy caramelized whole onions (high fructan + mechanical strands)"
+  ]
+}

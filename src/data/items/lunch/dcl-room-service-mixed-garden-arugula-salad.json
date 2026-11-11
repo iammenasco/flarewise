@@ -1,0 +1,43 @@
+{
+  "id": "dcl-room-service-mixed-garden-arugula-salad",
+  "name": "24-Hour Room Service Mixed Garden Salad & Arugula-Bocconcini Salad (Avoid)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salad",
+    "greens",
+    "tomato",
+    "cheese",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "mixed garden salad",
+    "arugula romaine salad",
+    "room service salad",
+    "disney cruise"
+  ],
+  "whyItWorks": "Raw arugula/romaine leaves, raw bell peppers, red onions, and grape tomato skins are high in insoluble roughage.",
+  "prepOrOrderInstructions": "Skip raw salads during flares (or eat only the fresh mozzarella bocconcini pearls with a Lactaid) and order the Chicken Noodle Soup instead.",
+  "watchOuts": [
+    "Raw lettuce stems, bell pepper skins, and raw red onions"
+  ]
+}

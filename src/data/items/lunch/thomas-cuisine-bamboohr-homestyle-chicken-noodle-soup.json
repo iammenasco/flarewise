@@ -1,0 +1,38 @@
+{
+  "id": "thomas-cuisine-bamboohr-homestyle-chicken-noodle-soup",
+  "name": "Thomas2Go @ BambooHR (Lindon, UT) Chef's Scratch Chicken Noodle Soup & Sourdough Roll",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Thomas Cuisine @ BambooHR (Lindon, UT)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "soup",
+    "chicken",
+    "bamboohr",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "thomas2go chicken noodle soup",
+    "bamboohr office soup",
+    "thomas cuisine soup station"
+  ],
+  "whyItWorks": "Golden chicken bone broth simmered with tender shredded chicken, soft egg noodles, and cooked carrots. Hydrating, electrolyte-rich, and therapeutic for inflamed intestines.",
+  "prepOrOrderInstructions": "Ladle a bowl of chicken noodle soup at the hot soup bar; pair with a soft sourdough dinner roll.",
+  "watchOuts": [
+    "None; ultimate work-day recovery lunch"
+  ]
+}

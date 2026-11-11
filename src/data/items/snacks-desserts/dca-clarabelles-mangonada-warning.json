@@ -1,0 +1,40 @@
+{
+  "id": "dca-clarabelles-mangonada-warning",
+  "name": "DCA Clarabelle's \"Mangonada\" Sorbet Cup (Chamoy, Tajín & Lime Acid Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Clarabelle's Hand-Scooped Ice Cream (Disney California Adventure)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "sorbet",
+    "spicy",
+    "citrus",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "clarabelles mangonada",
+    "dca mangonada",
+    "tajin sorbet disneyland"
+  ],
+  "whyItWorks": "Mango sorbet layered with concentrated spicy chamoy sauce, fresh lime juice, and chili-lime Tajín seasoning. Heavy citric acid and spicy capsaicin burn inflamed gut mucosa.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares and citrus intolerance. Choose a plain hand-dipped vanilla ice cream bar instead.",
+  "watchOuts": [
+    "Spicy chamoy, Tajín chili, and lime juice acid severely irritate intestinal lining"
+  ]
+}

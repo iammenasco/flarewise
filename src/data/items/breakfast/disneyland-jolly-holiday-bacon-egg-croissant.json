@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-jolly-holiday-bacon-egg-croissant",
+  "name": "Disneyland Jolly Holiday Bakery Cafe Morning Egg, Bacon & Cheddar Croissant",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "cheese",
+    "croissant",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "jolly holiday breakfast croissant",
+    "disneyland rope drop breakfast",
+    "main street egg croissant"
+  ],
+  "whyItWorks": "Fluffy eggs, aged cheddar, and bacon inside a soft flaky butter croissant—or a plain warm Butter Croissant—makes an effortless rope-drop breakfast.",
+  "prepOrOrderInstructions": "Mobile-order early for a morning pickup window on Main Street and pair with water or decaf/low-acid tea.",
+  "watchOuts": [
+    "Flaky croissant pastry contains butter—take a lactase enzyme if sensitive to butterfat"
+  ]
+}

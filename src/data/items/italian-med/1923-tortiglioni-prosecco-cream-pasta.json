@@ -1,0 +1,40 @@
+{
+  "id": "1923-tortiglioni-prosecco-cream-pasta",
+  "name": "Tortiglioni Pasta in Prosecco Cream with Pancetta & Sweet Peas (Night 1)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "pork",
+    "cheese",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "tortiglioni prosecco cream pasta",
+    "1923 pasta",
+    "disney treasure"
+  ],
+  "whyItWorks": "Refined durum wheat pasta tubes in a velvety cooked-off Prosecco and Parmesan cream sauce.",
+  "prepOrOrderInstructions": "Ask to hold the whole green peas and crispy pancetta bits if flaring, and take a Lactaid for the cream sauce.",
+  "watchOuts": [
+    "Green pea skins (GOS FODMAPs)",
+    "Heavy cream and pancetta fat"
+  ]
+}

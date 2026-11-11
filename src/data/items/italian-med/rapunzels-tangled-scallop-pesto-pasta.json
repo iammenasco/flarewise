@@ -1,0 +1,41 @@
+{
+  "id": "rapunzels-tangled-scallop-pesto-pasta",
+  "name": "Tangled Pasta: Angel Hair in Basil Pesto with Pan-Seared Sea Scallops (Lantern Night)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "seafood",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "tangled pasta",
+    "sea scallops angel hair",
+    "rapunzels royal table",
+    "disney magic"
+  ],
+  "whyItWorks": "Tender pan-seared sea scallops over delicate refined angel hair pasta; aged Parmesan in pesto is naturally lactose-free.",
+  "prepOrOrderInstructions": "Ask for light basil pesto (or plain olive oil/butter if garlic in pesto triggers FODMAP symptoms) and skip the roasted cherry tomato garnish.",
+  "watchOuts": [
+    "Garlic and olive oil richness in basil pesto",
+    "Blistered cherry tomato skins"
+  ]
+}

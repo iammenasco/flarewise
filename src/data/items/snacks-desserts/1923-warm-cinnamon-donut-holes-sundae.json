@@ -1,0 +1,45 @@
+{
+  "id": "1923-warm-cinnamon-donut-holes-sundae",
+  "name": "1923 Warm Cinnamon Donut Holes & Hot Fudge Sundae",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "pastry",
+    "chocolate",
+    "ice-cream",
+    "cinnamon",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "warm cinnamon donut holes",
+    "hollywood hills hot chocolate fudge sundae",
+    "chocolate lava cake",
+    "1923 dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Warm cinnamon-sugar doughnut holes with salted chocolate ganache and the Hollywood Hills Hot Fudge Sundae have near-zero fiber and zero citrus or nuts.",
+  "prepOrOrderInstructions": "Choose the Warm Cinnamon Donut Holes, Hollywood Hills Hot Fudge Sundae, or Warm Chocolate Lava Cake. Strictly AVOID the Californian Grapefruit Cake and Burbank Blueberry-Lemon Bavarian Cream (citrus guardrail).",
+  "watchOuts": [
+    "Californian Grapefruit Cake (HARD AVOID grapefruit)",
+    "Burbank Blueberry-Lemon Bavarian Cream (lemon rocks/citrus)",
+    "Rolled oats in Apple Cheesecake Tart crumble"
+  ]
+}

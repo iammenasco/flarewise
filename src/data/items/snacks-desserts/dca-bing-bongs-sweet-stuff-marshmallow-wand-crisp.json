@@ -1,0 +1,38 @@
+{
+  "id": "dca-bing-bongs-sweet-stuff-marshmallow-wand-crisp",
+  "name": "DCA Bing Bong's Sweet Stuff (Pixar Pier) Mickey Rice Krispies Treat, Cake Pop & Caramel Marshmallow Wand",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bing Bong's Sweet Stuff (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "sweet",
+    "dessert",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "bing bongs sweet stuff pixar pier",
+    "dca candy shop safe snack"
+  ],
+  "whyItWorks": "Puffed rice cereal and marshmallow treats have zero insoluble fiber, zero nuts, and zero citrus—easy to split for an afternoon sugar boost.",
+  "prepOrOrderInstructions": "Choose a plain or chocolate-dipped Mickey Crispy Treat or Vanilla Cake Pop (avoid sour rainbow belts and lemon drops).",
+  "watchOuts": [
+    "Avoid sour citric-acid candies and Memory Refreshers made with lemonade"
+  ]
+}

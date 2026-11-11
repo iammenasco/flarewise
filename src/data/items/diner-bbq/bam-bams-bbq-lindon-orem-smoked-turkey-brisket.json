@@ -1,0 +1,41 @@
+{
+  "id": "bam-bams-bbq-lindon-orem-smoked-turkey-brisket",
+  "name": "Bam Bam's BBQ Central Texas Smoked Turkey Breast, Lean Brisket & Garlic Mashed Potatoes",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Bam Bam's BBQ (Orem / Near BambooHR Lindon, UT)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "potato",
+    "high-protein",
+    "gluten-free-option",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bam bams bbq orem",
+    "lindon lunch near bamboohr",
+    "smoked turkey breast orem",
+    "texas brisket utah county"
+  ],
+  "whyItWorks": "Just minutes from the BambooHR Lindon campus, Bam Bam's Central Texas-style post-oak-smoked Turkey Breast and Lean Brisket (\"lean cut\") are tender, un-sauced, and gluten-free.",
+  "prepOrOrderInstructions": "Order the Smoked Turkey Breast or Lean-Cut Brisket by the quarter/half pound with BBQ sauce on the side; scrape off any heavy coarse black-pepper bark edges and pair with a soft roll or potato salad/mashed potatoes.",
+  "watchOuts": [
+    "Ask for \"lean brisket\" rather than \"moist/fatty point cut\" during sensitive days, and skip jalapeño cheddar sausage and raw coleslaw"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "plaza-de-coco-margarita-lime-cheesecake",
+  "name": "Margarita Key Lime Cheesecake with Sea Salt (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "cheese",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "margarita lime cheesecake",
+    "plaza de coco dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Avoid: flavored with key lime juice, lime zest, and tequila-citrus glaze (strict citrus guardrail).",
+  "prepOrOrderInstructions": "Skip the Margarita Lime Cheesecake and order the Warm Coconut Tres Leches or Tía Gloria's Flan de Queso instead.",
+  "watchOuts": [
+    "Key lime juice and lime zest (strict citrus trigger)",
+    "Cream cheese lactose"
+  ]
+}

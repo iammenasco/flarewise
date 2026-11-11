@@ -1,0 +1,42 @@
+{
+  "id": "prince-princess-salmon-gravlax-royal",
+  "name": "Salmon Gravlax / Salmon Royal with Dill Honey-Mustard (Prince & Princess Menu)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Prince & Princess Dinner Menu",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "omega-3",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "salmon gravlax",
+    "salmon royal",
+    "prince and princess menu",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Thinly sliced dill-cured salmon gravlax is rich in omega-3s, dairy-free, and zero-fiber.",
+  "prepOrOrderInstructions": "Enjoy with soft white dinner rolls and a dab of smooth honey-mustard dill sauce; discard any lemon wedge.",
+  "watchOuts": [
+    "Discard lemon wedge garnish"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "angies-logan-famous-utah-scone-honey-butter",
+  "name": "Angie's Restaurant (Logan) Famous Warm Utah Scone with Whipped Honey Butter",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "pastry",
+    "honey",
+    "butter",
+    "sweet",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "angies scone",
+    "utah scone honey butter",
+    "angies restaurant logan",
+    "logan scone"
+  ],
+  "whyItWorks": "Angie's iconic pillowy white-flour Utah scone with whipped honey butter is completely seedless and low-fiber, though fried in oil.",
+  "prepOrOrderInstructions": "Blot any excess oil with a napkin, use a modest smear of the whipped honey butter, or ask for a baked homemade white dinner roll with honey butter during a flare.",
+  "watchOuts": [
+    "Utah scones are deep-fried dough; swap to Angie's baked dinner rolls if flaring"
+  ]
+}

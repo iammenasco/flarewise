@@ -1,0 +1,41 @@
+{
+  "id": "crepes-and-coffee-bear-lake-gluten-free-crepe",
+  "name": "Crepes and Coffee (Garden City, UT) Gluten-Free Buckwheat Butter & Sugar Crepe",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "crepes",
+    "gluten-free",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "crepes and coffee gluten free",
+    "buckwheat crepe bear lake",
+    "garden city gf crepe"
+  ],
+  "whyItWorks": "Made with 100% gluten-free buckwheat flour batter (galette style). Folded with sweet butter and powdered sugar. Free of wheat gluten and fructans.",
+  "prepOrOrderInstructions": "Request the gluten-free buckwheat batter for your sweet butter and sugar crepe.",
+  "watchOuts": [
+    "None; gentle wheat-free breakfast"
+  ]
+}

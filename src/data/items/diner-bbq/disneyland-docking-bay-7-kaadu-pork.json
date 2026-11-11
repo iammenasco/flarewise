@@ -1,0 +1,36 @@
+{
+  "id": "disneyland-docking-bay-7-kaadu-pork",
+  "name": "Disneyland Docking Bay 7 Smoked Kaadu Pork Ribs / Pulled Pork & Corn Muffin",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Docking Bay 7 Food and Cargo (Star Wars: Galaxy's Edge · Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "docking bay 7 kaadu pork ribs",
+    "star wars galaxys edge pork"
+  ],
+  "whyItWorks": "Slow-smoked country pork ribs are fall-off-the-bone tender; skipping the raw cabbage slaw and pairing with the soft blueberry corn muffin works well on a steady day.",
+  "prepOrOrderInstructions": "Eat the tender interior pork meat and soft muffin, leaving the raw purple cabbage slaw behind.",
+  "watchOuts": [
+    "Skip the raw cabbage slaw and heavy smoky BBQ glaze edges during sensitive periods"
+  ]
+}

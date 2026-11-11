@@ -1,0 +1,49 @@
+{
+  "id": "cabanas-marceline-rice-congee",
+  "name": "Cabanas & Marceline Market Warm Asian White Rice Congee Porridge (Standalone)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "soup",
+    "broth",
+    "breakfast",
+    "dairy-free",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "congee",
+    "rice porridge",
+    "jook",
+    "cabanas congee",
+    "marceline market congee",
+    "disney cruise flare food"
+  ],
+  "whyItWorks": "Simmered for hours until white rice breaks down into a silky, starch-rich gruel—10/10 gut-soothing flare rescue available every morning at the buffet soup/hot cereal station.",
+  "prepOrOrderInstructions": "Ladle a bowl of plain hot white rice congee, season with a splash of tamari/soy sauce and shredded chicken or hard-boiled egg, and skip the chili oil, raw scallions, and fried shallots.",
+  "watchOuts": [
+    "Strictly skip the chili oil, raw green onions, and peanuts on the condiment tray"
+  ]
+}

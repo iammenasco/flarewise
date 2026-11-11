@@ -1,0 +1,44 @@
+{
+  "id": "1923-captains-gala-oven-baked-lobster-tail",
+  "name": "Captain's Gala Oven-Baked Lobster Tail",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure, Wonder & Magic · 1923 / Rotational Dining (Captain's Gala)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "lobster",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "oven baked lobster tail",
+    "captains gala",
+    "lobster night",
+    "1923",
+    "disney cruise lobster"
+  ],
+  "whyItWorks": "Warm baked lobster tail dipped in drawn butter (virtually ~0g lactose) is pure, zero-fiber marine protein.",
+  "prepOrOrderInstructions": "Your server will happily remove the lobster tail from the shell for you. Ask for plain mashed potatoes or white rice instead of the sun-dried tomato lemon-pesto mash, and eat only the tender tips of the asparagus.",
+  "watchOuts": [
+    "Sun-dried tomato & lemon-pesto in the default mash (citrus + tomato skins)",
+    "Woody bottom stems of asparagus"
+  ]
+}

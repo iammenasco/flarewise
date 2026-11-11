@@ -1,0 +1,41 @@
+{
+  "id": "tandoori-oven-logan-warm-garlic-plain-naan",
+  "name": "Tandoori Oven (Logan, UT) Warm Clay-Oven Baked Plain Naan Bread",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "indian",
+    "bread",
+    "naan"
+  ],
+  "searchKeywords": [
+    "tandoori oven plain naan",
+    "clay oven naan logan",
+    "fresh naan bread cache valley"
+  ],
+  "whyItWorks": "Plain tandoor naan is pillowy, soft, and easy to tear. Brushed lightly with ghee (clarified butter, virtually free of lactose and casein). Soothing carb companion in remission.",
+  "prepOrOrderInstructions": "Order Plain Naan (not garlic naan) baked fresh in the clay tandoor oven.",
+  "watchOuts": [
+    "Choose plain naan over garlic naan to avoid allium fructans"
+  ]
+}

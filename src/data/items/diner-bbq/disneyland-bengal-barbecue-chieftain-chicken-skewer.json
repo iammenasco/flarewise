@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-bengal-barbecue-chieftain-chicken-skewer",
+  "name": "Disneyland Bengal Barbecue \"Chieftain Chicken\" Skewer with Sweet Polynesian Glaze",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Bengal Barbecue (Disneyland Park)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "chicken",
+    "skewer",
+    "lean-protein",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "chieftain chicken skewer",
+    "bengal barbecue chicken",
+    "disneyland chicken skewer"
+  ],
+  "whyItWorks": "Boneless, skinless chicken breast cubes grilled on a wooden skewer with a sweet Polynesian barbecue glaze. Lean, unbreaded, and packed with bioavailable protein.",
+  "prepOrOrderInstructions": "Order the Chieftain Chicken Skewer with a side of white rice or Tiger Tail breadstick.",
+  "watchOuts": [
+    "None; premier park snack for high-protein sustenance"
+  ]
+}

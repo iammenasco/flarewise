@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-red-rose-taverne-tavern-double-burger",
+  "name": "Disneyland Red Rose Taverne Tavern Double Angus Cheeseburger & Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Red Rose Taverne (Disneyland Park)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "beef",
+    "burger",
+    "fantasyland"
+  ],
+  "searchKeywords": [
+    "red rose taverne burger",
+    "tavern double burger disneyland",
+    "fantasyland burger"
+  ],
+  "whyItWorks": "Two 1/3 lb Angus beef patties with melted cheddar cheese on a soft brioche bun. When ordered plain without Thousand Island sauce, pickles, or raw onions, it is very easy on digestion.",
+  "prepOrOrderInstructions": "Order the Tavern Double plain with ketchup only (hold tavern sauce, raw onions, and pickles).",
+  "watchOuts": [
+    "Hold raw onions, pickles, and tavern sauce"
+  ]
+}

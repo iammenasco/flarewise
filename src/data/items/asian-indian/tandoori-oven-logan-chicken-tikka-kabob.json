@@ -1,0 +1,41 @@
+{
+  "id": "tandoori-oven-logan-chicken-tikka-kabob",
+  "name": "Tandoori Oven (Logan) Clay-Oven Chicken Tikka & Lamb Botti Kabob over Basmati Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "lamb",
+    "rice",
+    "high-protein",
+    "gluten-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "tandoori chicken logan",
+    "chicken tikka tandoori oven",
+    "lamb kabob logan"
+  ],
+  "whyItWorks": "Boneless chicken breast cubes marinated in cultured yogurt (lactose broken down by live cultures and baking) roasted dry in the clay tandoor oven and served with basmati rice.",
+  "prepOrOrderInstructions": "Order the Mild Chicken Tikka (dry tandoor-roasted cubes) with steamed basmati rice and Plain Naan; skip the raw sliced red onions on the sizzling platter.",
+  "watchOuts": [
+    "Push aside the raw sizzling onions and bell peppers underneath the meat"
+  ]
+}

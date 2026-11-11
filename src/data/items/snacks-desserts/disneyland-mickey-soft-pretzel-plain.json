@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-mickey-soft-pretzel-plain",
+  "name": "Disneyland & DCA Warm Mickey-Shaped Soft Pretzel (Brush Off Coarse Salt, Skip Jalapeño Cheese)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Refreshment Corner & Pretzel Carts (Disneyland & California Adventure)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "snack",
+    "dairy-free",
+    "vacation",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "mickey pretzel disneyland",
+    "cream cheese pretzel disneyland",
+    "flare safe disneyland snack"
+  ],
+  "whyItWorks": "Warm baked refined white-flour pretzel dough has zero dairy, negligible fat, and zero insoluble fiber—making it the #1 emergency carb snack across both Disneyland and California Adventure.",
+  "prepOrOrderInstructions": "Order a plain Classic Mickey Pretzel WITHOUT the plastic cup of jalapeño/processed cheese sauce (or try the sweet Cream Cheese-Filled Pretzel in Tomorrowland/Frontierland with a lactase tablet).",
+  "watchOuts": [
+    "Skip the processed cheese dipping cup; keep a bit of pretzel salt for walking hydration"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sams-club-bakery-chantilly-cake-croissant-platter",
+  "name": "Sam's Club Member's Mark Turkey & Swiss Croissant Sandwich Platter",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Sam's Club Deli & Bakery (Logan / South Jordan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sams club croissant sandwich",
+    "members mark turkey swiss croissant",
+    "logan sams club catering"
+  ],
+  "whyItWorks": "Flaky all-butter bakery croissants layered with sliced oven-roasted turkey breast and aged Swiss cheese are soft, low-residue, and easy to pack for family gatherings or road trips.",
+  "prepOrOrderInstructions": "Remove any raw leaf lettuce leaf before eating and enjoy the turkey, Swiss cheese, and soft croissant plain or with a light touch of mayo.",
+  "watchOuts": [
+    "Remove raw lettuce leaves; if having a slice of Sam's Berry Chantilly Cake for dessert, scrape off seeded blackberries/raspberries and take lactase"
+  ]
+}

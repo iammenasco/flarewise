@@ -1,0 +1,41 @@
+{
+  "id": "let-the-magic-begin-smoked-salmon-carpaccio",
+  "name": "Smoked Salmon Carpaccio with Dill-Honey Mustard (Let the Magic Begin Menu)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "omega-3",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "smoked salmon carpaccio",
+    "let the magic begin",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Thinly sliced smoked salmon is zero-fiber, dairy-free omega-3 protein.",
+  "prepOrOrderInstructions": "Brush off whole pink peppercorns, chopped shallots, and capers, and enjoy the salmon with soft white rolls.",
+  "watchOuts": [
+    "Whole pink peppercorns and chopped raw shallots on top"
+  ]
+}

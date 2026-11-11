@@ -1,0 +1,43 @@
+{
+  "id": "rumbi-island-grill-logan-rice-bowl",
+  "name": "Rumbi Island Grill (Logan) Luau Pork or Grilled Chicken Rice Bowl (White Rice Mod)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Rumbi Island Grill (Logan & Utah County, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pork",
+    "rice",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "rumbi island grill logan",
+    "rumbi rice bowl",
+    "hawaiian rice bowl logan utah",
+    "luau pork bowl"
+  ],
+  "whyItWorks": "Rumbi lets you swap the beans-and-rice base for 100% steamed white rice, topped with tender slow-roasted Kalua Luau Pork or grilled chicken breast and cooked carrots/broccoli florets.",
+  "prepOrOrderInstructions": "Order a Regular or Little Kahuna Rice Bowl with Luau Pork or Grilled Chicken on 100% steamed white rice (no Rumbi black-bean rice), light teriyaki sauce on the side, and no raw cabbage.",
+  "watchOuts": [
+    "Default \"Rumbi Rice\" contains whole black beans—always request plain steamed white rice instead; avoid spicy Jamaican Jerk and Volcano sauces"
+  ]
+}

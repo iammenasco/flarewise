@@ -1,0 +1,43 @@
+{
+  "id": "crepes-and-coffee-bear-lake-nutella-banana-crepe",
+  "name": "Crepes and Coffee (Garden City) Sweet Banana, Butter & Sugar or Nutella Crepe",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "crepe",
+    "banana",
+    "chocolate",
+    "sweet",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "crepes and coffee nutella banana",
+    "sweet crepe bear lake",
+    "butter sugar crepe"
+  ],
+  "whyItWorks": "Warm thin crepe filled with sliced ripe bananas and butter/cinnamon-sugar (or smooth hazelnut-chocolate Nutella)—100% seedless unlike the Bear Lake Raspberry crepe.",
+  "prepOrOrderInstructions": "Choose the Classic Butter & Sugar with Banana or the Nutella-Banana crepe; skip the Bear Lake Raspberry crepe if avoiding berry seeds.",
+  "watchOuts": [
+    "Skip the Bear Lake Raspberry crepe during flares (seeds)",
+    "Nutella contains skim milk powder (take a Lactaid if sensitive)"
+  ]
+}

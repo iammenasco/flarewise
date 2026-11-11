@@ -1,0 +1,40 @@
+{
+  "id": "hector-riveras-sundae",
+  "name": "Héctor Rivera's Dulce de Leche Banana Bread Sundae (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "ice-cream",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "hector rivera sundae",
+    "banana bread sundae",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Soft banana bread cubes, dulce de leche caramel, and vanilla ice cream—bananas are soothing and the sundae is citrus-free.",
+  "prepOrOrderInstructions": "Confirm no walnut garnish is added on top and take a Lactaid enzyme for the ice cream.",
+  "watchOuts": [
+    "Liquid dairy ice cream and caramel sugar"
+  ]
+}

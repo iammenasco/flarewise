@@ -1,0 +1,44 @@
+{
+  "id": "costco-food-court-rotisserie-chicken-bacon-sandwich",
+  "name": "Costco Food Court Rotisserie Chicken Chef Salad (Meat Only) & Turkey/Chicken Ciabatta",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Costco Food Court (North Logan, Draper, South Jordan & Nationwide)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "turkey",
+    "sandwich",
+    "bread",
+    "high-protein",
+    "costco",
+    "logan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco food court sandwich",
+    "costco turkey provolone",
+    "costco chicken bacon sandwich"
+  ],
+  "whyItWorks": "Thick sliced rotisserie chicken or turkey breast with aged provolone/cheddar on artisan ciabatta bread provides a high-protein, non-fried food court meal.",
+  "prepOrOrderInstructions": "Remove any tomato slice or raw greens from the ciabatta sandwich and scrape off excess garlic mayo/aioli if flaring.",
+  "watchOuts": [
+    "Scrape off heavy mayo/aioli and remove raw tomato slices"
+  ]
+}

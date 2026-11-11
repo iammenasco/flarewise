@@ -1,0 +1,40 @@
+{
+  "id": "some-beaches-pulled-pork-brisket-sandwich",
+  "name": "Some Beaches Slow-Roasted Pulled Pork or Smoked Brisket Sandwich",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "beef",
+    "sandwich",
+    "high-protein",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "some beaches pulled pork",
+    "some beaches brisket",
+    "laketown bear lake"
+  ],
+  "whyItWorks": "Slow-braised pulled pork and tender brisket have broken-down collagen fibers that digest smoothly on a soft bun when ordered without coleslaw.",
+  "prepOrOrderInstructions": "Order the Pulled Pork or Brisket sandwich on a soft bun with BBQ sauce on the side and no raw cabbage slaw or pickled jalapeños.",
+  "watchOuts": [
+    "Skip raw cabbage coleslaw and heavy smoky BBQ sauce during flares"
+  ]
+}

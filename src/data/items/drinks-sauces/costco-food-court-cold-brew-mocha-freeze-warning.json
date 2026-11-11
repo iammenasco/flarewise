@@ -1,0 +1,39 @@
+{
+  "id": "costco-food-court-cold-brew-mocha-freeze-warning",
+  "name": "Costco Food Court (Logan & Draper, UT) Cold Brew Mocha Freeze (Caffeine & Sugar Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Costco Wholesale (Utah Locations)",
+  "crohnsScore": 5.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "coffee",
+    "caffeine",
+    "chocolate",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "costco mocha freeze",
+    "cold brew freeze costco",
+    "food court coffee drink"
+  ],
+  "whyItWorks": "Combines concentrated cold brew coffee caffeine with heavy chocolate syrup, whole milk dairy, and 70g of sugar. The triple combination of caffeine motility, sugar osmolarity, and dairy triggers urgent diarrhea.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active IBD. In remission, sip 2-3 sips or share.",
+  "watchOuts": [
+    "High caffeine and extreme sugar load cause immediate colon spasms and watery diarrhea"
+  ]
+}

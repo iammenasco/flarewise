@@ -1,0 +1,38 @@
+{
+  "id": "knotts-berry-market-cold-boysenberry-punch",
+  "name": "Knott's Berry Market Cold Strained Boysenberry Punch (Seed-Free)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Knott's Berry Market (Knott's Berry Farm)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "drink",
+    "boysenberry",
+    "seed-free"
+  ],
+  "searchKeywords": [
+    "knotts boysenberry punch",
+    "cold boysenberry drink",
+    "knotts berry market punch"
+  ],
+  "whyItWorks": "Knott's iconic purple boysenberry drink! Unlike raw whole boysenberries, this punch is 100% strained juice syrup and water, completely free of abrasive seeds and low in acid.",
+  "prepOrOrderInstructions": "Order an ice-cold cup of Boysenberry Punch for refreshing, seed-free theme park hydration.",
+  "watchOuts": [
+    "Contains natural fruit sugars; drink at a moderate pace"
+  ]
+}

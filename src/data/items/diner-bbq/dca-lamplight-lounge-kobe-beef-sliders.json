@@ -1,0 +1,40 @@
+{
+  "id": "dca-lamplight-lounge-kobe-beef-sliders",
+  "name": "DCA Lamplight Lounge Kobe-Style Beef Sliders on Brioche (Plain Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Lamplight Lounge (Disney California Adventure)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "beef",
+    "sliders",
+    "pixar-pier"
+  ],
+  "searchKeywords": [
+    "lamplight lounge sliders",
+    "kobe sliders dca",
+    "pixar pier beef sliders"
+  ],
+  "whyItWorks": "Two petite Kobe-style American Wagyu beef sliders grilled tender and served on soft brioche slider buns with melted cheddar. Smaller slider portions prevent stomach distension.",
+  "prepOrOrderInstructions": "Order the Kobe-Style Sliders plain with ketchup only (hold beer-braised onions and garlic aioli).",
+  "watchOuts": [
+    "Hold beer-braised onions and garlic aioli"
+  ]
+}

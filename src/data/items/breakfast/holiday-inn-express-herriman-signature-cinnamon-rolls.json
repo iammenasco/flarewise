@@ -1,0 +1,43 @@
+{
+  "id": "holiday-inn-express-herriman-signature-cinnamon-rolls",
+  "name": "Holiday Inn Express (Herriman - South Jordan) Famous Warm Signature Cinnamon Rolls",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Inn Express & Suites Herriman - South Jordan (Herriman, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cinnamon",
+    "pastry",
+    "sweet",
+    "breakfast",
+    "hotel",
+    "herriman",
+    "south-jordan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "holiday inn express cinnamon rolls",
+    "express start breakfast",
+    "herriman hotel breakfast",
+    "south jordan holiday inn"
+  ],
+  "whyItWorks": "The star of the Express Start breakfast bar: soft-baked refined white dough swirled with cinnamon and topped with warm vanilla cream cheese icing—100% seed-free and nut-free.",
+  "prepOrOrderInstructions": "Enjoy 1 warm Signature Cinnamon Roll alongside scrambled eggs or turkey sausage so the protein buffers the sugar load, and take a Lactaid for the cream cheese icing.",
+  "watchOuts": [
+    "Cream cheese icing contains lactose",
+    "Pair with eggs/protein rather than eating on an empty stomach"
+  ]
+}

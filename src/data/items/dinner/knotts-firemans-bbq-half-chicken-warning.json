@@ -1,0 +1,38 @@
+{
+  "id": "knotts-firemans-bbq-half-chicken-warning",
+  "name": "Fireman's BBQ Half Chicken with Seasoned Baked Beans",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Fireman's BBQ (Knott's Berry Farm)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "bbq-chicken",
+    "baked-beans",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "firemans bbq",
+    "knotts berry farm",
+    "half chicken",
+    "baked beans",
+    "ghost town bbq"
+  ],
+  "whyItWorks": "While chicken meat is digestible, the fire-charred heavily seasoned skin and large side of brown sugar baked beans deliver high amounts of fermentable legumes that provoke severe cramps and gas.",
+  "prepOrOrderInstructions": "Bean & Char Warning: Strip off all blackened chicken skin, skip the baked beans entirely, and eat the lean white breast meat with a plain white roll."
+}

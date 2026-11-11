@@ -1,0 +1,40 @@
+{
+  "id": "periscope-pub-platter",
+  "name": "The Periscope Pub Shareable Platter (Disney Treasure)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Periscope Pub",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "cheese",
+    "bread",
+    "fried",
+    "disney-cruise",
+    "disney-treasure",
+    "periscope-pub"
+  ],
+  "searchKeywords": [
+    "periscope pub platter",
+    "pub platter",
+    "disney treasure"
+  ],
+  "whyItWorks": "Includes soft pretzel bites and cheese, alongside heavier fried pub bites, pickled vegetables, and whole-grain mustard.",
+  "prepOrOrderInstructions": "Order the standalone Giant Warm German Pretzel (#108) instead of the mixed fried pub platter during sensitive periods.",
+  "watchOuts": [
+    "Fried pub bites, pickled onions, and whole-seed mustard"
+  ]
+}

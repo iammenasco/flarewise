@@ -1,0 +1,44 @@
+{
+  "id": "pirate-night-caribbean-grouper",
+  "name": "Cortes' Cilantro-Lime Marinated Caribbean Grouper Fillet (Pirate Night)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "fish",
+    "rice",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "caribbean grouper",
+    "cortes grouper",
+    "pirate night fish",
+    "disney cruise"
+  ],
+  "whyItWorks": "White grouper fillet and white rice are a 9.5/10 flare meal when cooked without the cilantro-lime marinade and black beans.",
+  "prepOrOrderInstructions": "Ask your server for the grouper fillet pan-seared plain with salt and olive oil only (zero lime marinade) over plain steamed white rice (no black beans).",
+  "watchOuts": [
+    "Lime juice in standard marinade (order plain)",
+    "Whole black beans in rice side"
+  ]
+}

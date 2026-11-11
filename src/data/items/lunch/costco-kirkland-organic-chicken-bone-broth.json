@@ -1,0 +1,43 @@
+{
+  "id": "costco-kirkland-organic-chicken-bone-broth",
+  "name": "Costco Kirkland Signature Organic Sipping Chicken Bone Broth (Carton)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Costco Wholesale (Logan / Lehi / South Jordan / Sandy, UT)",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "soup",
+    "high-protein",
+    "dairy-free",
+    "gluten-free-option",
+    "budget-friendly",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "kirkland chicken bone broth",
+    "costco bone broth",
+    "flare safe broth costco"
+  ],
+  "whyItWorks": "Delivers 9g of easily absorbed collagen/gelatin protein per cup with 0g fiber, 0g fat, and gentle electrolytes—the ultimate flare-day base for cooking white rice or egg noodles.",
+  "prepOrOrderInstructions": "Warm gently on the stovetop to sip plain, or use it instead of water to boil white jasmine rice, pastina, or scrambled egg drop soup.",
+  "watchOuts": [
+    "Zero gut triggers—add a pinch of sea salt if extra sodium hydration is needed during a flare"
+  ]
+}

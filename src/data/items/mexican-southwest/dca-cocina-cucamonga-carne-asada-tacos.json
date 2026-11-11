@@ -1,0 +1,38 @@
+{
+  "id": "dca-cocina-cucamonga-carne-asada-tacos",
+  "name": "Citrus-Marinated Carne Asada Tacos on Soft Corn Tortillas",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cocina Cucamonga (Disney California Adventure)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "carne-asada",
+    "tacos",
+    "san-fransokyo"
+  ],
+  "searchKeywords": [
+    "cocina cucamonga",
+    "dca",
+    "carne asada tacos",
+    "steak tacos",
+    "san fransokyo"
+  ],
+  "whyItWorks": "Grilled marinated flank steak diced tender and served on double warm soft corn tortillas provides clean, dairy-free iron and protein without greasy deep-frying.",
+  "prepOrOrderInstructions": "Ask for tacos plain with meat and corn tortillas only. Skip spicy salsa and cilantro-onion relish."
+}

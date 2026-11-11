@@ -1,0 +1,41 @@
+{
+  "id": "costco-food-court-rotisserie-chicken-hack",
+  "name": "Costco Wholesale (Logan & Draper, UT) Famous Rotisserie Chicken (Peeled Skin Hack)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Costco Wholesale (Utah Locations)",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "grocery",
+    "utah",
+    "chicken",
+    "high-protein",
+    "rotisserie",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "costco rotisserie chicken",
+    "costco chicken hack",
+    "logan costco chicken"
+  ],
+  "whyItWorks": "An absolute staple in Crohn's and colitis meal prep! Plump 3-lb whole chicken rotisserie-roasted until juicy and tender. Peeling off the salty skin leaves pure, unseasoned, tender white chicken breast that requires minimal digestive breakdown.",
+  "prepOrOrderInstructions": "Carve warm breast meat and discard the seasoned outer skin. Pair with white rice or mashed potatoes.",
+  "watchOuts": [
+    "Discard the seasoned outer skin to avoid excess grease and spice rub"
+  ]
+}

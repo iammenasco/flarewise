@@ -1,0 +1,42 @@
+{
+  "id": "jade-cricket-heihei-wellness-juices",
+  "name": "Café Cold-Pressed Wellness Juice Shots (Ginger-Lemon-Cayenne Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Disney Treasure · Jade Cricket Café & Heihei Café / Senses Juice Bar",
+  "crohnsScore": 2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "spicy",
+    "vegan",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "jade-cricket-cafe",
+    "heihei-cafe"
+  ],
+  "searchKeywords": [
+    "wellness shot",
+    "cold pressed juice",
+    "jade cricket cafe",
+    "heihei cafe",
+    "senses juice bar"
+  ],
+  "whyItWorks": "Hard avoid: most café wellness shots and green juices are pressed with concentrated lemon, orange, or grapefruit juice and cayenne pepper.",
+  "prepOrOrderInstructions": "Skip all citrus-based wellness shots and green juices; choose plain coconut water, herbal chamomile/peppermint tea, or a banana-mango smoothie instead.",
+  "watchOuts": [
+    "Concentrated lemon, orange, or grapefruit juice (strict citrus avoid)",
+    "Cayenne pepper burn"
+  ]
+}

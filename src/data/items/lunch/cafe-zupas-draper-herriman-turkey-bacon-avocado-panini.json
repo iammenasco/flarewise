@@ -1,0 +1,45 @@
+{
+  "id": "cafe-zupas-draper-herriman-turkey-bacon-avocado-panini",
+  "name": "Café Zupas (Draper / Riverton / Logan) Turkey Bacon Avocado or Ultimate Grilled Cheese Panini",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Café Zupas (12300 S Draper, Riverton/Herriman & Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "avocado",
+    "bacon",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "draper",
+    "herriman",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cafe zupas turkey bacon avocado",
+    "zupas ultimate grilled cheese",
+    "zupas try 2 combo"
+  ],
+  "whyItWorks": "Warm pressed white panini bread layered with roasted turkey breast, creamy avocado, bacon, and provolone/cheddar—one of Utah's most reliable fast-casual lunches.",
+  "prepOrOrderInstructions": "Order the Turkey Bacon Avocado Sandwich (no tomato or sprouts) or the Ultimate Grilled Cheese (Muenster & Cheddar on white bread) with a soft white roll.",
+  "watchOuts": [
+    "Order on white bread rather than multigrain, and hold raw tomato slices"
+  ]
+}

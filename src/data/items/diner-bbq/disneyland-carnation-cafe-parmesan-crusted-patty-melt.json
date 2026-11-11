@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-carnation-cafe-parmesan-crusted-patty-melt",
+  "name": "Disneyland Carnation Cafe Sourdough Patty Melt (Hold Sautéed Onions Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Carnation Cafe (Disneyland Park)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "beef",
+    "burger",
+    "sourdough",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "carnation cafe patty melt",
+    "disneyland sourdough burger",
+    "main street patty melt"
+  ],
+  "whyItWorks": "Charbroiled Angus patty with melted Swiss and aged parmesan cheese on grilled fermented sourdough bread. Holding sautéed onions eliminates gas-producing allium fructans.",
+  "prepOrOrderInstructions": "Order the Patty Melt on sourdough with Swiss cheese; request 'no sautéed onions and light butter on the bread'.",
+  "watchOuts": [
+    "Request no sautéed onions to prevent fructan gas"
+  ]
+}

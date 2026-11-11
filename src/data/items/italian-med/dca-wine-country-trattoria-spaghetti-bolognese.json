@@ -1,0 +1,38 @@
+{
+  "id": "dca-wine-country-trattoria-spaghetti-bolognese",
+  "name": "Spaghetti Bolognese with Tender Braised Meat Sauce",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Wine Country Trattoria (Disney California Adventure)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "spaghetti-bolognese",
+    "italian",
+    "pasta"
+  ],
+  "searchKeywords": [
+    "wine country trattoria",
+    "dca",
+    "spaghetti bolognese",
+    "pasta",
+    "pacific wharf"
+  ],
+  "whyItWorks": "Al dente spaghetti tossed in a slow-simmered bolognese sauce of finely ground beef and strained tomatoes. Cooking the beef thoroughly breaks down muscle fibers for effortless digestion.",
+  "prepOrOrderInstructions": "Ask for light sauce and skip crushed red pepper flakes or heavy grated cheese."
+}

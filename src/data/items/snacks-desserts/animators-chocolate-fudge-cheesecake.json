@@ -1,0 +1,40 @@
+{
+  "id": "animators-chocolate-fudge-cheesecake",
+  "name": "Chocolate Fudge Cheesecake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "cheese",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "chocolate fudge cheesecake",
+    "animators palate cheesecake",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Ultra-smooth baked cream cheese and fudge batter with zero nuts, seeds, or citrus.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets before eating and share the slice if high dairy fat slows your digestion.",
+  "watchOuts": [
+    "High cream cheese lactose and saturated fat"
+  ]
+}

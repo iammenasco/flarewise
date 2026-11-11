@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-carnation-cafe-apple-pie-a-la-mode",
+  "name": "Disneyland Carnation Cafe Warm Spiced Apple Pie à la Mode",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Carnation Cafe (Disneyland Park)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "apple-pie",
+    "ice-cream",
+    "dessert",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "carnation cafe apple pie",
+    "disneyland apple pie a la mode",
+    "main street pie"
+  ],
+  "whyItWorks": "Sliced apples baked tender with cinnamon, sugar, and flaky pastry crust, topped with vanilla ice cream. Baking breaks down apple cellulose, making it soft and low-residue.",
+  "prepOrOrderInstructions": "Order the Apple Pie warm with vanilla ice cream; take lactase enzymes if dairy sensitive.",
+  "watchOuts": [
+    "Contains dairy in the ice cream"
+  ]
+}

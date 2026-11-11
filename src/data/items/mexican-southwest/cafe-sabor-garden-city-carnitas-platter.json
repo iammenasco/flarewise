@@ -1,0 +1,37 @@
+{
+  "id": "cafe-sabor-garden-city-carnitas-platter",
+  "name": "Slow-Braised Carnitas Platter with Warm Corn Tortillas",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Garden City / Logan, UT)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "logan",
+    "mexican",
+    "carnitas"
+  ],
+  "searchKeywords": [
+    "cafe sabor",
+    "carnitas platter",
+    "braised pork",
+    "corn tortillas",
+    "bear lake"
+  ],
+  "whyItWorks": "Slow-cooked pork shoulder shredded into tender, melt-in-your-mouth chunks is free of dairy and tough fiber. Rolled into soft warm corn tortillas with Mexican white rice, it provides balanced energy.",
+  "prepOrOrderInstructions": "Ask for lean carnitas portions and request refried beans without heavy melted cheese. Omit raw jalapeños, onions, and salsa."
+}

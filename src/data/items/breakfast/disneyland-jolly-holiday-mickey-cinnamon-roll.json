@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-jolly-holiday-mickey-cinnamon-roll",
+  "name": "Disneyland Jolly Holiday Giant Warm Mickey-Shaped Cinnamon Roll",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Disneyland Park)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "cinnamon-roll",
+    "pastry",
+    "breakfast",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "mickey cinnamon roll",
+    "jolly holiday cinnamon roll",
+    "giant cinnamon roll disneyland"
+  ],
+  "whyItWorks": "Iconic three-circle Mickey yeast dough swirled with cinnamon and brown sugar, topped with warm vanilla cream cheese icing. Soft, seed-free, and great to share.",
+  "prepOrOrderInstructions": "Ask for the cinnamon roll warmed up; share among 2 people.",
+  "watchOuts": [
+    "High sugar volume; share to avoid rapid gastric emptying"
+  ]
+}

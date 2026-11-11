@@ -1,0 +1,42 @@
+{
+  "id": "preludes-theatre-popcorn-hard-avoid",
+  "name": "Walt Disney Theatre / Preludes Buttered Popcorn Bucket (Hard Avoid)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Preludes & Walt Disney Theatre Concessions",
+  "crohnsScore": 1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "corn",
+    "salty",
+    "vegan",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "popcorn",
+    "popcorn bucket",
+    "preludes",
+    "walt disney theatre",
+    "disney cruise snack"
+  ],
+  "whyItWorks": "Hard 1.0 Crohn's avoid: razor-sharp insoluble corn pericarp hulls do not digest and can lodge in narrowed ileal strictures or scrape ulcers.",
+  "prepOrOrderInstructions": "Never eat theatre popcorn (even if collecting the souvenir Disney popcorn bucket—ask the cast member to hand you the bucket empty or sealed for family members). Bring a soft Rice Crispy treat, pretzels, or banana to the show instead.",
+  "watchOuts": [
+    "Sharp undigestible popcorn kernel hulls (top mechanical Crohn's flare trigger)"
+  ]
+}

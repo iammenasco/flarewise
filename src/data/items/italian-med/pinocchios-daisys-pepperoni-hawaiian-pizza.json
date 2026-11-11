@@ -1,0 +1,49 @@
+{
+  "id": "pinocchios-daisys-pepperoni-hawaiian-pizza",
+  "name": "Pinocchio's Pizzeria / Daisy's Pizza Pies: Pepperoni, Hawaiian & Veggie Slices",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Pinocchio's Pizzeria / Disney Treasure · Daisy's Pizza Pies",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "pork",
+    "cheese",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pinocchios-pizzeria",
+    "daisys-pizza-pies"
+  ],
+  "searchKeywords": [
+    "pepperoni pizza",
+    "hawaiian pizza",
+    "pinocchios pizzeria",
+    "daisys pizza pies",
+    "disney cruise pizza"
+  ],
+  "whyItWorks": "While the plain Cheese/Margherita and Prosciutto pizzas score 7.5, Pepperoni adds spicy cured grease, Hawaiian adds fibrous pineapple, and Veggie adds bell pepper skins and mushrooms.",
+  "prepOrOrderInstructions": "Skip Pepperoni, Hawaiian, and Veggie slices during flares and choose the plain Cheese Pizza (blotted with a napkin + Lactaid) instead.",
+  "watchOuts": [
+    "Rendered spicy pepperoni grease",
+    "Fibrous pineapple chunks on Hawaiian",
+    "Bell pepper skins, onions, and mushrooms on Veggie"
+  ]
+}

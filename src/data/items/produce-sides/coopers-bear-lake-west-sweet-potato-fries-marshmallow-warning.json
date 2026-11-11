@@ -1,0 +1,41 @@
+{
+  "id": "coopers-bear-lake-west-sweet-potato-fries-marshmallow-warning",
+  "name": "Cooper's Restaurant (Fish Haven, ID) Sweet Potato Fries with Marshmallow Dip (Sugar Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Fish Haven / Bear Lake West, ID)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "fish-haven",
+    "bear-lake",
+    "sweet-potato",
+    "fries",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "coopers sweet potato fries",
+    "marshmallow dip fries bear lake",
+    "fish haven sides"
+  ],
+  "whyItWorks": "Cooper's famous specialty shareable side! Sweet potatoes provide gut-soothing soluble fiber, but the combination of frying oil and high-sugar marshmallow cream can be rich.",
+  "prepOrOrderInstructions": "Order the Sweet Potato Fries to share; dip lightly in the marshmallow sauce to manage the sugar load.",
+  "watchOuts": [
+    "High sugar in marshmallow fluff can accelerate osmotic diarrhea during flares"
+  ]
+}

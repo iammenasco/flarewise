@@ -1,0 +1,41 @@
+{
+  "id": "dca-shawarma-palace-breakfast-egg-cheddar-wrap",
+  "name": "DCA Shawarma Palace Morning Egg, Cheddar, Bacon & Potato Breakfast Wrap (Skip Spicy Harissa!)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Shawarma Palace (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "cheese",
+    "potato",
+    "pita",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "Denver breakfast shawarma dca",
+    "avengers campus breakfast wrap",
+    "shawarma palace morning wrap"
+  ],
+  "whyItWorks": "Fluffy scrambled eggs, melted aged cheddar, crispy potato bites, and breakfast sausage/bacon wrapped in a warm pita—and because the fiery harissa sauce comes in a separate cup on the side, the wrap itself is completely mild!",
+  "prepOrOrderInstructions": "Order the Breakfast Shawarma Wrap and **throw away or give away the side cup of spicy red Harissa sauce**.",
+  "watchOuts": [
+    "NEVER pour the included side cup of red Harissa chili sauce onto the wrap"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pirate-night-beetroot-carpaccio",
+  "name": "Elizabeth Swann's Red & Yellow Beetroot Carpaccio with Goat Cheese & Walnuts (Pirate Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "cheese",
+    "nuts",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "swanns red and yellow beetroot carpaccio",
+    "pirate night beet",
+    "disney cruise"
+  ],
+  "whyItWorks": "Combines high-FODMAP beet fructans, candied walnuts, and citrus-honey dressing.",
+  "prepOrOrderInstructions": "Skip during flares due to the walnut pieces, beet fructans, and citrus dressing.",
+  "watchOuts": [
+    "Candied walnut pieces",
+    "Citrus vinaigrette",
+    "Beetroot fructans"
+  ]
+}

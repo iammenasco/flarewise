@@ -1,0 +1,39 @@
+{
+  "id": "knotts-sutters-plain-powdered-sugar-funnel-cake",
+  "name": "Knott's Sutter's Funnel Cake Powdered Sugar Funnel Cake (Seed-Free Mod)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sutter's Fine Pastries (Knott's Berry Farm)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "funnel-cake",
+    "dessert",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "sutters funnel cake",
+    "knotts funnel cake",
+    "powdered sugar funnel cake knotts"
+  ],
+  "whyItWorks": "Crispy fried funnel cake batter dusted with powdered sugar. By omitting the seeded boysenberry fruit topping, you eliminate millions of sharp berry seeds.",
+  "prepOrOrderInstructions": "Order the Funnel Cake plain with powdered sugar only (specifically pass on the boysenberry fruit topping).",
+  "watchOuts": [
+    "Deep-fried dough carries oil; share with tablemates"
+  ]
+}

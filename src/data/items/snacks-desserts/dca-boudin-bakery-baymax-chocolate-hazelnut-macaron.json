@@ -1,0 +1,39 @@
+{
+  "id": "dca-boudin-bakery-baymax-chocolate-hazelnut-macaron",
+  "name": "DCA Aunt Cass Café / San Fransokyo Baymax Macaron (Chocolate-Hazelnut Ganache & Buttercream)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Aunt Cass Café & Lucky Fortune Cookery (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "dessert",
+    "gluten-free-option",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "baymax macaron dca",
+    "san fransokyo baymax dessert"
+  ],
+  "whyItWorks": "Unlike berry macarons, the adorable white Baymax Macaron is filled with smooth chocolate-hazelnut spread and buttercream—completely free of berry seeds and citrus.",
+  "prepOrOrderInstructions": "Share a Baymax Macaron in San Fransokyo Square and take a lactase enzyme tablet for the buttercream.",
+  "watchOuts": [
+    "Contains almond flour and hazelnut spread (tree nuts) plus dairy buttercream"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "jumbeauxs-sweets-zootopia-cupcakes",
+  "name": "Jumbeaux's Sweets Judy Hopps Carrot Cupcake & Nick Wilde Red Velvet Cupcake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Jumbeaux's Sweets",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bakery",
+    "chocolate",
+    "cheese",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "jumbeauxs-sweets"
+  ],
+  "searchKeywords": [
+    "judy hopps carrot cupcake",
+    "nick wilde cupcake",
+    "jumbeauxs sweets",
+    "disney treasure"
+  ],
+  "whyItWorks": "Soft bakery cupcakes with cream cheese frosting; Nick Wilde's red velvet/chocolate cupcake is completely nut-free and seedless.",
+  "prepOrOrderInstructions": "Choose the Nick Wilde Red Velvet / Chocolate Cupcake (or verify the Judy Hopps Carrot Cupcake has no walnuts/raisins) and scrape off half the heavy frosting.",
+  "watchOuts": [
+    "High sugar and butter/cream cheese frosting",
+    "Check carrot cupcake for walnuts"
+  ]
+}

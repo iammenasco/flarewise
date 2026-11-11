@@ -1,0 +1,44 @@
+{
+  "id": "enchante-maine-lobster-wild-turbot",
+  "name": "Enchanté Poached Blue Maine Lobster & Wild Turbot with Champagne Velouté",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Enchanté by Chef Arnaud Lallement",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "fish",
+    "high-protein",
+    "french",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "enchante"
+  ],
+  "searchKeywords": [
+    "enchante lobster",
+    "wild turbot",
+    "arnaud lallement",
+    "disney treasure enchante"
+  ],
+  "whyItWorks": "Three-Michelin-starred French culinary technique: butter-poached Maine lobster and flaky wild turbot have zero insoluble fiber and melt on the fork.",
+  "prepOrOrderInstructions": "Inform the Enchanté maître d' of your strict zero-citrus requirement (Chef Lallement uses lemon/citrus acidity as a signature motif and the kitchen will custom-poach your lobster and turbot in pure butter/shallot-free stock).",
+  "watchOuts": [
+    "Signature Lallement sauces often use lemon/citrus acidity unless requested citrus-free",
+    "Rich French butter/cream (take a Lactaid)"
+  ]
+}

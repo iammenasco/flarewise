@@ -1,0 +1,39 @@
+{
+  "id": "coopers-bear-lake-west-prime-rib-mashed-potatoes",
+  "name": "Cooper's Restaurant (Fish Haven, ID) Slow-Roasted Prime Rib with Au Jus & Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Fish Haven / Bear Lake West, ID)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "fish-haven",
+    "bear-lake",
+    "beef",
+    "prime-rib",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "coopers prime rib",
+    "bear lake west steak",
+    "fish haven prime rib"
+  ],
+  "whyItWorks": "Slow roasting melts beef connective collagen into tender, easy-to-chew slices. Dipped in savory au jus and paired with smooth mashed Idaho potatoes, it is hearty and gut-friendly in remission.",
+  "prepOrOrderInstructions": "Order the 10 oz Prime Rib with au jus and mashed potatoes; trim away the outer fat rim before eating.",
+  "watchOuts": [
+    "Trim visible edge fat to keep meal moderate in grease"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tianas-vegetable-gumbo",
+  "name": "Tiana's Vegetable Gumbo",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "rice",
+    "cajun",
+    "spicy",
+    "vegan",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "vegetable gumbo",
+    "tianas place gumbo",
+    "disney wonder"
+  ],
+  "whyItWorks": "Loaded with whole okra seeds/pods, diced bell pepper skins, celery strings, onions, and Cajun cayenne heat over jazzmen rice.",
+  "prepOrOrderInstructions": "Skip during flares; if in deep remission and craving soup, strain the broth over plain white rice.",
+  "watchOuts": [
+    "Whole okra seeds and vegetable skins",
+    "Cajun cayenne/black pepper spice",
+    "Onion and garlic holy trinity base"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "some-beaches-laketown-chipotle-shrimp-wrap-warning",
+  "name": "Some Beaches (Laketown, UT) Chipotle Shrimp Wrap (Chili-Lime Crema Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "seafood",
+    "shrimp",
+    "spicy",
+    "citrus",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "some beaches chipotle shrimp",
+    "spicy shrimp wrap laketown",
+    "bear lake shrimp wrap"
+  ],
+  "whyItWorks": "Contains concentrated raw lime juice (citrus acid), spicy chipotle chili peppers, and deep-fried breaded shrimp. High risk for heartburn, mucosal burning, and diarrhea.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flareups. If ordering in remission, ask for grilled chicken instead of fried shrimp and sub ranch for the spicy chili-lime crema.",
+  "watchOuts": [
+    "Chili-lime crema contains acidic lime juice and spicy chipotle peppers"
+  ]
+}

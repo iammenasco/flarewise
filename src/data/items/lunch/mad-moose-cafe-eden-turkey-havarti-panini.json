@@ -1,0 +1,39 @@
+{
+  "id": "mad-moose-cafe-eden-turkey-havarti-panini",
+  "name": "Mad Moose Cafe (Eden, UT) Roasted Turkey Breast & Havarti Panini on Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mad Moose Cafe (Eden / Ogden Valley, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "turkey",
+    "panini",
+    "sourdough",
+    "sandwich"
+  ],
+  "searchKeywords": [
+    "mad moose turkey panini",
+    "eden utah panini",
+    "ogden valley lunch"
+  ],
+  "whyItWorks": "Lean sliced roast turkey breast with creamy Havarti cheese pressed on toasted sourdough bread. Sourdough is easy on digestion and Havarti is naturally low in lactose.",
+  "prepOrOrderInstructions": "Order the Turkey Panini on sourdough with mayo; hold raw red onions or mustard.",
+  "watchOuts": [
+    "Hold raw red onions"
+  ]
+}

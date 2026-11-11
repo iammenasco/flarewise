@@ -1,0 +1,37 @@
+{
+  "id": "some-beaches-laketown-double-bacon-cheeseburger-warning",
+  "name": "Double Bacon Cheeseburger with Beach Sauce",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Some Beaches (Laketown, UT)",
+  "crohnsScore": 3.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "laketown",
+    "burger",
+    "high-fat"
+  ],
+  "searchKeywords": [
+    "some beaches laketown",
+    "double bacon burger",
+    "cheeseburger",
+    "bear lake"
+  ],
+  "whyItWorks": "Two griddled beef patties loaded with melted American cheese, crispy smoked bacon, and house fry sauce combine over 45g of saturated fat with onion-spiced condiments, creating extreme gastric delay and severe motility spikes.",
+  "prepOrOrderInstructions": "High Fat Warning: Swap for a single plain grilled hamburger or grilled chicken tenders on plain bread."
+}

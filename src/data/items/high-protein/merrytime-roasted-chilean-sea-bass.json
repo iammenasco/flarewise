@@ -1,0 +1,44 @@
+{
+  "id": "merrytime-roasted-chilean-sea-bass",
+  "name": "Very Merrytime Pan-Roasted Chilean Sea Bass with Celeriac Purée & Parsnip Chips",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime (\"Happy Holidays\" Menu)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "chilean sea bass",
+    "celeriac puree",
+    "very merrytime entree",
+    "happy holidays menu"
+  ],
+  "whyItWorks": "Buttery, flaky Chilean sea bass over smooth celeriac purée is virtually fiber-free and melts in the mouth.",
+  "prepOrOrderInstructions": "Order the sea bass pan-roasted in light olive oil over smooth celeriac purée (or plain white rice) and skip the fried parsnip chips.",
+  "watchOuts": [
+    "Chilean sea bass is naturally high in healthy marine oils",
+    "Skip fried parsnip chips and dairy cream in the purée if sensitive"
+  ]
+}

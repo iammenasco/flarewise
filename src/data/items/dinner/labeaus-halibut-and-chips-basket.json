@@ -1,0 +1,41 @@
+{
+  "id": "labeaus-halibut-and-chips-basket",
+  "name": "LaBeau's Golden Fried Halibut & French Fries Basket",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "LaBeau's Drive-In (Garden City / Bear Lake, UT)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "potato",
+    "fried",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "labeaus halibut",
+    "labeaus fish and chips",
+    "garden city halibut basket"
+  ],
+  "whyItWorks": "Pacific halibut is an ultra-lean, flaky white fish with zero connective tissue; peeling off part of the crispy batter and skipping lemon wedges makes this classic Bear Lake basket manageable in remission.",
+  "prepOrOrderInstructions": "Order the Halibut & Fries basket with no lemon wedge; peel away thick edges of fried batter if your stomach is sensitive to fryer oil.",
+  "watchOuts": [
+    "Deep-fried batter and fries add fryer oil fat",
+    "Skip lemon wedges (citrus trigger) and relish-heavy tartar sauce"
+  ]
+}

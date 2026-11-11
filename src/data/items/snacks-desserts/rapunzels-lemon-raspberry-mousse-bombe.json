@@ -1,0 +1,38 @@
+{
+  "id": "rapunzels-lemon-raspberry-mousse-bombe",
+  "name": "No-Sugar-Added Lemon-Raspberry Mousse Bombe (Lantern Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "berries",
+    "sweet",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "lemon raspberry mousse bombe",
+    "no sugar added rapunzels",
+    "disney magic"
+  ],
+  "whyItWorks": "Avoid: contains lemon mousse (strict citrus guardrail) plus sugar alcohols and raspberry seeds.",
+  "prepOrOrderInstructions": "Skip this dessert and choose the Corona Crème Brûlée Cheesecake or Fry Pan Sweet Bread instead.",
+  "watchOuts": [
+    "Lemon citrus flavoring (strict avoid)",
+    "Sugar-alcohol sweeteners and raspberry seeds"
+  ]
+}

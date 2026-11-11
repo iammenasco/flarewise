@@ -1,0 +1,45 @@
+{
+  "id": "tianas-new-orleans-seafood-pepper-pot",
+  "name": "New Orleans Seafood Pepper Pot & Gumbo (WARNING)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "seafood",
+    "gumbo",
+    "cajun",
+    "spicy",
+    "warning",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "seafood pepper pot",
+    "vegetable gumbo",
+    "tianas place",
+    "disney wonder",
+    "cajun soup"
+  ],
+  "whyItWorks": "Loaded with Cajun cayenne heat, fibrous diced bell peppers, celery, onions (\"holy trinity\"), and okra/kale that chemically and mechanically irritate an inflamed gut.",
+  "prepOrOrderInstructions": "Skip during flares or cautious days. Ask your server for plain chicken noodle broth or a smooth pureed soup alternative.",
+  "watchOuts": [
+    "Cayenne pepper / Cajun spice",
+    "Diced bell pepper skins and celery strings",
+    "Tough calamari/mussel textures"
+  ]
+}

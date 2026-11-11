@@ -1,0 +1,38 @@
+{
+  "id": "dca-adorable-snowman-lemon-soft-serve-citrus-warning",
+  "name": "DCA Adorable Snowman Frosted Treats Pixar Pier Frosty Parfait (Lemon Soft-Serve — CRITICAL Citrus Warning!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Adorable Snowman Frosted Treats (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 1.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "dessert",
+    "sweet",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "adorable snowman lemon soft serve",
+    "pixar pier frosty parfait",
+    "itscheeky lemon dca"
+  ],
+  "whyItWorks": "Reference warning: while \"It's Lemon!\" soft-serve and the blue-raspberry Pixar Pier Frosty Parfait are famous for being dairy-free, they are made with concentrated tart lemon juice—making them a direct hit against your citrus guardrail.",
+  "prepOrOrderInstructions": "Do NOT order \"It's Lemon!\" or the Pixar Pier Frosty Parfait; order the Chocolate or Vanilla soft-serve cup at the same window instead.",
+  "watchOuts": [
+    "CRITICAL CITRUS TRIGGER: Made with tart lemon soft-serve (citrusFree: false)"
+  ]
+}

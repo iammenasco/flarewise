@@ -1,0 +1,48 @@
+{
+  "id": "palo-brunch-warm-apple-cinnamon-sticky-bun",
+  "name": "Palo Brunch Warm Apple Cinnamon Sticky Bun (Cinnamon Roll with Maple Frosting)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bakery",
+    "bread",
+    "applesauce",
+    "sweet",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo cinnamon roll",
+    "warm apple cinnamon sticky bun",
+    "palo sticky bun",
+    "palo brunch cinnamon roll",
+    "disney cruise"
+  ],
+  "whyItWorks": "Baked fresh to order in a skillet: pillowy brioche cinnamon roll swirled with soft cooked cinnamon apples and warm maple butter frosting—100% citrus-free and a fan-favorite Palo Brunch highlight once the pecan garnish is held.",
+  "prepOrOrderInstructions": "When ordering the Warm Apple Cinnamon Sticky Bun at Palo Brunch, ask your server to hold the caramelized pecan nuts on top (or brush them off completely) and take a Lactaid for the maple butter frosting.",
+  "watchOuts": [
+    "Caramelized pecan nuts on top if not ordered without nuts",
+    "Rich maple butter frosting and sugar load"
+  ]
+}

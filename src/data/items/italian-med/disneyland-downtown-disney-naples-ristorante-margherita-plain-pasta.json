@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-downtown-disney-naples-ristorante-margherita-plain-pasta",
+  "name": "Downtown Disney Naples Ristorante e Bar Spaghetti with Olive Oil/Chicken or Light Mozzarella Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Naples Ristorante e Bar (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pasta",
+    "cheese",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "naples ristorante downtown disney",
+    "downtown disney pizza pasta"
+  ],
+  "whyItWorks": "Naples uses long-fermented authentic Caputo \"00\" Italian wheat flour for its wood-fired pizza crust and will gladly prepare penne/spaghetti simply with extra-virgin olive oil, grated Parmigiano-Reggiano, and grilled chicken breast.",
+  "prepOrOrderInstructions": "Order Spaghetti or Penne with Olive Oil, Parmigiano-Reggiano, and Grilled Chicken (no red marinara or chili flakes), or share a White/Margherita Pizza with a lactase enzyme.",
+  "watchOuts": [
+    "Take lactase if ordering fresh mozzarella pizza, and skip spicy pepperoni/calabrian chili toppings"
+  ]
+}

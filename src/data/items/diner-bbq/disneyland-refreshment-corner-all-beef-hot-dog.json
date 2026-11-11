@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-refreshment-corner-all-beef-hot-dog",
+  "name": "Disneyland Refreshment Corner (Main Street) Plain Footlong / Regular All-Beef Hot Dog & Chips",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Refreshment Corner (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "refreshment corner hot dog disneyland",
+    "caseys corner main street disneyland",
+    "all beef hot dog disneyland"
+  ],
+  "whyItWorks": "A plain all-beef frankfurter on a soft white bun with potato chips or applesauce is dairy-free, citrus-free, and quick to mobile-order on Main Street.",
+  "prepOrOrderInstructions": "Order the plain **All-Beef Hot Dog** (or Kids' Hot Dog)—skip the Chili-Cheese Dog and Mac & Cheese Jalapeño Dog.",
+  "watchOuts": [
+    "Never order the Chili Dog or Jalapeño Cheese Dog during sensitive periods"
+  ]
+}

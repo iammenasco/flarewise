@@ -1,0 +1,45 @@
+{
+  "id": "plaza-de-coco-chorizo-street-croquettes",
+  "name": "Chorizo Street Croquettes & Empanadas (WARNING)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "pork",
+    "beef",
+    "mexican",
+    "fried",
+    "spicy",
+    "warning",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "chorizo street croquettes",
+    "beef birria empanada",
+    "plaza de coco appetizer",
+    "disney treasure"
+  ],
+  "whyItWorks": "Spiced pork chorizo, whole roasted corn kernels, chili-lime crema, and deep-fried breading combine capsaicin, corn hulls, citrus, and grease.",
+  "prepOrOrderInstructions": "Avoid during flares. On Night 2, if trying the Beef Birria Empanada in remission, eat only the tender pulled brisket and pastry shell without the pico de gallo or spicy chili consommé.",
+  "flareEmergencySwap": "Ask your server for a cup of strained chicken broth or start with warm bolillo bread and butter.",
+  "watchOuts": [
+    "Whole roasted corn kernels",
+    "Chorizo chili spice & chili-lime crema (citrus)",
+    "Deep-fried crust"
+  ]
+}

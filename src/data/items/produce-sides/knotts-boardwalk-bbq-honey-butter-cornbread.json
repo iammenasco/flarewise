@@ -1,0 +1,40 @@
+{
+  "id": "knotts-boardwalk-bbq-honey-butter-cornbread",
+  "name": "Knott's Boardwalk BBQ Sweet Honey-Butter Cornbread Muffin",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Boardwalk BBQ (Knott's Berry Farm)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "cornbread",
+    "bbq",
+    "boardwalk"
+  ],
+  "searchKeywords": [
+    "knotts cornbread muffin",
+    "boardwalk bbq cornbread",
+    "honey butter cornbread knotts"
+  ],
+  "whyItWorks": "Fine-ground stone cornmeal baked into a tender, moist muffin with whipped honey butter. Completely smooth texture with zero whole corn kernels or hulls.",
+  "prepOrOrderInstructions": "Order a warm Cornbread Muffin with whipped honey butter as your side dish.",
+  "watchOuts": [
+    "None; smooth, hull-free cornmeal side"
+  ]
+}

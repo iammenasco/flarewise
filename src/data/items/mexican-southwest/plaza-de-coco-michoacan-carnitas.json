@@ -1,0 +1,40 @@
+{
+  "id": "plaza-de-coco-michoacan-carnitas",
+  "name": "Slow-Braised Michoacán Pork Carnitas with Pickled Red Onions & Beans (Night 2)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "pork",
+    "beans",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "michoacan carnitas",
+    "pork carnitas",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Traditional Michoacán carnitas are braised with orange juice/peel (citrus trigger) in rendered pork fat and plated with whole beans.",
+  "prepOrOrderInstructions": "Skip the Michoacán carnitas due to the orange-braising liquid and choose the Pan-Seared Prime Rib / Beef Tenderloin instead.",
+  "watchOuts": [
+    "Orange juice/peel used in traditional carnitas braise (citrus guardrail)",
+    "High rendered pork fat and whole beans"
+  ]
+}

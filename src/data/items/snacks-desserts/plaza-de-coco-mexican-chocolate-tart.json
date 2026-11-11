@@ -1,0 +1,39 @@
+{
+  "id": "plaza-de-coco-mexican-chocolate-tart",
+  "name": "Spiced Mexican Chocolate Tart with Cinnamon Ganache (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "mexican chocolate tart",
+    "plaza de coco chocolate",
+    "disney treasure"
+  ],
+  "whyItWorks": "Smooth dark chocolate-cinnamon ganache in a pastry shell, though Mexican chocolate often includes a subtle pinch of cayenne/ancho.",
+  "prepOrOrderInstructions": "Best saved for remission days; ask your server if there is chili heat in the ganache and pair with a Lactaid.",
+  "watchOuts": [
+    "Subtle ancho/cayenne warmth in Mexican chocolate",
+    "High cocoa fat"
+  ]
+}

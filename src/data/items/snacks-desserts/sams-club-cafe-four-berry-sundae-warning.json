@@ -1,0 +1,38 @@
+{
+  "id": "sams-club-cafe-four-berry-sundae-warning",
+  "name": "Sam's Club Cafe (Logan & Riverdale, UT) Four-Berry Sundae (Whole Berry Seed Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sam's Club (Utah Locations)",
+  "crohnsScore": 5.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "ice-cream",
+    "berries",
+    "seeds",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "sams club berry sundae",
+    "four berry sundae sams",
+    "sams club frozen yogurt"
+  ],
+  "whyItWorks": "Vanilla soft-serve topped with a compote of raspberries, blackberries, blueberries, and strawberries. Contains millions of hard, sharp blackberry and raspberry seeds that irritate strictures.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares or stricturing Crohn's. Choose a plain vanilla or chocolate swirl cup with no fruit topping.",
+  "watchOuts": [
+    "Blackberry and raspberry seeds present serious obstruction hazards"
+  ]
+}

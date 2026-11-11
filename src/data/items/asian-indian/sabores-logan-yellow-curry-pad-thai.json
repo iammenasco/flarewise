@@ -1,0 +1,41 @@
+{
+  "id": "sabores-logan-yellow-curry-pad-thai",
+  "name": "Sabores Mild Coconut Chicken Curry or Chicken Pad Thai (No Peanuts/Lime)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Sabores (Logan, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rice",
+    "noodles",
+    "dairy-free",
+    "gluten-free-option",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sabores yellow curry logan",
+    "sabores pad thai logan",
+    "thai food logan utah"
+  ],
+  "whyItWorks": "Dairy-free coconut milk yellow curry with tender chicken, soft potatoes, and white jasmine rice—or mild rice-noodle Pad Thai without crushed peanuts—provides comforting, lactose-free warmth.",
+  "prepOrOrderInstructions": "Order Mild (spice level 0/1) Chicken Yellow Curry with white rice, or Chicken Pad Thai with no crushed peanuts, no raw bean sprouts, and no lime wedge.",
+  "watchOuts": [
+    "Skip crushed peanuts, raw bean sprouts, chili flakes, and lime wedges on Pad Thai"
+  ]
+}

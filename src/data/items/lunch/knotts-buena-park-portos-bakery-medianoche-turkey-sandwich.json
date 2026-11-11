@@ -1,0 +1,44 @@
+{
+  "id": "knotts-buena-park-portos-bakery-medianoche-turkey-sandwich",
+  "name": "Porto's Bakery (Buena Park — Near Knott's) Medianoche Roasted Pork, Ham & Swiss on Sweet Egg Bread or Turkey Sandwich",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Beach Blvd, Buena Park · Steps from Knott's Berry Farm)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "turkey",
+    "eggs",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "budget-friendly",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "portos medianoche sandwich",
+    "portos buena park lunch",
+    "cuban sandwich near knotts"
+  ],
+  "whyItWorks": "Porto's **Medianoche** uses pillowy-soft, crustless-style sweet egg brioche bread pressed warm with slow-roasted pork, ham, and naturally lactose-safe Swiss cheese (or order their Roasted Turkey Breast Sandwich or Morning Egg-Ham-Swiss Croissant)— paired with sweet fried plantains (maduros) or banana chips.",
+  "prepOrOrderInstructions": "Order the **Medianoche** or **Pan con Lechon** with **NO pickles** and **NO mustard/onions**, or the **Slow-Roasted Turkey Sandwich**, paired with sweet plantains (maduros).",
+  "watchOuts": [
+    "Ask to hold pickles and raw onions on sandwiches; skip the black bean soup"
+  ]
+}

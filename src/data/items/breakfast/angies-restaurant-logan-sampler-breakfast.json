@@ -1,0 +1,42 @@
+{
+  "id": "angies-restaurant-logan-sampler-breakfast",
+  "name": "Angie's Restaurant (Logan, UT) \"The Sampler\" All-Day Country Breakfast",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "breakfast",
+    "eggs",
+    "ham",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "angies sampler breakfast",
+    "angies logan all day breakfast",
+    "cache valley diner breakfast"
+  ],
+  "whyItWorks": "Angie's legendary comfort breakfast! Lean ham steak and soft eggs are pure protein. Hash browns provide soft peeled potato starch with virtually zero roughage.",
+  "prepOrOrderInstructions": "Order The Sampler with scrambled eggs, lean ham steak, well-done hash browns, and white toast with butter.",
+  "watchOuts": [
+    "Skip spicy sausage links if feeling sensitive to greasier breakfast meats"
+  ]
+}

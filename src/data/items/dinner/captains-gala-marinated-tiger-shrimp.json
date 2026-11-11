@@ -1,0 +1,43 @@
+{
+  "id": "captains-gala-marinated-tiger-shrimp",
+  "name": "Chervil-Dill Marinated Tiger Shrimp with Remoulade (Captain's Gala Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "chervil dill marinated tiger shrimp",
+    "captains gala shrimp",
+    "1923 night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Plump chilled tiger shrimp provide zero-fiber lean protein when ordered without lemon or spicy remoulade.",
+  "prepOrOrderInstructions": "Ask for the chilled tiger shrimp plain (no lemon squeeze, remoulade sauce on the side).",
+  "watchOuts": [
+    "Lemon wedge garnish (discard)",
+    "Capers/pickles in remoulade"
+  ]
+}

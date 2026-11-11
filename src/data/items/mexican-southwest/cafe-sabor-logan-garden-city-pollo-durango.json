@@ -1,0 +1,42 @@
+{
+  "id": "cafe-sabor-logan-garden-city-pollo-durango",
+  "name": "Café Sabor (Logan & Garden City, UT) Pollo Durango (Bacon-Wrapped Stuffed Chicken)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "chicken",
+    "bacon",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "cafe sabor pollo durango",
+    "durango chicken bear lake",
+    "stuffed chicken cafe sabor"
+  ],
+  "whyItWorks": "A decadent signature house specialty at Café Sabor! Chicken breast stuffed with cream cheese and mild green chilis, wrapped in bacon and topped with Durango cheese sauce. Rich and filling in remission.",
+  "prepOrOrderInstructions": "Order Pollo Durango with extra Spanish rice; eat slowly due to the rich cream cheese and bacon fat.",
+  "watchOuts": [
+    "High fat from cream cheese, bacon, and cheese sauce can trigger rapid gastric motility"
+  ]
+}

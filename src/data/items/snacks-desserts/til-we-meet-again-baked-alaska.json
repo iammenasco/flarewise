@@ -1,0 +1,41 @@
+{
+  "id": "til-we-meet-again-baked-alaska",
+  "name": "Parade of Chefs Baked Alaska (Wonder & Magic Farewell Dinner)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "egg",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "baked alaska",
+    "til we meet again menu",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Chocolate, vanilla, and strawberry ice cream wrapped in sponge cake and toasted egg-white meringue—nut-free, citrus-free, and iconic.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets before enjoying; if strawberry seeds bother you during a flare, eat the chocolate/vanilla layers and toasted meringue.",
+  "watchOuts": [
+    "Ice cream lactose",
+    "Tiny strawberry seeds in the pink layer"
+  ]
+}

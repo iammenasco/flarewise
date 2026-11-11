@@ -1,0 +1,41 @@
+{
+  "id": "ranch-hand-montpelier-big-russ-baked-potato",
+  "name": "Ranch Hand Trail Stop \"Big Russ\" Giant Idaho Baked Potato (Flesh & Cheddar Mod)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Ranch Hand Trail Stop (Montpelier, ID)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "cheese",
+    "gluten-free-option",
+    "bear-lake",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "ranch hand trail stop montpelier",
+    "big russ baked potato",
+    "montpelier idaho restaurant",
+    "idaho russet potato"
+  ],
+  "whyItWorks": "Fluffy, soluble-fiber-rich Idaho Russet potato interior topped with melted aged cheddar and diced ham or bacon bits offers a warm, gluten-free road-trip meal in Montpelier.",
+  "prepOrOrderInstructions": "Order the \"Big Russ\" Baked Potato with shredded cheddar and butter/sour cream on the side; scoop out the soft potato flesh and leave the fibrous potato skin behind.",
+  "watchOuts": [
+    "Leave the thick potato skin on the plate",
+    "Ask for sour cream and green onions/chives on the side or omitted"
+  ]
+}

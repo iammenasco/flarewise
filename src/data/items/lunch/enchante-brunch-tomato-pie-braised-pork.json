@@ -1,0 +1,42 @@
+{
+  "id": "enchante-brunch-tomato-pie-braised-pork",
+  "name": "Enchanté Champagne Brunch Heirloom Tomato Tarte & Slow-Braised Pork Belly/Loin",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Treasure · Enchanté by Chef Arnaud Lallement (Brunch)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "tomato",
+    "bakery",
+    "french",
+    "disney-cruise",
+    "disney-treasure",
+    "enchante"
+  ],
+  "searchKeywords": [
+    "enchante tomato pie",
+    "enchante braised pork",
+    "disney treasure enchante brunch"
+  ],
+  "whyItWorks": "Flaky French puff pastry and fork-tender braised pork are low-fiber, though tomato acidity and rendered pork fat require remission.",
+  "prepOrOrderInstructions": "Eat the leanest portion of the braised pork and flaky pastry crust; skip the raw microgreen salad.",
+  "watchOuts": [
+    "Tomato acidity in the tarte",
+    "Rendered pork fat"
+  ]
+}

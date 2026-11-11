@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-smoked-salmon-wedge-salad",
+  "name": "Romaine Wedge & Hot Smoked Salmon Salad with Dill-Mustard Dressing (Lantern Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "salad",
+    "greens",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "romaine wedge hot smoked salmon",
+    "rapunzels royal table",
+    "disney magic"
+  ],
+  "whyItWorks": "Flaky hot-smoked salmon is rich in omega-3s and easy to digest when separated from the crunchy romaine wedge.",
+  "prepOrOrderInstructions": "Eat the hot-smoked salmon flakes with your soft pretzel bread and leave the raw romaine wedge and mustard seeds behind.",
+  "watchOuts": [
+    "Fibrous raw romaine lettuce stalks",
+    "Whole mustard seeds in dressing"
+  ]
+}

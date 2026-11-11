@@ -1,0 +1,44 @@
+{
+  "id": "pirate-night-strip-loin-and-crab-cake",
+  "name": "Pirate Night: King George's Roasted Strip Loin",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "pirate night menu",
+    "king georges roasted privateer strip loin",
+    "tia dalmas jerk chicken",
+    "pirates treasure sundae",
+    "disney cruise"
+  ],
+  "whyItWorks": "While Pirate Night features spicy Tia Dalma's Jerk Chicken and fibrous stir-fries, the Roasted Privateer Strip Loin with mashed/roasted potatoes is a safe, mild anchor.",
+  "prepOrOrderInstructions": "On Pirate Night, order King George's Strip Loin (or the Lighter Note baked salmon/chicken) with plain mashed potatoes or white rice, and finish with the Pirates Treasure Sundae (vanilla ice cream & caramel, skip rum cake/pineapple if sensitive). Avoid the spicy Jerk Chicken.",
+  "watchOuts": [
+    "Tia Dalma's Jerk Chicken (habanero/scotch bonnet chili heat)",
+    "Cabbage/peppers in Shanghaied Noodle Stir-Fry"
+  ]
+}

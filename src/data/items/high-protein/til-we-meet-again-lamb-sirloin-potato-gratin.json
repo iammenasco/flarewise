@@ -1,0 +1,42 @@
+{
+  "id": "til-we-meet-again-lamb-sirloin-potato-gratin",
+  "name": "Garlic & Rosemary-Marinated Lamb Sirloin with Potato Gratin ('Til We Meet Again)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "potato",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "garlic rosemary marinated lamb sirloin",
+    "til we meet again lamb",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Lean sirloin cut of lamb with soft baked potato gratin; ask for plain mashed potatoes if leek/onion in the gratin triggers FODMAPs.",
+  "prepOrOrderInstructions": "Order medium-rare with sun-dried tomato jus on the side and swap the onion-leek potato gratin for plain baked or mashed potatoes if FODMAP-sensitive.",
+  "watchOuts": [
+    "Onion and leek layers in the standard potato gratin",
+    "Woody rosemary needles on crust"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mo-bettahs-logan-draper-teriyaki-chicken-white-rice",
+  "name": "Mo' Bettahs Hawaiian Style Food (Logan / Draper / Herriman) Teriyaki Chicken & White Rice",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Mo' Bettahs Hawaiian Style Food (Logan, Draper, Herriman & Utah)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pork",
+    "rice",
+    "teriyaki",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "draper",
+    "herriman",
+    "utah"
+  ],
+  "searchKeywords": [
+    "mo bettahs",
+    "hawaiian teriyaki chicken",
+    "kalua pig white rice",
+    "mo bettahs logan",
+    "mo bettahs draper"
+  ],
+  "whyItWorks": "One of the best fast-casual Crohn's meals in Utah: chargrilled boneless teriyaki chicken or slow-roasted Kalua pork served over two scoops of sticky steamed white rice—zero fiber, zero dairy, zero citrus.",
+  "prepOrOrderInstructions": "Order a Regular or Mini Plate with Teriyaki Chicken (or Kalua Pig) and ask for \"All White Rice\" (two scoops of white rice instead of mayonnaise macaroni salad).",
+  "watchOuts": [
+    "Sub extra white rice in place of the heavy mayo macaroni salad during flares",
+    "Skip breaded deep-fried Katsu chicken"
+  ]
+}

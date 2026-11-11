@@ -1,0 +1,37 @@
+{
+  "id": "prince-princess-coronation-mixed-leaves-salad",
+  "name": "Coronation of Mixed Leaves & Princess Garden Salad (Prince & Princess Menu)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Prince & Princess Dinner Menu",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salad",
+    "greens",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "coronation of mixed leaves",
+    "princess garden salad",
+    "prince and princess menu"
+  ],
+  "whyItWorks": "Raw mixed salad greens, cherry tomato skins, and vinaigrette are mechanically rough during flares.",
+  "prepOrOrderInstructions": "Skip raw salads during flares and choose a smooth soup or the Salmon Gravlax starter instead.",
+  "watchOuts": [
+    "Raw leafy greens and tomato skins"
+  ]
+}

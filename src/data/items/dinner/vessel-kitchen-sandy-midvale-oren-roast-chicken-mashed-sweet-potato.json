@@ -1,0 +1,44 @@
+{
+  "id": "vessel-kitchen-sandy-midvale-oren-roast-chicken-mashed-sweet-potato",
+  "name": "Vessel Kitchen (Sandy/Draper & Orem) \"The Everyday\" Roasted Chicken, Mashed Sweet Potatoes & Jasmine Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Vessel Kitchen (Sandy/Draper, Midvale & Orem near BambooHR, UT)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "salmon",
+    "rice",
+    "sweet-potato",
+    "high-protein",
+    "dairy-free",
+    "gluten-free-option",
+    "utah"
+  ],
+  "searchKeywords": [
+    "vessel kitchen sandy draper",
+    "vessel kitchen orem",
+    "bamboohr healthy lunch",
+    "towneplace suites draper healthy dinner"
+  ],
+  "whyItWorks": "Located both near BambooHR (Orem) and near TownePlace Suites Draper (Sandy/9400 S), Vessel Kitchen builds scratch-made bowls with herb-roasted chicken breast, slow-braised beef, or roasted salmon paired with steamed jasmine rice, whipped sweet potato mash, and warm focaccia.",
+  "prepOrOrderInstructions": "Build a Market Plate or Bowl with Roasted Chicken Breast (or Braised Beef / Salmon), steamed white jasmine rice, and whipped sweet potato mash—ask for dressings on the side (many contain lemon/citrus).",
+  "watchOuts": [
+    "Ask for sauces/dressings on the side so you can skip citrus vinaigrettes and spicy chipotle crema"
+  ]
+}

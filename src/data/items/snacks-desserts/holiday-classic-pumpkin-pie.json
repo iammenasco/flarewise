@@ -1,0 +1,47 @@
+{
+  "id": "holiday-classic-pumpkin-pie",
+  "name": "Thanksgiving & Christmas Smooth Spiced Pumpkin Pie (Costco or Homemade)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Costco Bakery / Thanksgiving & Christmas Dessert Table",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Pumpkin Pie (Costco Kirkland or Homemade)",
+    "Lactaid or Dairy-Free Whipped Topping"
+  ],
+  "tags": [
+    "pumpkin",
+    "pie",
+    "sweet",
+    "soluble-fiber",
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "costco"
+  ],
+  "searchKeywords": [
+    "pumpkin pie",
+    "costco pumpkin pie",
+    "thanksgiving pie",
+    "christmas pie"
+  ],
+  "whyItWorks": "The #1 Crohn's-friendly holiday pie: puréed pumpkin custard baked in a refined white pastry crust is 100% smooth, seedless, nut-free, and rich in soluble fiber.",
+  "prepOrOrderInstructions": "Enjoy a slice of Pumpkin Pie with dairy-free CocoWhip/Cool Whip (or take a Lactaid for the evaporated milk in the custard and whipped cream).",
+  "watchOuts": [
+    "Contains evaporated milk in the custard—pair with a Lactaid if lactose-sensitive"
+  ]
+}

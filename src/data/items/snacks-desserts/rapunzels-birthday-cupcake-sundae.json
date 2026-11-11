@@ -1,0 +1,38 @@
+{
+  "id": "rapunzels-birthday-cupcake-sundae",
+  "name": "Rapunzel's Birthday Cupcake Sundae (Lantern Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "birthday cupcake sundae",
+    "rapunzels royal table sundae",
+    "disney magic"
+  ],
+  "whyItWorks": "Soft vanilla birthday cupcake over vanilla ice cream with whipped cream and sprinkles—zero nuts, citrus, or tough fibers.",
+  "prepOrOrderInstructions": "Pair with a Lactaid enzyme and skip any seeded berry drizzle.",
+  "watchOuts": [
+    "High sugar and dairy lactose load"
+  ]
+}

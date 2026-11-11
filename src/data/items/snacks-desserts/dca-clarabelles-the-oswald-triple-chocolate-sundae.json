@@ -1,0 +1,39 @@
+{
+  "id": "dca-clarabelles-the-oswald-triple-chocolate-sundae",
+  "name": "DCA Clarabelle's \"The Oswald\" Triple Chocolate Fudge Ice Cream Sundae",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Clarabelle's Hand-Scooped Ice Cream (Disney California Adventure)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "ice-cream",
+    "sundae",
+    "chocolate",
+    "buena-vista-street"
+  ],
+  "searchKeywords": [
+    "clarabelles oswald sundae",
+    "oswald chocolate sundae dca",
+    "buena vista street sundae"
+  ],
+  "whyItWorks": "Hand-scooped chocolate and vanilla ice cream with warm fudge sauce, chocolate-dipped banana, and whipped cream. Bananas are gentle and seed-free.",
+  "prepOrOrderInstructions": "Order The Oswald Sundae in a cup to share; take a lactase enzyme tablet.",
+  "watchOuts": [
+    "High in dairy cream and chocolate fat; share portion"
+  ]
+}

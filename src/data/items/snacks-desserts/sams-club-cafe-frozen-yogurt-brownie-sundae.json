@@ -1,0 +1,40 @@
+{
+  "id": "sams-club-cafe-frozen-yogurt-brownie-sundae",
+  "name": "Sam's Club Café Vanilla Frozen Yogurt Cup & Brownie Sundae (Skip 4-Berry Seeds)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sam's Club Café (Logan, South Jordan & Nationwide)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "yogurt",
+    "ice-cream",
+    "chocolate",
+    "sweet",
+    "sams-club",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sams club frozen yogurt",
+    "sams club brownie sundae",
+    "sams club berry sundae"
+  ],
+  "whyItWorks": "Sam's Club's $1.00 cultured Vanilla Frozen Yogurt cup is lower in fat and lactose than standard hard ice cream and completely seedless.",
+  "prepOrOrderInstructions": "Order the plain Vanilla Frozen Yogurt Cup or the Brownie Sundae (with a Lactaid), and strictly skip the 4-Berry Sundae topping (loaded with blackberry/raspberry seeds).",
+  "watchOuts": [
+    "Avoid the 4-Berry Topping Sundae due to whole berry seeds"
+  ]
+}

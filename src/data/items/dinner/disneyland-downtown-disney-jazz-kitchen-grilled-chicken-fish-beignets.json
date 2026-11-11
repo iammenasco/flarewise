@@ -1,0 +1,43 @@
+{
+  "id": "disneyland-downtown-disney-jazz-kitchen-grilled-chicken-fish-beignets",
+  "name": "Downtown Disney Jazz Kitchen Coastal Grill & Patio: Classic Café du Monde-Style Beignets & Plain Grilled Fish/Chicken",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Jazz Kitchen Coastal Grill & Patio / Beignets Expressed (Downtown Disney District)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "chicken",
+    "rice",
+    "sweet",
+    "dessert",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "jazz kitchen downtown disney",
+    "beignets expressed downtown disney",
+    "safe food jazz kitchen"
+  ],
+  "whyItWorks": "At the table-service patio, you can request plain grilled Gulf fish or chicken breast with steamed white rice (no Cajun blackening), and at the walk-up **Beignets Expressed** window you can share classic warm New Orleans powdered-sugar beignets.",
+  "prepOrOrderInstructions": "For dinner, ask for Grilled Fish or Chicken with **NO Cajun spice** and steamed white rice (avoid the spicy Pasta Jambalaya and dark Gumbo); at Beignets Expressed, stick to classic Powdered Sugar Beignets.",
+  "watchOuts": [
+    "Avoid Pasta Jambalaya (spicy Andouille sausage + cayenne) and glazed beignets with citrus/berry seeds"
+  ]
+}

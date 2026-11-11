@@ -1,0 +1,39 @@
+{
+  "id": "cafe-sabor-garden-city-chicken-fajitas-custom",
+  "name": "Grilled Chicken Fajita Breast with White Rice (Customized)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Garden City / Logan, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "logan",
+    "mexican",
+    "fajitas",
+    "grilled-chicken"
+  ],
+  "searchKeywords": [
+    "cafe sabor",
+    "chicken fajitas",
+    "grilled chicken",
+    "bear lake",
+    "logan"
+  ],
+  "whyItWorks": "Marinated lean chicken breast seared without heavy charring provides ultra-lean protein. Customizing to skip the bell peppers and onions removes insoluble vegetable skins that provoke cramping in active IBD.",
+  "prepOrOrderInstructions": "Order chicken fajitas with chicken breast only (no onions or bell peppers), served with soft flour or corn tortillas and side white rice."
+}

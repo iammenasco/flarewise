@@ -1,0 +1,42 @@
+{
+  "id": "palo-brunch-amaretto-chocolate-fondant",
+  "name": "Palo Brunch Warm Amaretto Chocolate Fondant with Hazelnut Gelato",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "ice-cream",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "warm amaretto chocolate fondant",
+    "palo brunch dessert",
+    "hazelnut gelato"
+  ],
+  "whyItWorks": "Warm molten dark chocolate cake scented with almond-flavored Amaretto and smooth hazelnut gelato—zero whole nuts, zero seeds, and citrus-free.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets before enjoying the molten chocolate cake and gelato.",
+  "watchOuts": [
+    "Rich dark chocolate and dairy gelato fat"
+  ]
+}

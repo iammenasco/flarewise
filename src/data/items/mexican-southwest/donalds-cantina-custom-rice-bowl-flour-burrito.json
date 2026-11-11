@@ -1,0 +1,50 @@
+{
+  "id": "donalds-cantina-custom-rice-bowl-flour-burrito",
+  "name": "Donald's Cantina Custom White Rice Bowl or Flour Burrito",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Donald's Cantina (Festival of Foods)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pork",
+    "beef",
+    "rice-base",
+    "burrito",
+    "tortilla",
+    "avocado",
+    "mexican",
+    "disney-cruise",
+    "disney-treasure",
+    "festival-of-foods",
+    "donalds-cantina"
+  ],
+  "searchKeywords": [
+    "donalds cantina",
+    "festival of foods",
+    "disney treasure tacos",
+    "burrito bowl",
+    "pool deck lunch"
+  ],
+  "whyItWorks": "Build-your-own line lets you combine a soft white flour tortilla or steamed rice base with slow-braised carnitas/chicken, shredded cheese, and smooth guacamole while skipping every trigger.",
+  "prepOrOrderInstructions": "Order a white flour burrito or rice bowl with chicken or pork carnitas, shredded cheddar/Monterey Jack, plain sour cream, and smooth avocado mash. Strictly skip the hard corn taco shells, whole black/pinto beans, corn salsa, raw onions, and the hot sauce bar.",
+  "watchOuts": [
+    "Corn tortilla shells/chips",
+    "Whole black/pinto beans and roasted corn salsa",
+    "Salsa bar chili heat and lime juice"
+  ]
+}

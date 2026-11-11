@@ -1,0 +1,42 @@
+{
+  "id": "dcl-room-service-cake-of-the-day",
+  "name": "24-Hour Room Service Secret \"Cake of the Day\" & Assorted Pastries",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bakery",
+    "sweet",
+    "chocolate",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "cake of the day",
+    "room service cake",
+    "stateroom dining secret",
+    "disney cruise"
+  ],
+  "whyItWorks": "Off-menu DCL insider favorite: ask Room Service what the rotating \"Cake of the Day\" is—often a vanilla sponge, chocolate mousse cake, or cheesecake.",
+  "prepOrOrderInstructions": "Ask the Room Service operator for the flavor of the Cake of the Day; accept if vanilla, chocolate, caramel, or banana, and decline if lemon, orange, key lime, or nut-crusted.",
+  "watchOuts": [
+    "Always verify the daily flavor has zero citrus or nuts before ordering"
+  ]
+}

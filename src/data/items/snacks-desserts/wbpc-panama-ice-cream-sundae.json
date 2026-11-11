@@ -1,0 +1,43 @@
+{
+  "id": "wbpc-panama-ice-cream-sundae",
+  "name": "Westbound Panama Canal Butter Pecan, Dulce de Leche & Meringue Kisses Sundae",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Westbound Panama Canal (Panama Canal Menu)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "nuts",
+    "caramel",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "panama ice cream sundae",
+    "butter pecan dulce de leche",
+    "meringue kisses",
+    "westbound panama canal dessert"
+  ],
+  "whyItWorks": "Signature Panama Canal menu sundae; the airy egg-white meringue kisses and dulce de leche are fiber-free, but whole pecan pieces and dairy ice cream require modification.",
+  "prepOrOrderInstructions": "Ask your server to build this sundae using plain Vanilla Bean ice cream (or dairy-free ice cream) with the dulce de leche and crisp meringue kisses—holding the whole butter pecans.",
+  "watchOuts": [
+    "Whole pecan pieces in butter pecan ice cream",
+    "High lactose in ice cream and dulce de leche"
+  ]
+}

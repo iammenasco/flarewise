@@ -1,0 +1,43 @@
+{
+  "id": "summit-pizza-co-bear-lake-meat-lovers-warning",
+  "name": "Summit Pizza Co. (Garden City & Logan, UT) \"The Meat Lovers\" Pizza (Grease Warning)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City & Logan, UT)",
+  "crohnsScore": 5.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "logan",
+    "bear-lake",
+    "pizza",
+    "meat",
+    "grease",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "summit pizza meat lovers",
+    "bear lake meat lovers pizza",
+    "summit pizza garden city"
+  ],
+  "whyItWorks": "Loaded with pepperoni, Italian sausage, bacon, and ham. The high rendered pork fat and spicy nitrites cause gallbladder contraction and loose stools.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares. Choose plain cheese or grilled chicken pizza instead.",
+  "watchOuts": [
+    "Rendered animal fats and spicy cured meats trigger cramping and diarrhea"
+  ]
+}

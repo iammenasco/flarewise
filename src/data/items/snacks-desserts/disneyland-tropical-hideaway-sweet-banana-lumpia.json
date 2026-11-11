@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-tropical-hideaway-sweet-banana-lumpia",
+  "name": "Disneyland The Tropical Hideaway Sweet Banana & Cream Cheese Lumpia",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "The Tropical Hideaway (Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "banana",
+    "pastry",
+    "snack"
+  ],
+  "searchKeywords": [
+    "tropical hideaway lumpia",
+    "banana lumpia disneyland",
+    "adventureland sweet lumpia"
+  ],
+  "whyItWorks": "Crispy fried spring roll wrapper stuffed with warm ripe banana, jackfruit, and sweet cream cheese, dusted in cinnamon sugar. Bananas are gentle on the gut.",
+  "prepOrOrderInstructions": "Order the Sweet Lumpia warm for an afternoon treat; enjoy while sitting along the Jungle Cruise river.",
+  "watchOuts": [
+    "Fried wrapper carries moderate oil; eat slowly"
+  ]
+}

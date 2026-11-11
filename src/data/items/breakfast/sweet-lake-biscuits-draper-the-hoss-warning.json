@@ -1,0 +1,41 @@
+{
+  "id": "sweet-lake-biscuits-draper-the-hoss-warning",
+  "name": "Sweet Lake Biscuits (Draper, UT) \"The Hoss\" Biscuit Sandwich (Heavy Fat Warning)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Sweet Lake Biscuits & Limeade (Draper, UT)",
+  "crohnsScore": 4.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "breakfast",
+    "chicken",
+    "bacon",
+    "gravy",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "sweet lake the hoss",
+    "the hoss biscuit draper",
+    "fried chicken biscuit sandwich"
+  ],
+  "whyItWorks": "A massive, decadent stack: fried chicken breast, bacon, fried egg, and cheddar smothered in sausage country gravy. The extreme grease and heavy cream trigger gallbladder spasms and rapid diarrhea.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active IBD. Order a plain biscuit with scrambled eggs and sliced avocado instead.",
+  "watchOuts": [
+    "Fried chicken batter, bacon fat, and sausage gravy combine into an extreme GI trigger"
+  ]
+}

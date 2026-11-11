@@ -1,0 +1,46 @@
+{
+  "id": "pool-deck-chili-dog-bratwurst",
+  "name": "Pool Deck Chili Cheese Dog & Grilled Bratwurst with Sauerkraut (Warning)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Wonder · Pete's Boiler Bites / Disney Magic · Duck-In Diner",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pork",
+    "beans",
+    "spicy",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "petes-boiler-bites",
+    "duck-in-diner"
+  ],
+  "searchKeywords": [
+    "chili dog",
+    "bratwurst",
+    "hot dog",
+    "petes boiler bites",
+    "duck in diner"
+  ],
+  "whyItWorks": "A plain all-beef hot dog in a white bun is tolerable in remission, but topping it with bean chili or sauerkraut triggers immediate bloating and urgency.",
+  "prepOrOrderInstructions": "If ordering a hot dog poolside, order a plain all-beef frankfurter in a white bun with yellow mustard or ketchup only—strictly no chili, no raw onions, and no sauerkraut.",
+  "watchOuts": [
+    "Whole kidney beans and chili spice in chili topping",
+    "Fibrous sauerkraut and bratwurst casing"
+  ]
+}

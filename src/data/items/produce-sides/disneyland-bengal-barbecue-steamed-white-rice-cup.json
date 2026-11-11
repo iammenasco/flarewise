@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-bengal-barbecue-steamed-white-rice-cup",
+  "name": "Disneyland Bengal Barbecue Plain Steamed Jasmine White Rice Cup",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Bengal Barbecue (Disneyland Park)",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "rice",
+    "flare-safe",
+    "adventureland"
+  ],
+  "searchKeywords": [
+    "bengal barbecue white rice",
+    "disneyland white rice cup",
+    "adventureland rice"
+  ],
+  "whyItWorks": "One of the best emergency flare-safe hacks in Disneyland! Warm, fluffy steamed white jasmine rice with zero butter, oil, spices, or seeds. Soothes an upset stomach immediately.",
+  "prepOrOrderInstructions": "Order a cup of plain steamed white rice (request no spicy seasonings or furikake seeds).",
+  "watchOuts": [
+    "None; premier flare-safe theme park carbohydrate"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-refreshment-corner-cream-cheese-warm-pretzel",
+  "name": "Disneyland Refreshment Corner & Tomorrowland Cart Warm Cream Cheese-Filled Pretzel",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Refreshment Corner & Tomorrowland Pretzel Cart (Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "cheese",
+    "sweet",
+    "snack",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "cream cheese pretzel disneyland",
+    "tomorrowland pretzel cart",
+    "refreshment corner pretzel"
+  ],
+  "whyItWorks": "Soft baked pretzel dough stuffed with warm, slightly sweet whipped cream cheese—zero seeds, zero spice, and very comforting when paired with a lactase enzyme.",
+  "prepOrOrderInstructions": "Order the Cream Cheese-Filled Pretzel (NOT the Jalapeño Cheese Pretzel!) and take 1–2 lactase tablets before eating.",
+  "watchOuts": [
+    "Never accidentally order the Jalapeño Cheese-Filled Pretzel; take lactase for the cream cheese filling"
+  ]
+}

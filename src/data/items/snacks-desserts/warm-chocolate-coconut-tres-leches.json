@@ -1,0 +1,44 @@
+{
+  "id": "warm-chocolate-coconut-tres-leches",
+  "name": "Warm Tres Leches Cake & Flan de Queso (Plaza de Coco)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "custard",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "warm chocolate tres leches",
+    "tia glorias flan de queso",
+    "miguels remember me sundae",
+    "plaza de coco dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Milk-soaked sponge cake (Tres Leches), silky cream cheese flan, and Miguel's Cookies & Cream Sundae require zero mechanical digestion.",
+  "prepOrOrderInstructions": "Order the Warm Tres Leches, Tía Gloria's Flan de Queso (skip the dried apricot/pineapple snap), or Miguel's Remember Me Sundae with a Lactaid pill. Avoid the Margarita Lime Cheesecake (citrus) and Mexican Chocolate Tart (spiced + pecan nuts).",
+  "watchOuts": [
+    "Margarita Lime Cheesecake (lime citrus)",
+    "Mexican Chocolate Tart (chili spice + whole pecans)",
+    "High dairy lactose — take a Lactaid enzyme"
+  ]
+}

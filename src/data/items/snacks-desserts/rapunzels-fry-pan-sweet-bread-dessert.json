@@ -1,0 +1,42 @@
+{
+  "id": "rapunzels-fry-pan-sweet-bread-dessert",
+  "name": "Rapunzel's Fry Pan Sweet Bread & Attila's Cupcake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "pastry",
+    "sweet",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "rapunzels fry pan",
+    "attilas sublime cupcake",
+    "red velvet cupcake",
+    "rapunzels royal table dessert",
+    "disney magic"
+  ],
+  "whyItWorks": "Soft fry-pan brioche pastry with vanilla ice cream and Attila's tender red velvet cupcake use refined cake flour with 0g insoluble husks or seeds.",
+  "prepOrOrderInstructions": "Choose the Fry Pan Sweet Bread (with vanilla ice cream and chocolate sauce) or Attila's Sublime Cupcake; skip the Rote Grütze Berry Sundae (berry seeds) and Lemon Messcake (citrus).",
+  "watchOuts": [
+    "Rote Grütze berry seeds",
+    "Lemon Messcake citrus"
+  ]
+}

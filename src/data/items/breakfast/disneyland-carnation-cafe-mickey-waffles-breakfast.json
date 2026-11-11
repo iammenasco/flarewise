@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-carnation-cafe-mickey-waffles-breakfast",
+  "name": "Disneyland Carnation Cafe Classic Mickey-Shaped Waffles & Scrambled Eggs",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Carnation Cafe (Disneyland Park)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "breakfast",
+    "waffles",
+    "eggs"
+  ],
+  "searchKeywords": [
+    "carnation cafe mickey waffles",
+    "disneyland breakfast waffles",
+    "main street breakfast"
+  ],
+  "whyItWorks": "Crisp, golden malted Mickey-shaped waffles paired with soft scrambled eggs and pure maple syrup. Completely seed-free, zero roughage, and highly digestible park fuel.",
+  "prepOrOrderInstructions": "Order the Mickey Waffles breakfast with scrambled eggs and bacon (or fruit cup with peeled melon).",
+  "watchOuts": [
+    "None; gentle iconic Disney breakfast"
+  ]
+}

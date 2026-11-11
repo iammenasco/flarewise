@@ -1,0 +1,42 @@
+{
+  "id": "captains-gala-venison-loin",
+  "name": "Juniper-Marinated Venison Loin with Braised Red Cabbage (Captain's Gala Night 2)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "juniper marinated venison loin",
+    "captains gala venison",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Venison tenderloin is ultra-lean red meat with almost zero saturated fat; the risk comes only from the braised red cabbage side.",
+  "prepOrOrderInstructions": "Order the venison loin medium-rare with mashed potatoes instead of the fibrous braised red cabbage, and brush off crushed juniper berries.",
+  "watchOuts": [
+    "Fibrous braised red cabbage side (swap for potatoes)",
+    "Crushed juniper/peppercorns on crust"
+  ]
+}

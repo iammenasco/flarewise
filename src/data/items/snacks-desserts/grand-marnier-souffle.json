@@ -1,0 +1,45 @@
+{
+  "id": "grand-marnier-souffle",
+  "name": "Warm Soufflé & Crème Brûlée (Triton's / Lumiere's)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "dessert",
+    "custard",
+    "souffle",
+    "french",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "grand marnier souffle",
+    "creme brulee",
+    "tahitian vanilla creme brulee",
+    "tritons dessert",
+    "lumieres dessert"
+  ],
+  "whyItWorks": "Whipped egg-and-sugar soufflé and baked vanilla custard have 0g fiber and melt on the tongue with zero mechanical work.",
+  "prepOrOrderInstructions": "If you have a strict citrus/orange-peel guardrail, skip the Grand Marnier (orange liqueur) soufflé and order the Tahitian Vanilla Crème Brûlée (scrape off any berry garnish) or ask for plain vanilla bean sauce.",
+  "watchOuts": [
+    "Grand Marnier contains orange peel extract (citrus guardrail)",
+    "Dairy cream/milk lactose — take a Lactaid pill"
+  ]
+}

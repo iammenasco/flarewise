@@ -1,0 +1,38 @@
+{
+  "id": "dca-pym-test-kitchen-atomic-fusion-buffalo-pretzel-warning",
+  "name": "DCA Pym Test Kitchen \"Atomic Fusion Pretzel\" (Spicy Buffalo Sauce, Blue Cheese & Celery Warning!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pym Test Kitchen (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pretzel",
+    "spicy",
+    "cheese",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "atomic fusion pretzel pym test kitchen",
+    "buffalo chicken pretzel dca"
+  ],
+  "whyItWorks": "Reference warning: unlike the plain 8.8/10 Quantum Pretzel at the same counter, the Atomic Fusion Pretzel is drenched in fiery cayenne buffalo hot sauce, blue cheese crumbles, ranch dressing, and raw diced celery.",
+  "prepOrOrderInstructions": "Skip the Atomic Fusion Pretzel and order the plain **Quantum Pretzel** instead.",
+  "watchOuts": [
+    "Cayenne buffalo hot sauce + raw celery strings + blue cheese dairy"
+  ]
+}

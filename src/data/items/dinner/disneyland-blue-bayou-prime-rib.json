@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-blue-bayou-prime-rib",
+  "name": "Slow-Roasted Prime Rib of Beef with Yukon Gold Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Blue Bayou Restaurant (Disneyland)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "fine-dining",
+    "prime-rib",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "blue bayou",
+    "disneyland",
+    "prime rib",
+    "mashed potatoes",
+    "new orleans square"
+  ],
+  "whyItWorks": "Slow-roasted beef tenderloin or rib center cut sliced rare to medium is tender and low in tough collagen. Paired with smooth peeled Yukon Gold mashed potatoes and light au jus, it supplies comforting calories.",
+  "prepOrOrderInstructions": "Order the prime rib trimmed of outer edge fat and served with light au jus. Skip creamy horseradish sauce and charred outer blackened crust."
+}

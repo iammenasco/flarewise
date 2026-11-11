@@ -1,0 +1,46 @@
+{
+  "id": "tritons-lumieres-red-wine-bosc-pear-salad",
+  "name": "Red Wine Bosc Pear Salad with Gorgonzola & Candied Pecans",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salad",
+    "nuts",
+    "cheese",
+    "greens",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "red wine bosc pear salad",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Pears are high in excess fructose/sorbitol (FODMAPs) and the salad is topped with sharp candied pecans and raw frisée greens.",
+  "prepOrOrderInstructions": "Avoid during flares; if tasting in remission, eat a few bites of poached pear only and skip all candied pecans and raw greens.",
+  "watchOuts": [
+    "High-FODMAP sorbitol in Bosc pears",
+    "Sharp candied pecans",
+    "Raw bitter greens"
+  ]
+}

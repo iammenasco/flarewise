@@ -1,0 +1,39 @@
+{
+  "id": "porch-daybreak-south-jordan-shrimp-grits-chicken",
+  "name": "Porch Restaurant (Daybreak / South Jordan) Buttermilk Biscuits & Roasted Chicken or Shrimp & Grits",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Porch Restaurant (Daybreak / South Jordan near Herriman, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "shrimp",
+    "potato",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "porch restaurant daybreak",
+    "south jordan herriman dinner",
+    "porch buttermilk biscuits",
+    "southern comfort food south jordan"
+  ],
+  "whyItWorks": "Just minutes from Holiday Inn Express Herriman/South Jordan in Daybreak, Porch serves scratch-made warm buttermilk biscuits with honey butter, herb-roasted chicken with mashed potatoes, and creamy cheddar grits.",
+  "prepOrOrderInstructions": "Order the Roasted Chicken with whipped potatoes or the Buttermilk Biscuits; if ordering Shrimp & Grits, ask for mild seasoning (no spicy tasso/cayenne gravy).",
+  "watchOuts": [
+    "Skip fried green tomatoes, collard greens, and spicy jalapeño cornbread"
+  ]
+}

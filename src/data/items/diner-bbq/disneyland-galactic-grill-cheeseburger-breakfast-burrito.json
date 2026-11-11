@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-galactic-grill-cheeseburger-breakfast-burrito",
+  "name": "Disneyland Galactic Grill Plain Angus Cheeseburger, Chicken Tenders or Morning Breakfast Burrito",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Galactic Grill (Tomorrowland · Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "eggs",
+    "burger",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "galactic grill tomorrowland",
+    "disneyland cheeseburger",
+    "tomorrowland breakfast burrito"
+  ],
+  "whyItWorks": "Tomorrowland's go-to counter for a plain American cheeseburger on a toasted bun, French fries, or a morning egg-bacon-cheddar breakfast burrito (ordered without salsa).",
+  "prepOrOrderInstructions": "For breakfast, order the Breakfast Burrito or French Toast Sticks with salsa on the side (do not use); for lunch/dinner, order a plain Cheeseburger with cheese only and fries.",
+  "watchOuts": [
+    "Skip Galactic Grill's neon slushies and citrus-loaded specialty space lemonades"
+  ]
+}

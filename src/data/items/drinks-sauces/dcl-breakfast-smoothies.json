@@ -1,0 +1,42 @@
+{
+  "id": "dcl-breakfast-smoothies",
+  "name": "Mornin' Tug Boat & Mango Mountain Hike Breakfast Smoothies",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "smoothie",
+    "banana",
+    "yogurt",
+    "berries",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "mornin tug boat smoothie",
+    "mango mountain hike smoothie",
+    "disney cruise breakfast"
+  ],
+  "whyItWorks": "Included complimentary at sit-down breakfast: Mango Mountain Hike (mango, banana, honey, low-fat yogurt) is seedless and citrus-free.",
+  "prepOrOrderInstructions": "Order the Mango Mountain Hike (banana + mango + yogurt) and skip the Mornin' Tug Boat (which blends whole strawberries with seeds). Take a Lactaid.",
+  "watchOuts": [
+    "Strawberry seeds in Mornin' Tug Boat",
+    "Yogurt lactose and fruit sugar load"
+  ]
+}

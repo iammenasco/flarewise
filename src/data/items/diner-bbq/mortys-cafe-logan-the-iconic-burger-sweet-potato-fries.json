@@ -1,0 +1,41 @@
+{
+  "id": "mortys-cafe-logan-the-iconic-burger-sweet-potato-fries",
+  "name": "Morty's Cafe \"The Iconic\" Cheddar Burger & Sweet Potato Fries (Plain Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Morty's Cafe (Logan / USU Campus, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "sweet-potato",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "mortys cafe logan",
+    "usu campus burger",
+    "the iconic burger mortys",
+    "mortys sweet potato fries"
+  ],
+  "whyItWorks": "A fresh smashburger with aged cheddar on a toasted bun right on the edge of USU campus; pairing with a small side of cooked sweet potato fries gives you soluble beta-carotene fiber.",
+  "prepOrOrderInstructions": "Order \"The Iconic\" Burger (or substitution turkey/chicken patty) with cheddar only—skip raw onions, lettuce, tomato, and spicy fry sauce.",
+  "watchOuts": [
+    "Skip the fiery Blue Fire Burger (jalapeños/buffalo sauce) and Sunrise Burger if sensitive to greasy hash browns"
+  ]
+}

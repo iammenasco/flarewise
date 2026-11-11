@@ -1,0 +1,43 @@
+{
+  "id": "dcl-sea-day-sit-down-lunch-alfredo",
+  "name": "Sea-Day Sit-Down Lunch: Penne Alfredo, Grilled Chicken & Pan-Seared Salmon",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "chicken",
+    "salmon",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "sit down lunch",
+    "penne alfredo",
+    "tritons lunch",
+    "lumieres lunch",
+    "1923 lunch"
+  ],
+  "whyItWorks": "Every day in one open main dining room, a quiet sit-down lunch serves freshly cooked pasta, grilled chicken breast, salmon, and burgers away from buffet crowds.",
+  "prepOrOrderInstructions": "Order the grilled chicken breast or pan-seared salmon with mashed potatoes/rice, or the Penne Pasta with light Alfredo/butter and aged Parmesan.",
+  "watchOuts": [
+    "Heavy cream in full Alfredo sauce (take a Lactaid or request olive oil/butter)"
+  ]
+}

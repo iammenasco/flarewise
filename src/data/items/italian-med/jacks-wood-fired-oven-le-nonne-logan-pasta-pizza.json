@@ -1,0 +1,39 @@
+{
+  "id": "jacks-wood-fired-oven-le-nonne-logan-pasta-pizza",
+  "name": "Le Nonne & Jack's Wood Fired Oven (Logan) Homemade Gnocchi/Fettuccine & Margherita Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Le Nonne / Jack's Wood Fired Oven (Downtown Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "pizza",
+    "cheese",
+    "chicken",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "le nonne logan",
+    "jacks wood fired oven logan",
+    "logan italian restaurant"
+  ],
+  "whyItWorks": "Authentic downtown Logan Italian kitchens using 00-flour dough and handmade potato gnocchi or egg fettuccine that digest much cleaner than heavy American chain pasta.",
+  "prepOrOrderInstructions": "At Le Nonne, order handmade potato gnocchi or fettuccine with light butter/olive oil, Parmigiano-Reggiano, and grilled chicken/salmon; at Jack's, order a light-cheese Margherita or Prosciutto wood-fired pizza.",
+  "watchOuts": [
+    "Ask for light garlic and take a Lactaid if ordering cream/mozzarella dishes"
+  ]
+}

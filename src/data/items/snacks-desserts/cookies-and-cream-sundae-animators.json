@@ -1,0 +1,43 @@
+{
+  "id": "cookies-and-cream-sundae-animators",
+  "name": "Cookies & Cream Sundae / Warm Sticky Date Pudding",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "ice-cream",
+    "cake",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "cookies and cream sundae",
+    "warm sticky date pudding",
+    "chocolate fudge cheesecake",
+    "animators palate dessert"
+  ],
+  "whyItWorks": "Smooth vanilla/cookies-and-cream ice cream and Chocolate Fudge Cheesecake deliver low-residue dessert calories when you skip whole nuts and fibrous dried fruit.",
+  "prepOrOrderInstructions": "Choose the Cookies & Cream Sundae or Chocolate Fudge Cheesecake (take a Lactaid pill). Skip the Crunchy Walnut Cake (nut shards) and Lemon Icebox Pie (citrus guardrail).",
+  "watchOuts": [
+    "Crunchy Walnut Cake on the same menu (hard avoid nut shards)",
+    "Lemon Icebox Pie (citrus)",
+    "Date skins in sticky date pudding if flaring"
+  ]
+}

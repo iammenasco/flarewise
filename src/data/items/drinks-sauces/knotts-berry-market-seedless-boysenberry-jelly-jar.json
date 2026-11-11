@@ -1,0 +1,38 @@
+{
+  "id": "knotts-berry-market-seedless-boysenberry-jelly-jar",
+  "name": "Knott's Berry Market (California Marketplace) Take-Home Jar of Strained Seedless Boysenberry Jelly (Skip Preserves!)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Knott's Berry Market (California Marketplace · Knott's Berry Farm)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dairy-free",
+    "gluten-free-option",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "knotts seedless boysenberry jelly",
+    "berry market knotts",
+    "boysenberry preserves without seeds"
+  ],
+  "whyItWorks": "At the Knott's Berry Market gift shop, you can buy jars of **Knott's Seedless Boysenberry Jelly** (or Boysenberry Syrup)—which is 100% strained of all berry seeds so you can enjoy authentic boysenberry on sourdough toast and buttermilk biscuits at home with 0g fiber!",
+  "prepOrOrderInstructions": "Look closely at the jar label in Berry Market: buy **\"Seedless Boysenberry Jelly\"** or **\"Boysenberry Syrup\"**—do NOT buy regular \"Boysenberry Preserves\" (which is full of whole seeds).",
+  "watchOuts": [
+    "Always check that the label says \"Jelly\" or \"Seedless\"—never \"Preserves\" with seeds"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "stacked-logan-brioche-french-toast",
+  "name": "Stacked! Quality Pancakes Classic Thick-Cut Brioche French Toast",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Stacked! Quality Pancakes (Logan, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "sweet",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "stacked french toast logan",
+    "brioche french toast downtown logan",
+    "stacked breakfast"
+  ],
+  "whyItWorks": "Soft, crustless-style brioche soaked in egg custard and griddled golden brown digests easily with minimal fiber when topped with pure syrup or sliced bananas.",
+  "prepOrOrderInstructions": "Order the Classic Brioche French Toast with maple syrup (or banana topping)—skip raspberry/blackberry seedy syrups and lemon curd.",
+  "watchOuts": [
+    "Contains egg and dairy in the brioche custard—take lactase if needed"
+  ]
+}

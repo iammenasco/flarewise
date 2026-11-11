@@ -1,0 +1,37 @@
+{
+  "id": "dca-pym-test-kitchen-choco-smash-candy-bar-nut-warning",
+  "name": "DCA Pym Test Kitchen \"Choco-Smash Candy Bar\" (Whole Peanuts & Rich Nougat Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Pym Test Kitchen (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "dessert",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "choco smash candy bar pym test kitchen",
+    "avengers campus dessert"
+  ],
+  "whyItWorks": "Reference warning: packed with whole roasted peanuts inside dark chocolate, caramel, and dense brownie—whole nuts are a mechanical roughage trigger during flares.",
+  "prepOrOrderInstructions": "If sharing in remission, eat only the brownie/mousse layers and pick around the whole roasted peanuts.",
+  "watchOuts": [
+    "Contains whole roasted peanuts, heavy dairy cream, and concentrated sugar"
+  ]
+}

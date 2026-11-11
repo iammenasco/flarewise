@@ -1,0 +1,39 @@
+{
+  "id": "knotts-ghost-town-grill-calico-cheeseburger",
+  "name": "Knott's Ghost Town Grill Calico Charbroiled Cheeseburger with Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Ghost Town Grill (Knott's Berry Farm)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "beef",
+    "burger",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "ghost town grill burger",
+    "calico cheeseburger knotts",
+    "knotts berry farm burger"
+  ],
+  "whyItWorks": "1/3 lb charbroiled Angus chuck patty with melted cheddar cheese on a soft toasted bun with fries. Plain ordering makes this an easily digested theme park staple.",
+  "prepOrOrderInstructions": "Order the Calico Cheeseburger plain with ketchup only (hold lettuce, tomato, pickles, and raw onions).",
+  "watchOuts": [
+    "Hold raw onions and pickles"
+  ]
+}

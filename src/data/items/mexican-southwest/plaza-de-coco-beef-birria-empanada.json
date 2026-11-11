@@ -1,0 +1,39 @@
+{
+  "id": "plaza-de-coco-beef-birria-empanada",
+  "name": "Braised Beef Birria Empanada with Consommé (Night 2)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "fried",
+    "mexican",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "beef birria empanada",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Shredded slow-braised beef is tender, but fried pastry crust and guajillo/ancho chili birria consommé can irritate active disease.",
+  "prepOrOrderInstructions": "If tasting in remission, eat the tender shredded beef from the center and skip the fried pastry corners and spicy dipping consommé.",
+  "watchOuts": [
+    "Fried empanada pastry fat",
+    "Guajillo chili and onion/garlic in birria broth"
+  ]
+}

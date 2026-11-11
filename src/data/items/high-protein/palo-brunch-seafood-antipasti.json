@@ -1,0 +1,46 @@
+{
+  "id": "palo-brunch-seafood-antipasti",
+  "name": "Palo Brunch Chilled Seafood & Italian Antipasti Platter",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "salmon",
+    "seafood",
+    "cheese",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo antipasti",
+    "palo seafood platter",
+    "king crab legs",
+    "palo brunch"
+  ],
+  "whyItWorks": "Poached jumbo shrimp, Jonah crab claws, smoked salmon, 24-month aged Parmigiano-Reggiano, and Prosciutto di Parma are zero-fiber, lactose-safe protein.",
+  "prepOrOrderInstructions": "Enjoy the chilled shrimp, crab, smoked salmon, prosciutto, and aged Parmigiano without squeezing the lemon wedge; skip the marinated olives, artichokes, and sun-dried tomatoes.",
+  "watchOuts": [
+    "Discard lemon wedges (citrus guardrail)",
+    "Skip fibrous marinated artichokes and olives"
+  ]
+}

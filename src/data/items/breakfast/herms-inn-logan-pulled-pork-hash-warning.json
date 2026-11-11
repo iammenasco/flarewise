@@ -1,0 +1,37 @@
+{
+  "id": "herms-inn-logan-pulled-pork-hash-warning",
+  "name": "Slow-Smoked Pulled Pork Breakfast Hash",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan, UT)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "breakfast",
+    "hash",
+    "high-fat"
+  ],
+  "searchKeywords": [
+    "herms inn",
+    "pulled pork hash",
+    "country potatoes",
+    "logan utah"
+  ],
+  "whyItWorks": "Pan-fried crispy skin-on red potatoes tossed with rich pork carnitas, diced onions, green peppers, and melted cheddar cheese create a heavy, greasy combination that strains compromised biliary and digestive systems.",
+  "prepOrOrderInstructions": "Grease & Onion Warning: Avoid if experiencing loose stools or cramping. Choose simple scrambled eggs with sourdough toast instead."
+}

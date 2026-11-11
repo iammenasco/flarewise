@@ -1,0 +1,42 @@
+{
+  "id": "stacked-logan-potato-bun-burger-egg-sandwich",
+  "name": "Stacked! Egg, Cheddar & Bacon Breakfast Sandwich or Smashburger on Potato Bun",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Stacked! Quality Pancakes (Logan, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "beef",
+    "pork",
+    "cheese",
+    "potato",
+    "sandwich",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "stacked breakfast sandwich logan",
+    "stacked burger potato bun",
+    "logan utah brunch"
+  ],
+  "whyItWorks": "Served on a pillowy soft toasted potato bun with folded egg, aged cheddar, and bacon (or smashed beef patties), delivering savory protein without tough bread crusts or seeds.",
+  "prepOrOrderInstructions": "Order the Breakfast Sandwich or Stacked Burger on the toasted potato bun with egg, cheddar, and bacon/beef only (hold raw onions, pickles, and spicy sauce).",
+  "watchOuts": [
+    "Skip extra-greasy hash browns if your stomach is sensitive to griddle oil"
+  ]
+}

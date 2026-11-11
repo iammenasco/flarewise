@@ -1,0 +1,40 @@
+{
+  "id": "dca-shawarma-palace-impossible-falafel-wrap-warning",
+  "name": "DCA Shawarma Palace Impossible Victory Falafel Wrap (Chickpea Gas Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Shawarma Palace (Disney California Adventure)",
+  "crohnsScore": 5.1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "falafel",
+    "avengers-campus",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "shawarma palace falafel",
+    "impossible falafel wrap dca",
+    "avengers campus vegan wrap"
+  ],
+  "whyItWorks": "Fried plant-based falafel patties made with ground chickpeas, onions, garlic, and Middle Eastern spices, served in pita with tahini. Chickpea galacto-oligosaccharides (FODMAPs) and garlic cause intense gas, cramping, and bloating.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active disease. Choose the tender grilled chicken shawarma wrap instead.",
+  "watchOuts": [
+    "Chickpeas and raw garlic cause painful bloating and gas"
+  ]
+}

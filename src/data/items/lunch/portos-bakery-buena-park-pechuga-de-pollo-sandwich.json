@@ -1,0 +1,41 @@
+{
+  "id": "portos-bakery-buena-park-pechuga-de-pollo-sandwich",
+  "name": "Porto's Bakery (Buena Park, CA) Grilled Chicken Breast Sandwich (Pechuga de Pollo)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "chicken",
+    "sandwich",
+    "portos",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos chicken sandwich",
+    "pechuga de pollo portos",
+    "cuban chicken sandwich buena park"
+  ],
+  "whyItWorks": "Citrus-marinated grilled chicken breast served on crusty Cuban bread with mayo. Lean, tender, and unbreaded poultry provides clean park nutrition.",
+  "prepOrOrderInstructions": "Order the Pechuga de Pollo sandwich on Cuban bread with mayo; request no raw mojo onions.",
+  "watchOuts": [
+    "Request no raw onions"
+  ]
+}

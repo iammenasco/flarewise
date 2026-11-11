@@ -1,0 +1,38 @@
+{
+  "id": "thomas-cuisine-bamboohr-sliced-turkey-rice",
+  "name": "Herb-Roasted Sliced Turkey Breast with Steamed Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine (BambooHR Lindon, UT)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bamboohr",
+    "office-cafe",
+    "lindon",
+    "turkey",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "thomas cuisine",
+    "bamboohr cafe",
+    "thomas2go",
+    "roasted turkey",
+    "lindon utah"
+  ],
+  "whyItWorks": "Lean, freshly carved roasted turkey breast from the BambooHR hot entrees station is low in fat and free of lactose. Paired with fluffy steamed white rice, it forms an ideal workplace lunch during Crohn's management.",
+  "prepOrOrderInstructions": "Request turkey breast without rich buttery gravy or skin, and ask for a side of steamed white rice or well-cooked squash."
+}

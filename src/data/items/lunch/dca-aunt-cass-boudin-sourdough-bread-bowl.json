@@ -1,0 +1,41 @@
+{
+  "id": "dca-aunt-cass-boudin-sourdough-bread-bowl",
+  "name": "DCA Aunt Cass Café / Boudin Bakery Warm San Francisco Sourdough Loaf or Bread Bowl Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Aunt Cass Café & Boudin Bread Cart (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sourdough",
+    "soup",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "aunt cass cafe dca",
+    "boudin sourdough bread bowl",
+    "baymax bread dca",
+    "san fransokyo sourdough"
+  ],
+  "whyItWorks": "Baked fresh on-site inside DCA using Boudin's 1849 wild-yeast mother dough: strictly unbleached flour, water, salt, and long fermentation that pre-digests gluten and fructans (100% dairy-free, egg-free, nut-free, and oil-free!).",
+  "prepOrOrderInstructions": "Buy a warm Baymax/Mickey Boudin Sourdough Loaf from the cart for flare-safe tearing all day, or order a Sourdough Bread Bowl at Aunt Cass Café with soup on the side (take lactase if choosing Clam Chowder or Mac & Cheese).",
+  "watchOuts": [
+    "The sourdough bread itself is 9.5/10 flare-safe and dairy-free; Clam Chowder and Mac & Cheese fillings contain dairy and require lactase"
+  ]
+}

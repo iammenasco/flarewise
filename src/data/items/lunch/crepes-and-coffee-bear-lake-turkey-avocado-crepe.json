@@ -1,0 +1,40 @@
+{
+  "id": "crepes-and-coffee-bear-lake-turkey-avocado-crepe",
+  "name": "Crepes and Coffee (Garden City, UT) Sliced Turkey Breast & Avocado Crepe",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "turkey",
+    "avocado",
+    "crepes"
+  ],
+  "searchKeywords": [
+    "crepes and coffee turkey avocado",
+    "bear lake lunch crepe",
+    "garden city savory crepe"
+  ],
+  "whyItWorks": "Lean sliced turkey breast paired with creamy, potassium-packed ripe avocado inside a soft warm crepe. Highly digestible and light on the gut.",
+  "prepOrOrderInstructions": "Order the Turkey & Avocado Crepe (hold raw tomatoes and spinach during active digestive sensitivity).",
+  "watchOuts": [
+    "Hold raw spinach or tomato if experiencing active flare symptoms"
+  ]
+}

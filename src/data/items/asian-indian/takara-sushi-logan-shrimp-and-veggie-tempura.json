@@ -1,0 +1,41 @@
+{
+  "id": "takara-sushi-logan-shrimp-and-veggie-tempura",
+  "name": "Takara Sushi (Logan, UT) Crisp Shrimp & Sweet Potato Tempura (Tentsuyu Sauce)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "japanese",
+    "shrimp",
+    "tempura"
+  ],
+  "searchKeywords": [
+    "takara tempura",
+    "shrimp tempura logan",
+    "sweet potato tempura takara"
+  ],
+  "whyItWorks": "Japanese tempura uses an exceptionally light, airy batter that absorbs less oil than Western heavy batter. Shrimp and sweet potato are low-residue and gentle.",
+  "prepOrOrderInstructions": "Order the Shrimp & Vegetable Tempura with warm tentsuyu dipping sauce.",
+  "watchOuts": [
+    "Eat the tender interior shrimp and sweet potato; leave heavy fried batter remnants if feeling sensitive"
+  ]
+}

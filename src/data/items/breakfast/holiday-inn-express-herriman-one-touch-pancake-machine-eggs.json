@@ -1,0 +1,40 @@
+{
+  "id": "holiday-inn-express-herriman-one-touch-pancake-machine-eggs",
+  "name": "Holiday Inn Express (Herriman - South Jordan) One-Touch Conveyor Pancakes, Eggs & Turkey Sausage",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Inn Express & Suites Herriman - South Jordan (Herriman, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pancakes",
+    "eggs",
+    "turkey",
+    "breakfast",
+    "hotel",
+    "herriman",
+    "south-jordan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "holiday inn express pancake machine",
+    "express start breakfast herriman",
+    "hotel pancakes eggs"
+  ],
+  "whyItWorks": "Pressing the button on the famous Holiday Inn Express conveyor pancake machine dispenses warm, oil-free, refined-flour silver-dollar pancakes in 60 seconds—paired with hot scrambled eggs, turkey sausage, and Chobani Greek yogurt.",
+  "prepOrOrderInstructions": "Make 2–3 fresh conveyor-belt pancakes, pair with plain scrambled eggs (or a cheese omelet) and turkey sausage links, and grab a banana for the road.",
+  "watchOuts": [
+    "Skip heavy peppery sausage gravy on the biscuits if flaring"
+  ]
+}

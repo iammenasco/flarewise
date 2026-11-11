@@ -1,0 +1,41 @@
+{
+  "id": "portos-bakery-buena-park-sweet-cheese-roll",
+  "name": "Porto's Bakery (Buena Park, CA) Famous Sweet Cream Cheese Roll (Porto's #1 Icon)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "pastry",
+    "cheese-roll",
+    "portos",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos cheese roll",
+    "famous sweet cheese roll",
+    "portos buena park pastry"
+  ],
+  "whyItWorks": "Porto's legendary #1 signature item! Paper-thin, crispy caramelized puff pastry stuffed with sweet cream cheese. 100% seed-free, nut-free, and melt-in-your-mouth tender.",
+  "prepOrOrderInstructions": "Order 2-3 warm Cheese Rolls fresh from the bakery case; enjoy before walking over to Knott's Berry Farm.",
+  "watchOuts": [
+    "Contains dairy cream cheese"
+  ]
+}

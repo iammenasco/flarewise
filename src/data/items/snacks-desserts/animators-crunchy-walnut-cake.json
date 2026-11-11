@@ -1,0 +1,42 @@
+{
+  "id": "animators-crunchy-walnut-cake",
+  "name": "Crunchy Walnut Cake with Dark Chocolate Mousse & Raspberry Coulis",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "nuts",
+    "berries",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "crunchy walnut cake",
+    "animators palate dessert",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Packed with chopped walnuts in the base and plated with seedy raspberry coulis, making it mechanically abrasive.",
+  "prepOrOrderInstructions": "Eat only the smooth top layer of dark chocolate mousse or choose the Cookies 'n Cream Sundae instead.",
+  "watchOuts": [
+    "Chopped walnut pieces throughout the cake base",
+    "Raspberry seeds in coulis"
+  ]
+}

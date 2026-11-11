@@ -1,0 +1,39 @@
+{
+  "id": "knotts-prop-shop-mozzarella-moons-marinara",
+  "name": "Knott's Prop Shop Pizzeria Golden Fried Mozzarella Moons with Marinara",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Prop Shop Pizzeria (Knott's Berry Farm)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "cheese",
+    "mozzarella",
+    "boardwalk"
+  ],
+  "searchKeywords": [
+    "mozzarella moons knotts",
+    "prop shop mozzarella",
+    "fried cheese knotts"
+  ],
+  "whyItWorks": "Crescent-shaped whole-milk mozzarella cheese breaded and fried golden. Served with smooth, mild marinara dipping sauce. Comforting and seed-free.",
+  "prepOrOrderInstructions": "Order Mozzarella Moons with marinara sauce for dipping.",
+  "watchOuts": [
+    "Contains dairy mozzarella"
+  ]
+}

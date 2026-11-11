@@ -1,0 +1,42 @@
+{
+  "id": "mickeys-smokestack-smoked-chicken",
+  "name": "Mickey's Smokestack BBQ Carved Smoked Chicken Breast (Standalone)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Mickey's Smokestack Barbecue",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "bbq",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "mickeys-smokestack"
+  ],
+  "searchKeywords": [
+    "smoked chicken",
+    "mickeys smokestack chicken",
+    "disney treasure pool deck"
+  ],
+  "whyItWorks": "The #1 flare-safe protein at the Disney Treasure pool deck BBQ counter: tender carved white chicken breast meat.",
+  "prepOrOrderInstructions": "Peel off the spiced outer skin and enjoy the tender white chicken breast meat with a white roll or Baked Mac & Cheese.",
+  "watchOuts": [
+    "Remove the spiced/peppery outer chicken skin"
+  ]
+}

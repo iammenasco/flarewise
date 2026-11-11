@@ -1,0 +1,40 @@
+{
+  "id": "1923-riverside-roasted-green-circle-chicken",
+  "name": "Riverside Roasted Green Circle Chicken & Potato Fondant",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "roast",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "riverside roasted green circle chicken",
+    "1923 chicken",
+    "yukon potato fondant",
+    "disney treasure"
+  ],
+  "whyItWorks": "Roasted free-range chicken breast, butter-braised peeled Yukon Gold potato fondant, and cooked apple pectin chutney are naturally low-residue and citrus-free.",
+  "prepOrOrderInstructions": "Enjoy the roasted chicken, peeled Yukon potato fondant, and cooked Honeycrisp apple chutney while pushing the Brussels sprouts to the side.",
+  "watchOuts": [
+    "Whole Brussels sprouts on the plate"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "chubbys-neighborhood-cafe-pleasant-grove-chicken-tenders",
+  "name": "Chubby's Cafe (Pleasant Grove, UT) Golden Hand-Battered Chicken Tenders & Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Chubby's Neighborhood Cafe (Pleasant Grove / Vineyard, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "pleasant-grove",
+    "chicken",
+    "fries",
+    "diner"
+  ],
+  "searchKeywords": [
+    "chubbys cafe pleasant grove",
+    "chubbys chicken tenders",
+    "vineyard utah diner"
+  ],
+  "whyItWorks": "Whole white meat chicken tenders fried golden. Lean, bioavailable protein that digests easily when paired with honey mustard or plain ketchup.",
+  "prepOrOrderInstructions": "Order the Chicken Tenders basket with fries and honey mustard for dipping (avoid spicy jalapeño sauces).",
+  "watchOuts": [
+    "Peel off outer breading during sensitive phases"
+  ]
+}

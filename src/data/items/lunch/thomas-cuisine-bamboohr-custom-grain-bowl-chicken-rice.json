@@ -1,0 +1,38 @@
+{
+  "id": "thomas-cuisine-bamboohr-custom-grain-bowl-chicken-rice",
+  "name": "Thomas2Go @ BambooHR (Lindon, UT) Build-Your-Own Grain Bowl (Grilled Chicken & White Rice)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Thomas Cuisine @ BambooHR (Lindon, UT)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "chicken",
+    "rice",
+    "bamboohr",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "thomas2go grain bowl",
+    "bamboohr custom bowl",
+    "thomas cuisine chicken bowl"
+  ],
+  "whyItWorks": "Build a custom flare-safe bowl: steamed white jasmine rice, warm grilled chicken breast cubes, and tender steamed zucchini/carrots with mild tamari sauce. Zero raw roughage or spicy dressings.",
+  "prepOrOrderInstructions": "Select white rice base, double grilled chicken breast, steamed vegetables, and light olive oil or mild vinaigrette (avoid raw broccoli, beans, and spicy dressings).",
+  "watchOuts": [
+    "Avoid raw cabbage, whole beans, and spicy sriracha dressings"
+  ]
+}

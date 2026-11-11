@@ -1,0 +1,43 @@
+{
+  "id": "animators-warm-sticky-date-pudding",
+  "name": "Warm Sticky Date Pudding with Butterscotch Sauce & Vanilla Ice Cream",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "bakery",
+    "ice-cream",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "warm sticky date pudding",
+    "sticky toffee pudding",
+    "animators palate",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Finely pureed dates steamed into a pillowy sponge cake with warm butterscotch sauce—completely free of citrus and hard nuts.",
+  "prepOrOrderInstructions": "Enjoy warm on steady days; take a Lactaid for the butterscotch cream sauce and vanilla ice cream.",
+  "watchOuts": [
+    "Concentrated date sugars (FODMAPs in large portions)",
+    "Dairy ice cream and butterscotch"
+  ]
+}

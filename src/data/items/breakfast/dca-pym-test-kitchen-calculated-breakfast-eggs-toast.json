@@ -1,0 +1,40 @@
+{
+  "id": "dca-pym-test-kitchen-calculated-breakfast-eggs-toast",
+  "name": "DCA Pym Test Kitchen \"Calculated Breakfast = E x 2 + (B + P)/T\" (Scrambled Eggs, Bacon, Tots & Focaccia)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Pym Test Kitchen (Avengers Campus · Disney California Adventure)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "potato",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "pym test kitchen breakfast",
+    "calculated breakfast avengers campus",
+    "dca rope drop breakfast"
+  ],
+  "whyItWorks": "The best rope-drop breakfast in Disney California Adventure: two warm scrambled eggs, smoked bacon, crispy potato bites, and soft focaccia toast with zero dairy, zero citrus, and zero spice.",
+  "prepOrOrderInstructions": "Mobile-order the \"Calculated Breakfast\" (or Kids' Spoonful of Cereal / Cinnamon French Toast) before 10:30 AM in Avengers Campus.",
+  "watchOuts": [
+    "Avoid the Cinna-Pym Toast if sensitive to heavy cinnamon-sugar syrup and fried bacon crumble toppings"
+  ]
+}

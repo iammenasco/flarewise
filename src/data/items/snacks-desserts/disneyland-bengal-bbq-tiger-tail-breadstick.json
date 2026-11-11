@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-bengal-bbq-tiger-tail-breadstick",
+  "name": "Disneyland Bengal Barbecue Warm Tiger Tail Breadstick",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bengal Barbecue (Adventureland · Disneyland Park)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "snack",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tiger tail breadstick disneyland",
+    "bengal barbecue breadstick"
+  ],
+  "whyItWorks": "Soft, pillowy white bread dough baked fresh with zero seeds or roughage, making an easy carb pairing with a chicken or beef skewer.",
+  "prepOrOrderInstructions": "Brush off any excess garlic-herb seasoning from the top crust if garlic-sensitive.",
+  "watchOuts": [
+    "Brushed with light garlic-herb butter—wipe the top lightly with a napkin if sensitive to garlic"
+  ]
+}

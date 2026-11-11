@@ -1,0 +1,42 @@
+{
+  "id": "plaza-de-coco-red-chicken-enchiladas",
+  "name": "Red Chicken Enchiladas in Guajillo Chile Sauce with Crema (Night 2)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "tortilla",
+    "cheese",
+    "spicy",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "red chicken enchiladas",
+    "guajillo sauce",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Shredded chicken in soft corn tortillas is gentle, but the red guajillo chili sauce and raw onion garnish trigger symptoms.",
+  "prepOrOrderInstructions": "Ask for plain shredded chicken rolled in corn tortillas with melted cheese only (no red guajillo chili sauce, no raw onions).",
+  "watchOuts": [
+    "Red guajillo chili sauce (capsaicin + garlic)",
+    "Dairy crema and cheese"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "luisas-pollo-asado-plaza-de-coco",
+  "name": "Luisa's Pollo Asado with Cilantro Rice & Sweet Plantains (Night 1)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "rice",
+    "banana",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "luisas pollo asado",
+    "plaza de coco chicken",
+    "disney treasure"
+  ],
+  "whyItWorks": "Roasted chicken breast/thigh with white rice and soft sweet maduro plantains offers high protein and soluble starch.",
+  "prepOrOrderInstructions": "Ask for the Lighter Note plain roasted chicken breast (to avoid citrus-achiote marinade on the skin) with steamed white rice and sweet plantains.",
+  "watchOuts": [
+    "Citrus-achiote marinade on standard Pollo Asado skin",
+    "Whole black beans if plated alongside"
+  ]
+}

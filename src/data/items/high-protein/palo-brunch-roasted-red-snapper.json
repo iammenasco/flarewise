@@ -1,0 +1,42 @@
+{
+  "id": "palo-brunch-roasted-red-snapper",
+  "name": "Palo Brunch Roasted Red Snapper Filet with Saffron Fondant Potato",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo roasted red snapper",
+    "saffron fondant potato",
+    "palo brunch fish"
+  ],
+  "whyItWorks": "Flaky pan-roasted red snapper and peeled saffron fondant potato are lean, dairy-light, citrus-free, and flare-safe once the caponata relish is held.",
+  "prepOrOrderInstructions": "Order the Roasted Red Snapper with the saffron fondant potatoes only—ask the kitchen to hold the Sicilian eggplant/olive caponata relish.",
+  "watchOuts": [
+    "Eggplant/olive/tomato caponata garnish if not held"
+  ]
+}

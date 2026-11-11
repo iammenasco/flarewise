@@ -1,0 +1,39 @@
+{
+  "id": "dca-schmoozies-mango-banana-smoothie",
+  "name": "DCA Schmoozies! (Hollywood Land) Mango-Banana Smoothie vs. Mickey Shake (Check Citrus)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Schmoozies! (Hollywood Land · Disney California Adventure)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "banana",
+    "sweet",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "schmoozies dca",
+    "hollywood land smoothie",
+    "mickey shake schmoozies"
+  ],
+  "whyItWorks": "Blended ripe banana and mango with low-fat yogurt provides soluble fiber and potassium on a hot afternoon in Hollywood Land.",
+  "prepOrOrderInstructions": "Order the Mango-Banana Smoothie (verify at the window that no orange/lemon juice base is used, and take a lactase tablet for the yogurt) or a warm Mickey Waffle when offered.",
+  "watchOuts": [
+    "Skip Strawberry-Banana if strawberry seeds bother you, and avoid all Lemonade slushies (citrus trigger)"
+  ]
+}

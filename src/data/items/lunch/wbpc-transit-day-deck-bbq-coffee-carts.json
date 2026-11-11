@@ -1,0 +1,45 @@
+{
+  "id": "wbpc-transit-day-deck-bbq-coffee-carts",
+  "name": "Westbound Panama Canal Transit Day Morning Pastry Carts & Pool Deck BBQ Lunch",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder & Magic · Panama Canal Transit Day (Deck 9 & 10)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "croissant",
+    "chicken",
+    "beef",
+    "pork",
+    "bread",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "panama canal transit day bbq",
+    "panama canal coffee pastry cart",
+    "disney wonder transit day"
+  ],
+  "whyItWorks": "During the 6:00 AM–4:00 PM lock transit, DCL rolls out morning croissant/fruit carts on the open decks followed by an outdoor poolside grill station with carved meats and burgers.",
+  "prepOrOrderInstructions": "Grab a plain butter croissant and banana from the morning viewing carts, and choose plain carved chicken, sirloin, or a plain burger patty on a white bun at the midday deck BBQ.",
+  "watchOuts": [
+    "Stay hydrated in high tropical humidity during the 8-hour transit",
+    "Skip smoky BBQ sauce and mayonnaise slaw sitting in the sun"
+  ]
+}

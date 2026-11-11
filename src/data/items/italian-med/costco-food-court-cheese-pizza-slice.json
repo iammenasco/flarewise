@@ -1,0 +1,39 @@
+{
+  "id": "costco-food-court-cheese-pizza-slice",
+  "name": "Costco Food Court (Logan & Draper, UT) Giant Plain Cheese Pizza Slice",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Costco Wholesale (Utah Locations)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "pizza",
+    "cheese",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "costco cheese pizza",
+    "costco pizza slice",
+    "food court cheese pizza"
+  ],
+  "whyItWorks": "Enormous slice loaded with over 1.5 lbs of melted whole-milk mozzarella and mild tomato sauce. Soft dough digests easily in stable remission.",
+  "prepOrOrderInstructions": "Dab the top with a paper napkin to absorb excess surface oil before eating.",
+  "watchOuts": [
+    "High in dairy mozzarella; dab surface oil"
+  ]
+}

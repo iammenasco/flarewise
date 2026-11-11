@@ -1,0 +1,39 @@
+{
+  "id": "codys-gastro-garage-bear-lake-buttermilk-biscuits-and-gravy",
+  "name": "Cody's Gastro Garage (Garden City, UT) Warm Buttermilk Biscuits with Sausage Country Gravy",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "breakfast",
+    "biscuits",
+    "gravy"
+  ],
+  "searchKeywords": [
+    "codys biscuits and gravy",
+    "bear lake breakfast biscuits",
+    "garden city country breakfast"
+  ],
+  "whyItWorks": "Soft, doughy biscuits smothered in creamy country sausage gravy provide easily chewed, comforting calories before heading out on the water.",
+  "prepOrOrderInstructions": "Order Biscuits & Gravy with two scrambled eggs; request gravy light or on the side to manage fat intake.",
+  "watchOuts": [
+    "Sausage grease and dairy cream in gravy can speed transit during active flare periods"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-harbour-galley-fresh-warm-chocolate-chip-cookies",
+  "name": "Disneyland Harbour Galley Famous Fresh-Baked Warm Chocolate Chip Cookies (6-Pack)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Harbour Galley (Bayou Country · Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "dessert",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "harbour galley chocolate chip cookies",
+    "viral disneyland cookies",
+    "fresh baked cookies disneyland"
+  ],
+  "whyItWorks": "Disneyland's most viral snack: bite-sized, gooey, fresh-from-the-oven chocolate chip cookies made with white flour, butter, and semi-sweet chocolate chips (zero nuts, oats, or seeds).",
+  "prepOrOrderInstructions": "Share the 6-pack with family and enjoy 1–2 small warm cookies after a protein meal, taking a lactase enzyme if sensitive to butter/milk chocolate.",
+  "watchOuts": [
+    "High butter and sugar if you eat the whole box solo—pace yourself to 1–2 cookies"
+  ]
+}

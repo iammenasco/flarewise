@@ -1,0 +1,42 @@
+{
+  "id": "captains-gala-three-cheese-souffle",
+  "name": "Double-Baked Three-Cheese Soufflé with Gruyère Cream (Captain's Gala Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "double baked three cheese souffle",
+    "captains gala souffle",
+    "1923 night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Airy whipped eggs and aged Gruyère/Parmesan baked until cloud-soft—zero fiber, zero seeds, and citrus-free.",
+  "prepOrOrderInstructions": "Take a Lactaid enzyme for the cream sauce base and enjoy warm.",
+  "watchOuts": [
+    "Rich cream sauce base (lactose + dairy fat)"
+  ]
+}

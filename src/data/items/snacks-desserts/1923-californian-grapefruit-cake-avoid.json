@@ -1,0 +1,42 @@
+{
+  "id": "1923-californian-grapefruit-cake-avoid",
+  "name": "Californian Grapefruit Cake (HARD AVOID — Citrus Guardrail)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923",
+  "crohnsScore": 1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "dessert",
+    "cake",
+    "citrus",
+    "warning",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "californian grapefruit cake",
+    "grapefruit dessert",
+    "1923 dessert",
+    "disney treasure",
+    "avoid"
+  ],
+  "whyItWorks": "Made directly with grapefruit juice, zest, and segments — violates the strict zero-grapefruit/CYP3A4 medication & gut guardrail.",
+  "prepOrOrderInstructions": "Hard avoid on the 1923 and Captain's Gala menus. Order the Warm Cinnamon Donut Holes, Chocolate Lava Cake, or Hollywood Hills Hot Fudge Sundae instead.",
+  "flareEmergencySwap": "Order the Warm Cinnamon Donut Holes or a Mickey Premium Ice Cream Bar.",
+  "watchOuts": [
+    "Grapefruit juice, zest, and segments (strict medication & gut contraindication)"
+  ]
+}

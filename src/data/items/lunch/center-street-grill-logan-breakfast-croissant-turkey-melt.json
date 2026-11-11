@@ -1,0 +1,43 @@
+{
+  "id": "center-street-grill-logan-breakfast-croissant-turkey-melt",
+  "name": "Center Street Grill (Logan) Egg & Cheese Breakfast Croissant or Grilled Turkey Melt",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Center Street Grill (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "croissant",
+    "turkey",
+    "sandwich",
+    "cheese",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "center street grill logan",
+    "logan center street grill",
+    "breakfast croissant logan"
+  ],
+  "whyItWorks": "Casual downtown Logan grill offering flaky butter croissants with scrambled eggs and cheese in the morning and simple grilled turkey or club sandwiches on sourdough at lunch.",
+  "prepOrOrderInstructions": "Order the Egg, Ham/Bacon & Swiss/Cheddar Breakfast Croissant or the Grilled Turkey Sandwich on sourdough without raw onions or tomatoes.",
+  "watchOuts": [
+    "Skip deep-fried onion rings and heavy pastrami melts during flares"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-docking-bay-7-endorian-tip-yip-fried-chicken",
+  "name": "Disneyland Docking Bay 7 Endorian Fried Chicken Tip-Yip & Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Docking Bay 7 Food and Cargo (Disneyland Park)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "chicken",
+    "mashed-potatoes",
+    "galaxys-edge"
+  ],
+  "searchKeywords": [
+    "endorian tip yip",
+    "docking bay 7 chicken",
+    "galaxys edge fried chicken"
+  ],
+  "whyItWorks": "Crisp rectangular chicken breast tenderloin served over herbed mashed potatoes and light vegetable gravy. Lean white meat chicken digests smoothly in remission.",
+  "prepOrOrderInstructions": "Order the Fried Tip-Yip with mashed potatoes and light gravy; peel off outer crispy coating if sensitive.",
+  "watchOuts": [
+    "Peel off outer breading during active flareups"
+  ]
+}

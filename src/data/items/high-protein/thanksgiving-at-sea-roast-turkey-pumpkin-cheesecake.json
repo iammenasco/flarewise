@@ -1,0 +1,45 @@
+{
+  "id": "thanksgiving-at-sea-roast-turkey-pumpkin-cheesecake",
+  "name": "Thanksgiving at Sea Menu: Governor Bradford's Roast Turkey & Pumpkin Cheesecake/Pie",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Thanksgiving Day Dinner Menu",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "potato",
+    "sweet-potato",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "governor bradfords roast turkey",
+    "thanksgiving dinner menu",
+    "pumpkin cheesecake",
+    "disney cruise thanksgiving"
+  ],
+  "whyItWorks": "Skinless carved Thanksgiving turkey breast with mashed potatoes/sweet potatoes and smooth spiced pumpkin pie or pumpkin cheesecake are soluble-fiber stars.",
+  "prepOrOrderInstructions": "Order Governor Bradford's Roast Turkey with mashed potatoes and gravy on the side (skip whole-berry cranberry relish and onion-celery stuffing), and finish with Pumpkin Cheesecake/Pie (skip Pecan Pie).",
+  "watchOuts": [
+    "Onion/celery in turkey stuffing",
+    "Skip Pecan Pie and Hot Spinach-Artichoke Dip"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "kneaders-draper-south-jordan-logan-chunky-cinnamon-french-toast",
+  "name": "Kneaders Bakery & Cafe (Draper / South Jordan / Logan) Chunky Cinnamon French Toast & Turkey Croissant",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Kneaders Bakery & Cafe (Draper, South Jordan/Riverton & Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "french-toast",
+    "cinnamon",
+    "turkey",
+    "croissant",
+    "sandwich",
+    "draper",
+    "herriman",
+    "south-jordan",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "kneaders french toast",
+    "kneaders turkey bacon avocado",
+    "kneaders croissant",
+    "draper kneaders"
+  ],
+  "whyItWorks": "Kneaders' famous thick-sliced Chunky Cinnamon French Toast with caramel cream syrup and their flaky Turkey Bacon Avocado Croissant/Focaccia sandwiches are soft, seedless Utah classics.",
+  "prepOrOrderInstructions": "For breakfast, order the Chunky Cinnamon French Toast (hold the fresh strawberries on top if avoiding seeds, and take a Lactaid for the cream syrup); for lunch, order the Turkey Bacon Avocado on a flaky croissant or focaccia (no lettuce/tomato/red onion).",
+  "watchOuts": [
+    "Hold the fresh strawberry garnish on the French Toast during flares",
+    "Rich cream in the Kneaders caramel syrup"
+  ]
+}

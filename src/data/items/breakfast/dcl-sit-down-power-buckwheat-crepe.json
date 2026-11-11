@@ -1,0 +1,44 @@
+{
+  "id": "dcl-sit-down-power-buckwheat-crepe",
+  "name": "Sit-Down Breakfast Power Buckwheat Crepe (Egg Whites, Silky Tofu & Spinach)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "tofu",
+    "greens",
+    "dairy-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "power crepe",
+    "buckwheat crepe",
+    "sit down breakfast",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Dairy-free buckwheat crepe with egg whites and silky tofu is high-protein, though broccoli florets, mushrooms, and pico de gallo add roughage.",
+  "prepOrOrderInstructions": "Ask the kitchen to fill your buckwheat crepe with scrambled egg whites and tofu only—holding the broccoli, mushrooms, scallions, and tomato relish.",
+  "watchOuts": [
+    "Broccoli, mushrooms, and raw onion/tomato pico de gallo in standard build"
+  ]
+}

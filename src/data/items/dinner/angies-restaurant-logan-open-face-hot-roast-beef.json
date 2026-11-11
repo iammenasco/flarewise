@@ -1,0 +1,41 @@
+{
+  "id": "angies-restaurant-logan-open-face-hot-roast-beef",
+  "name": "Angie's Restaurant (Logan, UT) Open-Face Roast Beef Sandwich with Brown Gravy",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "beef",
+    "comfort-food",
+    "mashed-potatoes"
+  ],
+  "searchKeywords": [
+    "angies hot roast beef",
+    "open face roast beef logan",
+    "angies diner comfort food"
+  ],
+  "whyItWorks": "Tender slow-braised sliced roast beef served over soft white bread with smooth mashed Idaho potatoes and savory brown gravy. Soothing and easy to break down.",
+  "prepOrOrderInstructions": "Order the Hot Roast Beef Sandwich with mashed potatoes and brown gravy.",
+  "watchOuts": [
+    "None; soft comfort meal"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "knotts-mrs-knotts-country-breakfast-scramble",
+  "name": "Knott's Mrs. Knott's Country Scrambled Eggs, Ham Steak & Crispy Hash Browns",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (Knott's Berry Farm)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "breakfast",
+    "eggs",
+    "ham",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "mrs knotts breakfast scramble",
+    "knotts berry farm breakfast",
+    "farm breakfast buena park"
+  ],
+  "whyItWorks": "Served daily in Mrs. Knott's historic restaurant. Fluffy soft-scrambled eggs, lean country ham steak, and golden peeled potato hash browns. Zero-roughage, pure bioavailable protein.",
+  "prepOrOrderInstructions": "Order the Country Breakfast with scrambled eggs, ham steak, hash browns, and white toast with butter.",
+  "watchOuts": [
+    "None; premier flare-safe theme park breakfast"
+  ]
+}

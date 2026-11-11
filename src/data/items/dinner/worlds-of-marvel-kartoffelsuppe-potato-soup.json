@@ -1,0 +1,40 @@
+{
+  "id": "worlds-of-marvel-kartoffelsuppe-potato-soup",
+  "name": "Sokovian \"Kartoffelsuppe\" Creamy Potato Soup (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "potato",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "kartoffelsuppe",
+    "sokovian potato soup",
+    "worlds of marvel soup",
+    "disney treasure"
+  ],
+  "whyItWorks": "Smooth, comforting Central European potato soup rich in soluble potato starch with minimal roughage.",
+  "prepOrOrderInstructions": "Ask to hold any crispy bacon/sausage bits or raw chive garnish on top and pair with a Lactaid.",
+  "watchOuts": [
+    "Dairy cream base",
+    "Smoked sausage/bacon garnish if not held"
+  ]
+}

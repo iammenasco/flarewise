@@ -1,0 +1,47 @@
+{
+  "id": "alaska-cruise-king-crab-halibut-salmon-bake",
+  "name": "Disney Wonder Alaska Regional Specials: Steamed King Crab Legs, Halibut & Glacier Day Salmon/Chowder",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Taste of Alaska Regional Specials & Dawes Glacier Deck BBQ",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "salmon",
+    "fish",
+    "soup",
+    "sourdough",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "steamed crab royal",
+    "alaskan king crab legs",
+    "alaskan halibut",
+    "dawes glacier salmon",
+    "clam chowder bread bowl",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Steamed Alaskan King Crab Legs (\"Steamed Crab Royal\"), pan-seared Alaskan Halibut, and Dawes Glacier Day grilled Wild Alaskan Salmon are zero-fiber, ultra-pure marine proteins.",
+  "prepOrOrderInstructions": "Request plain drawn butter (no lemon juice added) for the Steamed King Crab Legs and Alaskan Halibut; on Glacier Day on deck, enjoy the grilled Wild Salmon or Clam Chowder in a sourdough bread bowl (with a Lactaid).",
+  "watchOuts": [
+    "Verify drawn butter has no lemon juice mixed in",
+    "Dairy cream in Glacier Day clam chowder"
+  ]
+}

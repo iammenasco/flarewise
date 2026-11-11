@@ -1,0 +1,41 @@
+{
+  "id": "dca-festival-of-holidays-lunar-new-year-marketplace-noodles-rice-guide",
+  "name": "DCA Festival Marketplaces (Lunar New Year / Food & Wine / Holidays): Garlic Noodles, Char Siu Pork & Rice / Mac & Cheese",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "DCA Festival Marketplace Booths (Performance Corridor · Disney California Adventure)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "chicken",
+    "beef",
+    "noodles",
+    "rice",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "dca food and wine festival",
+    "dca lunar new year",
+    "dca festival of holidays sip and savor"
+  ],
+  "whyItWorks": "DCA's Sip and Savor marketplace booths feature small-plate portions (ideal for Crohn's!); the safest tabs are always the soft noodle dishes (Longevity Noodles / Mac & Cheese with lactase), Char Siu BBQ Pork with White Rice, and Braised Beef Short Rib with Mashed Potatoes.",
+  "prepOrOrderInstructions": "On your Sip and Savor Pass, pick the Braised Short Rib & Potato Purée, Char Siu Pork & Rice, Roasted Turkey Slider, or Creamy Mac & Cheese (with lactase)—skip spicy Mala/Sichuan chili noodles and citrus-heavy mocktails.",
+  "watchOuts": [
+    "Check booth placards for lemon/lime/grapefruit juices in festival mocktails and spicy chili oils"
+  ]
+}

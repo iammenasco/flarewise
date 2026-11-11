@@ -1,0 +1,42 @@
+{
+  "id": "dans-drive-in-montpelier-crispy-tater-tots-home-fries",
+  "name": "Dan's Drive-In (Montpelier, ID) Crispy Golden Tater Tots or Fresh Home-Cut Fries",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "potatoes",
+    "sides"
+  ],
+  "searchKeywords": [
+    "dans drive in tater tots",
+    "dans fresh cut fries",
+    "montpelier idaho fries"
+  ],
+  "whyItWorks": "Idaho russet potatoes are naturally low-residue and easily digestible when well-cooked. Dan's cuts their fries fresh daily. Modest portions are well tolerated in remission.",
+  "prepOrOrderInstructions": "Order a regular size fresh-cut fries or tater tots with light salt; dip in mild ketchup rather than spiced fry sauce.",
+  "watchOuts": [
+    "Deep-fry oil can accelerate bowel transit during acute flares"
+  ]
+}

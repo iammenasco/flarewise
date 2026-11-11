@@ -1,0 +1,41 @@
+{
+  "id": "broulims-montpelier-fresh-sushi-california-roll",
+  "name": "Broulim's Supermarket Fresh Deli California Roll & Steamed Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Broulim's Supermarket (Montpelier, ID)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "rice",
+    "avocado",
+    "dairy-free",
+    "bear-lake",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "broulims montpelier sushi",
+    "broulims california roll",
+    "montpelier idaho grocery lunch"
+  ],
+  "whyItWorks": "Seasoned white sushi rice, cooked imitation crab (white fish surimi), and creamy avocado in a grab-and-go tray from Broulim's deli make a clean, non-greasy road-trip meal.",
+  "prepOrOrderInstructions": "Grab a plain California Roll or Cooked Shrimp Roll from the deli case (avoid spicy mayo, tempura crunch, and cream cheese rolls).",
+  "watchOuts": [
+    "Skip wasabi and spicy mayo drizzle; remove cucumber strips if strict low-residue"
+  ]
+}

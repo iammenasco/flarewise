@@ -1,0 +1,40 @@
+{
+  "id": "prince-naveens-chocolate-cake",
+  "name": "Prince Naveen's Flourless Chocolate Cake with Hazelnut Sauce",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place (Prince & Princess Rotation)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "prince naveen chocolate cake",
+    "flourless chocolate cake",
+    "tianas place",
+    "disney wonder"
+  ],
+  "whyItWorks": "Smooth, dense flourless chocolate torte with smooth hazelnut anglaise; free of whole nuts unless garnished.",
+  "prepOrOrderInstructions": "Eat a small portion in remission and leave any whole toasted hazelnuts on the plate.",
+  "watchOuts": [
+    "Rich chocolate-butter density",
+    "Whole hazelnut garnish if present"
+  ]
+}

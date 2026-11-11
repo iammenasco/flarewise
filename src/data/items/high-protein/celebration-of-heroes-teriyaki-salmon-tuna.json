@@ -1,0 +1,45 @@
+{
+  "id": "celebration-of-heroes-teriyaki-salmon-tuna",
+  "name": "Grilled Tuna or Teriyaki Salmon (Worlds of Marvel)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "salmon",
+    "tuna",
+    "teriyaki",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "teriyaki salmon",
+    "grilled tuna",
+    "worlds of marvel fish",
+    "celebration of heroes",
+    "groot remix",
+    "disney treasure"
+  ],
+  "whyItWorks": "Flaky salmon or seared tuna with mild soy-teriyaki glaze digests effortlessly and provides anti-inflammatory omega-3s.",
+  "prepOrOrderInstructions": "Pair with plain steamed white rice (or soft noodles) and skip any raw scallions, sesame seeds, edamame, or fibrous bok choy stalks.",
+  "watchOuts": [
+    "Sesame seeds and raw green onions",
+    "Whole edamame/soybeans and bok choy stems"
+  ]
+}

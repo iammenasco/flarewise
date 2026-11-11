@@ -1,0 +1,45 @@
+{
+  "id": "palo-brunch-margherita-prosciutto-pizza",
+  "name": "Palo Wood-Fired Margherita & Prosciutto di Parma Burrata Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "cheese",
+    "pork",
+    "tomato",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo margherita pizza",
+    "prosciutto burrata pizza",
+    "palo pizza"
+  ],
+  "whyItWorks": "Hand-stretched 00-flour Italian dough with smooth San Marzano sauce, fresh mozzarella/burrata, and paper-thin Prosciutto di Parma.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets, ask for light tomato sauce if acid-sensitive, and remove any raw baby arugula leaves before eating.",
+  "watchOuts": [
+    "Fresh mozzarella/burrata lactose",
+    "Raw arugula garnish if not removed"
+  ]
+}

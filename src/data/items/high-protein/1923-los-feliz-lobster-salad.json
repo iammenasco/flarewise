@@ -1,0 +1,40 @@
+{
+  "id": "1923-los-feliz-lobster-salad",
+  "name": "Lighter Note Los Feliz Poached Lobster Salad (Night 1)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "seafood",
+    "salad",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "los feliz lobster salad",
+    "1923 lobster",
+    "disney treasure"
+  ],
+  "whyItWorks": "Poached cold-water lobster medallions are pure, zero-fiber lean protein when separated from the citrus vinaigrette and raw greens.",
+  "prepOrOrderInstructions": "Ask your server to plate the poached lobster tail medallions warm over mashed potatoes or steamed rice with drawn butter (no salad greens, no citrus dressing).",
+  "watchOuts": [
+    "Citrus dressing on standard salad build (strict avoid)",
+    "Raw greens"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bamboohr-thomas2go-breakfast-egg-potato-burrito-scramble",
+  "name": "BambooHR Thomas2Go Café: Morning Egg, Potato, Bacon & Cheddar Flour Burrito or Scramble Bowl",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine Café at BambooHR (Lindon / Draper, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "bacon",
+    "potato",
+    "cheese",
+    "tortilla",
+    "breakfast",
+    "bamboohr",
+    "thomas2go",
+    "draper",
+    "lindon",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bamboohr breakfast burrito",
+    "thomas2go breakfast",
+    "thomas cuisine egg bowl"
+  ],
+  "whyItWorks": "Scratch-cooked eggs, tender diced potatoes, crisp bacon/ham, and aged cheddar wrapped in a warm flour tortilla (or served in a bowl) with zero artificial additives.",
+  "prepOrOrderInstructions": "Order the morning Egg, Potato, Bacon/Ham & Cheddar Burrito or Scramble Bowl with no pico de gallo, no bell peppers, and salsa on the side.",
+  "watchOuts": [
+    "Skip the spicy salsa verde, chorizo, and raw pico de gallo"
+  ]
+}

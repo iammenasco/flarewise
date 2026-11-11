@@ -1,0 +1,41 @@
+{
+  "id": "some-beaches-laketown-kids-bbq-chicken-wrap",
+  "name": "Some Beaches (Laketown, UT) Kids BBQ Chicken Soft Wrap (Mild Portion)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "chicken",
+    "wrap",
+    "portion-control"
+  ],
+  "searchKeywords": [
+    "some beaches kids wrap",
+    "kids chicken wrap bear lake",
+    "laketown chicken wrap"
+  ],
+  "whyItWorks": "Tender shredded chicken, mild cheddar cheese, and sweet BBQ sauce wrapped in a soft flour tortilla. No raw vegetables or onions.",
+  "prepOrOrderInstructions": "Order the Kids BBQ Chicken Wrap with light sauce.",
+  "watchOuts": [
+    "None; clean, mild poultry wrap"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tandoori-oven-logan-plain-tandoori-naan",
+  "name": "Freshly Baked Plain Tandoori Naan Bread",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "indian",
+    "naan",
+    "bread"
+  ],
+  "searchKeywords": [
+    "tandoori oven",
+    "plain naan",
+    "tandoori bread",
+    "logan utah indian"
+  ],
+  "whyItWorks": "Slapped against the fiery walls of a traditional clay tandoor oven, plain naan made with refined wheat flour bakes up light, fluffy, and tender. It provides gut-soothing starch without seeds, herbs, or irritating garlic.",
+  "prepOrOrderInstructions": "Specify PLAIN naan without butter glaze or minced garlic. Tear into small pieces to accompany mild curries or basmati rice."
+}

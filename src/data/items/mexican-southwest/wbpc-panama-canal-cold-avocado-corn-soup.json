@@ -1,0 +1,43 @@
+{
+  "id": "wbpc-panama-canal-cold-avocado-corn-soup",
+  "name": "Westbound Panama Canal Chilled Creamy Avocado & Sweet Corn Soup",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Wonder & Magic · Westbound Panama Canal (Panama Canal Menu)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "soup",
+    "avocado",
+    "corn",
+    "smooth",
+    "vegetarian",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "cold avocado and sweet corn soup",
+    "panama canal menu soup",
+    "westbound panama canal"
+  ],
+  "whyItWorks": "Puréed smooth chilled avocado soup on the Panama Canal menu, though sweet corn and potential lime seasoning require caution.",
+  "prepOrOrderInstructions": "Confirm whether lime juice is blended into the base before ordering, and ask for it without any whole roasted corn kernel garnish on top.",
+  "watchOuts": [
+    "CITRUS CHECK: Chilled avocado soups often include lime juice",
+    "Skip whole corn kernel garnish"
+  ]
+}

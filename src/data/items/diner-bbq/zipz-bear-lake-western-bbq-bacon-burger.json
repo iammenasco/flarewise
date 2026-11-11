@@ -1,0 +1,42 @@
+{
+  "id": "zipz-bear-lake-western-bbq-bacon-burger",
+  "name": "Zipz (Garden City, UT) Western BBQ Bacon Cheeseburger (Hold Raw Onion)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Zipz Bear Lake (Garden City, UT)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "beef",
+    "burger",
+    "bbq"
+  ],
+  "searchKeywords": [
+    "zipz western burger",
+    "bbq bacon burger bear lake",
+    "garden city zipz burger"
+  ],
+  "whyItWorks": "Smoky bacon, melted cheddar cheese, and sweet barbecue sauce on a charbroiled beef patty. Holding raw onions keeps it digestible in remission.",
+  "prepOrOrderInstructions": "Order the Western BBQ Burger with light BBQ sauce and request no raw onion rings.",
+  "watchOuts": [
+    "Hold raw onion slices"
+  ]
+}

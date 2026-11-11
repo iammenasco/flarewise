@@ -1,0 +1,43 @@
+{
+  "id": "dcl-sit-down-lunch-seafood-chicken-gumbo",
+  "name": "Sit-Down Lunch Seafood & Chicken Gumbo with Cornbread",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "chicken",
+    "shrimp",
+    "cajun",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "seafood and chicken gumbo",
+    "sit down lunch soup",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "The accompanying cornbread and poached chicken/shrimp are gentle, but the gumbo roux has okra, peppers, onions, and Cajun spice.",
+  "prepOrOrderInstructions": "Choose the Leek & Potato Soup on the same lunch menu instead of the spicy gumbo during flares.",
+  "watchOuts": [
+    "Cajun spice, okra seeds, and onion/pepper base"
+  ]
+}

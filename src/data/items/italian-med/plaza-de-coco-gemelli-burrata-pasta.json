@@ -1,0 +1,42 @@
+{
+  "id": "plaza-de-coco-gemelli-burrata-pasta",
+  "name": "Gemelli Pasta with Fresh Burrata, Sun-Dried Tomato & Chile Crisp (Night 1)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "tomato",
+    "vegetarian",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "gemelli pasta burrata",
+    "plaza de coco pasta",
+    "disney treasure"
+  ],
+  "whyItWorks": "Twisted refined wheat gemelli pasta and creamy burrata are gentle when ordered without the spicy chili oil and tough sun-dried tomato skins.",
+  "prepOrOrderInstructions": "Ask for the gemelli pasta tossed in plain butter or olive oil topped with the fresh burrata cheese, holding the sun-dried tomatoes and chili flakes.",
+  "watchOuts": [
+    "Chili flakes/oil if not held",
+    "Leathery sun-dried tomato skins",
+    "Lactose in burrata cream"
+  ]
+}

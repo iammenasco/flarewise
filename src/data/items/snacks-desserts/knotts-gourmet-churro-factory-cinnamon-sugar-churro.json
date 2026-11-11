@@ -1,0 +1,39 @@
+{
+  "id": "knotts-gourmet-churro-factory-cinnamon-sugar-churro",
+  "name": "Knott's Gourmet Churro Factory Warm Cinnamon Sugar Churro (Seed-Free)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Gourmet Churro Factory (Knott's Berry Farm)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "churro",
+    "snack",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "gourmet churro factory",
+    "knotts churro",
+    "cinnamon churro knotts berry farm"
+  ],
+  "whyItWorks": "Freshly extruded and fried choux pastry rolled in cinnamon sugar. Crispy exterior and tender interior with zero seeds, nuts, or dairy. A safe classic theme park snack in remission.",
+  "prepOrOrderInstructions": "Order the traditional cinnamon sugar churro warm.",
+  "watchOuts": [
+    "None; gentle seed-free pastry"
+  ]
+}

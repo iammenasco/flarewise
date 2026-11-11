@@ -1,0 +1,40 @@
+{
+  "id": "angies-restaurant-logan-meat-lovers-skillet-warning",
+  "name": "Angie's Restaurant (Logan, UT) Meat Lover's Country Skillet (Heavy Sausage Warning)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "breakfast",
+    "skillet",
+    "sausage",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "angies meat lovers skillet",
+    "angies breakfast skillet",
+    "cache valley country skillet"
+  ],
+  "whyItWorks": "Skillet layered with diced onions, home fries, country sausage, bacon, ham, and melted cheese, often smothered in country gravy. Heavy fat and alliums trigger severe distress.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares. Order the simple Diced Ham Scramble instead.",
+  "watchOuts": [
+    "Heavy sausage grease and cooked onions provoke intestinal spasms"
+  ]
+}

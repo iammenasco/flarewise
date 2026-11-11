@@ -1,0 +1,41 @@
+{
+  "id": "holiday-green-bean-casserole-fried-onions-avoid",
+  "name": "Traditional Green Bean Casserole with Crispy Fried Onions & Mushroom Soup (Flare Avoid)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Thanksgiving & Christmas Holiday Table",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vegetable",
+    "fried",
+    "mushroom",
+    "cream",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "green bean casserole",
+    "frenchs fried onions",
+    "thanksgiving green beans"
+  ],
+  "whyItWorks": "A classic holiday side that combines three common Crohn's triggers: fibrous string beans, high-FODMAP fried onions/mushrooms, and heavy dairy cream.",
+  "prepOrOrderInstructions": "Skip Green Bean Casserole during flares or cautious days and fill your plate with mashed potatoes, sweet potato casserole, glazed carrots, and turkey instead.",
+  "watchOuts": [
+    "French's crispy fried onions (fructans + fryer oil)",
+    "Tough green bean fibers and mushrooms"
+  ]
+}

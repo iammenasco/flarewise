@@ -1,0 +1,37 @@
+{
+  "id": "cafe-sabor-garden-city-beef-enchiladas",
+  "name": "Shredded Beef Enchiladas with Mild Ranchero Sauce",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Garden City / Logan, UT)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "logan",
+    "mexican",
+    "beef-enchiladas"
+  ],
+  "searchKeywords": [
+    "cafe sabor",
+    "shredded beef enchiladas",
+    "mild ranchero",
+    "bear lake mexican"
+  ],
+  "whyItWorks": "Soft corn tortillas stuffed with slow-braised, tender shredded beef and topped with a mild tomato-based ranchero sauce offer digestible protein without seeds or skins. Light melted cheese adds calories safely if lactose tolerant.",
+  "prepOrOrderInstructions": "Specify mild ranchero sauce instead of spicy red or green chile sauce. Ask for sour cream on the side."
+}

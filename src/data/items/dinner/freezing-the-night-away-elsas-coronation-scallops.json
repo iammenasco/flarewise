@@ -1,0 +1,41 @@
+{
+  "id": "freezing-the-night-away-elsas-coronation-scallops",
+  "name": "Elsa's Coronation Scallops in Puff Pastry (Disney Wonder Alaska / Frozen Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Freezing the Night Away Menu (Alaska Sailings)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "shrimp",
+    "bakery",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "elsas coronation scallops",
+    "freezing the night away menu",
+    "frozen night",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Tender princess scallops and shrimp baked in a smooth cognac-tarragon cream sauce beneath a flaky puff pastry dome—zero roughage and citrus-free.",
+  "prepOrOrderInstructions": "Take a Lactaid enzyme for the cream sauce and puff pastry butter.",
+  "watchOuts": [
+    "Rich cream sauce and butter pastry"
+  ]
+}

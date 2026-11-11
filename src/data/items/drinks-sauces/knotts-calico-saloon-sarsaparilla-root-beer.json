@@ -1,0 +1,38 @@
+{
+  "id": "knotts-calico-saloon-sarsaparilla-root-beer",
+  "name": "Knott's Calico Saloon Cold Old-Fashioned Sarsaparilla / Root Beer",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Calico Saloon (Knott's Berry Farm)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "drink",
+    "soda",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "calico saloon sarsaparilla",
+    "knotts root beer",
+    "ghost town saloon drink"
+  ],
+  "whyItWorks": "Knott's historic signature beverage served in a frosty mug. Made with real cane sugar and natural birch/sassafras extracts with 100% zero caffeine and zero citrus acids.",
+  "prepOrOrderInstructions": "Order an Old-Fashioned Sarsaparilla in a cup; sip slowly to allow carbonation to settle.",
+  "watchOuts": [
+    "Carbonation can cause mild fullness; sip at a leisurely pace"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mad-moose-cafe-eden-grilled-pastrami-melt",
+  "name": "Mad Moose Cafe (Eden, UT) Hot Grilled Pastrami Melt with Havarti on Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mad Moose Cafe (Eden / Ogden Valley, UT)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "beef",
+    "pastrami",
+    "sourdough",
+    "sandwich"
+  ],
+  "searchKeywords": [
+    "mad moose pastrami melt",
+    "eden utah pastrami",
+    "havarti pastrami sandwich"
+  ],
+  "whyItWorks": "Thinly sliced hot pastrami with creamy, mild Havarti cheese on grilled sourdough. Rich and satisfying with bioavailable protein and gentle bread.",
+  "prepOrOrderInstructions": "Order the Pastrami Melt on sourdough with yellow mustard or mayo; request no horseradish mustard and no sauerkraut.",
+  "watchOuts": [
+    "Skip spicy horseradish mustard and fermented sauerkraut during flares"
+  ]
+}

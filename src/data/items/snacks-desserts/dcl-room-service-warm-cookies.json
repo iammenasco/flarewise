@@ -1,0 +1,43 @@
+{
+  "id": "dcl-room-service-warm-cookies",
+  "name": "24-Hour Room Service Warm Chocolate Chip Cookies & Oatmeal Raisin Cookies",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "warm chocolate chip cookies",
+    "cookies and milk",
+    "room service cookies",
+    "disney cruise"
+  ],
+  "whyItWorks": "Soft-baked refined-flour chocolate chip cookies are nut-free, citrus-free, and a beloved complimentary bedtime treat.",
+  "prepOrOrderInstructions": "Order the warm Chocolate Chip Cookies (skip the Oatmeal Raisin cookies if plump raisins bother your gut) and pair with lactose-free/soy/oat milk.",
+  "watchOuts": [
+    "Butter and chocolate chip sugar",
+    "Skip regular cow's milk if lactose sensitive"
+  ]
+}

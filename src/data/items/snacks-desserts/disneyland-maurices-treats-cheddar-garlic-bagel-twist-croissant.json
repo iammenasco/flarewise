@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-maurices-treats-cheddar-garlic-bagel-twist-croissant",
+  "name": "Disneyland Maurice's Treats (Fantasyland) Cream Cheese/Chocolate Croissant or Cheddar Bagel Twist",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Maurice's Treats (Fantasyland · Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "croissant",
+    "sweet",
+    "snack",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "maurices treats fantasyland",
+    "cheddar garlic bagel twist",
+    "boysen apple freeze disneyland"
+  ],
+  "whyItWorks": "Right next to the Royal Hall in Fantasyland, Maurice's cart bakes soft twisted bread rolls and flaky croissants with zero seeds or roughage.",
+  "prepOrOrderInstructions": "Order the Chocolate Croissant or Cheddar Twist with a lactase tablet; if trying the famous Boysen-Apple Freeze, sip just a few spoonfuls slowly as it is a sweet apple-berry slush.",
+  "watchOuts": [
+    "Contains dairy cheese/butter—take a lactase enzyme"
+  ]
+}

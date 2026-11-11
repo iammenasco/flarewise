@@ -1,0 +1,44 @@
+{
+  "id": "towneplace-suites-draper-in-suite-kitchen-meal-hack",
+  "name": "TownePlace Suites Salt Lake City Draper In-Suite Kitchen Meal (Stovetop Jasmine Rice, Bone Broth & Rotisserie Chicken)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "TownePlace Suites by Marriott Salt Lake City Draper (Draper, UT)",
+  "crohnsScore": 9.7,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rice",
+    "sourdough",
+    "soup",
+    "high-protein",
+    "dairy-free",
+    "hotel",
+    "utah"
+  ],
+  "searchKeywords": [
+    "towneplace suites draper kitchen",
+    "hotel room cooking draper",
+    "flare safe hotel dinner draper utah"
+  ],
+  "whyItWorks": "Every room at TownePlace Suites Draper includes a full-size refrigerator, 2-burner stovetop, dishwasher, and toaster—letting you simmer white rice in chicken bone broth with shredded Harmons/Costco rotisserie chicken breast and toast real sourdough bread with zero restaurant grease.",
+  "prepOrOrderInstructions": "Stock your suite fridge from nearby Harmons Draper or Costco Sandy with Kirkland Chicken Bone Broth, microwave/stovetop jasmine rice pouches, plain rotisserie chicken breast, eggs, and Artisan Sourdough bread.",
+  "watchOuts": [
+    "Zero gut triggers—gives you a 100% controlled safety net whenever eating out in Draper feels risky"
+  ]
+}

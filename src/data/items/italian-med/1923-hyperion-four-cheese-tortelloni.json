@@ -1,0 +1,40 @@
+{
+  "id": "1923-hyperion-four-cheese-tortelloni",
+  "name": "Hyperion Four-Cheese Tortelloni (Hold Lemon)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · 1923",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "pasta",
+    "cheese",
+    "italian",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "hyperion four cheese tortelloni",
+    "1923 appetizer",
+    "disney treasure",
+    "cheese pasta"
+  ],
+  "whyItWorks": "Soft egg-pasta tortelloni filled with blended four cheeses melts cleanly and is easy on mechanical digestion.",
+  "prepOrOrderInstructions": "If you have a strict citrus guardrail, ask for the tortelloni served with plain melted butter/broth instead of the Meyer lemon sauce, and push the sun-dried tomato and baby spinach garnish to the side.",
+  "watchOuts": [
+    "Meyer lemon broth (citrus guardrail)",
+    "Sun-dried tomato skins and artichoke bracts"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "knotts-boardwalk-bbq-tri-tip-mac-and-cheese",
+  "name": "Knott's Boardwalk BBQ Smoked Tri-Tip Sirloin or Ribs with Creamy Mac & Cheese",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Boardwalk BBQ (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pork",
+    "pasta",
+    "cheese",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "boardwalk bbq tri tip",
+    "boardwalk bbq mac and cheese knotts"
+  ],
+  "whyItWorks": "Tender carved tri-tip sirloin paired with Boardwalk BBQ's smooth baked cavatappi mac & cheese (or mashed potatoes) gives you a high-calorie, low-residue meal.",
+  "prepOrOrderInstructions": "Order the Smoked Tri-Tip with Mashed Potatoes or Mac & Cheese (take lactase for the cheese sauce) and skip the spicy Jalapeño Cheddar Sausage and coleslaw.",
+  "watchOuts": [
+    "Avoid the spicy Jalapeño Cheddar Sausage and raw cabbage slaw"
+  ]
+}

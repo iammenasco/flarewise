@@ -1,0 +1,42 @@
+{
+  "id": "some-beaches-laketown-green-shore-salad-warning",
+  "name": "Some Beaches (Laketown, UT) \"Green Shore\" Salad (Candied Walnuts & Roughage Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "salad",
+    "nuts",
+    "roughage",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "some beaches green shore salad",
+    "bear lake spinach salad",
+    "candied walnut salad"
+  ],
+  "whyItWorks": "Packed with insoluble fiber, raw apple skins, raw red onion, and hard candied walnut pieces which pose a mechanical obstruction risk for stricturing Crohn's disease.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares and strictures. If ordering in remission, ask for no candied walnuts, no raw onions, and dressing on the side.",
+  "watchOuts": [
+    "Hard whole walnut fragments are a serious stricture hazard",
+    "Raw apple peels and spinach roughage cause gas"
+  ]
+}

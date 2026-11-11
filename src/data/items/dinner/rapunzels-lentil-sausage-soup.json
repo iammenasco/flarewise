@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-lentil-sausage-soup",
+  "name": "Green Lentil Soup with Spiced Sausage (Snuggly Duckling Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "beans",
+    "pork",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "green lentil soup",
+    "snuggly duckling menu",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Whole green lentil hulls (GOS FODMAPs + insoluble fiber) combined with spiced sausage make this a classic bloating trigger.",
+  "prepOrOrderInstructions": "Avoid during flares; request a cup of plain chicken broth or potato soup instead.",
+  "watchOuts": [
+    "Whole green lentil skins and GOS FODMAPs",
+    "Spiced sausage fat and casings"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "knotts-cave-inn-snacks-pretzel-fruit",
+  "name": "Knott's Cave Inn Snacks (Camp Snoopy) Warm Soft Pretzel, Fresh Banana & Apple Sauce",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Cave Inn Snacks (Camp Snoopy · Knott's Berry Farm)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "banana",
+    "snack",
+    "dairy-free",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "cave inn snacks camp snoopy",
+    "camp snoopy pretzel fruit knotts"
+  ],
+  "whyItWorks": "Quick walk-up window inside Camp Snoopy stocking warm soft pretzels, whole bananas, applesauce pouches, and bottled water.",
+  "prepOrOrderInstructions": "Grab a plain warm pretzel (no cheese dip) and a banana for a quick flare-safe snack.",
+  "watchOuts": [
+    "Skip nacho cheese cups and sour slushies"
+  ]
+}

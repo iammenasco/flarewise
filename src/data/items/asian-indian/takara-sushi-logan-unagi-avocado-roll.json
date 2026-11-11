@@ -1,0 +1,41 @@
+{
+  "id": "takara-sushi-logan-unagi-avocado-roll",
+  "name": "Takara Sushi Cooked Unagi (Freshwater Eel) & Avocado Roll or Unagi Don",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "seafood",
+    "rice",
+    "avocado",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "takara sushi unagi roll",
+    "eel avocado roll logan",
+    "unagi don takara logan"
+  ],
+  "whyItWorks": "Broiled freshwater eel (unagi) is fully cooked, ultra-soft, rich in omega-3s and vitamins A/E, and glazed with a gentle sweet soy tare over white sushi rice and creamy avocado.",
+  "prepOrOrderInstructions": "Order the Eel & Avocado Roll (or Unagi Don rice bowl) with no cucumber strips and light sesame seeds.",
+  "watchOuts": [
+    "Skip spicy mayo and pickled ginger if sensitive"
+  ]
+}

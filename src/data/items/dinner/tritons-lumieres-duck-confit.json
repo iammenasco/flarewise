@@ -1,0 +1,44 @@
+{
+  "id": "tritons-lumieres-duck-confit",
+  "name": "Duck Confit with Dried Cranberries & Pinion Nuts/Walnuts",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "poultry",
+    "nuts",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "duck confit",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Slow-cooked duck leg meat is tender, but high rendered duck fat combined with tough dried cranberries and walnuts triggers urgency.",
+  "prepOrOrderInstructions": "If ordering in remission, eat only the shredded duck leg meat and leave all dried cranberries, nuts, and crispy skin behind.",
+  "watchOuts": [
+    "High rendered duck fat",
+    "Whole walnuts/pine nuts and fibrous dried cranberries"
+  ]
+}

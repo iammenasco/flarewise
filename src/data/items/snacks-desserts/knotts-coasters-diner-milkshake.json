@@ -1,0 +1,39 @@
+{
+  "id": "knotts-coasters-diner-milkshake",
+  "name": "Knott's Coasters Diner Vanilla, Chocolate or Seedless Boysenberry Milkshake (Lactase Required)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Coasters Diner (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 6.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "sweet",
+    "dessert",
+    "drink",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "coasters diner boysenberry shake",
+    "knotts milkshake"
+  ],
+  "whyItWorks": "Spun with smooth vanilla ice cream and seedless boysenberry syrup (or vanilla/chocolate), avoiding whole berry seeds, though very high in dairy lactose and sugar.",
+  "prepOrOrderInstructions": "Share a small shake in steady remission only after taking 2 lactase enzyme tablets.",
+  "watchOuts": [
+    "Heavy dairy cream and sugar load can trigger osmotic cramping without lactase"
+  ]
+}

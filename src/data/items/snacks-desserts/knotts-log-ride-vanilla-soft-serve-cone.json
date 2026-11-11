@@ -1,0 +1,38 @@
+{
+  "id": "knotts-log-ride-vanilla-soft-serve-cone",
+  "name": "Knott's Log Ride Funnel Cake Stand Plain Vanilla or Boysenberry Twist Soft-Serve Cup (Take Lactase)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Log Ride Funnel Cake & Soft-Serve (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "sweet",
+    "dessert",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "boysenberry soft serve knotts",
+    "log ride ice cream knotts"
+  ],
+  "whyItWorks": "Knott's famous purple-and-white Boysenberry/Vanilla swirl soft-serve is flavored with strained seedless boysenberry juice—giving you the iconic boysenberry taste with zero seeds when paired with a lactase enzyme.",
+  "prepOrOrderInstructions": "Order a small cup or cake cone of Vanilla or Boysenberry-Vanilla Swirl Soft-Serve (do NOT add whole-berry compote topping) and take 1–2 lactase tablets.",
+  "watchOuts": [
+    "Requires lactase enzymes; never add whole-berry boysenberry topping"
+  ]
+}

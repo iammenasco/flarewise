@@ -1,0 +1,39 @@
+{
+  "id": "holiday-traditional-pumpkin-pie-slice",
+  "name": "Holiday Traditional Spiced Pumpkin Pie Slice with Whipped Cream",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "pumpkin",
+    "pie",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "pumpkin pie slice",
+    "thanksgiving pumpkin pie",
+    "holiday dessert pie"
+  ],
+  "whyItWorks": "Smooth pureed pumpkin custard baked in a tender flour crust. Pumpkin provides soluble fiber and beta-carotene that is gentle on mucosal linings. Completely seed-free.",
+  "prepOrOrderInstructions": "Enjoy a slice of pumpkin pie warm or chilled with a dollop of whipped cream.",
+  "watchOuts": [
+    "Contains dairy evaporated milk and egg custard"
+  ]
+}

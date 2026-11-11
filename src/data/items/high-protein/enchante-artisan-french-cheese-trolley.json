@@ -1,0 +1,42 @@
+{
+  "id": "enchante-artisan-french-cheese-trolley",
+  "name": "Enchanté Artisan Aged French Cheese Cart (Comté, Beaufort & Tomme de Savoie)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Enchanté by Chef Arnaud Lallement",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "french",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "enchante"
+  ],
+  "searchKeywords": [
+    "enchante cheese cart",
+    "comte cheese",
+    "french cheese trolley",
+    "disney treasure enchante"
+  ],
+  "whyItWorks": "Hard aged French alpine cheeses like 24-month Comté and Beaufort have ~0g residual lactose and zero fiber.",
+  "prepOrOrderInstructions": "Ask the fromager for aged hard cheeses (Comté, Beaufort, aged Manchego/Mimolette) with plain white baguette slices; skip unripened triple-cream Brie and seeded/nut breads.",
+  "watchOuts": [
+    "Skip soft unaged goat/triple-cream cheeses if lactose sensitive",
+    "Skip dried fig/nut garnishes"
+  ]
+}

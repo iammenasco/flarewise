@@ -1,0 +1,46 @@
+{
+  "id": "palo-dinner-osso-buco-branzino",
+  "name": "Palo Dinner Slow-Braised Veal Osso Buco & Pan-Seared Mediterranean Branzino / Dover Sole",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "fish",
+    "beef",
+    "rice",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo osso buco",
+    "dover sole",
+    "branzino",
+    "palo fish",
+    "disney cruise"
+  ],
+  "whyItWorks": "Tableside-filleted Dover Sole / Mediterranean Branzino and slow-braised Veal Osso Buco over saffron risotto are tender, high-protein Italian classics.",
+  "prepOrOrderInstructions": "On the Veal Osso Buco, ask the kitchen to hold the lemon-peel gremolata garnish; on the Dover Sole or Branzino, request olive oil and caper-free butter with zero lemon juice.",
+  "watchOuts": [
+    "Lemon zest in traditional Osso Buco gremolata (ask to hold)",
+    "Lemon juice in tableside fish butter (ask to hold)"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "worlds-of-marvel-golden-mystic-pasta",
+  "name": "Golden Mystic Pasta: Caramelized Scallops & Angel Hair in Chardonnay Cream (Night 1)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "seafood",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "golden mystic pasta",
+    "caramelized scallops angel hair",
+    "worlds of marvel",
+    "disney treasure"
+  ],
+  "whyItWorks": "Sweet seared sea scallops over fine refined angel hair pasta in a smooth saffron/Chardonnay cream sauce.",
+  "prepOrOrderInstructions": "Take a Lactaid enzyme for the cream sauce and leave any blistered cherry tomatoes on the side of the plate.",
+  "watchOuts": [
+    "Heavy cream lactose",
+    "Roasted cherry tomato skins"
+  ]
+}

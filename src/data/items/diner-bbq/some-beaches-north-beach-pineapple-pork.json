@@ -1,0 +1,40 @@
+{
+  "id": "some-beaches-north-beach-pineapple-pork",
+  "name": "Some Beaches \"North Beach\" Grilled Pineapple Pulled Pork Burger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pork",
+    "burger",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "some beaches north beach burger",
+    "laketown pineapple pulled pork burger",
+    "bear lake burgers"
+  ],
+  "whyItWorks": "Combines a smashburger patty and slow-roasted pulled pork on an artisan white bun; tasty in remission, though the fibrous grilled pineapple ring and sweet-tangy glaze make it heavier than a plain cheeseburger.",
+  "prepOrOrderInstructions": "For an easier-digesting version, remove the fibrous grilled pineapple ring after it adds flavor, or order \"The Rock\" plain cheeseburger instead.",
+  "watchOuts": [
+    "Pineapple contains tough insoluble core/flesh fibers and bromelain acidity that can irritate active flares"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "captains-gala-pork-tenderloin-polenta",
+  "name": "Seared Pork Tenderloin Medallions over Creamy Polenta (Captain's Gala Night 2)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "corn",
+    "cheese",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "pork tenderloin medallions polenta",
+    "captains gala pork",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Pork tenderloin is as lean as skinless chicken breast, and finely ground degermed cornmeal polenta has zero intact corn hulls.",
+  "prepOrOrderInstructions": "Ask for the wild mushroom/port wine reduction on the side so the pork medallions and creamy polenta stay clean.",
+  "watchOuts": [
+    "Wild mushrooms in the reduction sauce (order on side)",
+    "Dairy cream/cheese in polenta"
+  ]
+}

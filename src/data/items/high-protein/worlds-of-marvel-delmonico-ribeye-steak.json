@@ -1,0 +1,42 @@
+{
+  "id": "worlds-of-marvel-delmonico-ribeye-steak",
+  "name": "Delmonico Rib-Eye Steak with Black Garlic Butter & Whipped Yukon Potatoes (Night 1)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "delmonico ribeye steak",
+    "worlds of marvel steak",
+    "disney treasure"
+  ],
+  "whyItWorks": "Paired with silky whipped Yukon gold potatoes; rib-eye has more intramuscular marbling than tenderloin so trimming visible fat keeps it gentle.",
+  "prepOrOrderInstructions": "Order medium-rare with plain butter or salt only (hold the black garlic compound butter and cracked peppercorn crust) alongside the whipped Yukon potatoes.",
+  "watchOuts": [
+    "Higher marbling fat in rib-eye vs. filet mignon",
+    "Black garlic compound butter fructans"
+  ]
+}

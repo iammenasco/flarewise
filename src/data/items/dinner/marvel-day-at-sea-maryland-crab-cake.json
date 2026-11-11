@@ -1,0 +1,39 @@
+{
+  "id": "marvel-day-at-sea-maryland-crab-cake",
+  "name": "Captain America Crispy Maryland Crab Cake (Disney Magic Marvel Day at Sea)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Marvel Day at Sea Dinner Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "fried",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "crispy fried maryland crab cake",
+    "marvel day at sea menu",
+    "disney magic"
+  ],
+  "whyItWorks": "Sweet lump Maryland blue crab meat inside a pan-fried cake; gentle in remission if you eat the tender crab center.",
+  "prepOrOrderInstructions": "Scrape off excess fried breading and ask for tartar/remoulade sauce on the side.",
+  "watchOuts": [
+    "Pan-fried breading oil",
+    "Old Bay seasoning"
+  ]
+}

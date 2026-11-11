@@ -1,0 +1,42 @@
+{
+  "id": "costa-vida-draper-herriman-logan-sweet-pork-naked-bowl-white-rice",
+  "name": "Costa Vida (Draper / Herriman / Orem / Logan) Grilled Chicken or Sweet Pork Bowl (Cilantro-Free Rice, No Beans/Lime)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Costa Vida Fresh Mexican Grill (Draper / Herriman / Orem / Logan, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "pork",
+    "rice",
+    "avocado",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costa vida draper",
+    "costa vida herriman",
+    "costa vida logan",
+    "sweet pork smothered burrito"
+  ],
+  "whyItWorks": "Soft house-made flour tortillas, tender shredded sweet pork or grilled chicken, Monterey Jack cheese, and guacamole provide a comforting Utah Mexican meal when you skip whole black/pinto beans, raw lettuce, and salsa.",
+  "prepOrOrderInstructions": "Order a Small Sweet Pork or Grilled Chicken Quesadilla or Burrito (baked \"enchilada style\" without sauce, or dry) with rice and Jack cheese ONLY—hold black/pinto beans, shredded lettuce, pico de gallo, and lime wedges.",
+  "watchOuts": [
+    "Costa Vida rice and marinades contain a hint of lime juice (citrusFree: false)—if strictly flaring from trace citrus, order a plain Flour Tortilla & Jack Cheese Quesadilla with plain shredded chicken"
+  ]
+}

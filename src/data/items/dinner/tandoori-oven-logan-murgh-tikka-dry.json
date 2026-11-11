@@ -1,0 +1,37 @@
+{
+  "id": "tandoori-oven-logan-murgh-tikka-dry",
+  "name": "Murgh Tikka (Tandoori Boneless Chicken Breast)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "indian",
+    "tandoori-chicken",
+    "protein"
+  ],
+  "searchKeywords": [
+    "tandoori oven",
+    "murgh tikka",
+    "tandoori chicken breast",
+    "logan utah"
+  ],
+  "whyItWorks": "Lean chunks of boneless chicken breast marinated in yogurt and mild Indian spices, skewered and roasted in the dry heat of the tandoor. It is ultra-lean protein without heavy cream gravies.",
+  "prepOrOrderInstructions": "Ask for mild seasoning and skip the raw sliced red onion and lemon wedge garnish. Pair with plain basmati rice."
+}

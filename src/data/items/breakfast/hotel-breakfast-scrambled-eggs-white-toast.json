@@ -1,0 +1,37 @@
+{
+  "id": "hotel-breakfast-scrambled-eggs-white-toast",
+  "name": "Complimentary Hot Scrambled Eggs & White Toast with Jelly",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "TownePlace Suites / Holiday Inn Express",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "hotel-breakfast",
+    "draper",
+    "herriman",
+    "scrambled-eggs",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "towneplace suites breakfast",
+    "holiday inn express breakfast",
+    "scrambled eggs toast",
+    "hotel food"
+  ],
+  "whyItWorks": "Standard hotel breakfast steam-table scrambled eggs (prepared without whole milk or cream) alongside a couple of lightly toasted white bread slices with seedless grape jelly provide easily digestible, safe protein and gentle fuel on the road.",
+  "prepOrOrderInstructions": "Take freshly replenished scrambled eggs from the buffet. Toast white bread, add a dab of butter or seedless jelly, and bypass spicy sausage links, bacon, and breakfast burritos."
+}

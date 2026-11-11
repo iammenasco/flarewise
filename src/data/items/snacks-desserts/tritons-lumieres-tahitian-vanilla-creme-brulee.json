@@ -1,0 +1,44 @@
+{
+  "id": "tritons-lumieres-tahitian-vanilla-creme-brulee",
+  "name": "Tahitian Vanilla Crème Brûlée",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "sweet",
+    "french",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "tahitian vanilla creme brulee",
+    "tritons creme brulee",
+    "lumieres creme brulee",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Unlike the Grand Marnier Soufflé (which contains orange liqueur), the Tahitian Vanilla Crème Brûlée is 100% citrus-free, seedless, and zero-fiber.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets with the first bite of baked cream custard and leave any fresh strawberry/berry garnish on the plate.",
+  "watchOuts": [
+    "Heavy cream lactose and fat",
+    "Skip raw berry garnish if flaring"
+  ]
+}

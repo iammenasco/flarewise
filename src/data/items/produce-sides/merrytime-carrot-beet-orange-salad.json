@@ -1,0 +1,44 @@
+{
+  "id": "merrytime-carrot-beet-orange-salad",
+  "name": "Very Merrytime Roasted Carrot, Yellow & Red Beet Salad with Orange Dressing (Citrus Avoid)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime (\"Happy Holidays\" Menu)",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "carrots",
+    "citrus-risk",
+    "vegetarian",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "carrot beet salad",
+    "orange dressing",
+    "very merrytime salad",
+    "happy holidays menu"
+  ],
+  "whyItWorks": "Flagged as a strict citrus-avoid dish on the Holiday menu due to the orange vinaigrette and orange zest/segments.",
+  "prepOrOrderInstructions": "Avoid due to the orange dressing; if you want roasted beets and carrots, ask your server for plain steamed carrots and roasted beets with olive oil only.",
+  "watchOuts": [
+    "CITRUS AVOID: Made with orange dressing and citrus zest",
+    "High fiber from root vegetables and greens"
+  ]
+}

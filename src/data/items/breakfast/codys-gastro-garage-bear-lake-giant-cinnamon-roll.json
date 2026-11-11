@@ -1,0 +1,41 @@
+{
+  "id": "codys-gastro-garage-bear-lake-giant-cinnamon-roll",
+  "name": "Cody's Gastro Garage (Garden City, UT) Giant \"Head-Sized\" Warm Cinnamon Roll",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "breakfast",
+    "pastry",
+    "cinnamon-roll"
+  ],
+  "searchKeywords": [
+    "codys giant cinnamon roll",
+    "bear lake huge cinnamon roll",
+    "garden city breakfast pastry"
+  ],
+  "whyItWorks": "Famous across Bear Lake for being 'as large as your head'! Completely seed-free and soft yeast dough. Share it among 2-3 people to enjoy the comforting flavor without an overwhelming sugar rush.",
+  "prepOrOrderInstructions": "Order the Giant Cinnamon Roll warm with cream cheese frosting on the side so you can regulate the richness.",
+  "watchOuts": [
+    "Enormous portion: split with tablemates to prevent sugar-induced diarrhea"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "knotts-buena-park-portillos-italian-beef-no-peppers",
+  "name": "Portillo's (Buena Park — 1 Block from Knott's) Famous Italian Beef on French Bread (Order Plain — NO Hot Giardiniera or Sweet Peppers!)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Portillo's Hot Dogs & Italian Beef (Beach Blvd, Buena Park · Near Knott's Berry Farm)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "sandwich",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "portillos buena park",
+    "italian beef near knotts berry farm",
+    "portillos crohns safe"
+  ],
+  "whyItWorks": "Right across from Knott's Berry Farm next to Porto's, Portillo's slow-roasts thin-shaved Italian Beef for 4 hours until it melts in your mouth on soft Turano French bread—and dipping the bread in warm au jus gravy softens the entire sandwich for effortless digestion as long as you order it with NO peppers!",
+  "prepOrOrderInstructions": "Order the **Italian Beef Sandwich** (or Beef & Mozzarella Croissant) **\"Dipped\" or with \"Gravy on the Side\" and strictly NO Sweet Peppers and NO Hot Giardiniera Peppers**.",
+  "watchOuts": [
+    "NEVER add Hot Giardiniera (fiery chili oil + celery/peppers) or cooked green bell peppers (\"sweet peppers\")"
+  ]
+}

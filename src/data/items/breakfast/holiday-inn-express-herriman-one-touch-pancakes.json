@@ -1,0 +1,39 @@
+{
+  "id": "holiday-inn-express-herriman-one-touch-pancakes",
+  "name": "Holiday Inn Express (Herriman, UT) Automated One-Touch Warm Pancakes",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Inn Express & Suites Herriman - South Jordan",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "herriman",
+    "south-jordan",
+    "breakfast",
+    "pancakes"
+  ],
+  "searchKeywords": [
+    "holiday inn express pancakes",
+    "herriman utah hotel breakfast",
+    "automatic pancake machine"
+  ],
+  "whyItWorks": "The famous Holiday Inn Express one-touch pancake machine dispenses warm, fluffy, evenly cooked pancakes in under 60 seconds. Soft, seed-free, and easy on digestion.",
+  "prepOrOrderInstructions": "Press the button for 2 warm pancakes; drizzle with warm syrup and butter.",
+  "watchOuts": [
+    "None; reliable and soft travel carbohydrate"
+  ]
+}

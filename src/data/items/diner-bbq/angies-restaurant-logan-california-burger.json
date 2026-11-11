@@ -1,0 +1,41 @@
+{
+  "id": "angies-restaurant-logan-california-burger",
+  "name": "Angie's Restaurant (Logan, UT) California Burger with Fresh Avocado & Swiss",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "beef",
+    "burger",
+    "avocado"
+  ],
+  "searchKeywords": [
+    "angies california burger",
+    "angies logan burger",
+    "avocado burger cache valley"
+  ],
+  "whyItWorks": "Ripe avocado adds creamy monounsaturated fat and potassium without irritating lactose. Swiss cheese is naturally low in lactose. Hold raw onions.",
+  "prepOrOrderInstructions": "Order the California Burger on a toasted bun; ask to hold raw onion slices and tomato.",
+  "watchOuts": [
+    "Angie's burgers are a generous 1/2 pound; eat half if prone to volume discomfort"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dca-smokejumpers-grill-waffle-fries-gluten-free-bun-chicken-tenders",
+  "name": "DCA Smokejumpers Grill Crispy Chicken Tenders & Crinkle/Waffle Fries (Allergy-Friendly Option)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Smokejumpers Grill (Grizzly Peak · Disney California Adventure)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "gluten-free-option",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "smokejumpers chicken tenders dca",
+    "allergy friendly chicken tenders dca"
+  ],
+  "whyItWorks": "Smokejumpers Grill has a dedicated allergy fryer line and offers both regular white-meat Chicken Tenders and **Gluten/Dairy-Allergy-Friendly Chicken Tenders & Fries** in the Disneyland Mobile Order app!",
+  "prepOrOrderInstructions": "In the Disneyland App under Smokejumpers Grill, scroll to the **Gluten/Milk Allergy-Friendly** menu if you want dairy-free, gluten-free chicken tenders and fries.",
+  "watchOuts": [
+    "Peel off any extra-crispy breading ends if sensitive to fryer oil"
+  ]
+}

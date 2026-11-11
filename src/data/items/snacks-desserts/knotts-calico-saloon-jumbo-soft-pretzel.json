@@ -1,0 +1,38 @@
+{
+  "id": "knotts-calico-saloon-jumbo-soft-pretzel",
+  "name": "Knott's Calico Saloon Warm Salted Jumbo Soft Pretzel with Beer Cheese",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Calico Saloon (Knott's Berry Farm)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "pretzel",
+    "snack",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "calico saloon pretzel",
+    "knotts soft pretzel",
+    "ghost town jumbo pretzel"
+  ],
+  "whyItWorks": "Warm, pillowy soft pretzel served with warm cheese dipping sauce. Doughy, comforting, and seed-free carb boost while watching the Calico Saloon can-can show.",
+  "prepOrOrderInstructions": "Order the Jumbo Soft Pretzel with light salt and warm cheese dip.",
+  "watchOuts": [
+    "Brush off excess coarse salt if sodium-sensitive"
+  ]
+}

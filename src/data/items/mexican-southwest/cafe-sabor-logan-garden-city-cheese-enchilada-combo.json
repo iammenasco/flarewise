@@ -1,0 +1,42 @@
+{
+  "id": "cafe-sabor-logan-garden-city-cheese-enchilada-combo",
+  "name": "Café Sabor (Logan & Garden City, UT) Cheese Enchilada & Spanish Rice Plate",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "mexican",
+    "cheese",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "cafe sabor cheese enchilada",
+    "enchilada combo bear lake",
+    "mexican food logan utah"
+  ],
+  "whyItWorks": "Warm baked corn tortillas, mild red enchilada sauce, melted cheddar/jack cheese, and tender Spanish white rice make an easily tolerated Mexican staple in remission.",
+  "prepOrOrderInstructions": "Order the 1-Entree Cheese Enchilada with Spanish rice and refried beans (or ask to substitute extra rice for the beans if sensitive to legumes).",
+  "watchOuts": [
+    "Sub extra Spanish rice for refried beans if bean skins cause gas"
+  ]
+}

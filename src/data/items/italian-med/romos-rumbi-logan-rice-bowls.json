@@ -1,0 +1,41 @@
+{
+  "id": "romos-rumbi-logan-rice-bowls",
+  "name": "Romo's Mediterranean Chicken Kabob & Rice Plate (No Lemon/Onion Mod)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Romo's Mediterranean Grill (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rice",
+    "pita",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "romos mediterranean grill logan",
+    "chicken kabob logan utah",
+    "greek food logan"
+  ],
+  "whyItWorks": "Charbroiled chicken tenderloin kabobs over fluffy basmati rice with warm soft pita bread provide lean, dairy-free protein without heavy sauces.",
+  "prepOrOrderInstructions": "Order the Chicken Souvlaki/Kabob Plate with basmati rice and warm pita bread—ask for no lemon juice squeeze, no raw red onions, and tzatziki/hummus on the side.",
+  "watchOuts": [
+    "Skip the Greek salad (raw tomatoes/onions/olives/feta) and ask for no lemon squeeze on the kabob"
+  ]
+}

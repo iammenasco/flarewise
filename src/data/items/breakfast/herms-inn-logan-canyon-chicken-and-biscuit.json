@@ -1,0 +1,40 @@
+{
+  "id": "herms-inn-logan-canyon-chicken-and-biscuit",
+  "name": "Herm's Inn (Logan, UT) Fried Chicken Tender & Buttermilk Biscuit with Sausage Gravy",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan Canyon / Logan, UT)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "breakfast",
+    "chicken",
+    "biscuits",
+    "gravy"
+  ],
+  "searchKeywords": [
+    "herms inn chicken and biscuit",
+    "herms inn biscuits and gravy",
+    "logan canyon breakfast"
+  ],
+  "whyItWorks": "Hearty mountain breakfast before heading up Logan Canyon! High protein, but rich with sausage gravy and fried chicken. Great stamina in remission.",
+  "prepOrOrderInstructions": "Order Chicken & Biscuit with two poached or scrambled eggs; ask for gravy on the side.",
+  "watchOuts": [
+    "Sausage gravy and fried coating can be heavy during active gut inflammation"
+  ]
+}

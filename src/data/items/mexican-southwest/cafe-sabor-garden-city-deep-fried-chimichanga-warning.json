@@ -1,0 +1,39 @@
+{
+  "id": "cafe-sabor-garden-city-deep-fried-chimichanga-warning",
+  "name": "Deep-Fried Shredded Beef Chimichanga with Queso",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Garden City / Logan, UT)",
+  "crohnsScore": 3.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "logan",
+    "mexican",
+    "chimichanga",
+    "fried"
+  ],
+  "searchKeywords": [
+    "cafe sabor",
+    "chimichanga",
+    "fried burrito",
+    "queso",
+    "danger food"
+  ],
+  "whyItWorks": "A giant flour tortilla wrapped around spiced beef, deep-fried until blistered and submerged in heavy melted queso dip, packs intense oil, dairy, and spices that aggressively irritate the digestive tract.",
+  "prepOrOrderInstructions": "Extreme Danger Warning: Avoid during flares or active gut inflammation. Order a soft baked enchilada or grilled street taco instead."
+}

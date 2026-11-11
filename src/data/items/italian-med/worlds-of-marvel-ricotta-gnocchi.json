@@ -1,0 +1,41 @@
+{
+  "id": "worlds-of-marvel-ricotta-gnocchi",
+  "name": "Ricotta Gnocchi (Worlds of Marvel)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "gnocchi",
+    "cheese",
+    "italian",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "ricotta gnocchi",
+    "worlds of marvel pasta",
+    "quantum encounter",
+    "disney treasure"
+  ],
+  "whyItWorks": "Ricotta and white-flour gnocchi pillows are even lighter and softer than potato gnocchi, requiring almost zero chewing.",
+  "prepOrOrderInstructions": "Ask for the gnocchi with light sauce or plain butter and parmesan, and push aside any whole wild mushrooms or spinach leaves.",
+  "watchOuts": [
+    "Whole mushroom pieces",
+    "Ricotta lactose — take a Lactaid pill"
+  ]
+}

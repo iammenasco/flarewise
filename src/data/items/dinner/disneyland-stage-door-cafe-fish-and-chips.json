@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-stage-door-cafe-fish-and-chips",
+  "name": "Disneyland Stage Door Café (Frontierland) Hand-Dipped Beer-Battered Cod Fish & Chips",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Stage Door Café (Frontierland · Disneyland Park)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "potato",
+    "fried",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "stage door cafe fish and chips",
+    "frontierland fish and chips disneyland"
+  ],
+  "whyItWorks": "Flaky white cod fillets inside crisp batter with steak fries—peeling off half of the fried batter and skipping lemon wedges gives you lean white fish on a steady day.",
+  "prepOrOrderInstructions": "Discard the lemon wedge (citrus trigger), blot excess fryer oil with a napkin, and peel off thick batter ends.",
+  "watchOuts": [
+    "Deep-fried batter absorbs oil—skip the Stage Door Funnel Cake during flares"
+  ]
+}

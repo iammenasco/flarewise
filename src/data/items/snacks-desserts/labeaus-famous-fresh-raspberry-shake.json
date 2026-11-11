@@ -1,0 +1,43 @@
+{
+  "id": "labeaus-famous-fresh-raspberry-shake",
+  "name": "LaBeau's Famous Bear Lake Fresh Raspberry Shake (Seed & Dairy Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "LaBeau's / LaBeau's Too / Hometown Drive In (Garden City, UT)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "shake",
+    "sweet",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "labeaus raspberry shake",
+    "bear lake raspberry shake",
+    "hometown drive in shake",
+    "garden city shake"
+  ],
+  "whyItWorks": "Bear Lake's most famous tradition, but blended whole fresh raspberries pack thousands of hard, insoluble drupelet seeds alongside heavy dairy ice cream.",
+  "prepOrOrderInstructions": "Avoid during flares due to gritty raspberry seeds; in remission, share a small size with a double dose of Lactaid, or swap to a seedless Banana or Chocolate Malt shake.",
+  "watchOuts": [
+    "Thousands of insoluble raspberry seeds (diverticular/mucosal irritant)",
+    "High lactose and dairy fat in thick ice cream base"
+  ]
+}

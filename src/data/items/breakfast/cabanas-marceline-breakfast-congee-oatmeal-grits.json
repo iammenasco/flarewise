@@ -1,0 +1,48 @@
+{
+  "id": "cabanas-marceline-breakfast-congee-oatmeal-grits",
+  "name": "Buffet Hot Porridge Bar (Grits, Farina, or White Rice Congee)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "porridge",
+    "grits",
+    "farina",
+    "rice-base",
+    "hot-cereal",
+    "flare-recovery",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "cabanas hot cereal",
+    "marceline market porridge",
+    "cream of wheat",
+    "grits",
+    "congee",
+    "crispy rice cereal",
+    "disney cruise"
+  ],
+  "whyItWorks": "Cabanas and Marceline Market stock hot Cream of Wheat/farina, hominy grits, and individual boxes of Rice Krispies/Corn Flakes alongside lactose-free/oat milk.",
+  "prepOrOrderInstructions": "On a rough flare morning at sea, grab hot Cream of Wheat/grits or a bowl of Rice Krispies with oat/soy/lactose-free milk and a ripe banana or melon slices.",
+  "watchOuts": [
+    "Avoid the Muesli / Bircher muesli (raw rolled oats, nuts, and dried fruit skins)"
+  ]
+}

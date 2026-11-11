@@ -1,0 +1,41 @@
+{
+  "id": "plaza-de-coco-blistered-poblano-pepper",
+  "name": "Blistered Poblano Chile Relleno with Oaxaca Cheese & Quinoa (Night 2)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "vegetarian",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "blistered poblano pepper",
+    "chile relleno",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Whole roasted poblano pepper skin, mild-to-medium capsaicin, and grainy quinoa filling are mechanically rough.",
+  "prepOrOrderInstructions": "Avoid during flares; if tasting in remission, eat only the melted Oaxaca cheese interior.",
+  "watchOuts": [
+    "Fibrous poblano pepper skin and capsaicin",
+    "Quinoa and corn filling"
+  ]
+}

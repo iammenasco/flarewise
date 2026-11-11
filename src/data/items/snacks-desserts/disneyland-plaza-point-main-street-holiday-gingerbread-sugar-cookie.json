@@ -1,0 +1,42 @@
+{
+  "id": "disneyland-plaza-point-main-street-holiday-gingerbread-sugar-cookie",
+  "name": "Disneyland Main Street & Grand Californian Holiday Soft Gingerbread Mickey Cookie & Sugar Cookie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Jolly Holiday, Market House & Grand Californian Lobby Cart (Disneyland Resort)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "ginger",
+    "holiday",
+    "christmas",
+    "vacation",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "disneyland gingerbread mickey",
+    "grand californian gingerbread cookie",
+    "holiday cookie disneyland"
+  ],
+  "whyItWorks": "Disney's famous plush-soft Mickey Gingerbread Cookie (sold at Jolly Holiday and the Grand Californian lobby cart during the holidays) is baked with refined flour, molasses, and gut-soothing ginger with zero nuts or seeds.",
+  "prepOrOrderInstructions": "Pick up a soft Mickey Gingerbread Cookie with chocolate-dipped ears and share half with warm herbal tea or hot cocoa (with lactase).",
+  "watchOuts": [
+    "High sugar in the royal icing—enjoy half a cookie at a time"
+  ]
+}

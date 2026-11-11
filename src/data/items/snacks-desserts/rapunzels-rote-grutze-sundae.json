@@ -1,0 +1,40 @@
+{
+  "id": "rapunzels-rote-grutze-sundae",
+  "name": "Rote Grütze German Red Berry Compote Vanilla Sundae (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "berries",
+    "sweet",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "rote grutze sundae",
+    "red berry sundae",
+    "snuggly duckling",
+    "rapunzels royal table"
+  ],
+  "whyItWorks": "Traditional Rote Grütze is packed with cooked red currants, raspberries, and strawberries whose hard seeds do not soften when cooked.",
+  "prepOrOrderInstructions": "Ask for the vanilla ice cream sundae with chocolate fudge or caramel instead of the seeded Rote Grütze berry compote.",
+  "watchOuts": [
+    "Hundreds of tiny currant, raspberry, and strawberry seeds",
+    "Liquid dairy ice cream"
+  ]
+}

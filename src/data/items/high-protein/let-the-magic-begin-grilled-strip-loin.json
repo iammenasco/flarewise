@@ -1,0 +1,42 @@
+{
+  "id": "let-the-magic-begin-grilled-strip-loin",
+  "name": "Grilled Angus Strip Loin Steak with Cheddar Smashed Potatoes (Let the Magic Begin)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "potato",
+    "cheddar",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "grilled strip loin",
+    "cheddar smashed potatoes",
+    "let the magic begin steak"
+  ],
+  "whyItWorks": "Grilled strip loin steak is high in iron and zero-fiber; ask for plain mashed or baked potatoes to avoid onions in the cheddar smash.",
+  "prepOrOrderInstructions": "Order the strip loin medium-rare with plain baked or mashed potatoes (the standard cheddar smashed potatoes contain diced onions) and skip the grilled tomato.",
+  "watchOuts": [
+    "Onions mixed into standard cheddar smashed potatoes (swap for plain potato)"
+  ]
+}

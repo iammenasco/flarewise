@@ -1,0 +1,42 @@
+{
+  "id": "disneyland-jumbo-smoked-turkey-leg",
+  "name": "Disneyland & DCA Jumbo Smoked Turkey Leg (Eat Lean Inner Meat, Remove Skin)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Edelweiss Snacks, Ship to Shore & Poultry Palace (Disneyland & DCA)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "high-protein",
+    "dairy-free",
+    "gluten-free-option",
+    "vacation",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "disneyland turkey leg",
+    "edelweiss snacks turkey leg",
+    "dca turkey leg"
+  ],
+  "whyItWorks": "100% pure smoked dark-meat turkey with 0g carbs, 0g fiber, and 0g dairy; tearing off the tough smoky skin and eating a normal 4–6 oz portion of the tender inner meat gives you huge protein and sodium electrolytes.",
+  "prepOrOrderInstructions": "Peel off the tough outer smoked skin, pull the tender dark meat off the tendons, and share the giant 1.5-lb leg with family.",
+  "watchOuts": [
+    "High in cured sodium (helpful on hot park days) and smoky skin—always discard the skin and tough tendons"
+  ]
+}

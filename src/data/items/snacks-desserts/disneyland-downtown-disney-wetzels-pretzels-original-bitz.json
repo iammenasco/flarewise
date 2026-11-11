@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-downtown-disney-wetzels-pretzels-original-bitz",
+  "name": "Downtown Disney Wetzel's Pretzels Original Soft Pretzel or Wetzel Bitz (Unbuttered / Light Salt)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Wetzel's Pretzels (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "snack",
+    "dairy-free",
+    "budget-friendly",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "wetzels pretzels downtown disney",
+    "pretzel bites disneyland"
+  ],
+  "whyItWorks": "Freshly kneaded and baked on-site from simple white wheat flour, yeast, water, and salt—asking for \"no butter\" makes it 100% dairy-free, nearly fat-free, and 9.0/10 flare-safe.",
+  "prepOrOrderInstructions": "Order Original Wetzel Bitz or a Original Pretzel with **\"No Butter\"** (or light butter if tolerated) and skip the jalapeño cheese dip.",
+  "watchOuts": [
+    "Skip Jalapeño Bitz, Pepperoni Twist, and frozen lemonades (citrus trigger)"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "world-of-flavour-chicken-kiev-prawn-curry",
+  "name": "World of Flavour Menu: Classic Chicken Breast Kiev vs. Indian Prawn Curry",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · World of Flavour Menu (Panama Canal / Long Voyages)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "shrimp",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "chicken breast kiev",
+    "indian prawn curry",
+    "world of flavour menu",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Baked Chicken Breast Kiev with mashed potatoes is tender and mild, whereas the Indian Prawn Curry carries chili heat and onion/garlic masala.",
+  "prepOrOrderInstructions": "Choose the Chicken Breast Kiev (let part of the garlic-herb butter run onto the plate if sensitive to garlic) or the Lighter Note Baked Salmon with white rice.",
+  "watchOuts": [
+    "Garlic-herb butter center in Chicken Kiev",
+    "Chili spice in Indian Prawn Curry"
+  ]
+}

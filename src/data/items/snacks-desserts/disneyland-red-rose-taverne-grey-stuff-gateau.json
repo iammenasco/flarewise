@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-red-rose-taverne-grey-stuff-gateau",
+  "name": "Disneyland Red Rose Taverne \"The Grey Stuff\" Cookies & Cream Mousse Gateau (Take Lactase)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Red Rose Taverne (Fantasyland · Disneyland Park)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "dessert",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "the grey stuff disneyland",
+    "red rose taverne dessert"
+  ],
+  "whyItWorks": "Light, airy white-chocolate cookies-and-cream mousse piped over a soft red-velvet cake center and shortbread cookie—100% nut-free and seed-free.",
+  "prepOrOrderInstructions": "Take a lactase enzyme tablet and share this light mousse dessert in Fantasyland.",
+  "watchOuts": [
+    "Contains dairy cream in the mousse—requires lactase"
+  ]
+}

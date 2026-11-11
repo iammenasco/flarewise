@@ -1,0 +1,43 @@
+{
+  "id": "mickeys-smokestack-pulled-pork",
+  "name": "Mickey's Smokestack BBQ Slow-Smoked Pulled Pork Shoulder (Standalone)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Mickey's Smokestack Barbecue",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "bbq",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "mickeys-smokestack"
+  ],
+  "searchKeywords": [
+    "pulled pork",
+    "mickeys smokestack pulled pork",
+    "disney treasure bbq"
+  ],
+  "whyItWorks": "Shredded slow-smoked pork shoulder is ultra-tender and zero-fiber when ordered un-sauced on a white brioche bun.",
+  "prepOrOrderInstructions": "Ask for plain pulled pork before BBQ sauce is ladled on, paired with Baked Mac & Cheese or a white bun.",
+  "watchOuts": [
+    "Higher rendered pork shoulder fat than smoked chicken",
+    "Garlic/sugar in BBQ sauce"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "palo-brunch-heirloom-tomato-soup",
+  "name": "Palo Brunch Heirloom Tomato & Basil Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "tomato",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo tomato soup",
+    "heirloom tomato basil soup",
+    "palo brunch soup"
+  ],
+  "whyItWorks": "Blended smooth without tomato skins or seeds, though San Marzano tomato acidity is best reserved for remission.",
+  "prepOrOrderInstructions": "Dip soft white ciabatta bread and pair with a Lactaid if finished with cream.",
+  "watchOuts": [
+    "Tomato acidity on active ulcers",
+    "Garlic/onion aromatics"
+  ]
+}

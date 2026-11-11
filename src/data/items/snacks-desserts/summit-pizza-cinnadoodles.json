@@ -1,0 +1,40 @@
+{
+  "id": "summit-pizza-cinnadoodles",
+  "name": "Summit Pizza Co. Warm \"Cinnadoodles\" (Cinnamon Cream Cheese Swirled Dough)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pastry",
+    "cinnamon",
+    "sweet",
+    "bear-lake",
+    "garden-city",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cinnadoodles",
+    "summit pizza cinnadoodles",
+    "cinnamon doodles bear lake"
+  ],
+  "whyItWorks": "Unlike the Raspberry Doodles (which contain raspberry seeds), Cinnadoodles are 100% seedless soft-baked dough swirled with cinnamon sugar and cream cheese.",
+  "prepOrOrderInstructions": "Choose Cinnadoodles over Raspberry Doodles for a seed-free dessert at Summit Pizza, and take a Lactaid for the cream cheese frosting.",
+  "watchOuts": [
+    "Lactose in cream cheese filling and frosting side cup"
+  ]
+}

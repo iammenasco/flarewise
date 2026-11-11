@@ -1,0 +1,41 @@
+{
+  "id": "rapunzels-chili-spiced-tofu-ramen",
+  "name": "Chili-Spiced Tofu Ramen in Vegetable Broth (Lantern Night)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "tofu",
+    "ramen",
+    "spicy",
+    "vegan",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "chili spiced tofu ramen",
+    "rapunzels royal table vegan",
+    "disney magic"
+  ],
+  "whyItWorks": "Wheat ramen noodles and tofu are soft, but the chili-spiced broth, bok choy stems, and shiitake mushrooms irritate active Crohn's.",
+  "prepOrOrderInstructions": "Ask for plain unspiced vegetable broth with just the ramen noodles and plain tofu cubes.",
+  "watchOuts": [
+    "Capsaicin chili spice in broth and tofu rub",
+    "Fibrous bok choy and mushroom slices"
+  ]
+}

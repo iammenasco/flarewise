@@ -1,0 +1,40 @@
+{
+  "id": "garage-grill-cliff-dining-pub-draper-burger-flatbread",
+  "name": "Garage Grill & The Cliff Dining Pub (Draper) Grilled Salmon, Brioche Burger & Flatbread",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Garage Grill / The Cliff Dining Pub / Sauce Boss (12300 S · Draper, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "salmon",
+    "chicken",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "garage grill draper",
+    "the cliff dining pub draper",
+    "sauce boss draper",
+    "draper restaurants"
+  ],
+  "whyItWorks": "Popular Draper sit-down spots right off 12300 S near TownePlace Suites offering grilled salmon, rotisserie/grilled chicken, wood-fired flatbreads, and brioche burgers.",
+  "prepOrOrderInstructions": "At Garage Grill or The Cliff, order Grilled Salmon, Grilled Chicken, or a plain Cheddar Burger on a brioche bun; at Sauce Boss Southern Kitchen, choose rotisserie/grilled chicken with mac & cheese and cornbread (skipping the spicy \"Sticky Chicky\" and ghost pepper wings).",
+  "watchOuts": [
+    "Avoid ghost pepper coconut shrimp, Dirty Bird wings, and spicy maple hot sauce"
+  ]
+}

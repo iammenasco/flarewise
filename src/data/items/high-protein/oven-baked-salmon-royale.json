@@ -1,0 +1,45 @@
+{
+  "id": "oven-baked-salmon-royale",
+  "name": "Oven-Baked Salmon Royale",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "salmon",
+    "high-protein",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "oven baked salmon royale",
+    "tritons salmon",
+    "lumieres salmon",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Oven-baked Atlantic salmon and silky truffled cauliflower purée flake and dissolve effortlessly with high anti-inflammatory omega-3s.",
+  "prepOrOrderInstructions": "Ask your server to bake the salmon without the horseradish crust if flaring, enjoy the smooth cauliflower purée (or swap for mashed potatoes/white rice), and skip the sautéed Swiss chard leaves.",
+  "watchOuts": [
+    "Horseradish crust if stomach is sensitive",
+    "Leafy Swiss chard stems",
+    "Butter/cream in beurre blanc if lactose sensitive"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dca-cocina-cucamonga-pollo-asado-soft-tacos",
+  "name": "DCA Cocina Cucamonga Pollo Asado Soft Corn Tacos (Rice & Hold Lime)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cocina Cucamonga Mexican Grill (Disney California Adventure)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "chicken",
+    "tacos",
+    "mexican",
+    "san-fransokyo"
+  ],
+  "searchKeywords": [
+    "pollo asado tacos dca",
+    "cocina cucamonga chicken tacos",
+    "mexican food dca"
+  ],
+  "whyItWorks": "Citrus-free achiote-marinated grilled chicken served in soft warm corn tortillas with cilantro and Spanish rice. Lean protein and gentle carbs without frying fat.",
+  "prepOrOrderInstructions": "Order the Pollo Asado Tacos on soft corn tortillas; request no raw diced onions and discard the lime wedge.",
+  "watchOuts": [
+    "Hold raw diced white onions and discard the lime wedge"
+  ]
+}

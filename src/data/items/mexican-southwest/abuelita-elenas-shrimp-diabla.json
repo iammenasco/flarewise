@@ -1,0 +1,40 @@
+{
+  "id": "abuelita-elenas-shrimp-diabla",
+  "name": "Abuelita Elena's Shrimp Diabla (Night 1)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "spicy",
+    "seafood",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "abuelita elenas shrimp diabla",
+    "plaza de coco",
+    "disney treasure"
+  ],
+  "whyItWorks": "Sautéed shrimp in a fiery roasted chili-tomato Diabla sauce with lime—capsaicin and citrus make this a direct flare trigger.",
+  "prepOrOrderInstructions": "If you want shrimp at Plaza de Coco, ask your server for plain grilled or poached shrimp with butter/garlic and zero Diabla sauce or lime.",
+  "watchOuts": [
+    "Spicy chili-tomato Diabla sauce (capsaicin)",
+    "Fresh lime garnish (citrus)"
+  ]
+}

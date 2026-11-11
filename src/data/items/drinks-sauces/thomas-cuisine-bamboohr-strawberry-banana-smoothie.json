@@ -1,0 +1,39 @@
+{
+  "id": "thomas-cuisine-bamboohr-strawberry-banana-smoothie",
+  "name": "Thomas2Go @ BambooHR (Lindon, UT) Fresh Strawberry Banana Yogurt Smoothie",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Thomas Cuisine @ BambooHR (Lindon, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "drink",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "smoothie",
+    "banana",
+    "bamboohr"
+  ],
+  "searchKeywords": [
+    "thomas2go smoothie",
+    "bamboohr cafe smoothie",
+    "thomas cuisine strawberry banana"
+  ],
+  "whyItWorks": "Real pureed bananas and strawberries blended with plain yogurt and honey. Hydrating and potassium-rich for afternoon work sessions.",
+  "prepOrOrderInstructions": "Order the Strawberry Banana Smoothie; request oat milk or almond milk if dairy-sensitive.",
+  "watchOuts": [
+    "Contains pureed strawberries with fine seeds; order plain banana vanilla if avoiding seeds completely"
+  ]
+}

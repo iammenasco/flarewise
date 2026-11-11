@@ -1,0 +1,45 @@
+{
+  "id": "takara-sushi-logan-chicken-teriyaki-udon",
+  "name": "Takara Sushi (Logan) Grilled Chicken or Salmon Teriyaki Rice Bowl & Udon Noodle Soup",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salmon",
+    "rice",
+    "noodles",
+    "soup",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "takara sushi udon",
+    "takara chicken teriyaki",
+    "takara salmon teriyaki",
+    "logan japanese food"
+  ],
+  "whyItWorks": "Thick, soft wheat udon noodles in clear dashi broth or grilled chicken/salmon teriyaki over steamed white rice—warm, cooked, and soothing on rough gut days.",
+  "prepOrOrderInstructions": "Order the Chicken or Salmon Teriyaki with steamed white rice (skip the raw cabbage side salad) or the plain Chicken/Nabeyaki Udon (tempura on the side).",
+  "watchOuts": [
+    "Skip the raw cabbage salad with citrus/ginger dressing"
+  ]
+}

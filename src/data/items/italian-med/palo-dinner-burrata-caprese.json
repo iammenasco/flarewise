@@ -1,0 +1,42 @@
+{
+  "id": "palo-dinner-burrata-caprese",
+  "name": "Palo Dinner Heirloom Tomato & Fresh Burrata Mozzarella Caprese",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "tomato",
+    "vegetarian",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo burrata caprese",
+    "heirloom tomato burrata",
+    "palo dinner starter"
+  ],
+  "whyItWorks": "Creamy artisan Italian burrata with aged balsamic and basil oil is low-residue and citrus-free.",
+  "prepOrOrderInstructions": "Enjoy the creamy burrata cheese with warm bread and a Lactaid enzyme; peel or skip the heirloom tomato skins if flaring.",
+  "watchOuts": [
+    "Fresh cream inside burrata (lactose)",
+    "Heirloom tomato skins"
+  ]
+}

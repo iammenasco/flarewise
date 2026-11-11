@@ -1,0 +1,45 @@
+{
+  "id": "crepes-and-coffee-bear-lake-savory-ham-egg-crepe",
+  "name": "Crepes and Coffee (Garden City) Savory Ham, Egg & Cheese or Turkey-Avocado Crepe",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "ham",
+    "turkey",
+    "avocado",
+    "cheese",
+    "crepe",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "crepes and coffee bear lake",
+    "savory crepe garden city",
+    "turkey avocado crepe",
+    "ham egg cheese crepe"
+  ],
+  "whyItWorks": "Paper-thin egg-and-flour French crepes folded around scrambled eggs, lean ham or turkey breast, avocado, and melted cheese—a huge gut relief from heavy Bear Lake burger grease.",
+  "prepOrOrderInstructions": "Order the Ham, Scrambled Egg & Cheese Crepe or the Turkey, Avocado & Cheese Crepe on standard white batter (or gluten-free buckwheat if tolerated).",
+  "watchOuts": [
+    "Hold raw spinach or tomatoes if flaring"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-alien-pizza-planet-pasta-pizza",
+  "name": "Disneyland Alien Pizza Planet Kids' Plain/Alfredo Pasta or Cheese Pizza Slice",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Alien Pizza Planet (Tomorrowland · Disneyland Park)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "chicken",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "alien pizza planet disneyland",
+    "count down chicken fusilli",
+    "tomorrowland pasta pizza"
+  ],
+  "whyItWorks": "Count Down Chicken Fusilli (or the Kids' Pasta requested plain or with light cream/Parmesan sauce and grilled chicken) gives you soft refined pasta without spicy pepperonis or raw veggies.",
+  "prepOrOrderInstructions": "Ask at the pasta counter for fusilli/spaghetti with plain grilled chicken and grated Parmesan (hold the sun-dried tomatoes and heavy garlic cream if sensitive, and take lactase).",
+  "watchOuts": [
+    "Standard Count Down Chicken Fusilli contains sun-dried tomatoes and dairy cream sauce—pick out sun-dried tomatoes and take lactase"
+  ]
+}

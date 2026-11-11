@@ -1,0 +1,45 @@
+{
+  "id": "dcl-sit-down-lunch-pennette-provencal",
+  "name": "Sit-Down Lunch Pennette Pasta with Goat Cheese & Spinach Pesto",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "tomato",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "pennette pasta",
+    "goat cheese pasta",
+    "sit down lunch",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Refined white pennette pasta with creamy goat cheese; can easily be ordered with plain butter/Parmesan or grilled chicken.",
+  "prepOrOrderInstructions": "If tomato-basil Provençal sauce bothers you, ask for the pennette tossed in butter and aged Parmesan topped with a grilled chicken breast.",
+  "watchOuts": [
+    "Tomato acidity and garlic in Provençal sauce",
+    "Goat cheese lactose"
+  ]
+}

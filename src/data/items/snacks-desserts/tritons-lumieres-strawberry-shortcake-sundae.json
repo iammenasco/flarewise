@@ -1,0 +1,45 @@
+{
+  "id": "tritons-lumieres-strawberry-shortcake-sundae",
+  "name": "Grand Marnier / Strawberry Shortcake Sundae",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "ice-cream",
+    "berries",
+    "sweet",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "strawberry shortcake sundae",
+    "tritons sundae",
+    "lumieres sundae",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "The strawberry compote contains hundreds of tiny strawberry achenes (seeds) and is often macerated with orange liqueur/citrus.",
+  "prepOrOrderInstructions": "Skip the macerated strawberry compote and ask for plain vanilla ice cream with warm shortcake biscuit only.",
+  "watchOuts": [
+    "Strawberry seeds",
+    "Possible Grand Marnier orange liqueur maceration",
+    "High dairy lactose"
+  ]
+}

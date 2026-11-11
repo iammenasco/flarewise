@@ -1,0 +1,36 @@
+{
+  "id": "ranch-hand-montpelier-biscuits-gravy-breakfast",
+  "name": "Ranch Hand Trail Stop Homestyle Biscuits & Country Sausage Gravy",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Ranch Hand Trail Stop (Montpelier, ID)",
+  "crohnsScore": 6.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "dairy",
+    "eggs",
+    "bear-lake",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "ranch hand biscuits and gravy",
+    "montpelier idaho truck stop breakfast"
+  ],
+  "whyItWorks": "Soft buttermilk biscuits have zero insoluble roughage, but the rich pork sausage milk gravy and black pepper make this a heavy dish best reserved for full remission or ordered as plain biscuits with honey.",
+  "prepOrOrderInstructions": "During flares or sensitive days, order a plain buttermilk biscuit with honey/jelly and scrambled eggs instead of the sausage milk gravy.",
+  "watchOuts": [
+    "Country gravy is high in rendered pork fat, whole milk lactose, and coarse black pepper"
+  ]
+}

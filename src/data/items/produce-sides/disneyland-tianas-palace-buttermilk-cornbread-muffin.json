@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-tianas-palace-buttermilk-cornbread-muffin",
+  "name": "Disneyland Tiana's Palace Warm Buttermilk Cornbread Side",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Tiana's Palace (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "sweet",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tianas palace buttermilk cornbread",
+    "disneyland cornbread"
+  ],
+  "whyItWorks": "Fine-milled Southern buttermilk cornbread baked without whole corn kernels or jalapeños makes an easy, low-fiber side with roasted chicken.",
+  "prepOrOrderInstructions": "Order a side of Buttermilk Cornbread alongside plain steamed white rice and roasted chicken.",
+  "watchOuts": [
+    "Contains buttermilk and butter—take lactase if sensitive"
+  ]
+}

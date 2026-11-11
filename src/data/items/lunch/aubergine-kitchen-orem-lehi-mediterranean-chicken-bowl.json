@@ -1,0 +1,41 @@
+{
+  "id": "aubergine-kitchen-orem-lehi-mediterranean-chicken-bowl",
+  "name": "Aubergine Kitchen (Orem & Lehi, UT) Warm Mediterranean Chicken & Rice Bowl",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Aubergine Kitchen (Orem & Lehi, UT)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "orem",
+    "lehi",
+    "chicken",
+    "rice",
+    "clean-eating"
+  ],
+  "searchKeywords": [
+    "aubergine kitchen orem",
+    "aubergine lehi bowl",
+    "clean eating utah valley"
+  ],
+  "whyItWorks": "Clean, anti-inflammatory Mediterranean cooking! Grilled antibiotic-free chicken breast, turmeric brown rice, roasted sweet potato cubes, and smooth hummus. Zero refined seed oils or artificial additives.",
+  "prepOrOrderInstructions": "Order the Warm Chicken Bowl with brown rice, roasted sweet potatoes, and hummus (hold raw cabbage, raw onions, and spicy tahini).",
+  "watchOuts": [
+    "Hold raw cabbage and pickled onions"
+  ]
+}

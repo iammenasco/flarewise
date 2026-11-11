@@ -1,0 +1,38 @@
+{
+  "id": "freezing-the-night-away-elsas-coronation-sundae",
+  "name": "\"It's Elsa's Coronation Sundae!\" & Olaf's Warm Apple Crumble (Wonder Alaska)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Freezing the Night Away Menu (Alaska Sailings)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "applesauce",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "elsas coronation sundae",
+    "freezing the night away dessert",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Mint/vanilla ice cream sundae with snowflake white chocolate and warm baked apple crumble—both nut-free and citrus-free.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets before enjoying.",
+  "watchOuts": [
+    "Liquid dairy ice cream"
+  ]
+}

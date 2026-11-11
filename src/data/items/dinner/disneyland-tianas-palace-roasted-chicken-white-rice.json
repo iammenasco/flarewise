@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-tianas-palace-roasted-chicken-white-rice",
+  "name": "Disneyland Tiana's Palace Oven-Roasted Half Chicken & Plain Steamed White Rice (Hold Cajun Spice)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Tiana's Palace (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rice",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tianas palace disneyland",
+    "tianas palace chicken and rice",
+    "new orleans square quick service"
+  ],
+  "whyItWorks": "Tiana's Palace slow-roasts tender bone-in chicken and has plain steamed white rice behind the counter (used as the base for gumbos and kids' meals); peeling the spiced chicken skin reveals juicy, flare-safe white meat underneath.",
+  "prepOrOrderInstructions": "Order the Oven-Roasted Chicken (or the Kids' Roasted Chicken & White Rice plate), ask for plain steamed white rice instead of red beans/Carolina spicy rice, and remove the Cajun-seasoned chicken skin before eating.",
+  "watchOuts": [
+    "Always swap out the red beans and spicy rice for plain steamed white rice, and remove the seasoned skin"
+  ]
+}

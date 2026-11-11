@@ -1,0 +1,38 @@
+{
+  "id": "dca-award-wieners-bacon-street-dog-warning",
+  "name": "Bacon Street Dog with Peppers, Onions & Spicy Mayo",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Award Wieners (Disney California Adventure)",
+  "crohnsScore": 3.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "street-dog",
+    "spicy",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "award wieners",
+    "dca",
+    "bacon street dog",
+    "spicy hot dog",
+    "hollywood land"
+  ],
+  "whyItWorks": "Bacon-wrapped beef dog topped with sauteed bell peppers, onions, pickled jalapenos, and spicy chipotle crema. The intense combination of cured pork grease, raw capsicums, and alliums is a notorious Crohn's trigger.",
+  "prepOrOrderInstructions": "Severe Irritant Warning: Avoid street dogs. Stick to a simple plain hot dog on a white bun."
+}

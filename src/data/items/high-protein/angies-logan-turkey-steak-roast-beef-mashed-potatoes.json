@@ -1,0 +1,41 @@
+{
+  "id": "angies-logan-turkey-steak-roast-beef-mashed-potatoes",
+  "name": "Angie's Restaurant (Logan) Grilled Turkey Steak or Roast Turkey Dinner with Mashed Potatoes",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "potato",
+    "high-protein",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "angies turkey steak",
+    "angies roast turkey dinner",
+    "angies logan dinner",
+    "angies mashed potatoes"
+  ],
+  "whyItWorks": "A classic Cache Valley diner staple: tender grilled turkey steak or carved roast turkey with whipped mashed potatoes, dinner roll, and chicken noodle soup.",
+  "prepOrOrderInstructions": "Order the Turkey Steak or Roast Turkey Dinner with mashed potatoes (gravy on the side), a baked dinner roll with honey butter, and a cup of Chicken Noodle Soup instead of tossed salad.",
+  "watchOuts": [
+    "Choose Chicken Noodle Soup over the raw iceberg dinner salad"
+  ]
+}

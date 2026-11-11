@@ -1,0 +1,41 @@
+{
+  "id": "cafe-sabor-logan-garden-city-sizzling-fajitas-skillet",
+  "name": "Café Sabor (Logan & Garden City, UT) Sizzling Chicken & Steak Fajitas (Flour Tortillas)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "chicken",
+    "steak",
+    "fajitas"
+  ],
+  "searchKeywords": [
+    "cafe sabor fajitas",
+    "chicken steak fajitas bear lake",
+    "sizzling fajitas logan"
+  ],
+  "whyItWorks": "Marinated grilled chicken breast and flank steak provide clean, unbreaded protein. Roll the tender meats inside warm flour tortillas with Spanish rice. Leave aside bell peppers and onions.",
+  "prepOrOrderInstructions": "Order the Chicken or Steak Fajitas with flour tortillas and Spanish rice; eat the tender meats and leave the sautéed peppers/onions.",
+  "watchOuts": [
+    "Avoid eating the sautéed onions and peppers if prone to gas or bloating"
+  ]
+}

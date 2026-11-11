@@ -1,0 +1,43 @@
+{
+  "id": "bamboohr-thomas2go-scratch-daily-soup-pumpkin-chicken-noodle",
+  "name": "BambooHR Thomas2Go Café: Scratch Chicken Noodle, Potato, or Curried Pumpkin Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine Café at BambooHR (Lindon / Draper, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "chicken",
+    "noodles",
+    "pumpkin",
+    "smooth",
+    "bamboohr",
+    "thomas2go",
+    "draper",
+    "lindon",
+    "utah"
+  ],
+  "searchKeywords": [
+    "thomas2go soup",
+    "bamboohr soup of the day",
+    "thomas cuisine thai curried pumpkin soup"
+  ],
+  "whyItWorks": "Thomas Cuisine makes scratch bone-broth soups daily—their homestyle Chicken Noodle/Rice and smooth puréed Butternut/Pumpkin soups are gentle office-day staples.",
+  "prepOrOrderInstructions": "Check the daily soup Kettle for Chicken Noodle, Chicken & Rice, Potato Soup, or smooth Pumpkin/Butternut Squash Soup (and skip high-fiber Lentil Dal or Black Bean soup days).",
+  "watchOuts": [
+    "Skip lentil dal, minestrone, or spicy tortilla soup rotations during a flare"
+  ]
+}

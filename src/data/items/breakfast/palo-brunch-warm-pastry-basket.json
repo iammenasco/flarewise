@@ -1,0 +1,47 @@
+{
+  "id": "palo-brunch-warm-pastry-basket",
+  "name": "Palo Brunch Warm Pastry Basket (Mini Cinnamon Rolls, Croissants & Pain au Chocolat)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bakery",
+    "bread",
+    "chocolate",
+    "sweet",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo pastry basket",
+    "palo mini cinnamon roll",
+    "chocolate croissant",
+    "palo bread basket"
+  ],
+  "whyItWorks": "Brought warm to your table at the start of Palo Brunch: soft glazed mini cinnamon rolls, flaky butter croissants, and pain au chocolat made from refined white flour.",
+  "prepOrOrderInstructions": "Enjoy the warm glazed cinnamon roll, plain butter croissant, or chocolate croissant; skip the seeded multigrain bread sticks (grissini) and any almond/nut-crusted Danish.",
+  "watchOuts": [
+    "Butter/milk in laminated pastry dough",
+    "Skip seeded breadsticks in the same basket"
+  ]
+}

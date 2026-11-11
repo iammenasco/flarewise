@@ -1,0 +1,41 @@
+{
+  "id": "zao-asian-cafe-draper-seared-steak-rice-bowl",
+  "name": "Zao Asian Cafe (Draper & South Jordan, UT) Seared Flank Steak & Jasmine Rice Bowl",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Zao Asian Cafe (Draper & South Jordan, UT)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "south-jordan",
+    "beef",
+    "rice",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "zao asian cafe draper",
+    "zao steak bowl",
+    "south jordan rice bowl"
+  ],
+  "whyItWorks": "Tender wok-seared flank steak slices served over fluffy white jasmine rice with steamed carrots. Mild teriyaki glaze adds flavor without chili heat or seeds.",
+  "prepOrOrderInstructions": "Select white jasmine rice base, seared steak, steamed carrots, and mild teriyaki sauce (hold raw cabbage slaw, jalapeños, and chili paste).",
+  "watchOuts": [
+    "Avoid raw cabbage slaw and spicy chili sambal sauces"
+  ]
+}

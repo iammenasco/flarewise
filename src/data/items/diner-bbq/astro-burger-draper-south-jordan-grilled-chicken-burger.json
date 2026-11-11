@@ -1,0 +1,41 @@
+{
+  "id": "astro-burger-draper-south-jordan-grilled-chicken-burger",
+  "name": "Astro Burgers (Draper / South Jordan / Midvale) Charbroiled Chicken Breast on Bun or Plain Cheeseburger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Astro Burgers (Draper / South Jordan, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "burger",
+    "sandwich",
+    "pita",
+    "utah"
+  ],
+  "searchKeywords": [
+    "astro burgers draper",
+    "astro burger south jordan",
+    "charbroiled chicken sandwich draper"
+  ],
+  "whyItWorks": "A local Utah drive-thru institution with locations in both Draper and South Jordan; their charbroiled skinless chicken breast sandwich on a soft sesame-free/lightly-toasted bun or warm Greek pita (no raw onions/tomatoes) is lean and cooked to order.",
+  "prepOrOrderInstructions": "Order the Charbroiled Chicken Breast Sandwich or a Single Cheeseburger with American/Swiss cheese only—ask for no raw onion, no lettuce, no tomato, and fry sauce on the side.",
+  "watchOuts": [
+    "Skip the Pastrami Burger, deep-fried zucchini/mushrooms, and raw Greek salad during sensitive periods"
+  ]
+}

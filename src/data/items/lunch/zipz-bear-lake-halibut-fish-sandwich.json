@@ -1,0 +1,42 @@
+{
+  "id": "zipz-bear-lake-halibut-fish-sandwich",
+  "name": "Zipz (Garden City, UT) Golden Fried Halibut Fish Sandwich (Tartar on Side)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Zipz Bear Lake (Garden City, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "seafood",
+    "fish",
+    "halibut"
+  ],
+  "searchKeywords": [
+    "zipz halibut sandwich",
+    "bear lake fish sandwich",
+    "garden city halibut"
+  ],
+  "whyItWorks": "Pacific halibut is lean, tender, and easily absorbed. Served on a soft bun with tartar sauce on the side for controlled seasoning.",
+  "prepOrOrderInstructions": "Order the Halibut Fish Sandwich with tartar sauce on the side; hold shredded lettuce and pickles upon request.",
+  "watchOuts": [
+    "Peel off crispy fried crust if experiencing active digestive sensitivity"
+  ]
+}

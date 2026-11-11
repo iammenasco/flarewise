@@ -1,0 +1,42 @@
+{
+  "id": "holiday-chilled-shrimp-cocktail-ring",
+  "name": "Holiday Chilled Jumbo Boiled Shrimp Ring (No Lemon / Mild Dip Mod)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Holiday Home Cooking & Costco Deli (Thanksgiving & Christmas)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "seafood",
+    "high-protein",
+    "dairy-free",
+    "gluten-free-option",
+    "holiday",
+    "christmas",
+    "thanksgiving"
+  ],
+  "searchKeywords": [
+    "holiday shrimp cocktail ring",
+    "costco shrimp cocktail platter",
+    "christmas eve shrimp"
+  ],
+  "whyItWorks": "Poached jumbo tail-on shrimp is nearly 100% pure, lean protein with 0g fat and 0g fiber—making it the safest appetizer on any holiday buffet table as long as you skip the lemon wedges and fiery horseradish cocktail sauce.",
+  "prepOrOrderInstructions": "Eat the chilled poached shrimp plain, with a tiny dab of mild ketchup/mayo rose sauce, or melted butter—do NOT squeeze the included lemon wedges and skip the pungent horseradish cocktail sauce.",
+  "watchOuts": [
+    "Discard the included lemon wedges (citrus trigger) and avoid heavy horseradish-chili cocktail sauce"
+  ]
+}

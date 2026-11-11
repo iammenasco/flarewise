@@ -1,0 +1,42 @@
+{
+  "id": "til-we-meet-again-apple-cranberry-pie",
+  "name": "Warm Deep-Dish Apple-Cranberry Pie à la Mode (Wonder & Magic Farewell)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "applesauce",
+    "bakery",
+    "ice-cream",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "deep dish apple cranberry pie",
+    "til we meet again",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Baked peeled apples and pie crust are gentle, though whole tart cranberries have tough skins.",
+  "prepOrOrderInstructions": "Eat the soft baked apple slices, flaky crust, and vanilla ice cream (with Lactaid), pushing whole cranberry skins to the side.",
+  "watchOuts": [
+    "Tough cranberry skins and acidity",
+    "Dairy ice cream"
+  ]
+}

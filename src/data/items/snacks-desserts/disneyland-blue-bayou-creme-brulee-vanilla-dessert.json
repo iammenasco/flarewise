@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-blue-bayou-creme-brulee-vanilla-dessert",
+  "name": "Disneyland Blue Bayou & Cafe Orleans Vanilla Bean Crème Brûlée Tart (Take Lactase)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Blue Bayou & Cafe Orleans (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "eggs",
+    "sweet",
+    "dessert",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "blue bayou creme brulee",
+    "cafe orleans creme brulee disneyland"
+  ],
+  "whyItWorks": "Silky baked egg-and-cream custard with zero nuts, seeds, or fiber; taking a lactase enzyme lets you share a sophisticated New Orleans Square dessert.",
+  "prepOrOrderInstructions": "Take 1–2 lactase enzyme tablets before eating and leave any whole raspberry/blackberry garnish on the plate.",
+  "watchOuts": [
+    "High cream lactose—always use lactase enzymes and skip whole-berry garnishes"
+  ]
+}

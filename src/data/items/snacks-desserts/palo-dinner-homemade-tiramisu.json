@@ -1,0 +1,42 @@
+{
+  "id": "palo-dinner-homemade-tiramisu",
+  "name": "Palo's Homemade Mascarpone Tiramisu",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "coffee",
+    "cheese",
+    "egg",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo homemade tiramisu",
+    "palo tiramisu",
+    "disney cruise"
+  ],
+  "whyItWorks": "Airy mascarpone sabayon and espresso-soaked ladyfinger sponge dusted with cocoa—zero fiber, zero nuts, and zero citrus.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets before enjoying; share if evening espresso caffeine speeds up your gut motility.",
+  "watchOuts": [
+    "Mascarpone cream lactose",
+    "Espresso caffeine"
+  ]
+}

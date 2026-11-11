@@ -1,0 +1,44 @@
+{
+  "id": "dca-gch-craftsman-grill-avocado-toast-salmon-burger-nachos",
+  "name": "Disney's Grand Californian GCH Craftsman Grill Grilled Salmon & Rice, Brioche Burger or Egg Breakfast",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "GCH Craftsman Grill (Disney's Grand Californian Hotel · Steps from DCA)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "chicken",
+    "eggs",
+    "rice",
+    "sourdough",
+    "high-protein",
+    "vacation",
+    "california-adventure",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "gch craftsman grill",
+    "grand californian quick service",
+    "dca quiet lunch break"
+  ],
+  "whyItWorks": "A 2-minute walk out the Grizzly Peak gate of DCA (no hotel stay required!), GCH Craftsman Grill is quiet, shaded, and serves freshly grilled Atlantic Salmon with steamed white rice, sourdough avocado toast, smoked salmon bagels, and plain brioche burgers.",
+  "prepOrOrderInstructions": "Take a midday break from DCA crowds and mobile-order the Grilled Salmon Plate with steamed white rice (no lemon), the American Breakfast (eggs, bacon, potatoes, sourdough toast), or Kids' Grilled Chicken Skewer & Rice.",
+  "watchOuts": [
+    "Skip the giant Loaded Double-Baked Nachos during flares"
+  ]
+}

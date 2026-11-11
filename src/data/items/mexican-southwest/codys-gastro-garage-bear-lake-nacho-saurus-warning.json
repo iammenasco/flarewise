@@ -1,0 +1,43 @@
+{
+  "id": "codys-gastro-garage-bear-lake-nacho-saurus-warning",
+  "name": "Cody's Gastro Garage (Garden City, UT) \"Nacho-Saurus\" Loaded Nachos (High Risk Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cody's Gastro Garage (Garden City / Bear Lake, UT)",
+  "crohnsScore": 4.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 8,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "nachos",
+    "spicy",
+    "chips",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "codys nacho saurus",
+    "loaded nachos bear lake",
+    "giant nachos garden city"
+  ],
+  "whyItWorks": "Loaded with hard fried corn tortilla chips, pickled jalapeño slices, spicy chili, whole beans, and melted cheese sauce. Severe obstruction and irritation hazard.",
+  "prepOrOrderInstructions": "Trigger warning item: absolute avoid during flares and strictures. Choose a flatbread pizza or grilled chicken sandwich instead.",
+  "watchOuts": [
+    "Sharp tortilla chip fragments can scrape inflamed strictures",
+    "Pickled jalapeños cause severe burning"
+  ]
+}

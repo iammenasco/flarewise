@@ -1,0 +1,38 @@
+{
+  "id": "knotts-boardwalk-bbq-sliced-turkey-breast",
+  "name": "Slow-Smoked Sliced Turkey Breast with White Roll",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Boardwalk BBQ (Knott's Berry Farm)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "smoked-turkey",
+    "boardwalk-bbq",
+    "lean-protein"
+  ],
+  "searchKeywords": [
+    "boardwalk bbq",
+    "knotts berry farm",
+    "sliced turkey breast",
+    "smoked turkey",
+    "boardwalk"
+  ],
+  "whyItWorks": "Carved tender smoked turkey breast provides lean, clean protein without greasy skin or spicy rub. Paired with a soft white dinner roll, it offers a gut-friendly meal in the Boardwalk section.",
+  "prepOrOrderInstructions": "Ask for carved lean turkey breast without outer heavy spice crust. Enjoy with a plain white roll and avoid spicy barbecue sauce."
+}

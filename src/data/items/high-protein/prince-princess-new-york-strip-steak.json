@@ -1,0 +1,43 @@
+{
+  "id": "prince-princess-new-york-strip-steak",
+  "name": "Grilled New York Strip Steak with Baked Potato (Prince & Princess Menu)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Prince & Princess Dinner Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "new york strip steak",
+    "prince and princess menu steak",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Grilled-to-order New York strip loin paired with mashed or baked potatoes offers high iron and zero plant roughage.",
+  "prepOrOrderInstructions": "Order medium-rare with salt only (sauce on the side) and trim the outer strip of edge fat before eating.",
+  "watchOuts": [
+    "Trim exterior strip fat cap",
+    "Coarse cracked black pepper if not ordered plain"
+  ]
+}

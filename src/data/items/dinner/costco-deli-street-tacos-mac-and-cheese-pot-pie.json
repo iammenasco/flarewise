@@ -1,0 +1,48 @@
+{
+  "id": "costco-deli-street-tacos-mac-and-cheese-pot-pie",
+  "name": "Costco Deli Prepared Cavatappi Mac & Cheese, Chicken Pot Pie & Meatloaf with Mash",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Costco Fresh Deli (North Logan, Draper, South Jordan & Nationwide)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Costco Deli Meatloaf & Yukon Gold Mashed Potatoes tray",
+    "Costco Deli Mac & Cheese tray"
+  ],
+  "tags": [
+    "beef",
+    "chicken",
+    "pasta",
+    "potato",
+    "cheese",
+    "costco",
+    "logan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco meatloaf mashed potatoes",
+    "costco deli mac and cheese",
+    "costco street tacos",
+    "costco chicken pot pie"
+  ],
+  "whyItWorks": "Costco's take-and-bake Meatloaf with Yukon Gold Mashed Potatoes and Cavatappi Mac & Cheese are soft, zero-seed family trays that reheat effortlessly.",
+  "prepOrOrderInstructions": "Bake the Meatloaf & Mashed Potatoes or Mac & Cheese tray in the oven and pair with a Lactaid; if buying the Chicken Street Tacos kit, warm the chicken in flour tortillas and skip the lime wedges and cabbage slaw.",
+  "watchOuts": [
+    "Skip the raw cabbage slaw, salsa, and lime wedges in the Costco Street Taco kit",
+    "Take a Lactaid for the rich cream/cheese in the Mac & Cheese and Mashed Potatoes"
+  ]
+}

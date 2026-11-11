@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-cafe-daisy-toontown-plain-footlong-hot-dog",
+  "name": "Disneyland Café Daisy (Toontown) Plain All-Beef Footlong Hot Dog & Potato Bites",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Café Daisy (Mickey's Toontown · Disneyland Park)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "potato",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "cafe daisy toontown",
+    "daisys dressed up dog",
+    "mickeys toontown food disneyland"
+  ],
+  "whyItWorks": "Inside Mickey's Toontown, Café Daisy serves an all-beef footlong frankfurter on a soft bun; ordering it plain (instead of \"Dressed-Up\" with chili-mac and pepperoncini) with crispy Toontown potato bites gives you a dairy-free, spice-free lunch.",
+  "prepOrOrderInstructions": "Mobile-order the Plain All-Beef Footlong Hot Dog (NOT Daisy's Dressed-Up Chili-Mac Dog) with plain crispy potato bites (skip the Parmesan-garlic seasoning if sensitive).",
+  "watchOuts": [
+    "Avoid Daisy's Dressed-Up Dog (topped with chili, mac & cheese, and spicy chopped pepperoncini)"
+  ]
+}

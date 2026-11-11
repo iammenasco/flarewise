@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-jolly-holiday-turkey-cheddar-focaccia",
+  "name": "Disneyland Jolly Holiday Smoked Turkey & White Cheddar on Toasted Focaccia",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Disneyland Park)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "turkey",
+    "sandwich",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "jolly holiday turkey sandwich",
+    "turkey focaccia disneyland",
+    "main street bakery sandwich"
+  ],
+  "whyItWorks": "Lean sliced turkey breast and naturally aged white cheddar on soft, herbed olive oil focaccia bread. Digestible, filling, and low in lactose.",
+  "prepOrOrderInstructions": "Order the Turkey & Cheddar sandwich with house potato chips; hold raw sliced tomatoes if sensitive.",
+  "watchOuts": [
+    "Hold tomato slices if acid-sensitive"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "mama-odies-white-chocolate-bread-pudding",
+  "name": "White Chocolate Bread Pudding (Vanilla Sauce)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place / Disney Magic · Rapunzel's Royal Table",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "bread-pudding",
+    "brioche",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tianas-place",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "mama odies white chocolate bread pudding",
+    "bread pudding",
+    "tianas place",
+    "rapunzels royal table",
+    "praline sauce"
+  ],
+  "whyItWorks": "Soft brioche bread soaked in egg custard and baked until pudding-soft requires almost zero digestive grinding.",
+  "prepOrOrderInstructions": "Ask to hold any crunchy almond florentine or whole pecan praline toppings, and enjoy with the smooth vanilla bean or butterscotch/praline sauce (take a Lactaid pill for the cream/ice cream).",
+  "watchOuts": [
+    "Almond florentine / pecan nut garnish",
+    "Dairy cream and ice cream lactose"
+  ]
+}

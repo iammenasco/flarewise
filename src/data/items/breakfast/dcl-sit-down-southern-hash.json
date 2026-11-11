@@ -1,0 +1,46 @@
+{
+  "id": "dcl-sit-down-southern-hash",
+  "name": "Sit-Down Breakfast Southern Hash (Two Eggs, Chorizo, Hash Browns & Jack Cheese)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "pork",
+    "potato",
+    "cheese",
+    "spicy",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "southern hash",
+    "chorizo hash",
+    "sit down breakfast",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Poached/fried eggs and potatoes are great, but spicy chorizo sausage, diced peppers, and green onions can irritate a sensitive morning gut.",
+  "prepOrOrderInstructions": "Skip the Southern Hash during flares and order Two Eggs Any Style with plain turkey sausage and white toast instead.",
+  "watchOuts": [
+    "Spicy chorizo sausage grease and paprika/chili",
+    "Diced bell peppers and raw scallions"
+  ]
+}

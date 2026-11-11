@@ -1,0 +1,42 @@
+{
+  "id": "disneyland-hotel-goofys-kitchen-character-buffet-prime-rib-waffles-pbj-pizza",
+  "name": "Disneyland Hotel Goofy's Kitchen Character Buffet: Carved Prime Rib, Turkey, Mickey Waffles & Smooth PB&J Pizza",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Goofy's Kitchen (Disneyland Hotel · Disneyland Resort)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "turkey",
+    "eggs",
+    "waffles",
+    "peanut-butter",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "goofys kitchen disneyland hotel",
+    "pb&j pizza goofys kitchen",
+    "character buffet disneyland"
+  ],
+  "whyItWorks": "Goofy's Kitchen has a dedicated omelet station, carving station (prime rib, roasted turkey breast, salmon), plain pasta, mashed potatoes, Mickey waffles, and even Goofy's famous creamy Peanut Butter & Seedless Grape Jelly Pizza.",
+  "prepOrOrderInstructions": "Build your plate from the omelet bar (plain eggs or ham & cheddar), carving station, mashed potatoes, bananas, and allergy-friendly Mickey waffles.",
+  "watchOuts": [
+    "Skip raw salad bar items, bacon-wrapped jalapeños, and soft-serve toppings with nuts/seeds"
+  ]
+}

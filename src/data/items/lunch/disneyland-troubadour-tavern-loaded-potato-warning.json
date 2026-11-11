@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-troubadour-tavern-loaded-potato-warning",
+  "name": "Jumbo Loaded Baked Potato with Bacon, Sour Cream & Chives",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Troubadour Tavern (Disneyland)",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "loaded-potato",
+    "fantasyland",
+    "dairy-warning"
+  ],
+  "searchKeywords": [
+    "troubadour tavern",
+    "disneyland",
+    "loaded baked potato",
+    "bacon sour cream",
+    "fantasyland"
+  ],
+  "whyItWorks": "A jumbo russet potato loaded with thick sour cream, melted cheddar, greasy smoked bacon bits, and raw chives. While the potato flesh is gentle, the dairy fat, bacon grease, and alliums trigger cramping in sensitive bowels.",
+  "prepOrOrderInstructions": "Grease & Dairy Warning: Request plain butter and salt instead, skipping sour cream, bacon bits, and chives."
+}

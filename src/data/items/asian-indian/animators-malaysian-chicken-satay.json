@@ -1,0 +1,43 @@
+{
+  "id": "animators-malaysian-chicken-satay",
+  "name": "Malaysian Chicken Satay with Peanut Sauce & Cucumber Salad (Night 2)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "peanut-butter",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "malaysian chicken satay",
+    "peanut sauce",
+    "animation magic",
+    "animators palate"
+  ],
+  "whyItWorks": "Grilled chicken tenders with smooth peanut satay sauce provide lean protein and soluble peanut fats.",
+  "prepOrOrderInstructions": "Ask for the peanut sauce on the side to check spice level (avoid if heavy sambal chili is blended in) and skip the raw cucumber peel salad.",
+  "watchOuts": [
+    "Chili heat in satay sauce",
+    "Crushed peanuts if not blended smooth",
+    "Raw cucumber skins"
+  ]
+}

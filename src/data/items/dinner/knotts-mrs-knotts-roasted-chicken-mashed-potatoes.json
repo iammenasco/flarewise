@@ -1,0 +1,37 @@
+{
+  "id": "knotts-mrs-knotts-roasted-chicken-mashed-potatoes",
+  "name": "Skinless Oven-Roasted Chicken Breast with Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "roasted-chicken",
+    "mashed-potatoes",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "mrs knotts chicken dinner",
+    "roasted chicken",
+    "mashed potatoes",
+    "knotts berry farm"
+  ],
+  "whyItWorks": "While famous for fried chicken, requesting oven-roasted skinless chicken breast paired with peeled, creamy mashed potatoes provides top-quality lean protein and gut-soothing starch with zero heavy frying fat.",
+  "prepOrOrderInstructions": "Specify roasted chicken breast rather than fried chicken. Remove skin and enjoy with peeled mashed potatoes and light chicken gravy."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1923-moroccan-roasted-squash",
+  "name": "Moroccan-Spiced Roasted Kabocha & Butternut Squash with Chickpeas (Night 1)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "butternut-squash",
+    "beans",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "moroccan spiced roasted kabocha",
+    "butternut squash",
+    "1923 vegan",
+    "disney treasure"
+  ],
+  "whyItWorks": "Peeled roasted kabocha and butternut squash flesh is rich in soothing soluble fiber, provided you leave the whole chickpeas and nuts behind.",
+  "prepOrOrderInstructions": "Eat only the soft orange kabocha and butternut squash flesh (leave the skin, whole chickpeas, and any dried fruit/nuts on the plate).",
+  "watchOuts": [
+    "Whole chickpeas (GOS FODMAPs + hulls)",
+    "Warm Moroccan spice blend"
+  ]
+}

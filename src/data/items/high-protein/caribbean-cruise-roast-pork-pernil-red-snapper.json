@@ -1,0 +1,46 @@
+{
+  "id": "caribbean-cruise-roast-pork-pernil-red-snapper",
+  "name": "Caribbean Cruise Slow-Roasted Pork Loin (Pernil) & Grilled Red Snapper with Yucca",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure, Magic & Wonder · Caribbean Cruise Rotational & Cabanas/Marceline",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "pork",
+    "fish",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "dairy-free",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-magic",
+    "disney-wonder"
+  ],
+  "searchKeywords": [
+    "caribbean roast pork pernil",
+    "grilled red snapper",
+    "yucca",
+    "caribbean cruise entree"
+  ],
+  "whyItWorks": "Flaky Caribbean red snapper and tender slow-roasted pork loin paired with starchy boiled yucca (cassava) or white rice.",
+  "prepOrOrderInstructions": "Order the red snapper or center-cut pork loin plain with olive oil and steamed white rice or boiled yucca—requesting no sour-orange/lime mojo marinade.",
+  "watchOuts": [
+    "CITRUS WARNING: Traditional Caribbean pernil and fish marinades use sour orange or lime juice—order plain"
+  ]
+}

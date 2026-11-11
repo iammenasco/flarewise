@@ -1,0 +1,40 @@
+{
+  "id": "cafe-sabor-tortilla-soup-guacamole",
+  "name": "Café Sabor Chicken Tortilla Soup (Broth & Chicken Mod) vs. Chips & Salsa",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Café Sabor (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "chicken",
+    "soup",
+    "avocado",
+    "bear-lake",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cafe sabor tortilla soup",
+    "cafe sabor guacamole",
+    "logan mexican soup"
+  ],
+  "whyItWorks": "Warm shredded chicken, rice, and fresh avocado slices in broth are much gentler than basket chips with raw tomato-jalapeño salsa, though the broth still contains tomato/chili seasoning and a touch of lime.",
+  "prepOrOrderInstructions": "Ask for the Chicken Tortilla Soup with shredded chicken, rice, Jack cheese, and fresh avocado slices, holding the fried tortilla strips and lime wedge.",
+  "watchOuts": [
+    "Contains citrus (lime juice in broth/guacamole) and mild chili seasoning—citrusFree is false"
+  ]
+}

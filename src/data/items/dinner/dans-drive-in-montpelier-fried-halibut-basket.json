@@ -1,0 +1,42 @@
+{
+  "id": "dans-drive-in-montpelier-fried-halibut-basket",
+  "name": "Dan's Drive-In (Montpelier, ID) Golden Fried Halibut & Fresh Home-Cut Fries",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "seafood",
+    "halibut",
+    "fish"
+  ],
+  "searchKeywords": [
+    "dans halibut basket",
+    "montpelier fried halibut",
+    "bear lake fish and chips"
+  ],
+  "whyItWorks": "Pacific halibut is flaky, lean, and very easy on digestion. Paired with Dan's fresh-cut Idaho potatoes and tartar sauce on the side.",
+  "prepOrOrderInstructions": "Order the Halibut Basket with tartar sauce on the side; discard outer fried batter if feeling sensitive.",
+  "watchOuts": [
+    "Peel off outer batter during flareups"
+  ]
+}

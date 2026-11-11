@@ -1,0 +1,39 @@
+{
+  "id": "donalds-cantina-churros",
+  "name": "Donald's Cantina Pool Deck Cinnamon Sugar Churros (Disney Treasure)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Donald's Cantina (Pool Deck)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bakery",
+    "fried",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "donalds-cantina"
+  ],
+  "searchKeywords": [
+    "donalds cantina churros",
+    "pool deck churros",
+    "disney treasure churros"
+  ],
+  "whyItWorks": "Refined wheat choux pastry dusted in cinnamon sugar—seedless, nut-free, and citrus-free.",
+  "prepOrOrderInstructions": "Enjoy warm on the pool deck in remission; blot any excess frying oil with a napkin.",
+  "watchOuts": [
+    "Frying oil and cinnamon sugar load"
+  ]
+}

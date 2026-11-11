@@ -1,0 +1,44 @@
+{
+  "id": "holiday-jellied-cranberry-sauce-strained",
+  "name": "Holiday Canned Jellied Cranberry Sauce (Seedless Strained) vs. Whole-Berry Sauce",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Ocean Spray / Thanksgiving & Christmas Holiday Table",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Ocean Spray Jellied Cranberry Sauce (Canned)"
+  ],
+  "tags": [
+    "fruit",
+    "sweet",
+    "smooth",
+    "gluten-free",
+    "dairy-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "jellied cranberry sauce",
+    "ocean spray cranberry",
+    "thanksgiving cranberry sauce"
+  ],
+  "whyItWorks": "Classic canned Jellied Cranberry Sauce is 100% strained of all tough cranberry skins and seeds, leaving only smooth pectin-rich fruit gel.",
+  "prepOrOrderInstructions": "Always choose the smooth Canned Jellied Cranberry Sauce (the kind with the can ridges!) and skip homemade Whole-Berry Cranberry Sauce (which contains tough skins, seeds, and often orange zest).",
+  "watchOuts": [
+    "Never eat homemade Whole-Berry Cranberry Relish (tough skins + frequent orange peel/zest)"
+  ]
+}

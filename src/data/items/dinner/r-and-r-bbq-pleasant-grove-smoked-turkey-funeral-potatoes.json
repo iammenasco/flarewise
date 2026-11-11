@@ -1,0 +1,41 @@
+{
+  "id": "r-and-r-bbq-pleasant-grove-smoked-turkey-funeral-potatoes",
+  "name": "R&R BBQ (Pleasant Grove & Lehi, UT) Sliced Smoked Turkey Breast & Funeral Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "R&R BBQ (Utah Locations)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "pleasant-grove",
+    "lehi",
+    "turkey",
+    "bbq",
+    "potatoes"
+  ],
+  "searchKeywords": [
+    "r and r bbq pleasant grove",
+    "smoked turkey funeral potatoes",
+    "r and r bbq lehi"
+  ],
+  "whyItWorks": "Juicy, hardwood-smoked turkey breast sliced thick with R&R's famous funeral potatoes (shredded potatoes baked in sour cream and cheddar). Comforting and rich in protein.",
+  "prepOrOrderInstructions": "Order the 1-Meat Plate with Smoked Turkey Breast and funeral potatoes (ask for sweet BBQ sauce on the side and skip raw pickles/onions).",
+  "watchOuts": [
+    "Funeral potatoes contain dairy sour cream and cheddar"
+  ]
+}

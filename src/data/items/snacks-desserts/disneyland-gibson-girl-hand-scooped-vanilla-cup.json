@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-gibson-girl-hand-scooped-vanilla-cup",
+  "name": "Disneyland Gibson Girl Hand-Scooped Vanilla Ice Cream Dish (Seed-Free Sweet)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Gibson Girl Ice Cream Parlor (Disneyland Park)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "ice-cream",
+    "dessert",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "gibson girl ice cream",
+    "disneyland vanilla ice cream",
+    "main street ice cream parlor"
+  ],
+  "whyItWorks": "Single scoop of smooth Dreyer's vanilla ice cream served in a cup. Completely seed-free, nut-free, and refreshing on a warm park afternoon.",
+  "prepOrOrderInstructions": "Order a single scoop of vanilla or chocolate ice cream in a dish (pass on strawberry sundaes with berry seeds).",
+  "watchOuts": [
+    "Contains dairy cream; take lactase enzyme tablet if lactose sensitive"
+  ]
+}

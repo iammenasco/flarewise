@@ -1,0 +1,46 @@
+{
+  "id": "bamboohr-thomas2go-protein-rice-bowl-grilled-chicken-salmon",
+  "name": "BambooHR Thomas2Go Café: Clean-Ingredient Grilled Chicken or Salmon & White Rice / Potato Bowl",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine Café at BambooHR (Lindon / Draper, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salmon",
+    "rice",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "dairy-free",
+    "bamboohr",
+    "thomas2go",
+    "draper",
+    "lindon",
+    "utah"
+  ],
+  "searchKeywords": [
+    "thomas2go bowl",
+    "bamboohr cafe hot line",
+    "thomas cuisine protein bowl",
+    "grilled chicken rice bamboohr"
+  ],
+  "whyItWorks": "At the Thomas2Go hot entrée/bowl station, you can build a clean protein plate with herb-grilled chicken breast or salmon over steamed white rice or roasted potatoes with cooked carrots/squash.",
+  "prepOrOrderInstructions": "Ask the chef at the hot line for plain grilled chicken or salmon over white rice or mashed/roasted potatoes—skipping fibrous quinoa/wheat-berry bases and raw chimichurri/citrus dressings.",
+  "watchOuts": [
+    "Sub white rice or potatoes in place of quinoa, farro, or wheat berries",
+    "Confirm sauces are citrus-free and chili-free"
+  ]
+}

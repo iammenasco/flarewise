@@ -1,0 +1,41 @@
+{
+  "id": "knotts-boardwalk-bbq-rotisserie-chicken-mashed-potatoes",
+  "name": "Knott's Boardwalk BBQ Rotisserie Half Chicken, Smoked Turkey or Pulled Pork with Mashed Potatoes & Cornbread",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Boardwalk BBQ (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "turkey",
+    "pork",
+    "potato",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "boardwalk bbq knotts",
+    "rotisserie chicken boardwalk bbq",
+    "best food knotts berry farm"
+  ],
+  "whyItWorks": "Boardwalk BBQ is arguably the cleanest quick-service kitchen inside Knott's Berry Farm: slow-roasted rotisserie half chicken, smoked turkey breast, or pulled pork served with whipped mashed potatoes and a soft cornbread muffin!",
+  "prepOrOrderInstructions": "Order the **Rotisserie Half Chicken** (remove the seasoned skin) or **Smoked Pulled Pork / Turkey** (no BBQ sauce) with **Mashed Potatoes** and the warm **Cornbread Muffin** (verify no whole corn kernels).",
+  "watchOuts": [
+    "Take a lactase tablet for the mashed potatoes and ask for all BBQ sauces on the side"
+  ]
+}

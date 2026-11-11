@@ -1,0 +1,37 @@
+{
+  "id": "knotts-sutters-funnel-cake-warning",
+  "name": "Knott's Sutter's Funnel Cake & Boysenberry Topping (Deep-Fried & Berry Seed Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sutter's Funnel Cake & Cable Car Kitchen (Knott's Berry Farm)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sweet",
+    "fried",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "knotts funnel cake",
+    "boysenberry funnel cake knotts"
+  ],
+  "whyItWorks": "Reference warning: funnel cake batter is poured directly into hot fryer oil (creating massive surface area that sponges up oil) and topped with whole seeded boysenberries, dairy soft-serve, and sugar.",
+  "prepOrOrderInstructions": "If your group orders a Funnel Cake, tear off just 1–2 small bites of plain powdered-sugar pastry that haven't touched the seeded boysenberry compote.",
+  "watchOuts": [
+    "Very high fryer oil absorption + insoluble boysenberry seeds + dairy lactose"
+  ]
+}

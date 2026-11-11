@@ -1,0 +1,40 @@
+{
+  "id": "the-crepery-logan-sugar-butter-sweet-crepe",
+  "name": "The Crepery (Logan, UT) Warm Butter & Powdered Sugar Sweet Crepe",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "The Crepery (Logan, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "crepes",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "the crepery logan",
+    "sugar butter crepe logan",
+    "crepes logan utah"
+  ],
+  "whyItWorks": "Paper-thin, delicate French crepe folded with sweet cream butter and dusted with powdered sugar. Completely seed-free, nut-free, and practically zero residue.",
+  "prepOrOrderInstructions": "Order the Classic Butter and Sugar crepe; enjoy warm.",
+  "watchOuts": [
+    "None; gentle dessert or breakfast"
+  ]
+}

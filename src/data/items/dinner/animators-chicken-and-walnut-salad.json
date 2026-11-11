@@ -1,0 +1,42 @@
+{
+  "id": "animators-chicken-and-walnut-salad",
+  "name": "Animator's Chicken and Walnut Salad",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salad",
+    "nuts",
+    "greens",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "chicken and walnut salad",
+    "animators palate",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "While the poached chicken strips are lean, candied walnuts, dried cranberries, and raw romaine ribs pose high mechanical scratch risk.",
+  "prepOrOrderInstructions": "Pick out the tender chicken strips only or skip in favor of a warm soup starter.",
+  "watchOuts": [
+    "Sharp walnut pieces",
+    "Dried cranberries and raw lettuce ribs"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-dulce-de-leche-besito",
+  "name": "Porto's Bakery (Buena Park, CA) Dulce de Leche \"Besito\" Butter Shortbread Cookie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "cookies",
+    "dulce-de-leche",
+    "dessert",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos besito cookie",
+    "dulce de leche cookie portos",
+    "buena park bakery cookies"
+  ],
+  "whyItWorks": "Tender, melt-in-your-mouth butter shortbread cookie filled with rich, caramelized dulce de leche and dusted with powdered sugar. Completely seed-free and nut-free.",
+  "prepOrOrderInstructions": "Order a box of Besito cookies for snacking at Knott's Berry Farm.",
+  "watchOuts": [
+    "None; gentle shortbread cookie"
+  ]
+}

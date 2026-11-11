@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-hotel-palm-breeze-bar-burger-chicken-beignets",
+  "name": "Disneyland Hotel Villas Palm Breeze Bar: Grilled Chicken Sandwich, Artisanal Burger & Warm Beignets",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Palm Breeze Bar (The Villas at Disneyland Hotel · Disneyland Resort)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "salmon",
+    "burger",
+    "sandwich",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "palm breeze bar disneyland hotel",
+    "dvc tower disneyland dining"
+  ],
+  "whyItWorks": "Open-air pool restaurant at the new Disneyland Hotel DVC tower serving scratch-made grilled chicken sandwiches, burgers, salmon, and kids' chicken tenders/pasta with easy walk-up seating.",
+  "prepOrOrderInstructions": "Order the Grilled Chicken or Burger plain on a brioche bun with aged cheddar/Swiss and fries.",
+  "watchOuts": [
+    "Ask for spicy aiolis and citrus dressings on the side"
+  ]
+}

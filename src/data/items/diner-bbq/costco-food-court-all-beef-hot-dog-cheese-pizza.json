@@ -1,0 +1,44 @@
+{
+  "id": "costco-food-court-all-beef-hot-dog-cheese-pizza",
+  "name": "Costco Food Court $1.50 Quarter-Pound All-Beef Hot Dog (Plain) & Cheese Pizza Slice",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Costco Food Court (North Logan, Draper, South Jordan & Nationwide)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pizza",
+    "cheese",
+    "bread",
+    "costco",
+    "logan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco hot dog",
+    "costco cheese pizza",
+    "costco food court",
+    "kirkland all beef hot dog"
+  ],
+  "whyItWorks": "The iconic $1.50 Kirkland all-beef hot dog on a soft steamed white bun is zero-fiber and dairy-free when eaten plain without raw chopped onions or relish.",
+  "prepOrOrderInstructions": "For the gentlest option, eat the All-Beef Hot Dog on the white bun with a light line of yellow mustard or ketchup only (no chopped raw onions); if ordering the Cheese Pizza slice, blot top oil and take a Lactaid.",
+  "watchOuts": [
+    "High cheese/grease load on the Costco Cheese Pizza slice",
+    "Skip raw chopped onions and spicy deli mustard at the condiment pump"
+  ]
+}

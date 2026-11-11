@@ -1,0 +1,40 @@
+{
+  "id": "labeaus-garden-city-blt-sandwich-light-mayo",
+  "name": "LaBeau's (Garden City, UT) Classic BLT on Toasted White Bread (Peeled Tomato Mod)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "LaBeau's (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "bacon",
+    "sandwich"
+  ],
+  "searchKeywords": [
+    "labeaus blt",
+    "bear lake blt sandwich",
+    "garden city bacon sandwich"
+  ],
+  "whyItWorks": "A classic summer diner sandwich. Crispy bacon provides salt and flavor without heavy spices. Shredded iceberg lettuce is soft and low-fiber.",
+  "prepOrOrderInstructions": "Order the BLT on toasted white bread with mayo; ask to hold tomato slices if sensitive to acidity.",
+  "watchOuts": [
+    "Tomato skins can occasionally be acidic during flareups"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "knotts-mrs-knotts-chicken-noodle-soup-biscuits",
+  "name": "Mrs. Knott's Homemade Chicken Noodle Soup & Warm Buttermilk Biscuits with Seedless Boysenberry Jelly",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (California Marketplace · Knott's Berry Farm)",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "soup",
+    "noodles",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "mrs knotts chicken noodle soup",
+    "mrs knotts biscuits",
+    "boysenberry jelly knotts"
+  ],
+  "whyItWorks": "Mrs. Knott's scratch-made chicken broth with tender egg noodles and shredded chicken paired with hot buttermilk biscuits and **strained seedless Boysenberry Jelly** (not whole-berry jam) is soothing and free of berry seeds.",
+  "prepOrOrderInstructions": "Order a Bowl of Homemade Chicken Noodle Soup with an order of Warm Buttermilk Biscuits (also sold at the Chicken-To-Go counter next door) and use only the smooth, seedless Boysenberry Jelly.",
+  "watchOuts": [
+    "Use smooth Boysenberry Jelly (strained juice + pectin) rather than whole-berry Boysenberry Preserves (which contain gritty seeds)"
+  ]
+}

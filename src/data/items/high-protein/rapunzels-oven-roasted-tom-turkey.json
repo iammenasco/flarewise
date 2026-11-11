@@ -1,0 +1,42 @@
+{
+  "id": "rapunzels-oven-roasted-tom-turkey",
+  "name": "Oven-Roasted Tom Turkey Breast with Mashed Sweet Potatoes & Gravy (Night 2)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Snuggly Duckling Night 2)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "poultry",
+    "sweet-potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "oven roasted tom turkey",
+    "snuggly duckling turkey",
+    "rapunzels royal table",
+    "disney magic"
+  ],
+  "whyItWorks": "Skinless carved white turkey breast and smooth mashed sweet potatoes are among the safest, highest-protein flare meals on the ship.",
+  "prepOrOrderInstructions": "Eat the carved white turkey breast and mashed sweet potatoes; ask for gravy on the side and skip the whole-berry cranberry relish and green beans.",
+  "watchOuts": [
+    "Whole cranberry skins/seeds in relish",
+    "Green bean fiber"
+  ]
+}

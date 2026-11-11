@@ -1,0 +1,39 @@
+{
+  "id": "holiday-leftover-turkey-white-bread-sliders",
+  "name": "Post-Holiday Roast Turkey & White Bread Sliders with Cranberry Spread",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Home Kitchen Post-Holiday Comfort",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "turkey",
+    "sandwich",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "leftover turkey sandwich",
+    "thanksgiving sliders",
+    "turkey cranberry roll"
+  ],
+  "whyItWorks": "Soft Hawaiian rolls or white bread layered with cold sliced roast turkey breast and a thin spread of smooth, strained cranberry sauce. Seed-free, low-residue, and soothing.",
+  "prepOrOrderInstructions": "Layer cold roast turkey breast onto soft white rolls with light mayo and a thin layer of jellied cranberry sauce.",
+  "watchOuts": [
+    "Use smooth jellied cranberry sauce, not whole berry relish with seeds"
+  ]
+}

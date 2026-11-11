@@ -1,0 +1,41 @@
+{
+  "id": "zipz-dole-whip-mango-pineapple-swirl",
+  "name": "Zipz Dairy-Free Dole Whip Soft-Serve Cup (Bear Lake Raspberry Shake Swap)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Zipz (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "dairy-free",
+    "sweet",
+    "gluten-free",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "zipz dole whip",
+    "bear lake dairy free ice cream",
+    "garden city shake alternative"
+  ],
+  "whyItWorks": "While everyone else gets a seeded, high-lactose Bear Lake raspberry shake, Zipz serves 100% dairy-free, seedless, fat-free Dole Whip soft-serve.",
+  "prepOrOrderInstructions": "Order a plain Dole Whip cup (not swirled with dairy vanilla soft-serve unless taking a Lactaid) for a zero-seed, zero-lactose Bear Lake treat.",
+  "watchOuts": [
+    "Confirm flavor of the day is citrus-free (e.g., pineapple/mango vs lime/orange)"
+  ]
+}

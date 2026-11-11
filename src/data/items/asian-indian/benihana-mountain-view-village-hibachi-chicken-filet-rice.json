@@ -1,0 +1,45 @@
+{
+  "id": "benihana-mountain-view-village-hibachi-chicken-filet-rice",
+  "name": "Benihana (Mountain View Village · Herriman/Riverton) Teppanyaki Hibachi Chicken, Filet Mignon & Steamed Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Benihana (Mountain View Village · Riverton / Herriman / South Jordan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "steak",
+    "shrimp",
+    "rice",
+    "sushi",
+    "high-protein",
+    "herriman",
+    "south-jordan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "benihana mountain view village",
+    "benihana herriman",
+    "benihana south jordan",
+    "hibachi chicken steak"
+  ],
+  "whyItWorks": "Because the Benihana chef cooks your meal right in front of you on the flat-top grill, you can ask for your Hibachi Chicken, Filet Mignon, or Salmon cooked in plain oil with soy sauce and paired with steamed white rice and clear onion/mushroom broth.",
+  "prepOrOrderInstructions": "Ask the teppanyaki chef to cook your Filet Mignon, Chicken, or Shrimp with oil and soy sauce only (no garlic butter and no lemon squeeze), enjoy the clear Benihana soup broth and steamed white rice, and skip the raw salad.",
+  "watchOuts": [
+    "Ask the chef for no lemon squeeze and no garlic butter on your portion"
+  ]
+}

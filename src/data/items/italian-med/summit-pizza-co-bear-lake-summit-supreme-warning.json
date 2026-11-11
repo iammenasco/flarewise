@@ -1,0 +1,44 @@
+{
+  "id": "summit-pizza-co-bear-lake-summit-supreme-warning",
+  "name": "Summit Pizza Co. (Garden City & Logan, UT) \"The Summit Supreme\" (High Trigger Warning)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City & Logan, UT)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "logan",
+    "bear-lake",
+    "pizza",
+    "spicy",
+    "onion",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "summit pizza supreme",
+    "bear lake supreme pizza",
+    "summit pizza garden city"
+  ],
+  "whyItWorks": "Supreme pizzas combine multiple IBD triggers: spicy cured pepperoni, high-fructan onions and green peppers, and greasy sausage. Causes gas, bloating, and cramping.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flareups. Choose plain cheese pizza or mild BBQ chicken pizza instead.",
+  "watchOuts": [
+    "Green bell peppers and onions produce painful gas",
+    "Spicy pepperoni and sausage grease irritate mucosa"
+  ]
+}

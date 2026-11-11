@@ -1,0 +1,42 @@
+{
+  "id": "sabores-logan-lomo-saltado-beef-tenderloin",
+  "name": "Sabores Peruvian Lomo Saltado Beef Tenderloin & White Rice (No Onion/Pepper Mod)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Sabores (Logan, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "rice",
+    "potato",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sabores logan",
+    "lomo saltado logan utah",
+    "sabores beef tenderloin",
+    "cache valley restaurants"
+  ],
+  "whyItWorks": "Sabores' signature Peruvian stir-fry uses ultra-tender strips of beef tenderloin served with steamed white jasmine rice and potato fries—naturally dairy-free and very easy to digest when you leave the red onions and tomatoes behind.",
+  "prepOrOrderInstructions": "Order the Lomo Saltado with steamed white rice, asking to hold the stir-fried red onions, bell peppers, and tomatoes (or push them aside and eat only the beef tenderloin and white rice).",
+  "watchOuts": [
+    "Standard stir-fry includes thick-cut red onions and tomatoes—eat only the beef tenderloin strips and white rice during sensitive periods"
+  ]
+}

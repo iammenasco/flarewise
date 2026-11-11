@@ -1,0 +1,44 @@
+{
+  "id": "duck-in-diner-chicken-lamb-shawarma",
+  "name": "Duck-In Diner / Pool Deck Spit-Roasted Chicken & Lamb Shawarma Pita (Disney Magic)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Magic · Duck-In Diner (Pool Deck)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "bread",
+    "high-protein",
+    "disney-cruise",
+    "disney-magic",
+    "duck-in-diner"
+  ],
+  "searchKeywords": [
+    "chicken shawarma",
+    "lamb shawarma",
+    "duck in diner",
+    "disney magic pool deck"
+  ],
+  "whyItWorks": "Disney Magic's signature poolside exclusive: thinly shaved spit-roasted chicken shawarma wrapped in a warm soft white pita.",
+  "prepOrOrderInstructions": "Order the Chicken Shawarma in a warm pita with meat only (or a light dab of garlic-free tahini/yogurt)—hold the raw red onions, tomatoes, lettuce, and pickles.",
+  "watchOuts": [
+    "Hold raw onions, tomatoes, and pickles inside the pita",
+    "Choose lean chicken shawarma over fattier lamb during flares"
+  ]
+}

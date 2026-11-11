@@ -1,0 +1,40 @@
+{
+  "id": "animators-arugula-beet-orange-salad",
+  "name": "Arugula Leaves with Red Beets & Orange Segments",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 2.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "greens",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "arugula leaves red beets orange",
+    "animators palate salad",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Avoid: contains fresh orange segments and citrus vinaigrette (strict citrus guardrail) alongside fibrous raw arugula.",
+  "prepOrOrderInstructions": "Skip this salad entirely and order the Creamy Butternut Squash Soup or Baked Potato & Cheddar Soup instead.",
+  "watchOuts": [
+    "Fresh orange segments and citrus dressing (strict avoid)",
+    "Raw fibrous arugula stems"
+  ]
+}

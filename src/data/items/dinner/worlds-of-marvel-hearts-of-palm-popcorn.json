@@ -1,0 +1,39 @@
+{
+  "id": "worlds-of-marvel-hearts-of-palm-popcorn",
+  "name": "Hearts of Palm Ceviche with \"Infinity Stone\" Popcorn (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 1.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "corn",
+    "vegan",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "hearts of palm infinity stone popcorn",
+    "worlds of marvel",
+    "disney treasure"
+  ],
+  "whyItWorks": "Hard avoid: topped with colorful popped corn hulls (one of the #1 mechanical Crohn's stricture triggers) and citrus-marinated hearts of palm.",
+  "prepOrOrderInstructions": "Do not order this starter; choose the Steamed Pork Gyoza or Sokovian Potato Soup instead.",
+  "watchOuts": [
+    "Sharp popcorn kernel hulls (strict flare avoid)",
+    "Citrus ceviche marinade"
+  ]
+}

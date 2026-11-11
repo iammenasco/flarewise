@@ -1,0 +1,38 @@
+{
+  "id": "sams-club-cafe-ice-cream-root-beer-float",
+  "name": "Sam's Club Cafe (Logan & Riverdale, UT) Vanilla Soft-Serve Root Beer Float",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Sam's Club (Utah Locations)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "ice-cream",
+    "soda",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "sams club root beer float",
+    "sams cafe float",
+    "barqs root beer float"
+  ],
+  "whyItWorks": "Caffeine-free root beer poured over vanilla soft-serve ice cream. Seedless, citrus-free, and satisfying during warehouse shopping.",
+  "prepOrOrderInstructions": "Order the Root Beer Float; let carbonation settle slightly before drinking to prevent gas bloating.",
+  "watchOuts": [
+    "Carbonation and dairy lactose can cause mild bloating"
+  ]
+}

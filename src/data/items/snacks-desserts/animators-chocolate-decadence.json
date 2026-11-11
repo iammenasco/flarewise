@@ -1,0 +1,39 @@
+{
+  "id": "animators-chocolate-decadence",
+  "name": "Chocolate Decadence Molten Cake / Gateau (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "chocolate decadence",
+    "animation magic chocolate cake",
+    "animators palate"
+  ],
+  "whyItWorks": "Silky flourless/sponge chocolate cake with smooth chocolate mousse—zero nuts, seeds, or citrus.",
+  "prepOrOrderInstructions": "Share a portion on steady nights with a Lactaid pill.",
+  "watchOuts": [
+    "High cocoa butter and dairy cream richness"
+  ]
+}

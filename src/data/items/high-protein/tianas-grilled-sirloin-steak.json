@@ -1,0 +1,43 @@
+{
+  "id": "tianas-grilled-sirloin-steak",
+  "name": "Tiana's Lighter Note Grilled Grain-Fed Sirloin Steak",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "potato",
+    "rice",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "grilled sirloin steak",
+    "lighter note steak",
+    "tianas place",
+    "disney wonder"
+  ],
+  "whyItWorks": "Every main dining room offers a Lighter Note grilled sirloin steak with steamed white rice or baked potato and zero spicy Cajun rub.",
+  "prepOrOrderInstructions": "Order medium-rare to medium for tenderness, seasoned with salt only, paired with a plain baked potato or steamed white rice.",
+  "watchOuts": [
+    "Coarse cracked black pepper if not requested plain",
+    "Chewier connective fibers than tenderloin if overcooked"
+  ]
+}

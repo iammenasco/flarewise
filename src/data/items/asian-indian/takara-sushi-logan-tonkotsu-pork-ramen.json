@@ -1,0 +1,42 @@
+{
+  "id": "takara-sushi-logan-tonkotsu-pork-ramen",
+  "name": "Takara Sushi (Logan, UT) Rich Tonkotsu Pork Chashu Ramen (No Spicy Oil Mod)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "japanese",
+    "ramen",
+    "soup",
+    "pork"
+  ],
+  "searchKeywords": [
+    "takara tonkotsu ramen",
+    "pork ramen logan",
+    "japanese noodle soup cache valley"
+  ],
+  "whyItWorks": "Simmered pork bone broth is rich in gelatin, collagen, and amino acids that support gut barrier integrity. Served over tender wheat ramen noodles and soft braised pork chashu.",
+  "prepOrOrderInstructions": "Order Tonkotsu Ramen with soft-boiled egg and braised chashu pork; ask for no chili oil and hold raw scallions.",
+  "watchOuts": [
+    "Avoid spicy chili oil and ask to hold raw green onions"
+  ]
+}

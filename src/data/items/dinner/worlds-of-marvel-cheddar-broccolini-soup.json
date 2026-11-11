@@ -1,0 +1,40 @@
+{
+  "id": "worlds-of-marvel-cheddar-broccolini-soup",
+  "name": "White Cheddar & Broccolini Soup",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "cheese",
+    "cheddar",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "white cheddar and broccolini soup",
+    "worlds of marvel soup",
+    "quantum encounter",
+    "disney treasure"
+  ],
+  "whyItWorks": "Pureeing cooked broccolini into a rich aged white cheddar soup breaks down the fibrous stalks into a smooth, comforting bowl.",
+  "prepOrOrderInstructions": "Enjoy warm with a soft dinner roll (skip any whole floret garnish if flaring and take a Lactaid enzyme for the cream base).",
+  "watchOuts": [
+    "Cruciferous vegetable gas if sensitive to blended broccoli",
+    "Dairy cream base"
+  ]
+}

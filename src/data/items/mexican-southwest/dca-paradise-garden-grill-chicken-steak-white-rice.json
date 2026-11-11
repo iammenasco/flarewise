@@ -1,0 +1,39 @@
+{
+  "id": "dca-paradise-garden-grill-chicken-steak-white-rice",
+  "name": "DCA Paradise Garden Grill Seasonal Grilled Chicken / Steak Plate with Steamed White Rice & Tortillas (Plain Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Paradise Garden Grill (Paradise Gardens Park · Disney California Adventure)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "paradise garden grill dca",
+    "paradise gardens mexican food",
+    "kids chicken taco dca"
+  ],
+  "whyItWorks": "Paradise Garden Grill rotates seasonal menus (Plaza de la Familia, Lunar New Year, Festival of Holidays) but consistently keeps plain steamed white rice, warm flour/corn tortillas, and grilled chicken or steak on the line (especially on the Kids' menu).",
+  "prepOrOrderInstructions": "Order the Kids' Grilled Chicken or Steak Taco/Skewer Plate with plain steamed white rice—or ask for the adult grilled protein with all mole/chili/citrus sauces on the side and no beans.",
+  "watchOuts": [
+    "Skip Al Pastor (marinated in chili & pineapple) and dark mole sauces (contain nuts, seeds, and chilies)"
+  ]
+}

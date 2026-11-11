@@ -1,0 +1,39 @@
+{
+  "id": "costco-deli-salmon-milano",
+  "name": "Costco Kirkland Deli Fresh Atlantic Salmon Milano (Scrape Off Half Herb Butter)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Costco Wholesale Deli (Logan / Lehi / South Jordan / Sandy, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "high-protein",
+    "omega-3",
+    "gluten-free-option",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco salmon milano",
+    "kirkland pesto butter salmon",
+    "costco take and bake dinner"
+  ],
+  "whyItWorks": "Thick, skinless Atlantic salmon fillets in Costco's take-and-bake deli case are packed with anti-inflammatory omega-3 fatty acids; removing half of the basil pesto butter puck keeps fat and garlic mild while baking up tender in 25 minutes.",
+  "prepOrOrderInstructions": "Before baking at 400°F, remove half or two-thirds of the basil-pesto butter rounds on top of the salmon (or bake the fillets with just olive oil and salt) and serve over white jasmine rice.",
+  "watchOuts": [
+    "The basil pesto butter medalions contain dairy butter and garlic—use only a small slice of the butter during sensitive periods"
+  ]
+}

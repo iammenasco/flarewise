@@ -1,0 +1,39 @@
+{
+  "id": "freezing-the-night-away-andersens-field-greens",
+  "name": "Andersen's Baby Field Greens with Apricots, Walnuts & Lingonberry (Wonder Alaska)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Freezing the Night Away Menu (Alaska Sailings)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salad",
+    "nuts",
+    "greens",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "andersens baby field greens",
+    "freezing the night away salad",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Raw field greens, candied walnuts, and dried apricots (sorbitol) pose mechanical and FODMAP triggers.",
+  "prepOrOrderInstructions": "Skip raw salads during flares and order Sven's Creamy Carrot Soup instead.",
+  "watchOuts": [
+    "Sharp candied walnuts",
+    "Dried apricot sorbitol and raw greens"
+  ]
+}

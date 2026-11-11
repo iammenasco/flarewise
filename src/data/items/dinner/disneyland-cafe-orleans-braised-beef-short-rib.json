@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-cafe-orleans-braised-beef-short-rib",
+  "name": "Braised Tender Beef Short Rib with Creamy Polenta",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cafe Orleans (Disneyland)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "short-rib",
+    "beef",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "cafe orleans",
+    "disneyland",
+    "braised short rib",
+    "polenta",
+    "new orleans square"
+  ],
+  "whyItWorks": "Slow braising breaks beef short rib connective fibers until it falls apart on the fork without effort. The smooth polenta provides gentle starch without skin or seeds.",
+  "prepOrOrderInstructions": "Trim any visible ribbon of soft fat from the meat before eating. Ask for polenta made with light butter if lactose sensitive."
+}

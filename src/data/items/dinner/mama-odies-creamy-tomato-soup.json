@@ -1,0 +1,42 @@
+{
+  "id": "mama-odies-creamy-tomato-soup",
+  "name": "Mama Odie's Creamy Tomato Soup",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "tomato",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "mama odies tomato soup",
+    "creamy tomato soup",
+    "tianas place",
+    "disney wonder"
+  ],
+  "whyItWorks": "Blended completely smooth with cream so there are zero tomato skins or seeds, though tomato acidity makes it best suited for steady/remission days.",
+  "prepOrOrderInstructions": "Order only when stomach/duodenal ulcers are quiet; dip soft white dinner rolls and take a Lactaid enzyme for the cream base.",
+  "flareEmergencySwap": "Ask your server for plain chicken broth or the smooth potato/butternut soup from a neighboring kitchen instead.",
+  "watchOuts": [
+    "Tomato acidity on active ulcers",
+    "Heavy dairy cream"
+  ]
+}

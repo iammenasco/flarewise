@@ -1,0 +1,42 @@
+{
+  "id": "zipz-bear-lake-muenster-burger",
+  "name": "Zipz Bear Lake Muenster Burger (Hold Jalapeño Jelly)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Zipz (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "zipz bear lake",
+    "muenster burger",
+    "garden city burger",
+    "zipz drive thru"
+  ],
+  "whyItWorks": "Hand-formed beef patty topped with melted Muenster cheese (naturally very low in lactose) on a soft bun—safe once you hold the signature jalapeño jelly.",
+  "prepOrOrderInstructions": "Order the Bear Lake Muenster Burger with meat, Muenster cheese, and bun only—strictly hold the spicy jalapeño jelly and raw onions.",
+  "watchOuts": [
+    "Must hold the jalapeño jelly (capsaicin and seeds)"
+  ]
+}

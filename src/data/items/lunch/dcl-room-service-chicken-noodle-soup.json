@@ -1,0 +1,47 @@
+{
+  "id": "dcl-room-service-chicken-noodle-soup",
+  "name": "24-Hour Room Service Clear Chicken Noodle Soup with Sourdough Roll",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "chicken",
+    "pasta",
+    "sourdough",
+    "broth",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "room service chicken noodle soup",
+    "chicken soup",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Clear hydrating chicken broth with pulled white chicken, soft egg noodles, cooked carrots, and a sourdough baguette roll—the #1 24-hour flare rescue on the ship.",
+  "prepOrOrderInstructions": "Order anytime day or night via stateroom phone; sip the warm broth, egg noodles, and chicken with the sourdough roll.",
+  "watchOuts": [
+    "Leave any fibrous celery pieces at the bottom of the bowl if mid-flare"
+  ]
+}

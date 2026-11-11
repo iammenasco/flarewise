@@ -1,0 +1,41 @@
+{
+  "id": "cafe-sabor-logan-garden-city-table-guacamole",
+  "name": "Café Sabor (Logan & Garden City, UT) Fresh Table Guacamole (Hold Jalapeño Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "avocado",
+    "guacamole"
+  ],
+  "searchKeywords": [
+    "cafe sabor guacamole",
+    "fresh guacamole bear lake",
+    "table guacamole logan"
+  ],
+  "whyItWorks": "Ripe mashed Haas avocado delivers soothing potassium and healthy monounsaturated fat. Asking for no diced raw jalapeños eliminates intestinal mucosal heat.",
+  "prepOrOrderInstructions": "Order Fresh Table Guacamole without jalapeños and light onion; enjoy with soft warm flour tortillas rather than hard corn chips.",
+  "watchOuts": [
+    "Pair with soft flour tortillas instead of sharp corn chips"
+  ]
+}

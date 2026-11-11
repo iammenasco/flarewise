@@ -1,0 +1,41 @@
+{
+  "id": "knotts-miners-mac-and-spuds-baked-potato",
+  "name": "Knott's Miner's Mac & Spuds Giant Baked Idaho Potato with Butter, Cheddar & Grilled Chicken/Pulled Pork",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Miner's Mac & Spuds (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "chicken",
+    "pork",
+    "cheese",
+    "gluten-free-option",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "miners mac and spuds knotts",
+    "giant baked potato knotts berry farm",
+    "ghostrider baked potato"
+  ],
+  "whyItWorks": "Right across from GhostRider, Miner's Mac & Spuds bakes massive fluffy Idaho Russet potatoes—ordering yours topped simply with butter, shredded cheddar, and diced chicken or pulled pork (no sauce/slaw) is one of the best gluten-free meals in the park.",
+  "prepOrOrderInstructions": "Ask for a Giant Baked Potato topped ONLY with butter, shredded cheddar cheese, and plain diced chicken or pulled pork—hold the green onions, sour cream, chili, broccoli stems, and crispy fried onion strings, and eat the soft potato flesh.",
+  "watchOuts": [
+    "Leave the fibrous outer potato skin behind, and avoid the Chili & Fritos potato"
+  ]
+}

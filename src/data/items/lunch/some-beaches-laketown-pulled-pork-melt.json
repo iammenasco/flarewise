@@ -1,0 +1,37 @@
+{
+  "id": "some-beaches-laketown-pulled-pork-melt",
+  "name": "Tender Pulled Pork Melt on Grilled Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Some Beaches (Laketown, UT)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bear-lake",
+    "laketown",
+    "pulled-pork",
+    "sourdough"
+  ],
+  "searchKeywords": [
+    "some beaches laketown",
+    "pulled pork melt",
+    "sourdough sandwich",
+    "bear lake"
+  ],
+  "whyItWorks": "Slow-roasted pulled pork is very tender and easy to chew, and naturally fermented sourdough bread is gentle on gut microbiota. Melted mild cheese adds rich taste, though barbecue sauce may contain onion powder and spices that require moderate digestion.",
+  "prepOrOrderInstructions": "Request light sweet BBQ sauce rather than spicy sauce, and ask for it lightly toasted on sourdough."
+}

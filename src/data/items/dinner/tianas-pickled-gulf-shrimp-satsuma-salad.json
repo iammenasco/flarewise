@@ -1,0 +1,41 @@
+{
+  "id": "tianas-pickled-gulf-shrimp-satsuma-salad",
+  "name": "Pickled Gulf Shrimp with Satsuma Orange Salad",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "salad",
+    "greens",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "pickled gulf shrimp",
+    "satsuma orange salad",
+    "tianas place",
+    "disney wonder"
+  ],
+  "whyItWorks": "Hard avoid under the strict citrus guardrail: pickled in citrus-vinegar brine and served directly with Satsuma orange segments and raw greens.",
+  "prepOrOrderInstructions": "Skip this starter due to the Satsuma citrus segments and acidic pickling liquid; order the Sautéed Gulf Shrimp and Grits (sauce on side) instead.",
+  "watchOuts": [
+    "Satsuma orange citrus segments",
+    "Acidic pickling vinegar",
+    "Raw salad greens"
+  ]
+}

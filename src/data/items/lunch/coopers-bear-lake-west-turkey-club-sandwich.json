@@ -1,0 +1,40 @@
+{
+  "id": "coopers-bear-lake-west-turkey-club-sandwich",
+  "name": "Cooper's Restaurant (Fish Haven, ID) Sliced Roast Turkey Club on Toasted Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Fish Haven / Bear Lake West, ID)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "fish-haven",
+    "bear-lake",
+    "turkey",
+    "sandwich",
+    "sourdough"
+  ],
+  "searchKeywords": [
+    "coopers turkey club",
+    "fish haven club sandwich",
+    "bear lake sourdough sandwich"
+  ],
+  "whyItWorks": "Lean sliced turkey breast and crisp bacon on toasted sourdough with light mayo. Sourdough bread is gentle on digestion and low in FODMAPs.",
+  "prepOrOrderInstructions": "Order the Turkey Club on toasted sourdough with mayo; hold raw tomato slices if sensitive.",
+  "watchOuts": [
+    "None; clean lean poultry club"
+  ]
+}

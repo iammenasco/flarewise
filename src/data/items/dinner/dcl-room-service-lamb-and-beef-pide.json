@@ -1,0 +1,45 @@
+{
+  "id": "dcl-room-service-lamb-and-beef-pide",
+  "name": "24-Hour Room Service Baked Lamb & Beef Pide Flatbread",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "bread",
+    "pizza",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "lamb and beef pide",
+    "room service flatbread",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Turkish-style boat flatbread baked with spiced ground lamb and beef, diced bell peppers, and tomatoes.",
+  "prepOrOrderInstructions": "Skip during flares due to rendered lamb fat, bell pepper skins, and warm spices; order the plain Cheese Pizza or Turkey Sandwich instead.",
+  "watchOuts": [
+    "Rendered ground lamb fat",
+    "Diced bell pepper and tomato skins"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cafe-sabor-mango-shrimp-seafood-tacos",
+  "name": "Café Sabor Grilled Shrimp or Fish Soft Tacos (No Lime/Pico Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "fish",
+    "seafood",
+    "bear-lake",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cafe sabor mango shrimp tacos",
+    "cafe sabor fish tacos",
+    "garden city seafood tacos",
+    "logan cafe sabor"
+  ],
+  "whyItWorks": "Grilled shrimp or flaky white fish on soft flour tortillas with white rice is lean and easy to digest when ordered plain without raw cabbage slaw, spicy chipotle crema, or lime juice.",
+  "prepOrOrderInstructions": "Order the Grilled Shrimp or Fish Tacos on soft flour tortillas with plain seasoning (no blackened spice), no raw cabbage slaw, no pico de gallo, and no lime wedges; pair with white rice.",
+  "watchOuts": [
+    "Standard preparation includes raw cabbage slaw, mango pico de gallo (raw onion/jalapeño/lime), and citrus—must request plain grilled fish/shrimp"
+  ]
+}

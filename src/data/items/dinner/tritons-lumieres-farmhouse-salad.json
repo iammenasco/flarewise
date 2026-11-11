@@ -1,0 +1,45 @@
+{
+  "id": "tritons-lumieres-farmhouse-salad",
+  "name": "Farmhouse Salad with Baby Spinach, Fingerling Potato & Goat Cheese Crostini",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salad",
+    "greens",
+    "potato",
+    "cheese",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "farmhouse salad",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Raw baby spinach, raw cherry tomato skins, and asparagus stalks provide too much insoluble fiber for an active or sensitive gut.",
+  "prepOrOrderInstructions": "Eat only the warm fingerling potatoes and goat cheese crostini, or swap for the smooth Potage Parmentier potato soup.",
+  "watchOuts": [
+    "Raw spinach leaves and cherry tomato skins",
+    "Acidic vinaigrette"
+  ]
+}

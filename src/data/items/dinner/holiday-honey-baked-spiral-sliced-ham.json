@@ -1,0 +1,40 @@
+{
+  "id": "holiday-honey-baked-spiral-sliced-ham",
+  "name": "Holiday Honey-Glazed Spiral Cut Ham (Tender Lean Slices)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "pork",
+    "ham",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "honey baked ham",
+    "spiral sliced ham holiday",
+    "christmas ham thanksgiving dinner"
+  ],
+  "whyItWorks": "Spiral-cut ham is pre-cooked, tender, and provides pure lean animal protein. The caramelized brown sugar glaze is seed-free and easy to digest.",
+  "prepOrOrderInstructions": "Carve lean slices from the bone, trimming any visible exterior ribbon of fat. Enjoy warm with soft white dinner rolls.",
+  "watchOuts": [
+    "Ham has cured sodium; drink plenty of water"
+  ]
+}

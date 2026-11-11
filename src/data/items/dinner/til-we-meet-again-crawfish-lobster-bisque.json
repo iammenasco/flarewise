@@ -1,0 +1,40 @@
+{
+  "id": "til-we-meet-again-crawfish-lobster-bisque",
+  "name": "Crawfish & Lobster Bisque with Roasted Corn-Chili Relish ('Til We Meet Again)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "seafood",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "crawfish and lobster bisque",
+    "til we meet again soup",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "The strained lobster and crawfish bisque base is completely smooth; only the central garnish of corn-chili relish is rough.",
+  "prepOrOrderInstructions": "Ask your server to serve the Crawfish & Lobster Bisque plain without the roasted corn-chili relish garnish, and take a Lactaid.",
+  "watchOuts": [
+    "Whole corn kernels and chili in the relish garnish (order without garnish)",
+    "Heavy cream"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "takara-sushi-logan-protein-roll",
+  "name": "Takara Sushi (Logan) \"Protein Roll\" in Soy Paper (Salmon, Albacore, Crab & Avocado)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sushi",
+    "salmon",
+    "tuna",
+    "crab",
+    "avocado",
+    "soy-paper",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "takara sushi logan",
+    "protein roll takara",
+    "soy paper sushi logan",
+    "logan sushi"
+  ],
+  "whyItWorks": "Takara's signature Protein Roll wraps crab meat, albacore tuna, salmon, shrimp tempura, and avocado in soft soy paper instead of fibrous seaweed nori.",
+  "prepOrOrderInstructions": "Order the Protein Roll in soy paper (ask for light or no tempura shrimp inside if avoiding fried items, and request eel sauce instead of spicy mayo).",
+  "watchOuts": [
+    "Ask to hold spicy mayo or ponzu sauce if drizzled on top"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-plaza-inn-famous-fried-chicken-dinner",
+  "name": "Disneyland Plaza Inn World-Famous Fried Chicken Dinner (3-Piece Platter)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Plaza Inn (Disneyland Park)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "chicken",
+    "comfort-food",
+    "mashed-potatoes"
+  ],
+  "searchKeywords": [
+    "plaza inn fried chicken",
+    "disneyland famous fried chicken",
+    "plaza inn chicken platter"
+  ],
+  "whyItWorks": "Disneyland's most famous dinner! Three pieces of golden herb-seasoned fried chicken with smooth mashed potatoes, brown poultry gravy, and a soft dinner roll. High in bioavailable protein.",
+  "prepOrOrderInstructions": "Order the Fried Chicken Dinner with mashed potatoes and gravy; peel off part of the crispy skin if feeling digestive sensitivity.",
+  "watchOuts": [
+    "Peel away seasoned fried skin during active symptoms"
+  ]
+}

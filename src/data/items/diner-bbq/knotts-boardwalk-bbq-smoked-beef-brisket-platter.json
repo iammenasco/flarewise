@@ -1,0 +1,40 @@
+{
+  "id": "knotts-boardwalk-bbq-smoked-beef-brisket-platter",
+  "name": "Knott's Boardwalk BBQ Smoked Beef Brisket Platter with White Bread",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Boardwalk BBQ (Knott's Berry Farm)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "beef",
+    "brisket",
+    "bbq",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "boardwalk bbq brisket",
+    "knotts berry farm brisket",
+    "smoked beef brisket knotts"
+  ],
+  "whyItWorks": "Tender, hickory-smoked beef brisket sliced thick and served with soft white bread and mild barbecue sauce. Pure unbreaded beef with broken-down muscle collagen.",
+  "prepOrOrderInstructions": "Order the Beef Brisket platter with white bread and mashed potatoes or mac & cheese; ask for sweet mild BBQ sauce on the side.",
+  "watchOuts": [
+    "Trim visible edge fat if fat-sensitive"
+  ]
+}

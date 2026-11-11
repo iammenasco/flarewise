@@ -1,0 +1,44 @@
+{
+  "id": "cafe-sabor-chino-latino-eggrolls-queso",
+  "name": "Café Sabor \"Chino Latino\" Eggrolls & Spinach Artichoke / Queso Dip (Avoid)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beans",
+    "corn",
+    "fried",
+    "mexican",
+    "bear-lake",
+    "garden-city",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "chino latino eggrolls",
+    "cafe sabor eggrolls",
+    "cafe sabor queso"
+  ],
+  "whyItWorks": "Signature Café Sabor starter, but stuffed with whole black beans, whole corn kernels, and spinach inside a deep-fried wrapper.",
+  "prepOrOrderInstructions": "Skip the Chino Latino Eggrolls and fried corn tortilla chips during flares; ask for soft warm flour tortillas with plain guacamole instead.",
+  "watchOuts": [
+    "Whole black beans and corn kernels inside a deep-fried wrapper",
+    "Abrasive fried corn tortilla chips"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "castaway-cay-banana-bread-soft-serve-fruit",
+  "name": "Castaway Cay Banana Bread, Chocolate Chip Cookie Dough Soft-Serve & Melon Bar",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Castaway Cay · Cookie's BBQ, Cookie's Too & Serenity Bay",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "bakery",
+    "ice-cream",
+    "melon",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "castaway-cay"
+  ],
+  "searchKeywords": [
+    "castaway cay banana bread",
+    "cookie dough soft serve",
+    "castaway cay fruit",
+    "cookies bbq dessert"
+  ],
+  "whyItWorks": "Moist nut-free island banana bread, fresh cantaloupe/honeydew/watermelon, and soft-serve ice cream are Castaway Cay staples.",
+  "prepOrOrderInstructions": "Grab slices of the famous Castaway Cay Banana Bread, fresh cut melon/bananas (skip pineapple and oranges), and enjoy soft-serve with a Lactaid.",
+  "watchOuts": [
+    "Skip fibrous pineapple upside-down cake and orange wedges",
+    "Soft-serve lactose"
+  ]
+}

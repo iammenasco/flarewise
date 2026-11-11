@@ -1,0 +1,43 @@
+{
+  "id": "pirate-night-bounty-fruit-cobbler",
+  "name": "Warm Bounty Peach & Berry Fruit Cobbler with Vanilla Ice Cream (Pirate Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "bakery",
+    "berries",
+    "ice-cream",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "bounty fruit cobbler",
+    "pirate night cobbler",
+    "disney cruise"
+  ],
+  "whyItWorks": "Warm biscuit crumble and baked peaches are soft, though mixed blackberries/raspberries in the cobbler add tiny seeds.",
+  "prepOrOrderInstructions": "Eat the warm biscuit crumble, vanilla ice cream, and baked peach slices while avoiding seeded blackberries.",
+  "watchOuts": [
+    "Blackberry/raspberry seeds mixed into cobbler fruit",
+    "Dairy ice cream"
+  ]
+}

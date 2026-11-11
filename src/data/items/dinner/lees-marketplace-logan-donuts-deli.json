@@ -1,0 +1,43 @@
+{
+  "id": "lees-marketplace-logan-donuts-deli",
+  "name": "Lee's Marketplace Deli Rotisserie Chicken, Mashed Potatoes & Famous Glazed Donut",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Lee's Marketplace (Logan / North Logan / Smithfield, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "high-protein",
+    "budget-friendly",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "lees marketplace logan",
+    "lees donuts logan",
+    "lees deli rotisserie chicken",
+    "cache valley grocery deli"
+  ],
+  "whyItWorks": "Lee's Marketplace hot deli offers plain herb-roasted rotisserie chicken and whipped mashed potatoes or Hawaiian rolls for an easy grocery meal, plus their famous airy glazed potato donuts in remission.",
+  "prepOrOrderInstructions": "Grab a hot Plain or Traditional Rotisserie Chicken (remove the skin) and soft rolls from Lee's deli counter.",
+  "watchOuts": [
+    "Remove seasoned chicken skin; save Lee's fried glazed donuts for remission and pair with protein"
+  ]
+}

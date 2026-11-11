@@ -1,0 +1,48 @@
+{
+  "id": "dcl-rotational-lighter-note-chicken-salmon-steak",
+  "name": "Main Dining \"Lighter Note\" Chicken, Salmon, or Sirloin",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · All Main Dining Rooms",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salmon",
+    "beef",
+    "rice-base",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "flare-recovery",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "lighter note",
+    "slow roasted breast of chicken",
+    "oven baked filet of salmon",
+    "grilled sirloin steak",
+    "rotational dining hack",
+    "disney cruise"
+  ],
+  "whyItWorks": "Printed at the bottom of EVERY main dining menu across Wonder, Magic, and Treasure: plain slow-roasted chicken breast, oven-baked salmon filet, or grilled sirloin with steamed white rice or baked potato.",
+  "prepOrOrderInstructions": "Your ultimate flare safety net on any night in any restaurant: order the Lighter Note Oven-Baked Salmon or Roasted Chicken Breast with steamed white rice or a peeled baked potato (scoop out the inside).",
+  "watchOuts": [
+    "Skip the skin on the baked potato",
+    "Ask for steamed carrots or skip the mixed garden vegetables if flaring"
+  ]
+}

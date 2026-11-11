@@ -1,0 +1,37 @@
+{
+  "id": "dans-drive-in-montpelier-corn-dog-warning",
+  "name": "Classic Deep-Fried Corn Dog on a Stick",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "bear-lake",
+    "montpelier",
+    "fried-food",
+    "snack"
+  ],
+  "searchKeywords": [
+    "dans drive in",
+    "corn dog",
+    "deep fried hot dog",
+    "montpelier idaho"
+  ],
+  "whyItWorks": "The dense cornmeal batter absorbs deep fryer grease and contains coarse cornmeal granules that resist complete digestion, while the cured hot dog core delivers nitrates and saturated fat that can spark gut spasms.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid during flares or active inflammation. Opt for a plain grilled chicken breast or hot ham sandwich instead."
+}

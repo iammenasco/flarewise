@@ -1,0 +1,46 @@
+{
+  "id": "cabanas-marceline-kids-corner-mac-and-tenders",
+  "name": "Buffet Mac & Cheese, Plain Pasta & Chicken Tenders",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "chicken",
+    "comfort-food",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "cabanas mac and cheese",
+    "marceline market kids station",
+    "chicken tenders",
+    "plain pasta",
+    "disney cruise"
+  ],
+  "whyItWorks": "The kids' buffet station always stocks ultra-mild white-flour mac & cheese, plain penne pasta (with butter/parmesan nearby), and golden chicken breast tenders with zero spice.",
+  "prepOrOrderInstructions": "Grab plain pasta with butter/parmesan or smooth mac & cheese from the kids' counter, plus steamed white rice and ripe cantaloupe/honeydew melon from the fruit station.",
+  "watchOuts": [
+    "Dairy milk in mac & cheese sauce if lactose sensitive",
+    "Fryer oil on chicken tenders during an active flare"
+  ]
+}

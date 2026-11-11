@@ -1,0 +1,43 @@
+{
+  "id": "angies-restaurant-logan-navajo-taco-warning",
+  "name": "Angie's Restaurant (Logan, UT) Famous Navajo Taco on Utah Scone (High Risk Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 4.7,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 8.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "scone",
+    "chili",
+    "beans",
+    "fried",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "angies navajo taco",
+    "utah scone navajo taco",
+    "angies restaurant chili scone"
+  ],
+  "whyItWorks": "A Utah diner icon, but a minefield for IBD! Deep-fried oily dough smothered in chili loaded with whole bean skins, onion, and chili powder.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active disease and strictures. Opt for an open-face turkey sandwich or plain Utah scone with honey butter.",
+  "watchOuts": [
+    "Whole bean skins and chili spices cause severe gas and intestinal cramping",
+    "Deep-fried dough carries heavy grease"
+  ]
+}

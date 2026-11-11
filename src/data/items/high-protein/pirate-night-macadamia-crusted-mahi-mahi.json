@@ -1,0 +1,43 @@
+{
+  "id": "pirate-night-macadamia-crusted-mahi-mahi",
+  "name": "Pan-Seared Macadamia-Crusted Mahi-Mahi with Coconut Rice (Pirate Night)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "nuts",
+    "rice",
+    "coconut",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "macadamia crusted mahi mahi",
+    "pirate night mahi mahi",
+    "disney cruise"
+  ],
+  "whyItWorks": "The flaky white mahi-mahi and jasmine/coconut rice are 9/10 flare-safe, but the crushed macadamia nut crust is mechanically abrasive.",
+  "prepOrOrderInstructions": "Ask your server for the Mahi-Mahi pan-seared plain without the macadamia nut crust (or scrape the nut crust off completely) over coconut/white rice.",
+  "watchOuts": [
+    "Chopped macadamia nut crust (order naked/plain)"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gourmandise-draper-croissant-french-toast-grilled-cheese",
+  "name": "Gourmandise the Euro Bakery (Draper) Butter Croissant, Brioche French Toast or Brie Grilled Cheese",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Gourmandise the Euro Bakery & Café (Draper, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "cheese",
+    "pork",
+    "sourdough",
+    "utah"
+  ],
+  "searchKeywords": [
+    "gourmandise draper",
+    "euro bakery draper breakfast",
+    "towneplace suites draper restaurants",
+    "gourmandise croissant"
+  ],
+  "whyItWorks": "Right near TownePlace Suites Draper, Gourmandise bakes authentic European butter croissants, Crème Brûlée Brioche French Toast, Ham & Swiss Croissants, and Gourmet Grilled Cheese using finely milled, long-fermented flours with zero roughage.",
+  "prepOrOrderInstructions": "For breakfast, order the Ham & Swiss Croissant, Plain Butter Croissant with scrambled eggs, or Brioche French Toast (berries on the side); for lunch, try the Turkey Havarti Croissant or Grilled Cheese without onion jam.",
+  "watchOuts": [
+    "Contains European butter and cream—take lactase enzymes; skip lemon tarts (citrus trigger) and seeded raspberry Napoleons"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "angies-logan-all-day-breakfast-scramble-pancakes",
+  "name": "Angie's Restaurant (Logan) All-Day Diced Ham & Egg Scramble, Sourdough Toast & Pancakes",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "ham",
+    "pancakes",
+    "sourdough",
+    "breakfast",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "angies scramble",
+    "angies breakfast logan",
+    "double barrel breakfast angies",
+    "angies pancakes"
+  ],
+  "whyItWorks": "Served all day on Main Street: fluffy scrambled eggs with diced lean ham, cheddar cheese, and buttermilk pancakes or toasted sourdough bread.",
+  "prepOrOrderInstructions": "Order Angie's Scramble (eggs, diced ham, and cheddar only—no onions, peppers, or salsa) with sourdough toast or pancakes instead of greasy hash browns.",
+  "watchOuts": [
+    "Avoid the Santa Fe Scramble (peppers, onions, and salsa)",
+    "Take a Lactaid for buttermilk pancakes"
+  ]
+}

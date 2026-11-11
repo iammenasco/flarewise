@@ -1,0 +1,37 @@
+{
+  "id": "dca-smokejumpers-grilled-chicken-brioche",
+  "name": "Flame-Broiled Grilled Chicken Breast on Soft Brioche",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Smokejumpers Grill (Disney California Adventure)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "grilled-chicken",
+    "grizzly-peak"
+  ],
+  "searchKeywords": [
+    "smokejumpers grill",
+    "dca",
+    "grilled chicken sandwich",
+    "grizzly peak",
+    "chicken breast"
+  ],
+  "whyItWorks": "Flame-broiled marinated chicken breast served on a soft plain bun provides clean, lean protein without batter, grease, or heavy cheese, making it one of DCA's most reliable dining choices.",
+  "prepOrOrderInstructions": "Order the chicken sandwich plain with no sauce. Skip the toppings bar (lettuce, tomato, raw onions, pickles) and choose sliced apples instead of waffle fries."
+}

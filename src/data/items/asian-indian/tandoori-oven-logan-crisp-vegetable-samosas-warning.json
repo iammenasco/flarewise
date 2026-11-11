@@ -1,0 +1,44 @@
+{
+  "id": "tandoori-oven-logan-crisp-vegetable-samosas-warning",
+  "name": "Tandoori Oven (Logan, UT) Crisp Vegetable Samosas (Fried Spiced Potato Warning)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "indian",
+    "samosa",
+    "fried",
+    "spicy",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "tandoori oven samosas",
+    "vegetable samosas logan",
+    "indian samosas cache valley"
+  ],
+  "whyItWorks": "Green pea skins, whole cumin/coriander seeds, green chilies, and deep-fried pastry create high bloating and burning risks.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active disease. Order plain naan or basmati rice as your carbohydrate source instead.",
+  "watchOuts": [
+    "Whole green peas, seeds, and chili spices irritate inflamed intestines",
+    "Deep-fried pastry is high in grease"
+  ]
+}

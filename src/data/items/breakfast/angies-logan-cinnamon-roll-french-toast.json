@@ -1,0 +1,40 @@
+{
+  "id": "angies-logan-cinnamon-roll-french-toast",
+  "name": "Angie's Restaurant Famous Giant Cinnamon Roll or Cinnamon Roll French Toast",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "eggs",
+    "dairy",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "angies cinnamon roll logan",
+    "angies cinnamon roll french toast",
+    "logan utah famous breakfast"
+  ],
+  "whyItWorks": "Made from pillowy soft white yeast dough with zero nuts or raisins; eating the warm center with scrambled eggs on the side slows down the sugar absorption.",
+  "prepOrOrderInstructions": "Share a warm Cinnamon Roll (or order a half portion of Cinnamon Roll French Toast) alongside two scrambled eggs to buffer the sugar load, and scrape off excess icing.",
+  "watchOuts": [
+    "High sugar and butter/frosting load—always pair with protein (eggs) and take lactase"
+  ]
+}

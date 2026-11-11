@@ -1,0 +1,44 @@
+{
+  "id": "dcl-room-service-mac-and-cheese-tenders",
+  "name": "24-Hour Room Service Creamy Macaroni & Cheese & Breaded Chicken Tenders",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "chicken",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "room service mac and cheese",
+    "chicken tenders",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Soft elbow macaroni in mild cheese sauce is a reliable low-residue stateroom meal any hour of the day or night.",
+  "prepOrOrderInstructions": "Pair the Mac & Cheese with a Lactaid tablet; if ordering Chicken Tenders during a flare, peel off heavy fried breading.",
+  "watchOuts": [
+    "Cheese sauce lactose",
+    "Frying oil on chicken tender breading"
+  ]
+}

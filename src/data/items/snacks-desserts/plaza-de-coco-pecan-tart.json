@@ -1,0 +1,41 @@
+{
+  "id": "plaza-de-coco-pecan-tart",
+  "name": "Grand Central Station Warm Pecan Tart with Dulce de Leche Ice Cream (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "nuts",
+    "ice-cream",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "grand central station pecan tart",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Packed with whole and halved roasted pecans that act as sharp insoluble roughage.",
+  "prepOrOrderInstructions": "Eat only the scoop of dulce de leche ice cream (with a Lactaid) and skip the whole-pecan tart.",
+  "watchOuts": [
+    "Dense whole roasted pecans",
+    "High sugar and dairy ice cream"
+  ]
+}

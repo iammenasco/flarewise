@@ -1,0 +1,48 @@
+{
+  "id": "flower-child-aubergine-herriman-draper-chicken-sweet-potato-bowl",
+  "name": "Flower Child & Aubergine Kitchen (Herriman / Draper) Grilled Chicken or Salmon with Mashed Sweet Potato & Rice",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Flower Child (Mountain View Village · Herriman) / Aubergine Kitchen (Draper & South Jordan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "salmon",
+    "beef",
+    "steak",
+    "sweet-potato",
+    "rice",
+    "high-protein",
+    "gluten-free",
+    "dairy-free",
+    "herriman",
+    "south-jordan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "flower child mountain view village",
+    "flower child herriman",
+    "aubergine kitchen draper",
+    "healthy bowl utah"
+  ],
+  "whyItWorks": "The easiest clean-eating spots in Herriman and Draper: build a plate with anti-inflammatory grilled salmon, chicken breast, or grass-fed steak plus steamed jasmine/brown rice, gluten-free mac & cheese, or whipped sweet potatoes.",
+  "prepOrOrderInstructions": "At Flower Child or Aubergine, order a custom Plate with Grilled Chicken, Salmon, or Steak + Steamed Rice and Whipped Sweet Potatoes or Gluten-Free Cheddar Mac & Cheese (skipping raw kale salads and lemon vinaigrette).",
+  "watchOuts": [
+    "Skip raw kale/Brussels sprout salads and citrus vinaigrettes"
+  ]
+}

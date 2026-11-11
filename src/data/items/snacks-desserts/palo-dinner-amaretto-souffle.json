@@ -1,0 +1,41 @@
+{
+  "id": "palo-dinner-amaretto-souffle",
+  "name": "Palo Signature Warm Amaretto Soufflé with Vanilla Bean Anglaise",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "ice-cream",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo amaretto souffle",
+    "amaretto souffle",
+    "palo dessert"
+  ],
+  "whyItWorks": "Offered alongside the Chocolate Soufflé: whipped egg-white and Disaronno Amaretto soufflé baked to order with zero cocoa fat, zero whole nuts, and zero citrus.",
+  "prepOrOrderInstructions": "Even lighter than the Chocolate Soufflé because it has no cocoa butter; pair with a Lactaid pill for the warm vanilla bean sauce and gelato.",
+  "watchOuts": [
+    "Dairy cream in vanilla bean anglaise and gelato"
+  ]
+}

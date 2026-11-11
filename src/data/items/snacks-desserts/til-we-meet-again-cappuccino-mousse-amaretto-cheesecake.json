@@ -1,0 +1,41 @@
+{
+  "id": "til-we-meet-again-cappuccino-mousse-amaretto-cheesecake",
+  "name": "Cappuccino Mousse, Amaretto Cheesecake & Warm Apple Custard Cobbler ('Til We Meet Again)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "coffee",
+    "cheese",
+    "applesauce",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "cappuccino mousse",
+    "amaretto cheesecake",
+    "warm apple custard cobbler",
+    "til we meet again"
+  ],
+  "whyItWorks": "Alongside Baked Alaska, the farewell menu offers smooth Cappuccino Mousse, Amaretto Cheesecake, and Peeled Apple Custard Cobbler—all citrus-free.",
+  "prepOrOrderInstructions": "Pair your choice with 1–2 Lactaid tablets and brush off any sliced almond garnish.",
+  "watchOuts": [
+    "Dairy cream/cheese lactose",
+    "Remove any sliced almond garnish on Amaretto Cheesecake"
+  ]
+}

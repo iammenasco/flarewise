@@ -1,0 +1,40 @@
+{
+  "id": "hometown-drive-in-paris-vanilla-soft-serve-cone",
+  "name": "Hometown Drive-In (Paris / Montpelier, ID) Classic Vanilla Soft-Serve Swirl Cone",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Hometown Drive-In (Paris / Montpelier, ID)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "ice-cream",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "hometown drive in ice cream",
+    "paris idaho soft serve",
+    "bear lake ice cream cone"
+  ],
+  "whyItWorks": "Light wafer cake cone filled with vanilla soft-serve. A small, seed-free sweet reward that avoids the high lactose load of a giant shake.",
+  "prepOrOrderInstructions": "Order a small vanilla soft-serve cone.",
+  "watchOuts": [
+    "Contains dairy lactose"
+  ]
+}

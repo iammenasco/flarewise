@@ -1,0 +1,44 @@
+{
+  "id": "disneyland-downtown-disney-din-tai-fung-xlb-fried-rice",
+  "name": "Downtown Disney Din Tai Fung Kurobuta Pork / Chicken Xiao Long Bao Soup Dumplings & Egg Fried White Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Din Tai Fung (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "chicken",
+    "shrimp",
+    "rice",
+    "noodles",
+    "soup",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "din tai fung downtown disney",
+    "xiao long bao disneyland",
+    "soup dumplings downtown disney",
+    "din tai fung fried rice"
+  ],
+  "whyItWorks": "The new Din Tai Fung in Downtown Disney is a Crohn's paradise: delicate steamed thin-skin Xiao Long Bao (Chicken or Kurobuta Pork soup dumplings), clear Chicken Noodle Soup, and Wok-Tossed Shrimp/Chicken Egg Fried White Rice are 100% dairy-free, non-fried, and ultra-digestible.",
+  "prepOrOrderInstructions": "Order Chicken or Kurobuta Pork Xiao Long Bao, Steamed Shrimp & Pork Shao Mai, Chicken Noodle Soup, or Shrimp/Chicken Fried White Rice (ask for no green onions on the rice, and skip the spicy chili oil and raw ginger vinegar dip).",
+  "watchOuts": [
+    "Skip the Spicy Wontons in chili oil, cucumber salad, and raw ginger shreds in the vinegar dish"
+  ]
+}

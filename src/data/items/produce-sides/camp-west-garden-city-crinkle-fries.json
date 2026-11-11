@@ -1,0 +1,40 @@
+{
+  "id": "camp-west-garden-city-crinkle-fries",
+  "name": "Camp West (Garden City, UT) Hot Crispy Crinkle-Cut French Fries",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Camp West Burgers & Shakes (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "potatoes",
+    "fries"
+  ],
+  "searchKeywords": [
+    "camp west fries",
+    "crinkle fries bear lake",
+    "garden city french fries"
+  ],
+  "whyItWorks": "Golden crinkle-cut russet fries fried crisp outside and fluffy inside. Lightly salted with zero spicy seasonings.",
+  "prepOrOrderInstructions": "Order regular fries with sea salt and ketchup.",
+  "watchOuts": [
+    "Deep-fry oil can accelerate transit during acute flareups"
+  ]
+}

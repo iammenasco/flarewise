@@ -1,0 +1,39 @@
+{
+  "id": "knotts-mrs-knotts-boysenberry-scone-butter",
+  "name": "Knott's Mrs. Knott's Warm Boysenberry Scone with Whipped Butter",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (Knott's Berry Farm)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "scone",
+    "boysenberry",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "mrs knotts scone",
+    "boysenberry scone knotts",
+    "knotts bakery scone"
+  ],
+  "whyItWorks": "Unlike the whole berry pie, Knott's famous breakfast scone is glazed with strained seedless boysenberry icing. Soft, crumbly, and comforting with zero abrasive whole berry seeds.",
+  "prepOrOrderInstructions": "Order the Boysenberry Scone warm with whipped sweet butter.",
+  "watchOuts": [
+    "None; seedless glaze is safe"
+  ]
+}

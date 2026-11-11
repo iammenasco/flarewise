@@ -1,0 +1,39 @@
+{
+  "id": "dca-aunt-cass-chilled-shrimp-soba-noodle-salad-mod",
+  "name": "DCA Aunt Cass Café Soba Noodle Salad with Poached Shrimp (Pick Out Raw Veggies Mod)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Aunt Cass Café (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "shrimp",
+    "seafood",
+    "noodles",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "aunt cass soba noodle salad",
+    "shrimp noodles san fransokyo dca"
+  ],
+  "whyItWorks": "Chilled poached shrimp and soft buckwheat-wheat soba noodles are dairy-free and light on a hot afternoon when you eat the shrimp and noodles and leave the raw cabbage/edamame behind.",
+  "prepOrOrderInstructions": "Keep the ginger-sesame dressing on the side (use lightly) and eat the poached shrimp and soft soba noodles while pushing aside shredded raw cabbage and edamame.",
+  "watchOuts": [
+    "Skip the raw shredded cabbage, edamame skins, and cilantro"
+  ]
+}

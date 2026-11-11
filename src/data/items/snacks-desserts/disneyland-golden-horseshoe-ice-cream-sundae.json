@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-golden-horseshoe-ice-cream-sundae",
+  "name": "Disneyland The Golden Horseshoe & Gibson Girl Hand-Scooped Vanilla Bean Ice Cream (Lactase or Plant-Based Mod)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "The Golden Horseshoe & Gibson Girl Ice Cream Parlor (Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dessert",
+    "sweet",
+    "dairy-free",
+    "gluten-free-option",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "gibson girl ice cream disneyland",
+    "golden horseshoe ice cream",
+    "plant based ice cream disneyland"
+  ],
+  "whyItWorks": "Gibson Girl on Main Street carries **Plant-Based Non-Dairy Chocolate/Vanilla Ice Cream** (100% lactose-free!) as well as classic Dreyer's Vanilla Bean and Mint Chip (enjoyed with lactase enzymes).",
+  "prepOrOrderInstructions": "At Gibson Girl, ask for the Plant-Based Non-Dairy Scoop in a cup or wafer cone for zero lactose, or take 2 lactase tablets before ordering a classic Vanilla or Chocolate Chip Cookie Sundae.",
+  "watchOuts": [
+    "Skip waffle bowls dipped in peanuts/almonds and avoid carbonated root beer floats during flares"
+  ]
+}

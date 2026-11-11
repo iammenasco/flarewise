@@ -1,0 +1,40 @@
+{
+  "id": "labeaus-garden-city-fresh-banana-cheesecake-shake",
+  "name": "LaBeau's (Garden City, UT) Seedless Fresh Banana Cheesecake Milkshake Hack",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "LaBeau's (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "shake",
+    "banana",
+    "seed-free"
+  ],
+  "searchKeywords": [
+    "labeaus banana shake",
+    "labeaus seedless shake",
+    "bear lake milkshake hack"
+  ],
+  "whyItWorks": "The ultimate seed-free shake hack at LaBeau's! Unlike their famous raspberry shake (which has thousands of tiny abrasive seeds), fresh banana is completely seed-free, soothing, and potassium-rich.",
+  "prepOrOrderInstructions": "Order a small or regular Banana or Vanilla Cheesecake shake instead of the seeded raspberry shake.",
+  "watchOuts": [
+    "Contains dairy lactose; take lactase enzyme tablet if lactose sensitive"
+  ]
+}

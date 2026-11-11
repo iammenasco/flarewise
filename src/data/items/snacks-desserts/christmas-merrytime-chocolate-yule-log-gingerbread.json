@@ -1,0 +1,44 @@
+{
+  "id": "christmas-merrytime-chocolate-yule-log-gingerbread",
+  "name": "Very Merrytime Christmas Menu: Double Chocolate Yule Log (Bûche de Noël) & Gingerbread Cookies",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime \"Happy Holidays\" Dinner Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "christmas-cruise"
+  ],
+  "searchKeywords": [
+    "double chocolate yule log",
+    "buche de noel",
+    "gingerbread cookie",
+    "very merrytime dessert",
+    "disney cruise christmas"
+  ],
+  "whyItWorks": "Flourless/thin chocolate roulade rolled with smooth chocolate truffle cream and soft spiced gingerbread cookies are nut-free and citrus-free.",
+  "prepOrOrderInstructions": "Order the Double Chocolate Yule Log (scrape off seeded raspberry sauce dots and take a Lactaid); strictly avoid traditional English Christmas Plum/Figgy Pudding (which contains candied orange/lemon peel, currants, and raisins).",
+  "watchOuts": [
+    "Never order Christmas Plum/Figgy Pudding (candied citrus peel + dried fruit)",
+    "Raspberry sauce seeds on Yule Log plate"
+  ]
+}

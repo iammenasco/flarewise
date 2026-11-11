@@ -1,0 +1,39 @@
+{
+  "id": "knotts-prop-shop-pizzeria-chicken-pasta-pizza",
+  "name": "Knott's Prop Shop Pizzeria (Boardwalk) Penne Pasta with Grilled Chicken (Light Alfredo/Butter Mod) or Cheese Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Prop Shop Pizzeria (The Boardwalk · Knott's Berry Farm)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pasta",
+    "cheese",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "prop shop pizzeria knotts",
+    "pasta knotts berry farm",
+    "pizza knotts dining plan"
+  ],
+  "whyItWorks": "Prop Shop Pizzeria has a customizable pasta counter where you can get warm penne pasta topped with diced grilled chicken breast and light Alfredo or plain butter/Parmesan (skipping acidic red marinara) plus a soft breadstick!",
+  "prepOrOrderInstructions": "At the pasta station, ask for Penne Pasta with Grilled Chicken and light Alfredo sauce on the side (or plain pasta with grated Parmesan and a warm breadstick); take a lactase tablet if using Alfredo or ordering a Cheese Pizza slice.",
+  "watchOuts": [
+    "Skip Pepperoni/Meat Lovers pizza, spicy marinara, and Italian bean salad"
+  ]
+}

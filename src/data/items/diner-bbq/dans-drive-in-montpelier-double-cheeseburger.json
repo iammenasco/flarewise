@@ -1,0 +1,41 @@
+{
+  "id": "dans-drive-in-montpelier-double-cheeseburger",
+  "name": "Dan's Drive-In (Montpelier, ID) Classic Double Cheeseburger (Plain / Mild Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "beef",
+    "burger"
+  ],
+  "searchKeywords": [
+    "dans drive in double cheeseburger",
+    "montpelier burger",
+    "bear lake diner burger"
+  ],
+  "whyItWorks": "Ordering Dan's double cheeseburger plain or with simple ketchup/mustard eliminates crunchy raw onions and acid pickles, making it a very digestible high-protein roadside comfort meal.",
+  "prepOrOrderInstructions": "Order the Double Cheeseburger plain or with ketchup and yellow mustard only (no onions, pickles, or lettuce).",
+  "watchOuts": [
+    "Griddled double chuck patties carry grease; stick to a single patty during active symptoms"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1923-burrata-prosciutto-di-parma",
+  "name": "Alameda Burrata Mozzarella & Prosciutto di Parma with Crisp Crostini (Night 1)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "pork",
+    "bread",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "burrata mozzarella prosciutto di parma",
+    "1923 appetizer",
+    "disney treasure"
+  ],
+  "whyItWorks": "Paper-thin aged Prosciutto di Parma and creamy burrata cheese have virtually zero fiber and no citrus.",
+  "prepOrOrderInstructions": "Take a Lactaid enzyme for the fresh burrata cream and leave any raw baby arugula garnish untouched.",
+  "watchOuts": [
+    "Fresh cream inside burrata (lactose)",
+    "Salty cured prosciutto",
+    "Skip raw arugula garnish"
+  ]
+}

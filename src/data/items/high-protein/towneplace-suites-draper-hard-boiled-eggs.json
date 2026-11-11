@@ -1,0 +1,40 @@
+{
+  "id": "towneplace-suites-draper-hard-boiled-eggs",
+  "name": "TownePlace Suites (Draper, UT) Chilled Hard-Boiled Eggs (Pure Protein Travel Hack)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "TownePlace Suites Salt Lake City Draper",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "draper",
+    "breakfast",
+    "eggs",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "towneplace suites boiled eggs",
+    "hotel hard boiled eggs draper",
+    "protein breakfast hotel"
+  ],
+  "whyItWorks": "Individual peeled hard-boiled eggs from the cold breakfast cooler. 100% bioavailable egg albumin and yolk healthy fats with zero fiber, zero lactose, and zero additives.",
+  "prepOrOrderInstructions": "Grab two hard-boiled eggs, sprinkle with table salt and black pepper, and enjoy with a slice of white bread.",
+  "watchOuts": [
+    "None; perfect zero-residue travel protein"
+  ]
+}

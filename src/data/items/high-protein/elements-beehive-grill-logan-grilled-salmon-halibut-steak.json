@@ -1,0 +1,43 @@
+{
+  "id": "elements-beehive-grill-logan-grilled-salmon-halibut-steak",
+  "name": "Elements Restaurant & Beehive Grill (Logan) Pan-Seared Salmon, Halibut & Filet Mignon",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Elements Restaurant / Beehive Grill (Logan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "beef",
+    "steak",
+    "high-protein",
+    "gluten-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "elements restaurant logan",
+    "beehive grill logan",
+    "logan steak salmon",
+    "riverwoods logan"
+  ],
+  "whyItWorks": "Logan's premier sit-down grills at the Riverwoods and Main Street offer clean pan-seared Atlantic salmon, fresh halibut, and beef tenderloin with Yukon mashed potatoes or white rice.",
+  "prepOrOrderInstructions": "Order the Grilled Salmon, Halibut, or Filet Mignon cooked in olive oil with mashed potatoes or white rice and steamed carrots/squash (strictly hold any lemon-butter or citrus glaze).",
+  "watchOuts": [
+    "Request no lemon wedge or citrus beurre blanc on fish"
+  ]
+}

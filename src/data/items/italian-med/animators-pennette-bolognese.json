@@ -1,0 +1,42 @@
+{
+  "id": "animators-pennette-bolognese",
+  "name": "Pennette Pasta (Request Butter & Parmesan Swap)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "beef",
+    "cheese",
+    "italian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "pennette bolognese",
+    "animators palate pasta",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Refined white pennette pasta and finely ground beef ragù are easy to chew, though tomato sauce acidity makes it an Everyday/Careful choice unless swapped for butter and parmesan.",
+  "prepOrOrderInstructions": "Enjoy as-is on a good day, or ask your server for the pennette tossed in melted butter, chicken broth, and shaved Parmigiano-Reggiano (~0g lactose) if flaring.",
+  "flareEmergencySwap": "Order the Black Truffle Pasta Purseittes or plain pennette with butter and parmesan (9.5/10).",
+  "watchOuts": [
+    "Tomato acidity in Bolognese sauce"
+  ]
+}

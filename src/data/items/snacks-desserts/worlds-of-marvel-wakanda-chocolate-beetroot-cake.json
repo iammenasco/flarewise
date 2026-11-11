@@ -1,0 +1,38 @@
+{
+  "id": "worlds-of-marvel-wakanda-chocolate-beetroot-cake",
+  "name": "No-Sugar-Added Wakanda Flourless Chocolate Beetroot Cake (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "gluten-free",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "wakanda flourless chocolate beetroot cake",
+    "worlds of marvel no sugar added",
+    "disney treasure"
+  ],
+  "whyItWorks": "Smooth pureed beet and dark chocolate torte with zero gluten or nuts, though beetroot fructans and sugar alcohols can cause gas.",
+  "prepOrOrderInstructions": "Eat half a slice in remission to test tolerance to beet fructans and sugar-free sweeteners.",
+  "watchOuts": [
+    "Beetroot fructans + sugar-alcohol sweeteners"
+  ]
+}

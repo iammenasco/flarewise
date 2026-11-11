@@ -1,0 +1,39 @@
+{
+  "id": "stacked-logan-monte-cristo",
+  "name": "Stacked! \"Stacked Cristo\" Deep-Fried Ham, Turkey & Swiss Pancake Monte Cristo",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Stacked! Quality Pancakes (Logan, UT)",
+  "crohnsScore": 6.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "turkey",
+    "cheese",
+    "fried",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "stacked cristo logan",
+    "monte cristo logan utah",
+    "stacked quality pancakes monte cristo"
+  ],
+  "whyItWorks": "Uses tender deli turkey, ham, and Swiss cheese, but dipping the entire sandwich in pancake batter and deep-frying it creates a heavy fryer-oil and sugar bomb that should be saved strictly for rock-solid remission.",
+  "prepOrOrderInstructions": "If ordering in deep remission, share half the sandwich and skip the seeded berry jam; during flares, order the grilled potato-bun breakfast sandwich instead.",
+  "watchOuts": [
+    "Deep-fried pancake batter absorbs substantial fryer oil; raspberry jam dip contains insoluble berry seeds"
+  ]
+}

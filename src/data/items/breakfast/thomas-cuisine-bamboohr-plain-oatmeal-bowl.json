@@ -1,0 +1,38 @@
+{
+  "id": "thomas-cuisine-bamboohr-plain-oatmeal-bowl",
+  "name": "Steel-Cut Plain Oatmeal with Pure Brown Sugar",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine (BambooHR Lindon, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "bamboohr",
+    "office-cafe",
+    "lindon",
+    "oatmeal",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "thomas cuisine",
+    "bamboohr breakfast",
+    "thomas2go",
+    "oatmeal",
+    "lindon"
+  ],
+  "whyItWorks": "Warm water-cooked oatmeal provides soluble beta-glucan fiber, which forms a gentle gel in the GI tract that regulates bowel movements without mechanical scraping. Sweetened lightly with pure brown sugar.",
+  "prepOrOrderInstructions": "Prepare using hot water or lactose-free almond milk. Add a small spoonful of brown sugar. Skip raw walnuts, almonds, and dried cranberries if avoiding seeds and roughage."
+}

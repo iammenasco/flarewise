@@ -1,0 +1,45 @@
+{
+  "id": "dcl-sit-down-oatmeal-cream-of-wheat-grits",
+  "name": "Sit-Down Breakfast Hot Oatmeal, Cream of Wheat & White Hominy Grits",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "oatmeal",
+    "grits",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "cream of wheat",
+    "oatmeal",
+    "grits",
+    "sit down breakfast",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Silky Cream of Wheat (farina), plain white hominy grits, and slow-simmered oatmeal are top-tier soluble-fiber flare foods.",
+  "prepOrOrderInstructions": "Order with brown sugar, honey, or maple syrup on the side and ask your server to hold the toasted pecan garnish.",
+  "watchOuts": [
+    "Hold toasted pecans that sometimes accompany hot oatmeal",
+    "Request almond/oat milk instead of dairy milk"
+  ]
+}

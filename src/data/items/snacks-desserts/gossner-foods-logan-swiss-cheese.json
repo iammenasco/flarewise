@@ -1,0 +1,41 @@
+{
+  "id": "gossner-foods-logan-swiss-cheese",
+  "name": "Gossner Foods Cheese Factory Aged Baby Swiss & Cheddar Curds/Slices",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Gossner Foods Cheese Factory Store (Logan, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "high-protein",
+    "gluten-free-option",
+    "lactose-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "gossner foods logan",
+    "gossner swiss cheese",
+    "logan cheese factory",
+    "cache valley swiss cheese"
+  ],
+  "whyItWorks": "Gossner's world-famous Cache Valley Aged Swiss and Aged Sharp Cheddar have virtually 0g remaining lactose because the whey is drained and bacterial cultures consume all milk sugar during aging.",
+  "prepOrOrderInstructions": "Pick up sliced or cubed Gossner Baby Swiss or Aged Cheddar from the Logan factory store to pair with saltine/sourdough crackers for road trips up to Bear Lake.",
+  "watchOuts": [
+    "Stick to aged block cheeses (Swiss, Cheddar, Muenster) rather than fresh unaged squeaky curds or flavored jalapeno cheeses; Gossner shelf-stable UHT milk still contains lactose unless labeled lactose-free"
+  ]
+}

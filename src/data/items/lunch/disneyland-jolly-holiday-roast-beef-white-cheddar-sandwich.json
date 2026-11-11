@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-jolly-holiday-roast-beef-white-cheddar-sandwich",
+  "name": "Disneyland Jolly Holiday Bakery Cafe Roast Beef & White Cheddar on Toasted Roll (Hold Horseradish!)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "jolly holiday roast beef sandwich",
+    "main street roast beef cheddar"
+  ],
+  "whyItWorks": "Thin-sliced roast beef and naturally low-lactose aged white cheddar on a soft toasted bakery roll make a high-protein meal once you skip the pungent horseradish aioli and caramelized onions.",
+  "prepOrOrderInstructions": "Order the Roast Beef & White Cheddar Sandwich and remove/hold the horseradish aioli, caramelized onions, and arugula.",
+  "watchOuts": [
+    "Horseradish and arugula are pungent gut irritants—eat just the roast beef, aged white cheddar, and soft roll"
+  ]
+}

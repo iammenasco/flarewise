@@ -1,0 +1,42 @@
+{
+  "id": "coopers-bear-lake-west-clam-chowder-warning",
+  "name": "Cooper's Restaurant (Fish Haven, ID) Creamy New England Clam Chowder (Heavy Cream Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Fish Haven / Bear Lake West, ID)",
+  "crohnsScore": 5.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "fish-haven",
+    "bear-lake",
+    "soup",
+    "chowder",
+    "clams",
+    "dairy",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "coopers clam chowder",
+    "bear lake west soup",
+    "fish haven clam chowder"
+  ],
+  "whyItWorks": "Rich with heavy whipping cream, butter roux, potatoes, and clams. High dairy fat content and shellfish can trigger rapid dumping or gas in dairy-sensitive IBD.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flareups. In remission, enjoy a small cup paired with sourdough bread.",
+  "watchOuts": [
+    "High heavy cream lactose and butter fat speed intestinal transit"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "holiday-inn-express-herriman-cheese-omelet-patty",
+  "name": "Holiday Inn Express (Herriman, UT) Fluffy Folded Egg & Cheddar Cheese Omelet",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Inn Express & Suites Herriman - South Jordan",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "herriman",
+    "south-jordan",
+    "breakfast",
+    "eggs",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "holiday inn express omelet",
+    "herriman hotel eggs",
+    "cheese omelet breakfast buffet"
+  ],
+  "whyItWorks": "Individual folded egg omelet filled with melted cheddar cheese. Soft, zero-fiber, and delivers 12g of protein with no mechanical digestion required.",
+  "prepOrOrderInstructions": "Serve warm with an English muffin or white toast with butter.",
+  "watchOuts": [
+    "Contains melted cheddar cheese; order plain eggs if dairy-sensitive"
+  ]
+}

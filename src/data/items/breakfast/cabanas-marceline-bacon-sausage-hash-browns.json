@@ -1,0 +1,47 @@
+{
+  "id": "cabanas-marceline-bacon-sausage-hash-browns",
+  "name": "Buffet Hot Breakfast Meats, Crispy Hash Browns & Chicken Sausage",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "chicken",
+    "potato",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "hash browns",
+    "bacon",
+    "chicken sausage",
+    "cabanas breakfast",
+    "marceline market breakfast"
+  ],
+  "whyItWorks": "Poultry sausage links and blotted crispy bacon or potato hash browns work in remission, though frying oil and pork fat require moderation.",
+  "prepOrOrderInstructions": "Choose the lean grilled chicken/turkey sausage or blot crispy bacon with a napkin; during a flare, swap fried hash browns for plain white rice or oatmeal.",
+  "watchOuts": [
+    "Deep-fried oil in hash brown triangles",
+    "Pork sausage casings and rendered grease",
+    "Skip grilled tomatoes and baked beans"
+  ]
+}

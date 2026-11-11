@@ -1,0 +1,45 @@
+{
+  "id": "merrytime-harvest-corn-chowder",
+  "name": "Very Merrytime Harvest Corn Chowder with Chorizo & Rye Croutons",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime (\"Happy Holidays\" Menu)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "corn",
+    "pork",
+    "spicy",
+    "cream",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "harvest corn chowder",
+    "chorizo corn soup",
+    "very merrytime menu"
+  ],
+  "whyItWorks": "Only suitable in deep remission if strained; whole corn kernels, spicy pork chorizo fat, and heavy cream are classic Crohn's triggers.",
+  "prepOrOrderInstructions": "Choose the Winter Squash Soup or Chicken Noodle Soup instead during a flare; if ordering, leave the chorizo and whole corn kernels behind.",
+  "watchOuts": [
+    "Insoluble corn kernel hulls",
+    "Spicy high-fat pork chorizo",
+    "Heavy cream base"
+  ]
+}

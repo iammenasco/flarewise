@@ -1,0 +1,40 @@
+{
+  "id": "knotts-papas-mexicanas-carne-asada-fries",
+  "name": "Knott's Papas Mexicanas (Fiesta Village) Carne Asada & Cheese Fries (No Jalapeños/Salsa Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Papas Mexicanas (Fiesta Village · Knott's Berry Farm)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "potato",
+    "cheese",
+    "fried",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "papas mexicanas knotts",
+    "carne asada fries knotts berry farm"
+  ],
+  "whyItWorks": "Crispy golden French fries topped with grilled carne asada steak and melted cheese; skipping the pickled jalapeños, raw onions, and spicy salsa makes it a shareable remission treat.",
+  "prepOrOrderInstructions": "Order with Carne Asada and cheese/guacamole ONLY—ask for NO pickled jalapeños, NO raw onions, and NO spicy salsa, and take a lactase enzyme.",
+  "watchOuts": [
+    "High fat from fries and melted queso—share with friends and avoid during flares"
+  ]
+}

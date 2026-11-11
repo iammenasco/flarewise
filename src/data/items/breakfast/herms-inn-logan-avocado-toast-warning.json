@@ -1,0 +1,37 @@
+{
+  "id": "herms-inn-logan-avocado-toast-warning",
+  "name": "Artisan Avocado Toast on Seeded Multigrain (Fiber Warning)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan, UT)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6.8,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "breakfast",
+    "avocado-toast",
+    "fiber-warning"
+  ],
+  "searchKeywords": [
+    "herms inn",
+    "avocado toast",
+    "multigrain toast",
+    "logan utah"
+  ],
+  "whyItWorks": "Heavy mashed avocado heaped onto dense multigrain bread covered in whole sunflower, flax, and chia seeds packs nearly 7g of rough insoluble fiber that can induce stricture blockages and sharp abdominal pain during active IBD.",
+  "prepOrOrderInstructions": "Fiber & Seed Warning: Strictly avoid during flares or strictures. If in remission, request plain white or sourdough bread without whole seeds."
+}

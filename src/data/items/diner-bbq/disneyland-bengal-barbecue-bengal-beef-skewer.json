@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-bengal-barbecue-bengal-beef-skewer",
+  "name": "Disneyland Bengal Barbecue \"Bengal Beef\" Skewer with Sweet Teriyaki Glaze",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Bengal Barbecue (Disneyland Park)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "beef",
+    "skewer",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "bengal barbecue beef skewer",
+    "disneyland beef skewer",
+    "bengal beef teriyaki"
+  ],
+  "whyItWorks": "Tender grilled beef sirloin cubes glazed in sweet, mild teriyaki sauce. Pure unbreaded protein cooked over an open flame with excess fat dripped away. Very gentle in remission.",
+  "prepOrOrderInstructions": "Order the Bengal Beef Skewer (specify sweet teriyaki, NOT the fiery Banyan Beef with hot sauce).",
+  "watchOuts": [
+    "Do not confuse with the spicy Banyan Beef skewer"
+  ]
+}

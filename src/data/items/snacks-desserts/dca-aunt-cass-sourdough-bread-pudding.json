@@ -1,0 +1,40 @@
+{
+  "id": "dca-aunt-cass-sourdough-bread-pudding",
+  "name": "DCA Aunt Cass Café Warm Cinnamon-Caramel Sourdough Bread Pudding (Take Lactase)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Aunt Cass Café (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sourdough",
+    "eggs",
+    "sweet",
+    "dessert",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "aunt cass bread pudding dca",
+    "pacific wharf bread pudding",
+    "san fransokyo dessert"
+  ],
+  "whyItWorks": "Cubed Boudin sourdough bread soaked in warm vanilla-egg custard and baked soft—completely free of roughage when you choose a non-nut, non-citrus seasonal flavor (like Cinnamon, Caramel, or Pumpkin).",
+  "prepOrOrderInstructions": "Share a warm Bread Pudding cup, ask for extra crème anglaise/caramel on the side, and take 1–2 lactase enzyme tablets.",
+  "watchOuts": [
+    "Verify the current seasonal bread pudding does not contain pecans/walnuts or lemon curd"
+  ]
+}

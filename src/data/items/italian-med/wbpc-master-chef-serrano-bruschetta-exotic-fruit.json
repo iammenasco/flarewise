@@ -1,0 +1,43 @@
+{
+  "id": "wbpc-master-chef-serrano-bruschetta-exotic-fruit",
+  "name": "Westbound Panama Canal \"Master Chef\" Serrano Ham Bruschetta & Exotic Melon Fruit Cup",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Westbound Panama Canal (Master Chef / Captain's Gala)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "melon",
+    "fruit",
+    "bread",
+    "dairy-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "serrano ham bruschetta",
+    "exotic fruit cup",
+    "master chef menu",
+    "westbound panama canal"
+  ],
+  "whyItWorks": "Dry-cured Serrano ham on white toast and ripe honeydew/cantaloupe/mango cubes provide a light, dairy-free starter on long Panama Canal nights.",
+  "prepOrOrderInstructions": "Eat the Serrano ham and toasted bread (scraping off chopped olive tapenade if flaring) or select the ripe melon and mango pieces from the fruit cup.",
+  "watchOuts": [
+    "Avoid seeded kiwi or passionfruit if included in the exotic fruit cup",
+    "Skip chopped olives on the bruschetta if flaring"
+  ]
+}

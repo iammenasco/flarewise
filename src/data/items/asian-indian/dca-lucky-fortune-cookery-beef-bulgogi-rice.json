@@ -1,0 +1,39 @@
+{
+  "id": "dca-lucky-fortune-cookery-beef-bulgogi-rice",
+  "name": "DCA Lucky Fortune Cookery Beef Bulgogi Burrito or Rice Bowl (Hold Spicy Sauce/Chips Mod)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Lucky Fortune Cookery (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "rice",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lucky fortune beef bulgogi burrito",
+    "dca bulgogi",
+    "san fransokyo beef burrito"
+  ],
+  "whyItWorks": "Tender sweet-savory Korean bulgogi beef and garlic rice wrapped in a warm flour tortilla, though you should ask to hold the spicy gochujang mayo and cabbage slaw.",
+  "prepOrOrderInstructions": "Ask for no spicy mayo and no raw cabbage slaw—or stick to the simpler Teriyaki Chicken & White Rice bowl on sensitive days.",
+  "watchOuts": [
+    "Default Beef Bulgogi Burrito includes spicy mayo, raw cabbage slaw, and crunchy garlic chips"
+  ]
+}

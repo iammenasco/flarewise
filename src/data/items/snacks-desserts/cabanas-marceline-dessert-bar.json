@@ -1,0 +1,48 @@
+{
+  "id": "cabanas-marceline-dessert-bar",
+  "name": "Buffet Pastry Case: Mini Mousse Cups, Cheesecake Bites, Bread Pudding & Soft-Serve",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "cheese",
+    "bakery",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "cabanas dessert",
+    "marceline market dessert",
+    "bread pudding",
+    "mousse cup",
+    "cheesecake bite"
+  ],
+  "whyItWorks": "Bite-sized vanilla/chocolate mousse cups, plain cheesecake squares, and warm vanilla bread pudding allow portion-controlled sweet treats.",
+  "prepOrOrderInstructions": "Pick chocolate or vanilla mousse cups, plain cheesecake bites, or warm bread pudding (avoid raisins); strictly skip the Key Lime Tartlets, Lemon Meringue Pies, and pecan tarts.",
+  "watchOuts": [
+    "Key lime and lemon tartlets on the same dessert counter (strict citrus avoid)",
+    "Nuts/raisins in niektórych pastries",
+    "Dairy cream lactose"
+  ]
+}

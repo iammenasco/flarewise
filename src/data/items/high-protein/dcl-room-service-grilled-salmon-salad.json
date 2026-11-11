@@ -1,0 +1,44 @@
+{
+  "id": "dcl-room-service-grilled-salmon-salad",
+  "name": "24-Hour Room Service Grilled Salmon Salad (Order Salmon Filet Only)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "omega-3",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "room service grilled salmon salad",
+    "grilled salmon",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "A great stateroom hack to get a freshly grilled omega-3 salmon filet delivered to your cabin.",
+  "prepOrOrderInstructions": "Order the Grilled Salmon Salad with dressing on the side, then eat the warm grilled salmon filet with crackers or white bread and leave the raw lettuce, Vidalia onions, and cranberry kasha untouched.",
+  "watchOuts": [
+    "Raw iceberg/romaine, Vidalia onions, and cranberry kasha bed (eat salmon filet only)"
+  ]
+}

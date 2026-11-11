@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-galactic-grill-red-rose-allergy-friendly-chicken-tenders",
+  "name": "Disneyland Galactic Grill & Red Rose Taverne Allergy-Friendly Gluten/Dairy-Free Chicken Tenders & Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Galactic Grill & Red Rose Taverne (Tomorrowland / Fantasyland · Disneyland Park)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "gluten-free-option",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "gluten free chicken tenders disneyland",
+    "dairy free chicken tenders galactic grill"
+  ],
+  "whyItWorks": "Made with a light rice/corn-flour coating in a dedicated fryer with 0g dairy and 0g wheat—often lighter and less greasy than standard heavy wheat-breaded tenders.",
+  "prepOrOrderInstructions": "Select from the **Gluten-Friendly** or **Milk-Allergy-Friendly** section at the bottom of the Galactic Grill or Red Rose Taverne mobile order menu.",
+  "watchOuts": [
+    "Allow 5–8 extra minutes for the kitchen to cook allergy-friendly tenders fresh to order"
+  ]
+}

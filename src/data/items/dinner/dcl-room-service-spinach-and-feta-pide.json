@@ -1,0 +1,46 @@
+{
+  "id": "dcl-room-service-spinach-and-feta-pide",
+  "name": "24-Hour Room Service Spinach, Feta & Vidalia Onion Pide Flatbread",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "greens",
+    "pizza",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "spinach and feta pide",
+    "room service pide",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Soft flatbread crust, but topped with Vidalia onions (high fructans), baby spinach stems, and roasted cherry tomato skins.",
+  "prepOrOrderInstructions": "Choose the plain Cheese/Margherita Pizza from Room Service instead if sensitive to onions and spinach roughage.",
+  "watchOuts": [
+    "Vidalia onion fructans",
+    "Spinach stems and cherry tomato skins"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rapunzels-crisp-isle-of-corona-shrimp",
+  "name": "Crisp Isle of Corona Fried Shrimp with Pea Purée (Lantern Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "fried",
+    "seafood",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "crisp isle of corona shrimp",
+    "rapunzels royal table",
+    "disney magic"
+  ],
+  "whyItWorks": "Battered and deep-fried shrimp served with a lemon-remoulade tartar sauce; frying oil and lemon juice make this risky.",
+  "prepOrOrderInstructions": "Ask for grilled or poached shrimp cocktail with plain cocktail sauce (no lemon) instead of the deep-fried Corona shrimp.",
+  "watchOuts": [
+    "Deep-fried breading oil",
+    "Lemon juice in tartar/remoulade sauce"
+  ]
+}

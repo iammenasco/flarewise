@@ -1,0 +1,43 @@
+{
+  "id": "palo-dinner-steakhouse-sides",
+  "name": "Palo Steakhouse Sides: Cavatelli Mac & Cheese,Whipped Yukon Potatoes & Parmesan Fries",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "pasta",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo cavatelli mac and cheese",
+    "palo whipped potatoes",
+    "palo steakhouse sides"
+  ],
+  "whyItWorks": "Silky whipped Yukon gold potatoes and artisanal Cavatelli macaroni & cheese are low-fiber, comforting sides to pair with any Palo steak or fish.",
+  "prepOrOrderInstructions": "Choose the Whipped Potatoes or Cavatelli Mac & Cheese (with a Lactaid) and skip the charred broccolini, roasted mushrooms, and whole-kernel corn sides.",
+  "watchOuts": [
+    "Dairy cream/butter in potatoes and mac & cheese",
+    "Ask to hold crispy onion breadcrumbs on the Cavatelli"
+  ]
+}

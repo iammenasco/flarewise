@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-galactic-grill-american-breakfast-burrito",
+  "name": "Disneyland Galactic Grill American Breakfast Burrito (Scrambled Eggs & Hash Browns)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Galactic Grill (Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "breakfast",
+    "burrito",
+    "eggs",
+    "tomorrowland"
+  ],
+  "searchKeywords": [
+    "galactic grill breakfast burrito",
+    "disneyland breakfast burrito",
+    "tomorrowland breakfast"
+  ],
+  "whyItWorks": "Fluffy scrambled eggs, diced bacon, sausage, breakfast hash browns, and cheddar cheese wrapped in a warm soft flour tortilla. Sits smoothly on the gut before Tomorrowland rope drop.",
+  "prepOrOrderInstructions": "Order the American Breakfast Burrito with mild salsa on the side (hold spicy pico).",
+  "watchOuts": [
+    "Salsa served on side lets you control acidity"
+  ]
+}

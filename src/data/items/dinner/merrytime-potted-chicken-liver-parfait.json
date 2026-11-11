@@ -1,0 +1,43 @@
+{
+  "id": "merrytime-potted-chicken-liver-parfait",
+  "name": "Very Merrytime Potted Chicken Liver Parfait with Apricot-Date Compote & Brioche",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime (\"Happy Holidays\" Menu)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "bread",
+    "butter",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "potted chicken liver parfait",
+    "apricot date compote",
+    "toasted brioche",
+    "very merrytime menu"
+  ],
+  "whyItWorks": "Whipped chicken liver parfait on warm toasted brioche is completely smooth and seedless, though rich in butterfat.",
+  "prepOrOrderInstructions": "Spread a modest amount of the smooth parfait onto the toasted brioche and skip the fibrous dried date pieces in the compote.",
+  "watchOuts": [
+    "High butterfat in the potted liver mousse",
+    "Fibrous dried date skins in the compote"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "summit-pizza-co-bear-lake-baked-traditional-wings-plain",
+  "name": "Summit Pizza Co. (Garden City & Logan, UT) Oven-Baked Bone-In Chicken Wings (Plain / Mild BBQ)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City & Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "logan",
+    "bear-lake",
+    "chicken",
+    "wings",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "summit pizza wings",
+    "bear lake baked wings",
+    "baked chicken wings garden city"
+  ],
+  "whyItWorks": "Oven-baked wings have significantly less grease than deep-fried wings. Unbreaded, high-protein chicken that digests cleanly when ordered plain or with mild sauce.",
+  "prepOrOrderInstructions": "Order traditional bone-in wings plain or with mild sweet BBQ sauce on the side (avoid fiery buffalo sauce).",
+  "watchOuts": [
+    "Avoid fiery buffalo wing sauce"
+  ]
+}

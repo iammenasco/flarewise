@@ -1,0 +1,38 @@
+{
+  "id": "angies-restaurant-logan-hot-roast-beef-sandwich",
+  "name": "Open-Faced Hot Roast Beef Sandwich with Brown Gravy",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Angie's Restaurant (Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "comfort-food",
+    "roast-beef"
+  ],
+  "searchKeywords": [
+    "angies restaurant",
+    "hot roast beef",
+    "open faced sandwich",
+    "mashed potatoes",
+    "logan"
+  ],
+  "whyItWorks": "Tender, slow-roasted beef sliced over soft white bread and topped with warm savory gravy and smooth mashed potatoes provides low-fiber, gentle, comforting nourishment that is easy on the GI tract.",
+  "prepOrOrderInstructions": "Ask for smooth peeled mashed potatoes without skin. Request gravy lightly ladled on top."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "castaway-cay-cookies-bbq-mahi-mahi",
+  "name": "Castaway Cay Cookie's BBQ Chargrilled Mahi-Mahi with Jasmine Rice",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Castaway Cay · Cookie's BBQ, Cookie's Too & Serenity Bay BBQ",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "fish",
+    "rice",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "castaway-cay"
+  ],
+  "searchKeywords": [
+    "castaway cay mahi mahi",
+    "cookies bbq fish",
+    "disney cruise castaway cay"
+  ],
+  "whyItWorks": "Lean chargrilled mahi-mahi filet over steamed white jasmine rice is high-protein and dairy-free once the salsa is held.",
+  "prepOrOrderInstructions": "Ask the server behind the counter for a plain piece of grilled Mahi-Mahi without the tomato-red-onion-lime salsa or heavy Cajun rub, paired with steamed jasmine rice.",
+  "watchOuts": [
+    "Tomato, raw red onion, and lime salsa on top (ask for fish with no salsa)"
+  ]
+}

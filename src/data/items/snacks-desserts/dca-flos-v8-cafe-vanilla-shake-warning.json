@@ -1,0 +1,38 @@
+{
+  "id": "dca-flos-v8-cafe-vanilla-shake-warning",
+  "name": "Classic Thick Vanilla Milkshake with \"Road Gravel\"",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Flo's V-8 Cafe (Disney California Adventure)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "vanilla-shake",
+    "cars-land",
+    "milkshake"
+  ],
+  "searchKeywords": [
+    "flos v8 cafe",
+    "dca",
+    "vanilla shake",
+    "cars land",
+    "milkshake"
+  ],
+  "whyItWorks": "Whole milk, soft-serve ice cream, and chocolate cookie crumble toppings (\"road gravel\") combine excessive dairy lactose and refined sugar, inducing rapid fluid shifts in the gut.",
+  "prepOrOrderInstructions": "Lactose & Sugar Warning: Sip only a small taste if in remission with lactase support. Skip during active flare-ups."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cabanas-marceline-daily-soup-station",
+  "name": "Buffet Daily Soup Kettle & Sourdough Bread Bowls (Lunch)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "bread",
+    "sourdough",
+    "potato",
+    "butternut-squash",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "cabanas soup",
+    "marceline market soup",
+    "clam chowder",
+    "butternut soup",
+    "sourdough bread bowl"
+  ],
+  "whyItWorks": "Each lunch features two rotating hot soups—often a smooth purée (butternut squash, potato leek, carrot ginger, or tomato) alongside chicken noodle or chowder.",
+  "prepOrOrderInstructions": "Choose the smooth puréed vegetable/potato soup or chicken noodle soup with a soft white roll; skip minestrone, lentil, or spicy gumbo rotations.",
+  "watchOuts": [
+    "Dairy cream in bisques/chowders (take a Lactaid)",
+    "Check placards for chili or bean soups"
+  ]
+}

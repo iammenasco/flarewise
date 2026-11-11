@@ -1,0 +1,38 @@
+{
+  "id": "knotts-boardwalk-bbq-pulled-pork-warning",
+  "name": "Pulled Pork Sandwich with Spicy BBQ Sauce & Coleslaw",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Boardwalk BBQ (Knott's Berry Farm)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "pulled-pork",
+    "bbq",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "boardwalk bbq",
+    "knotts berry farm",
+    "pulled pork sandwich",
+    "coleslaw",
+    "boardwalk"
+  ],
+  "whyItWorks": "Rich shredded pork shoulder tossed in acidic spicy BBQ sauce and piled high with crunchy raw cabbage coleslaw. Raw shredded cabbage is tough insoluble fiber that ferments into painful gas.",
+  "prepOrOrderInstructions": "Raw Cabbage & Acid Warning: Avoid raw coleslaw and heavy BBQ sauces during active gut flares."
+}

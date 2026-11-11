@@ -1,0 +1,47 @@
+{
+  "id": "sams-club-members-mark-rotisserie-chicken",
+  "name": "Sam's Club Member's Mark $4.98 Whole Rotisserie Chicken & Deli Mashed Potatoes",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Sam's Club Deli (Logan, South Jordan & Nationwide)",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Member's Mark Whole Rotisserie Chicken",
+    "Member's Mark Yukon Gold Mashed Potatoes"
+  ],
+  "tags": [
+    "chicken",
+    "rotisserie",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "sams-club",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sams club rotisserie chicken",
+    "members mark rotisserie chicken",
+    "sams club mashed potatoes",
+    "logan sams club"
+  ],
+  "whyItWorks": "Sam's Club's $4.98 Member's Mark rotisserie chicken is seasoned simply and roasted until falling off the bone—pure, zero-fiber, flare-safe protein.",
+  "prepOrOrderInstructions": "Remove the outer skin and pair the white breast meat with Member's Mark Yukon Gold Mashed Potatoes (take a Lactaid for the butter/milk in the potatoes) or steamed white rice.",
+  "watchOuts": [
+    "Remove outer chicken skin if flaring"
+  ]
+}

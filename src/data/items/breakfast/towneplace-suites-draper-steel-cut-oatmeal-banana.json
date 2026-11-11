@@ -1,0 +1,39 @@
+{
+  "id": "towneplace-suites-draper-steel-cut-oatmeal-banana",
+  "name": "TownePlace Suites (Draper, UT) Warm Oatmeal Station with Brown Sugar & Fresh Banana",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "TownePlace Suites Salt Lake City Draper",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "draper",
+    "breakfast",
+    "oatmeal",
+    "banana"
+  ],
+  "searchKeywords": [
+    "towneplace suites oatmeal",
+    "hotel oatmeal station draper",
+    "healthy hotel breakfast"
+  ],
+  "whyItWorks": "Warm rolled oats provide gut-soothing soluble fiber (beta-glucan) that forms smooth stool bulk without scratching. Sliced fresh banana provides natural potassium.",
+  "prepOrOrderInstructions": "Ladle hot oatmeal into a bowl, stir in a spoonful of brown sugar, and slice a fresh ripe banana on top (pass on almonds and dried cranberries).",
+  "watchOuts": [
+    "Skip whole almonds, walnuts, and granola toppings if stricturing"
+  ]
+}

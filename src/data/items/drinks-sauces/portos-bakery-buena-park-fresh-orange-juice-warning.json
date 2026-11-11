@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-fresh-orange-juice-warning",
+  "name": "Porto's Bakery (Buena Park, CA) Fresh-Squeezed Orange Juice (Citrus Acid Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "drink",
+    "orange-juice",
+    "citrus",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "portos orange juice",
+    "fresh squeezed oj portos",
+    "citrus drink portos"
+  ],
+  "whyItWorks": "Porto's squeezes fresh California oranges daily. However, concentrated citric acid causes direct chemical burning, heartburn, and rapid colon spasms in sensitive digestive tracts.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares or citrus intolerance. Choose bottled water, hot tea, or milk instead.",
+  "watchOuts": [
+    "Concentrated citric acid burns ulcerated digestive lining"
+  ]
+}

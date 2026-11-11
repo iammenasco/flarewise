@@ -1,0 +1,41 @@
+{
+  "id": "til-we-meet-again-portobello-moussaka-vegetable-strudel",
+  "name": "Portobello Mushroom Moussaka & Lentil Vegetable Strudel ('Til We Meet Again)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "mushroom",
+    "beans",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "portobello moussaka",
+    "vegetable strudel",
+    "til we meet again vegetarian"
+  ],
+  "whyItWorks": "Both vegetarian farewell mains are high-FODMAP: Moussaka combines portobello mushrooms and eggplant, while the Strudel packs whole lentils and leeks.",
+  "prepOrOrderInstructions": "Skip both during flares and ask for plain linguini pasta with olive oil/butter and aged Parmesan.",
+  "watchOuts": [
+    "Portobello mannitol and eggplant seeds in Moussaka",
+    "Whole lentils and leeks in Vegetable Strudel"
+  ]
+}

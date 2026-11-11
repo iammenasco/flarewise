@@ -1,0 +1,48 @@
+{
+  "id": "cabanas-marceline-carving-station-roast-turkey-beef",
+  "name": "Buffet Carving Station (Roast Turkey, Prime Rib, or Ham)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "ham",
+    "potato",
+    "mashed-potatoes",
+    "gravy",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "cabanas lunch buffet",
+    "marceline market carving station",
+    "roast turkey",
+    "carved roast beef",
+    "mashed potatoes",
+    "disney cruise lunch"
+  ],
+  "whyItWorks": "Hand-carved roasted turkey breast, tenderloin/roast beef, and glazed ham paired with peeled mashed potatoes and savory gravy give you a 9.5/10 hot Thanksgiving-style lunch every day at sea.",
+  "prepOrOrderInstructions": "Head straight to the carving board at Cabanas or Marceline Market, ask for lean center slices (no peppercorn bark), and pair with whipped mashed potatoes, gravy, and a soft white dinner roll.",
+  "watchOuts": [
+    "Outer black peppercorn or herb crusts on carved beef"
+  ]
+}

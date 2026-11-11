@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-red-rose-taverne-burger-flatbread",
+  "name": "Disneyland Red Rose Taverne Cheeseburger, Chicken Tenders or Cheese Flatbread Pizza",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Red Rose Taverne (Fantasyland · Disneyland Park)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "burger",
+    "cheese",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "red rose taverne disneyland",
+    "fantasyland lunch",
+    "grey stuff disneyland"
+  ],
+  "whyItWorks": "Offers straightforward Angus cheeseburgers on soft brioche buns, crispy chicken tenders, and kids' grilled chicken plates right in Fantasyland.",
+  "prepOrOrderInstructions": "Order a plain Cheeseburger (no secret sauce/pickles) or Kids' Chicken meal with fries or banana; if sharing \"The Grey Stuff\" cookies-and-cream mousse dessert, take a lactase enzyme.",
+  "watchOuts": [
+    "Skip the spicy/tangy sauces on the specialty burgers and take lactase for cheese flatbreads or Grey Stuff mousse"
+  ]
+}

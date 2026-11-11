@@ -1,0 +1,40 @@
+{
+  "id": "dca-boudin-bakery-san-fransokyo-sourdough-loaf",
+  "name": "DCA Boudin Bakery Fresh San Fransokyo Sourdough Bread Loaf (Baymax Shape)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Aunt Cass Café / Boudin Bakery (Disney California Adventure)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "bread",
+    "sourdough",
+    "san-fransokyo",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "boudin sourdough dca",
+    "baymax sourdough bread",
+    "san fransokyo sourdough loaf"
+  ],
+  "whyItWorks": "Scratch-baked sourdough made with the original 1849 San Francisco mother dough. Long natural wild yeast fermentation digests wheat fructans, making this one of the most gut-friendly carbs in the resort.",
+  "prepOrOrderInstructions": "Pick up a fresh warm sourdough loaf (Mickey or Baymax shape); tear pieces to eat plain or with butter.",
+  "watchOuts": [
+    "None; premier flare-safe theme park carbohydrate"
+  ]
+}

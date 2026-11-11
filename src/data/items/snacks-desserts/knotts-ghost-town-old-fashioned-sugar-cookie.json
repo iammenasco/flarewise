@@ -1,0 +1,37 @@
+{
+  "id": "knotts-ghost-town-old-fashioned-sugar-cookie",
+  "name": "Soft-Baked Old-Fashioned Sugar Cookie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ghost Town Bakery (Knott's Berry Farm)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "sugar-cookie",
+    "ghost-town",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "ghost town bakery",
+    "sugar cookie",
+    "soft cookie",
+    "knotts berry farm"
+  ],
+  "whyItWorks": "Soft, tender bakery sugar cookie made with refined white flour, sugar, and egg. Contains zero nuts, seeds, chocolate, or rough fiber, making it a safe gentle park treat.",
+  "prepOrOrderInstructions": "Enjoy with a cup of warm herbal tea or water. Share or eat slowly to manage sugar intake."
+}

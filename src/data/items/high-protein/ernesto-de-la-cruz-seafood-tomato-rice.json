@@ -1,0 +1,43 @@
+{
+  "id": "ernesto-de-la-cruz-seafood-tomato-rice",
+  "name": "Ernesto de la Cruz's Grilled Seafood & Arroz Rojo Tomato Rice (Night 2)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "seafood",
+    "shrimp",
+    "fish",
+    "rice",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "ernesto de la cruz seafood",
+    "grilled seafood tomato rice",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Grilled scallops, shrimp, and white fish over soft Mexican rice provide high-quality lean protein.",
+  "prepOrOrderInstructions": "Ask for the seafood grilled with salt and olive oil only (no chili-lime seasoning) and served over plain steamed white rice instead of spiced tomato rice.",
+  "watchOuts": [
+    "Lime wedge garnish (discard)",
+    "Garlic/onion tomato seasoning in Arroz Rojo"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dca-flos-v8-cafe-turkey-club-cheeseburger",
+  "name": "DCA Flo's V8 Cafe (Cars Land) Ka-Cheeseburger (Plain Mod) or Roasted Turkey Club",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Flo's V8 Cafe (Cars Land · Disney California Adventure)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "turkey",
+    "burger",
+    "sandwich",
+    "cheese",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "flos v8 cafe cars land",
+    "ka cheeseburger dca",
+    "cars land lunch"
+  ],
+  "whyItWorks": "Flo's 1950s diner in Cars Land serves a classic 1/3-lb Angus cheeseburger with aged cheddar on a soft bun (plus a Kids' Micro Burger) and thin-cut steak fries.",
+  "prepOrOrderInstructions": "Order the Ka-Cheeseburger (or Kids' Burger) with cheddar cheese only—hold the 1000 Island dressing, caramelized onions, lettuce, and pickles—and pair with steak fries or a mandarin-free fruit side.",
+  "watchOuts": [
+    "Do NOT eat the cutaneous/citrus Mandarin Oranges that come with Disney Kids' Meals (citrus trigger)—swap for fries or applesauce"
+  ]
+}

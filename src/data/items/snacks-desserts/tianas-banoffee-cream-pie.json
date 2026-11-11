@@ -1,0 +1,40 @@
+{
+  "id": "tianas-banoffee-cream-pie",
+  "name": "White Chocolate Raspberry / Banoffee Cream Pie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "banoffee cream pie",
+    "white chocolate raspberry tart",
+    "tianas place dessert",
+    "disney wonder"
+  ],
+  "whyItWorks": "Smooth banana-toffee cream pie in a graham/shortbread crust is completely seedless (unlike whole-berry tarts).",
+  "prepOrOrderInstructions": "Enjoy the banana and caramel cream layers with a Lactaid enzyme; scrape off any seedy raspberry coulis dots on the plate.",
+  "watchOuts": [
+    "Heavy whipped cream and dulce de leche dairy",
+    "Raspberry seeds if plated with berry coulis"
+  ]
+}

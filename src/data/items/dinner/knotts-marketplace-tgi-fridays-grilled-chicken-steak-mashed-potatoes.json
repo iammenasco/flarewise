@@ -1,0 +1,39 @@
+{
+  "id": "knotts-marketplace-tgi-fridays-grilled-chicken-steak-mashed-potatoes",
+  "name": "Knott's California Marketplace TGI Fridays Simply Grilled Chicken Breast or Sirloin Steak & Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "TGI Fridays (California Marketplace · Outside Knott's Berry Farm Gate)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "salmon",
+    "potato",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "tgi fridays knotts berry farm",
+    "california marketplace restaurants knotts"
+  ],
+  "whyItWorks": "Right outside the Knott's exit gate, TGI Fridays has a \"Simply Grilled\" section offering un-sauced grilled chicken breast, Atlantic salmon, or center-cut sirloin paired with cheddar mashed potatoes or jasmine rice.",
+  "prepOrOrderInstructions": "Order the Simply Grilled Chicken Breast, Salmon, or Sirloin with **NO Whiskey-Glaze** and **NO Cajun spice**, paired with jasmine white rice or mashed potatoes (take lactase for the potatoes).",
+  "watchOuts": [
+    "Skip the loaded potato skins, buffalo wings, and garlic-butter broccoli"
+  ]
+}

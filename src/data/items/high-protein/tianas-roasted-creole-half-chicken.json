@@ -1,0 +1,40 @@
+{
+  "id": "tianas-roasted-creole-half-chicken",
+  "name": "Roasted Creole Half Chicken (Plain Roast Mod)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "roast",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "roasted creole half chicken",
+    "tianas place chicken",
+    "disney wonder"
+  ],
+  "whyItWorks": "Slow-roasted chicken breast and thigh meat is soft and easy to digest once you remove the spiced skin and skip the pecan-studded side.",
+  "prepOrOrderInstructions": "Remove the spiced skin (or request the lighter-note plain roasted chicken breast) and swap the sweet potato/pecan bread pudding side for plain mashed potatoes or white rice.",
+  "watchOuts": [
+    "Whole pecan nut shards in the bread pudding side",
+    "Creole spice on the chicken skin",
+    "Whole corn kernels"
+  ]
+}

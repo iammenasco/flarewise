@@ -1,0 +1,39 @@
+{
+  "id": "holiday-spiced-eggnog-dairy-warning",
+  "name": "Traditional Holiday Spiced Eggnog (Heavy Cream & Nutmeg Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "christmas",
+    "eggnog",
+    "dairy",
+    "spices",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "holiday eggnog",
+    "christmas eggnog dairy",
+    "spiced eggnog holiday drink"
+  ],
+  "whyItWorks": "Packed with heavy cream, whole milk, egg yolks, sugar, and nutmeg. Extremely dense dairy fat and lactose trigger immediate diarrhea, gas, and cramping in sensitive stomachs.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active IBD. In remission, sip a small 2 oz portion diluted with oat milk or choose dairy-free oat nog.",
+  "watchOuts": [
+    "Very high dairy lactose and fat density trigger rapid gastric dumping"
+  ]
+}

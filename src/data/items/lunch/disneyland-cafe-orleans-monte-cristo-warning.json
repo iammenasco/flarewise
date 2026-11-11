@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-cafe-orleans-monte-cristo-warning",
+  "name": "Famous Deep-Fried Monte Cristo Sandwich (Grease/Sugar Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cafe Orleans (Disneyland)",
+  "crohnsScore": 3.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "monte-cristo",
+    "fried-food",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "cafe orleans",
+    "disneyland",
+    "monte cristo",
+    "deep fried sandwich",
+    "new orleans square"
+  ],
+  "whyItWorks": "Layers of ham, turkey, and swiss cheese dipped in thick batter, deep-fried in boiling oil, dusted with powdered sugar, and served with seed-heavy blackberry jam. The enormous fat concentration triggers massive bile dumping and acute diarrhea.",
+  "prepOrOrderInstructions": "Extreme Fat Warning: Avoid during Crohn's flares. If in remission, take 1-2 small bites and share the remainder, avoiding the berry seeds."
+}

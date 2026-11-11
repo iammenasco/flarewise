@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-blue-bayou-roasted-chicken-mashed-potatoes",
+  "name": "Disneyland Blue Bayou Restaurant Herb-Roasted Chicken Breast & Mashed Potatoes (Plain Mod)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Blue Bayou Restaurant (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "potato",
+    "rice",
+    "high-protein",
+    "gluten-free-option",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "blue bayou roasted chicken",
+    "blue bayou safe entree disneyland"
+  ],
+  "whyItWorks": "Oven-roasted chicken breast (available on both the adult entrée menu and kids' menu) served with whipped potatoes or steamed white rice and warm bread rolls is one of the gentlest sit-down meals in the park.",
+  "prepOrOrderInstructions": "Ask your server for the Roasted Chicken Breast with no Creole/pepper sauce, paired with mashed potatoes or steamed white rice and cooked carrots.",
+  "watchOuts": [
+    "Ask for pan jus/sauce on the side and skip any raw arugula garnish"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "some-beaches-milkshake",
+  "name": "Some Beaches Hand-Spun Raspberry or Oreo Milkshake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "sweet",
+    "dessert",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "some beaches shake",
+    "laketown raspberry shake",
+    "some beaches oreo shake"
+  ],
+  "whyItWorks": "Classic Bear Lake ice cream shake; if indulging in steady remission, choose Vanilla or Oreo (seedless) with lactase enzymes rather than Raspberry, which is loaded with gritty raspberry seeds.",
+  "prepOrOrderInstructions": "Choose Vanilla or Oreo instead of Raspberry to avoid insoluble berry seeds, share a small size, and take lactase enzymes beforehand.",
+  "watchOuts": [
+    "High lactose, dairy fat, and sugar load",
+    "Raspberry shake contains hundreds of hard, insoluble berry seeds"
+  ]
+}

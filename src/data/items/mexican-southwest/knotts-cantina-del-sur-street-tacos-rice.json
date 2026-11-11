@@ -1,0 +1,40 @@
+{
+  "id": "knotts-cantina-del-sur-street-tacos-rice",
+  "name": "Knott's Cantina Del Sur (Fiesta Village) Carne Asada or Pollo Street Tacos (Plain Meat & Tortilla Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cantina Del Sur (Fiesta Village · Knott's Berry Farm)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "rice",
+    "gluten-free-option",
+    "dairy-free",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "cantina del sur knotts",
+    "street tacos fiesta village knotts"
+  ],
+  "whyItWorks": "Simple grilled steak or chicken street tacos on warm soft tortillas—ordering them \"meat only\" without raw diced onions, cilantro, or lime keeps them clean.",
+  "prepOrOrderInstructions": "Order Carne Asada or Pollo Tacos plain (meat and tortilla only, no raw onion or cilantro) and do not use the lime wedges or hot salsa.",
+  "watchOuts": [
+    "Skip the margaritas and citrus agua frescas at the cantina window"
+  ]
+}

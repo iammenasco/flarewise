@@ -1,0 +1,37 @@
+{
+  "id": "tandoori-oven-logan-sweet-mango-lassi-warning",
+  "name": "Chilled Sweet Mango Lassi (Yogurt Smoothie)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Indian",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "indian",
+    "mango-lassi",
+    "drink"
+  ],
+  "searchKeywords": [
+    "tandoori oven",
+    "mango lassi",
+    "yogurt drink",
+    "logan utah"
+  ],
+  "whyItWorks": "Traditional curd yogurt blended with sweet mango pulp, sugar, and milk. Although yogurt cultures offer probiotics, the high lactose content and concentrated mango fructose can overwhelm compromised enzymes, causing osmotic diarrhea.",
+  "prepOrOrderInstructions": "Lactose & High Fructose Warning: Sip just a few ounces in remission with lactase support. Avoid during flares."
+}

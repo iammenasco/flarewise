@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-downtown-disney-black-tap-plain-all-american-burger-chicken",
+  "name": "Downtown Disney Black Tap Craft Burgers Plain \"All-American\" Burger or Grilled Chicken Sandwich",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Black Tap Craft Burgers & Shakes (Downtown Disney District · Disneyland Resort)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "turkey",
+    "burger",
+    "sandwich",
+    "cheese",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "black tap downtown disney",
+    "downtown disney burgers"
+  ],
+  "whyItWorks": "Black Tap grills tender prime beef burgers, turkey burgers, and buttermilk-free grilled chicken breast sandwiches on soft Martin's potato rolls!",
+  "prepOrOrderInstructions": "Order the All-American Burger, California Turkey Burger, or Grilled Chicken Sandwich on the Martin's potato roll with aged cheddar or Swiss only (no special sauce, pickles, or raw onions).",
+  "watchOuts": [
+    "Black Tap's famous CrazyShakes contain 1,200+ calories of heavy dairy cream and sugar—skip or take 1–2 small spoonfuls with lactase in deep remission"
+  ]
+}

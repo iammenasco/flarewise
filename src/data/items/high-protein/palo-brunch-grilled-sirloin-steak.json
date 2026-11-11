@@ -1,0 +1,44 @@
+{
+  "id": "palo-brunch-grilled-sirloin-steak",
+  "name": "Palo Brunch Grilled Cut Sirloin Steak with Barolo Wine Potatoes",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo grilled cut sirloin steak",
+    "palo brunch steak",
+    "barolo wine potatoes"
+  ],
+  "whyItWorks": "Lean grilled sirloin steak and roasted potatoes provide high iron and protein with minimal fiber.",
+  "prepOrOrderInstructions": "Order medium-rare with thyme-herb butter on the side and skip the green beans if flaring.",
+  "watchOuts": [
+    "Green bean fiber on the side",
+    "Butter on steak"
+  ]
+}

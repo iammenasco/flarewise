@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-stage-door-funnel-cake-warning",
+  "name": "Stage Door Fresh Funnel Cake with Powdered Sugar",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Stage Door Café (Disneyland)",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "theme-park",
+    "funnel-cake",
+    "fried-food",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "stage door cafe",
+    "disneyland",
+    "funnel cake",
+    "powdered sugar",
+    "frontierland"
+  ],
+  "whyItWorks": "Batter poured straight into a deep-fat fryer creates a web of crispy pastry that acts like a sponge for hot frying oil, topped with refined sugar. It frequently provokes acute dumping syndrome and bowel distress.",
+  "prepOrOrderInstructions": "Extreme Grease Warning: Share a single forkful if in stable remission, or skip entirely in favor of a soft Mickey pretzel."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "holiday-creamed-sweet-corn-warning",
+  "name": "Holiday Southern Creamed Sweet Corn (Insoluble Corn Hull Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Traditional Holiday Feast (Thanksgiving / Christmas)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "corn",
+    "vegetables",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "holiday creamed corn",
+    "thanksgiving sweet corn",
+    "creamed corn casserole"
+  ],
+  "whyItWorks": "Whole corn kernels have tough outer cellulose hulls that cannot be digested by human enzymes. In stricturing Crohn's, whole corn kernels frequently cause complete bowel obstructions.",
+  "prepOrOrderInstructions": "Trigger warning item: absolute avoid for stricturing Crohn's disease and active flares. Substitute smooth mashed potatoes or sweet potatoes.",
+  "watchOuts": [
+    "Insoluble corn hulls pass undigested and can block narrowed intestines"
+  ]
+}

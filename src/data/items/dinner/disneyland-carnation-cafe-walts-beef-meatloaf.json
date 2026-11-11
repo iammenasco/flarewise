@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-carnation-cafe-walts-beef-meatloaf",
+  "name": "Disneyland Carnation Cafe Walt's Favorite Beef Meatloaf & Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Carnation Cafe (Disneyland Park)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "beef",
+    "comfort-food",
+    "mashed-potatoes"
+  ],
+  "searchKeywords": [
+    "carnation cafe meatloaf",
+    "walts meatloaf disneyland",
+    "main street meatloaf"
+  ],
+  "whyItWorks": "Ground beef and pork meatloaf baked tender with mild seasonings, served with fluffy mashed potatoes and savory brown gravy. Soft texture requires minimal mechanical breakdown.",
+  "prepOrOrderInstructions": "Order Walt's Meatloaf with mashed potatoes and light brown gravy (ask for steamed carrots instead of seasoned vegetables).",
+  "watchOuts": [
+    "None; classic comfort dinner"
+  ]
+}

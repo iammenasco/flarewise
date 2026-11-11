@@ -1,0 +1,40 @@
+{
+  "id": "aggie-ice-cream-usu-logan-true-aggie-night-seed-warning",
+  "name": "Aggie Ice Cream (USU Logan, UT) \"True Aggie Night\" Raspberry Swirl (Seed Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Aggie Ice Cream (Utah State University, Logan, UT)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "usu",
+    "ice-cream",
+    "seeds",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "true aggie night ice cream",
+    "usu raspberry ice cream",
+    "aggie ice cream true aggie night"
+  ],
+  "whyItWorks": "Vanilla ice cream swirled with real raspberry puree and filled with dark chocolate hearts stuffed with raspberry jelly. Hard raspberry seeds can irritate strictures.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares or stricturing Crohn's. Choose Salted Caramel or Old Main Toffee instead.",
+  "watchOuts": [
+    "Raspberry seeds present a mechanical stricture hazard"
+  ]
+}

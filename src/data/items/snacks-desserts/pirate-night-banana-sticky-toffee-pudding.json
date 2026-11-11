@@ -1,0 +1,43 @@
+{
+  "id": "pirate-night-banana-sticky-toffee-pudding",
+  "name": "Bananas in Paradise / Warm Banana Sticky Toffee Pudding (Pirate Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "sweet",
+    "bakery",
+    "ice-cream",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "bananas in paradise",
+    "banana sticky toffee pudding",
+    "pirate night dessert",
+    "disney cruise"
+  ],
+  "whyItWorks": "Warm caramelized bananas and soft toffee sponge cake provide soluble pectin fiber with zero citrus or nuts.",
+  "prepOrOrderInstructions": "Pair with a Lactaid enzyme for the toffee sauce and vanilla ice cream.",
+  "watchOuts": [
+    "Butter/cream in toffee sauce and ice cream"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pirate-night-macadamia-cheesecake-tart",
+  "name": "Caramel-Macadamia Nut Cheesecake Tart (Pirate Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "nuts",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "caramel macadamia nut cheesecake",
+    "pirate night cheesecake",
+    "disney cruise"
+  ],
+  "whyItWorks": "The cheesecake filling is smooth, but the topping is encrusted with crunchy roasted macadamia nut chunks.",
+  "prepOrOrderInstructions": "Scrape off the entire macadamia nut crust on top and eat only the smooth cheesecake interior with a Lactaid.",
+  "watchOuts": [
+    "Hard roasted macadamia nut pieces",
+    "Cream cheese lactose"
+  ]
+}

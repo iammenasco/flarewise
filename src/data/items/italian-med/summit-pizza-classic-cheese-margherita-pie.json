@@ -1,0 +1,42 @@
+{
+  "id": "summit-pizza-classic-cheese-margherita-pie",
+  "name": "Summit Pizza Co. Scratch-Dough Cheese or BBQ/Herb Chicken Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "cheese",
+    "chicken",
+    "bear-lake",
+    "garden-city",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "summit pizza",
+    "garden city pizza",
+    "logan summit pizza",
+    "cheese pizza"
+  ],
+  "whyItWorks": "Scratch-fermented white flour crust topped with light sauce, mozzarella, and optional grilled chicken—much gentler than greasy pepperoni/sausage Meat Lovers pies.",
+  "prepOrOrderInstructions": "Order an 8\" or 12\" Cheese Pizza (or add grilled chicken) with light sauce and light cheese, and pair with a Lactaid.",
+  "watchOuts": [
+    "Skip spicy jalapeños, raw onions, bell peppers, and greasy pepperoni/sausage"
+  ]
+}

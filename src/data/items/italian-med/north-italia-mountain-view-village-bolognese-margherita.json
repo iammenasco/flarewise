@@ -1,0 +1,43 @@
+{
+  "id": "north-italia-mountain-view-village-bolognese-margherita",
+  "name": "North Italia (Mountain View Village · Herriman/Riverton) Fresh Pasta Bolognese & Margherita Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "North Italia (Mountain View Village · Riverton / Herriman / South Jordan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "beef",
+    "pork",
+    "pizza",
+    "cheese",
+    "herriman",
+    "south-jordan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "north italia mountain view village",
+    "north italia herriman",
+    "north italia bolognese",
+    "riverton restaurants"
+  ],
+  "whyItWorks": "Minutes from Holiday Inn Express Herriman at Mountain View Village: North Italia makes fresh daily egg pasta in-house, and their braised Bolognese or plain butter/parmesan pasta is soft and low-fiber.",
+  "prepOrOrderInstructions": "Order the Traditional Bolognese (or fresh trofie/tagliatelle pasta with butter/olive oil, Parmigiano-Reggiano, and grilled chicken/salmon) or the Margherita Pizza with a Lactaid.",
+  "watchOuts": [
+    "Ask to hold spicy calabrian chilies on any pasta or pizza dish"
+  ]
+}

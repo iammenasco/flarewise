@@ -1,0 +1,43 @@
+{
+  "id": "holiday-peeled-dutch-apple-pie",
+  "name": "Holiday Peeled Apple Pie or French Silk / Banana Cream Pie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Thanksgiving & Christmas Dessert Table",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "apple",
+    "pie",
+    "cinnamon",
+    "banana",
+    "chocolate",
+    "sweet",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "apple pie",
+    "french silk pie",
+    "banana cream pie",
+    "thanksgiving dessert"
+  ],
+  "whyItWorks": "Peeled baked apples in a flaky white flour crust (or smooth chocolate French Silk / Banana Cream pie) offer seedless, nut-free holiday dessert options.",
+  "prepOrOrderInstructions": "Confirm no lemon juice or walnuts were added to the apple pie, and take a Lactaid if topping with vanilla ice cream or eating cream pie.",
+  "watchOuts": [
+    "Ensure apples are fully peeled and no walnuts/pecans are in the streusel"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "animators-burrata-tomato-caprese",
+  "name": "Fresh Burrata Mozzarella & Toybox Tomato Caprese (Night 2)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "tomato",
+    "gluten-free",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "burrata caprese",
+    "animation magic menu",
+    "animators palate",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Creamy fresh burrata cheese is zero-fiber and soothing, while the heirloom cherry tomatoes carry skins and seeds.",
+  "prepOrOrderInstructions": "Enjoy the creamy burrata cheese with olive oil and white rolls; skip the cherry tomato skins if flaring and take a Lactaid.",
+  "watchOuts": [
+    "Fresh cream inside burrata (lactose)",
+    "Cherry tomato skins and seeds"
+  ]
+}

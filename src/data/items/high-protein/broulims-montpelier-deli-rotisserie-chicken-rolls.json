@@ -1,0 +1,43 @@
+{
+  "id": "broulims-montpelier-deli-rotisserie-chicken-rolls",
+  "name": "Broulim's Fresh Foods (Montpelier, ID) Hot Deli Rotisserie Chicken, Mashed Potatoes & Rolls",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Broulim's Fresh Foods Deli & Bakery (Montpelier, ID)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "rotisserie",
+    "bread",
+    "high-protein",
+    "bear-lake",
+    "montpelier",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "broulims montpelier",
+    "montpelier grocery deli",
+    "rotisserie chicken bear lake",
+    "broulims bakery rolls"
+  ],
+  "whyItWorks": "The #1 flare-safe rescue on the Idaho side of Bear Lake: hot roasted chicken breast and scratch-baked soft white dinner rolls from the Montpelier Broulim's deli.",
+  "prepOrOrderInstructions": "Pick up a hot rotisserie chicken (eat the skinless breast meat), a bag of famous Broulim's soft white bakery rolls, and bananas/broth for the cabin.",
+  "watchOuts": [
+    "Remove seasoned chicken skin if flaring",
+    "Skip fried potato wedges (\"JoJos\") in favor of mashed potatoes or rolls"
+  ]
+}

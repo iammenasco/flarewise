@@ -1,0 +1,42 @@
+{
+  "id": "some-beaches-laketown-strawberry-cheesecake-thick-shake",
+  "name": "Some Beaches (Laketown, UT) Hand-Spun Strawberry Cheesecake Shake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "shake",
+    "ice-cream",
+    "seeds",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "some beaches strawberry cheesecake shake",
+    "bear lake thick shake",
+    "laketown shake"
+  ],
+  "whyItWorks": "Extremely rich shake with heavy dairy lactose, high sugar, and tiny strawberry seeds. Seeds and heavy cold cream provoke intense bowel spasms during active IBD.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares. In remission, share a small cup with a friend and take a lactase enzyme tablet.",
+  "watchOuts": [
+    "Contains whole strawberry seeds that irritate inflamed mucosal tissue",
+    "High dairy lactose"
+  ]
+}

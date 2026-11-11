@@ -1,0 +1,41 @@
+{
+  "id": "let-the-magic-begin-prosciutto-bruschetta",
+  "name": "Prosciutto di Parma, Mozzarella & Tomato Bruschetta (Let the Magic Begin Menu)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "cheese",
+    "tomato",
+    "bread",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "prosciutto mozzarella tomato bruschetta",
+    "let the magic begin menu",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Thin Prosciutto di Parma and fresh mozzarella over toasted ciabatta are low-fiber once roasted pepper/tomato skins are pushed aside.",
+  "prepOrOrderInstructions": "Eat the prosciutto, fresh mozzarella (with a Lactaid), and bread; scrape off the fire-roasted bell pepper skins if flaring.",
+  "watchOuts": [
+    "Roasted bell pepper and tomato skins",
+    "Fresh mozzarella lactose"
+  ]
+}

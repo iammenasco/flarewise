@@ -1,0 +1,41 @@
+{
+  "id": "takara-sushi-logan-steamed-pork-gyoza",
+  "name": "Takara Sushi (Logan, UT) Steamed Pork & Scallion Gyoza Dumplings (No Chili Mod)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "japanese",
+    "dumplings",
+    "steamed"
+  ],
+  "searchKeywords": [
+    "takara sushi gyoza",
+    "steamed gyoza logan",
+    "takara dumplings"
+  ],
+  "whyItWorks": "Steamed gyoza are much easier to digest than deep-fried or pan-charred dumplings. The minced pork filling is tender and easy to break down.",
+  "prepOrOrderInstructions": "Order gyoza steamed (not fried) with mild soy dipping sauce (hold chili oil).",
+  "watchOuts": [
+    "Avoid spicy chili dipping sauce"
+  ]
+}

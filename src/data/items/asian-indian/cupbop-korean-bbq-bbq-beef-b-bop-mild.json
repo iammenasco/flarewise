@@ -1,0 +1,40 @@
+{
+  "id": "cupbop-korean-bbq-bbq-beef-b-bop-mild",
+  "name": "Cupbop Korean BBQ (Logan, Draper & Orem, UT) \"B-Bop\" BBQ Beef over Rice & Glass Noodles",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Cupbop Korean BBQ (Utah Locations)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "beef",
+    "korean",
+    "rice",
+    "noodles"
+  ],
+  "searchKeywords": [
+    "cupbop b bop",
+    "cupbop korean bbq utah",
+    "korean beef bowl logan orem"
+  ],
+  "whyItWorks": "Thinly sliced marinated Korean ribeye beef (bulgogi style) served over steamed white rice and translucent sweet potato glass noodles (japchae). Sweet potato starch noodles are exceptionally gentle on digestion.",
+  "prepOrOrderInstructions": "Order the B-Bop explicitly at 'Spice Level 1' (sweet mild soy glaze); request no spicy sauce and hold cabbage slaw.",
+  "watchOuts": [
+    "Specify Spice Level 1 (mild); levels 4-10 contain intense chili oil and ghost pepper"
+  ]
+}

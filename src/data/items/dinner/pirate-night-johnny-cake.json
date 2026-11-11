@@ -1,0 +1,43 @@
+{
+  "id": "pirate-night-johnny-cake",
+  "name": "Warm Caribbean Johnny Cake Cornbread with Mango Dip (Pirate Night Bread Service)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "corn",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "johnny cake",
+    "mango dip",
+    "pirate night bread",
+    "disney cruise"
+  ],
+  "whyItWorks": "Made from finely ground degermed cornmeal and white flour with zero whole corn kernels—soft, slightly sweet, and easy to digest.",
+  "prepOrOrderInstructions": "Enjoy warm with plain butter or a dab of the smooth mango dip (verify no chili flakes are added to the dip).",
+  "watchOuts": [
+    "High-fructose mango dip in large quantities",
+    "Dairy butter/milk in cornbread"
+  ]
+}

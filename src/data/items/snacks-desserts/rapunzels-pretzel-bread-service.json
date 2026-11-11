@@ -1,0 +1,41 @@
+{
+  "id": "rapunzels-pretzel-bread-service",
+  "name": "Rapunzel's Warm Pretzel Bread Service",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "pretzel",
+    "salty",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "pretzel bread",
+    "rapunzels royal table bread",
+    "disney magic",
+    "lantern night"
+  ],
+  "whyItWorks": "Pillow-soft Bavarian pretzel rolls made from refined white flour and yeast digest effortlessly with near-zero roughage.",
+  "prepOrOrderInstructions": "Eat the warm pretzel bread with plain butter (or smooth cheese dip) and skip the whole-grain mustard seed dip if flaring.",
+  "watchOuts": [
+    "Whole mustard seeds in the mustard dip",
+    "Coarse salt crystals if mouth ulcers are present"
+  ]
+}

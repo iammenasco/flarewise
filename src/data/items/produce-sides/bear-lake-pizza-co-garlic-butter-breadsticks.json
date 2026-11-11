@@ -1,0 +1,40 @@
+{
+  "id": "bear-lake-pizza-co-garlic-butter-breadsticks",
+  "name": "Bear Lake Pizza Co. (Garden City, UT) Soft Dough Breadsticks with Marinara Dip",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Bear Lake Pizza Co. (Garden City, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "breadsticks",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "bear lake pizza breadsticks",
+    "garden city breadsticks",
+    "soft pizza dough sticks"
+  ],
+  "whyItWorks": "Freshly baked soft pizza dough brushed with light butter and herbs. Dipped in smooth, mild tomato sauce. Soft, filling, and seed-free.",
+  "prepOrOrderInstructions": "Order Breadsticks with light garlic and marinara dipping sauce.",
+  "watchOuts": [
+    "Request light garlic"
+  ]
+}

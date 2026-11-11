@@ -1,0 +1,48 @@
+{
+  "id": "holiday-sweet-potato-casserole-marshmallows",
+  "name": "Thanksgiving & Christmas Whipped Sweet Potato Casserole with Toasted Marshmallows (No Pecans)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Thanksgiving & Christmas Holiday Table",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Peeled Sweet Potatoes / Yams",
+    "Mini Marshmallows",
+    "Butter or Ghee",
+    "Brown Sugar",
+    "Cinnamon"
+  ],
+  "tags": [
+    "sweet-potato",
+    "sweet",
+    "soluble-fiber",
+    "gluten-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "sweet potato casserole",
+    "candied yams marshmallows",
+    "thanksgiving sweet potatoes"
+  ],
+  "whyItWorks": "Peeled, mashed sweet potatoes are packed with prebiotic soluble fiber and beta-carotene, and gelatin-based marshmallows melt into a zero-fiber sweet crust.",
+  "prepOrOrderInstructions": "Always choose the Marshmallow-topped half of the casserole (or bake yours with marshmallows and brown sugar only)—strictly avoiding any chopped pecan streusel topping.",
+  "watchOuts": [
+    "Strictly avoid chopped pecan toppings on sweet potato casserole"
+  ]
+}

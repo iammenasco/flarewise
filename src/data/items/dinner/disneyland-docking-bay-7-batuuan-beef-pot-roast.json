@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-docking-bay-7-batuuan-beef-pot-roast",
+  "name": "Disneyland Docking Bay 7 Batuuan Beef Pot Roast & Cavatappi Pasta / Mash (Hold Pickled Onions & Jalapeños!)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Docking Bay 7 Food and Cargo (Star Wars: Galaxy's Edge · Disneyland Park)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "pasta",
+    "potato",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "batuuan beef docking bay 7",
+    "galaxys edge pot roast disneyland"
+  ],
+  "whyItWorks": "Slow-braised beef pot roast is fork-tender; asking the kitchen to leave off the pickled red onions, cilantro, and sliced jalapeños makes the braised beef and pasta/mash base very gentle.",
+  "prepOrOrderInstructions": "Order the Braised Beef dish and ask at the counter for **NO jalapeños** and **NO pickled onions** on top (or push them completely off before eating).",
+  "watchOuts": [
+    "Always remove the sliced jalapeño garnish and pickled red onions on top"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "holiday-christmas-morning-breakfast-strata-orange-rolls",
+  "name": "Christmas Morning Egg, Sausage & Cheese Breakfast Casserole vs. Orange Rolls (Citrus Warning)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Christmas Morning Breakfast Table",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Eggs",
+    "White Bread or Peeled Hashbrowns",
+    "Turkey Sausage or Diced Ham",
+    "Aged Cheddar Cheese"
+  ],
+  "tags": [
+    "eggs",
+    "cheese",
+    "ham",
+    "cinnamon",
+    "breakfast",
+    "holiday",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "christmas morning breakfast casserole",
+    "wife saver casserole",
+    "christmas cinnamon rolls",
+    "orange rolls"
+  ],
+  "whyItWorks": "Overnight egg, bread/hashbrown, ham, and aged cheddar breakfast strata (\"Wife Saver\") and classic cinnamon rolls are warm, low-fiber Christmas morning traditions.",
+  "prepOrOrderInstructions": "Bake your Christmas morning casserole with eggs, ham/turkey sausage, bread/hashbrowns, and cheddar (no bell peppers or onions), and bake Classic Cinnamon Rolls instead of Utah Orange Rolls (which contain orange zest/juice in the frosting).",
+  "watchOuts": [
+    "CITRUS AVOID: Traditional Utah Christmas Orange Rolls use grated orange peel/zest and orange juice—stick to Cinnamon Rolls!"
+  ]
+}

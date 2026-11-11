@@ -1,0 +1,44 @@
+{
+  "id": "til-we-meet-again-beef-wellington",
+  "name": "Roasted Fillet of Beef Wellington in Puff Pastry ('Til We Meet Again / Marvel Night 2)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · 'Til We Meet Again / Disney Treasure · Worlds of Marvel Night 2",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "bakery",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "beef wellington",
+    "roasted fillet of beef wellington",
+    "til we meet again",
+    "worlds of marvel"
+  ],
+  "whyItWorks": "Center-cut beef tenderloin wrapped in golden puff pastry with fingerling potatoes is a flagship farewell entrée.",
+  "prepOrOrderInstructions": "If mushroom duxelles (mannitol) between the pastry and beef bothers your gut, scrape off the thin mushroom layer or ask for a plain roasted beef tenderloin filet.",
+  "watchOuts": [
+    "Finely minced mushroom duxelles layer inside pastry",
+    "Butter in puff pastry"
+  ]
+}

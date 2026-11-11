@@ -1,0 +1,44 @@
+{
+  "id": "animators-grilled-tuna-steak",
+  "name": "Grilled Ahi Tuna Steak (Plain Sear Mod)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "skillet",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "tuna",
+    "fish",
+    "steak",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "grilled tuna steak",
+    "animators palate tuna",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Seared ahi tuna steak has zero gristle and 0g fiber, delivering 35g+ of ultra-clean protein.",
+  "prepOrOrderInstructions": "Ask for the tuna steak seared plain with olive oil/butter and served with mashed potatoes or steamed white rice instead of the eggplant caponata, sun-dried tomato pesto, and skin-on fingerling potatoes.",
+  "watchOuts": [
+    "Eggplant caponata and sun-dried tomato skins",
+    "Fingerling potato skins"
+  ]
+}

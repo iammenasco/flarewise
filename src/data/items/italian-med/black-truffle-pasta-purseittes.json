@@ -1,0 +1,42 @@
+{
+  "id": "black-truffle-pasta-purseittes",
+  "name": "Black Truffle Pasta Purseittes",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "cheese",
+    "truffle",
+    "italian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "black truffle pasta purseittes",
+    "truffle pasta purses",
+    "animators palate",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Signature Disney Cruise Line delicacy: delicate, ultra-thin white pasta purses filled with smooth truffle cheese in a light champagne cream sauce — zero fibrous skins or chunks.",
+  "prepOrOrderInstructions": "Order as your starter (or ask for an entrée-sized double portion!) at Animator's Palate. Take a Lactaid enzyme if sensitive to cheese/cream.",
+  "watchOuts": [
+    "Dairy cheese filling and cream sauce if lactose sensitive"
+  ]
+}

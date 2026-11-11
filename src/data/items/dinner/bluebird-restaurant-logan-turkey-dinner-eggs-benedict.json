@@ -1,0 +1,41 @@
+{
+  "id": "bluebird-restaurant-logan-turkey-dinner-eggs-benedict",
+  "name": "The Bluebird Restaurant (Logan) Historic Roast Beef / Turkey Dinner & Dinner Rolls",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "The Bluebird Restaurant (Downtown Main St · Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "potato",
+    "bread",
+    "eggs",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bluebird restaurant logan",
+    "logan main street bluebird",
+    "bluebird chocolates logan"
+  ],
+  "whyItWorks": "Operating on Logan Main Street since 1914, The Bluebird serves old-fashioned homestyle roast beef, turkey, mashed potatoes, and soft white dinner rolls that are gentle and unspiced.",
+  "prepOrOrderInstructions": "Order the traditional Roast Beef or Turkey plate with mashed potatoes and soft rolls (or the Country Breakfast with scrambled eggs and toast); avoid the \"Rajun Cajun\" and \"Bluebird Huevos\" green chili dishes.",
+  "watchOuts": [
+    "Avoid the Rajun Cajun Omelet (andouille sausage & lemon cream cheese) and green chili dishes"
+  ]
+}

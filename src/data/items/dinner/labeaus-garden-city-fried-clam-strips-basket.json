@@ -1,0 +1,41 @@
+{
+  "id": "labeaus-garden-city-fried-clam-strips-basket",
+  "name": "LaBeau's (Garden City, UT) Golden Fried Clam Strips Basket (Cocktail Sauce Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "LaBeau's (Garden City / Bear Lake, UT)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "seafood",
+    "clam-strips"
+  ],
+  "searchKeywords": [
+    "labeaus clam strips",
+    "bear lake clam strips basket",
+    "labeaus seafood"
+  ],
+  "whyItWorks": "Crisp clam strips are chewy and high in marine protein. Stick to mild tartar sauce; spicy horseradish cocktail sauce is a frequent trigger.",
+  "prepOrOrderInstructions": "Order the Clam Strips basket with tartar sauce on the side and request no cocktail sauce.",
+  "watchOuts": [
+    "Chewy clam meat requires thorough chewing",
+    "Cocktail sauce contains spicy horseradish"
+  ]
+}

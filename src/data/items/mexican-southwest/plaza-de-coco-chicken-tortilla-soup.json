@@ -1,0 +1,40 @@
+{
+  "id": "plaza-de-coco-chicken-tortilla-soup",
+  "name": "Plaza de Coco Chicken Tortilla Soup (Strained Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "chicken",
+    "mexican",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "chicken tortilla soup",
+    "plaza de coco soup",
+    "disney treasure"
+  ],
+  "whyItWorks": "Savory chicken broth and shredded chicken are soothing, but the standard bowl includes whole corn kernels, black bean skins, and crispy corn tortilla strips.",
+  "prepOrOrderInstructions": "Only order on a good day and ask for NO crispy corn tortilla strips, corn, or black beans (or sip the savory broth and shredded chicken while leaving the corn and beans behind).",
+  "watchOuts": [
+    "Whole corn kernels and black bean skins",
+    "Fried corn tortilla strips",
+    "Mild chili heat in the tomato-chicken broth"
+  ]
+}

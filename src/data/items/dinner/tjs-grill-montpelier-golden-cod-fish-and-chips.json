@@ -1,0 +1,41 @@
+{
+  "id": "tjs-grill-montpelier-golden-cod-fish-and-chips",
+  "name": "TJ's Grill (Montpelier, ID) Golden Fried Pacific Cod & French Fries Basket",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "TJ's Grill (Montpelier, ID)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "seafood",
+    "fish",
+    "cod"
+  ],
+  "searchKeywords": [
+    "tjs grill fish and chips",
+    "montpelier fried cod",
+    "bear lake fish dinner"
+  ],
+  "whyItWorks": "Flaky Pacific cod fillets in a light golden batter. Flaky white fish is very gentle on digestion. Served with fries and tartar sauce.",
+  "prepOrOrderInstructions": "Order Fish & Chips with tartar sauce on the side; discard outer fried batter if feeling sensitive.",
+  "watchOuts": [
+    "Peel off outer batter during active flares"
+  ]
+}

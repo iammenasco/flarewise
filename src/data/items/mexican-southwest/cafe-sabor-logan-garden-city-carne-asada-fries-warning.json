@@ -1,0 +1,45 @@
+{
+  "id": "cafe-sabor-logan-garden-city-carne-asada-fries-warning",
+  "name": "Café Sabor (Logan & Garden City, UT) Carne Asada Fries (Loaded Grease Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "beef",
+    "fries",
+    "grease",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "cafe sabor carne asada fries",
+    "loaded mexican fries bear lake",
+    "carne asada fries logan"
+  ],
+  "whyItWorks": "Loaded masa fries combine heavy deep-frying oil, melted cheese, sour cream, and spicy raw pico de gallo. Excessive grease and alliums irritate bowel mucosa.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active flares. In remission, share a small side portion and ask for pico de gallo on the side.",
+  "watchOuts": [
+    "High frying fat and dairy fat accelerate diarrhea",
+    "Raw onions and peppers in pico provoke cramping"
+  ]
+}

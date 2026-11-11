@@ -1,0 +1,44 @@
+{
+  "id": "dcl-very-very-french-toast",
+  "name": "Main Dining \"Very Very\" Brioche French Toast & Cinnamon Sugar Dusted French Toast",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "egg",
+    "sweet",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "very very french toast",
+    "brioche french toast",
+    "tritons breakfast",
+    "lumieres breakfast",
+    "1923 breakfast"
+  ],
+  "whyItWorks": "Thick egg-custard-soaked white brioche bread griddled golden—soft, seedless, and comforting.",
+  "prepOrOrderInstructions": "Top with warm maple syrup or sliced bananas (skip seeded blackberry/raspberry compotes and pineapple) and take a Lactaid if needed.",
+  "watchOuts": [
+    "Milk/cream in egg batter",
+    "High maple syrup sugar load if poured heavily"
+  ]
+}

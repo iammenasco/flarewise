@@ -1,0 +1,44 @@
+{
+  "id": "new-years-eve-gala-surf-and-turf-chocolate-dome",
+  "name": "New Year's Eve Gala Menu: Surf & Turf Beef Tenderloin & Lobster Tail and Midnight Chocolate Dome",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · New Year's Eve Gala Dinner Menu",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "seafood",
+    "chocolate",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "new years eve menu",
+    "surf and turf",
+    "beef tenderloin lobster tail",
+    "disney cruise new years"
+  ],
+  "whyItWorks": "Center-cut roasted beef tenderloin paired with broiled lobster tail and mashed potatoes is a 9/10 flare-safe celebration meal.",
+  "prepOrOrderInstructions": "Order the Surf & Turf with drawn butter and béarnaise/demi-glace on the side (no lemon on lobster), and choose the Midnight Chocolate Dome for dessert.",
+  "watchOuts": [
+    "Order sauces on the side and discard any lemon wedge"
+  ]
+}

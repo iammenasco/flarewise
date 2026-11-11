@@ -1,0 +1,43 @@
+{
+  "id": "pasilla-brown-sugar-pork-tenderloin",
+  "name": "Roasted Pork Tenderloin with Boniato Mash",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "tenderloin",
+    "potato",
+    "mashed-potatoes",
+    "mexican",
+    "high-protein",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "pasilla brown sugar pork tenderloin",
+    "boniato mash",
+    "plaza de coco pork",
+    "disney treasure"
+  ],
+  "whyItWorks": "Lean roasted pork tenderloin and creamy mashed boniato (white sweet potato) provide a soft, low-residue entrée at Plaza de Coco.",
+  "prepOrOrderInstructions": "Trim off the outer pasilla-spice rub edge if sensitive to mild dried chile, enjoy the tender pork interior with the smooth boniato mash and maple jus, and skip the fried taro chips and Swiss chard.",
+  "watchOuts": [
+    "Mild pasilla chile rub on the exterior (request plain roasted if flaring)",
+    "Sharp fried taro chips and leafy chard"
+  ]
+}

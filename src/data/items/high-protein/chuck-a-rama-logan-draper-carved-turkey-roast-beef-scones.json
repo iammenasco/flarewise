@@ -1,0 +1,41 @@
+{
+  "id": "chuck-a-rama-logan-draper-carved-turkey-roast-beef-scones",
+  "name": "Chuck-A-Rama Buffet (Logan & Utah) Carved Roast Turkey, Pot Roast, Mashed Potatoes & Rolls",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Chuck-A-Rama Buffet (Logan, Salt Lake & Utah)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "beef",
+    "potato",
+    "bread",
+    "high-protein",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "chuck a rama logan",
+    "chuck a rama buffet",
+    "utah buffet turkey",
+    "chuck a rama rolls"
+  ],
+  "whyItWorks": "Utah's iconic homestyle buffet features a dedicated carving station with slow-roasted turkey breast, fork-tender pot roast, baked/mashed potatoes, chicken noodle soup, and famous warm rolls with honey butter.",
+  "prepOrOrderInstructions": "Head straight to the carving station for sliced roast turkey breast and pot roast, pair with mashed or baked potato, chicken noodle soup, and warm baked dinner rolls with honey butter (skip the raw salad bar).",
+  "watchOuts": [
+    "Skip the raw salad bar and deep-fried frontier chicken during flares"
+  ]
+}

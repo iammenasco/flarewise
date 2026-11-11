@@ -1,0 +1,44 @@
+{
+  "id": "summit-pizza-original-cheese-doodles",
+  "name": "Summit Pizza Co. Original \"Cheese Doodles\" (Garlic-Butter Mozzarella Swirls)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Summit Pizza Co. (Garden City / Bear Lake & Logan, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "cheese",
+    "pizza",
+    "bear-lake",
+    "garden-city",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "summit pizza cheese doodles",
+    "doodles summit pizza",
+    "garden city pizza",
+    "logan pizza"
+  ],
+  "whyItWorks": "Summit's scratch-made refined white pizza dough rolled with Wisconsin mozzarella and baked until soft and pillowy—zero seeds or raw vegetables.",
+  "prepOrOrderInstructions": "Take a Lactaid for the mozzarella, ask for light garlic butter, and dip sparingly in warm marinara rather than heavy buttermilk ranch.",
+  "watchOuts": [
+    "Mozzarella lactose and garlic butter",
+    "Skip buttermilk ranch dipping cup"
+  ]
+}

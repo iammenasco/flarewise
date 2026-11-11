@@ -1,0 +1,39 @@
+{
+  "id": "holiday-fudge-peppermint-bark-toffee",
+  "name": "Holiday Chocolate Fudge, Peppermint Bark & English Toffee (Nut-Free Mod)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Holiday Home Cooking & See's Candies (Christmas)",
+  "crohnsScore": 6.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "dessert",
+    "holiday",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "christmas fudge",
+    "holiday peppermint bark",
+    "christmas candy plate"
+  ],
+  "whyItWorks": "Smooth walnut-free chocolate fudge has zero insoluble fiber, but concentrated sugar, cocoa fat, condensed milk, and peppermint oil (which relaxes the lower esophageal sphincter) make holiday candy plates a high-risk trigger.",
+  "prepOrOrderInstructions": "If enjoying in remission, choose a single small square of nut-free Vanilla or Chocolate Fudge after a protein-rich meal, and avoid almond/walnut toffee and heavy peppermint bark if prone to reflux.",
+  "watchOuts": [
+    "Often hides chopped walnuts, pecans, or almonds",
+    "Peppermint oil can trigger reflux and concentrated sugar can cause osmotic cramping"
+  ]
+}

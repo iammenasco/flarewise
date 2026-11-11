@@ -1,0 +1,48 @@
+{
+  "id": "costco-kirkland-rotisserie-chicken",
+  "name": "Costco Kirkland Signature $4.99 Whole Seasoned Rotisserie Chicken (Skinless Breast)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Costco Wholesale (North Logan, Draper, South Jordan & Nationwide)",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Kirkland Signature Whole Rotisserie Chicken",
+    "White rice or sourdough bread"
+  ],
+  "tags": [
+    "chicken",
+    "rotisserie",
+    "high-protein",
+    "gluten-free",
+    "dairy-free",
+    "costco",
+    "logan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco rotisserie chicken",
+    "kirkland rotisserie chicken",
+    "costco deli chicken",
+    "north logan costco"
+  ],
+  "whyItWorks": "Slow-roasted until ultra-tender and juicy: removing the outer skin yields 3+ pounds of zero-fiber, gluten-free, dairy-free, citrus-free lean protein for $4.99.",
+  "prepOrOrderInstructions": "Peel off the seasoned skin during a flare, shred the warm breast meat over white rice, mashed potatoes, or sourdough toast, and save the carcass for gut-healing bone broth.",
+  "watchOuts": [
+    "Discard the outer skin if sensitive to carrageenan/seasoning rub or rendered poultry fat"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "crepes-and-coffee-bear-lake-ham-cheese-egg-savory-crepe",
+  "name": "Crepes and Coffee (Garden City, UT) Ham, Swiss Cheese & Egg Savory Crepe",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Crepes and Coffee (Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "crepes",
+    "eggs",
+    "ham",
+    "cheese"
+  ],
+  "searchKeywords": [
+    "crepes and coffee savory crepe",
+    "ham and cheese crepe bear lake",
+    "garden city breakfast"
+  ],
+  "whyItWorks": "Thin flour crepe folded around tender country ham, a soft scrambled egg, and melted naturally low-lactose Swiss cheese. Protein-rich and low in digestive residue.",
+  "prepOrOrderInstructions": "Order the Savory Ham, Cheese & Egg Crepe with Swiss cheese and light butter.",
+  "watchOuts": [
+    "None; gentle high-protein lake breakfast"
+  ]
+}

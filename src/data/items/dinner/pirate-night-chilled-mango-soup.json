@@ -1,0 +1,42 @@
+{
+  "id": "pirate-night-chilled-mango-soup",
+  "name": "Chilled-to-the-Bone Honeydew & Mango Soup (Pirate Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "soup",
+    "melon",
+    "sweet",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "chilled mango soup",
+    "pirate night mango soup",
+    "disney cruise"
+  ],
+  "whyItWorks": "Blended completely smooth like a tropical smoothie with zero insoluble fiber, though sometimes brightened with a splash of citrus.",
+  "prepOrOrderInstructions": "Confirm with your server that no orange or lime juice is blended into that ship's batch before ordering; otherwise choose the warm Carrot Soup.",
+  "watchOuts": [
+    "Possible citrus juice splash in chilled fruit soups",
+    "High fructose sugar load"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "knotts-seasonal-boysenberry-festival-safe-guide",
+  "name": "Knott's Boysenberry Festival Guide: Boysenberry Elote/Meatballs/Sausage Warning vs. Safe Roasted Meats & Soft-Serve",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Knott's Boysenberry Festival Tasting Card Booths (Knott's Berry Farm)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "pork",
+    "potato",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "knotts boysenberry festival",
+    "tasting card knotts berry farm",
+    "safe boysenberry festival food"
+  ],
+  "whyItWorks": "If using a Boysenberry Festival Tasting Card in spring, spend your tabs on smooth-sauced proteins and starches (like Pulled Pork/Beef over Mashed Potatoes, Polenta/Grits, Pasta, or Boysenberry Soft-Serve/Smoothies) rather than whole-kernel elote corn, spicy habanero wings, or seed-heavy cobblers.",
+  "prepOrOrderInstructions": "Use your Tasting Card tabs on braised beef/pork over mashed potatoes, turkey sliders, cheese ravioli/mac & cheese (with lactase), and smooth boysenberry icee/soft-serve—skip Boysenberry Elote Corn on the Cob and Habanero/Chipotle items.",
+  "watchOuts": [
+    "Avoid Boysenberry Elote (whole corn hulls + chili-lime), Boysenberry Chili, and whole-berry cobblers"
+  ]
+}

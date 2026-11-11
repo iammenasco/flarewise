@@ -1,0 +1,37 @@
+{
+  "id": "dca-bayside-brews-warm-bavarian-pretzel",
+  "name": "DCA Bayside Brews (Paradise Gardens) Warm Bavarian Soft Pretzel (No Cheese Sauce)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Bayside Brews (Paradise Gardens Park · Disney California Adventure)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "snack",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "bayside brews pretzel dca",
+    "paradise gardens pretzel"
+  ],
+  "whyItWorks": "Soft baked refined white-flour pretzel right along the Paradise Bay waterfront—100% dairy-free and low-residue when ordered without cheese.",
+  "prepOrOrderInstructions": "Order the plain Bavarian Pretzel (no jalapeño/beer cheese sauce) and brush off excess coarse salt.",
+  "watchOuts": [
+    "Skip the garlic-herb or spicy cheese Pretzel Bites when rotated in"
+  ]
+}

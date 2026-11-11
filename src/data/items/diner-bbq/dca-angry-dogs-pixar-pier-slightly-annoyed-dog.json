@@ -1,0 +1,39 @@
+{
+  "id": "dca-angry-dogs-pixar-pier-slightly-annoyed-dog",
+  "name": "DCA Angry Dogs (Pixar Pier) \"Slightly Annoyed Dog\" All-Beef Hot Dog (Skip \"Angry\" Spicy Dog!)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Angry Dogs (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "angry dogs pixar pier",
+    "slightly annoyed dog dca",
+    "inside out hot dog dca"
+  ],
+  "whyItWorks": "The \"Slightly Annoyed Dog\" is a completely mild, skinless all-beef hot dog on a soft white bun served with plain potato chips—whereas the \"Angry Dog\" is a fiery spicy sausage with Flamin' Hot Fries.",
+  "prepOrOrderInstructions": "Always order the **\"Slightly Annoyed Dog\"** (plain all-beef hot dog with plain Lay's chips) and never the spicy \"Angry Dog\".",
+  "watchOuts": [
+    "Never order the spicy \"Angry Dog\" or \"Keeping It Together\" spicy condiments during flares"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pirate-night-calypso-crab-cake",
+  "name": "Deep-Fried Calypso Crab Cake with Mango-Jalapeño Remoulade (Pirate Night)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "seafood",
+    "fried",
+    "spicy",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "deep fried calypso crab cake",
+    "pirate night crab cake",
+    "disney cruise"
+  ],
+  "whyItWorks": "Lump crab meat is lean protein, but deep-frying the breaded cake and plating it over spicy remoulade and coleslaw adds fat and heat.",
+  "prepOrOrderInstructions": "If ordering in remission, eat the soft interior lump crab meat only, scraping off the deep-fried crust, spicy remoulade, and raw slaw.",
+  "watchOuts": [
+    "Deep-fried breading oil",
+    "Jalapeño/citrus in remoulade and raw cabbage slaw"
+  ]
+}

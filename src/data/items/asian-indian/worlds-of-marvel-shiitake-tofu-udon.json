@@ -1,0 +1,41 @@
+{
+  "id": "worlds-of-marvel-shiitake-tofu-udon",
+  "name": "Shiitake & Tofu Udon Noodle Bowl in Miso Broth (Night 1)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "udon",
+    "tofu",
+    "soup",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "shiitake tofu udon",
+    "worlds of marvel udon",
+    "disney treasure"
+  ],
+  "whyItWorks": "Thick, soft white wheat udon noodles and tofu in savory miso broth are a top-tier Crohn's comfort meal once mushrooms are removed.",
+  "prepOrOrderInstructions": "Ask for the udon noodles, tofu, and warm miso broth only—holding the chewy shiitake mushroom caps and raw scallions.",
+  "watchOuts": [
+    "Rubbery shiitake mushroom caps (mannitol + chitin)",
+    "Raw green onion garnish"
+  ]
+}

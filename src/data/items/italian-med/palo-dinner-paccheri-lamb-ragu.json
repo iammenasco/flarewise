@@ -1,0 +1,42 @@
+{
+  "id": "palo-dinner-paccheri-lamb-ragu",
+  "name": "Palo Dinner Paccheri Pasta with Slow-Braised Lamb Ragu & Ricotta Salata",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "beef",
+    "cheese",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "paccheri lamb ragu",
+    "palo lamb pasta",
+    "palo dinner pasta"
+  ],
+  "whyItWorks": "Large smooth tubes of artisanal durum-wheat pasta tossed with tender shredded braised lamb shoulder.",
+  "prepOrOrderInstructions": "Ask for a light toss of the ragu sauce and pair with a Lactaid if sensitive to sheep's milk ricotta salata.",
+  "watchOuts": [
+    "Rendered lamb fat and soffritto aromatics in ragu"
+  ]
+}

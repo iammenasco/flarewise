@@ -1,0 +1,39 @@
+{
+  "id": "mortys-cafe-logan-scone-fries",
+  "name": "Morty's Cafe Utah Scone Fries with Honey Butter & Powdered Sugar",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Morty's Cafe (Logan / USU Campus, UT)",
+  "crohnsScore": 6.7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "fried",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "mortys scone fries",
+    "utah scone fries logan",
+    "mortys cafe dessert"
+  ],
+  "whyItWorks": "Strips of pillowy white bread dough fried golden and dusted with powdered sugar have zero roughage or seeds, making them a fun USU campus treat in remission when shared.",
+  "prepOrOrderInstructions": "Share a basket of Scone Fries dusted with powdered sugar and dip lightly in honey butter (skip raspberry jam if it contains seeds).",
+  "watchOuts": [
+    "Deep-fried dough absorbs fryer oil—keep portion small and avoid during active flares"
+  ]
+}

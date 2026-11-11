@@ -1,0 +1,43 @@
+{
+  "id": "dcl-room-service-cheesecake-truffle-cake",
+  "name": "24-Hour Room Service New York Cheesecake & Chocolate Truffle Cake",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "room service cheesecake",
+    "chocolate truffle cake",
+    "key lime pie room service",
+    "disney cruise"
+  ],
+  "whyItWorks": "Both the New York Cheesecake and Chocolate Truffle Cake are completely smooth, nut-free, and citrus-free (unlike Room Service's Key Lime Pie).",
+  "prepOrOrderInstructions": "Order the New York Cheesecake or Chocolate Truffle Cake with a Lactaid pill; strictly skip the Room Service Key Lime Pie (citrus guardrail).",
+  "watchOuts": [
+    "Cream cheese and chocolate ganache dairy",
+    "Never order the Room Service Key Lime Pie"
+  ]
+}

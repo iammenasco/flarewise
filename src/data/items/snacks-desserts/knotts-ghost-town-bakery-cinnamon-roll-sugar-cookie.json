@@ -1,0 +1,40 @@
+{
+  "id": "knotts-ghost-town-bakery-cinnamon-roll-sugar-cookie",
+  "name": "Knott's Ghost Town Bakery & Farm Bakery Snoopy Sugar Cookie, Plain Croissant or Warm Cinnamon Roll",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ghost Town Bakery & Farm Bakery (Knott's Berry Farm)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "croissant",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "ghost town bakery knotts",
+    "farm bakery knotts",
+    "snoopy cookie knotts"
+  ],
+  "whyItWorks": "Fresh-baked butter croissants, soft Snoopy sugar cookies, and warm cinnamon rolls are 100% free of boysenberry seeds, nuts, and roughage.",
+  "prepOrOrderInstructions": "Choose a plain Butter Croissant, a Snoopy Shortbread/Sugar Cookie, or share the soft center of a warm Cinnamon Roll (avoid whole-berry Boysenberry Turnovers and Boysenberry Pie slices).",
+  "watchOuts": [
+    "Skip turnovers and pies filled with whole seeded boysenberries"
+  ]
+}

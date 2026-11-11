@@ -1,0 +1,39 @@
+{
+  "id": "holiday-soothing-hot-ginger-peppermint-tea",
+  "name": "Post-Holiday Soothing Hot Ginger & Peppermint Herbal Tea",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Home Kitchen Post-Holiday Comfort",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "tea",
+    "herbal",
+    "ginger",
+    "peppermint",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "ginger peppermint tea",
+    "post holiday soothing tea",
+    "digestive tea crohns"
+  ],
+  "whyItWorks": "Steeped fresh ginger root and dried peppermint leaves. Gingerols reduce gastrointestinal mucosal inflammation and nausea, while menthol calms colon spasms. Zero caffeine, zero acid.",
+  "prepOrOrderInstructions": "Steep 1 tea bag or fresh ginger slices in hot water for 5 minutes; sweeten with a teaspoon of pure honey.",
+  "watchOuts": [
+    "None; premier soothing digestive tea"
+  ]
+}

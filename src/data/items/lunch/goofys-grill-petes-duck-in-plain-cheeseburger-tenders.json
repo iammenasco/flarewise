@@ -1,0 +1,52 @@
+{
+  "id": "goofys-grill-petes-duck-in-plain-cheeseburger-tenders",
+  "name": "Pool Deck Plain Cheeseburger, Hot Dog, or Chicken Tenders",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder · Pete's Boiler Bites / Disney Magic · Duck-In Diner / Disney Treasure · Goofy's Grill",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "burger",
+    "beef",
+    "chicken",
+    "sandwich",
+    "grab-and-go",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "petes-boiler-bites",
+    "duck-in-diner",
+    "goofys-grill"
+  ],
+  "searchKeywords": [
+    "goofys grill",
+    "petes boiler bites",
+    "duck in diner",
+    "cheeseburger",
+    "chicken tenders",
+    "hot dog",
+    "disney cruise pool deck"
+  ],
+  "whyItWorks": "Walk-up pool deck grills cook fresh plain burgers, all-beef hot dogs on white buns, and mild chicken tenders with zero raw roughage when ordered plain.",
+  "prepOrOrderInstructions": "Order a plain cheeseburger/hamburger (white bun, patty, cheese, ketchup/yellow mustard only — no lettuce, tomato, onion, or pickles) or chicken tenders.",
+  "watchOuts": [
+    "Raw lettuce, tomato, onion, and pickle toppings",
+    "Deep-fried french fries if high oil speeds up transit"
+  ]
+}

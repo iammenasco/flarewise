@@ -1,0 +1,38 @@
+{
+  "id": "dca-corn-dog-castle-cheddar-cheese-stick-standalone",
+  "name": "DCA Corn Dog Castle Hand-Dipped Fried Cheddar Cheese Stick",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Corn Dog Castle (Paradise Gardens Park · Disney California Adventure)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "fried",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "cheddar cheese stick corn dog castle",
+    "fried cheese on a stick dca"
+  ],
+  "whyItWorks": "A thick bar of real aged sharp cheddar (naturally very low in lactose!) dipped in sweet cornmeal-wheat batter and fried golden—zero meat nitrites and zero insoluble fiber.",
+  "prepOrOrderInstructions": "Share one warm Cheddar Cheese Stick, blot excess fryer oil with a napkin, and peel off thick batter ends if sensitive to oil.",
+  "watchOuts": [
+    "Deep-fried batter + melted cheddar fat—best shared in remission"
+  ]
+}

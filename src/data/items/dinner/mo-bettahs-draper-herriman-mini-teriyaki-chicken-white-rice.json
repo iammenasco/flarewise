@@ -1,0 +1,43 @@
+{
+  "id": "mo-bettahs-draper-herriman-mini-teriyaki-chicken-white-rice",
+  "name": "Mo' Bettahs Hawaiian Style Food (Draper / Herriman / Lehi) Mini Teriyaki Chicken & Double White Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mo' Bettahs Hawaiian Style Food (Draper / Herriman / Lehi / Logan, UT)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pork",
+    "rice",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "mo bettahs herriman",
+    "mo bettahs draper",
+    "mo bettahs logan",
+    "teriyaki chicken white rice utah"
+  ],
+  "whyItWorks": "With locations in Draper, Herriman, Orem/Lindon, and Logan, Mo' Bettahs charbroiled Teriyaki Chicken Breast (or slow-roasted Kalua Pig) over two scoops of sticky steamed white rice is dairy-free, low-residue, and ready in minutes.",
+  "prepOrOrderInstructions": "Order the Mini or Regular Plate with Teriyaki Chicken Breast or Kalua Pig and ask for \"all steamed white rice\" (or half white rice, half soft macaroni salad if you tolerate mayo) with teriyaki sauce on the side.",
+  "watchOuts": [
+    "Skip the breaded deep-fried Katsu Chicken and spicy Sriracha/volcano sauces during flares"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dca-flos-v8-cafe-ka-cheeseburger",
+  "name": "DCA Flo's V8 Cafe \"Ka-Cheeseburger\" Plain Angus Burger on Sesame Bun",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Flo's V8 Cafe (Disney California Adventure)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "beef",
+    "burger",
+    "cars-land"
+  ],
+  "searchKeywords": [
+    "ka cheeseburger flos v8",
+    "cars land burger",
+    "flos v8 cafe cheeseburger"
+  ],
+  "whyItWorks": "Angus beef patty with melted cheddar cheese on a soft sesame bun with fries. When ordered plain without Thousand Island sauce, pickles, or raw onions, it is very easy on digestion.",
+  "prepOrOrderInstructions": "Order the Ka-Cheeseburger plain with ketchup only (hold Thousand Island dressing, raw onions, and pickles).",
+  "watchOuts": [
+    "Hold raw onions, pickles, and Thousand Island sauce"
+  ]
+}

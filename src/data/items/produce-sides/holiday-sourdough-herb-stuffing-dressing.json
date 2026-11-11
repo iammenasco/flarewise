@@ -1,0 +1,45 @@
+{
+  "id": "holiday-sourdough-herb-stuffing-dressing",
+  "name": "Thanksgiving Traditional White Bread / Sourdough Stuffing (Dressing)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Thanksgiving & Christmas Holiday Table",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Cubed White Sourdough Bread (or Stove Top Stuffing Mix)",
+    "Turkey/Chicken Bone Broth",
+    "Butter or Ghee"
+  ],
+  "tags": [
+    "bread",
+    "sourdough",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "thanksgiving stuffing",
+    "dressing",
+    "stove top stuffing",
+    "sourdough stuffing"
+  ],
+  "whyItWorks": "Bread cubes soaked in savory turkey bone broth and baked until custard-soft inside are very gentle when made without nuts, dried fruit, or spicy sausage.",
+  "prepOrOrderInstructions": "Stick to classic white/sourdough bread stuffing moistened with bone broth (pick around large celery/onion pieces, and avoid stuffing containing walnuts, pecans, dried cranberries, oysters, or spicy sausage).",
+  "watchOuts": [
+    "Avoid \"fancy\" stuffings with chopped nuts, dried cranberries/raisins, or spicy Italian sausage"
+  ]
+}

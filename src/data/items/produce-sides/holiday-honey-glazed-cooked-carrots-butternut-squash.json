@@ -1,0 +1,50 @@
+{
+  "id": "holiday-honey-glazed-cooked-carrots-butternut-squash",
+  "name": "Holiday Honey-Maple Glazed Soft Cooked Carrots & Roasted Butternut Squash",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Thanksgiving & Christmas Holiday Table",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Peeled Carrots",
+    "Peeled Butternut Squash",
+    "Pure Maple Syrup or Honey",
+    "Ghee or Olive Oil"
+  ],
+  "tags": [
+    "carrots",
+    "squash",
+    "butternut-squash",
+    "vegetable",
+    "soluble-fiber",
+    "gluten-free",
+    "dairy-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "honey glazed carrots",
+    "roasted butternut squash",
+    "holiday vegetable side"
+  ],
+  "whyItWorks": "The safest vegetable sides on the holiday table: peeled carrots and peeled butternut squash cooked until fork-mashable provide 100% gut-soothing soluble fiber.",
+  "prepOrOrderInstructions": "Roast or simmer peeled carrots and peeled cubed butternut squash with olive oil/ghee and maple syrup or honey until completely soft.",
+  "watchOuts": [
+    "Skip Brussels sprouts, raw kale/cranberry salads, and whole corn at the holiday table"
+  ]
+}

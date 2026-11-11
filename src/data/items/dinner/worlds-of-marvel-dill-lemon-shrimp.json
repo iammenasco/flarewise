@@ -1,0 +1,38 @@
+{
+  "id": "worlds-of-marvel-dill-lemon-shrimp",
+  "name": "Dill & Meyer Lemon-Marinated Shrimp Starter (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "seafood",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "dill and meyer lemon marinated shrimp",
+    "worlds of marvel",
+    "disney treasure"
+  ],
+  "whyItWorks": "Marinated directly in Meyer lemon juice and zest, violating the strict citrus guardrail.",
+  "prepOrOrderInstructions": "Ask your server for plain steamed/poached shrimp cocktail with zero lemon marinade instead.",
+  "watchOuts": [
+    "Meyer lemon juice and zest marinade (strict citrus trigger)"
+  ]
+}

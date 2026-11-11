@@ -1,0 +1,38 @@
+{
+  "id": "holiday-christmas-eve-chowder-sourdough-bread-bowl",
+  "name": "Christmas Eve New England Clam Chowder or Creamy Potato Soup in a Sourdough Bread Bowl",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Holiday Home Cooking & Local Bakery Cafés (Christmas Eve)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "seafood",
+    "potato",
+    "sourdough",
+    "soup",
+    "holiday",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "christmas eve clam chowder",
+    "sourdough bread bowl soup",
+    "holiday potato soup"
+  ],
+  "whyItWorks": "A classic Utah Christmas Eve tradition: tender diced potatoes, minced clams, and warm soup-soaked sourdough bread interior are low in roughage and comforting on a cold night when paired with lactase.",
+  "prepOrOrderInstructions": "Take 1–2 lactase enzyme tablets before eating (or make at home with lactose-free half-and-half) and eat the soft soup-soaked sourdough interior while leaving the tough outer bread crust.",
+  "watchOuts": [
+    "High lactose and butterfat in traditional cream chowder—always use lactase enzymes"
+  ]
+}

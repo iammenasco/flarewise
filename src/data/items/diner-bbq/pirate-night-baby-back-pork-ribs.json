@@ -1,0 +1,43 @@
+{
+  "id": "pirate-night-baby-back-pork-ribs",
+  "name": "Captain Hook's Honey-BBQ Slow-Baked Baby Back Pork Ribs (Pirate Night)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "slow-cooker"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "bbq",
+    "honey",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "baby back pork ribs",
+    "captain hooks ribs",
+    "pirate night ribs",
+    "disney cruise"
+  ],
+  "whyItWorks": "Oven-braised until fall-off-the-bone tender, but high pork rib fat, sticky BBQ glaze, and accompanying corn on the cob/coleslaw require caution.",
+  "prepOrOrderInstructions": "In remission, eat the leanest rib meat with mashed potatoes instead of the corn cob and raw coleslaw.",
+  "watchOuts": [
+    "High rendered pork fat and sugary tomato-garlic BBQ glaze",
+    "Skip corn on the cob and coleslaw sides"
+  ]
+}

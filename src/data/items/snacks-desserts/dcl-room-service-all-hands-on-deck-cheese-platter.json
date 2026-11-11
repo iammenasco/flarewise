@@ -1,0 +1,46 @@
+{
+  "id": "dcl-room-service-all-hands-on-deck-cheese-platter",
+  "name": "\"All Hands on Deck\" Room Service Cheese & Cracker Platter",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Room Service",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "crackers",
+    "snack",
+    "high-protein",
+    "grab-and-go",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "all hands on deck",
+    "room service cheese plate",
+    "disney cruise room service",
+    "crackers and cheese"
+  ],
+  "whyItWorks": "Famous complimentary 24-hour room service staple: aged cheddar, Swiss, Gouda/Babybel (~0g lactose) with plain water/Ritz-style crackers for zero-effort stateroom calories.",
+  "prepOrOrderInstructions": "Dial Room Service any time day or night and order \"All Hands on Deck\" (ask for extra plain crackers). Eat the aged hard/semi-soft cheeses and crackers; skip the red grape skins or blue cheese wedge if flaring.",
+  "watchOuts": [
+    "Whole grape skins on the platter",
+    "Blue cheese wedge if sensitive to mold/soft cheeses"
+  ]
+}

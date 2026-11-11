@@ -1,0 +1,37 @@
+{
+  "id": "disneyland-tianas-palace-house-filled-beignet-lemon-warning",
+  "name": "Disneyland Tiana's Palace House-Filled Beignet (Lemon Ice Box Pie Filling — Citrus Warning!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Tiana's Palace (New Orleans Square · Disneyland Park)",
+  "crohnsScore": 2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "dessert",
+    "sweet",
+    "fried",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "tianas palace house filled beignet",
+    "lemon ice box pie beignet disneyland"
+  ],
+  "whyItWorks": "Reference warning: unlike the classic powdered-sugar Mickey Beignets next door at Mint Julep Bar, Tiana's signature House-Filled Beignet is injected with tart Lemon Ice Box Pie curd and topped with lemon glaze—a direct citrus trigger.",
+  "prepOrOrderInstructions": "Skip Tiana's Lemon-Filled Beignet completely and walk next door to the Mint Julep Bar window for plain Powdered-Sugar Mickey Beignets instead.",
+  "watchOuts": [
+    "CRITICAL CITRUS TRIGGER: Filled with concentrated lemon juice curd and lemon glaze (citrusFree: false)"
+  ]
+}

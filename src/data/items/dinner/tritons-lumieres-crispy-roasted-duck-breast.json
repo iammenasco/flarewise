@@ -1,0 +1,44 @@
+{
+  "id": "tritons-lumieres-crispy-roasted-duck-breast",
+  "name": "Crispy Roasted Duck Breast with Honey Parsnip Mash & Orange Sauce",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "poultry",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "crispy roasted duck breast",
+    "duck a lorange",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Classic French duck breast is glazed in a Seville/Grand Marnier orange reduction (citrus trigger) with high-fat duck skin.",
+  "prepOrOrderInstructions": "Skip the orange-glazed duck breast and order the Chateaubriand Beef Tenderloin or Oven-Baked Salmon Royale instead.",
+  "watchOuts": [
+    "Citrus orange reduction/zest (strict avoid)",
+    "High rendered duck skin fat"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-alien-pizza-planet-chicken-fusilli",
+  "name": "Disneyland Alien Pizza Planet \"Count Down Chicken Fusilli\" (Pesto Cream Pasta)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Alien Pizza Planet (Disneyland Park)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "pasta",
+    "chicken",
+    "tomorrowland"
+  ],
+  "searchKeywords": [
+    "alien pizza planet chicken fusilli",
+    "count down chicken fusilli",
+    "disneyland pasta tomorrowland"
+  ],
+  "whyItWorks": "Spiral fusilli pasta tossed with tender grilled chicken breast, parmesan-pesto cream sauce, and sun-dried tomatoes. Pasta and chicken provide easily chewed, comforting energy.",
+  "prepOrOrderInstructions": "Order the Count Down Chicken Fusilli; ask for light sauce.",
+  "watchOuts": [
+    "Pesto cream sauce contains dairy and finely pureed herbs"
+  ]
+}

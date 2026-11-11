@@ -1,0 +1,38 @@
+{
+  "id": "dca-aunt-cass-curry-beef-sourdough-bowl",
+  "name": "DCA Aunt Cass Café Japanese-Style Curry Beef in a Boudin Sourdough Bread Bowl",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Aunt Cass Café (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "potato",
+    "sourdough",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "aunt cass curry beef bread bowl",
+    "san fransokyo curry beef",
+    "dca bread bowl"
+  ],
+  "whyItWorks": "Slow-simmered tender beef, soft carrots, and diced potatoes in a savory-sweet Japanese curry roux inside a warm Boudin sourdough bowl—much lower in lactose than the clam chowder, though mildly spiced.",
+  "prepOrOrderInstructions": "Order with the curry on the side if you want to control how much sauce you dip the warm sourdough bread into, and skip the pickled red ginger garnish.",
+  "watchOuts": [
+    "Contains mild Japanese curry spices and onions simmered in the gravy—save for steady days"
+  ]
+}

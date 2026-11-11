@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-ogas-cantina-blue-bantha-cookie-pretzel-bread",
+  "name": "Disneyland Oga's Cantina \"Blue Bantha\" Chilled Blue Milk with Vanilla-Butter Sugar Cookie & Five-Blossom Pretzel Bread",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Oga's Cantina (Star Wars: Galaxy's Edge · Disneyland Park)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "sweet",
+    "pretzel",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "ogas cantina blue bantha",
+    "five blossom bread ogas cantina",
+    "safe drink ogas cantina disneyland"
+  ],
+  "whyItWorks": "Most drinks at Oga's Cantina are loaded with lemon/lime/grapefruit juice—the **Blue Bantha** (chilled dairy-free coconut/rice Blue Milk topped with a soft vanilla-butter Bantha-horn sugar cookie) and warm **Five-Blossom Pretzel Bread** (eat plain without mustard) are the two citrus-free winners!",
+  "prepOrOrderInstructions": "Inside Oga's Cantina, order the non-alcoholic **Blue Bantha** and warm **Five-Blossom Bread** (skip the spicy mustard cheese dip); strictly avoid Fuzzy Tauntaun, Jedi Mind Trick (grapefruit!), Bespin Fizz, and Oga's Obsession (lemonade!).",
+  "watchOuts": [
+    "CRITICAL CITRUS WARNING at Oga's: Almost every other cocktail/mocktail in Oga's Cantina contains grapefruit, lemon, lime, or orange juice—stick to Blue Bantha or water!"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cafe-sabor-logan-garden-city-chicken-tamale-plate",
+  "name": "Café Sabor (Logan & Garden City, UT) Shredded Chicken Tamale with Mild Red Sauce",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Sabor (Logan & Garden City / Bear Lake, UT)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "garden-city",
+    "bear-lake",
+    "chicken",
+    "tamale",
+    "steamed"
+  ],
+  "searchKeywords": [
+    "cafe sabor chicken tamale",
+    "tamales bear lake",
+    "steamed tamale logan"
+  ],
+  "whyItWorks": "Steamed stone-ground corn masa is soft, thoroughly cooked, and gentle on the intestines. Slow-cooked shredded chicken breast is lean and digestible.",
+  "prepOrOrderInstructions": "Order the Chicken Tamale plate with mild sauce and Spanish rice (hold sour cream and cotija cheese if dairy-free).",
+  "watchOuts": [
+    "Mild red chile sauce is safe, but verify it is not the spicy green chile"
+  ]
+}

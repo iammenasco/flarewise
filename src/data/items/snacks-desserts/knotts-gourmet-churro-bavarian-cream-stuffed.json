@@ -1,0 +1,39 @@
+{
+  "id": "knotts-gourmet-churro-bavarian-cream-stuffed",
+  "name": "Knott's Gourmet Churro Factory Bavarian Vanilla Cream Stuffed Churro",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Gourmet Churro Factory (Knott's Berry Farm)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "churro",
+    "dessert",
+    "ghost-town"
+  ],
+  "searchKeywords": [
+    "bavarian cream churro knotts",
+    "stuffed churro ghost town",
+    "knotts cream churro"
+  ],
+  "whyItWorks": "Crispy fried churro filled with smooth Bavarian vanilla custard cream and dusted in cinnamon sugar. Seed-free and soothing vanilla filling.",
+  "prepOrOrderInstructions": "Order the Bavarian Cream Churro warm (specifically avoid the seeded boysenberry stuffed churro).",
+  "watchOuts": [
+    "Contains dairy in the Bavarian cream filling"
+  ]
+}

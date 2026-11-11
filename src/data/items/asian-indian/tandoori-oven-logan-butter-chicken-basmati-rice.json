@@ -1,0 +1,42 @@
+{
+  "id": "tandoori-oven-logan-butter-chicken-basmati-rice",
+  "name": "Tandoori Oven (Logan, UT) Mild Butter Chicken (Murgh Makhani) with Basmati Rice",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "indian",
+    "chicken",
+    "curry",
+    "rice"
+  ],
+  "searchKeywords": [
+    "tandoori oven butter chicken",
+    "butter chicken logan",
+    "murgh makhani cache valley"
+  ],
+  "whyItWorks": "Logan's beloved Tandoori Oven! When ordered mild, Butter Chicken has a smooth strained sauce with zero seeds or chile heat. Turmeric provides anti-inflammatory curcumin, and basmati rice is ultra-low residue.",
+  "prepOrOrderInstructions": "Order Butter Chicken explicitly at 'Mild / Level 0' spice with steamed white basmati rice.",
+  "watchOuts": [
+    "Contains dairy cream and butter; specify mild level 0 to avoid chili heat"
+  ]
+}

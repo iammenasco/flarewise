@@ -1,0 +1,37 @@
+{
+  "id": "worlds-of-marvel-marble-loaf",
+  "name": "Quantum Marble Loaf Bread Service with Red Bell Pepper Dip (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "marble loaf",
+    "red bell pepper dip",
+    "worlds of marvel bread",
+    "disney treasure"
+  ],
+  "whyItWorks": "Soft swirled white-and-rye/pumpernickel marble loaf is seedless and low-residue; the red pepper dip contains garlic and pepper skins.",
+  "prepOrOrderInstructions": "Enjoy the soft marble bread with plain butter and skip the garlic-spiked roasted red bell pepper dip.",
+  "watchOuts": [
+    "Garlic and bell pepper skins in the red pepper dip"
+  ]
+}

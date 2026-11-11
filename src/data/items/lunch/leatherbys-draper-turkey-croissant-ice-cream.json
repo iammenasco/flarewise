@@ -1,0 +1,38 @@
+{
+  "id": "leatherbys-draper-turkey-croissant-ice-cream",
+  "name": "Leatherby's Family Creamery (Draper) Hot Oven-Roasted Turkey & Swiss Croissant",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Leatherby's Family Creamery (Draper / Taylorsville / Orem, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "cheese",
+    "sandwich",
+    "high-protein",
+    "utah"
+  ],
+  "searchKeywords": [
+    "leatherbys draper",
+    "leatherbys family creamery menu",
+    "turkey croissant draper utah"
+  ],
+  "whyItWorks": "Before everyone at the table orders giant ice cream sundaes at Leatherby's in Draper, their savory menu has a warm, flaky Turkey & Swiss Croissant (or Crab/Tuna Melt) that provides gentle, low-fiber protein.",
+  "prepOrOrderInstructions": "Order the Turkey Breast Sandwich on a flaky croissant with Swiss or cheddar cheese (no raw tomato or lettuce); if sharing ice cream afterward, take 2 lactase tablets and order a single scoop of Vanilla or Caramel (no nuts).",
+  "watchOuts": [
+    "Leatherby's homemade ice cream and hot fudge/caramel sundaes are very high in lactose and sugar—keep ice cream portions tiny and use lactase"
+  ]
+}

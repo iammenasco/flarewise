@@ -1,0 +1,37 @@
+{
+  "id": "dca-boardwalk-pizza-pasta-cheese-pizza-chicken",
+  "name": "DCA Boardwalk Pizza & Pasta Flatbread Cheese Pizza Slice (Take Lactase)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Boardwalk Pizza & Pasta (Paradise Gardens Park · Disney California Adventure)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "pasta",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "boardwalk pizza dca",
+    "cheese pizza california adventure"
+  ],
+  "whyItWorks": "Soft baked dough with melted mozzarella and mild tomato sauce—free of raw vegetables or spicy meats.",
+  "prepOrOrderInstructions": "Order a plain Cheese Slice, take a lactase enzyme tablet, and dab any surface oil with a napkin.",
+  "watchOuts": [
+    "Contains mozzarella dairy and tomato sauce—best for steady days with lactase"
+  ]
+}

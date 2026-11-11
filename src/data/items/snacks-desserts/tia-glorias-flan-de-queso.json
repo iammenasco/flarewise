@@ -1,0 +1,40 @@
+{
+  "id": "tia-glorias-flan-de-queso",
+  "name": "Tía Gloria's Flan de Queso (Cream Cheese Caramel Flan, Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Night 1)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "cheese",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "tia glorias flan de queso",
+    "flan",
+    "plaza de coco dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Silky baked egg-and-cream-cheese custard in amber caramel syrup—zero fiber, zero seeds, and 100% citrus-free.",
+  "prepOrOrderInstructions": "Take 1–2 Lactaid tablets with the first spoonful of flan.",
+  "watchOuts": [
+    "Condensed milk and cream cheese lactose"
+  ]
+}

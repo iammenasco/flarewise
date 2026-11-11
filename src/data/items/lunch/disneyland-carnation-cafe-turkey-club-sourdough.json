@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-carnation-cafe-turkey-club-sourdough",
+  "name": "Disneyland Carnation Café Roasted Turkey Club Sandwich on Toasted Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Carnation Café (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "avocado",
+    "sourdough",
+    "sandwich",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "carnation cafe turkey club",
+    "disneyland sourdough sandwich"
+  ],
+  "whyItWorks": "Stacks lean roasted turkey breast, bacon, and creamy avocado on toasted sourdough bread for a reliable sit-down lunch.",
+  "prepOrOrderInstructions": "Order the Turkey Club on sourdough with mayo on the side and ask to hold the raw tomatoes and shredded iceberg lettuce.",
+  "watchOuts": [
+    "Skip the fried pickles starter and ask for no raw tomato/lettuce on the sandwich"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sams-club-cafe-cheese-pizza-pretzel-hot-dog",
+  "name": "Sam's Club Café Cheese Pizza Slice, Pizza Pretzel & All-Beef Hot Dog",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Sam's Club Café (Logan, South Jordan & Nationwide)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "beef",
+    "pretzel",
+    "cheese",
+    "sams-club",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sams club pizza",
+    "sams club pizza pretzel",
+    "sams club hot dog",
+    "sams club cafe"
+  ],
+  "whyItWorks": "Budget-friendly food court staples; the quarter-pound Nathan's/Member's Mark all-beef hot dog on a white bun is dairy-free and low-fiber, while the Cheese Pizza and Pizza Pretzel work well on steady days with a Lactaid.",
+  "prepOrOrderInstructions": "Order the All-Beef Hot Dog plain, or choose the Cheese Pizza / Cheese Pizza Pretzel (skipping pepperoni and the 4-Meat or Jalapeño slices).",
+  "watchOuts": [
+    "Strictly avoid the Pepperoni & Jalapeño pizza slice",
+    "Take a Lactaid for pizza mozzarella"
+  ]
+}

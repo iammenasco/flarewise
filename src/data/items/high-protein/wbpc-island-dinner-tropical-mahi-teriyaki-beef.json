@@ -1,0 +1,45 @@
+{
+  "id": "wbpc-island-dinner-tropical-mahi-teriyaki-beef",
+  "name": "Westbound Panama Canal \"Island / Tropical Dinner\" Grilled Mahi-Mahi & Teriyaki Beef Tenderloin",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Westbound Panama Canal (Island / Tropical Menu)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "beef",
+    "steak",
+    "rice",
+    "high-protein",
+    "dairy-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "panama-canal"
+  ],
+  "searchKeywords": [
+    "island dinner menu",
+    "tropical menu",
+    "grilled mahi mahi",
+    "teriyaki beef tenderloin",
+    "westbound panama canal"
+  ],
+  "whyItWorks": "Exclusive long-voyage Island/Tropical rotation featuring flaky grilled mahi-mahi and sweet-savory teriyaki beef tenderloin over jasmine rice.",
+  "prepOrOrderInstructions": "Order the grilled mahi-mahi or beef tenderloin plain with steamed jasmine rice and teriyaki glaze on the side; skip any chunky pineapple-jalapeño salsa.",
+  "watchOuts": [
+    "Skip raw onion/jalapeño fruit salsas on the tropical menu"
+  ]
+}

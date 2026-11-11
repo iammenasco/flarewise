@@ -1,0 +1,41 @@
+{
+  "id": "holiday-leftover-turkey-shepherds-pie",
+  "name": "Post-Holiday Turkey & Mashed Potato Shepherd's Pie Casserole",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Home Kitchen Post-Holiday Comfort",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "turkey",
+    "casserole",
+    "potatoes",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "leftover turkey shepherds pie",
+    "turkey pot pie casserole",
+    "holiday leftovers bake"
+  ],
+  "whyItWorks": "Diced leftover roast turkey breast simmered in mild turkey gravy with soft cooked carrots, topped with fluffy mashed potatoes and baked golden. Soft, satisfying comfort.",
+  "prepOrOrderInstructions": "Bake until golden and bubbly; ensure no whole corn kernels or peas are added to the filling.",
+  "watchOuts": [
+    "Omit whole corn kernels and peas during flareups"
+  ]
+}

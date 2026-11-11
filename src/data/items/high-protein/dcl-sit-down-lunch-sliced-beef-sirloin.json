@@ -1,0 +1,45 @@
+{
+  "id": "dcl-sit-down-lunch-sliced-beef-sirloin",
+  "name": "Sit-Down Lunch Sliced Roasted Beef Sirloin with Double-Baked Potato",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "sliced roasted beef sirloin",
+    "double baked potato",
+    "sit down lunch",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Tender carved beef sirloin and whipped double-baked potato filling make the best sit-down Embarkation/Sea-Day lunch entrée.",
+  "prepOrOrderInstructions": "Ask for the thyme red-wine jus on the side, scoop the fluffy potato interior out of the skin, and skip the green beans.",
+  "watchOuts": [
+    "Potato skin and green beans (leave on plate)",
+    "Dairy in double-baked potato"
+  ]
+}

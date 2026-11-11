@@ -1,0 +1,41 @@
+{
+  "id": "knotts-grizzly-creek-lodge-grilled-chicken-mac-french-toast",
+  "name": "Knott's Grizzly Creek Lodge (Camp Snoopy) Grilled Chicken Sandwich, Snoopy Kids' Mac & Cheese or French Toast Sticks",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Grizzly Creek Lodge (Camp Snoopy · Knott's Berry Farm)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pasta",
+    "cheese",
+    "sandwich",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "grizzly creek lodge knotts",
+    "camp snoopy food",
+    "kids meal knotts berry farm"
+  ],
+  "whyItWorks": "Camp Snoopy's lodge offers a plain Grilled Chicken Breast Sandwich on a soft bun, Snoopy's Kids' Mac & Cheese with applesauce, and warm morning French Toast Sticks.",
+  "prepOrOrderInstructions": "Order the Grilled Chicken Sandwich plain on the bun (no lettuce, tomato, or onion) with fries or applesauce.",
+  "watchOuts": [
+    "Take lactase if ordering the Kids' Mac & Cheese or Cheese Pizza wedge"
+  ]
+}

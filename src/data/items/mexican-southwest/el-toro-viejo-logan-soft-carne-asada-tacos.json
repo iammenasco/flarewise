@@ -1,0 +1,41 @@
+{
+  "id": "el-toro-viejo-logan-soft-carne-asada-tacos",
+  "name": "El Toro Viejo (Logan, UT) Soft Corn Tortilla Carne Asada Tacos (Cilantro & Rice)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "El Toro Viejo (Logan & Smithfield, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "beef",
+    "tacos",
+    "mexican"
+  ],
+  "searchKeywords": [
+    "el toro viejo logan",
+    "carne asada tacos logan",
+    "mexican food smithfield logan"
+  ],
+  "whyItWorks": "Grilled marinated skirt steak served inside soft warm corn tortillas with Spanish rice. Unbreaded, lean, high in iron, and gentle when omitting raw diced onions.",
+  "prepOrOrderInstructions": "Order the Carne Asada Tacos with soft corn tortillas and Spanish rice (hold raw diced onions and spicy red salsa).",
+  "watchOuts": [
+    "Hold raw diced white onions"
+  ]
+}

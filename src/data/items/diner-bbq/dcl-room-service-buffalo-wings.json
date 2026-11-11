@@ -1,0 +1,45 @@
+{
+  "id": "dcl-room-service-buffalo-wings",
+  "name": "24-Hour Room Service Crispy Buffalo Chicken Wings (Avoid)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "fried",
+    "spicy",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "buffalo chicken wings",
+    "room service wings",
+    "stateroom dining",
+    "disney cruise"
+  ],
+  "whyItWorks": "Deep-fried chicken skin coated in cayenne-vinegar Buffalo hot sauce and served with blue cheese dressing is a classic late-night flare trigger.",
+  "prepOrOrderInstructions": "Skip the Buffalo wings and order the All Hands on Deck Cheese Platter, Turkey Sandwich, or Chicken Noodle Soup from Room Service instead.",
+  "watchOuts": [
+    "Cayenne pepper Buffalo hot sauce (capsaicin)",
+    "Deep-fried chicken skin grease",
+    "Blue cheese dressing lactose"
+  ]
+}

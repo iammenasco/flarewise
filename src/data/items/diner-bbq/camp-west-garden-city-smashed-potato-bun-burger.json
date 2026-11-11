@@ -1,0 +1,40 @@
+{
+  "id": "camp-west-garden-city-smashed-potato-bun-burger",
+  "name": "Camp West (Garden City, UT) Smashed Chuck Burger on Soft Potato Bun",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Camp West Burgers & Shakes (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "beef",
+    "burger"
+  ],
+  "searchKeywords": [
+    "camp west bear lake",
+    "camp west burgers garden city",
+    "smash burger potato bun bear lake"
+  ],
+  "whyItWorks": "Thinly griddled smashburger on an ultra-soft potato flour bun. Potato buns are exceptionally tender and chew with zero tough crusts, making it very gentle on digestion.",
+  "prepOrOrderInstructions": "Order the Single Smashburger plain on the potato bun with American cheese and mayo or ketchup.",
+  "watchOuts": [
+    "None when ordered plain"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "disneyland-fruit-carts-fresh-banana-melon-cup",
+  "name": "Disneyland & DCA Outdoor Fruit Carts: Fresh Ripe Banana & Cut Cantaloupe/Honeydew Cup",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Main Street Fruit Cart, Ship to Shore & Fillmore's Taste-In (Disneyland & DCA)",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "banana",
+    "fruit",
+    "soluble-fiber",
+    "dairy-free",
+    "gluten-free-option",
+    "budget-friendly",
+    "vacation",
+    "disneyland",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "disneyland banana cart",
+    "fresh fruit disneyland",
+    "fillmores taste in cars land"
+  ],
+  "whyItWorks": "Whole ripe bananas ($2–$3 at fruit carts in every land) and chilled seedless cantaloupe/honeydew melon cups are hydrating, potassium-rich, and 9.5/10 flare-safe.",
+  "prepOrOrderInstructions": "Pick up 2 ripe bananas at Main Street Fruit Cart (Disneyland) or Fillmore's Taste-In (Cars Land DCA) each morning to keep in your park bag—never add the Tajín chili-lime packet!",
+  "watchOuts": [
+    "Discard the Tajín chili-lime seasoning packet often offered with fruit cups (chili + dehydrated lime trigger)"
+  ]
+}

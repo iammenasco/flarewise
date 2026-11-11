@@ -1,0 +1,42 @@
+{
+  "id": "pirate-night-coconut-creme-flan",
+  "name": "No-Sugar-Added Caribbean Coconut Crème Flan (Pirate Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Pirate Night Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "egg",
+    "coconut",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pirate-night"
+  ],
+  "searchKeywords": [
+    "no sugar added coconut creme flan",
+    "pirate night flan",
+    "disney cruise"
+  ],
+  "whyItWorks": "Silky baked coconut-egg custard with zero tough fiber, seeds, or citrus.",
+  "prepOrOrderInstructions": "Brush off any toasted shredded coconut flakes on top and take a Lactaid enzyme.",
+  "watchOuts": [
+    "Toasted coconut shreds if garnished on top",
+    "Sugar-free sweetener in large portions"
+  ]
+}

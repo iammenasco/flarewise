@@ -1,0 +1,40 @@
+{
+  "id": "dca-pym-test-kitchen-caesar-salad-crouton-warning",
+  "name": "DCA Pym Test Kitchen Caesar Salad with Colossal Crouton (Roughage Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Pym Test Kitchen (Disney California Adventure)",
+  "crohnsScore": 5.3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "salad",
+    "caesar",
+    "avengers-campus",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "pym test kitchen caesar",
+    "colossal crouton salad",
+    "avengers campus salad"
+  ],
+  "whyItWorks": "Crisp hearts of romaine lettuce tossed in creamy lemon-garlic Caesar dressing with a massive baked colossal crouton and shaved parmesan. Raw romaine roughage, lemon juice acid, and garlic cause severe gas and intestinal scraping during flares.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares. Choose the Not So Little Chicken Sandwich or Pym-ini panini instead.",
+  "watchOuts": [
+    "Raw romaine lettuce and garlic lemon dressing cause cramping"
+  ]
+}

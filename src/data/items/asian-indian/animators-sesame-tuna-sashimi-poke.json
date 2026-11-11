@@ -1,0 +1,42 @@
+{
+  "id": "animators-sesame-tuna-sashimi-poke",
+  "name": "Sesame-Crusted Tuna Sashimi / Ahi Tuna Poke (Night 2)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "fish",
+    "tuna",
+    "sushi",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "sesame tuna sashimi",
+    "ahi tuna poke",
+    "animation magic",
+    "animators palate"
+  ],
+  "whyItWorks": "Sushi-grade raw/seared ahi tuna is ultra-lean protein, though the sesame crust, wakame seaweed salad, and ponzu dressing require modification.",
+  "prepOrOrderInstructions": "Request the tuna sashimi plain with regular soy sauce (no citrus ponzu, no spicy mayo, and scrape off heavy sesame seeds if flaring).",
+  "watchOuts": [
+    "Citrus ponzu dressing",
+    "Sesame seed crust and fibrous wakame seaweed salad"
+  ]
+}

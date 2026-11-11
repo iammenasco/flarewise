@@ -1,0 +1,39 @@
+{
+  "id": "1923-split-napa-romaine-caesar",
+  "name": "Split Napa Baby Romaine Caesar Salad with Parmigiano-Reggiano (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · 1923 (Signature Night 1)",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "salad",
+    "cheese",
+    "greens",
+    "disney-cruise",
+    "disney-treasure",
+    "1923"
+  ],
+  "searchKeywords": [
+    "split napa baby romaine caesar",
+    "1923 caesar salad",
+    "disney treasure"
+  ],
+  "whyItWorks": "Aged Parmigiano-Reggiano and croutons are fine, but raw romaine ribs and lemon-garlic Caesar dressing carry flare risk.",
+  "prepOrOrderInstructions": "Skip raw Caesar salads during flares or eat only the tender inner lettuce tips and aged Parmesan.",
+  "watchOuts": [
+    "Raw romaine ribs",
+    "Lemon juice and raw garlic in Caesar dressing"
+  ]
+}

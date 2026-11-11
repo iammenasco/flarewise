@@ -1,0 +1,41 @@
+{
+  "id": "animators-no-sugar-added-carrot-cake",
+  "name": "No-Sugar-Added Deconstructed Carrot Cake (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "carrots",
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "deconstructed carrot cake",
+    "no sugar added carrot cake",
+    "animation magic",
+    "animators palate"
+  ],
+  "whyItWorks": "Soft cooked grated carrot sponge with cream cheese mousse, provided walnuts and raisins are excluded.",
+  "prepOrOrderInstructions": "Inspect for and remove any walnut pieces or raisins, and eat a small portion due to sugar-free sweeteners.",
+  "watchOuts": [
+    "Possible walnut/raisin garnish",
+    "Sugar-alcohol sweeteners and cream cheese dairy"
+  ]
+}

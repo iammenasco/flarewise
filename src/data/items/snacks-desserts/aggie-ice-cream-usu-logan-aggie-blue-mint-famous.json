@@ -1,0 +1,39 @@
+{
+  "id": "aggie-ice-cream-usu-logan-aggie-blue-mint-famous",
+  "name": "Aggie Ice Cream (USU Logan, UT) Famous \"Aggie Blue Mint\" (White Choc Chunks & Cookies)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Aggie Ice Cream (Utah State University, Logan, UT)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "usu",
+    "ice-cream",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "aggie blue mint",
+    "usu famous ice cream",
+    "aggie blue mint logan utah"
+  ],
+  "whyItWorks": "USU's most famous and iconic flavor! Bright Aggie blue mint ice cream loaded with white chocolate chunks and chocolate cookie pieces. A Cache Valley pilgrimage dessert.",
+  "prepOrOrderInstructions": "Order a single scoop in a cup to savor during stable remission; take lactase enzymes if dairy sensitive.",
+  "watchOuts": [
+    "High dairy cream and sugar content; enjoy in moderation"
+  ]
+}

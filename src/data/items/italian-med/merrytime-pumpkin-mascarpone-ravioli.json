@@ -1,0 +1,45 @@
+{
+  "id": "merrytime-pumpkin-mascarpone-ravioli",
+  "name": "Very Merrytime Holiday Pumpkin & Mascarpone Cheese Ravioli with Asiago",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime (\"Happy Holidays\" Menu)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "pumpkin",
+    "cheese",
+    "vegetarian",
+    "smooth",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "pumpkin mascarpone ravioli",
+    "holiday ravioli",
+    "very merrytime pasta",
+    "happy holidays menu"
+  ],
+  "whyItWorks": "Soft refined-flour ravioli pillows filled with smooth pumpkin purée and mascarpone contain soothing soluble pumpkin fiber.",
+  "prepOrOrderInstructions": "Take a Lactaid enzyme for the unaged mascarpone cheese filling, and ask to hold any toasted pine nuts or fried sage garnish.",
+  "watchOuts": [
+    "High lactose in the mascarpone cheese filling",
+    "Rich butter/cream sauce"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "enchante-chicken-creamy-ravioli",
+  "name": "Enchanté Farm-Raised Poulette Chicken with Creamy Herb Ravioli",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Enchanté by Chef Arnaud Lallement",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "pasta",
+    "high-protein",
+    "french",
+    "disney-cruise",
+    "disney-treasure",
+    "enchante"
+  ],
+  "searchKeywords": [
+    "enchante chicken",
+    "poulette ravioli",
+    "disney treasure enchante"
+  ],
+  "whyItWorks": "Sous-vide poached farm chicken breast with delicate handmade pasta ravioli is ultra-tender and low-residue.",
+  "prepOrOrderInstructions": "Request the chicken and ravioli with vin jaune / poultry velouté on the side and zero citrus zest.",
+  "watchOuts": [
+    "Rich French cream/butter emulsion"
+  ]
+}

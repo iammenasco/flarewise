@@ -1,0 +1,42 @@
+{
+  "id": "animators-sweet-and-sour-tofu",
+  "name": "Sesame-Crusted Sweet & Sour Tofu with Jasmine Rice (Night 2)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate (Animation Magic Night 2)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "tofu",
+    "rice",
+    "vegan",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "sesame crusted sweet and sour tofu",
+    "animation magic",
+    "animators palate"
+  ],
+  "whyItWorks": "Firm soy tofu and steamed jasmine rice are gentle plant proteins, though the sesame seed crust and sweet-and-sour peppers need trimming.",
+  "prepOrOrderInstructions": "Ask for the tofu pan-seared without the heavy sesame seed crust, sauce on the side, over extra steamed jasmine rice.",
+  "watchOuts": [
+    "Whole sesame seed crust",
+    "Bell pepper skins and pineapple acidity in sweet-and-sour sauce"
+  ]
+}

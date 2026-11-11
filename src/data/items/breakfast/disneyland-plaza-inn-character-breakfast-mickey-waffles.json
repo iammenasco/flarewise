@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-plaza-inn-character-breakfast-mickey-waffles",
+  "name": "Disneyland Plaza Inn Character Breakfast: Mickey Waffles, Scrambled Eggs & Banana",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Plaza Inn \"Minnie & Friends\" Breakfast (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "waffles",
+    "banana",
+    "high-protein",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "minnie and friends breakfast plaza inn",
+    "disneyland mickey waffles",
+    "character breakfast disneyland"
+  ],
+  "whyItWorks": "The buffet lets you build a clean plate of fluffy scrambled eggs, made-to-order egg-white or ham/cheddar omelets, classic Mickey-shaped waffles, and ripe bananas.",
+  "prepOrOrderInstructions": "Load your plate with scrambled eggs or a plain cheese omelet, Mickey waffles, turkey sausage/bacon, and a banana; ask the server for allergy-friendly/dairy-free Mickey waffles if lactose-sensitive.",
+  "watchOuts": [
+    "Disney can make dairy-free/gluten-free Mickey waffles on request at any table-service or buffet breakfast!"
+  ]
+}

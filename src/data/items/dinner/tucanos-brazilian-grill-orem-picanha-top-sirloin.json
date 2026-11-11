@@ -1,0 +1,39 @@
+{
+  "id": "tucanos-brazilian-grill-orem-picanha-top-sirloin",
+  "name": "Tucanos Brazilian Grill (Orem, UT) Churrasco Grilled Picanha (Top Sirloin) & White Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Tucanos Brazilian Grill (Orem / University Place, UT)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "orem",
+    "beef",
+    "steak",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "tucanos orem",
+    "tucanos picanha",
+    "brazilian steakhouse utah valley"
+  ],
+  "whyItWorks": "Traditional Brazilian top sirloin roasted on rotisserie skewers with coarse sea salt. Pure, unbreaded, high-iron beef paired with Brazilian white rice and black bean broth.",
+  "prepOrOrderInstructions": "Request slices of Picanha medium with sea salt; pair with steamed white rice (pass on spicy marinated cuts and raw salad bar onions).",
+  "watchOuts": [
+    "Eat slowly to avoid gastric volume distension from endless skewer service"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "portillos-buena-park-charbroiled-chicken-sandwich",
+  "name": "Portillo's (Buena Park, CA) Charbroiled Chicken Breast Sandwich on Brioche Bun",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Portillo's (Buena Park, CA)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "chicken",
+    "sandwich",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portillos chicken sandwich",
+    "charbroiled chicken portillos",
+    "buena park portillos"
+  ],
+  "whyItWorks": "Located right on Beach Blvd opposite Knott's Berry Farm! Tender marinated chicken breast charbroiled over an open flame, served on a toasted brioche bun with mayo. Unbreaded, lean, and very gentle.",
+  "prepOrOrderInstructions": "Order the Charbroiled Chicken Sandwich plain or with mayo only (hold lettuce, tomato, and raw onions).",
+  "watchOuts": [
+    "None when ordered plain"
+  ]
+}

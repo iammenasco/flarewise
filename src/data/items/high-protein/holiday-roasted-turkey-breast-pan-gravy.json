@@ -1,0 +1,47 @@
+{
+  "id": "holiday-roasted-turkey-breast-pan-gravy",
+  "name": "Thanksgiving & Christmas Roasted Turkey Breast with Strained Pan Gravy",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Thanksgiving & Christmas Holiday Table",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Whole Turkey or Bone-In Turkey Breast",
+    "Turkey or Chicken Bone Broth",
+    "Cornstarch or White Flour"
+  ],
+  "tags": [
+    "turkey",
+    "high-protein",
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "searchKeywords": [
+    "thanksgiving turkey",
+    "christmas turkey dinner",
+    "turkey and gravy",
+    "holiday meal"
+  ],
+  "whyItWorks": "Carved skinless white-meat turkey breast is 100% fiber-free, ultra-lean, and rich in L-tryptophan and B-vitamins—the safest centerpiece on any Thanksgiving or Christmas table.",
+  "prepOrOrderInstructions": "Carve slices from the interior white turkey breast (skipping heavily peppered/crispy skin if flaring) and top with smooth strained bone-broth pan gravy (no chopped giblets or onions).",
+  "watchOuts": [
+    "Skip crispy heavily seasoned skin and chunky giblet/mushroom gravies"
+  ]
+}

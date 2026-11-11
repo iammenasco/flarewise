@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-jolly-holiday-turkey-sandwich",
+  "name": "Disneyland Jolly Holiday Bakery Cafe Oven-Roasted Turkey Breast Sandwich",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Jolly Holiday Bakery Cafe (Main Street, U.S.A. · Disneyland Park)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "sandwich",
+    "high-protein",
+    "dairy-free",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "jolly holiday turkey sandwich",
+    "disneyland turkey sandwich",
+    "kids turkey sandwich disneyland"
+  ],
+  "whyItWorks": "Lean sliced turkey breast on soft white/brioche bread is non-greasy, dairy-free, and easy to pack in your park bag for a mid-day meal.",
+  "prepOrOrderInstructions": "Order the Oven-Roasted Turkey Sandwich (or the Kids' Turkey Sandwich with applesauce/banana) and remove any raw lettuce or tomato slices before eating.",
+  "watchOuts": [
+    "Remove raw lettuce and tomato slices; ask for mustard/mayo packets on the side"
+  ]
+}

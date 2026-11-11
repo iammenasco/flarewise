@@ -1,0 +1,37 @@
+{
+  "id": "knotts-mrs-knotts-sweet-stewed-rhubarb",
+  "name": "Sweet Stewed Rhubarb Side Dish",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "stewed-rhubarb",
+    "side",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "mrs knotts chicken dinner",
+    "stewed rhubarb",
+    "rhubarb side",
+    "knotts berry farm"
+  ],
+  "whyItWorks": "Simmered down until soft and tender with sugar, stewed rhubarb provides soluble pectin and gentle fruit fiber that supports digestion. Cooking thoroughly breaks down stringy plant cellulose.",
+  "prepOrOrderInstructions": "Enjoy a few spoonfuls as a tart-sweet digestive accompaniment. Avoid if prone to calcium-oxalate issues."
+}

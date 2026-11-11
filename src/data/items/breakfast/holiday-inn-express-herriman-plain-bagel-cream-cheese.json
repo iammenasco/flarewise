@@ -1,0 +1,40 @@
+{
+  "id": "holiday-inn-express-herriman-plain-bagel-cream-cheese",
+  "name": "Holiday Inn Express (Herriman, UT) Toasted Plain Bagel with Philadelphia Cream Cheese",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Holiday Inn Express & Suites Herriman - South Jordan",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "hotel",
+    "utah",
+    "herriman",
+    "south-jordan",
+    "breakfast",
+    "bagel"
+  ],
+  "searchKeywords": [
+    "holiday inn express bagel",
+    "toasted plain bagel hotel",
+    "herriman hotel breakfast"
+  ],
+  "whyItWorks": "Plain wheat bagel toasted warm and spread with smooth pasteurized cream cheese. Seedless, low-fat, and filling for road trips.",
+  "prepOrOrderInstructions": "Toast a plain bagel in the rotary hotel toaster; spread lightly with cream cheese (pass on everything bagels with sesame and poppy seeds).",
+  "watchOuts": [
+    "Avoid everything bagels containing abrasive sesame and poppy seeds"
+  ]
+}

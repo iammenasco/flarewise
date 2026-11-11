@@ -1,0 +1,44 @@
+{
+  "id": "kneaders-bakery-draper-herriman-logan-turkey-bacon-avocado-french-toast",
+  "name": "Kneaders Bakery & Café (Draper / Riverton-Herriman / Orem / Logan) Turkey Bacon Avocado on Focaccia or Chunky Cinnamon French Toast",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Kneaders Bakery & Café (Draper / Riverton / Orem / Logan, UT)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "avocado",
+    "cheese",
+    "sandwich",
+    "eggs",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "kneaders bakery draper",
+    "kneaders logan",
+    "kneaders turkey bacon avocado",
+    "kneaders french toast"
+  ],
+  "whyItWorks": "With locations in Draper, Riverton/Herriman, Orem (near BambooHR), and Logan, Kneaders' hand-pulled slow-roasted real turkey breast with provolone and avocado on soft rosemary-free focaccia/sourdough bread is one of Utah's best everyday sandwiches.",
+  "prepOrOrderInstructions": "Order the Slow-Roasted Turkey, Bacon & Avocado Sandwich on sourdough or focaccia with provolone (ask for no raw red onion or lettuce, and sauce on the side).",
+  "watchOuts": [
+    "If ordering Kneaders' famous Chunky Cinnamon French Toast for breakfast, ask for caramel/cream syrup on the side, skip seeded strawberries, and take lactase"
+  ]
+}

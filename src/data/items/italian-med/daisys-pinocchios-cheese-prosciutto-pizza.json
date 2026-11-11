@@ -1,0 +1,51 @@
+{
+  "id": "daisys-pinocchios-cheese-prosciutto-pizza",
+  "name": "Pool Deck Cheese or Prosciutto Pizza (Pinocchio's / Daisy's)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Pinocchio's Pizzeria / Disney Treasure · Daisy's Pizza Pies",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "cheese",
+    "prosciutto",
+    "bread",
+    "italian",
+    "grab-and-go",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "pinocchios-pizzeria",
+    "daisys-pizza-pies"
+  ],
+  "searchKeywords": [
+    "pinocchios pizzeria",
+    "daisys pizza pies",
+    "disney cruise pizza",
+    "cheese pizza",
+    "pool deck pizza"
+  ],
+  "whyItWorks": "Soft, chewy white-flour crust with melted mozzarella or prosciutto is a fast pool-deck fuel option on steady/good days.",
+  "prepOrOrderInstructions": "Choose Classic Cheese, Four-Cheese, or Prosciutto pizza (ask for light red sauce or white cheese base if tomato acidity bothers you, and take a Lactaid pill). Skip pepperoni grease or veggie slices with bell pepper skins during flares.",
+  "watchOuts": [
+    "Tomato pizza sauce acidity",
+    "Mozzarella lactose",
+    "Greasy pepperoni or raw bell pepper/onion toppings"
+  ]
+}

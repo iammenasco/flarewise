@@ -1,0 +1,40 @@
+{
+  "id": "disneyland-little-red-wagon-hand-dipped-corn-dog",
+  "name": "Disneyland Little Red Wagon World-Famous Hand-Dipped Golden Corn Dog",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Little Red Wagon (Disneyland Park)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "corn-dog",
+    "beef",
+    "main-street"
+  ],
+  "searchKeywords": [
+    "little red wagon corn dog",
+    "disneyland corn dog",
+    "famous disneyland corn dog"
+  ],
+  "whyItWorks": "World-famous hand-dipped all-beef frankfurter coated in sweet, smooth cornmeal batter and fried golden. The cornmeal is finely ground with zero whole corn kernels or abrasive hulls.",
+  "prepOrOrderInstructions": "Order the Hand-Dipped Corn Dog with sliced apples or bag of potato chips; dip in mild yellow mustard.",
+  "watchOuts": [
+    "Deep-fried batter is rich; eat slowly"
+  ]
+}

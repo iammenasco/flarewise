@@ -1,0 +1,42 @@
+{
+  "id": "enriques-port-wine-braised-short-rib",
+  "name": "Enrique's Port Wine Braised Beef Short Rib",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "short-rib",
+    "potato",
+    "mashed-potatoes",
+    "cheese",
+    "cheddar",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "enriques port wine braised center cut beef short rib",
+    "plaza de coco short rib",
+    "disney treasure"
+  ],
+  "whyItWorks": "Hours of slow braising turn center-cut beef short rib into fork-shredding, gelatinous strands with zero chew resistance.",
+  "prepOrOrderInstructions": "Ask to swap the red-skin green-onion mash and long green beans for plain peeled mashed potatoes or steamed white rice so you get 100% of the tender braised beef without potato skins or raw scallions.",
+  "watchOuts": [
+    "Red potato skins and green onions in the default mash",
+    "Whole long green beans and crispy fried shallots"
+  ]
+}

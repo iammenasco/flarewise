@@ -1,0 +1,48 @@
+{
+  "id": "tritons-lumieres-roasted-rack-of-lamb",
+  "name": "Roasted Rack of Lamb with Dauphinoise Potatoes",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "lamb",
+    "potato",
+    "high-protein",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "searchKeywords": [
+    "roasted rack of lamb",
+    "dauphinoise potato",
+    "tritons",
+    "lumieres",
+    "1923",
+    "disney cruise lamb"
+  ],
+  "whyItWorks": "Medium-roasted lamb rib chops and thinly sliced peeled Dauphinoise potatoes baked in cream are tender and low in insoluble roughage.",
+  "prepOrOrderInstructions": "Trim off the outer rosemary/parsley herb crust and extra fat edge, enjoy the tender center lamb meat and peeled Dauphinoise potatoes, and skip the whole Brussels sprouts.",
+  "watchOuts": [
+    "Whole Brussels sprouts (cruciferous gas trigger)",
+    "Coarse rosemary needle crust",
+    "Cream in Dauphinoise potatoes if lactose sensitive"
+  ]
+}

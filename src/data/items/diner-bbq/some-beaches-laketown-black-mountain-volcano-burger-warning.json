@@ -1,0 +1,42 @@
+{
+  "id": "some-beaches-laketown-black-mountain-volcano-burger-warning",
+  "name": "Some Beaches (Laketown, UT) \"Black Mountain Volcano Burger\" (Jalapeño Warning)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "beef",
+    "burger",
+    "spicy",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "some beaches volcano burger",
+    "spicy burger bear lake",
+    "black mountain volcano burger"
+  ],
+  "whyItWorks": "Capsaicin from fresh grilled jalapeños, spicy hot sauce, and pepper jack cheese accelerates intestinal transit and burns ulcerated tissue.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares. Choose 'The Rock' or 'South Eden' plain smashburger instead.",
+  "watchOuts": [
+    "Fresh grilled jalapeños and spicy sauce cause intense mucosal irritation and diarrhea"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mo-bettahs-hawaiian-kalua-pork-white-rice",
+  "name": "Mo' Bettahs (Utah Locations) Tender Kalua Pig with Steamed White Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mo' Bettahs Hawaiian Style Food (Utah Locations)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "pork",
+    "rice",
+    "hawaiian",
+    "high-protein"
+  ],
+  "searchKeywords": [
+    "mo bettahs kalua pig",
+    "kalua pork mo bettahs",
+    "hawaiian food utah"
+  ],
+  "whyItWorks": "Slow-steamed smoked pork shoulder that falls apart with a fork. Lightly salted with Hawaiian sea salt, zero acidic sauces, and paired with fluffy white jasmine rice.",
+  "prepOrOrderInstructions": "Order the Kalua Pig plate with double white rice (substitute extra white rice for macaroni salad).",
+  "watchOuts": [
+    "Substitute white rice for macaroni salad if gluten or mayo sensitive"
+  ]
+}

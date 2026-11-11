@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-tropical-hideaway-dole-whip-cup",
+  "name": "Disneyland The Tropical Hideaway Classic Dole Whip Pineapple Soft-Serve Cup",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "The Tropical Hideaway (Disneyland Park)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "dole-whip",
+    "dairy-free",
+    "snack"
+  ],
+  "searchKeywords": [
+    "tropical hideaway dole whip",
+    "disneyland dole whip",
+    "adventureland dole whip cup"
+  ],
+  "whyItWorks": "100% dairy-free, vegan pineapple soft-serve! Smooth, refreshing, and completely lactose-free. Pineapple contains natural bromelain and is far gentler than acidic citrus lemon soft-serve.",
+  "prepOrOrderInstructions": "Order the classic pineapple Dole Whip in a cup (pass on spicy Tajín seasoning or chamoy).",
+  "watchOuts": [
+    "Avoid Tajín chili-lime salt topping"
+  ]
+}

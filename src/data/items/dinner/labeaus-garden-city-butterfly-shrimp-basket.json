@@ -1,0 +1,40 @@
+{
+  "id": "labeaus-garden-city-butterfly-shrimp-basket",
+  "name": "LaBeau's (Garden City, UT) Golden Fried Butterfly Shrimp Basket",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "LaBeau's (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "seafood",
+    "shrimp"
+  ],
+  "searchKeywords": [
+    "labeaus butterfly shrimp",
+    "bear lake shrimp basket",
+    "garden city fried shrimp"
+  ],
+  "whyItWorks": "Jumbo butterflied shrimp breaded and fried golden. High in lean protein. Very manageable in stable remission.",
+  "prepOrOrderInstructions": "Order Butterfly Shrimp with fries and mild tartar sauce (avoid spicy cocktail sauce).",
+  "watchOuts": [
+    "Avoid spicy cocktail sauce"
+  ]
+}

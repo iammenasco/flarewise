@@ -1,0 +1,41 @@
+{
+  "id": "maddox-ranch-house-warm-rolls-raspberry-butter",
+  "name": "Maddox Ranch House Warm Homemade Dinner Rolls with Sweet Corn & Raspberry Butter",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Maddox Ranch House (Perry / Brigham City — Hwy 89 to Logan & Bear Lake)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "butter",
+    "sweet",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "maddox rolls",
+    "maddox raspberry butter",
+    "maddox corn",
+    "maddox drive in"
+  ],
+  "whyItWorks": "Pillowy, feather-light homemade white yeast rolls served piping hot at the table—an iconic Utah comfort staple.",
+  "prepOrOrderInstructions": "Enjoy the warm homemade white rolls with plain honey butter (or a light dab of raspberry honey butter if seed-strained) and skip the whole-kernel sweet corn dish if flaring.",
+  "watchOuts": [
+    "Skip the side dish of whole-kernel sweet corn during flares (insoluble hulls)"
+  ]
+}

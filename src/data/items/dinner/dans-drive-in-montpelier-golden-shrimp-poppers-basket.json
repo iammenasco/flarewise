@@ -1,0 +1,41 @@
+{
+  "id": "dans-drive-in-montpelier-golden-shrimp-poppers-basket",
+  "name": "Dan's Drive-In (Montpelier, ID) Golden Fried Shrimp Poppers Basket (Tartar on Side)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 6.9,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "seafood",
+    "shrimp"
+  ],
+  "searchKeywords": [
+    "dans shrimp poppers",
+    "fried shrimp basket montpelier",
+    "popcorn shrimp bear lake"
+  ],
+  "whyItWorks": "Shrimp is lean, tender, and provides bioavailable marine protein. Breaded shrimp poppers are bite-sized and chew easily, though deep frying adds fat.",
+  "prepOrOrderInstructions": "Order the Shrimp Poppers basket with tartar sauce on the side and a soft dinner roll or fries.",
+  "watchOuts": [
+    "Fried breading can be rich during active digestive flareups"
+  ]
+}

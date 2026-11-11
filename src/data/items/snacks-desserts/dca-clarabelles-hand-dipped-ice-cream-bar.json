@@ -1,0 +1,39 @@
+{
+  "id": "dca-clarabelles-hand-dipped-ice-cream-bar",
+  "name": "DCA Clarabelle's Hand-Dipped Vanilla Ice Cream Bar (Milk Chocolate Coating)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Clarabelle's Hand-Scooped Ice Cream (Disney California Adventure)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "restaurant",
+    "ice-cream",
+    "chocolate",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "clarabelles ice cream bar",
+    "hand dipped ice cream dca",
+    "buena vista street ice cream"
+  ],
+  "whyItWorks": "Handmade ice cream bar on a wooden stick dipped fresh in warm milk chocolate. Seed-free and nut-free when ordered with chocolate crunch or Mickey sprinkles.",
+  "prepOrOrderInstructions": "Order vanilla ice cream bar dipped in milk chocolate with sprinkles (avoid whole roasted nuts or berry toppings).",
+  "watchOuts": [
+    "Contains dairy cream and milk chocolate; take lactase enzymes if lactose sensitive"
+  ]
+}

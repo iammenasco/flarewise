@@ -1,0 +1,43 @@
+{
+  "id": "coopers-bear-lake-west-breakfast-steak-fish",
+  "name": "Cooper's Restaurant (Fish Haven, ID) Morning Eggs Breakfast or Grilled Fish & Steak",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Cooper's Restaurant & Sports Bar (Bear Lake West · Fish Haven, ID)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "fish",
+    "beef",
+    "steak",
+    "high-protein",
+    "bear-lake",
+    "fish-haven",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "coopers bear lake west",
+    "fish haven idaho restaurant",
+    "coopers breakfast bear lake"
+  ],
+  "whyItWorks": "Overlooking the Idaho side of Bear Lake, Cooper's serves classic two-egg breakfasts with toast/potatoes and simple grilled fish or steaks at dinner.",
+  "prepOrOrderInstructions": "Order scrambled or poached eggs with sourdough toast and bacon/ham at breakfast, or plain grilled fish/steak with baked/mashed potato at dinner.",
+  "watchOuts": [
+    "Ask for no lemon butter on fish to keep it citrus-free"
+  ]
+}

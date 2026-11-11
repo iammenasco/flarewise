@@ -1,0 +1,40 @@
+{
+  "id": "knotts-buena-park-claim-jumper-rotisserie-chicken-baked-potato",
+  "name": "Claim Jumper Steakhouse (Buena Park — Across from Knott's) Rotisserie Chicken, Tri-Tip & Giant Baked Idaho Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Claim Jumper Steakhouse & Bar (Beach Blvd, Buena Park · Across from Knott's Berry Farm)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "salmon",
+    "potato",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "claim jumper buena park",
+    "steakhouse near knotts berry farm",
+    "rotisserie chicken buena park"
+  ],
+  "whyItWorks": "Directly across Beach Blvd from Knott's Berry Farm, Claim Jumper slow-roasts tender herb Rotisserie Chicken, Grilled Salmon, and Slow-Roasted Tri-Tip served with a 1-lb Baked Idaho Russet Potato or Mashed Potatoes.",
+  "prepOrOrderInstructions": "Order the Roasted Chicken Breast, Salmon, or Tri-Tip (BBQ sauce on the side) with a plain Baked Potato (eat the fluffy inside) and warm sourdough/honey bread.",
+  "watchOuts": [
+    "Portions at Claim Jumper are huge—eat half and pack the rest for your hotel fridge"
+  ]
+}

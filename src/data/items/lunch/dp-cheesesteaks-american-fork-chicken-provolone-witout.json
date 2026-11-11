@@ -1,0 +1,41 @@
+{
+  "id": "dp-cheesesteaks-american-fork-chicken-provolone-witout",
+  "name": "DP Cheesesteaks (American Fork / Lehi, UT) Grilled Chicken & Provolone (\"Wiz Witout\")",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "DP Cheesesteaks (Utah Locations)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "american-fork",
+    "lehi",
+    "chicken",
+    "cheesesteak",
+    "sandwich"
+  ],
+  "searchKeywords": [
+    "dp cheesesteaks american fork",
+    "chicken cheesesteak lehi",
+    "witout cheesesteak utah"
+  ],
+  "whyItWorks": "Freshly sliced chicken breast chopped on the flat-top with melted provolone cheese on a soft Amoroso-style Italian roll. 'Witout' ordering omits fried onions completely.",
+  "prepOrOrderInstructions": "Order the Chicken Cheesesteak with provolone cheese 'Witout' (meaning no onions) and no hot peppers.",
+  "watchOuts": [
+    "Specify 'Witout' so no fried onions or peppers are added to the grill"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "takara-sushi-logan-nigiri-california-roll",
+  "name": "Takara Sushi (Logan) Salmon, Tuna & Yellowtail Nigiri + Miso Soup",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sushi",
+    "salmon",
+    "tuna",
+    "rice",
+    "soup",
+    "high-protein",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "takara sushi nigiri",
+    "takara sashimi",
+    "miso soup logan",
+    "takara sushi 1000 north"
+  ],
+  "whyItWorks": "Pure raw salmon, tuna, albacore, or tamago (sweet egg) over seasoned white sushi rice with a warm bowl of probiotic miso broth—nearly zero fiber and zero dairy.",
+  "prepOrOrderInstructions": "Order Salmon (Sake), Tuna (Maguro), Yellowtail (Hamachi), or Tamago Nigiri with a cup of Miso Soup and gluten-free tamari/soy sauce.",
+  "watchOuts": [
+    "Skip wasabi paste and raw jalapeño toppings"
+  ]
+}

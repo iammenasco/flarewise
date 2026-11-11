@@ -1,0 +1,41 @@
+{
+  "id": "holiday-charcuterie-aged-cheese-prosciutto-crackers",
+  "name": "Holiday Charcuterie Grazing Plate — Aged White Cheddar, Gruyère, Prosciutto & Water Crackers",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Holiday Home Cooking (Thanksgiving & Christmas Appetizer)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cheese",
+    "pork",
+    "turkey",
+    "high-protein",
+    "lactose-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "holiday charcuterie board",
+    "christmas cheese and crackers",
+    "safe charcuterie crohns"
+  ],
+  "whyItWorks": "Lets you graze safely at holiday parties by picking aged cheeses (2-year White Cheddar, Gruyère, Parmigiano-Reggiano, Gouda—all naturally lactose-safe), paper-thin prosciutto or turkey breast, and plain water or Ritz crackers.",
+  "prepOrOrderInstructions": "Build your plate from the aged hard cheeses, thin prosciutto or deli turkey, and plain refined-wheat crackers—skip whole nuts, dried apricots/cranberries, seeded crackers, and peppercorn salami.",
+  "watchOuts": [
+    "Avoid raw crudité veggies, whole almonds/pistachios, seeded multigrain crackers, olives, and spicy calabrese salami"
+  ]
+}

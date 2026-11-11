@@ -1,0 +1,39 @@
+{
+  "id": "knotts-sutters-grill-cheeseburger-tenders",
+  "name": "Knott's Sutter's Grill (Ghost Town) Plain Charbroiled Cheeseburger or Chicken Tenders & Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Sutter's Grill (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "chicken",
+    "burger",
+    "cheese",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "sutters grill knotts",
+    "ghost town burger tenders"
+  ],
+  "whyItWorks": "Simple American cheeseburger on a soft white bun or crispy white-meat chicken tenders with French fries.",
+  "prepOrOrderInstructions": "Order a plain Cheeseburger (cheese and bun only, ketchup on the side) or Chicken Tenders (peel off thick breading edges if sensitive).",
+  "watchOuts": [
+    "Skip raw onions, pickles, and spicy buffalo dips"
+  ]
+}

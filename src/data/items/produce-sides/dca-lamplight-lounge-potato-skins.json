@@ -1,0 +1,37 @@
+{
+  "id": "dca-lamplight-lounge-potato-skins",
+  "name": "DCA Lamplight Lounge Crispy Yukon Gold Potato Skins (Sauce on Side Mod)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Lamplight Lounge (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 7.3,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "potato",
+    "cheese",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lamplight lounge potato skins",
+    "pixar pier appetizer"
+  ],
+  "whyItWorks": "Unlike hollowed-out fibrous potato peels, Lamplight's \"Potato Skins\" are actually pillowy-soft mashed Yukon Gold potato cakes with a crisp exterior.",
+  "prepOrOrderInstructions": "Ask your server to serve the smoked paprika aioli and brown-butter caper yogurt **on the side** so you can eat the warm Yukon Gold potato cakes plain.",
+  "watchOuts": [
+    "Default plating includes smoked paprika aioli and yogurt sauce—request sauces on the side"
+  ]
+}

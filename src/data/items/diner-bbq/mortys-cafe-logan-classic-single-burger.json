@@ -1,0 +1,41 @@
+{
+  "id": "mortys-cafe-logan-classic-single-burger",
+  "name": "Morty's Cafe (Logan, UT) Classic Single Beef Burger on Brioche Bun",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Morty's Cafe (Logan / USU, UT)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "usu",
+    "beef",
+    "burger"
+  ],
+  "searchKeywords": [
+    "mortys cafe burger",
+    "mortys logan burger",
+    "usu campus burger mortys"
+  ],
+  "whyItWorks": "Located right by Utah State University! Morty's uses quality ground beef cooked smash-style. On a soft brioche bun without raw onions, it's very easy to tolerate in remission.",
+  "prepOrOrderInstructions": "Order the Classic Single Burger on a brioche bun with American cheese; hold raw red onions, tomato, and pickles.",
+  "watchOuts": [
+    "Hold raw onions to prevent gas"
+  ]
+}

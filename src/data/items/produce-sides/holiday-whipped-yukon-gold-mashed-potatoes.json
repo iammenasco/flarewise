@@ -1,0 +1,46 @@
+{
+  "id": "holiday-whipped-yukon-gold-mashed-potatoes",
+  "name": "Thanksgiving & Christmas Peeled Whipped Yukon Gold Mashed Potatoes",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Thanksgiving & Christmas Holiday Table",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Yukon Gold or Russet Potatoes (peeled)",
+    "Chicken Bone Broth",
+    "Ghee or Lactose-Free Butter",
+    "Lactose-Free Milk"
+  ],
+  "tags": [
+    "potato",
+    "smooth",
+    "soluble-fiber",
+    "gluten-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "thanksgiving mashed potatoes",
+    "holiday mashed potatoes",
+    "whipped potatoes"
+  ],
+  "whyItWorks": "Fully peeled, boiled, and whipped potatoes provide pure, soothing soluble starch that slows gut transit and cushions the GI tract.",
+  "prepOrOrderInstructions": "Ensure potatoes are 100% peeled (no \"rustic\" skins mixed in) and whipped with bone broth, ghee/butter, and lactose-free milk/sour cream (or take a Lactaid at a family potluck).",
+  "watchOuts": [
+    "Avoid \"smashed\" potatoes with skins left on or heavy raw roasted garlic"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "knotts-casa-california-chicken-steak-rice-bowl",
+  "name": "Knott's Casa California Restaurante (Fiesta Village) Grilled Pollo Asado or Carne Asada Rice Bowl (Plain Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Casa California Restaurante (Fiesta Village · Knott's Berry Farm)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "avocado",
+    "gluten-free-option",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "casa california knotts",
+    "fiesta village burrito bowl knotts",
+    "chipotle style bowl knotts"
+  ],
+  "whyItWorks": "Casa California operates like a Chipotle-style build-your-own line inside Fiesta Village—letting you build a custom bowl or flour-tortilla burrito with strictly white cilantro-free/mild rice, grilled chicken or steak, shredded Monterey Jack cheese, and guacamole!",
+  "prepOrOrderInstructions": "Ask the server for a Bowl or Burrito with **Rice, Grilled Chicken (or Steak), Shredded Cheese, and Guacamole ONLY**—no black/pinto beans, no fajita peppers/onions, no corn salsa, no spicy red/green salsa, and no lime squeeze.",
+  "watchOuts": [
+    "Skip whole black/pinto beans, corn salsa, raw pico de gallo, and spicy salsas"
+  ]
+}

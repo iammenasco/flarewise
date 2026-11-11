@@ -1,0 +1,45 @@
+{
+  "id": "eye-scream-dairy-free-mango-soft-serve",
+  "name": "Eye Scream Treats Dairy-Free Tropical Mango Soft-Serve Twist (Standalone)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Eye Scream Treats (Pool Deck)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "mango",
+    "sweet",
+    "dairy-free",
+    "vegan",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "eye-scream"
+  ],
+  "searchKeywords": [
+    "dairy free soft serve",
+    "mango soft serve",
+    "eye scream treats",
+    "disney cruise ice cream"
+  ],
+  "whyItWorks": "100% dairy-free, lactose-free, fat-free, seedless, and citrus-free fruit sorbet soft-serve available on tap at Eye Scream.",
+  "prepOrOrderInstructions": "Ask the cast member at Eye Scream for a cup or cone of the dairy-free Mango/Tropical sorbet soft-serve.",
+  "watchOuts": [
+    "Avoid eating too fast if cold temperatures trigger stomach cramping"
+  ]
+}

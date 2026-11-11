@@ -1,0 +1,42 @@
+{
+  "id": "palo-panna-cotta-tiramisu-limoncello-tart",
+  "name": "Palo Vanilla Panna Cotta & Tiramisu vs. Limoncello Tart (Citrus Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "coffee",
+    "cheese",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo panna cotta",
+    "palo tiramisu",
+    "palo amaretto souffle",
+    "limoncello tart"
+  ],
+  "whyItWorks": "Palo's Vanilla Bean Panna Cotta, Amaretto Soufflé, and Mascarpone Tiramisu are silky and zero-fiber; the Limoncello Tart is a strict citrus avoid.",
+  "prepOrOrderInstructions": "Order the Vanilla Panna Cotta (scrape off strawberry seeds), Amaretto Soufflé, or Tiramisu with a Lactaid pill; strictly avoid the Limoncello Tart and Orange Sorbet.",
+  "watchOuts": [
+    "Never order the Limoncello Tart or Blood Orange Sorbet (strict citrus guardrail)",
+    "Dairy cream lactose"
+  ]
+}

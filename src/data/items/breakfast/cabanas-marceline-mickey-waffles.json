@@ -1,0 +1,45 @@
+{
+  "id": "cabanas-marceline-mickey-waffles",
+  "name": "Cabanas & Marceline Market Classic Golden Mickey Mouse Waffles (Standalone)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "waffle",
+    "sweet",
+    "breakfast",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "mickey waffles",
+    "mickey mouse waffles",
+    "cabanas breakfast",
+    "marceline market breakfast",
+    "disney cruise"
+  ],
+  "whyItWorks": "Light, airy refined-flour Mickey Mouse waffles with zero seeds or roughage—an iconic, easily digested DCL morning staple.",
+  "prepOrOrderInstructions": "Enjoy warm with a light drizzle of maple syrup or honey and scrambled eggs; skip the seeded strawberry/berry compote vat next to the waffle station.",
+  "watchOuts": [
+    "Skip the strawberry compote topping (seeds)",
+    "Take a Lactaid if sensitive to milk in batter"
+  ]
+}

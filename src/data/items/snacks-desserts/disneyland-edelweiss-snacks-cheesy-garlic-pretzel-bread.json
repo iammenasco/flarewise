@@ -1,0 +1,39 @@
+{
+  "id": "disneyland-edelweiss-snacks-cheesy-garlic-pretzel-bread",
+  "name": "Disneyland Edelweiss Snacks & Maurice's Treats Cheesy Garlic Pretzel Bread (Plain/Light Mod)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Edelweiss Snacks & Maurice's Treats (Fantasyland · Disneyland Park)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "cheese",
+    "snack",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "cheesy garlic pretzel bread disneyland",
+    "edelweiss snacks pretzel bread",
+    "maurices treats disneyland"
+  ],
+  "whyItWorks": "Disneyland's viral warm twisted pretzel-roll stuffed with melted mozzarella/cheddar; super soft with zero roughage, though rich in cheese and garlic butter—best shared in remission with a lactase enzyme.",
+  "prepOrOrderInstructions": "Take 1–2 lactase enzyme tablets before eating, share the roll, and skip the acidic marinara dipping cup.",
+  "watchOuts": [
+    "Contains garlic butter spread and melted mozzarella lactose—choose a plain Mickey Pretzel during flares"
+  ]
+}

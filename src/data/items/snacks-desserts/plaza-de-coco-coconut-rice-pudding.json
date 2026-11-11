@@ -1,0 +1,42 @@
+{
+  "id": "plaza-de-coco-coconut-rice-pudding",
+  "name": "No-Sugar-Added Arroz con Leche Coconut Rice Pudding (Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco (Día de los Muertos Night 2)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "coconut",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "coconut rice pudding",
+    "arroz con leche",
+    "plaza de coco night 2",
+    "disney treasure"
+  ],
+  "whyItWorks": "Soft simmered white rice in sweet coconut-milk custard with cinnamon—soluble rice starch helps bind loose stool.",
+  "prepOrOrderInstructions": "Pick out any plump raisins if garnished and verify no lime zest was grated on top.",
+  "watchOuts": [
+    "Sugar-alcohol sweetener if labeled no-sugar-added",
+    "Remove any raisin garnish"
+  ]
+}

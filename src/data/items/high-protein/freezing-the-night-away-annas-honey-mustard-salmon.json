@@ -1,0 +1,43 @@
+{
+  "id": "freezing-the-night-away-annas-honey-mustard-salmon",
+  "name": "Anna's Honey-Mustard-Marinated Wild Salmon with New Potatoes (Wonder Alaska)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder · Freezing the Night Away Menu (Alaska Sailings)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "potato",
+    "honey",
+    "omega-3",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "alaska-cruise"
+  ],
+  "searchKeywords": [
+    "annas honey mustard marinated salmon",
+    "freezing the night away salmon",
+    "disney wonder alaska"
+  ],
+  "whyItWorks": "Baked omega-3 salmon glazed with mild honey-mustard and paired with tender boiled new potatoes is a flagship Alaska-sailing flare meal.",
+  "prepOrOrderInstructions": "Order with the aquavit sour cream sauce on the side and skip the sautéed spinach stems if flaring.",
+  "watchOuts": [
+    "Sour cream sauce (order on side)",
+    "Sautéed spinach stems"
+  ]
+}

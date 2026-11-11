@@ -1,0 +1,42 @@
+{
+  "id": "takara-sushi-logan-dragon-roll-eel-avocado",
+  "name": "Takara Sushi (Logan, UT) Dragon Roll (Cooked Eel, Crab & Avocado)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "japanese",
+    "sushi",
+    "cooked-sushi",
+    "avocado"
+  ],
+  "searchKeywords": [
+    "takara dragon roll",
+    "cooked eel roll logan",
+    "takara sushi roll"
+  ],
+  "whyItWorks": "All ingredients in the Dragon Roll are fully cooked! Unagi and avocado provide smooth, healthy fats. Ask to hold toasted sesame seeds if you have stricturing Crohn's.",
+  "prepOrOrderInstructions": "Order the Dragon Roll; ask to hold toasted sesame seeds.",
+  "watchOuts": [
+    "Request no sesame seeds if stricture-prone"
+  ]
+}

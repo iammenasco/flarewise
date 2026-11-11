@@ -1,0 +1,40 @@
+{
+  "id": "labeaus-pastrami-burger",
+  "name": "LaBeau's Utah-Style Pastrami Cheeseburger",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "LaBeau's Drive-In (Garden City / Bear Lake, UT)",
+  "crohnsScore": 6.6,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "labeaus pastrami burger",
+    "garden city pastrami burger",
+    "utah pastrami burger bear lake"
+  ],
+  "whyItWorks": "A Utah drive-in staple pairing a charbroiled beef patty with thin-sliced warm pastrami on a soft white bun; low in fiber, though higher in sodium, cured beef fat, and peppercorn spice than a plain cheeseburger.",
+  "prepOrOrderInstructions": "Order on a plain bun with cheese only—skip raw onions, shredded lettuce, pickles, and heavy fry sauce.",
+  "watchOuts": [
+    "Cured pastrami is seasoned with black pepper/coriander and adds extra fat and sodium—stick to a plain cheeseburger or grilled turkey sandwich during flares"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ranch-hand-montpelier-ranchers-omelet",
+  "name": "Ranch Hand Trail Stop \"Ranchers Omelet\" (Ham, Swiss & Cheddar Mod)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Ranch Hand Trail Stop (Montpelier, ID)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pork",
+    "cheese",
+    "high-protein",
+    "bear-lake",
+    "idaho"
+  ],
+  "searchKeywords": [
+    "ranch hand montpelier breakfast",
+    "ranchers omelet montpelier idaho",
+    "bear lake highway 89 breakfast"
+  ],
+  "whyItWorks": "Fluffy three-egg omelet folded with diced ham and naturally low-lactose Swiss cheese paired with white or sourdough toast is a high-protein stop along US-89.",
+  "prepOrOrderInstructions": "Order the Ranchers Omelet with ham and Swiss/cheddar only (hold the greasy sausage links if sensitive to spice/fat) and pair with white or sourdough toast.",
+  "watchOuts": [
+    "Ordering all three meats (ham, bacon, sausage) plus American cheese makes it high in fat—stick to ham & Swiss during recovery"
+  ]
+}

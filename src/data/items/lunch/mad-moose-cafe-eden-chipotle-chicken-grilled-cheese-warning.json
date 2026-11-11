@@ -1,0 +1,38 @@
+{
+  "id": "mad-moose-cafe-eden-chipotle-chicken-grilled-cheese-warning",
+  "name": "Mad Moose Cafe (Eden, UT) Chipotle Chicken Grilled Cheese (Ghost Pepper Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mad Moose Cafe (Eden / Ogden Valley, UT)",
+  "crohnsScore": 4.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "chicken",
+    "spicy",
+    "cheese",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "mad moose chipotle chicken",
+    "ghost pepper sandwich eden",
+    "spicy grilled cheese utah"
+  ],
+  "whyItWorks": "Made with ghost pepper jack cheese and spicy homemade southwest chipotle sauce. Extreme capsaicin heat causes severe gastrointestinal burning, cramping, and mucosal irritation.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid completely during active IBD. Choose the French Dip or BLT instead.",
+  "watchOuts": [
+    "Ghost pepper cheese and chipotle sauce trigger intense bowel inflammation and pain"
+  ]
+}

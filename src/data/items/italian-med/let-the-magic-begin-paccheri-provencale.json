@@ -1,0 +1,41 @@
+{
+  "id": "let-the-magic-begin-paccheri-provencale",
+  "name": "Paccheri Pasta Provençale with Roasted Eggplant & Parmigiano (Let the Magic Begin)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "tomato",
+    "cheese",
+    "vegetarian",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "paccheri pasta provencale",
+    "let the magic begin pasta",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Large refined wheat pasta tubes with lactose-free aged Parmigiano-Reggiano, though eggplant and tomato sauce require remission.",
+  "prepOrOrderInstructions": "During a flare, ask for the paccheri pasta tossed in plain olive oil or butter and Parmigiano without the eggplant-tomato sauce.",
+  "watchOuts": [
+    "Eggplant seeds/skins and tomato acidity"
+  ]
+}

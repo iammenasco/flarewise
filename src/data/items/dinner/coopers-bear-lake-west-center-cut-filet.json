@@ -1,0 +1,36 @@
+{
+  "id": "coopers-bear-lake-west-center-cut-filet",
+  "name": "8 oz Center-Cut Filet Mignon with Plain Baked Potato",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Cooper's at Bear Lake West (Fish Haven, ID)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "bear-lake",
+    "fish-haven",
+    "filet-mignon",
+    "steak"
+  ],
+  "searchKeywords": [
+    "coopers bear lake west",
+    "filet mignon",
+    "baked potato",
+    "fish haven idaho"
+  ],
+  "whyItWorks": "Center-cut beef tenderloin is the leanest, most tender cut of beef with minimal gristle or connective tissue. Paired with a soft baked Idaho potato (without rough skin), it provides premium nutrient-dense recovery fuel.",
+  "prepOrOrderInstructions": "Ask for filet prepared medium-rare or medium without heavy black pepper crust. Scoop out the fluffy interior of the baked potato and top with a small pat of butter."
+}

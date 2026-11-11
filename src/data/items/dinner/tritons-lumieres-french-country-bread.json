@@ -1,0 +1,41 @@
+{
+  "id": "tritons-lumieres-french-country-bread",
+  "name": "Warm French Country Bread with Olive Spread",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "french country bread",
+    "olive spread",
+    "tritons bread service",
+    "lumieres bread service"
+  ],
+  "whyItWorks": "Crusty-outside, soft-crumb white French baguette rolls are low-fiber, refined wheat.",
+  "prepOrOrderInstructions": "Eat the soft interior crumb with a touch of butter or olive oil and skip the briny, garlic-heavy olive tapenade during flares.",
+  "watchOuts": [
+    "Garlic and olive skins in the tapenade spread",
+    "Chewy outer crust if eaten quickly"
+  ]
+}

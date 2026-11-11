@@ -1,0 +1,43 @@
+{
+  "id": "tianas-warm-water-lobster-salad",
+  "name": "Warm Water Lobster Salad with Grapefruit & Hazelnuts (Prince & Princess Menu)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place (Prince & Princess Rotation)",
+  "crohnsScore": 1,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "seafood",
+    "salad",
+    "nuts",
+    "greens",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
+  ],
+  "searchKeywords": [
+    "warm water lobster salad",
+    "grapefruit",
+    "prince and princess menu",
+    "tianas place",
+    "disney wonder"
+  ],
+  "whyItWorks": "Hard 1.0 avoid: plated with fresh pink grapefruit segments (CYP3A4 medication interaction + strict citrus trigger) and toasted hazelnuts.",
+  "prepOrOrderInstructions": "Do not order as plated. Only consider if the kitchen plates plain poached lobster medallions on a clean plate with drawn butter and zero grapefruit or nuts.",
+  "watchOuts": [
+    "Fresh grapefruit segments (strict avoid)",
+    "Whole toasted hazelnuts",
+    "Raw baby greens"
+  ]
+}

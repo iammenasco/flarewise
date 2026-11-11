@@ -1,0 +1,39 @@
+{
+  "id": "dca-lamplight-lounge-brunch-french-toast-eggs",
+  "name": "DCA Lamplight Lounge Weekend Brunch: Indulgent French Toast or Egg-White Frittata Bake & Potatoes",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Lamplight Lounge (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "sourdough",
+    "potato",
+    "sweet",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lamplight lounge brunch",
+    "lamplight indulgent french toast",
+    "pixar pier brunch"
+  ],
+  "whyItWorks": "On weekend mornings (Fri–Sun), Lamplight Lounge serves incredible cinnamon-sugar sourdough French Toast and made-to-order egg dishes (or Kids' Scrambled Eggs, Bacon & Toast).",
+  "prepOrOrderInstructions": "Order the Indulgent French Toast with syrup on the side, or ask for plain Scrambled Eggs with breakfast potatoes, bacon, and sourdough toast (skip chilaquiles and spicy bloody marys).",
+  "watchOuts": [
+    "Avoid the Chilaquiles (fried corn chips + spicy ranchero chili sauce) and Avocado Toast if topped with pickled onions/jalapeños"
+  ]
+}

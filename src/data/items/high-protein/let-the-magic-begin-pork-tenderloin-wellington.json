@@ -1,0 +1,42 @@
+{
+  "id": "let-the-magic-begin-pork-tenderloin-wellington",
+  "name": "Pork Tenderloin Wellington in Puff Pastry with Gratin Potatoes (Let the Magic Begin)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "bakery",
+    "potato",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "pork tenderloin wellington",
+    "let the magic begin pork",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Lean center-cut pork tenderloin wrapped in crepe and flaky puff pastry with soft potato gratin.",
+  "prepOrOrderInstructions": "Scrape away the thin mushroom duxelles layer if mushroom mannitol bothers you, and order the Bordeaux wine sauce on the side.",
+  "watchOuts": [
+    "Minced mushroom duxelles inside pastry",
+    "Butter/cream in pastry and gratin"
+  ]
+}

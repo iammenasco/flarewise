@@ -1,0 +1,46 @@
+{
+  "id": "holiday-martinellis-sparkling-cider-eggnog-wassail",
+  "name": "Holiday Martinelli's Sparkling Apple Cider & Lactose-Free Eggnog (Skip Citrus Wassail)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Martinelli's / Lactaid Eggnog / Holiday Table",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Martinelli's Sparkling Cider or Filtered Apple Cider",
+    "Lactaid Eggnog or Almond/Oat Nog"
+  ],
+  "tags": [
+    "apple",
+    "cinnamon",
+    "sweet",
+    "dairy-free",
+    "gluten-free",
+    "holiday",
+    "thanksgiving",
+    "christmas"
+  ],
+  "searchKeywords": [
+    "martinellis sparkling cider",
+    "lactaid eggnog",
+    "holiday punch",
+    "wassail"
+  ],
+  "whyItWorks": "100% filtered apple cider and Lactaid/almond-milk eggnog let you toast the holidays with zero alcohol, zero fiber, and zero citrus.",
+  "prepOrOrderInstructions": "Sip Martinelli's (let some fizz settle if carbonation bloats you), warm spiced apple cider (simmered with cinnamon sticks only—no orange slices!), or Lactaid Eggnog.",
+  "watchOuts": [
+    "CITRUS WARNING: Traditional Holiday Wassail is simmered with orange juice, lemon juice, and orange peels—stick to pure Spiced Apple Cider!"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tandoori-oven-logan-dal-makhani-warning",
+  "name": "Dal Makhani (Black Lentils in Cream Curry)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Tandoori Oven (Logan, UT)",
+  "crohnsScore": 3.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 8.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "indian",
+    "dal-makhani",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "tandoori oven",
+    "dal makhani",
+    "black lentils",
+    "logan utah curry"
+  ],
+  "whyItWorks": "Whole black urad lentils and kidney beans simmered for hours with butter, heavy cream, garlic, ginger, and chili. The dense bean skins resist upper-GI digestion and rapidly ferment in the colon, producing severe gas, pressure, and diarrhea.",
+  "prepOrOrderInstructions": "Severe Gas & Stricture Warning: Avoid black lentils and kidney beans. Choose yellow moong dal (well pureed) or plain basmati rice with tandoori chicken."
+}

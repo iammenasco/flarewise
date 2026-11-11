@@ -1,0 +1,41 @@
+{
+  "id": "worlds-of-marvel-subatomic-sticky-date-pudding",
+  "name": "Subatomic Warm Sticky Date Pudding with Salted Coconut Macaroon Ice Cream (Night 1)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "bakery",
+    "ice-cream",
+    "coconut",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "subatomic sticky date pudding",
+    "worlds of marvel dessert",
+    "disney treasure"
+  ],
+  "whyItWorks": "Warm, ultra-soft steamed date sponge cake in butterscotch sauce—completely citrus-free and nut-free.",
+  "prepOrOrderInstructions": "Ask for plain vanilla ice cream if shredded coconut flakes in the macaroon ice cream bother your gut, and take a Lactaid.",
+  "watchOuts": [
+    "Fine coconut shreds in macaroon ice cream",
+    "Concentrated date sugars"
+  ]
+}

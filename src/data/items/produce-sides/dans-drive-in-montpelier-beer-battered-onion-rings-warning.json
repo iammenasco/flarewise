@@ -1,0 +1,44 @@
+{
+  "id": "dans-drive-in-montpelier-beer-battered-onion-rings-warning",
+  "name": "Dan's Drive-In (Montpelier, ID) Large Beer-Battered Onion Rings (High FODMAP Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Dan's Drive-In (Montpelier, ID)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "idaho",
+    "montpelier",
+    "bear-lake",
+    "onion",
+    "fried",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "dans onion rings",
+    "montpelier onion rings",
+    "beer battered onion rings bear lake"
+  ],
+  "whyItWorks": "Thick yellow onions are among the highest dietary sources of fructan FODMAPs, and the heavy deep-fried batter creates severe GI distress, gas, and painful cramping.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during active disease and stricturing Crohn's. Substitute peeled potato french fries or tater tots.",
+  "watchOuts": [
+    "High fructan content causes severe gas and abdominal distension",
+    "Greasy batter accelerates diarrhea"
+  ]
+}

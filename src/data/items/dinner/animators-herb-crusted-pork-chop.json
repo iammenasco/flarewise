@@ -1,0 +1,43 @@
+{
+  "id": "animators-herb-crusted-pork-chop",
+  "name": "Herb-Crusted Pork Chop with Sun-Dried Tomato Risotto",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Animator's Palate",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "rice",
+    "cheese",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
+  ],
+  "searchKeywords": [
+    "herb crusted pork chop",
+    "sun dried tomato risotto",
+    "animators palate",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Thick center-cut pork chop and creamy Arborio rice risotto are filling and low-fiber when tough sun-dried tomato bits are avoided.",
+  "prepOrOrderInstructions": "Ask for the pork chop grilled with light salt (no heavy rosemary crust) and request plain risotto or mashed potatoes without sun-dried tomato skins.",
+  "watchOuts": [
+    "Leathery sun-dried tomato pieces in risotto",
+    "Woody dried herbs on pork crust"
+  ]
+}

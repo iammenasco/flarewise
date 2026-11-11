@@ -1,0 +1,39 @@
+{
+  "id": "sabores-logan-peanut-butter-burger",
+  "name": "Sabores Creamy Peanut Butter Bacon Burger (Hold Chipotle Aioli)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Sabores (Logan, UT)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "peanut-butter",
+    "high-protein",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "sabores peanut butter burger",
+    "logan utah burger",
+    "sabores burger menu"
+  ],
+  "whyItWorks": "Smooth peanut butter and crispy bacon on a beef burger with a soft bun pack high calorie density for remission weight maintenance, provided you hold the spicy chipotle aioli.",
+  "prepOrOrderInstructions": "Order the Peanut Butter Bacon Burger with NO chipotle aioli and no raw onion/lettuce.",
+  "watchOuts": [
+    "Default build includes spicy chipotle aioli—must request no chipotle aioli; high total fat load"
+  ]
+}

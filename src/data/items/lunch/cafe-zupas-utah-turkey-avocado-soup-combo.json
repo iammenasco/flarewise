@@ -1,0 +1,44 @@
+{
+  "id": "cafe-zupas-utah-turkey-avocado-soup-combo",
+  "name": "Café Zupas (Draper / Riverton-Herriman / Orem / Logan) Turkey Bacon Avocado Sandwich & Chicken Noodle Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Café Zupas (Draper / Riverton / Orem / Logan, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "chicken",
+    "avocado",
+    "soup",
+    "sandwich",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "cafe zupas draper",
+    "cafe zupas herriman riverton",
+    "cafe zupas logan",
+    "cafe zupas orem",
+    "turkey bacon avocado zupas"
+  ],
+  "whyItWorks": "Located across Logan, Orem (near BambooHR), Draper, and Riverton/Herriman, Café Zupas' Turkey Bacon Avocado Sandwich on soft white cottage bread paired with Chickpea & Vegetable-free Chicken Noodle Soup and a soft white bread roll is an easy, repeatable Try-2 combo.",
+  "prepOrOrderInstructions": "Order the Try-2 Combo with a Turkey Bacon Avocado Sandwich on white bread (ask for no tomatoes or sprouts) and a cup of Chicken Noodle Soup (Plus the complimentary soft white roll; give away or save the chocolate-dipped strawberry if avoiding berry seeds).",
+  "watchOuts": [
+    "The complimentary chocolate-covered strawberry has tiny insoluble seeds on the outside—eat just the chocolate tip or skip during flares"
+  ]
+}

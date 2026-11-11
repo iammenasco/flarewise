@@ -1,0 +1,42 @@
+{
+  "id": "palo-brunch-chocolate-raspberry-tart",
+  "name": "Palo Brunch Bitter Chocolate & Raspberry Ganache Tart with Vanilla Bean Gelato",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Brunch)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "berries",
+    "ice-cream",
+    "sweet",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "chocolate raspberry tart",
+    "palo brunch chocolate tart",
+    "disney cruise"
+  ],
+  "whyItWorks": "Strained raspberry-chocolate ganache in a chocolate pastry shell with vanilla bean gelato—citrus-free and nut-free.",
+  "prepOrOrderInstructions": "Pair with a Lactaid pill and leave any whole raw raspberry garnish on the plate.",
+  "watchOuts": [
+    "Leave whole raw raspberries on the side",
+    "Rich dark chocolate ganache and gelato dairy"
+  ]
+}

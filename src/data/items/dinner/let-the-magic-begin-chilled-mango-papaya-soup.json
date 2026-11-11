@@ -1,0 +1,42 @@
+{
+  "id": "let-the-magic-begin-chilled-mango-papaya-soup",
+  "name": "Chilled Mango & Papaya Soup with Passion Fruit (Let the Magic Begin Menu)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "mango",
+    "melon",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "chilled mango and papaya soup",
+    "let the magic begin",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Blended smooth from ripe mango and papaya (papaya contains natural papain digestive enzymes) with zero seeds or citrus.",
+  "prepOrOrderInstructions": "Enjoy chilled; take a Lactaid if yogurt/cream is blended into the base.",
+  "watchOuts": [
+    "Fruit sugar load",
+    "Possible dairy yogurt/cream"
+  ]
+}

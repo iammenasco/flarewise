@@ -1,0 +1,38 @@
+{
+  "id": "campfire-grill-wagyu-burger-dutch-oven-cobbler",
+  "name": "Campfire Grill at Conestoga Ranch Wagyu Cheeseburger & Peach Cobbler",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Campfire Grill at Conestoga Ranch (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "bear-lake",
+    "utah"
+  ],
+  "searchKeywords": [
+    "campfire grill conestoga ranch",
+    "conestoga ranch chuckwagon burger",
+    "garden city wagyu burger peach cobbler"
+  ],
+  "whyItWorks": "Tender local Wagyu beef burger on a soft brioche bun with aged white cheddar is a solid dinner at Conestoga Ranch when ordered without bacon-onion jam or arugula.",
+  "prepOrOrderInstructions": "Order the Wagyu Burger medium-well on brioche with white cheddar only (skip raw onion/arugula) and blot excess grease; if ordering the Dutch Oven Peach Cobbler, skip the vanilla ice cream or take lactase.",
+  "watchOuts": [
+    "Wagyu beef has higher intramuscular fat marbling—order medium-well so excess fat renders off"
+  ]
+}

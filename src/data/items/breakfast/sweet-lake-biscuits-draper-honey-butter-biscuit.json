@@ -1,0 +1,39 @@
+{
+  "id": "sweet-lake-biscuits-draper-honey-butter-biscuit",
+  "name": "Sweet Lake Biscuits (Draper, UT) Scratch Buttermilk Biscuit with Local Honey Butter",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Sweet Lake Biscuits & Limeade (Draper, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "breakfast",
+    "biscuits",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "sweet lake biscuits draper",
+    "honey butter biscuit draper",
+    "scratch biscuits utah"
+  ],
+  "whyItWorks": "Layered, flaky scratch-baked buttermilk biscuit served warm with whipped local Utah honey butter. Soft, comforting, and seed-free.",
+  "prepOrOrderInstructions": "Order a warm scratch biscuit with honey butter on the side.",
+  "watchOuts": [
+    "Rich in butter; eat moderate portion"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-refreshment-corner-jalapeno-pretzel-warning",
+  "name": "Disneyland Refreshment Corner Warm Jalapeño Cream Cheese Pretzel (Spicy Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Refreshment Corner (Disneyland Park)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "disneyland",
+    "restaurant",
+    "pretzel",
+    "spicy",
+    "trigger-warning"
+  ],
+  "searchKeywords": [
+    "jalapeno cream cheese pretzel",
+    "disneyland stuffed pretzel",
+    "coke corner pretzel"
+  ],
+  "whyItWorks": "Warm soft pretzel stuffed with jalapeño cream cheese and topped with spicy breadcrumbs. The spicy jalapeño capsaicin combined with dairy cream cheese triggers rapid bowel cramping.",
+  "prepOrOrderInstructions": "Trigger warning item: avoid during flares. Choose the sweet cream cheese pretzel or plain salted Mickey pretzel instead.",
+  "watchOuts": [
+    "Diced jalapeños and spicy seasoning cause burning and colon spasms"
+  ]
+}

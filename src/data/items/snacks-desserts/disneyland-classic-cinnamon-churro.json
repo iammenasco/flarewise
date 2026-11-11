@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-classic-cinnamon-churro",
+  "name": "Disneyland & DCA Classic Warm Cinnamon-Sugar Churro (Share Half in Remission)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Churro Carts (Disneyland & Disney California Adventure)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "fried",
+    "vacation",
+    "disneyland",
+    "california-adventure",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "disneyland churro",
+    "dca churro",
+    "theme park churro"
+  ],
+  "whyItWorks": "Classic Disneyland churros are made from refined wheat flour with zero nuts or seeds; sharing half of a plain cinnamon-sugar churro lets you enjoy the iconic treat without overloading on sugar or seasonal spicy/citrus glazes.",
+  "prepOrOrderInstructions": "Stick to the Classic Cinnamon-Sugar Churro and share half—avoid seasonal churros rolled in spicy Flamin' Hot dust, sour citrus sugar, or heavy cream-cheese/berry-seed dips.",
+  "watchOuts": [
+    "Fried pastry dough + sugar—share a portion after a protein meal rather than on an empty stomach"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "holiday-utah-funeral-potatoes-hashbrown-casserole",
+  "name": "Utah Holiday \"Funeral Potatoes\" (Cheesy Hashbrown Casserole with Cornflake Crust)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Utah Thanksgiving, Christmas & Family Gatherings",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "groceryIngredients": [
+    "Peeled Shredded Hashbrowns",
+    "Aged Sharp Cheddar Cheese",
+    "Lactose-Free Sour Cream",
+    "Cream of Chicken Soup",
+    "Cornflakes"
+  ],
+  "tags": [
+    "potato",
+    "cheese",
+    "casserole",
+    "holiday",
+    "thanksgiving",
+    "christmas",
+    "utah"
+  ],
+  "searchKeywords": [
+    "funeral potatoes",
+    "utah cheesy potatoes",
+    "hashbrown casserole",
+    "holiday potatoes"
+  ],
+  "whyItWorks": "Utah's most beloved holiday side dish: peeled shredded potatoes baked with aged sharp cheddar and topped with crispy toasted cornflakes—low-fiber and seedless.",
+  "prepOrOrderInstructions": "When making at home, use lactose-free sour cream, aged sharp cheddar, and Cream of Chicken soup (and leave out raw diced onions!); at a family gathering, take a Lactaid before digging in.",
+  "watchOuts": [
+    "Check if the cook added diced raw/sautéed onions",
+    "High dairy fat/lactose unless made with lactose-free sour cream"
+  ]
+}

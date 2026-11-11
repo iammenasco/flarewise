@@ -1,0 +1,42 @@
+{
+  "id": "firehouse-pizzeria-garden-city-baked-pasta-pizza",
+  "name": "Firehouse Pizzeria (Garden City) Breakfast Egg Pizza, Cheese Pizza & Focaccia Bread",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Firehouse Pizzeria (Garden City / Bear Lake, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "eggs",
+    "pasta",
+    "cheese",
+    "bear-lake",
+    "garden-city",
+    "utah"
+  ],
+  "searchKeywords": [
+    "firehouse pizzeria bear lake",
+    "garden city firehouse pizza",
+    "breakfast pizza bear lake"
+  ],
+  "whyItWorks": "Stone-fired pizzeria offering a morning Breakfast Pizza (scrambled eggs, potatoes, and cheddar), warm focaccia bread, and plain cheese/chicken pizzas.",
+  "prepOrOrderInstructions": "Order the Breakfast Egg & Cheddar Pizza or a simple Cheese/Chicken Pizza (and skip the spicy \"Down South Cajun Pasta\").",
+  "watchOuts": [
+    "Avoid the Down South Cajun Pizza and Cajun Pasta (spicy capsaicin)"
+  ]
+}

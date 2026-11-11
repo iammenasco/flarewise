@@ -1,0 +1,37 @@
+{
+  "id": "takara-sushi-logan-unagi-eel-nigiri",
+  "name": "Freshwater Eel (Unagi) Nigiri with Sweet Glaze",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Takara Sushi (Logan, UT)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "sushi",
+    "nigiri",
+    "unagi"
+  ],
+  "searchKeywords": [
+    "takara sushi",
+    "unagi nigiri",
+    "freshwater eel sushi",
+    "logan utah"
+  ],
+  "whyItWorks": "Broiled freshwater eel is rich, melt-in-your-mouth tender, and very easy to chew and digest over white sushi rice. The sweet kabayaki reduction contains no fiber or irritating spices.",
+  "prepOrOrderInstructions": "Confirm no sesame seeds are sprinkled on top. Enjoy with a dab of sweet unagi glaze."
+}

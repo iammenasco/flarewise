@@ -1,0 +1,41 @@
+{
+  "id": "disneyland-hotel-trader-sams-kalua-pork-flatbread-ramen",
+  "name": "Disneyland Hotel Trader Sam's Enchanted Tiki Bar Tonkotsu Ramen, Kalua Pork Flatbread & Citrus-Free Coconut Mocktail",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Trader Sam's Enchanted Tiki Bar (Disneyland Hotel · Disneyland Resort)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pork",
+    "chicken",
+    "noodles",
+    "rice",
+    "soup",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "trader sams disneyland hotel",
+    "trader sams food menu",
+    "citrus free tiki drink disneyland"
+  ],
+  "whyItWorks": "Trader Sam's shares its kitchen with Tangaroa Terrace—so you can order warm Tonkotsu Ramen, Teriyaki Chicken & White Rice, or Hawaiian Cheeseburger Sliders on the patio, and ask the bartender for a custom **Pineapple-Coconut Cream Mocktail (No Lime/Lemon/Orange Juice!)**.",
+  "prepOrOrderInstructions": "Almost all menu tiki drinks contain lime, lemon, or orange juice—tell the bartender \"strictly no citrus (no lime, lemon, or orange)\" and ask for a custom Pineapple Juice + Cream of Coconut smoothie!",
+  "watchOuts": [
+    "CRITICAL CITRUS WARNING: Nearly every standard tiki cocktail/mocktail at Trader Sam's contains lime, lemon, or orange juice—order a custom Pineapple-Coconut blend only"
+  ]
+}

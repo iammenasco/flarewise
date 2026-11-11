@@ -1,0 +1,39 @@
+{
+  "id": "let-the-magic-begin-chocolate-indulgence-panna-cotta",
+  "name": "Chocolate Indulgence Cake & Crème Fraîche Panna Cotta (Let the Magic Begin)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "chocolate indulgence",
+    "creme fraiche panna cotta",
+    "let the magic begin dessert"
+  ],
+  "whyItWorks": "Both the rich Chocolate Indulgence layer cake and set Crème Fraîche Panna Cotta are smooth and citrus-free.",
+  "prepOrOrderInstructions": "Take a Lactaid pill and scrape off any seeded berry compote on top of the panna cotta.",
+  "watchOuts": [
+    "Dairy cream lactose",
+    "Berry seeds on panna cotta topping"
+  ]
+}

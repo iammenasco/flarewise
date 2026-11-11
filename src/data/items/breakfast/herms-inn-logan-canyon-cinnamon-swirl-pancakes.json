@@ -1,0 +1,39 @@
+{
+  "id": "herms-inn-logan-canyon-cinnamon-swirl-pancakes",
+  "name": "Herm's Inn (Logan, UT) Famous Giant Cinnamon Swirl Pancakes (Cream Cheese Glaze)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Herm's Inn (Logan Canyon / Logan, UT)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "logan",
+    "cache-valley",
+    "breakfast",
+    "pancakes",
+    "cinnamon"
+  ],
+  "searchKeywords": [
+    "herms inn cinnamon swirl pancakes",
+    "herms inn logan pancakes",
+    "canyon road breakfast"
+  ],
+  "whyItWorks": "Herm's Inn is famous across Cache Valley for their enormous, plate-sized scratch pancakes. Completely seed-free and tender. Split one pancake with a partner to manage the sugar load.",
+  "prepOrOrderInstructions": "Order one Cinnamon Swirl Pancake to share; request cream cheese glaze on the side so you can drizzle lightly.",
+  "watchOuts": [
+    "High sugar and rich cream cheese frosting; share portion to avoid sugar spikes"
+  ]
+}

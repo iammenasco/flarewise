@@ -1,0 +1,45 @@
+{
+  "id": "mickey-premium-ice-cream-bar",
+  "name": "Mickey Premium Ice Cream Bar (Room Service & Dining Secret)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Room Service & All Dining Rooms",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "dessert",
+    "snack",
+    "sweet",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "mickey premium ice cream bar",
+    "mickey bar",
+    "secret room service",
+    "disney cruise dessert"
+  ],
+  "whyItWorks": "Smooth vanilla ice cream coated in a thin milk-chocolate shell has 0g insoluble fiber, zero nuts/seeds, and is certified gluten-free.",
+  "prepOrOrderInstructions": "Available every night in ANY main dining room (even though it's on the kids'/off-menu list) and 24/7 via complimentary Room Service — just ask for a Mickey Bar!",
+  "watchOuts": [
+    "Dairy lactose — take a Lactaid enzyme with your first bite"
+  ]
+}

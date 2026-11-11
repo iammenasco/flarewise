@@ -1,0 +1,40 @@
+{
+  "id": "plaza-de-coco-bolillo-bread-service",
+  "name": "Warm Mexican Bolillo Bread (Skip Corn Chips & Salsa)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Disney Treasure · Plaza de Coco",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "mexican",
+    "disney-cruise",
+    "disney-treasure",
+    "plaza-de-coco"
+  ],
+  "searchKeywords": [
+    "mexican bolillo bread",
+    "plaza de coco bread service",
+    "disney treasure",
+    "chips and salsa"
+  ],
+  "whyItWorks": "Mexican bolillo rolls have a pillow-soft white-flour interior that digests cleanly, unlike the sharp corn tortilla chips served alongside them.",
+  "prepOrOrderInstructions": "Eat the warm white bolillo bread with plain butter and strictly skip the fried corn tortilla chips and chunky tomato-chili salsa.",
+  "watchOuts": [
+    "Fried corn tortilla chips (sharp corn kernel hulls)",
+    "Spicy tomato salsa skins and seeds"
+  ]
+}

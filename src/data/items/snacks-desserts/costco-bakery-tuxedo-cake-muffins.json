@@ -1,0 +1,39 @@
+{
+  "id": "costco-bakery-tuxedo-cake-muffins",
+  "name": "Costco Kirkland Bakery Giant Corn, Blueberry or Double Chocolate Muffin (Half Portion)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Costco Wholesale Bakery (Logan / Lehi / South Jordan / Sandy, UT)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "eggs",
+    "budget-friendly",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "costco bakery muffins",
+    "costco tuxedo cake",
+    "kirkland blueberry muffin"
+  ],
+  "whyItWorks": "Baked with fine cake flour and eggs with zero nuts or tough bran hulls; slicing a giant Costco muffin in half or quarters gives you a soft morning pastry alongside scrambled eggs.",
+  "prepOrOrderInstructions": "Slice Costco bakery muffins into halves or quarters and freeze extras; pair a half Blueberry or Corn Muffin with eggs or a banana to buffer the sugar.",
+  "watchOuts": [
+    "Avoid Poppyseed Muffins (insoluble seeds); Costco's Tuxedo Chocolate Mousse Cake is very rich in heavy cream and should be eaten in small slices with lactase"
+  ]
+}

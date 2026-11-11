@@ -1,0 +1,44 @@
+{
+  "id": "enchante-caviar-smoked-haddock-potatoes",
+  "name": "Enchanté Oscietra Caviar with Smoked Haddock & Fondant Potatoes",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Enchanté by Chef Arnaud Lallement",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "potato",
+    "seafood",
+    "high-protein",
+    "french",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "enchante"
+  ],
+  "searchKeywords": [
+    "enchante caviar",
+    "smoked haddock potato",
+    "disney treasure enchante"
+  ],
+  "whyItWorks": "Peeled butter-simmered fondant potatoes, flaky smoked haddock, and omega-3 caviar pearls are completely free of plant roughage.",
+  "prepOrOrderInstructions": "Ask the kitchen to prepare the cream reduction without lemon juice and pair with a Lactaid.",
+  "watchOuts": [
+    "Dairy cream reduction",
+    "Request no lemon acidity in sauce"
+  ]
+}

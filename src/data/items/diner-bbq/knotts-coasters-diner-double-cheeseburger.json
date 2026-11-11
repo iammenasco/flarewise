@@ -1,0 +1,40 @@
+{
+  "id": "knotts-coasters-diner-double-cheeseburger",
+  "name": "Knott's Coasters Diner Classic Double Cheeseburger with French Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Coasters Diner (Knott's Berry Farm)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "beef",
+    "burger",
+    "boardwalk"
+  ],
+  "searchKeywords": [
+    "coasters diner burger",
+    "knotts coasters cheeseburger",
+    "boardwalk diner knotts"
+  ],
+  "whyItWorks": "Two griddled beef patties with melted American cheese on a soft sesame seed bun. When ordered without raw onions, pickles, or special sauce, it digests easily in remission.",
+  "prepOrOrderInstructions": "Order the Double Cheeseburger plain with ketchup only (hold special sauce, lettuce, tomato, onions, and pickles).",
+  "watchOuts": [
+    "Hold raw onions and pickles"
+  ]
+}

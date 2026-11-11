@@ -1,0 +1,38 @@
+{
+  "id": "dca-sonoma-mendocino-terrace-bavarian-pretzel-cheese-plate",
+  "name": "DCA Sonoma Terrace & Mendocino Terrace Warm Bavarian Pretzel & Aged Cheese Plate",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sonoma Terrace & Mendocino Terrace (Performance Corridor · Disney California Adventure)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "cheese",
+    "snack",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "sonoma terrace pretzel dca",
+    "mendocino terrace cheese plate dca"
+  ],
+  "whyItWorks": "Shaded winery patios offering warm Bavarian pretzels and Mediterranean snack boxes with aged cheeses and crackers.",
+  "prepOrOrderInstructions": "Order the Bavarian Pretzel plain, or eat the aged cheeses and crackers from the snack plate (skipping olives, almonds, and dried apricots).",
+  "watchOuts": [
+    "Skip whole nuts, olives, and dried fruit on the charcuterie tray"
+  ]
+}

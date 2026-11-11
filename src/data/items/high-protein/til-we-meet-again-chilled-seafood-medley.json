@@ -1,0 +1,41 @@
+{
+  "id": "til-we-meet-again-chilled-seafood-medley",
+  "name": "Chilled Seafood Medley: Shrimp, Smoked Salmon Tartare & Bay Scallops ('Til We Meet Again)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · 'Til We Meet Again Menu",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "shrimp",
+    "salmon",
+    "seafood",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "chilled seafood medley",
+    "til we meet again",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Trio of lean marine proteins with zero plant fiber; only the lemon marinade on the shrimp needs swapping.",
+  "prepOrOrderInstructions": "Ask for plain poached shrimp alongside the smoked salmon tartare and bay scallops (no lemon dressing).",
+  "watchOuts": [
+    "Lemon marinade on the shrimp portion if not ordered plain"
+  ]
+}

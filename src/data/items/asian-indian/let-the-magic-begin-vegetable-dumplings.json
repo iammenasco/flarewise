@@ -1,0 +1,41 @@
+{
+  "id": "let-the-magic-begin-vegetable-dumplings",
+  "name": "Pan-Seared Vegetable Dumplings in Sweet Soy Sauce (Let the Magic Begin Menu)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Wonder & Disney Magic · Let the Magic Begin Menu",
+  "crohnsScore": 6.5,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dumpling",
+    "vegetarian",
+    "vegan",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic"
+  ],
+  "searchKeywords": [
+    "seared vegetable dumplings",
+    "let the magic begin",
+    "disney wonder",
+    "disney magic"
+  ],
+  "whyItWorks": "Soft wheat dumpling wrappers with minced vegetables, though pan-seared bottoms and ginger-garlic greens require remission.",
+  "prepOrOrderInstructions": "Eat the soft dumplings with sweet soy sauce and leave the fibrous Asian greens and pickled radish on the plate.",
+  "watchOuts": [
+    "Cabbage/garlic inside dumpling filling",
+    "Fibrous greens and pickled radish garnish"
+  ]
+}

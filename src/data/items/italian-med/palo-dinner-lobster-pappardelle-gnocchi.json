@@ -1,0 +1,44 @@
+{
+  "id": "palo-dinner-lobster-pappardelle-gnocchi",
+  "name": "Palo Dinner Soft Potato Gnocchi & Poached Lobster Pappardelle",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "potato",
+    "seafood",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo gnocchi",
+    "lobster pappardelle",
+    "palo pasta",
+    "disney cruise"
+  ],
+  "whyItWorks": "Hand-rolled pillowy potato gnocchi and wide egg-pasta pappardelle with poached Maine lobster morsels are ultra-low-residue.",
+  "prepOrOrderInstructions": "Ask for the potato gnocchi or lobster pappardelle tossed in sage brown butter, olive oil, or light lobster bisque reduction (hold any wild mushrooms, leeks, or chili flakes).",
+  "watchOuts": [
+    "Butter/cream lactose",
+    "Ask to hold mushrooms or leeks depending on the seasonal sauce"
+  ]
+}

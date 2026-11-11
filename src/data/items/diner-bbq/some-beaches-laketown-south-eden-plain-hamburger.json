@@ -1,0 +1,41 @@
+{
+  "id": "some-beaches-laketown-south-eden-plain-hamburger",
+  "name": "Some Beaches (Laketown, UT) \"South Eden\" Plain Smashed Hamburger (Flare-Safe Mod)",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Some Beaches (Laketown / Bear Lake, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "laketown",
+    "bear-lake",
+    "beef",
+    "burger",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "some beaches south eden burger",
+    "laketown plain hamburger",
+    "bear lake simple burger"
+  ],
+  "whyItWorks": "The gentlest burger at Laketown's Some Beaches! 1/4 lb 100% chuck smashed thin on the grill on a soft artisan bun without roughage, cheese, or harsh sauces.",
+  "prepOrOrderInstructions": "Order the South Eden Hamburger plain on the artisan white bun with light ketchup or yellow mustard (hold lettuce, tomato, onion, and pickles).",
+  "watchOuts": [
+    "None when ordered plain"
+  ]
+}

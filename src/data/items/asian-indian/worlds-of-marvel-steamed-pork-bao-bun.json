@@ -1,0 +1,43 @@
+{
+  "id": "worlds-of-marvel-steamed-pork-bao-bun",
+  "name": "Steamed Pork Bao Bun (Worlds of Marvel)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner",
+    "snack"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bao",
+    "pork",
+    "bread",
+    "asian",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "steamed bao bun",
+    "pork belly bao",
+    "worlds of marvel appetizer",
+    "quantum encounter",
+    "disney treasure"
+  ],
+  "whyItWorks": "Cloud-soft steamed white-flour lotus bun with tender braised pork digests easily once you pull out any pickled vegetables or jalapeno slices.",
+  "prepOrOrderInstructions": "Remove any pickled daikon/cucumber, raw scallions, or chili garnish from inside the bun and enjoy the pillowy steamed bao and tender pork.",
+  "watchOuts": [
+    "Pickled vegetable garnish and raw scallions",
+    "Hoisin/chili glaze if spiced"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dca-cocina-cucamonga-mild-chicken-tacos-rice",
+  "name": "DCA Cocina Cucamonga Grilled Pollo Asado / Carne Asada Tacos & Rice (No Onion/Lime Mod)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Cocina Cucamonga Mexican Grill (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "beef",
+    "rice",
+    "gluten-free-option",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "cocina cucamonga chicken tacos",
+    "dca mexican food safe",
+    "kids pollo asado taco dca"
+  ],
+  "whyItWorks": "Ordering the grilled chicken (Pollo Asado) or steak (Carne Asada) tacos plain with rice—without raw onions, cilantro, radish, salsa, or lime juice—gives you a gluten-free protein meal.",
+  "prepOrOrderInstructions": "Order the Pollo Asado or Kids' Chicken Taco with rice only—ask for no beans, no raw onion/cilantro, no tomatillo salsa, and do not squeeze the lime wedge.",
+  "watchOuts": [
+    "Discard the lime wedge (citrus trigger) and skip the spicy red/green salsas and street corn"
+  ]
+}

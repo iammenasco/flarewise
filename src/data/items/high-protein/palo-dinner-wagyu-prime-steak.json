@@ -1,0 +1,46 @@
+{
+  "id": "palo-dinner-wagyu-prime-steak",
+  "name": "Palo / Palo Steakhouse Center-Cut Beef Tenderloin, Prime Striploin & Japanese A5 Wagyu",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Wonder & Magic · Palo / Disney Treasure · Palo Steakhouse (Dinner)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "steak",
+    "potato",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "palo"
+  ],
+  "searchKeywords": [
+    "palo steakhouse",
+    "beef tenderloin",
+    "japanese wagyu",
+    "palo dinner",
+    "disney cruise"
+  ],
+  "whyItWorks": "The 6 oz or 8 oz Center-Cut Beef Tenderloin Filet is ultra-lean, buttery-tender, and zero-fiber; A5 Wagyu is melt-in-your-mouth in small 2–3 oz tasting portions.",
+  "prepOrOrderInstructions": "During a flare or everyday dining, order the Center-Cut Beef Tenderloin Filet (medium-rare, salt only, Barolo/Gorgonzola sauce on the side) with Truffle-Free Mashed Potatoes or Cavatelli.",
+  "watchOuts": [
+    "Japanese A5 Wagyu has very high intramuscular fat (keep to a small tasting portion if fat-sensitive)",
+    "Order rich sauces on the side"
+  ]
+}

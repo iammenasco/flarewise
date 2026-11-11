@@ -1,0 +1,38 @@
+{
+  "id": "disneyland-red-rose-taverne-breakfast-pancakes-eggs",
+  "name": "Disneyland Red Rose Taverne Morning Buttermilk Pancakes, Scrambled Eggs & Bacon Platter",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Red Rose Taverne (Fantasyland · Disneyland Park)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "pancakes",
+    "pork",
+    "vacation",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "red rose taverne breakfast",
+    "fantasyland breakfast pancakes",
+    "disneyland quick service breakfast"
+  ],
+  "whyItWorks": "One of the easiest mobile-order hot breakfasts in Disneyland: soft buttermilk pancakes, fluffy scrambled eggs, and bacon with zero spicy sauces or roughage.",
+  "prepOrOrderInstructions": "Order the Pancake Platter with scrambled eggs and bacon (skip the seasonal berry compote if it has seeds and use plain maple syrup).",
+  "watchOuts": [
+    "Pancakes contain buttermilk—take a lactase enzyme if needed"
+  ]
+}

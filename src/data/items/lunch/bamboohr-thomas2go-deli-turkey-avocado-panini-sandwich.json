@@ -1,0 +1,47 @@
+{
+  "id": "bamboohr-thomas2go-deli-turkey-avocado-panini-sandwich",
+  "name": "BambooHR Thomas2Go Café: Scratch Roasted Turkey, Havarti/Cheddar & Avocado Sandwich or Panini",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine Café at BambooHR (Lindon / Draper, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "turkey",
+    "avocado",
+    "sandwich",
+    "sourdough",
+    "cheese",
+    "high-protein",
+    "bamboohr",
+    "thomas2go",
+    "draper",
+    "lindon",
+    "utah"
+  ],
+  "searchKeywords": [
+    "thomas2go",
+    "thomas to go bamboohr",
+    "thomas cuisine cafe",
+    "bamboohr lunch",
+    "turkey avocado panini"
+  ],
+  "whyItWorks": "Thomas Cuisine's \"REAL Food\" corporate café standard uses clean-label roasted turkey breast (no nitrates/carrageenan), aged cheese, and fresh avocado on unseeded sourdough or ciabatta.",
+  "prepOrOrderInstructions": "Order a made-to-order or grab-and-go Turkey, Avocado & Cheddar/Havarti sandwich or panini on sourdough or flour wrap—holding raw red onions, tomatoes, and spicy aioli.",
+  "watchOuts": [
+    "Choose unseeded sourdough or white wrap over multigrain wheat berry bread",
+    "Hold raw onions and spicy chipotle spreads"
+  ]
+}

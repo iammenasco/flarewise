@@ -1,0 +1,44 @@
+{
+  "id": "dcl-sit-down-lunch-smoked-salmon-starter",
+  "name": "Sit-Down Lunch Sliced Smoked Salmon with Honey-Mustard Dill Sauce",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's / Disney Treasure · 1923",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salmon",
+    "fish",
+    "omega-3",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
+  ],
+  "searchKeywords": [
+    "sliced smoked salmon",
+    "honey mustard dill",
+    "sit down lunch",
+    "tritons",
+    "lumieres",
+    "1923"
+  ],
+  "whyItWorks": "Silky cured smoked salmon slices are zero-fiber, dairy-free omega-3 protein.",
+  "prepOrOrderInstructions": "Discard the lemon wedge garnish and use a light dab of the smooth honey-mustard dill sauce with soft white bread.",
+  "watchOuts": [
+    "Discard lemon wedge garnish (citrus guardrail)"
+  ]
+}

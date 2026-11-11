@@ -1,0 +1,40 @@
+{
+  "id": "knotts-ghost-town-grill-tri-tip-turkey-sourdough",
+  "name": "Knott's Ghost Town Grill Slow-Roasted Tri-Tip Platter or Turkey Club on Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Ghost Town Grill (Ghost Town · Knott's Berry Farm)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "turkey",
+    "sourdough",
+    "potato",
+    "high-protein",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "ghost town grill knotts",
+    "knotts sit down restaurant inside park",
+    "ghost town grill turkey club"
+  ],
+  "whyItWorks": "Knott's best full-service restaurant inside the park gates (and accepts the Dining Plan!): offers a classic Roasted Turkey Club on toasted sourdough, grilled chicken breast, or Tri-Tip with mashed/baked potatoes in air-conditioned comfort.",
+  "prepOrOrderInstructions": "Order the Turkey Club on Sourdough (no tomato or lettuce) with fries or mashed potatoes, or the Tri-Tip/Grilled Chicken entrée with sauce on the side.",
+  "watchOuts": [
+    "Skip the raw coleslaw and ask for boysenberry BBQ glaze on the side"
+  ]
+}

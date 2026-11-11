@@ -1,0 +1,39 @@
+{
+  "id": "stacked-logan-the-purist-pancakes",
+  "name": "Stacked! Quality Pancakes \"The Purist\" Stack (Buttermilk or Gluten/Dairy-Free Mod)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Stacked! Quality Pancakes (Logan, UT)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "gluten-free-option",
+    "dairy-free",
+    "logan",
+    "utah"
+  ],
+  "searchKeywords": [
+    "stacked quality pancakes logan",
+    "the purist pancakes logan",
+    "gluten free dairy free pancakes logan utah"
+  ],
+  "whyItWorks": "Downtown Logan's dedicated pancake house can make \"The Purist\" plain pancake stack either classic buttermilk or both gluten-friendly and dairy-free upon request, paired with scrambled eggs for easy morning fuel.",
+  "prepOrOrderInstructions": "Order \"The Purist\" pancake stack (request the dairy-free / gluten-friendly batter if lactose-sensitive) with warm maple syrup and a side of scrambled eggs.",
+  "watchOuts": [
+    "Standard buttermilk batter and whipped butter contain dairy unless you request the dairy-free preparation; skip lemon curd or seedy berry compotes"
+  ]
+}

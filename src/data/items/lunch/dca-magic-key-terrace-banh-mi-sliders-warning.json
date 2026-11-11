@@ -1,0 +1,38 @@
+{
+  "id": "dca-magic-key-terrace-banh-mi-sliders-warning",
+  "name": "Pork Belly Banh Mi Sliders (High Fat/Roughage Warning)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Magic Key Terrace (Disney California Adventure)",
+  "crohnsScore": 4.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "vacation",
+    "california-adventure",
+    "theme-park",
+    "banh-mi",
+    "pork-belly",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "magic key terrace",
+    "dca",
+    "banh mi sliders",
+    "pork belly",
+    "pacific wharf"
+  ],
+  "whyItWorks": "Fatty braised pork belly served with pickled daikon and carrots, raw sliced jalapenos, and spicy sriracha aioli. Dense pork belly fat and raw stringy pickled roots can trigger cramping and obstruction.",
+  "prepOrOrderInstructions": "Fat & Pickled Veggie Warning: Skip pickled vegetables and jalapenos if ordering during remission."
+}

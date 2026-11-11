@@ -1,0 +1,39 @@
+{
+  "id": "bamboohr-thomas2go-morning-oatmeal-yogurt-bar",
+  "name": "BambooHR Café (Thomas2Go) Morning Rolled Oatmeal, Banana & Hard-Boiled Eggs",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine Café at BambooHR (Lindon, UT)",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "oats",
+    "eggs",
+    "banana",
+    "soluble-fiber",
+    "dairy-free",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bamboohr breakfast",
+    "thomas2go oatmeal",
+    "thomas cuisine morning bar"
+  ],
+  "whyItWorks": "Warm kettle-cooked rolled oats topped with a sliced ripe banana and a touch of honey or brown sugar plus two peeled hard-boiled eggs from the Thomas2Go grab-and-go cooler give you steady soluble fiber and clean protein at the office.",
+  "prepOrOrderInstructions": "Scoop plain hot oatmeal and top with sliced banana and honey/brown sugar—skip dried cranberries, raw walnuts/almonds, and chia/flax seeds.",
+  "watchOuts": [
+    "If grabbing a Greek yogurt parfait from the cooler, take a lactase tablet and pick around any nut/seed granola"
+  ]
+}

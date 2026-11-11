@@ -1,0 +1,33 @@
+{
+  "name": "M&M's Peanut",
+  "categoryFolder": "snacks-desserts",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "peanut",
+    "sugar",
+    "sweet"
+  ],
+  "searchKeywords": [
+    "mm&ms",
+    "peanut m&ms",
+    "chocolate candy"
+  ],
+  "whyItWorks": "High sugar and whole peanut content may trigger inflammation or digestive distress.",
+  "prepOrOrderInstructions": "Purchase ready-to-eat from most retailers.",
+  "id": "m-m-s-peanut"
+}

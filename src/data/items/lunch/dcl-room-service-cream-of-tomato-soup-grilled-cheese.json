@@ -1,0 +1,47 @@
+{
+  "id": "dcl-room-service-cream-of-tomato-soup-grilled-cheese",
+  "name": "24-Hour Room Service Cream of Tomato Soup with Grilled Sharp Cheddar Sandwich",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · 24-Hour Stateroom Dining",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "tomato",
+    "cheese",
+    "bread",
+    "cheddar",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "room-service"
+  ],
+  "searchKeywords": [
+    "cream of tomato soup",
+    "grilled cheddar sandwich",
+    "room service tomato soup",
+    "disney cruise"
+  ],
+  "whyItWorks": "Aged sharp cheddar on toasted white bread is naturally very low in lactose, and the tomato soup is blended smooth with zero seeds or skins.",
+  "prepOrOrderInstructions": "During a flare, eat the Grilled Sharp Cheddar Sandwich by itself or with Chicken Noodle Soup; in remission, enjoy the Cream of Tomato Soup with a Lactaid pill.",
+  "watchOuts": [
+    "Tomato soup acidity on active stomach/duodenal ulcers",
+    "Cream in soup base"
+  ]
+}

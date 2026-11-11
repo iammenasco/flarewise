@@ -1,0 +1,38 @@
+{
+  "id": "knotts-ghost-town-boysenberry-pie-warning",
+  "name": "Warm Slice of Famous Boysenberry Pie (Seed/Sugar Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ghost Town Bakery (Knott's Berry Farm)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "theme-park",
+    "boysenberry-pie",
+    "pie",
+    "dessert"
+  ],
+  "searchKeywords": [
+    "ghost town bakery",
+    "boysenberry pie",
+    "knotts berry farm",
+    "pie slice",
+    "ghost town"
+  ],
+  "whyItWorks": "Whole boysenberries contain thousands of tiny hard seeds suspended in sweet fruit filling inside a flaky lard/shortening crust. These seeds act as abrasive particles that can get lodged in inflamed pockets or narrowings.",
+  "prepOrOrderInstructions": "Seed & Stricture Warning: Strictly avoid if you have intestinal strictures or active Crohn's. In remission, eat filling with seeds strained out."
+}

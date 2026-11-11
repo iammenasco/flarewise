@@ -1,0 +1,46 @@
+{
+  "id": "merrytime-winter-squash-lobster-soup",
+  "name": "Very Merrytime Creamy Winter Squash Soup with Creole Lobster",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Wonder, Magic & Treasure · Very Merrytime (\"Happy Holidays\" Menu)",
+  "crohnsScore": 7.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "squash",
+    "lobster",
+    "seafood",
+    "smooth",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "merrytime"
+  ],
+  "searchKeywords": [
+    "winter squash soup",
+    "creole lobster soup",
+    "very merrytime soup",
+    "happy holidays menu"
+  ],
+  "whyItWorks": "Velvety puréed winter squash soup topped with tender poached lobster medallions offers soluble fiber and lean seafood protein.",
+  "prepOrOrderInstructions": "Ask for the lobster medallions plain on top (without spicy Creole seasoning dust) and take a Lactaid for the cream base.",
+  "watchOuts": [
+    "Creole seasoning on the lobster garnish",
+    "Dairy cream in the squash purée"
+  ]
+}

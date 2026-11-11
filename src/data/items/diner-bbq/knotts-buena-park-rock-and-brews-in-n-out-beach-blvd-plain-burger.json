@@ -1,0 +1,42 @@
+{
+  "id": "knotts-buena-park-rock-and-brews-in-n-out-beach-blvd-plain-burger",
+  "name": "Buena Park (Near Knott's Berry Farm) In-N-Out Burger Plain Hamburger / Cheeseburger or Protein Style",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "In-N-Out Burger (La Palma Ave / Buena Park & Anaheim · Near Knott's & Disneyland)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "potato",
+    "budget-friendly",
+    "vacation",
+    "knotts-berry-farm",
+    "disneyland"
+  ],
+  "searchKeywords": [
+    "in n out buena park knotts",
+    "in n out anaheim disneyland",
+    "plain burger in n out crohns"
+  ],
+  "whyItWorks": "Minutes from both Knott's Berry Farm (La Palma Ave) and Disneyland (Ball Rd), In-N-Out uses 100% fresh, additive-free chuck beef patties and freshly peeled/sliced Russet potatoes fried in 100% sunflower oil.",
+  "prepOrOrderInstructions": "Order a Single Hamburger or Cheeseburger **\"Plain\" (meat, bun, and cheese only—no raw/grilled onions, no tomato, no lettuce, and no Spread)** with fresh-cut fries and water.",
+  "watchOuts": [
+    "Never order \"Animal Style\" (mustard-fried with pickles, grilled onions, and Thousand Island spread) or yellow cascabella chilies; skip Pink Lemonade"
+  ]
+}

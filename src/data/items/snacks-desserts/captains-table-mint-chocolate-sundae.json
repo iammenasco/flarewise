@@ -1,0 +1,42 @@
+{
+  "id": "captains-table-mint-chocolate-sundae",
+  "name": "The Captain's Table Mint Chocolate Chip Ice Cream Sundae (Captain's Gala Night 2)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · 1923 / Disney Wonder & Magic · Captain's Gala Menu",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ice-cream",
+    "chocolate",
+    "sweet",
+    "disney-cruise",
+    "disney-treasure",
+    "disney-wonder",
+    "disney-magic",
+    "1923"
+  ],
+  "searchKeywords": [
+    "captains table sundae",
+    "mint chocolate chip sundae",
+    "captains gala",
+    "1923 night 2"
+  ],
+  "whyItWorks": "Peppermint oil in mint chocolate chip ice cream acts as a natural smooth-muscle antispasmodic, and the sundae is nut-free and citrus-free.",
+  "prepOrOrderInstructions": "Pair with 1–2 Lactaid tablets; skip if peppermint relaxes your lower esophageal sphincter (reflux).",
+  "watchOuts": [
+    "Liquid dairy ice cream",
+    "Peppermint can trigger GERD/reflux in some people"
+  ]
+}

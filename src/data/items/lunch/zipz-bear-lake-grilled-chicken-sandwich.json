@@ -1,0 +1,42 @@
+{
+  "id": "zipz-bear-lake-grilled-chicken-sandwich",
+  "name": "Zipz (Garden City, UT) Charbroiled Chicken Breast Sandwich (Mayo on Soft Bun)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Zipz Bear Lake (Garden City, UT)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "drive-thru"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "garden-city",
+    "bear-lake",
+    "chicken",
+    "sandwich",
+    "lean-protein"
+  ],
+  "searchKeywords": [
+    "zipz grilled chicken",
+    "bear lake grilled chicken sandwich",
+    "garden city chicken burger"
+  ],
+  "whyItWorks": "Pure boneless, skinless grilled chicken breast on a soft toasted bun. Extremely lean, unbreaded, and gentle on the intestines.",
+  "prepOrOrderInstructions": "Order the Grilled Chicken Sandwich plain or with mayo (hold lettuce and tomato during flares).",
+  "watchOuts": [
+    "None; excellent gentle roadside lunch"
+  ]
+}

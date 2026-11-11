@@ -1,0 +1,40 @@
+{
+  "id": "knotts-mrs-knotts-buttermilk-biscuits-boysenberry-jam",
+  "name": "Knott's Mrs. Knott's Scratch Buttermilk Biscuits with Seedless Boysenberry Jam",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Mrs. Knott's Chicken Dinner Restaurant (Knott's Berry Farm)",
+  "crohnsScore": 8.1,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "biscuits",
+    "boysenberry",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "mrs knotts biscuits",
+    "knotts boysenberry jam",
+    "buttermilk biscuits knotts"
+  ],
+  "whyItWorks": "World-famous scratch-baked buttermilk biscuits served warm with butter and Knott's seedless boysenberry jam. Pillowy, comforting, and completely seed-free.",
+  "prepOrOrderInstructions": "Ask specifically for Knott's 'Seedless Boysenberry Jam' or pure honey to spread on your warm biscuit.",
+  "watchOuts": [
+    "Verify you are served the Seedless Boysenberry Jam, not whole preserves with seeds"
+  ]
+}

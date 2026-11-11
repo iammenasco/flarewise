@@ -1,0 +1,40 @@
+{
+  "id": "worlds-of-marvel-heirloom-tomato-salad",
+  "name": "Wakandan Heirloom Tomato Salad with Diced Cucumber & Corn Chips (Night 1)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Disney Treasure · Worlds of Marvel (Quantum Encounter Night 1)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "salad",
+    "tomato",
+    "corn",
+    "vegan",
+    "disney-cruise",
+    "disney-treasure",
+    "worlds-of-marvel"
+  ],
+  "searchKeywords": [
+    "wakandan heirloom tomato salad",
+    "worlds of marvel salad",
+    "disney treasure"
+  ],
+  "whyItWorks": "Raw tomato skins/seeds, cucumber peels, red onion, and crunchy corn tortilla strips can irritate active mucosal ulcers.",
+  "prepOrOrderInstructions": "Skip raw salads during flares in favor of the Sokovian Potato Soup.",
+  "watchOuts": [
+    "Raw tomato skins and seeds",
+    "Sharp corn tortilla strips and raw onion"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "skipper-society-apple-cinnamon-original-waffles",
+  "name": "Skipper Society Warm Apple Cinnamon & Original Liège Waffles (Disney Treasure)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Treasure · Skipper Society Lounge",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "waffle",
+    "bakery",
+    "sweet",
+    "chocolate",
+    "disney-cruise",
+    "disney-treasure",
+    "skipper-society"
+  ],
+  "searchKeywords": [
+    "skipper society waffles",
+    "apple cinnamon waffle",
+    "nutella waffle",
+    "disney treasure lounge"
+  ],
+  "whyItWorks": "Freshly pressed warm Apple Cinnamon or Original Belgian waffles served right in the Jungle Cruise-themed Skipper Society lounge—seedless, nut-free (with maple syrup), and citrus-free.",
+  "prepOrOrderInstructions": "Order the Original or Apple Cinnamon Waffle with pure maple syrup (or a light side of Nutella in remission) and pair with a Lactaid pill.",
+  "watchOuts": [
+    "Butter/milk in waffle batter",
+    "Hazelnut/cocoa fat if choosing Nutella"
+  ]
+}

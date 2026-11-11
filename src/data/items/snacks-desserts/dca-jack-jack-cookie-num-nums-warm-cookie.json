@@ -1,0 +1,39 @@
+{
+  "id": "dca-jack-jack-cookie-num-nums-warm-cookie",
+  "name": "DCA Jack-Jack Cookie Num Nums Warm Deep-Dish Chocolate Chip Cookie & Almond/Soy Milk",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Jack-Jack Cookie Num Nums (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "dessert",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "jack jack cookie num nums",
+    "pixar pier warm cookie",
+    "incredicoaster cookie dca"
+  ],
+  "whyItWorks": "Baked fresh right at the exit of the Incredicoaster: a warm, gooey cake-like deep-dish chocolate chip cookie made with refined white flour, brown sugar, butter, and chocolate chips (100% nut-free and seed-free), with cold cartons of Soy Milk or Almond Milk sold right at the cart!",
+  "prepOrOrderInstructions": "Share half a warm Cookie Num Num with a cold carton of Soy or Almond Milk, and take a lactase tablet for the butter/chocolate.",
+  "watchOuts": [
+    "Rich in butter and sugar—split one cookie between 2–3 people"
+  ]
+}

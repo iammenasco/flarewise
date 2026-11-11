@@ -1,0 +1,48 @@
+{
+  "id": "cabanas-marceline-fruit-melon-bar",
+  "name": "Buffet Fresh Cut Melon, Ripe Bananas & Mango vs. Bircher Muesli",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Disney Wonder & Magic · Cabanas / Disney Treasure · Marceline Market",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "melon",
+    "banana",
+    "vegan",
+    "gluten-free",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure",
+    "cabanas",
+    "marceline-market"
+  ],
+  "searchKeywords": [
+    "cantaloupe",
+    "honeydew",
+    "watermelon",
+    "bananas",
+    "cabanas fruit",
+    "marceline market fruit"
+  ],
+  "whyItWorks": "Fresh-cut cantaloupe, honeydew, seedless watermelon, and ripe bananas hydrate and supply potassium with almost zero insoluble roughage.",
+  "prepOrOrderInstructions": "Fill your fruit bowl with cantaloupe, honeydew, watermelon, and whole bananas. Strictly skip the grapefruit trays, orange segments, fibrous pineapple, and raw apple/nut Bircher muesli.",
+  "watchOuts": [
+    "Grapefruit and orange trays next to the melon bar (strict avoid)",
+    "Raw grated apple skins and nuts in Bircher Muesli"
+  ]
+}

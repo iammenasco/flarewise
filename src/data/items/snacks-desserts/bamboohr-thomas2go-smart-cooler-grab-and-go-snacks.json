@@ -1,0 +1,45 @@
+{
+  "id": "bamboohr-thomas2go-smart-cooler-grab-and-go-snacks",
+  "name": "BambooHR Thomas2Go Micro-Kitchen & Smart Cooler: Hard-Boiled Eggs, String Cheese, Yogurt & Pretzels",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Thomas2Go / Thomas Cuisine Micro-Kitchen at BambooHR (Lindon / Draper, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "eggs",
+    "cheese",
+    "yogurt",
+    "pretzel",
+    "banana",
+    "high-protein",
+    "bamboohr",
+    "thomas2go",
+    "draper",
+    "lindon",
+    "utah"
+  ],
+  "searchKeywords": [
+    "bamboohr micro kitchen",
+    "thomas2go smart cooler",
+    "bamboohr office snacks"
+  ],
+  "whyItWorks": "Safe office micro-kitchen staples when you need a quick snack between meetings: peeled 2-pack hard-boiled eggs, aged cheddar/mozzarella string cheese, ripe bananas, pretzels, and Greek yogurt.",
+  "prepOrOrderInstructions": "Grab peeled hard-boiled eggs, string cheese, a banana, or plain pretzels from the cooler; if eating a yogurt parfait, eat the yogurt and leave the nutty/seeded granola layer behind.",
+  "watchOuts": [
+    "Skip the raw crudité veggie cups, trail mix, and seeded granola layers"
+  ]
+}

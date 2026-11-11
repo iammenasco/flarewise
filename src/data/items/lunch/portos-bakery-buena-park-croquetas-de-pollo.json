@@ -1,0 +1,40 @@
+{
+  "id": "portos-bakery-buena-park-croquetas-de-pollo",
+  "name": "Porto's Bakery (Buena Park, CA) Crispy Golden Chicken Croquettes (Croquetas de Pollo)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Porto's Bakery & Cafe (Buena Park, CA)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "vacation",
+    "knotts-berry-farm",
+    "restaurant",
+    "chicken",
+    "croquettes",
+    "portos",
+    "buena-park"
+  ],
+  "searchKeywords": [
+    "portos chicken croquettes",
+    "croquetas de pollo portos",
+    "buena park cuban snacks"
+  ],
+  "whyItWorks": "Finely minced seasoned chicken breast bound in smooth béchamel sauce, breaded and fried golden. Creamy interior dissolves smoothly with no tough gristle.",
+  "prepOrOrderInstructions": "Order 2-3 warm Chicken Croquettes for a light savory bite.",
+  "watchOuts": [
+    "Fried crust carries light oil; eat slowly"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rapunzels-gothel-black-forest-tower",
+  "name": "Mother Gothel Black Forest Chocolate Cherry Tower (Lantern Night)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Magic · Rapunzel's Royal Table (Lantern Night)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "sweet",
+    "bakery",
+    "disney-cruise",
+    "disney-magic",
+    "rapunzels-royal-table"
+  ],
+  "searchKeywords": [
+    "gothel black forest tower",
+    "rapunzels royal table chocolate",
+    "disney magic"
+  ],
+  "whyItWorks": "Rich chocolate sponge and Kirsch whipped cream with pitted Morello cherries—seedless and citrus-free.",
+  "prepOrOrderInstructions": "Enjoy the chocolate cake and mousse layers with a Lactaid pill; limit whole cherries if sorbitol bothers you.",
+  "watchOuts": [
+    "Cherry sorbitol (FODMAPs)",
+    "Heavy cream and dark chocolate richness"
+  ]
+}

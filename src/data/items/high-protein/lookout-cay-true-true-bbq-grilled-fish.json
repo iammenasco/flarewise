@@ -1,0 +1,44 @@
+{
+  "id": "lookout-cay-true-true-bbq-grilled-fish",
+  "name": "Lookout Cay True-True BBQ: Grilled Salmon, Red Snapper & Mahi-Mahi Station",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Lookout Cay at Lighthouse Point · True-True BBQ & Serenity Bay BBQ",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "salmon",
+    "fish",
+    "omega-3",
+    "high-protein",
+    "gluten-free",
+    "disney-cruise",
+    "disney-magic",
+    "disney-treasure",
+    "lookout-cay"
+  ],
+  "searchKeywords": [
+    "lookout cay fish",
+    "true true bbq salmon",
+    "bahamian snapper",
+    "disney treasure lookout cay"
+  ],
+  "whyItWorks": "Freshly grilled salmon and white snapper filets are high in omega-3s and lean protein when ordered without fruit/pepper salsas.",
+  "prepOrOrderInstructions": "Ask for the Grilled Salmon filet plain without the pineapple salsa (avoid the lime-marinated snapper to protect the citrus guardrail) and pair with oven-baked sweet plantains or white rice.",
+  "watchOuts": [
+    "Lime marinade on the snapper (choose plain salmon instead)",
+    "Pineapple and bell-pepper salsas"
+  ]
+}

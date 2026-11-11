@@ -1,0 +1,43 @@
+{
+  "id": "tritons-lumieres-classic-opera-gateau",
+  "name": "Classic French Opera Gâteau",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "chocolate",
+    "coffee",
+    "sweet",
+    "french",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
+  ],
+  "searchKeywords": [
+    "classic opera gateau",
+    "opera cake",
+    "tritons dessert",
+    "lumieres dessert"
+  ],
+  "whyItWorks": "Finely ground almond Joconde sponge layered with espresso buttercream and dark chocolate ganache—smooth texture with no whole nuts.",
+  "prepOrOrderInstructions": "Enjoy in moderation on steady days; keep in mind the espresso coffee soak and rich buttercream.",
+  "watchOuts": [
+    "Espresso caffeine stimulation",
+    "Rich buttercream and chocolate ganache fat"
+  ]
+}

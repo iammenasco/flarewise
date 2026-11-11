@@ -1,0 +1,39 @@
+{
+  "id": "dca-lucky-fortune-cookery-potstickers-noodles",
+  "name": "DCA Lucky Fortune Cookery Chicken Potstickers & Garlic Noodles (Remission Check)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Lucky Fortune Cookery (San Fransokyo Square · Disney California Adventure)",
+  "crohnsScore": 7.1,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken",
+    "noodles",
+    "dairy-free",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lucky fortune potstickers dca",
+    "san fransokyo garlic noodles"
+  ],
+  "whyItWorks": "Soft wheat-wrapper chicken dumplings are dairy-free and low-fiber, making a light side in remission (use plain soy sauce rather than chili-vinegar dip).",
+  "prepOrOrderInstructions": "Order the Chicken Potstickers as a shareable side with the Teriyaki Chicken & White Rice bowl; skip the Garlic Noodles if high-FODMAP garlic triggers bloating.",
+  "watchOuts": [
+    "Potsticker filling and garlic noodles contain garlic/scallion aromatics—stick to Teriyaki Chicken & White Rice during flares"
+  ]
+}

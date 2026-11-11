@@ -1,0 +1,40 @@
+{
+  "id": "dca-lamplight-lounge-cheddar-burger",
+  "name": "DCA Lamplight Lounge (Pixar Pier) Signature Cheddar Burger on Toasted Brioche & Malted Fries",
+  "categoryFolder": "diner-bbq",
+  "brandOrRestaurant": "Lamplight Lounge (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef",
+    "burger",
+    "cheese",
+    "potato",
+    "high-protein",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "lamplight lounge cheddar burger",
+    "pixar pier restaurant",
+    "lamplight lounge safe food"
+  ],
+  "whyItWorks": "Grilled custom-blend beef patty with melted aged cheddar on a super-soft toasted Amish brioche bun; ordering it plain without the roasted green chile and raw tomato makes it a great waterfront meal.",
+  "prepOrOrderInstructions": "Order the Cheddar Burger medium-well with aged cheddar and bacon only—specifically ask for **NO roasted green chile** and **NO chipotle-cherry barbecue sauce**.",
+  "watchOuts": [
+    "Default build includes a roasted green chile pepper—always ask your server to leave the green chile off!"
+  ]
+}

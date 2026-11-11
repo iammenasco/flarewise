@@ -1,0 +1,42 @@
+{
+  "id": "enchante-brunch-halibut-scrambled-eggs",
+  "name": "Enchanté Champagne Brunch Poached Halibut with Creamy Scrambled Eggs",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Disney Treasure · Enchanté by Chef Arnaud Lallement (Brunch)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "fish",
+    "egg",
+    "high-protein",
+    "french",
+    "gluten-free",
+    "disney-cruise",
+    "disney-treasure",
+    "enchante"
+  ],
+  "searchKeywords": [
+    "enchante brunch halibut",
+    "creamy scrambled eggs",
+    "disney treasure enchante brunch"
+  ],
+  "whyItWorks": "Soft French bain-marie scrambled eggs and butter-poached white halibut have zero fiber and melt in the mouth.",
+  "prepOrOrderInstructions": "Confirm with your server that no lemon juice is added to the herb butter emulsion and take a Lactaid.",
+  "watchOuts": [
+    "Butter/cream in French scrambled eggs"
+  ]
+}

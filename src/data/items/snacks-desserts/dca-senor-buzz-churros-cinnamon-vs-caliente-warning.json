@@ -1,0 +1,38 @@
+{
+  "id": "dca-senor-buzz-churros-cinnamon-vs-caliente-warning",
+  "name": "DCA Señor Buzz Churros (Pixar Pier) Cinnamon Sugar Galaxy Churro (Avoid Spicy \"Caliente\" Churro!)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Señor Buzz Churros (Pixar Pier · Disney California Adventure)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sweet",
+    "dessert",
+    "fried",
+    "vacation",
+    "california-adventure"
+  ],
+  "searchKeywords": [
+    "senor buzz churros pixar pier",
+    "caliente churro dca"
+  ],
+  "whyItWorks": "The classic Cinnamon Sugar Galaxy Churro is mild and seed-free—whereas Señor Buzz's \"Caliente Churro\" is coated in spicy red hot chili-cinnamon dust.",
+  "prepOrOrderInstructions": "Always specify the **Cinnamon Sugar Galaxy Churro** and never the spicy red \"Caliente Churro\".",
+  "watchOuts": [
+    "Avoid the red \"Caliente Churro\" (spicy chili/red-hot coating)"
+  ]
+}

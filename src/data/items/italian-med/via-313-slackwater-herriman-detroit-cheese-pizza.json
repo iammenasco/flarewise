@@ -1,0 +1,42 @@
+{
+  "id": "via-313-slackwater-herriman-detroit-cheese-pizza",
+  "name": "Via 313 & Slackwater Pizzeria (Herriman / South Jordan / Draper) Cheese or Prosciutto Pizza",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Via 313 Detroit Style Pizza / Slackwater Pizzeria (Herriman, South Jordan & Sandy/Draper, UT)",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "pizza",
+    "cheese",
+    "bread",
+    "pork",
+    "herriman",
+    "south-jordan",
+    "draper",
+    "utah"
+  ],
+  "searchKeywords": [
+    "via 313 herriman",
+    "slackwater pizza south jordan",
+    "detroit style pizza utah"
+  ],
+  "whyItWorks": "Via 313's airy, focaccia-like Detroit crust and Slackwater's thin artisan crust are fermented for easy digestibility and work well on steady days when ordered with simple cheese, turkey/chicken, or prosciutto.",
+  "prepOrOrderInstructions": "At Via 313, order \"The Detroiter\" with cheese only (or light pepperoni) and light marinara stripes; at Slackwater, order a simple Margherita, Prosciutto, or Chicken pizza with a Lactaid.",
+  "watchOuts": [
+    "Hold hot honey, jalapeños, and raw red onions"
+  ]
+}

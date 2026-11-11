@@ -1,0 +1,37 @@
+{
+  "id": "knotts-calico-saloon-giant-pretzel-sarsaparilla",
+  "name": "Knott's Calico Saloon & Pretzel Carts Warm Bavarian Soft Pretzel (Plain, No Cheese)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Calico Saloon & Ghost Town Pretzel Carts (Knott's Berry Farm)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pretzel",
+    "snack",
+    "dairy-free",
+    "vacation",
+    "knotts-berry-farm"
+  ],
+  "searchKeywords": [
+    "calico saloon pretzel knotts",
+    "knotts berry farm soft pretzel"
+  ],
+  "whyItWorks": "Warm baked refined white-flour pretzel inside Calico Saloon or at the Ghost Town carts—zero dairy, zero citrus, and easy to snack on while watching the saloon show.",
+  "prepOrOrderInstructions": "Order a plain Salted Pretzel (no cheese cup) and brush off excess coarse salt; if ordering Calico Saloon's famous Sarsaparilla, let the fizz settle if carbonation bloats you.",
+  "watchOuts": [
+    "Avoid Boysenberry Punch/Lemonade if cut with lemon juice (citrus trigger)"
+  ]
+}
