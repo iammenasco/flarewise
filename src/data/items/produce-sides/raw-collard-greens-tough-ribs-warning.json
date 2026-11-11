@@ -1,0 +1,36 @@
+{
+  "id": "raw-collard-greens-tough-ribs-warning",
+  "name": "WARNING: Raw Collard Greens & Leathery Leaf Stems",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Warning",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "leathery-greens",
+    "roughage",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw collard greens warning",
+    "collard wrap danger ibd",
+    "tough greens stricture"
+  ],
+  "whyItWorks": "Raw collard greens used as raw wraps or chopped into salads. The thick leathery leaf structure and fibrous central spine pass virtually intact through human enzymes, behaving like coarse sandpaper on inflamed bowel mucosa.",
+  "prepOrOrderInstructions": "Never eat raw collard greens or raw green wraps. Only consume collards if stewed for hours until completely soft with tough stems removed.",
+  "safetyTier": "danger-zone"
+}

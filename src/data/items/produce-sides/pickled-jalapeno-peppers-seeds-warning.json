@@ -1,0 +1,38 @@
+{
+  "id": "pickled-jalapeno-peppers-seeds-warning",
+  "name": "WARNING: Pickled Sliced Jalapeño Peppers (Capsaicin & Seeds)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Condiments / Mexican Warning",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "capsaicin",
+    "spicy",
+    "seeds",
+    "gut-irritant",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "pickled jalapenos warning",
+    "jalapeno seeds ibd flare",
+    "spicy peppers colitis hazard"
+  ],
+  "whyItWorks": "Pickled jalapeño wheels with hard internal seeds and acidic vinegar brine. Capsaicin activates TRPV1 pain receptors on inflamed intestinal mucosa, triggering hyper-motility, burning diarrhea, and ulcer flare-ups.",
+  "prepOrOrderInstructions": "Strictly avoid pickled jalapeños, chili peppers, and spicy garnishes on tacos, nachos, and sandwiches. Ask for completely mild preparations.",
+  "safetyTier": "danger-zone"
+}

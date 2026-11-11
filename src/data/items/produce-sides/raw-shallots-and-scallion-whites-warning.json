@@ -1,0 +1,38 @@
+{
+  "id": "raw-shallots-and-scallion-whites-warning",
+  "name": "WARNING: Raw Shallots & Scallion White Bulbs (Fructan Bomb)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Garnish Warning",
+  "crohnsScore": 2.9,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "allium",
+    "fodmap",
+    "fructan",
+    "gas-trigger",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw shallots warning",
+    "scallion white bulbs fructans",
+    "green onion white trigger"
+  ],
+  "whyItWorks": "Raw diced shallots and the white bulbous bases of green onions commonly sprinkled over dishes. Heavy concentration of fructans that undergo rapid colonic fermentation, producing severe bloating and urgency.",
+  "prepOrOrderInstructions": "Request 'no onions, shallots, or scallion whites' on restaurant dishes. The green leaf tops of scallions are low-FODMAP and much better tolerated.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "boiled-cassava-yuca-root-tender-mashed",
+  "name": "Boiled Yuca / Cassava Root (Fibrous Spine Removed, Mashed)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "tuber",
+    "gluten-free",
+    "comfort-food",
+    "starch",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "boiled yuca root",
+    "boiled cassava mash",
+    "yuca crohns diet"
+  ],
+  "whyItWorks": "Peeled fresh yuca boiled until translucent and tender, with the woody internal center cord strictly removed before mashing. Gluten-free, gentle root starch.",
+  "prepOrOrderInstructions": "Peel thick bark-like skin, cut into 2-inch chunks, and boil 25 minutes. Split each piece to pull out the hard woody center cord, then mash smooth with broth.",
+  "safetyTier": "low-risk"
+}

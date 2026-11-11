@@ -1,0 +1,35 @@
+{
+  "id": "tender-braised-baby-leeks",
+  "name": "Tender Braised Baby Leeks (White & Light Green Only)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 2,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "braised",
+    "french",
+    "vegetable",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "braised leeks tender",
+    "cooked leek whites",
+    "soft leeks crohns remission"
+  ],
+  "whyItWorks": "Young leeks trimmed of tough dark green tops, gently braised in mild chicken broth until meltingly soft. Mild, sweet allium flavor with softened soluble fibers.",
+  "prepOrOrderInstructions": "Trim root base and discard all tough dark green foliage. Split white stalk lengthwise, rinse silt thoroughly, and simmer in broth with olive oil covered for 20 minutes.",
+  "safetyTier": "low-risk"
+}

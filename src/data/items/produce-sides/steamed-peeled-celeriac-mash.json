@@ -1,0 +1,36 @@
+{
+  "id": "steamed-peeled-celeriac-mash",
+  "name": "Steamed Celeriac Root Mash (Celery Root Alternative)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "root-vegetable",
+    "mash",
+    "comfort-food",
+    "low-carb",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "celeriac mash",
+    "celery root puree",
+    "cooked celeriac crohns"
+  ],
+  "whyItWorks": "Knobby celeriac root trimmed deeply of all outer rough peel, cubed, boiled soft, and pureed smooth. Delivers all the savory aromatic flavor of celery without the dangerous stringy cellulose fibers.",
+  "prepOrOrderInstructions": "Slice off all rough exterior peel with a knife. Cube white flesh, boil in salted water for 20 minutes until tender, and puree with olive oil and broth.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "raw-asparagus-woody-spears-warning",
+  "name": "WARNING: Raw Asparagus Stalks & Fibrous Woody Bottoms",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Warning",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "woody-fiber",
+    "stricture-risk",
+    "roughage",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw asparagus warning",
+    "woody asparagus stalks",
+    "asparagus stricture hazard"
+  ],
+  "whyItWorks": "Raw asparagus spears and thick lower woody stems contain dense insoluble lignin and cellulose fibers. When raw, they resist stomach acid and can form an intractable phytobezoar stricture blockage.",
+  "prepOrOrderInstructions": "Never eat asparagus raw or crunchy. Snap off and discard tough woody bottoms; only eat tender tips if cooked until completely soft and pureed.",
+  "safetyTier": "danger-zone"
+}

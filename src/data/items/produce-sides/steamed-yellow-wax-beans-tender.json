@@ -1,0 +1,36 @@
+{
+  "id": "steamed-yellow-wax-beans-tender",
+  "name": "Steamed Yellow Wax Beans (Tips Trimmed, Cooked Soft)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "legume",
+    "steamed",
+    "side",
+    "low-calorie",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "steamed wax beans",
+    "yellow wax beans tender",
+    "soft cooked string beans"
+  ],
+  "whyItWorks": "Tender stringless yellow wax beans trimmed and steamed until soft and flexible. Mild flavor and lower in harsh fibrous cellulose than older green snap beans.",
+  "prepOrOrderInstructions": "Trim tips from beans, steam in a basket over boiling water for 12–14 minutes until tender and limber. Toss with olive oil and fine salt.",
+  "safetyTier": "low-risk"
+}

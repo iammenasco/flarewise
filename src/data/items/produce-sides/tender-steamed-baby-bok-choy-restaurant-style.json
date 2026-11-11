@@ -1,0 +1,37 @@
+{
+  "id": "tender-steamed-baby-bok-choy-restaurant-style",
+  "name": "Steamed Baby Bok Choy with Tamari (Restaurant Style Side)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Asian Bistro / Dining Out",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Chinese",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "asian",
+    "side",
+    "steamed",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "steamed baby bok choy restaurant",
+    "chinese greens side plain",
+    "bok choy tamari"
+  ],
+  "whyItWorks": "Tender whole baby bok choy steamed until wilted and soft, drizzled with gluten-free tamari and sesame oil. Safe dining side when ordered plain without chili oil or heavy garlic.",
+  "prepOrOrderInstructions": "Order steamed baby bok choy plain with gluten-free tamari and sesame oil on the side. Avoid crunchy garlic flakes or chili oil toppings.",
+  "safetyTier": "low-risk"
+}

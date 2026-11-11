@@ -1,0 +1,37 @@
+{
+  "id": "peeled-boiled-rutabaga-mash",
+  "name": "Peeled Boiled Rutabaga Mash",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "root-vegetable",
+    "mash",
+    "comfort-food",
+    "low-fat",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "rutabaga mash",
+    "swede mash",
+    "boiled rutabaga crohns",
+    "low fodmap root veg"
+  ],
+  "whyItWorks": "Waxed outer skin peeled away deeply, cubed, boiled in salted water until soft, and mashed with olive oil or ghee. A satisfying low-FODMAP earthy alternative to potatoes.",
+  "prepOrOrderInstructions": "Peel deeply with a paring knife past the wax coating into pale flesh. Dice small, boil for 25 minutes until crushable with a fork, and mash smooth with olive oil and salt.",
+  "safetyTier": "low-risk"
+}

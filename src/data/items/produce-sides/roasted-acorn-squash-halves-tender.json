@@ -1,0 +1,37 @@
+{
+  "id": "roasted-acorn-squash-halves-tender",
+  "name": "Roasted Acorn Squash (Fork-Tender Flesh, Seedless & Skinless)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "squash",
+    "fall-vegetable",
+    "comfort-food",
+    "low-fat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "roasted acorn squash",
+    "baked acorn squash flesh",
+    "squash for ibd",
+    "gentle winter squash"
+  ],
+  "whyItWorks": "Golden acorn squash roasted until spoon-tender with a drizzle of pure maple syrup and cinnamon. Fibrous tough rind and seeds are completely avoided.",
+  "prepOrOrderInstructions": "Halve squash and scrape out all stringy pulp and seeds. Roast cut-side down at 375°F for 35 minutes until tender. Scoop golden flesh out of rind with a spoon.",
+  "safetyTier": "flare-safe"
+}

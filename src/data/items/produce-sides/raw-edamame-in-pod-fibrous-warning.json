@@ -1,0 +1,36 @@
+{
+  "id": "raw-edamame-in-pod-fibrous-warning",
+  "name": "WARNING: Edamame Pod Outer Shell (Inedible Fibrous Pods)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Japanese Dining / Warning",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "japanese",
+    "obstruction-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "edamame pod warning",
+    "swallowed edamame shell danger",
+    "edamame outer skin blockage"
+  ],
+  "whyItWorks": "Soybean pods served steamed with sea salt. The outer hairy green pod is completely indigestible woody fiber meant to be discarded. Swallowing any part of the pod shell creates immediate acute bowel obstruction risk.",
+  "prepOrOrderInstructions": "Never chew or swallow the outer edamame pod shell. Pop the tender inner beans into your mouth and discard the fibrous hulls completely.",
+  "safetyTier": "danger-zone"
+}

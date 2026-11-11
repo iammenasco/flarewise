@@ -1,0 +1,37 @@
+{
+  "id": "raw-jicama-sticks-insoluble-fiber-warning",
+  "name": "WARNING: Raw Jicama Sticks (Woody Fiber & High Inulin/FOS)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Salad Warning",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5.9,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "prebiotic",
+    "inulin",
+    "gas-trigger",
+    "stricture-risk",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw jicama warning",
+    "jicama sticks gas bloating",
+    "jicama inulin danger"
+  ],
+  "whyItWorks": "Crispy Mexican turnip root served raw with lime and chili powder. Packed with indigestible woody cellulose and massive concentrations of inulin/fructooligosaccharides (FOS) that trigger severe gas distension and painful cramping.",
+  "prepOrOrderInstructions": "Pass on raw jicama sticks on party platters and salad bars. Choose peeled steamed peeled zucchini or cucumber flesh without seeds.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "steamed-tender-bok-choy-leaves-only",
+  "name": "Steamed Baby Bok Choy (Tender Leaf Tops Only, Thick Stalks Removed)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "greens",
+    "asian",
+    "steamed",
+    "low-fodmap",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "steamed bok choy leaves",
+    "bok choy tender greens",
+    "baby bok choy ibd"
+  ],
+  "whyItWorks": "Tender dark green leafy tops of baby bok choy steamed until soft and silky with a drop of sesame oil. Thick crunchy base stems are trimmed away to minimize insoluble roughage.",
+  "prepOrOrderInstructions": "Slice off and discard the lower 2 inches of white crunchy stems. Steam only the leafy green blades for 4–5 minutes until completely wilted and tender.",
+  "safetyTier": "low-risk"
+}

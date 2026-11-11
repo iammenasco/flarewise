@@ -1,0 +1,37 @@
+{
+  "id": "raw-baby-carrots-whole-crunch-warning",
+  "name": "WARNING: Raw Whole Baby Carrots (Insoluble Crunch & Stricture Risk)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Snack Warning",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "snack",
+    "raw-crunch",
+    "stricture-hazard",
+    "roughage",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw baby carrots warning",
+    "crunchy carrots stricture risk",
+    "raw carrots ibd"
+  ],
+  "whyItWorks": "Dense, hard raw carrots served on party platters and lunchboxes. Even with extensive chewing, sharp jagged carrot fragments scrape inflamed ulcers and easily collect at ileocecal valve strictures.",
+  "prepOrOrderInstructions": "Never eat hard raw carrots during active inflammation or with strictures. Always steam, boil, or roast peeled carrots until fork-tender.",
+  "safetyTier": "danger-zone"
+}

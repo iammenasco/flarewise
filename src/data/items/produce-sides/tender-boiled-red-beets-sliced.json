@@ -1,0 +1,35 @@
+{
+  "id": "tender-boiled-red-beets-sliced",
+  "name": "Tender Boiled Baby Red Beets (Peeled & Sliced)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "root-vegetable",
+    "antioxidant",
+    "gluten-free",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "boiled red beets",
+    "cooked peeled beets",
+    "sliced beets crohns"
+  ],
+  "whyItWorks": "Fresh baby beets boiled until skin slips off effortlessly, then sliced into tender rounds. Soft texture rich in betalains and nitric oxide precursors; betalains harmlessly color stool red.",
+  "prepOrOrderInstructions": "Boil whole trimmed beets in water for 45 minutes until tender. Rub skins off under cool water with a paper towel, slice thin, and season with olive oil and salt.",
+  "safetyTier": "low-risk"
+}

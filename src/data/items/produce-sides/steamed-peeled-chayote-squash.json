@@ -1,0 +1,35 @@
+{
+  "id": "steamed-peeled-chayote-squash",
+  "name": "Steamed Chayote Squash (Peeled & Seedless)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "squash",
+    "low-fodmap",
+    "soothing",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "steamed chayote",
+    "peeled chayote squash",
+    "chayote ibd diet"
+  ],
+  "whyItWorks": "Mild, pear-shaped squash peeled under running water, soft center seed removed, and steamed until translucent and tender. High water content and very mild on active gut linings.",
+  "prepOrOrderInstructions": "Peel skin under cold water, halve, scoop out center soft seed, slice into 1/2 inch half-moons, and steam for 12 minutes until tender.",
+  "safetyTier": "low-risk"
+}

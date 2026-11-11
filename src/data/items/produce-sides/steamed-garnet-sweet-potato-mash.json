@@ -1,0 +1,38 @@
+{
+  "id": "steamed-garnet-sweet-potato-mash",
+  "name": "Steamed Garnet Sweet Potato Mash (Peeled & Pureed)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "tuber",
+    "puree",
+    "low-fat",
+    "comfort-food",
+    "gluten-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "steamed sweet potato puree",
+    "garnet yam mash",
+    "sweet potato crohns flare",
+    "pureed yams"
+  ],
+  "whyItWorks": "Thick, silky puree made from steamed peeled garnet yams, whipped with a pinch of sea salt and bone broth. A soluble fiber powerhouse that coats and soothes mucosal linings without mechanical scratching.",
+  "prepOrOrderInstructions": "Peel skins deeply, cut into chunks, steam for 15 minutes until collapsing soft, and mash or blend with chicken bone broth and sea salt until completely lump-free.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "raw-daikon-radish-crunch-warning",
+  "name": "WARNING: Raw Daikon Radish (Pickled or Fresh Shreds)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Asian Dining / Garnish Warning",
+  "crohnsScore": 3.3,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "radish",
+    "insoluble-fiber",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw daikon radish warning",
+    "shredded daikon sashimi garnish",
+    "pickled daikon ibd"
+  ],
+  "whyItWorks": "Raw grated or julienned daikon radish used as garnish under sashimi or in banh mi. Contains pungent allyl isothiocyanates that chemically stimulate GI motility and abrasive insoluble fiber that resists upper digestion.",
+  "prepOrOrderInstructions": "Push raw daikon garnish aside when dining on sushi or Asian dishes. Choose thoroughly simmered daikon from soups if well tolerated in remission.",
+  "safetyTier": "danger-zone"
+}

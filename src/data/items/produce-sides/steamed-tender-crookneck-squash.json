@@ -1,0 +1,36 @@
+{
+  "id": "steamed-tender-crookneck-squash",
+  "name": "Steamed Yellow Crookneck Squash (Peeled & Sliced)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "squash",
+    "steamed",
+    "side",
+    "low-fat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "steamed crookneck squash",
+    "peeled yellow squash",
+    "tender yellow squash"
+  ],
+  "whyItWorks": "Young crookneck squash with thin exterior peeled off and soft internal seeds scooped out, steamed until meltingly tender. High water content and gentle on colon tissue.",
+  "prepOrOrderInstructions": "Peel outer skin with a peeler, cut into rounds, and steam over simmering water for 8–10 minutes until completely tender.",
+  "safetyTier": "flare-safe"
+}

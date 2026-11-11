@@ -1,0 +1,35 @@
+{
+  "id": "peeled-boiled-baby-turnips",
+  "name": "Peeled Baby Turnips (Boiled Tender with Sea Salt)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "root-vegetable",
+    "low-calorie",
+    "gluten-free",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "boiled baby turnips",
+    "cooked white turnips",
+    "tender turnips low residue"
+  ],
+  "whyItWorks": "Delicate white baby turnips peeled and gently simmered in chicken stock until translucent and tender. Mild flavor without the harsh sulfur bite of mature raw roots.",
+  "prepOrOrderInstructions": "Trim greens, peel skin completely, quarter roots, and boil in chicken broth for 15 minutes until knife pierces without resistance.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "steamed-water-chestnuts-canned-sliced",
+  "name": "Steamed Water Chestnuts (Canned Slices, Simmered Tender)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Dynasty / Geisha / Grocery",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "canned",
+    "asian",
+    "vegetable",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "canned water chestnuts",
+    "sliced water chestnuts",
+    "simmered water chestnuts"
+  ],
+  "whyItWorks": "Peeled canned water chestnuts sliced and simmered in broth or soup. While crisp, their cellular structure retains water and softens with prolonged simmering; chew carefully.",
+  "prepOrOrderInstructions": "Rinse canned slices thoroughly under running water. Simmer in soup broth or stir-fry sauce for 10 minutes to heat through and soften.",
+  "safetyTier": "low-risk"
+}

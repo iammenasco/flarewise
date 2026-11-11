@@ -1,0 +1,35 @@
+{
+  "id": "baked-spaghetti-squash-tender-strands",
+  "name": "Baked Spaghetti Squash (Well-Cooked Soft Strands)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1.9,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "squash",
+    "pasta-alternative",
+    "low-carb",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "spaghetti squash baked",
+    "soft spaghetti squash strands",
+    "squash pasta ibd"
+  ],
+  "whyItWorks": "Spaghetti squash halved, deseeded, and baked cut-side down until threads are completely soft. While a low-carb favorite, strands must be cooked thoroughly soft and chewed carefully.",
+  "prepOrOrderInstructions": "Bake cut side down at 400°F for 45 minutes until rind gives easily when pressed. Scrape soft strands into a bowl and chop short with scissors before serving.",
+  "safetyTier": "low-risk"
+}

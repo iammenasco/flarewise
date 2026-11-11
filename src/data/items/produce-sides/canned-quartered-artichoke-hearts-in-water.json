@@ -1,0 +1,36 @@
+{
+  "id": "canned-quartered-artichoke-hearts-in-water",
+  "name": "Canned Quartered Artichoke Hearts (In Water, Well-Rinsed)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Reese / Progresso / Grocery",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "canned",
+    "produce",
+    "pantry",
+    "artichoke",
+    "low-fat",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "canned artichoke hearts",
+    "artichoke hearts water",
+    "rinsed artichoke hearts"
+  ],
+  "whyItWorks": "Tender, soft inner artichoke hearts packed in water and sea salt. Unlike spiny outer whole artichoke leaves which can lodge in strictures, the canned heart is soft and chewable when rinsed.",
+  "prepOrOrderInstructions": "Drain and rinse hearts thoroughly under cold water. Inspect each piece and discard any stray tough outer leaf layers before tossing into salads or warm dishes.",
+  "safetyTier": "low-risk"
+}

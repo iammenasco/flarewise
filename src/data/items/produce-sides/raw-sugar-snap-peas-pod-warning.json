@@ -1,0 +1,37 @@
+{
+  "id": "raw-sugar-snap-peas-pod-warning",
+  "name": "WARNING: Raw Sugar Snap Peas & Fibrous Snow Pea Pods",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Warning",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "pods",
+    "fibrous-strings",
+    "stricture-risk",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "raw sugar snap peas warning",
+    "snow pea pod danger",
+    "pea pod string obstruction"
+  ],
+  "whyItWorks": "Raw snap peas and whole pea pods contain tough lateral strings and leathery outer parchment. Highly resistant to breakdown, posing significant mechanical risk across strictures and ileostomies.",
+  "prepOrOrderInstructions": "Avoid raw pea pods from party trays or salads. If eating peas, choose tender shelled sweet green peas simmered soft or pureed.",
+  "safetyTier": "danger-zone"
+}

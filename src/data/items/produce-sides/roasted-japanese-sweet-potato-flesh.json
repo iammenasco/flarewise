@@ -1,0 +1,39 @@
+{
+  "id": "roasted-japanese-sweet-potato-flesh",
+  "name": "Roasted Japanese Sweet Potato (Flesh Only, Skin Discarded)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "starch",
+    "tuber",
+    "low-fat",
+    "comfort-food",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "japanese sweet potato",
+    "satsumaimo",
+    "baked white sweet potato",
+    "crohns safe potato"
+  ],
+  "whyItWorks": "Creamy, naturally sweet white-fleshed Satsumaimo sweet potato baked until buttery soft with the peel strictly removed. Gentle soluble starch that is easy to digest during flares.",
+  "prepOrOrderInstructions": "Bake whole sweet potato at 400°F until knife slips through easily. Split open, discard all skin completely, and eat only the soft fork-tender interior flesh with sea salt.",
+  "safetyTier": "flare-safe"
+}

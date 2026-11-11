@@ -1,0 +1,37 @@
+{
+  "id": "pureed-carrot-ginger-soup-base",
+  "name": "Silky Carrot Ginger Pureed Soup Base (No Garlic/Onion)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "soup",
+    "puree",
+    "ginger",
+    "anti-inflammatory",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "carrot ginger soup pureed",
+    "smooth carrot soup",
+    "anti-inflammatory carrot soup"
+  ],
+  "whyItWorks": "Fresh peeled carrots simmered in chicken bone broth with freshly grated ginger juice and sea salt, blended until velvety smooth. Renowned gut-calming dish rich in soluble pectin and gingerol.",
+  "prepOrOrderInstructions": "Simmer 1 lb peeled sliced carrots in 3 cups bone broth with 1 tsp fresh ginger juice for 20 minutes. Blend until silky smooth and pass through a fine sieve.",
+  "safetyTier": "flare-safe"
+}

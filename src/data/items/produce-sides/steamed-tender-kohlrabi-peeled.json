@@ -1,0 +1,35 @@
+{
+  "id": "steamed-tender-kohlrabi-peeled",
+  "name": "Steamed Kohlrabi Cubes (Deeply Peeled & Boiled Soft)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "root-vegetable",
+    "low-calorie",
+    "gluten-free",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "steamed kohlrabi",
+    "peeled kohlrabi cubes",
+    "cooked kohlrabi ibd"
+  ],
+  "whyItWorks": "Sweet brassica bulb peeled deeply with a paring knife to remove all woody fibrous rind, cubed small, and boiled until fork-tender. Mild broccoli-like sweetness without rough stalks.",
+  "prepOrOrderInstructions": "Cut top and bottom flat, deeply trim off fibrous outer rind until pure pale flesh is visible. Dice small and steam or boil for 15 minutes until soft.",
+  "safetyTier": "low-risk"
+}

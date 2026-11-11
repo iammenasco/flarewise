@@ -1,0 +1,36 @@
+{
+  "id": "sauteed-swiss-chard-leaves-stems-removed",
+  "name": "Sautéed Swiss Chard Leaves (Stems Removed, Cooked Tender)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "greens",
+    "skillet",
+    "mediterranean",
+    "side",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "sauteed swiss chard leaves",
+    "cooked chard no stems",
+    "tender chard greens"
+  ],
+  "whyItWorks": "Earthy Swiss chard with rigid center stalks completely stripped out, leaving only tender leafy greens gently simmered in olive oil and broth until soft.",
+  "prepOrOrderInstructions": "Fold chard leaves in half and rip away the thick fibrous central rib. Cook leaves in 1 tsp olive oil and 2 tbsp broth in a covered skillet for 6 minutes until collapsed.",
+  "safetyTier": "low-risk"
+}

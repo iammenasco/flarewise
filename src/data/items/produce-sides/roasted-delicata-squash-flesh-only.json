@@ -1,0 +1,36 @@
+{
+  "id": "roasted-delicata-squash-flesh-only",
+  "name": "Roasted Delicata Squash (Tender Flesh Only, Skins Discarded)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "squash",
+    "vegetable",
+    "gluten-free",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "delicata squash flesh",
+    "roasted delicata skinless",
+    "winter squash crohns"
+  ],
+  "whyItWorks": "Sweet, custard-like winter squash roasted until meltingly tender. While healthy eaters often consume delicata skin, IBD patients should scoop out the interior flesh and discard the skin to prevent friction.",
+  "prepOrOrderInstructions": "Halve delicata squash, scoop out seeds, slice into half-moons, roast with olive oil and salt. Before eating, peel or fork away the thin skin.",
+  "safetyTier": "low-risk"
+}

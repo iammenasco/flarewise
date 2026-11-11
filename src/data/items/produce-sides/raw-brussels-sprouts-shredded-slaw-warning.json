@@ -1,0 +1,38 @@
+{
+  "id": "raw-brussels-sprouts-shredded-slaw-warning",
+  "name": "WARNING: Raw Brussels Sprouts & Shredded Brussels Slaw",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Salad Bars / Restaurant Warning",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "cruciferous",
+    "insoluble-fiber",
+    "gas-trigger",
+    "roughage",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "shredded brussels sprout salad warning",
+    "raw brussels sprouts ibd",
+    "brussels slaw danger"
+  ],
+  "whyItWorks": "Dense, compact raw Brussels sprouts shredded into salads and slaws. Extremely high in insoluble woody cellulose and raffinose trisaccharide, causing violent intestinal gas, colonic spasms, and obstruction hazard.",
+  "prepOrOrderInstructions": "Strictly avoid all raw shredded Brussels sprouts salads and slaws. Substitute with well-cooked peeled root vegetables or steamed peeled squash.",
+  "safetyTier": "danger-zone"
+}

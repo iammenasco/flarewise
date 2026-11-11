@@ -1,0 +1,37 @@
+{
+  "id": "mashed-taro-root-poi-style",
+  "name": "Steamed Taro Root Mash (Traditional Poi Style)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "tuber",
+    "hypoallergenic",
+    "puree",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "taro root mash",
+    "poi crohns",
+    "steamed taro puree",
+    "hypoallergenic starch"
+  ],
+  "whyItWorks": "Thoroughly cooked taro root pureed smooth with water into traditional soothing poi. One of the world's most hypoallergenic, easy-to-absorb starches, renowned in pediatric and gastrointestinal recovery.",
+  "prepOrOrderInstructions": "Peel taro with gloves, steam for 30 minutes until soft, and blend in a food processor with warm water and salt until silky smooth.",
+  "safetyTier": "flare-safe"
+}

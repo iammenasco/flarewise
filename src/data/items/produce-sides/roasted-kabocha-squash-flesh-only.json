@@ -1,0 +1,36 @@
+{
+  "id": "roasted-kabocha-squash-flesh-only",
+  "name": "Roasted Kabocha Squash (Japanese Pumpkin Flesh Only)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "squash",
+    "japanese",
+    "low-fat",
+    "comfort-food",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "kabocha squash roasted",
+    "japanese pumpkin flesh",
+    "kabocha crohns safe"
+  ],
+  "whyItWorks": "Rich, chestnut-like Japanese pumpkin roasted until fluffy and tender. Dense in beta-carotene and soluble pectin; discard the tough dark green outer skin.",
+  "prepOrOrderInstructions": "Remove seeds, cut into wedges, roast at 380°F until soft. Peel or fork away the thick dark green rind, eating only the sweet orange flesh.",
+  "safetyTier": "flare-safe"
+}

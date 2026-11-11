@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:09:37.346Z",
-  "itemCount": 1968,
+  "builtAt": "2026-11-11T20:13:44.858Z",
+  "itemCount": 2003,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -5383,6 +5383,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/san-j-organic-gluten-free-tamari.json"
     },
     {
+      "id": "pureed-carrot-ginger-soup-base",
+      "name": "Silky Carrot Ginger Pureed Soup Base (No Garlic/Onion)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "soup",
+        "puree",
+        "ginger",
+        "anti-inflammatory",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "carrot ginger soup pureed",
+        "smooth carrot soup",
+        "anti-inflammatory carrot soup"
+      ],
+      "whyItWorks": "Fresh peeled carrots simmered in chicken bone broth with freshly grated ginger juice and sea salt, blended until velvety smooth. Renowned gut-calming dish rich in soluble pectin and gingerol.",
+      "prepOrOrderInstructions": "Simmer 1 lb peeled sliced carrots in 3 cups bone broth with 1 tsp fresh ginger juice for 20 minutes. Blend until silky smooth and pass through a fine sieve.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/pureed-carrot-ginger-soup-base.json"
+    },
+    {
       "id": "holiday-feast-skinless-turkey-smooth-potatoes",
       "name": "Skinless Roast Turkey Breast with Smooth Yukon Gold Mashed Potatoes",
       "categoryFolder": "dinner",
@@ -5462,6 +5500,45 @@
         "Very high glycemic index; rapid absorption."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/smarties-candy-rolls.json"
+    },
+    {
+      "id": "steamed-garnet-sweet-potato-mash",
+      "name": "Steamed Garnet Sweet Potato Mash (Peeled & Pureed)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "tuber",
+        "puree",
+        "low-fat",
+        "comfort-food",
+        "gluten-free",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "steamed sweet potato puree",
+        "garnet yam mash",
+        "sweet potato crohns flare",
+        "pureed yams"
+      ],
+      "whyItWorks": "Thick, silky puree made from steamed peeled garnet yams, whipped with a pinch of sea salt and bone broth. A soluble fiber powerhouse that coats and soothes mucosal linings without mechanical scratching.",
+      "prepOrOrderInstructions": "Peel skins deeply, cut into chunks, steam for 15 minutes until collapsing soft, and mash or blend with chicken bone broth and sea salt until completely lump-free.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/steamed-garnet-sweet-potato-mash.json"
     },
     {
       "id": "steamed-tender-baby-carrots",
@@ -6705,6 +6782,46 @@
       "_sourcePath": "src/data/items/drinks-sauces/rice-dream-classic-original-rice-milk.json"
     },
     {
+      "id": "roasted-japanese-sweet-potato-flesh",
+      "name": "Roasted Japanese Sweet Potato (Flesh Only, Skin Discarded)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "starch",
+        "tuber",
+        "low-fat",
+        "comfort-food",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "japanese sweet potato",
+        "satsumaimo",
+        "baked white sweet potato",
+        "crohns safe potato"
+      ],
+      "whyItWorks": "Creamy, naturally sweet white-fleshed Satsumaimo sweet potato baked until buttery soft with the peel strictly removed. Gentle soluble starch that is easy to digest during flares.",
+      "prepOrOrderInstructions": "Bake whole sweet potato at 400°F until knife slips through easily. Split open, discard all skin completely, and eat only the soft fork-tender interior flesh with sea salt.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/roasted-japanese-sweet-potato-flesh.json"
+    },
+    {
       "id": "sams-club-cafe-rotisserie-chicken",
       "name": "Sam's Club (Logan & Riverdale, UT) Member's Mark Fresh Rotisserie Chicken",
       "categoryFolder": "high-protein",
@@ -6823,6 +6940,44 @@
       "prepOrOrderInstructions": "Tear open and eat straight from the pouch or empty over soft white rice.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/high-protein/starkist-chunk-light-tuna-in-water-pouch.json"
+    },
+    {
+      "id": "mashed-taro-root-poi-style",
+      "name": "Steamed Taro Root Mash (Traditional Poi Style)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "tuber",
+        "hypoallergenic",
+        "puree",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "taro root mash",
+        "poi crohns",
+        "steamed taro puree",
+        "hypoallergenic starch"
+      ],
+      "whyItWorks": "Thoroughly cooked taro root pureed smooth with water into traditional soothing poi. One of the world's most hypoallergenic, easy-to-absorb starches, renowned in pediatric and gastrointestinal recovery.",
+      "prepOrOrderInstructions": "Peel taro with gloves, steam for 30 minutes until soft, and blend in a food processor with warm water and salt until silky smooth.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/mashed-taro-root-poi-style.json"
     },
     {
       "id": "swanson-premium-white-chunk-chicken-breast",
@@ -9550,6 +9705,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/primal-kitchen-avocado-oil-mayo.json"
     },
     {
+      "id": "roasted-acorn-squash-halves-tender",
+      "name": "Roasted Acorn Squash (Fork-Tender Flesh, Seedless & Skinless)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2.1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "squash",
+        "fall-vegetable",
+        "comfort-food",
+        "low-fat",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "roasted acorn squash",
+        "baked acorn squash flesh",
+        "squash for ibd",
+        "gentle winter squash"
+      ],
+      "whyItWorks": "Golden acorn squash roasted until spoon-tender with a drizzle of pure maple syrup and cinnamon. Fibrous tough rind and seeds are completely avoided.",
+      "prepOrOrderInstructions": "Halve squash and scrape out all stringy pulp and seeds. Roast cut-side down at 375°F for 35 minutes until tender. Scoop golden flesh out of rind with a spoon.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/roasted-acorn-squash-halves-tender.json"
+    },
+    {
       "id": "silk-unsweetened-almond-milk",
       "name": "Silk Unsweetened Plain Almond Milk (Ultra-Filtered)",
       "categoryFolder": "breakfast",
@@ -9630,6 +9823,43 @@
         "Avoid garlic-parmesan or spicy buffalo varieties during sensitive digestive periods."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/snack-factory-pretzel-crisps-original.json"
+    },
+    {
+      "id": "steamed-tender-crookneck-squash",
+      "name": "Steamed Yellow Crookneck Squash (Peeled & Sliced)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "squash",
+        "steamed",
+        "side",
+        "low-fat",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "steamed crookneck squash",
+        "peeled yellow squash",
+        "tender yellow squash"
+      ],
+      "whyItWorks": "Young crookneck squash with thin exterior peeled off and soft internal seeds scooped out, steamed until meltingly tender. High water content and gentle on colon tissue.",
+      "prepOrOrderInstructions": "Peel outer skin with a peeler, cut into rounds, and steam over simmering water for 8–10 minutes until completely tender.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/steamed-tender-crookneck-squash.json"
     },
     {
       "id": "the-break-sports-grill-daybreak-grilled-salmon-fillet",
@@ -13927,6 +14157,43 @@
       "_sourcePath": "src/data/items/dinner/lemon-thyme-marinated-chicken-breast.json"
     },
     {
+      "id": "roasted-kabocha-squash-flesh-only",
+      "name": "Roasted Kabocha Squash (Japanese Pumpkin Flesh Only)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "squash",
+        "japanese",
+        "low-fat",
+        "comfort-food",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "kabocha squash roasted",
+        "japanese pumpkin flesh",
+        "kabocha crohns safe"
+      ],
+      "whyItWorks": "Rich, chestnut-like Japanese pumpkin roasted until fluffy and tender. Dense in beta-carotene and soluble pectin; discard the tough dark green outer skin.",
+      "prepOrOrderInstructions": "Remove seeds, cut into wedges, roast at 380°F until soft. Peel or fork away the thick dark green rind, eating only the sweet orange flesh.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/roasted-kabocha-squash-flesh-only.json"
+    },
+    {
       "id": "dcl-room-service-continental-breakfast",
       "name": "Room Service Door-Hanger Continental Breakfast (Bagels, Toast, Banana, Cereal)",
       "categoryFolder": "breakfast",
@@ -15636,6 +15903,43 @@
       "_sourcePath": "src/data/items/lunch/aubergine-kitchen-orem-lehi-mediterranean-chicken-bowl.json"
     },
     {
+      "id": "boiled-cassava-yuca-root-tender-mashed",
+      "name": "Boiled Yuca / Cassava Root (Fibrous Spine Removed, Mashed)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "tuber",
+        "gluten-free",
+        "comfort-food",
+        "starch",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "boiled yuca root",
+        "boiled cassava mash",
+        "yuca crohns diet"
+      ],
+      "whyItWorks": "Peeled fresh yuca boiled until translucent and tender, with the woody internal center cord strictly removed before mashing. Gluten-free, gentle root starch.",
+      "prepOrOrderInstructions": "Peel thick bark-like skin, cut into 2-inch chunks, and boil 25 minutes. Split each piece to pull out the hard woody center cord, then mash smooth with broth.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/boiled-cassava-yuca-root-tender-mashed.json"
+    },
+    {
       "id": "canyon-bakehouse-gluten-free-plain-bagels",
       "name": "Canyon Bakehouse Gluten-Free Plain Bagels",
       "categoryFolder": "breakfast",
@@ -16545,6 +16849,79 @@
       "prepOrOrderInstructions": "Grab from the pastry case. Split in half if looking for a smaller sugar portion.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/snacks-desserts/starbucks-marshmallow-dream-bar.json"
+    },
+    {
+      "id": "steamed-peeled-celeriac-mash",
+      "name": "Steamed Celeriac Root Mash (Celery Root Alternative)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "root-vegetable",
+        "mash",
+        "comfort-food",
+        "low-carb",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "celeriac mash",
+        "celery root puree",
+        "cooked celeriac crohns"
+      ],
+      "whyItWorks": "Knobby celeriac root trimmed deeply of all outer rough peel, cubed, boiled soft, and pureed smooth. Delivers all the savory aromatic flavor of celery without the dangerous stringy cellulose fibers.",
+      "prepOrOrderInstructions": "Slice off all rough exterior peel with a knife. Cube white flesh, boil in salted water for 20 minutes until tender, and puree with olive oil and broth.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/steamed-peeled-celeriac-mash.json"
+    },
+    {
+      "id": "steamed-peeled-chayote-squash",
+      "name": "Steamed Chayote Squash (Peeled & Seedless)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "squash",
+        "low-fodmap",
+        "soothing",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "steamed chayote",
+        "peeled chayote squash",
+        "chayote ibd diet"
+      ],
+      "whyItWorks": "Mild, pear-shaped squash peeled under running water, soft center seed removed, and steamed until translucent and tender. High water content and very mild on active gut linings.",
+      "prepOrOrderInstructions": "Peel skin under cold water, halve, scoop out center soft seed, slice into 1/2 inch half-moons, and steam for 12 minutes until tender.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/steamed-peeled-chayote-squash.json"
     },
     {
       "id": "steamed-peeled-parsnips-puree",
@@ -18788,6 +19165,43 @@
       "_sourcePath": "src/data/items/produce-sides/roasted-butternut-squash-puree.json"
     },
     {
+      "id": "roasted-delicata-squash-flesh-only",
+      "name": "Roasted Delicata Squash (Tender Flesh Only, Skins Discarded)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "squash",
+        "vegetable",
+        "gluten-free",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "delicata squash flesh",
+        "roasted delicata skinless",
+        "winter squash crohns"
+      ],
+      "whyItWorks": "Sweet, custard-like winter squash roasted until meltingly tender. While healthy eaters often consume delicata skin, IBD patients should scoop out the interior flesh and discard the skin to prevent friction.",
+      "prepOrOrderInstructions": "Halve delicata squash, scoop out seeds, slice into half-moons, roast with olive oil and salt. Before eating, peel or fork away the thin skin.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/roasted-delicata-squash-flesh-only.json"
+    },
+    {
       "id": "rold-gold-tiny-twists-pretzels",
       "name": "Rold Gold Tiny Twists Original Pretzels",
       "categoryFolder": "snacks-desserts",
@@ -18858,6 +19272,43 @@
       "prepOrOrderInstructions": "Serve chilled. Pour over Cream of Rice, Cheerios, or blend into gentle fruit smoothies.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/drinks-sauces/silk-unsweetened-almond-milk-plain.json"
+    },
+    {
+      "id": "steamed-tender-bok-choy-leaves-only",
+      "name": "Steamed Baby Bok Choy (Tender Leaf Tops Only, Thick Stalks Removed)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Chinese",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "greens",
+        "asian",
+        "steamed",
+        "low-fodmap",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "steamed bok choy leaves",
+        "bok choy tender greens",
+        "baby bok choy ibd"
+      ],
+      "whyItWorks": "Tender dark green leafy tops of baby bok choy steamed until soft and silky with a drop of sesame oil. Thick crunchy base stems are trimmed away to minimize insoluble roughage.",
+      "prepOrOrderInstructions": "Slice off and discard the lower 2 inches of white crunchy stems. Steam only the leafy green blades for 4–5 minutes until completely wilted and tender.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/steamed-tender-bok-choy-leaves-only.json"
     },
     {
       "id": "teeccino-dandelion-caramel-nut-chicory-free-tea",
@@ -20465,6 +20916,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/outshine-fruit-bars-creamy-coconut.json"
     },
     {
+      "id": "peeled-boiled-rutabaga-mash",
+      "name": "Peeled Boiled Rutabaga Mash",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "root-vegetable",
+        "mash",
+        "comfort-food",
+        "low-fat",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "rutabaga mash",
+        "swede mash",
+        "boiled rutabaga crohns",
+        "low fodmap root veg"
+      ],
+      "whyItWorks": "Waxed outer skin peeled away deeply, cubed, boiled in salted water until soft, and mashed with olive oil or ghee. A satisfying low-FODMAP earthy alternative to potatoes.",
+      "prepOrOrderInstructions": "Peel deeply with a paring knife past the wax coating into pale flesh. Dice small, boil for 25 minutes until crushable with a fork, and mash smooth with olive oil and salt.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/peeled-boiled-rutabaga-mash.json"
+    },
+    {
       "id": "philadelphia-plant-based-cream-cheese",
       "name": "Philadelphia Plant-Based Cream Cheese Spread",
       "categoryFolder": "breakfast",
@@ -20730,6 +21219,43 @@
         "High in sugar; eat in moderation."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/starburst-original-fruit-chews.json"
+    },
+    {
+      "id": "steamed-yellow-wax-beans-tender",
+      "name": "Steamed Yellow Wax Beans (Tips Trimmed, Cooked Soft)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "legume",
+        "steamed",
+        "side",
+        "low-calorie",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "steamed wax beans",
+        "yellow wax beans tender",
+        "soft cooked string beans"
+      ],
+      "whyItWorks": "Tender stringless yellow wax beans trimmed and steamed until soft and flexible. Mild flavor and lower in harsh fibrous cellulose than older green snap beans.",
+      "prepOrOrderInstructions": "Trim tips from beans, steam in a basket over boiling water for 12–14 minutes until tender and limber. Toss with olive oil and fine salt.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/steamed-yellow-wax-beans-tender.json"
     },
     {
       "id": "subway-oven-roasted-turkey-white-bread-plain",
@@ -22610,6 +23136,42 @@
       "_sourcePath": "src/data/items/dinner/dca-wine-country-trattoria-roasted-salmon.json"
     },
     {
+      "id": "peeled-boiled-baby-turnips",
+      "name": "Peeled Baby Turnips (Boiled Tender with Sea Salt)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "root-vegetable",
+        "low-calorie",
+        "gluten-free",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "boiled baby turnips",
+        "cooked white turnips",
+        "tender turnips low residue"
+      ],
+      "whyItWorks": "Delicate white baby turnips peeled and gently simmered in chicken stock until translucent and tender. Mild flavor without the harsh sulfur bite of mature raw roots.",
+      "prepOrOrderInstructions": "Trim greens, peel skin completely, quarter roots, and boil in chicken broth for 15 minutes until knife pierces without resistance.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/peeled-boiled-baby-turnips.json"
+    },
+    {
       "id": "pepperidge-farm-farmhouse-hearty-white-bread",
       "name": "Pepperidge Farm Farmhouse Hearty White Bread",
       "categoryFolder": "lunch",
@@ -22892,6 +23454,43 @@
       "_sourcePath": "src/data/items/asian-indian/saffron-valley-herriman-dosa-idli-tikka-masala.json"
     },
     {
+      "id": "sauteed-swiss-chard-leaves-stems-removed",
+      "name": "Sautéed Swiss Chard Leaves (Stems Removed, Cooked Tender)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "greens",
+        "skillet",
+        "mediterranean",
+        "side",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "sauteed swiss chard leaves",
+        "cooked chard no stems",
+        "tender chard greens"
+      ],
+      "whyItWorks": "Earthy Swiss chard with rigid center stalks completely stripped out, leaving only tender leafy greens gently simmered in olive oil and broth until soft.",
+      "prepOrOrderInstructions": "Fold chard leaves in half and rip away the thick fibrous central rib. Cook leaves in 1 tsp olive oil and 2 tbsp broth in a covered skillet for 6 minutes until collapsed.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/sauteed-swiss-chard-leaves-stems-removed.json"
+    },
+    {
       "id": "sensible-portions-sea-salt-veggie-straws",
       "name": "Sensible Portions Sea Salt Garden Veggie Straws",
       "categoryFolder": "snacks-desserts",
@@ -23045,6 +23644,43 @@
         "Standard buttermilk batter and whipped butter contain dairy unless you request the dairy-free preparation; skip lemon curd or seedy berry compotes"
       ],
       "_sourcePath": "src/data/items/breakfast/stacked-logan-the-purist-pancakes.json"
+    },
+    {
+      "id": "stewed-peeled-roma-tomatoes-deseeded",
+      "name": "Stewed Roma Tomatoes (Peeled & Deseeded, Low-Acid Simmer)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "tomato",
+        "sauce",
+        "peeled",
+        "italian",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "stewed peeled tomatoes",
+        "deseeded roma tomatoes",
+        "seedless tomato compote"
+      ],
+      "whyItWorks": "Plum tomatoes blanched to remove tough waxy skin, halved to scoop out all small abrasive seeds, and gently simmered into a mild tomato compote. Dramatically gentler than standard raw whole tomatoes.",
+      "prepOrOrderInstructions": "Drop tomatoes in boiling water for 45 seconds to slip skins off. Cut in half and squeeze out all seeds and watery gel. Simmer flesh in olive oil with salt for 15 minutes.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/stewed-peeled-roma-tomatoes-deseeded.json"
     },
     {
       "id": "taco-bell-cheesy-roll-up",
@@ -28916,6 +29552,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/stacys-simply-naked-pita-chips.json"
     },
     {
+      "id": "tender-steamed-baby-bok-choy-restaurant-style",
+      "name": "Steamed Baby Bok Choy with Tamari (Restaurant Style Side)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Asian Bistro / Dining Out",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Chinese",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "asian",
+        "side",
+        "steamed",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "steamed baby bok choy restaurant",
+        "chinese greens side plain",
+        "bok choy tamari"
+      ],
+      "whyItWorks": "Tender whole baby bok choy steamed until wilted and soft, drizzled with gluten-free tamari and sesame oil. Safe dining side when ordered plain without chili oil or heavy garlic.",
+      "prepOrOrderInstructions": "Order steamed baby bok choy plain with gluten-free tamari and sesame oil on the side. Avoid crunchy garlic flakes or chili oil toppings.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/tender-steamed-baby-bok-choy-restaurant-style.json"
+    },
+    {
       "id": "worlds-of-marvel-steamed-pork-bao-bun",
       "name": "Steamed Pork Bao Bun (Worlds of Marvel)",
       "categoryFolder": "asian-indian",
@@ -29165,6 +29839,42 @@
         "Push aside the raw sizzling onions and bell peppers underneath the meat"
       ],
       "_sourcePath": "src/data/items/asian-indian/tandoori-oven-logan-chicken-tikka-kabob.json"
+    },
+    {
+      "id": "tender-boiled-red-beets-sliced",
+      "name": "Tender Boiled Baby Red Beets (Peeled & Sliced)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "root-vegetable",
+        "antioxidant",
+        "gluten-free",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "boiled red beets",
+        "cooked peeled beets",
+        "sliced beets crohns"
+      ],
+      "whyItWorks": "Fresh baby beets boiled until skin slips off effortlessly, then sliced into tender rounds. Soft texture rich in betalains and nitric oxide precursors; betalains harmlessly color stool red.",
+      "prepOrOrderInstructions": "Boil whole trimmed beets in water for 45 minutes until tender. Rub skins off under cool water with a paper towel, slice thin, and season with olive oil and salt.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/tender-boiled-red-beets-sliced.json"
     },
     {
       "id": "holiday-classic-pumpkin-pie",
@@ -29989,6 +30699,42 @@
       "whyItWorks": "Fully cooked skinless chicken sausages made with coarse-ground chicken breast and dried apple bits. Contains far less grease and nitrates than pork sausage links, offering gentle breakfast protein.",
       "prepOrOrderInstructions": "Warm gently in a skillet or toaster oven without charring. Gouda is aged and naturally low in lactose, but enjoy in moderate portion (1 link).",
       "_sourcePath": "src/data/items/high-protein/amylu-apple-gouda-chicken-sausage-costco.json"
+    },
+    {
+      "id": "baked-spaghetti-squash-tender-strands",
+      "name": "Baked Spaghetti Squash (Well-Cooked Soft Strands)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1.9,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "squash",
+        "pasta-alternative",
+        "low-carb",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "spaghetti squash baked",
+        "soft spaghetti squash strands",
+        "squash pasta ibd"
+      ],
+      "whyItWorks": "Spaghetti squash halved, deseeded, and baked cut-side down until threads are completely soft. While a low-carb favorite, strands must be cooked thoroughly soft and chewed carefully.",
+      "prepOrOrderInstructions": "Bake cut side down at 400°F for 45 minutes until rind gives easily when pressed. Scrape soft strands into a bowl and chop short with scissors before serving.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/baked-spaghetti-squash-tender-strands.json"
     },
     {
       "id": "cafe-sabor-logan-garden-city-arroz-con-pollo",
@@ -33127,6 +33873,42 @@
       "_sourcePath": "src/data/items/breakfast/starbucks-sous-vide-egg-whites-red-pepper.json"
     },
     {
+      "id": "steamed-tender-kohlrabi-peeled",
+      "name": "Steamed Kohlrabi Cubes (Deeply Peeled & Boiled Soft)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "root-vegetable",
+        "low-calorie",
+        "gluten-free",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "steamed kohlrabi",
+        "peeled kohlrabi cubes",
+        "cooked kohlrabi ibd"
+      ],
+      "whyItWorks": "Sweet brassica bulb peeled deeply with a paring knife to remove all woody fibrous rind, cubed small, and boiled until fork-tender. Mild broccoli-like sweetness without rough stalks.",
+      "prepOrOrderInstructions": "Cut top and bottom flat, deeply trim off fibrous outer rind until pure pale flesh is visible. Dice small and steam or boil for 15 minutes until soft.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/steamed-tender-kohlrabi-peeled.json"
+    },
+    {
       "id": "summit-pizza-co-bear-lake-gluten-free-cheese-pizza",
       "name": "Summit Pizza Co. (Garden City & Logan, UT) Gluten-Free Crust Plain Cheese Pizza",
       "categoryFolder": "italian-med",
@@ -33616,6 +34398,43 @@
       "whyItWorks": "Tender beef chuck roast slow-braised until fork-tender and served in savory brown beef gravy over smooth mashed potatoes. Low in fiber and highly comforting.",
       "prepOrOrderInstructions": "Ask for extra tender meat and smooth mashed potatoes with light brown gravy. Skip whole baby carrots or green beans if adhering to strict low-residue.",
       "_sourcePath": "src/data/items/dinner/black-bear-diner-american-fork-slow-cooked-pot-roast.json"
+    },
+    {
+      "id": "canned-quartered-artichoke-hearts-in-water",
+      "name": "Canned Quartered Artichoke Hearts (In Water, Well-Rinsed)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Reese / Progresso / Grocery",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "canned",
+        "produce",
+        "pantry",
+        "artichoke",
+        "low-fat",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "canned artichoke hearts",
+        "artichoke hearts water",
+        "rinsed artichoke hearts"
+      ],
+      "whyItWorks": "Tender, soft inner artichoke hearts packed in water and sea salt. Unlike spiny outer whole artichoke leaves which can lodge in strictures, the canned heart is soft and chewable when rinsed.",
+      "prepOrOrderInstructions": "Drain and rinse hearts thoroughly under cold water. Inspect each piece and discard any stray tough outer leaf layers before tossing into salads or warm dishes.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/canned-quartered-artichoke-hearts-in-water.json"
     },
     {
       "id": "chick-fil-a-grilled-chicken-sandwich-plain",
@@ -36525,6 +37344,42 @@
       "prepOrOrderInstructions": "Warm in a 400°F oven for 2 minutes or skillet-warm with a tiny touch of butter.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/dinner/stonefire-original-naan-flatbread.json"
+    },
+    {
+      "id": "tender-braised-baby-leeks",
+      "name": "Tender Braised Baby Leeks (White & Light Green Only)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+      "crohnsScore": 8.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 2,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "braised",
+        "french",
+        "vegetable",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "braised leeks tender",
+        "cooked leek whites",
+        "soft leeks crohns remission"
+      ],
+      "whyItWorks": "Young leeks trimmed of tough dark green tops, gently braised in mild chicken broth until meltingly soft. Mild, sweet allium flavor with softened soluble fibers.",
+      "prepOrOrderInstructions": "Trim root base and discard all tough dark green foliage. Split white stalk lengthwise, rinse silt thoroughly, and simmer in broth with olive oil covered for 20 minutes.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/tender-braised-baby-leeks.json"
     },
     {
       "id": "dcl-room-service-steak-panini",
@@ -40800,6 +41655,42 @@
         "Skip whole-wheat, unfrosted high-fiber, or nutty toaster pastries"
       ],
       "_sourcePath": "src/data/items/breakfast/standard-pop-tarts.json"
+    },
+    {
+      "id": "steamed-water-chestnuts-canned-sliced",
+      "name": "Steamed Water Chestnuts (Canned Slices, Simmered Tender)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Dynasty / Geisha / Grocery",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Chinese",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "produce",
+        "canned",
+        "asian",
+        "vegetable",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "canned water chestnuts",
+        "sliced water chestnuts",
+        "simmered water chestnuts"
+      ],
+      "whyItWorks": "Peeled canned water chestnuts sliced and simmered in broth or soup. While crisp, their cellular structure retains water and softens with prolonged simmering; chew carefully.",
+      "prepOrOrderInstructions": "Rinse canned slices thoroughly under running water. Simmer in soup broth or stir-fry sauce for 10 minutes to heat through and soften.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/steamed-water-chestnuts-canned-sliced.json"
     },
     {
       "id": "subway-tuna-salad-sub-plain",
@@ -76445,6 +77336,44 @@
       "_sourcePath": "src/data/items/produce-sides/merrytime-carrot-beet-orange-salad.json"
     },
     {
+      "id": "raw-baby-carrots-whole-crunch-warning",
+      "name": "WARNING: Raw Whole Baby Carrots (Insoluble Crunch & Stricture Risk)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Snack Warning",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "snack",
+        "raw-crunch",
+        "stricture-hazard",
+        "roughage",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "raw baby carrots warning",
+        "crunchy carrots stricture risk",
+        "raw carrots ibd"
+      ],
+      "whyItWorks": "Dense, hard raw carrots served on party platters and lunchboxes. Even with extensive chewing, sharp jagged carrot fragments scrape inflamed ulcers and easily collect at ileocecal valve strictures.",
+      "prepOrOrderInstructions": "Never eat hard raw carrots during active inflammation or with strictures. Always steam, boil, or roast peeled carrots until fork-tender.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-baby-carrots-whole-crunch-warning.json"
+    },
+    {
       "id": "mortys-cafe-logan-asada-loaded-fries-warning",
       "name": "Asada Loaded Fries with Guacamole & Sour Cream",
       "categoryFolder": "lunch",
@@ -76777,6 +77706,43 @@
       "prepOrOrderInstructions": "AVOID during active IBD. Standard dark chocolate with real sugar is far gentler on digestion than fiber-doped chocolate.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/snacks-desserts/choczero-sugar-free-chocolate-warning.json"
+    },
+    {
+      "id": "raw-daikon-radish-crunch-warning",
+      "name": "WARNING: Raw Daikon Radish (Pickled or Fresh Shreds)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Asian Dining / Garnish Warning",
+      "crohnsScore": 3.3,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "radish",
+        "insoluble-fiber",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "raw daikon radish warning",
+        "shredded daikon sashimi garnish",
+        "pickled daikon ibd"
+      ],
+      "whyItWorks": "Raw grated or julienned daikon radish used as garnish under sashimi or in banh mi. Contains pungent allyl isothiocyanates that chemically stimulate GI motility and abrasive insoluble fiber that resists upper digestion.",
+      "prepOrOrderInstructions": "Push raw daikon garnish aside when dining on sushi or Asian dishes. Choose thoroughly simmered daikon from soups if well tolerated in remission.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-daikon-radish-crunch-warning.json"
     },
     {
       "id": "amys-organic-soups-light-in-sodium-lentil-warning",
@@ -77158,6 +78124,44 @@
       "prepOrOrderInstructions": "STRICTLY AVOID if you have bowel strictures, active inflammation, or an ostomy. Choose smooth Reese's Peanut Butter Cups or plain milk chocolate instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/snacks-desserts/snickers-original-candy-bar-warning.json"
+    },
+    {
+      "id": "raw-sugar-snap-peas-pod-warning",
+      "name": "WARNING: Raw Sugar Snap Peas & Fibrous Snow Pea Pods",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Warning",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "pods",
+        "fibrous-strings",
+        "stricture-risk",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "raw sugar snap peas warning",
+        "snow pea pod danger",
+        "pea pod string obstruction"
+      ],
+      "whyItWorks": "Raw snap peas and whole pea pods contain tough lateral strings and leathery outer parchment. Highly resistant to breakdown, posing significant mechanical risk across strictures and ileostomies.",
+      "prepOrOrderInstructions": "Avoid raw pea pods from party trays or salads. If eating peas, choose tender shelled sweet green peas simmered soft or pureed.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-sugar-snap-peas-pod-warning.json"
     },
     {
       "id": "zao-asian-cafe-draper-chili-dragon-sauce-warning",
@@ -78016,6 +79020,45 @@
       "_sourcePath": "src/data/items/snacks-desserts/triscuit-original-woven-wheat-hazard-warning.json"
     },
     {
+      "id": "raw-shallots-and-scallion-whites-warning",
+      "name": "WARNING: Raw Shallots & Scallion White Bulbs (Fructan Bomb)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Garnish Warning",
+      "crohnsScore": 2.9,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "allium",
+        "fodmap",
+        "fructan",
+        "gas-trigger",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "raw shallots warning",
+        "scallion white bulbs fructans",
+        "green onion white trigger"
+      ],
+      "whyItWorks": "Raw diced shallots and the white bulbous bases of green onions commonly sprinkled over dishes. Heavy concentration of fructans that undergo rapid colonic fermentation, producing severe bloating and urgency.",
+      "prepOrOrderInstructions": "Request 'no onions, shallots, or scallion whites' on restaurant dishes. The green leaf tops of scallions are low-FODMAP and much better tolerated.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-shallots-and-scallion-whites-warning.json"
+    },
+    {
       "id": "wendys-chili-crohns-warning",
       "name": "Wendy's Chili (WARNING)",
       "categoryFolder": "lunch",
@@ -78319,6 +79362,43 @@
       "prepOrOrderInstructions": "AVOID during active flares. Greens blends and raw inulin are among the most notorious IBD flare triggers.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/vega-one-all-in-one-shake-warning.json"
+    },
+    {
+      "id": "raw-asparagus-woody-spears-warning",
+      "name": "WARNING: Raw Asparagus Stalks & Fibrous Woody Bottoms",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Warning",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "woody-fiber",
+        "stricture-risk",
+        "roughage",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "raw asparagus warning",
+        "woody asparagus stalks",
+        "asparagus stricture hazard"
+      ],
+      "whyItWorks": "Raw asparagus spears and thick lower woody stems contain dense insoluble lignin and cellulose fibers. When raw, they resist stomach acid and can form an intractable phytobezoar stricture blockage.",
+      "prepOrOrderInstructions": "Never eat asparagus raw or crunchy. Snap off and discard tough woody bottoms; only eat tender tips if cooked until completely soft and pureed.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-asparagus-woody-spears-warning.json"
     },
     {
       "id": "wendys-spicy-chicken-sandwich-warning",
@@ -78629,6 +79709,44 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Raw green juices are not \"detoxifying\" for active bowel inflammation—they are high-residue mucosal abrasives.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/suja-organic-green-delight-cold-pressed-juice-warning.json"
+    },
+    {
+      "id": "raw-jicama-sticks-insoluble-fiber-warning",
+      "name": "WARNING: Raw Jicama Sticks (Woody Fiber & High Inulin/FOS)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Salad Warning",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5.9,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "prebiotic",
+        "inulin",
+        "gas-trigger",
+        "stricture-risk",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "raw jicama warning",
+        "jicama sticks gas bloating",
+        "jicama inulin danger"
+      ],
+      "whyItWorks": "Crispy Mexican turnip root served raw with lime and chili powder. Packed with indigestible woody cellulose and massive concentrations of inulin/fructooligosaccharides (FOS) that trigger severe gas distension and painful cramping.",
+      "prepOrOrderInstructions": "Pass on raw jicama sticks on party platters and salad bars. Choose peeled steamed peeled zucchini or cucumber flesh without seeds.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-jicama-sticks-insoluble-fiber-warning.json"
     },
     {
       "id": "sambal-oelek-ground-chili-paste-warning",
@@ -79193,6 +80311,45 @@
         "Emergency hospital obstruction risk: Undigested corn kernels lodge in narrowed intestinal strictures, requiring surgical intervention."
       ],
       "_sourcePath": "src/data/items/produce-sides/whole-sweet-corn-on-the-cob-warning.json"
+    },
+    {
+      "id": "raw-brussels-sprouts-shredded-slaw-warning",
+      "name": "WARNING: Raw Brussels Sprouts & Shredded Brussels Slaw",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Salad Bars / Restaurant Warning",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "cruciferous",
+        "insoluble-fiber",
+        "gas-trigger",
+        "roughage",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "shredded brussels sprout salad warning",
+        "raw brussels sprouts ibd",
+        "brussels slaw danger"
+      ],
+      "whyItWorks": "Dense, compact raw Brussels sprouts shredded into salads and slaws. Extremely high in insoluble woody cellulose and raffinose trisaccharide, causing violent intestinal gas, colonic spasms, and obstruction hazard.",
+      "prepOrOrderInstructions": "Strictly avoid all raw shredded Brussels sprouts salads and slaws. Substitute with well-cooked peeled root vegetables or steamed peeled squash.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-brussels-sprouts-shredded-slaw-warning.json"
     },
     {
       "id": "birds-eye-steamfresh-sweet-corn-warning",
@@ -80013,6 +81170,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/captains-gala-orange-almond-cake.json"
     },
     {
+      "id": "raw-collard-greens-tough-ribs-warning",
+      "name": "WARNING: Raw Collard Greens & Leathery Leaf Stems",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Warning",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "leathery-greens",
+        "roughage",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "raw collard greens warning",
+        "collard wrap danger ibd",
+        "tough greens stricture"
+      ],
+      "whyItWorks": "Raw collard greens used as raw wraps or chopped into salads. The thick leathery leaf structure and fibrous central spine pass virtually intact through human enzymes, behaving like coarse sandpaper on inflamed bowel mucosa.",
+      "prepOrOrderInstructions": "Never eat raw collard greens or raw green wraps. Only consume collards if stewed for hours until completely soft with tough stems removed.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-collard-greens-tough-ribs-warning.json"
+    },
+    {
       "id": "all-bran-buds-wheat-bran-warning",
       "name": "Kellogg's All-Bran Buds Cereal (17g Insoluble Bran WARNING)",
       "categoryFolder": "breakfast",
@@ -80124,6 +81318,82 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. One of the single most aggressive sausage triggers for Crohn's and Colitis.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/high-protein/mexican-pork-chorizo-sausage-warning.json"
+    },
+    {
+      "id": "raw-edamame-in-pod-fibrous-warning",
+      "name": "WARNING: Edamame Pod Outer Shell (Inedible Fibrous Pods)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Japanese Dining / Warning",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "japanese",
+        "obstruction-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "edamame pod warning",
+        "swallowed edamame shell danger",
+        "edamame outer skin blockage"
+      ],
+      "whyItWorks": "Soybean pods served steamed with sea salt. The outer hairy green pod is completely indigestible woody fiber meant to be discarded. Swallowing any part of the pod shell creates immediate acute bowel obstruction risk.",
+      "prepOrOrderInstructions": "Never chew or swallow the outer edamame pod shell. Pop the tender inner beans into your mouth and discard the fibrous hulls completely.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/raw-edamame-in-pod-fibrous-warning.json"
+    },
+    {
+      "id": "pickled-jalapeno-peppers-seeds-warning",
+      "name": "WARNING: Pickled Sliced Jalapeño Peppers (Capsaicin & Seeds)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Condiments / Mexican Warning",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "capsaicin",
+        "spicy",
+        "seeds",
+        "gut-irritant",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "pickled jalapenos warning",
+        "jalapeno seeds ibd flare",
+        "spicy peppers colitis hazard"
+      ],
+      "whyItWorks": "Pickled jalapeño wheels with hard internal seeds and acidic vinegar brine. Capsaicin activates TRPV1 pain receptors on inflamed intestinal mucosa, triggering hyper-motility, burning diarrhea, and ulcer flare-ups.",
+      "prepOrOrderInstructions": "Strictly avoid pickled jalapeños, chili peppers, and spicy garnishes on tacos, nachos, and sandwiches. Ask for completely mild preparations.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/pickled-jalapeno-peppers-seeds-warning.json"
     },
     {
       "id": "cheetos-flamin-hot-crunchy-warning",
@@ -80356,6 +81626,41 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Zero tolerance food for inflammatory bowel disease.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/snacks-desserts/takis-fuego-rolled-tortilla-chips-warning.json"
+    },
+    {
+      "id": "whole-globe-artichoke-leaves-warning",
+      "name": "WARNING: Whole Globe Artichoke Leaves & Spiny Tips",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fresh Produce / Restaurant Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 6.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "produce",
+        "stricture-risk",
+        "choke-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "globe artichoke leaves warning",
+        "artichoke bract hazard",
+        "artichoke stricture risk"
+      ],
+      "whyItWorks": "Whole steamed globe artichokes where diners scrape the bottom flesh of thick fibrous outer bracts. Inadvertently swallowing whole leaves or spiny tips can directly wedge into an intestinal narrowing.",
+      "prepOrOrderInstructions": "Strictly avoid whole globe artichokes if you have known intestinal strictures or an ileostomy. Choose canned tender artichoke hearts only.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/whole-globe-artichoke-leaves-warning.json"
     },
     {
       "id": "raw-oysters-on-the-half-shell-warning",

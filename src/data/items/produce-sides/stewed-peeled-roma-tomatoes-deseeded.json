@@ -1,0 +1,36 @@
+{
+  "id": "stewed-peeled-roma-tomatoes-deseeded",
+  "name": "Stewed Roma Tomatoes (Peeled & Deseeded, Low-Acid Simmer)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Home Kitchen",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "produce",
+    "tomato",
+    "sauce",
+    "peeled",
+    "italian",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "stewed peeled tomatoes",
+    "deseeded roma tomatoes",
+    "seedless tomato compote"
+  ],
+  "whyItWorks": "Plum tomatoes blanched to remove tough waxy skin, halved to scoop out all small abrasive seeds, and gently simmered into a mild tomato compote. Dramatically gentler than standard raw whole tomatoes.",
+  "prepOrOrderInstructions": "Drop tomatoes in boiling water for 45 seconds to slip skins off. Cut in half and squeeze out all seeds and watery gel. Simmer flesh in olive oil with salt for 15 minutes.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "whole-globe-artichoke-leaves-warning",
+  "name": "WARNING: Whole Globe Artichoke Leaves & Spiny Tips",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fresh Produce / Restaurant Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "produce",
+    "stricture-risk",
+    "choke-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "globe artichoke leaves warning",
+    "artichoke bract hazard",
+    "artichoke stricture risk"
+  ],
+  "whyItWorks": "Whole steamed globe artichokes where diners scrape the bottom flesh of thick fibrous outer bracts. Inadvertently swallowing whole leaves or spiny tips can directly wedge into an intestinal narrowing.",
+  "prepOrOrderInstructions": "Strictly avoid whole globe artichokes if you have known intestinal strictures or an ileostomy. Choose canned tender artichoke hearts only.",
+  "safetyTier": "danger-zone"
+}
