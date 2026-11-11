@@ -1,0 +1,35 @@
+{
+  "id": "b-and-m-baked-beans-with-pork-warning",
+  "name": "B&M Baked Beans with Pork & Molasses (WARNING)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "B&M / B&G Foods",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "brick-oven-baked-beans",
+    "molasses",
+    "pork-fat",
+    "severe-cramping"
+  ],
+  "searchKeywords": [
+    "b and m baked beans",
+    "molasses baked beans warning",
+    "pork and beans danger"
+  ],
+  "whyItWorks": "Slow-baked in brick ovens with thick molasses, pork, and whole pea beans. Heavy sugars and dense bean skins guarantee severe digestive distress.",
+  "prepOrOrderInstructions": "STRICTLY AVOID during flares or remission.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "progresso-traditional-chicken-rice-soup",
+  "name": "Progresso Traditional Chicken & Wild Rice Soup (Gentle Broth)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Progresso / General Mills",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken-rice-soup",
+    "gluten-free",
+    "white-chicken-meat",
+    "clear-broth",
+    "pantry-staple"
+  ],
+  "searchKeywords": [
+    "progresso chicken rice",
+    "canned chicken and rice soup",
+    "gluten free canned soup"
+  ],
+  "whyItWorks": "Tender white meat chicken, wild and white rice, celery, and carrots in a golden chicken broth. Certified gluten-free, dairy-free, and contains only 1g fiber per cup.",
+  "prepOrOrderInstructions": "Heat in a saucepan over medium heat for 3–4 minutes until warm. A reliable canned soup for quick lunches.",
+  "safetyTier": "low-risk"
+}

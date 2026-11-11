@@ -1,0 +1,35 @@
+{
+  "id": "hunts-100-percent-natural-tomato-sauce-no-salt",
+  "name": "Hunt's 100% Natural Tomato Sauce (No Salt Added)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Hunt's / Conagra",
+  "crohnsScore": 7.6,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "tomato-sauce",
+    "seedless-puree",
+    "no-salt-added",
+    "cooking-base",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "hunts tomato sauce",
+    "no salt tomato sauce",
+    "smooth canned tomato sauce"
+  ],
+  "whyItWorks": "Pure vine-ripened tomatoes strained into a smooth puree without seeds or skins, containing zero added salt or garlic chunks. Suitable as a light cooking base during remission.",
+  "prepOrOrderInstructions": "Dilute with broth or olive oil when simmering over pasta or polenta.",
+  "safetyTier": "low-risk"
+}

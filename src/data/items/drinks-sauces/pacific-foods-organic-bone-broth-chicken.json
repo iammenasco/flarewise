@@ -1,0 +1,39 @@
+{
+  "id": "pacific-foods-organic-bone-broth-chicken",
+  "name": "Pacific Foods Organic Chicken Bone Broth (Unsalted / Original)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pacific Foods",
+  "crohnsScore": 9.7,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken-bone-broth",
+    "9g-collagen-protein",
+    "zero-fiber",
+    "zero-fat",
+    "gut-mucosa-repair",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "pacific foods bone broth",
+    "organic chicken bone broth",
+    "collagen broth",
+    "healing broth crohns"
+  ],
+  "whyItWorks": "Slowly simmered with organic chicken bones, water, and apple cider vinegar to extract 9g of pure collagen, glycine, and proline protein per cup. Contains 0g fiber, 0g fat, 0g carbs, and zero allium pieces. The ultimate gut mucosal repair base.",
+  "prepOrOrderInstructions": "Pour into a mug, heat on stovetop or microwave for 90 seconds, and sip warm. The ideal liquid for cooking white rice or egg noodles.",
+  "safetyTier": "flare-safe"
+}

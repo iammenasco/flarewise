@@ -1,0 +1,35 @@
+{
+  "id": "progresso-traditional-manhattan-clam-chowder-warning",
+  "name": "Progresso Manhattan Clam Chowder (Tomato Acid WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Progresso / General Mills",
+  "crohnsScore": 5.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "tomato-acidity",
+    "chewy-clams",
+    "bell-peppers",
+    "acid-reflux-trigger"
+  ],
+  "searchKeywords": [
+    "manhattan clam chowder warning",
+    "tomato clam chowder",
+    "chewy clam danger"
+  ],
+  "whyItWorks": "Tomato-broth base infused with diced bell peppers, celery, and rubbery, chewy clam pieces. The high titratable acid irritates the stomach while rubbery clams require excessive chewing.",
+  "prepOrOrderInstructions": "Choose mild Chicken Noodle or Chicken Rice soup instead.",
+  "safetyTier": "danger-zone"
+}

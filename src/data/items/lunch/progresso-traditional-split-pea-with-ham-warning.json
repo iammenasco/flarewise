@@ -1,0 +1,36 @@
+{
+  "id": "progresso-traditional-split-pea-with-ham-warning",
+  "name": "Progresso Traditional Split Pea with Ham Soup (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Progresso / General Mills",
+  "crohnsScore": 2.3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 11,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "split-peas",
+    "extreme-fiber-11g",
+    "oligosaccharide-bomb",
+    "severe-distention"
+  ],
+  "searchKeywords": [
+    "split pea soup warning",
+    "progresso split pea",
+    "split pea gas",
+    "11g fiber soup"
+  ],
+  "whyItWorks": "A massive 11g of dietary fiber per serving from cooked split green and yellow peas. The concentrated oligosaccharide load ferments rapidly in the colon, creating severe distention and painful tenesmus.",
+  "prepOrOrderInstructions": "STRICTLY AVOID during flares. Split peas are among the highest-fiber legumes in the grocery store.",
+  "safetyTier": "danger-zone"
+}

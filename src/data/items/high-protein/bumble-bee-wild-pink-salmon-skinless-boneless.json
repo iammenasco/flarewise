@@ -1,0 +1,35 @@
+{
+  "id": "bumble-bee-wild-pink-salmon-skinless-boneless",
+  "name": "Bumble Bee Wild Alaska Pink Salmon (Skinless & Boneless)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Bumble Bee",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "canned-salmon",
+    "skinless-boneless",
+    "wild-alaska-salmon",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "bumble bee salmon",
+    "skinless boneless pink salmon",
+    "wild canned salmon"
+  ],
+  "whyItWorks": "100% wild Alaskan pink salmon with skin and bones removed prior to packing. Delivers 28g protein and 1.5g omega-3s per can with zero prep or cooking required.",
+  "prepOrOrderInstructions": "Drain and mix with mayo and salt for a soothing salmon salad.",
+  "safetyTier": "flare-safe"
+}

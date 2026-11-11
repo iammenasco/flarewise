@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:02:07.037Z",
-  "itemCount": 1904,
+  "builtAt": "2026-11-11T20:04:29.494Z",
+  "itemCount": 1936,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1355,6 +1355,46 @@
       "_sourcePath": "src/data/items/drinks-sauces/neocate-splash-unflavored.json"
     },
     {
+      "id": "pacific-foods-organic-bone-broth-chicken",
+      "name": "Pacific Foods Organic Chicken Bone Broth (Unsalted / Original)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Pacific Foods",
+      "crohnsScore": 9.7,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "chicken-bone-broth",
+        "9g-collagen-protein",
+        "zero-fiber",
+        "zero-fat",
+        "gut-mucosa-repair",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "pacific foods bone broth",
+        "organic chicken bone broth",
+        "collagen broth",
+        "healing broth crohns"
+      ],
+      "whyItWorks": "Slowly simmered with organic chicken bones, water, and apple cider vinegar to extract 9g of pure collagen, glycine, and proline protein per cup. Contains 0g fiber, 0g fat, 0g carbs, and zero allium pieces. The ultimate gut mucosal repair base.",
+      "prepOrOrderInstructions": "Pour into a mug, heat on stovetop or microwave for 90 seconds, and sip warm. The ideal liquid for cooking white rice or egg noodles.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/pacific-foods-organic-bone-broth-chicken.json"
+    },
+    {
       "id": "pedialyte-classic-unflavored-solution",
       "name": "Pedialyte Classic Oral Electrolyte Solution",
       "categoryFolder": "drinks-sauces",
@@ -1643,6 +1683,45 @@
         "Contains wheat (gluten); choose Cream of Rice if co-diagnosed with celiac disease."
       ],
       "_sourcePath": "src/data/items/breakfast/nabisco-cream-of-wheat-original-farina.json"
+    },
+    {
+      "id": "kettle-and-fire-classic-chicken-bone-broth",
+      "name": "Kettle & Fire Classic Chicken Bone Broth (Carton)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Kettle & Fire",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "kettle-and-fire",
+        "slow-simmered-14-hours",
+        "10g-protein",
+        "collagen-rich",
+        "clean-ingredients"
+      ],
+      "searchKeywords": [
+        "kettle and fire chicken",
+        "artisan bone broth",
+        "high collagen broth",
+        "paleo broth"
+      ],
+      "whyItWorks": "Simmered for 14+ hours using marrow bones from free-range chickens. Rich in natural gelatin that coats the gastrointestinal tract, supporting tight junction barrier integrity.",
+      "prepOrOrderInstructions": "Heat until steaming. Enjoy as a warm, restorative mid-morning beverage.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/kettle-and-fire-classic-chicken-bone-broth.json"
     },
     {
       "id": "kirkland-rotisserie-chicken-hand-pulled-breast-meat",
@@ -3673,6 +3752,45 @@
       "_sourcePath": "src/data/items/high-protein/let-the-magic-begin-baked-salmon-jasmine-rice.json"
     },
     {
+      "id": "pacific-foods-organic-bone-broth-beef",
+      "name": "Pacific Foods Organic Beef Bone Broth",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Pacific Foods",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "beef-bone-broth",
+        "bovine-collagen",
+        "savory-warmth",
+        "zero-fiber",
+        "gut-soothing"
+      ],
+      "searchKeywords": [
+        "pacific beef bone broth",
+        "organic beef broth",
+        "rich bone broth",
+        "flare recovery soup"
+      ],
+      "whyItWorks": "Simmered organic beef bones delivering bioavailable gelatin and amino acids that soothe raw intestinal mucosa. Zero dairy, zero fat, and zero residue.",
+      "prepOrOrderInstructions": "Warm in a small pot with a pinch of sea salt. Sip slowly between meals.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/pacific-foods-organic-bone-broth-beef.json"
+    },
+    {
       "id": "pan-seared-salmon-cheddar-polenta",
       "name": "Pan-Seared Salmon & Cheddar Polenta (or Grits)",
       "categoryFolder": "dinner",
@@ -4436,6 +4554,80 @@
       "_sourcePath": "src/data/items/breakfast/pure-grade-a-maple-syrup.json"
     },
     {
+      "id": "bumble-bee-solid-white-albacore-tuna-water",
+      "name": "Bumble Bee Solid White Albacore Tuna in Water",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Bumble Bee",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "albacore-tuna",
+        "solid-white",
+        "in-water",
+        "lean-protein",
+        "omega-3",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "bumble bee tuna",
+        "solid white albacore",
+        "canned tuna in water",
+        "safe protein can"
+      ],
+      "whyItWorks": "Solid white wild albacore tuna steaks packed in water and sea salt. Contains 32g of pure protein per can with under 1g fat, zero carbs, and zero fiber. Provides gentle marine protein that does not demand heavy bile acids.",
+      "prepOrOrderInstructions": "Drain water and flake with a fork. Mix with mayonnaise and serve on soft white bread or crackers.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/bumble-bee-solid-white-albacore-tuna-water.json"
+    },
+    {
+      "id": "bumble-bee-wild-pink-salmon-skinless-boneless",
+      "name": "Bumble Bee Wild Alaska Pink Salmon (Skinless & Boneless)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Bumble Bee",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "canned-salmon",
+        "skinless-boneless",
+        "wild-alaska-salmon",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "bumble bee salmon",
+        "skinless boneless pink salmon",
+        "wild canned salmon"
+      ],
+      "whyItWorks": "100% wild Alaskan pink salmon with skin and bones removed prior to packing. Delivers 28g protein and 1.5g omega-3s per can with zero prep or cooking required.",
+      "prepOrOrderInstructions": "Drain and mix with mayo and salt for a soothing salmon salad.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/bumble-bee-wild-pink-salmon-skinless-boneless.json"
+    },
+    {
       "id": "bumble-bee-wild-pink-salmon-in-water",
       "name": "Bumble Bee Wild Pink Salmon in Water (Skinless & Boneless)",
       "categoryFolder": "high-protein",
@@ -5162,6 +5354,43 @@
         "Must be cooked until thoroughly soft; never eat raw or crunchy carrots during an active flare."
       ],
       "_sourcePath": "src/data/items/produce-sides/steamed-tender-baby-carrots.json"
+    },
+    {
+      "id": "swanson-sipping-bone-broth-chicken-ginger-turmeric",
+      "name": "Swanson Sipping Bone Broth (Chicken with Ginger & Turmeric)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Campbell's / Swanson",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sipping-bone-broth",
+        "turmeric-ginger",
+        "microwave-cup",
+        "zero-fiber",
+        "travel-warmth"
+      ],
+      "searchKeywords": [
+        "swanson sipping broth",
+        "chicken ginger turmeric broth",
+        "microwavable bone broth cup"
+      ],
+      "whyItWorks": "Pre-packaged microwavable sipping cup delivering 8g collagen protein with anti-inflammatory turmeric and ginger. 100% liquid with zero fiber or solid chunks; perfect for travel and desk warming.",
+      "prepOrOrderInstructions": "Peel off foil seal, replace sipping lid, microwave for 1 minute, and sip warm.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/swanson-sipping-bone-broth-chicken-ginger-turmeric.json"
     },
     {
       "id": "towneplace-suites-draper-hard-boiled-eggs",
@@ -6297,6 +6526,79 @@
       "_sourcePath": "src/data/items/snacks-desserts/snyders-mini-salted-pretzels.json"
     },
     {
+      "id": "starkist-chunk-light-tuna-in-water-pouch",
+      "name": "StarKist Chunk Light Tuna in Water (Single-Serve Pouch)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "StarKist",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "tuna-pouch",
+        "chunk-light-tuna",
+        "no-draining-required",
+        "travel-protein",
+        "low-fat"
+      ],
+      "searchKeywords": [
+        "starkist tuna pouch",
+        "tear open tuna",
+        "travel protein crohns",
+        "skipjack tuna"
+      ],
+      "whyItWorks": "Single-serve, tear-open pouch requiring zero can opener and zero draining. Made from wild skipjack tuna with lower mercury levels and softer flakes than solid steaks.",
+      "prepOrOrderInstructions": "Tear open and eat straight from the pouch or empty over soft white rice.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/starkist-chunk-light-tuna-in-water-pouch.json"
+    },
+    {
+      "id": "swanson-premium-white-chunk-chicken-breast",
+      "name": "Swanson Premium White Chunk Chicken Breast in Water",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Campbell's / Swanson",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "canned-chicken-breast",
+        "white-meat",
+        "pre-cooked",
+        "zero-fiber",
+        "flare-safe-poultry"
+      ],
+      "searchKeywords": [
+        "swanson canned chicken",
+        "white chunk chicken breast",
+        "canned poultry safe"
+      ],
+      "whyItWorks": "Fully cooked 98% fat-free chicken breast chunks packed in water and chicken broth. Incredibly tender, easy to shred, and ready to stir into warm soups or chicken salad.",
+      "prepOrOrderInstructions": "Drain water and stir chicken chunks into hot chicken broth or white rice.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/swanson-premium-white-chunk-chicken-breast.json"
+    },
+    {
       "id": "takara-sushi-logan-grilled-hamachi-kama",
       "name": "Takara Sushi (Logan, UT) Grilled Yellowtail Collar (Hamachi Kama) & White Rice",
       "categoryFolder": "asian-indian",
@@ -6628,6 +6930,44 @@
       "_sourcePath": "src/data/items/lunch/dca-aunt-cass-boudin-sourdough-bread-bowl.json"
     },
     {
+      "id": "del-monte-canned-cut-potatoes-in-water",
+      "name": "Del Monte Canned Diced Potatoes in Water & Sea Salt",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Del Monte",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "canned-potatoes",
+        "peeled-potatoes",
+        "fork-tender",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "del monte canned potatoes",
+        "canned diced potatoes",
+        "peeled potatoes in can",
+        "safe starch can"
+      ],
+      "whyItWorks": "Idaho russet potatoes peeled with 100% of skins removed, diced and cooked tender in water. Gentle pure starch that warms in 2 minutes, ready to mash or simmer in broth.",
+      "prepOrOrderInstructions": "Drain, rinse, and heat in a saucepan with chicken bone broth and a touch of butter.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/del-monte-canned-cut-potatoes-in-water.json"
+    },
+    {
       "id": "ensure-clear-nutrition-drink",
       "name": "Ensure Clear Mixed Berry Nutrition Drink",
       "categoryFolder": "drinks-sauces",
@@ -6825,6 +7165,42 @@
         "Discard the included lemon wedges (citrus trigger) and avoid heavy horseradish-chili cocktail sauce"
       ],
       "_sourcePath": "src/data/items/dinner/holiday-chilled-shrimp-cocktail-ring.json"
+    },
+    {
+      "id": "imagine-organic-free-range-chicken-broth",
+      "name": "Imagine Organic Free-Range Chicken Broth (Cooking Stock)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Imagine Foods / Hain Celestial",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "cooking-broth",
+        "organic-chicken",
+        "gluten-free",
+        "fat-free",
+        "light-flavor"
+      ],
+      "searchKeywords": [
+        "imagine chicken broth",
+        "organic free range broth",
+        "cooking stock safe"
+      ],
+      "whyItWorks": "Certified organic, gluten-free, fat-free clear chicken cooking broth. Light and gentle with zero heavy garlic or onion sediment.",
+      "prepOrOrderInstructions": "Use as the liquid for boiling white jasmine rice, pasta, or softening potatoes.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/imagine-organic-free-range-chicken-broth.json"
     },
     {
       "id": "keebler-club-crackers-original",
@@ -7641,6 +8017,44 @@
       "_sourcePath": "src/data/items/produce-sides/vita-coco-pure-coconut-water.json"
     },
     {
+      "id": "amys-organic-butternut-squash-soup",
+      "name": "Amy's Organic Butternut Squash Soup (Silky Puree)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Amy's Kitchen",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "butternut-squash-soup",
+        "organic-puree",
+        "dairy-free",
+        "gluten-free",
+        "seedless",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "amys butternut squash",
+        "pureed squash soup",
+        "dairy free vegetable soup",
+        "canned gentle soup"
+      ],
+      "whyItWorks": "Pureed smooth with organic butternut squash, carrots, and light ginger without cream, butter, or seeds. The silky texture delivers soothing potassium and soluble beta-carotene without mechanical friction.",
+      "prepOrOrderInstructions": "Warm in a saucepan. Pairs gently with a slice of toasted sourdough.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/amys-organic-butternut-squash-soup.json"
+    },
+    {
       "id": "disneyland-castle-inn-anaheim-harbor-blvd-panera-ihop-safety-net",
       "name": "Anaheim Harbor Blvd (Across from Disneyland Main Entrance) Panera Bread Chicken Noodle Soup, Sourdough & IHOP Pancakes/Eggs",
       "categoryFolder": "lunch",
@@ -8185,6 +8599,43 @@
         "Completely hull-free; safe for strictures unlike whole sweet corn."
       ],
       "_sourcePath": "src/data/items/breakfast/kelloggs-corn-flakes-original.json"
+    },
+    {
+      "id": "kitchen-basics-original-beef-bone-broth",
+      "name": "Kitchen Basics Original Beef Bone Broth",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "McCormick / Kitchen Basics",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "beef-bone-broth",
+        "heart-check-certified",
+        "10g-protein",
+        "gluten-free",
+        "pantry-stock"
+      ],
+      "searchKeywords": [
+        "kitchen basics beef broth",
+        "beef bone stock",
+        "cooking bone broth"
+      ],
+      "whyItWorks": "Slow-simmered beef bones, vegetables, and herbs strained completely clear. Delivers 10g protein per cup with 0g fat and 0g fiber.",
+      "prepOrOrderInstructions": "Warm in a saucepan and use for gentle beef stew bases or drink directly.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/kitchen-basics-original-beef-bone-broth.json"
     },
     {
       "id": "kraft-grated-parmesan-cheese",
@@ -14459,6 +14910,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/baked-parmesan-crisps-whisps.json"
     },
     {
+      "id": "wild-planet-wild-pacific-sardines-in-water",
+      "name": "Wild Planet Wild Pacific Sardines in Water with Sea Salt",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Wild Planet",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "wild-sardines",
+        "skinless-boneless",
+        "omega-3-fatty-acids",
+        "anti-inflammatory",
+        "marine-protein"
+      ],
+      "searchKeywords": [
+        "wild planet sardines",
+        "sardines in water",
+        "anti inflammatory fish",
+        "canned fish crohns"
+      ],
+      "whyItWorks": "Sustainably wild-caught Pacific sardines, scale-free, packed in water and sea salt. Exceptional source of natural EPA and DHA omega-3 fatty acids, which downregulate systemic intestinal inflammation.",
+      "prepOrOrderInstructions": "Mash onto plain toast or enjoy alongside soft scrambled eggs.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/wild-planet-wild-pacific-sardines-in-water.json"
+    },
+    {
       "id": "wildfin-american-grill-riverton-seared-halibut-rice",
       "name": "WildFin Pan-Seared Pacific Halibut with Jasmine Rice",
       "categoryFolder": "dinner",
@@ -14737,6 +15225,42 @@
       "prepOrOrderInstructions": "Slice and toast in a toaster oven for 3 minutes until crisp on the edges.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/breakfast/canyon-bakehouse-gluten-free-plain-bagels.json"
+    },
+    {
+      "id": "crown-prince-skinless-boneless-sardines-olive-oil",
+      "name": "Crown Prince Skinless & Boneless Sardines in Pure Olive Oil",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Crown Prince",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "skinless-boneless-sardines",
+        "olive-oil",
+        "pure-fish-fillets",
+        "low-residue",
+        "healthy-fats"
+      ],
+      "searchKeywords": [
+        "crown prince sardines",
+        "skinless boneless sardines",
+        "sardines in olive oil"
+      ],
+      "whyItWorks": "Hand-filleted sardines with skin and bones completely removed, packed in pure cold-pressed olive oil. Extremely tender with zero tough bones or scales.",
+      "prepOrOrderInstructions": "Fork-mash and serve over warm rice or mashed potatoes.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/high-protein/crown-prince-skinless-boneless-sardines-olive-oil.json"
     },
     {
       "id": "dca-bayside-brews-warm-bavarian-pretzel",
@@ -16082,6 +16606,80 @@
         "100% pure green beans without added butter sauces or alliums."
       ],
       "_sourcePath": "src/data/items/frozen-aisle/birds-eye-steamfresh-cut-green-beans.json"
+    },
+    {
+      "id": "campbells-condensed-chicken-noodle-soup",
+      "name": "Campbell's Condensed Chicken Noodle Soup",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Campbell's",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "chicken-noodle-soup",
+        "canned-soup",
+        "egg-noodles",
+        "comfort-broth",
+        "flare-staple"
+      ],
+      "searchKeywords": [
+        "campbells chicken noodle",
+        "canned chicken noodle soup",
+        "classic chicken soup",
+        "comfort food flare"
+      ],
+      "whyItWorks": "A classic pantry lifesaver. Made with savory chicken broth, enriched egg noodles, and lean chicken meat with under 1g fiber. Diluting the condensed can with water creates a soothing, hydrating meal that is easy on inflamed intestines.",
+      "prepOrOrderInstructions": "Mix 1 can of soup with 1 can of warm water on the stovetop. Heat until simmering and let cool slightly before eating.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/campbells-condensed-chicken-noodle-soup.json"
+    },
+    {
+      "id": "campbells-well-yes-sipping-soup-sweet-potato",
+      "name": "Campbell's Well Yes! Sipping Soup Sweet Potato & Carrots",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Campbell's",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "sipping-soup",
+        "sweet-potato-puree",
+        "coconut-milk",
+        "dairy-free",
+        "travel-soup"
+      ],
+      "searchKeywords": [
+        "well yes sipping soup",
+        "sweet potato sipping soup",
+        "portable warm soup",
+        "on the go soup"
+      ],
+      "whyItWorks": "A smooth, drinkable puree of sweet potatoes, carrots, and coconut milk in a microwavable sipping cup. Dairy-free, seedless, and requires zero spoon or bowl when traveling.",
+      "prepOrOrderInstructions": "Remove lid, microwave cup for 1 minute, and sip warm.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/campbells-well-yes-sipping-soup-sweet-potato.json"
     },
     {
       "id": "cheez-it-original-baked-snack-crackers",
@@ -19353,6 +19951,42 @@
         "Omit whole corn kernels and peas during flareups"
       ],
       "_sourcePath": "src/data/items/dinner/holiday-leftover-turkey-shepherds-pie.json"
+    },
+    {
+      "id": "progresso-traditional-chicken-rice-soup",
+      "name": "Progresso Traditional Chicken & Wild Rice Soup (Gentle Broth)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Progresso / General Mills",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "chicken-rice-soup",
+        "gluten-free",
+        "white-chicken-meat",
+        "clear-broth",
+        "pantry-staple"
+      ],
+      "searchKeywords": [
+        "progresso chicken rice",
+        "canned chicken and rice soup",
+        "gluten free canned soup"
+      ],
+      "whyItWorks": "Tender white meat chicken, wild and white rice, celery, and carrots in a golden chicken broth. Certified gluten-free, dairy-free, and contains only 1g fiber per cup.",
+      "prepOrOrderInstructions": "Heat in a saucepan over medium heat for 3–4 minutes until warm. A reliable canned soup for quick lunches.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/progresso-traditional-chicken-rice-soup.json"
     },
     {
       "id": "ritz-crisp-and-thins-original",
@@ -28699,6 +29333,42 @@
         "Mild tomato sauce has slight acidity; order sauce light during sensitive phases"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/cafe-sabor-logan-garden-city-arroz-con-pollo.json"
+    },
+    {
+      "id": "campbells-condensed-cream-of-chicken-soup",
+      "name": "Campbell's Condensed Cream of Chicken Soup",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Campbell's",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "cream-of-chicken",
+        "smooth-soup",
+        "casserole-base",
+        "seedless",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "campbells cream of chicken",
+        "cream of chicken soup",
+        "smooth soup base"
+      ],
+      "whyItWorks": "Creamy chicken stock thickened with wheat flour, real cream, and tender chicken bites. Seed-free and low-residue; excellent mixed into steamed white rice for easy calories.",
+      "prepOrOrderInstructions": "Simmer with equal parts water or lactose-free milk. Take a lactase tablet if sensitive to dairy.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/campbells-condensed-cream-of-chicken-soup.json"
     },
     {
       "id": "holiday-christmas-morning-egg-sausage-french-toast-bake",
@@ -43623,6 +44293,42 @@
       "_sourcePath": "src/data/items/diner-bbq/angies-restaurant-logan-california-burger.json"
     },
     {
+      "id": "campbells-condensed-tomato-soup",
+      "name": "Campbell's Condensed Tomato Soup (Prepared with Water)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Campbell's",
+      "crohnsScore": 7.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "tomato-soup",
+        "pureed-soup",
+        "seedless",
+        "comfort-lunch",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "campbells tomato soup",
+        "condensed tomato soup",
+        "comfort food soup"
+      ],
+      "whyItWorks": "Smooth tomato paste blended with wheat flour and sugar without chunks, skins, or seeds. While tomato carries mild natural acidity, preparing with water or lactose-free milk creates a gentle comfort soup during remission.",
+      "prepOrOrderInstructions": "Dilute with 1 can of water on stovetop. Pair with a plain grilled white bread sandwich.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/campbells-condensed-tomato-soup.json"
+    },
+    {
       "id": "cheetos-crunchy-cheese-snacks",
       "name": "Cheetos Crunchy Cheese Flavored Snacks",
       "categoryFolder": "snacks-desserts",
@@ -46073,6 +46779,42 @@
       "whyItWorks": "Tender sliced deli ham served on plain griddled white bread provides gentle protein with low roughage. Swiss cheese is naturally very low in lactose, making this warm sandwich far gentler on Crohn's digestion than fatty burgers or fried items.",
       "prepOrOrderInstructions": "Ask for it lightly grilled without extra butter or margarine on the griddle. Skip mustard, pickles, or tomato if sensitive to acids.",
       "_sourcePath": "src/data/items/lunch/dans-drive-in-montpelier-hot-ham-and-swiss.json"
+    },
+    {
+      "id": "hunts-100-percent-natural-tomato-sauce-no-salt",
+      "name": "Hunt's 100% Natural Tomato Sauce (No Salt Added)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Hunt's / Conagra",
+      "crohnsScore": 7.6,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "tomato-sauce",
+        "seedless-puree",
+        "no-salt-added",
+        "cooking-base",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "hunts tomato sauce",
+        "no salt tomato sauce",
+        "smooth canned tomato sauce"
+      ],
+      "whyItWorks": "Pure vine-ripened tomatoes strained into a smooth puree without seeds or skins, containing zero added salt or garlic chunks. Suitable as a light cooking base during remission.",
+      "prepOrOrderInstructions": "Dilute with broth or olive oil when simmering over pasta or polenta.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/drinks-sauces/hunts-100-percent-natural-tomato-sauce-no-salt.json"
     },
     {
       "id": "just-bare-lightly-breaded-chicken-breast-chunks-costco",
@@ -62358,6 +63100,41 @@
       "_sourcePath": "src/data/items/mexican-southwest/plaza-de-coco-beef-birria-empanada.json"
     },
     {
+      "id": "contadina-pure-canned-tomato-paste",
+      "name": "Contadina Roma Tomato Paste (Concentrated Acid WARNING)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Contadina / Del Monte",
+      "crohnsScore": 6,
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "concentrated-acid",
+        "citric-acid",
+        "gastric-burning",
+        "reflux-trigger"
+      ],
+      "searchKeywords": [
+        "tomato paste warning",
+        "contadina tomato paste",
+        "acidic tomato paste"
+      ],
+      "whyItWorks": "Highly concentrated tomato solids and citric acid. The intense acid density can provoke sharp upper GI reflux, burning sensations, and direct irritation of inflamed mucosal tissue.",
+      "prepOrOrderInstructions": "Avoid heavy use in sauces during active flares. Dilute thoroughly with bone broth or choose pumpkin puree.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/contadina-pure-canned-tomato-paste.json"
+    },
+    {
       "id": "rapunzels-crisp-isle-of-corona-shrimp",
       "name": "Crisp Isle of Corona Fried Shrimp with Pea Purée (Lantern Night)",
       "categoryFolder": "dinner",
@@ -65009,6 +65786,42 @@
         "Pork sausage fat and tough casing"
       ],
       "_sourcePath": "src/data/items/dinner/periscope-pub-bangers-and-mash.json"
+    },
+    {
+      "id": "progresso-traditional-manhattan-clam-chowder-warning",
+      "name": "Progresso Manhattan Clam Chowder (Tomato Acid WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Progresso / General Mills",
+      "crohnsScore": 5.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "tomato-acidity",
+        "chewy-clams",
+        "bell-peppers",
+        "acid-reflux-trigger"
+      ],
+      "searchKeywords": [
+        "manhattan clam chowder warning",
+        "tomato clam chowder",
+        "chewy clam danger"
+      ],
+      "whyItWorks": "Tomato-broth base infused with diced bell peppers, celery, and rubbery, chewy clam pieces. The high titratable acid irritates the stomach while rubbery clams require excessive chewing.",
+      "prepOrOrderInstructions": "Choose mild Chicken Noodle or Chicken Rice soup instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/progresso-traditional-manhattan-clam-chowder-warning.json"
     },
     {
       "id": "plaza-de-coco-butternut-squash-enchilada",
@@ -67971,6 +68784,42 @@
       "_sourcePath": "src/data/items/snacks-desserts/labeaus-famous-fresh-raspberry-shake.json"
     },
     {
+      "id": "libbys-canned-sweet-peas-warning",
+      "name": "Libby's Sweet Peas in Water (Tough Pea Skins WARNING)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Libby's",
+      "crohnsScore": 5,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "canned-peas",
+        "pea-skins",
+        "galacto-oligosaccharides",
+        "bloating-trigger"
+      ],
+      "searchKeywords": [
+        "canned peas warning",
+        "sweet peas danger",
+        "pea skins crohns"
+      ],
+      "whyItWorks": "Whole canned green peas retain tough, fibrous outer skins and fermentable galacto-oligosaccharides (GOS). Whole pea skins resist digestion and accumulate in narrowed bowel segments.",
+      "prepOrOrderInstructions": "Avoid whole sweet peas during active disease. Canned green beans (Del Monte) are far gentler.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/libbys-canned-sweet-peas-warning.json"
+    },
+    {
       "id": "lindt-excellence-85-dark-chocolate-warning",
       "name": "Lindt Excellence 85% Cocoa Dark Chocolate (High Caffeine & Motility Warning)",
       "categoryFolder": "snacks-desserts",
@@ -69268,6 +70117,42 @@
       "whyItWorks": "Deep-fried thin shoestring potatoes tossed in minced raw garlic, chopped parsley, grated parmesan cheese, and served with spicy cajun remoulade. Raw alliums and deep-fry grease aggressively spark GI spasms.",
       "prepOrOrderInstructions": "Garlic & Fat Hazard: Best avoided. If craving fries, request plain fries without garlic, cheese, or dipping remoulade.",
       "_sourcePath": "src/data/items/produce-sides/disneyland-cafe-orleans-pommes-frites-warning.json"
+    },
+    {
+      "id": "progresso-vegetable-classics-hearty-tomato-warning",
+      "name": "Progresso Hearty Tomato Soup (Acidic Acid WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Progresso / General Mills",
+      "crohnsScore": 4.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "diced-tomatoes",
+        "tomato-skins",
+        "citric-acid",
+        "mucosal-burn"
+      ],
+      "searchKeywords": [
+        "progresso tomato soup warning",
+        "hearty tomato soup",
+        "chunky tomato soup danger"
+      ],
+      "whyItWorks": "Contains chunky diced tomatoes with intact skins and seeds suspended in concentrated tomato puree. The coarse skins and concentrated acidity can cause heartburn and intestinal burning in active IBD.",
+      "prepOrOrderInstructions": "Avoid chunky tomato soups. If craving tomato flavor, stick to smooth condensed soup well-diluted.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/progresso-vegetable-classics-hearty-tomato-warning.json"
     },
     {
       "id": "knotts-boardwalk-bbq-pulled-pork-warning",
@@ -70838,6 +71723,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/knotts-ghost-town-grub-fried-treats-warning.json"
     },
     {
+      "id": "libbys-canned-creamed-corn-warning",
+      "name": "Libby's Crispy Sweet Creamed Corn (Hull Shards WARNING)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Libby's",
+      "crohnsScore": 4.5,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "creamed-corn",
+        "corn-kernel-skins",
+        "stricture-irritant",
+        "insoluble-husk"
+      ],
+      "searchKeywords": [
+        "creamed corn warning",
+        "libbys creamed corn",
+        "corn skin shards",
+        "corn danger crohns"
+      ],
+      "whyItWorks": "While the milky corn starch liquid is soft, creamed corn is packed with thousands of shredded whole corn kernel hulls. The tough insoluble pericarp hulls pass through stomach acid undigested and can create a partial blockage in strictured ileum.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. If craving sweet corn flavor, choose smooth pureed corn chowder that has been strained through a fine-mesh sieve, or corn grits.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/libbys-canned-creamed-corn-warning.json"
+    },
+    {
       "id": "tianas-new-orleans-seafood-pepper-pot",
       "name": "New Orleans Seafood Pepper Pot & Gumbo (WARNING)",
       "categoryFolder": "dinner",
@@ -72172,6 +73094,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/pringles-sour-cream-and-onion-warning.json"
     },
     {
+      "id": "spam-classic-canned-meat-warning",
+      "name": "SPAM Classic Canned Pork & Ham (WARNING)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Hormel Foods",
+      "crohnsScore": 4.2,
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "high-saturated-fat-16g",
+        "sodium-nitrates",
+        "processed-pork",
+        "gastrocolic-spasms"
+      ],
+      "searchKeywords": [
+        "spam warning",
+        "canned meat danger",
+        "processed ham spam",
+        "greasy canned meat"
+      ],
+      "whyItWorks": "Contains mechanically processed pork shoulder and ham packed with 16g fat (6g saturated) and 790mg sodium per 2 oz slice. The extreme grease load and sodium nitrates provoke sharp biliary colic and rapid bowel dumping.",
+      "prepOrOrderInstructions": "AVOID during active disease. Lean canned chicken breast or water-packed tuna are infinitely safer.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/high-protein/spam-classic-canned-meat-warning.json"
+    },
+    {
       "id": "prune-juice-sorbitol-warning",
       "name": "Sunsweet 100% Prune Juice (High Osmotic Laxative Warning)",
       "categoryFolder": "produce-sides",
@@ -72535,6 +73494,44 @@
       "whyItWorks": "A massive mountain of country fried red potatoes, thick smoked bacon, sausage, melted cheddar-jack, diced avocados, and sour cream. Over 60g of heavy grease and dairy sparks severe gut motility and diarrhea.",
       "prepOrOrderInstructions": "High Fat & Grease Warning: Avoid breakfast skillets. Order 2 eggs scrambled soft with plain white toast instead.",
       "_sourcePath": "src/data/items/breakfast/black-bear-diner-american-fork-bacon-avocado-skillet-warning.json"
+    },
+    {
+      "id": "campbells-homestyle-new-england-clam-chowder-warning",
+      "name": "Campbell's Chunky New England Clam Chowder (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Campbell's",
+      "crohnsScore": 4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "heavy-cream",
+        "bacon-grease",
+        "clam-nectar",
+        "gallbladder-dumping",
+        "high-fat-10g"
+      ],
+      "searchKeywords": [
+        "clam chowder warning",
+        "campbells clam chowder",
+        "heavy cream soup diarrhea",
+        "clam chowder crohns"
+      ],
+      "whyItWorks": "Packed with heavy dairy cream, pork lardons/bacon fat, clams, and high sodium. The heavy emulsion of dairy and pork grease triggers an aggressive gastrocolic reflex, leading to immediate urgency and loose stools.",
+      "prepOrOrderInstructions": "AVOID during active inflammation. Broth-based soups are far safer than cream-based chowders.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/campbells-homestyle-new-england-clam-chowder-warning.json"
     },
     {
       "id": "costa-vida-sweet-pork-salad-enchilada-warning",
@@ -74793,6 +75790,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/choczero-sugar-free-chocolate-warning.json"
     },
     {
+      "id": "amys-organic-soups-light-in-sodium-lentil-warning",
+      "name": "Amy's Organic Lentil Soup Light in Sodium (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Amy's Kitchen",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "brown-lentils",
+        "high-fiber-8g",
+        "prebiotic-oligosaccharides",
+        "gas-trap"
+      ],
+      "searchKeywords": [
+        "amys lentil soup warning",
+        "lentil soup danger",
+        "high fiber soup bloating",
+        "lentils crohns"
+      ],
+      "whyItWorks": "Contains whole brown lentils with tough outer skins, simmered with diced onions, celery, and garlic. Packed with 8g of fermentable fiber per cup, triggering intense colonic gas, loud rumbling, and painful cramps.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Legume soups are major gas traps for Crohn's and Colitis patients.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/amys-organic-soups-light-in-sodium-lentil-warning.json"
+    },
+    {
       "id": "doritos-nacho-cheese-warning",
       "name": "Doritos Nacho Cheese Flavored Tortilla Chips (WARNING)",
       "categoryFolder": "snacks-desserts",
@@ -76735,6 +77769,43 @@
       "_sourcePath": "src/data/items/drinks-sauces/olipop-vintage-cola-prebiotic-soda-warning.json"
     },
     {
+      "id": "progresso-traditional-split-pea-with-ham-warning",
+      "name": "Progresso Traditional Split Pea with Ham Soup (WARNING)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Progresso / General Mills",
+      "crohnsScore": 2.3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 11,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "split-peas",
+        "extreme-fiber-11g",
+        "oligosaccharide-bomb",
+        "severe-distention"
+      ],
+      "searchKeywords": [
+        "split pea soup warning",
+        "progresso split pea",
+        "split pea gas",
+        "11g fiber soup"
+      ],
+      "whyItWorks": "A massive 11g of dietary fiber per serving from cooked split green and yellow peas. The concentrated oligosaccharide load ferments rapidly in the colon, creating severe distention and painful tenesmus.",
+      "prepOrOrderInstructions": "STRICTLY AVOID during flares. Split peas are among the highest-fiber legumes in the grocery store.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/progresso-traditional-split-pea-with-ham-warning.json"
+    },
+    {
       "id": "snyders-jalapeno-pretzel-pieces-warning",
       "name": "Snyder's of Hanover Jalapeño Pretzel Pieces (WARNING)",
       "categoryFolder": "snacks-desserts",
@@ -76840,6 +77911,42 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. One of the most notorious grocery trap items for Crohn's and Colitis patients. Always choose regular Mission Super Soft white tortillas instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/lunch/mission-carb-balance-flour-tortillas-warning.json"
+    },
+    {
+      "id": "old-el-paso-traditional-refried-beans-warning",
+      "name": "Old El Paso Traditional Refried Beans (WARNING)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Old El Paso / General Mills",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "refried-beans",
+        "pinto-bean-skins",
+        "lard",
+        "gas-distention"
+      ],
+      "searchKeywords": [
+        "old el paso refried beans",
+        "refried beans warning",
+        "canned pinto beans danger"
+      ],
+      "whyItWorks": "Pinto beans mashed with lard, salt, and onion powder. High in indigestible oligosaccharide fructans and bean skins that produce severe colonic fermentation and painful gas spasms.",
+      "prepOrOrderInstructions": "AVOID. For Mexican night, enjoy plain white rice and shredded chicken in soft flour tortillas.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/old-el-paso-traditional-refried-beans-warning.json"
     },
     {
       "id": "skinny-pop-popcorn-warning",
@@ -77033,6 +78140,44 @@
         "Primary cause of food-induced small bowel impaction requiring emergency hospital intervention."
       ],
       "_sourcePath": "src/data/items/frozen-aisle/birds-eye-steamfresh-sweet-corn-warning.json"
+    },
+    {
+      "id": "bushs-original-baked-beans-warning",
+      "name": "Bush's Original Baked Beans (Extreme Gas WARNING)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Bush's Best",
+      "crohnsScore": 2.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "baked-beans",
+        "navy-beans",
+        "raffinose-stachyose",
+        "gas-explosion",
+        "stricture-hazard"
+      ],
+      "searchKeywords": [
+        "bushs baked beans warning",
+        "baked beans danger",
+        "navy beans gas",
+        "beans crohns flare"
+      ],
+      "whyItWorks": "Made from whole navy beans simmered in brown sugar and bacon sauce. Packed with prebiotic raffinose and stachyose oligosaccharides that ferment rapidly in the colon, generating immense gas pressure, painful cramping, and diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. One of the single worst flare trigger foods in the grocery store.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/bushs-original-baked-beans-warning.json"
     },
     {
       "id": "daves-killer-bread-21-whole-grains-seeds-warning",
@@ -77299,6 +78444,42 @@
       "whyItWorks": "Served in an actual miniature kitchen sink with 6 giant scoops of ice cream, 3 toppings, bananas, whole crushed nuts, whipped cream, and cherries. It represents a massive barrage of lactose, sugar, nuts, and fat.",
       "prepOrOrderInstructions": "Severe Flare Hazard: Do not attempt under any circumstances if you have Crohn's disease or ulcerative colitis. Severe cramping, obstruction risk from nuts, and diarrhea will follow.",
       "_sourcePath": "src/data/items/snacks-desserts/angies-restaurant-logan-clean-the-sink-warning.json"
+    },
+    {
+      "id": "b-and-m-baked-beans-with-pork-warning",
+      "name": "B&M Baked Beans with Pork & Molasses (WARNING)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "B&M / B&G Foods",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "brick-oven-baked-beans",
+        "molasses",
+        "pork-fat",
+        "severe-cramping"
+      ],
+      "searchKeywords": [
+        "b and m baked beans",
+        "molasses baked beans warning",
+        "pork and beans danger"
+      ],
+      "whyItWorks": "Slow-baked in brick ovens with thick molasses, pork, and whole pea beans. Heavy sugars and dense bean skins guarantee severe digestive distress.",
+      "prepOrOrderInstructions": "STRICTLY AVOID during flares or remission.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/b-and-m-baked-beans-with-pork-warning.json"
     },
     {
       "id": "jade-cricket-heihei-wellness-juices",

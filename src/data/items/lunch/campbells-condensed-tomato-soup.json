@@ -1,0 +1,35 @@
+{
+  "id": "campbells-condensed-tomato-soup",
+  "name": "Campbell's Condensed Tomato Soup (Prepared with Water)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Campbell's",
+  "crohnsScore": 7.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "tomato-soup",
+    "pureed-soup",
+    "seedless",
+    "comfort-lunch",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "campbells tomato soup",
+    "condensed tomato soup",
+    "comfort food soup"
+  ],
+  "whyItWorks": "Smooth tomato paste blended with wheat flour and sugar without chunks, skins, or seeds. While tomato carries mild natural acidity, preparing with water or lactose-free milk creates a gentle comfort soup during remission.",
+  "prepOrOrderInstructions": "Dilute with 1 can of water on stovetop. Pair with a plain grilled white bread sandwich.",
+  "safetyTier": "low-risk"
+}

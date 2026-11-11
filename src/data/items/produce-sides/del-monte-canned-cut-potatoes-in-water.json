@@ -1,0 +1,37 @@
+{
+  "id": "del-monte-canned-cut-potatoes-in-water",
+  "name": "Del Monte Canned Diced Potatoes in Water & Sea Salt",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Del Monte",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "canned-potatoes",
+    "peeled-potatoes",
+    "fork-tender",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "del monte canned potatoes",
+    "canned diced potatoes",
+    "peeled potatoes in can",
+    "safe starch can"
+  ],
+  "whyItWorks": "Idaho russet potatoes peeled with 100% of skins removed, diced and cooked tender in water. Gentle pure starch that warms in 2 minutes, ready to mash or simmer in broth.",
+  "prepOrOrderInstructions": "Drain, rinse, and heat in a saucepan with chicken bone broth and a touch of butter.",
+  "safetyTier": "flare-safe"
+}

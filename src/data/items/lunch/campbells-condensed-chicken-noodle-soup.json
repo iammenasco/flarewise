@@ -1,0 +1,36 @@
+{
+  "id": "campbells-condensed-chicken-noodle-soup",
+  "name": "Campbell's Condensed Chicken Noodle Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Campbell's",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "chicken-noodle-soup",
+    "canned-soup",
+    "egg-noodles",
+    "comfort-broth",
+    "flare-staple"
+  ],
+  "searchKeywords": [
+    "campbells chicken noodle",
+    "canned chicken noodle soup",
+    "classic chicken soup",
+    "comfort food flare"
+  ],
+  "whyItWorks": "A classic pantry lifesaver. Made with savory chicken broth, enriched egg noodles, and lean chicken meat with under 1g fiber. Diluting the condensed can with water creates a soothing, hydrating meal that is easy on inflamed intestines.",
+  "prepOrOrderInstructions": "Mix 1 can of soup with 1 can of warm water on the stovetop. Heat until simmering and let cool slightly before eating.",
+  "safetyTier": "low-risk"
+}

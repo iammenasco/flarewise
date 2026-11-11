@@ -1,0 +1,36 @@
+{
+  "id": "starkist-chunk-light-tuna-in-water-pouch",
+  "name": "StarKist Chunk Light Tuna in Water (Single-Serve Pouch)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "StarKist",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "tuna-pouch",
+    "chunk-light-tuna",
+    "no-draining-required",
+    "travel-protein",
+    "low-fat"
+  ],
+  "searchKeywords": [
+    "starkist tuna pouch",
+    "tear open tuna",
+    "travel protein crohns",
+    "skipjack tuna"
+  ],
+  "whyItWorks": "Single-serve, tear-open pouch requiring zero can opener and zero draining. Made from wild skipjack tuna with lower mercury levels and softer flakes than solid steaks.",
+  "prepOrOrderInstructions": "Tear open and eat straight from the pouch or empty over soft white rice.",
+  "safetyTier": "flare-safe"
+}

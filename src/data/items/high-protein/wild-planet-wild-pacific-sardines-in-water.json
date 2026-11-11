@@ -1,0 +1,36 @@
+{
+  "id": "wild-planet-wild-pacific-sardines-in-water",
+  "name": "Wild Planet Wild Pacific Sardines in Water with Sea Salt",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Wild Planet",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "wild-sardines",
+    "skinless-boneless",
+    "omega-3-fatty-acids",
+    "anti-inflammatory",
+    "marine-protein"
+  ],
+  "searchKeywords": [
+    "wild planet sardines",
+    "sardines in water",
+    "anti inflammatory fish",
+    "canned fish crohns"
+  ],
+  "whyItWorks": "Sustainably wild-caught Pacific sardines, scale-free, packed in water and sea salt. Exceptional source of natural EPA and DHA omega-3 fatty acids, which downregulate systemic intestinal inflammation.",
+  "prepOrOrderInstructions": "Mash onto plain toast or enjoy alongside soft scrambled eggs.",
+  "safetyTier": "flare-safe"
+}

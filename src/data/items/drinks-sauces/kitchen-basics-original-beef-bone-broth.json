@@ -1,0 +1,36 @@
+{
+  "id": "kitchen-basics-original-beef-bone-broth",
+  "name": "Kitchen Basics Original Beef Bone Broth",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "McCormick / Kitchen Basics",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef-bone-broth",
+    "heart-check-certified",
+    "10g-protein",
+    "gluten-free",
+    "pantry-stock"
+  ],
+  "searchKeywords": [
+    "kitchen basics beef broth",
+    "beef bone stock",
+    "cooking bone broth"
+  ],
+  "whyItWorks": "Slow-simmered beef bones, vegetables, and herbs strained completely clear. Delivers 10g protein per cup with 0g fat and 0g fiber.",
+  "prepOrOrderInstructions": "Warm in a saucepan and use for gentle beef stew bases or drink directly.",
+  "safetyTier": "flare-safe"
+}

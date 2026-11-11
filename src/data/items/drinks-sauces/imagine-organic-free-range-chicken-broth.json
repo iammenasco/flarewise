@@ -1,0 +1,35 @@
+{
+  "id": "imagine-organic-free-range-chicken-broth",
+  "name": "Imagine Organic Free-Range Chicken Broth (Cooking Stock)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Imagine Foods / Hain Celestial",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cooking-broth",
+    "organic-chicken",
+    "gluten-free",
+    "fat-free",
+    "light-flavor"
+  ],
+  "searchKeywords": [
+    "imagine chicken broth",
+    "organic free range broth",
+    "cooking stock safe"
+  ],
+  "whyItWorks": "Certified organic, gluten-free, fat-free clear chicken cooking broth. Light and gentle with zero heavy garlic or onion sediment.",
+  "prepOrOrderInstructions": "Use as the liquid for boiling white jasmine rice, pasta, or softening potatoes.",
+  "safetyTier": "flare-safe"
+}

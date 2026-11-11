@@ -1,0 +1,35 @@
+{
+  "id": "swanson-premium-white-chunk-chicken-breast",
+  "name": "Swanson Premium White Chunk Chicken Breast in Water",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Campbell's / Swanson",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "canned-chicken-breast",
+    "white-meat",
+    "pre-cooked",
+    "zero-fiber",
+    "flare-safe-poultry"
+  ],
+  "searchKeywords": [
+    "swanson canned chicken",
+    "white chunk chicken breast",
+    "canned poultry safe"
+  ],
+  "whyItWorks": "Fully cooked 98% fat-free chicken breast chunks packed in water and chicken broth. Incredibly tender, easy to shred, and ready to stir into warm soups or chicken salad.",
+  "prepOrOrderInstructions": "Drain water and stir chicken chunks into hot chicken broth or white rice.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "amys-organic-butternut-squash-soup",
+  "name": "Amy's Organic Butternut Squash Soup (Silky Puree)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Amy's Kitchen",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "butternut-squash-soup",
+    "organic-puree",
+    "dairy-free",
+    "gluten-free",
+    "seedless",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "amys butternut squash",
+    "pureed squash soup",
+    "dairy free vegetable soup",
+    "canned gentle soup"
+  ],
+  "whyItWorks": "Pureed smooth with organic butternut squash, carrots, and light ginger without cream, butter, or seeds. The silky texture delivers soothing potassium and soluble beta-carotene without mechanical friction.",
+  "prepOrOrderInstructions": "Warm in a saucepan. Pairs gently with a slice of toasted sourdough.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "libbys-canned-creamed-corn-warning",
+  "name": "Libby's Crispy Sweet Creamed Corn (Hull Shards WARNING)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Libby's",
+  "crohnsScore": 4.5,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "creamed-corn",
+    "corn-kernel-skins",
+    "stricture-irritant",
+    "insoluble-husk"
+  ],
+  "searchKeywords": [
+    "creamed corn warning",
+    "libbys creamed corn",
+    "corn skin shards",
+    "corn danger crohns"
+  ],
+  "whyItWorks": "While the milky corn starch liquid is soft, creamed corn is packed with thousands of shredded whole corn kernel hulls. The tough insoluble pericarp hulls pass through stomach acid undigested and can create a partial blockage in strictured ileum.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. If craving sweet corn flavor, choose smooth pureed corn chowder that has been strained through a fine-mesh sieve, or corn grits.",
+  "safetyTier": "danger-zone"
+}

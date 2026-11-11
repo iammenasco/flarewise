@@ -1,0 +1,38 @@
+{
+  "id": "kettle-and-fire-classic-chicken-bone-broth",
+  "name": "Kettle & Fire Classic Chicken Bone Broth (Carton)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Kettle & Fire",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "kettle-and-fire",
+    "slow-simmered-14-hours",
+    "10g-protein",
+    "collagen-rich",
+    "clean-ingredients"
+  ],
+  "searchKeywords": [
+    "kettle and fire chicken",
+    "artisan bone broth",
+    "high collagen broth",
+    "paleo broth"
+  ],
+  "whyItWorks": "Simmered for 14+ hours using marrow bones from free-range chickens. Rich in natural gelatin that coats the gastrointestinal tract, supporting tight junction barrier integrity.",
+  "prepOrOrderInstructions": "Heat until steaming. Enjoy as a warm, restorative mid-morning beverage.",
+  "safetyTier": "flare-safe"
+}

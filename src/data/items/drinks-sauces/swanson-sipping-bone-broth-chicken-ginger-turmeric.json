@@ -1,0 +1,36 @@
+{
+  "id": "swanson-sipping-bone-broth-chicken-ginger-turmeric",
+  "name": "Swanson Sipping Bone Broth (Chicken with Ginger & Turmeric)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Campbell's / Swanson",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sipping-bone-broth",
+    "turmeric-ginger",
+    "microwave-cup",
+    "zero-fiber",
+    "travel-warmth"
+  ],
+  "searchKeywords": [
+    "swanson sipping broth",
+    "chicken ginger turmeric broth",
+    "microwavable bone broth cup"
+  ],
+  "whyItWorks": "Pre-packaged microwavable sipping cup delivering 8g collagen protein with anti-inflammatory turmeric and ginger. 100% liquid with zero fiber or solid chunks; perfect for travel and desk warming.",
+  "prepOrOrderInstructions": "Peel off foil seal, replace sipping lid, microwave for 1 minute, and sip warm.",
+  "safetyTier": "flare-safe"
+}

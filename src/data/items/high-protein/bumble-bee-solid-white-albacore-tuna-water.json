@@ -1,0 +1,37 @@
+{
+  "id": "bumble-bee-solid-white-albacore-tuna-water",
+  "name": "Bumble Bee Solid White Albacore Tuna in Water",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Bumble Bee",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "albacore-tuna",
+    "solid-white",
+    "in-water",
+    "lean-protein",
+    "omega-3",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "bumble bee tuna",
+    "solid white albacore",
+    "canned tuna in water",
+    "safe protein can"
+  ],
+  "whyItWorks": "Solid white wild albacore tuna steaks packed in water and sea salt. Contains 32g of pure protein per can with under 1g fat, zero carbs, and zero fiber. Provides gentle marine protein that does not demand heavy bile acids.",
+  "prepOrOrderInstructions": "Drain water and flake with a fork. Mix with mayonnaise and serve on soft white bread or crackers.",
+  "safetyTier": "flare-safe"
+}

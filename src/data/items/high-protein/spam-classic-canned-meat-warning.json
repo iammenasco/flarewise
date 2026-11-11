@@ -1,0 +1,36 @@
+{
+  "id": "spam-classic-canned-meat-warning",
+  "name": "SPAM Classic Canned Pork & Ham (WARNING)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Hormel Foods",
+  "crohnsScore": 4.2,
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "high-saturated-fat-16g",
+    "sodium-nitrates",
+    "processed-pork",
+    "gastrocolic-spasms"
+  ],
+  "searchKeywords": [
+    "spam warning",
+    "canned meat danger",
+    "processed ham spam",
+    "greasy canned meat"
+  ],
+  "whyItWorks": "Contains mechanically processed pork shoulder and ham packed with 16g fat (6g saturated) and 790mg sodium per 2 oz slice. The extreme grease load and sodium nitrates provoke sharp biliary colic and rapid bowel dumping.",
+  "prepOrOrderInstructions": "AVOID during active disease. Lean canned chicken breast or water-packed tuna are infinitely safer.",
+  "safetyTier": "danger-zone"
+}

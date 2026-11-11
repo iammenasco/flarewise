@@ -1,0 +1,34 @@
+{
+  "id": "contadina-pure-canned-tomato-paste",
+  "name": "Contadina Roma Tomato Paste (Concentrated Acid WARNING)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Contadina / Del Monte",
+  "crohnsScore": 6,
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "concentrated-acid",
+    "citric-acid",
+    "gastric-burning",
+    "reflux-trigger"
+  ],
+  "searchKeywords": [
+    "tomato paste warning",
+    "contadina tomato paste",
+    "acidic tomato paste"
+  ],
+  "whyItWorks": "Highly concentrated tomato solids and citric acid. The intense acid density can provoke sharp upper GI reflux, burning sensations, and direct irritation of inflamed mucosal tissue.",
+  "prepOrOrderInstructions": "Avoid heavy use in sauces during active flares. Dilute thoroughly with bone broth or choose pumpkin puree.",
+  "safetyTier": "danger-zone"
+}

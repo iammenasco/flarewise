@@ -1,0 +1,35 @@
+{
+  "id": "crown-prince-skinless-boneless-sardines-olive-oil",
+  "name": "Crown Prince Skinless & Boneless Sardines in Pure Olive Oil",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Crown Prince",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "skinless-boneless-sardines",
+    "olive-oil",
+    "pure-fish-fillets",
+    "low-residue",
+    "healthy-fats"
+  ],
+  "searchKeywords": [
+    "crown prince sardines",
+    "skinless boneless sardines",
+    "sardines in olive oil"
+  ],
+  "whyItWorks": "Hand-filleted sardines with skin and bones completely removed, packed in pure cold-pressed olive oil. Extremely tender with zero tough bones or scales.",
+  "prepOrOrderInstructions": "Fork-mash and serve over warm rice or mashed potatoes.",
+  "safetyTier": "low-risk"
+}

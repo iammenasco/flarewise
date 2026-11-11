@@ -1,0 +1,37 @@
+{
+  "id": "bushs-original-baked-beans-warning",
+  "name": "Bush's Original Baked Beans (Extreme Gas WARNING)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Bush's Best",
+  "crohnsScore": 2.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "baked-beans",
+    "navy-beans",
+    "raffinose-stachyose",
+    "gas-explosion",
+    "stricture-hazard"
+  ],
+  "searchKeywords": [
+    "bushs baked beans warning",
+    "baked beans danger",
+    "navy beans gas",
+    "beans crohns flare"
+  ],
+  "whyItWorks": "Made from whole navy beans simmered in brown sugar and bacon sauce. Packed with prebiotic raffinose and stachyose oligosaccharides that ferment rapidly in the colon, generating immense gas pressure, painful cramping, and diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. One of the single worst flare trigger foods in the grocery store.",
+  "safetyTier": "danger-zone"
+}

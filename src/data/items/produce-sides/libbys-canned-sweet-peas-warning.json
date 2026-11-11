@@ -1,0 +1,35 @@
+{
+  "id": "libbys-canned-sweet-peas-warning",
+  "name": "Libby's Sweet Peas in Water (Tough Pea Skins WARNING)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Libby's",
+  "crohnsScore": 5,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "canned-peas",
+    "pea-skins",
+    "galacto-oligosaccharides",
+    "bloating-trigger"
+  ],
+  "searchKeywords": [
+    "canned peas warning",
+    "sweet peas danger",
+    "pea skins crohns"
+  ],
+  "whyItWorks": "Whole canned green peas retain tough, fibrous outer skins and fermentable galacto-oligosaccharides (GOS). Whole pea skins resist digestion and accumulate in narrowed bowel segments.",
+  "prepOrOrderInstructions": "Avoid whole sweet peas during active disease. Canned green beans (Del Monte) are far gentler.",
+  "safetyTier": "danger-zone"
+}

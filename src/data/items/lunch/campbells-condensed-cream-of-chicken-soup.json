@@ -1,0 +1,35 @@
+{
+  "id": "campbells-condensed-cream-of-chicken-soup",
+  "name": "Campbell's Condensed Cream of Chicken Soup",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Campbell's",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cream-of-chicken",
+    "smooth-soup",
+    "casserole-base",
+    "seedless",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "campbells cream of chicken",
+    "cream of chicken soup",
+    "smooth soup base"
+  ],
+  "whyItWorks": "Creamy chicken stock thickened with wheat flour, real cream, and tender chicken bites. Seed-free and low-residue; excellent mixed into steamed white rice for easy calories.",
+  "prepOrOrderInstructions": "Simmer with equal parts water or lactose-free milk. Take a lactase tablet if sensitive to dairy.",
+  "safetyTier": "low-risk"
+}

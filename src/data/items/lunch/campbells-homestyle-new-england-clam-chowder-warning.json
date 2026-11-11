@@ -1,0 +1,37 @@
+{
+  "id": "campbells-homestyle-new-england-clam-chowder-warning",
+  "name": "Campbell's Chunky New England Clam Chowder (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Campbell's",
+  "crohnsScore": 4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "heavy-cream",
+    "bacon-grease",
+    "clam-nectar",
+    "gallbladder-dumping",
+    "high-fat-10g"
+  ],
+  "searchKeywords": [
+    "clam chowder warning",
+    "campbells clam chowder",
+    "heavy cream soup diarrhea",
+    "clam chowder crohns"
+  ],
+  "whyItWorks": "Packed with heavy dairy cream, pork lardons/bacon fat, clams, and high sodium. The heavy emulsion of dairy and pork grease triggers an aggressive gastrocolic reflex, leading to immediate urgency and loose stools.",
+  "prepOrOrderInstructions": "AVOID during active inflammation. Broth-based soups are far safer than cream-based chowders.",
+  "safetyTier": "danger-zone"
+}

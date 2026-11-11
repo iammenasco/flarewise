@@ -1,0 +1,38 @@
+{
+  "id": "pacific-foods-organic-bone-broth-beef",
+  "name": "Pacific Foods Organic Beef Bone Broth",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pacific Foods",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "beef-bone-broth",
+    "bovine-collagen",
+    "savory-warmth",
+    "zero-fiber",
+    "gut-soothing"
+  ],
+  "searchKeywords": [
+    "pacific beef bone broth",
+    "organic beef broth",
+    "rich bone broth",
+    "flare recovery soup"
+  ],
+  "whyItWorks": "Simmered organic beef bones delivering bioavailable gelatin and amino acids that soothe raw intestinal mucosa. Zero dairy, zero fat, and zero residue.",
+  "prepOrOrderInstructions": "Warm in a small pot with a pinch of sea salt. Sip slowly between meals.",
+  "safetyTier": "flare-safe"
+}

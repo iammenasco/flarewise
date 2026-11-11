@@ -1,0 +1,36 @@
+{
+  "id": "campbells-well-yes-sipping-soup-sweet-potato",
+  "name": "Campbell's Well Yes! Sipping Soup Sweet Potato & Carrots",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Campbell's",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "sipping-soup",
+    "sweet-potato-puree",
+    "coconut-milk",
+    "dairy-free",
+    "travel-soup"
+  ],
+  "searchKeywords": [
+    "well yes sipping soup",
+    "sweet potato sipping soup",
+    "portable warm soup",
+    "on the go soup"
+  ],
+  "whyItWorks": "A smooth, drinkable puree of sweet potatoes, carrots, and coconut milk in a microwavable sipping cup. Dairy-free, seedless, and requires zero spoon or bowl when traveling.",
+  "prepOrOrderInstructions": "Remove lid, microwave cup for 1 minute, and sip warm.",
+  "safetyTier": "low-risk"
+}

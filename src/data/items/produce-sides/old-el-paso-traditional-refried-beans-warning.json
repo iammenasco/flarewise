@@ -1,0 +1,35 @@
+{
+  "id": "old-el-paso-traditional-refried-beans-warning",
+  "name": "Old El Paso Traditional Refried Beans (WARNING)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Old El Paso / General Mills",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "refried-beans",
+    "pinto-bean-skins",
+    "lard",
+    "gas-distention"
+  ],
+  "searchKeywords": [
+    "old el paso refried beans",
+    "refried beans warning",
+    "canned pinto beans danger"
+  ],
+  "whyItWorks": "Pinto beans mashed with lard, salt, and onion powder. High in indigestible oligosaccharide fructans and bean skins that produce severe colonic fermentation and painful gas spasms.",
+  "prepOrOrderInstructions": "AVOID. For Mexican night, enjoy plain white rice and shredded chicken in soft flour tortillas.",
+  "safetyTier": "danger-zone"
+}

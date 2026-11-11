@@ -1,0 +1,35 @@
+{
+  "id": "progresso-vegetable-classics-hearty-tomato-warning",
+  "name": "Progresso Hearty Tomato Soup (Acidic Acid WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Progresso / General Mills",
+  "crohnsScore": 4.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "diced-tomatoes",
+    "tomato-skins",
+    "citric-acid",
+    "mucosal-burn"
+  ],
+  "searchKeywords": [
+    "progresso tomato soup warning",
+    "hearty tomato soup",
+    "chunky tomato soup danger"
+  ],
+  "whyItWorks": "Contains chunky diced tomatoes with intact skins and seeds suspended in concentrated tomato puree. The coarse skins and concentrated acidity can cause heartburn and intestinal burning in active IBD.",
+  "prepOrOrderInstructions": "Avoid chunky tomato soups. If craving tomato flavor, stick to smooth condensed soup well-diluted.",
+  "safetyTier": "danger-zone"
+}

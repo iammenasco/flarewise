@@ -1,0 +1,36 @@
+{
+  "id": "amys-organic-soups-light-in-sodium-lentil-warning",
+  "name": "Amy's Organic Lentil Soup Light in Sodium (WARNING)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Amy's Kitchen",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "brown-lentils",
+    "high-fiber-8g",
+    "prebiotic-oligosaccharides",
+    "gas-trap"
+  ],
+  "searchKeywords": [
+    "amys lentil soup warning",
+    "lentil soup danger",
+    "high fiber soup bloating",
+    "lentils crohns"
+  ],
+  "whyItWorks": "Contains whole brown lentils with tough outer skins, simmered with diced onions, celery, and garlic. Packed with 8g of fermentable fiber per cup, triggering intense colonic gas, loud rumbling, and painful cramps.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Legume soups are major gas traps for Crohn's and Colitis patients.",
+  "safetyTier": "danger-zone"
+}
