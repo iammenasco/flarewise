@@ -1,35 +1,49 @@
 {
   "id": "peanut-butter-and-jelly-sandwich",
-  "name": "Peanut Butter and Jelly Sandwich",
+  "name": "Smooth Peanut Butter & Seedless Jelly Sandwich",
   "categoryFolder": "lunch",
   "crohnsScore": 9,
   "safetyTier": "flare-safe",
   "mealTypes": [
     "lunch",
-    "snack"
+    "snack",
+    "breakfast"
   ],
   "region": "American",
   "costTier": 1,
-  "convenienceScore": 3,
+  "convenienceScore": 5,
   "prepMethod": [
-    "ready-to-eat"
+    "ready-to-eat",
+    "toaster-oven"
   ],
-  "fiberGramsPerServing": 2.5,
+  "fiberGramsPerServing": 1,
   "lactoseSafe": true,
   "citrusFree": true,
+  "groceryIngredients": [
+    "White Potato Bread or Brioche",
+    "Creamy Smooth Peanut Butter",
+    "Seedless Grape or Apple Jelly"
+  ],
   "tags": [
     "sandwich",
     "peanut-butter",
     "jelly",
-    "sweet"
+    "sweet",
+    "grab-and-go",
+    "bread"
   ],
   "searchKeywords": [
-    "peanut",
-    "butter",
-    "jelly",
-    "sandwich",
-    "pbj"
+    "pbj",
+    "pb&j",
+    "peanut butter and jelly",
+    "uncursted",
+    "uncrustables"
   ],
-  "whyItWorks": "Simple protein and energy source.",
-  "prepOrOrderInstructions": "Ready to eat."
+  "whyItWorks": "Creamy peanut butter and clear pectin jelly (grape or apple) on refined white or potato bread provide dense, zero-roughage calories with no nut shards or berry seeds.",
+  "prepOrOrderInstructions": "Use strictly creamy/smooth peanut butter (never crunchy) and seedless jelly (grape or apple — never raspberry/blackberry jam with seeds or orange marmalade) on soft white or potato bread.",
+  "watchOuts": [
+    "Crunchy peanut butter nut shards",
+    "Berry preserves with seeds (strawberry/raspberry/blackberry)",
+    "Citrus marmalade or pectin with grapefruit extract"
+  ]
 }
