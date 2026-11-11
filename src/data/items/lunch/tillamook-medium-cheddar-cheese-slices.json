@@ -1,0 +1,40 @@
+{
+  "id": "tillamook-medium-cheddar-cheese-slices",
+  "name": "Tillamook Medium Cheddar Cheese (Naturally 0g Lactose)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Tillamook",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "cheese",
+    "cheddar",
+    "tillamook",
+    "naturally-lactose-free",
+    "protein"
+  ],
+  "searchKeywords": [
+    "cheddar cheese",
+    "tillamook cheddar",
+    "sliced cheddar",
+    "lactose free cheese"
+  ],
+  "whyItWorks": "Traditional cheddar cheese undergoes natural aging and bacterial fermentation that completely consumes all lactose sugars (testing at 0g lactose per serving). Provides calcium and satisfying fat with zero lactose distress.",
+  "prepOrOrderInstructions": "Melt over white bread for a gentle grilled cheese, or eat a slice with plain saltine crackers.",
+  "watchOuts": [
+    "Rich in natural dairy fat; limit to 1–2 slices during active flare recovery."
+  ]
+}

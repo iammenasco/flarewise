@@ -1,0 +1,41 @@
+{
+  "id": "carbonated-seltzer-sparkling-water-warning",
+  "name": "Carbonated Seltzer & Sparkling Water (Gas Distension Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Beverage Staple Warning",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "seltzer",
+    "sparkling-water",
+    "lacroix",
+    "carbonation",
+    "gas-warning"
+  ],
+  "searchKeywords": [
+    "sparkling water",
+    "seltzer",
+    "lacroix",
+    "bubly",
+    "carbonated water",
+    "gas bloating"
+  ],
+  "whyItWorks": "Carbonated waters contain dissolved carbon dioxide gas under pressure. When consumed, the gas releases rapidly in the warm stomach and small intestine, causing painful mechanical bloating, belching, and painful distension against strictured bowel walls.",
+  "prepOrOrderInstructions": "Gas Warning: Avoid fizzy drinks, seltzers, and club sodas during flares or with known intestinal narrowing. Stick to flat, still spring water, broths, and herbal teas.",
+  "watchOuts": [
+    "Expanding CO2 gas creates painful luminal pressure against narrow strictures and inflamed intestines."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "whole-grain-brown-rice-bran-warning",
+  "name": "Whole Grain Brown Rice (Insoluble Bran Coat Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice",
+    "brown-rice",
+    "whole-grain",
+    "insoluble-bran",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "brown rice",
+    "whole grain rice",
+    "brown rice diarrhea",
+    "brown rice trigger"
+  ],
+  "whyItWorks": "While often promoted as 'healthy', brown rice retains the tough, fibrous, insoluble outer bran hull. This sharp silica-rich hull resists digestion and rubs abrasively against inflamed mucosal ulcers, accelerating cramping and loose stools.",
+  "prepOrOrderInstructions": "Flare Warning: Avoid brown rice, wild rice, and black rice during active disease. Switch exclusively to polished white Jasmine, Basmati, or sushi rice.",
+  "watchOuts": [
+    "The insoluble bran coat mechanically scratches inflamed ulcerations and causes severe bloating."
+  ]
+}

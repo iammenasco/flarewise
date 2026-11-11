@@ -1,0 +1,44 @@
+{
+  "id": "soft-scrambled-large-eggs-butter",
+  "name": "Soft-Scrambled Large Eggs (Cooked in Butter or Olive Oil)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Grocery Staple",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "protein",
+    "eggs",
+    "scrambled-eggs",
+    "high-protein",
+    "flare-safe",
+    "zero-fiber",
+    "albumin"
+  ],
+  "searchKeywords": [
+    "scrambled eggs",
+    "soft eggs",
+    "breakfast eggs",
+    "plain eggs",
+    "safe protein"
+  ],
+  "whyItWorks": "Egg protein (ovalbumin) has the highest biological value of any whole food (BV = 100). Soft curds require zero chewing energy, contain 0g fiber, are naturally lactose-free, and provide essential amino acids to rebuild damaged intestinal mucosa.",
+  "prepOrOrderInstructions": "Whisk 2 eggs with a splash of water and salt. Cook over low heat in a nonstick skillet with a dab of butter until soft, creamy curds form. Do not overcook or brown.",
+  "watchOuts": [
+    "One of the most restorative, easily digested whole protein sources for IBD."
+  ]
+}

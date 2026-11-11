@@ -1,0 +1,40 @@
+{
+  "id": "steel-cut-oats-coarse-groats-warning",
+  "name": "Steel-Cut Oats (Coarse Whole Groat Mechanical Hazard Warning)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Pantry Breakfast Staple",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "oats",
+    "steel-cut-oats",
+    "irish-oats",
+    "roughage",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "steel cut oats",
+    "irish oats",
+    "pinhead oats",
+    "bobs red mill oats",
+    "coarse oatmeal"
+  ],
+  "whyItWorks": "Unlike rolled or quick oats which are steamed and flattened, steel-cut oats are chopped whole oat groats. Even after 30 minutes of boiling, they retain a dense, chewy, rubbery core that requires extensive enzymatic digestion and can irritate inflamed ileal strictures.",
+  "prepOrOrderInstructions": "Stricture & Flare Warning: Avoid steel-cut and Irish oats during active disease. Substitute with smooth Quick 1-Minute Oats or Cream of Rice.",
+  "watchOuts": [
+    "Dense, chewy, un-flattened groats resist digestion and can cause painful spasms and partial blockages."
+  ]
+}

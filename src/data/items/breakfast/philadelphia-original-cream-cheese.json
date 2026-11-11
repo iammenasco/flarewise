@@ -1,0 +1,39 @@
+{
+  "id": "philadelphia-original-cream-cheese",
+  "name": "Philadelphia Original Cream Cheese (Plain Spread)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Philadelphia / Kraft Heinz",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "cream-cheese",
+    "philadelphia",
+    "spread",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "cream cheese",
+    "philadelphia cream cheese",
+    "bagel spread",
+    "plain cream cheese"
+  ],
+  "whyItWorks": "Smooth, velvety, and completely free of roughage, nuts, or seeds. It coats white bread or plain bagels comfortably and provides quick, dense calories during recovery.",
+  "prepOrOrderInstructions": "Spread a modest layer (1 tablespoon) onto soft white bread, plain bagel, or saltines. Take a lactase tablet if sensitive to unaged dairy.",
+  "watchOuts": [
+    "Contains unaged milk and cream (moderate lactose and saturated fat); avoid thick heavy schmears during active flare-ups."
+  ]
+}

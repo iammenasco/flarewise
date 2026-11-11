@@ -1,0 +1,40 @@
+{
+  "id": "pedialyte-classic-unflavored-solution",
+  "name": "Pedialyte Classic Oral Electrolyte Solution",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Pedialyte / Abbott",
+  "crohnsScore": 9.7,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "pedialyte",
+    "oral-rehydration",
+    "electrolytes",
+    "medical-grade",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "pedialyte",
+    "oral rehydration solution",
+    "ors",
+    "dehydration",
+    "hospital electrolyte"
+  ],
+  "whyItWorks": "Medical-grade oral rehydration therapy meeting World Health Organization (WHO) osmotic standards. Contains twice the sodium and half the sugar of sports drinks, maximizing cellular water absorption without drawing fluid into the bowel.",
+  "prepOrOrderInstructions": "Sip 4–8 oz slowly throughout the day during heavy watery diarrhea or flare-ups. Serve chilled over ice.",
+  "watchOuts": [
+    "Top clinical recommendation for preventing dehydration and electrolyte imbalances."
+  ]
+}

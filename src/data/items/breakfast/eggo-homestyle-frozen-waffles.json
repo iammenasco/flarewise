@@ -1,0 +1,40 @@
+{
+  "id": "eggo-homestyle-frozen-waffles",
+  "name": "Kellogg's Eggo Homestyle Frozen Waffles (Toasted)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Eggo / Kellanova",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "waffles",
+    "eggo",
+    "toasted-waffles",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "eggo waffles",
+    "frozen waffles",
+    "homestyle waffles",
+    "toasted waffle"
+  ],
+  "whyItWorks": "Made from refined enriched wheat flour with a light, airy grid texture that crisps on the outside and stays fluffy inside. With just 1g fiber and low fat, it is a comforting, low-residue morning carb.",
+  "prepOrOrderInstructions": "Toast until lightly golden (not dark or charred). Top with a dab of butter and 100% pure maple syrup.",
+  "watchOuts": [
+    "Contains wheat and egg ingredients; chew well."
+  ]
+}

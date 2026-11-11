@@ -1,0 +1,42 @@
+{
+  "id": "hard-boiled-large-egg-snack",
+  "name": "Hard-Boiled Large Egg (Chilled Protein Snack)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Grocery Staple",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "protein",
+    "eggs",
+    "hard-boiled",
+    "portable-protein",
+    "zero-fiber",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "hard boiled egg",
+    "boiled egg",
+    "egg snack",
+    "portable protein egg"
+  ],
+  "whyItWorks": "A portable, pre-portioned package of 6g pure protein and choline with zero carbohydrates and zero fiber. Chilled hard-boiled eggs are gentle, non-irritating, and stabilize blood sugar on busy days.",
+  "prepOrOrderInstructions": "Peel shell cleanly and sprinkle with a pinch of sea salt. Chew yolk and white thoroughly.",
+  "watchOuts": [
+    "Ensure shell fragments are 100% removed before eating."
+  ]
+}

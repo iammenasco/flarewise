@@ -1,0 +1,42 @@
+{
+  "id": "pure-grade-a-maple-syrup",
+  "name": "100% Pure Grade A Amber Maple Syrup (Pure Tree Sap)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "sauce"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "maple-syrup",
+    "sweetener",
+    "pancake-syrup",
+    "pure-sap",
+    "low-fodmap",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "maple syrup",
+    "pure maple syrup",
+    "grade a maple",
+    "natural sweetener",
+    "pancake syrup"
+  ],
+  "whyItWorks": "100% pure boiled maple tree sap. Unlike commercial pancake syrups made of high-fructose corn syrup, pure maple syrup is predominantly sucrose with mineral trace elements (manganese and zinc). It contains 0g fiber, zero artificial sweeteners, and is certified low-FODMAP.",
+  "prepOrOrderInstructions": "Drizzle 1–2 tablespoons over oatmeal, pancakes, Cream of Rice, or waffles. Avoid pancake syrups sweetened with sorbitol or high-fructose corn syrup.",
+  "watchOuts": [
+    "Read label carefully: must state '100% Pure Maple Syrup', not 'Maple-Flavored Corn Syrup'."
+  ]
+}

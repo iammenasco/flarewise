@@ -1,0 +1,40 @@
+{
+  "id": "energy-drinks-caffeine-taurine-hazard-warning",
+  "name": "Caffeinated Energy Drinks (Monster, Red Bull, Celsius — Extreme Motility Hazard)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Beverage Staple Warning",
+  "crohnsScore": 1.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "drink",
+    "energy-drinks",
+    "caffeine",
+    "taurine",
+    "hypermotility",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "monster energy",
+    "red bull",
+    "celsius",
+    "energy drink diarrhea",
+    "caffeine trigger"
+  ],
+  "whyItWorks": "A catastrophic trigger cocktail for IBD: massive doses of anhydrous caffeine (160–300mg), taurine, carbonation, and artificial sweeteners or citric acid. Caffeine strongly stimulates colonic peristalsis, triggering uncontrollable watery diarrhea, severe mucosal burning, and rectal bleeding.",
+  "prepOrOrderInstructions": "Severe Medical Warning: Never consume energy drinks if you have Crohn's disease or Ulcerative Colitis. If needing a gentle morning lift, choose warm black tea or decaf coffee in deep remission.",
+  "watchOuts": [
+    "Extreme gut motility stimulant: Causes violent cramping, immediate fecal urgency, and dehydrating diarrhea."
+  ]
+}

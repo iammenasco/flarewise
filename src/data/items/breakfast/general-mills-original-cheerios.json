@@ -1,0 +1,42 @@
+{
+  "id": "general-mills-original-cheerios",
+  "name": "General Mills Original Cheerios (Toasted Oat O's)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "General Mills",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "cereal",
+    "cheerios",
+    "gluten-free",
+    "oats",
+    "soluble-fiber",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "cheerios",
+    "original cheerios",
+    "yellow box cheerios",
+    "oat cereal",
+    "heart healthy cereal"
+  ],
+  "whyItWorks": "Made from finely milled whole grain oat flour, pureed and toasted into crisp rings that dissolve immediately in milk. Unlike raw oats, the beta-glucan soluble fiber is smooth and helps bind stool without scratching inflamed tissue.",
+  "prepOrOrderInstructions": "Pour into a bowl with cold lactose-free milk, almond milk, or oat milk. Let sit for 60 seconds to soften before eating.",
+  "watchOuts": [
+    "Contains soluble oat fiber; enjoy in standard 1-cup portions."
+  ]
+}

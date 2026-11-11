@@ -1,0 +1,41 @@
+{
+  "id": "butterball-93-7-lean-ground-turkey",
+  "name": "Butterball 93/7 All Natural Lean Ground Turkey (Simmered Crumbles)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Butterball",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "protein",
+    "turkey",
+    "ground-turkey",
+    "butterball",
+    "lean-meat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "ground turkey",
+    "butterball ground turkey",
+    "lean turkey",
+    "turkey crumbles"
+  ],
+  "whyItWorks": "Pre-ground poultry meat eliminates tough meat fibers, creating soft, easily chewed crumbles that digest rapidly. Low in saturated fat and high in bioavailable zinc and iron.",
+  "prepOrOrderInstructions": "Brown in a skillet with a splash of olive oil and salt. Simmer with a little chicken broth to keep meat juicy and soft. Mix with white rice or mashed potatoes.",
+  "watchOuts": [
+    "Choose 93/7 lean ground turkey rather than high-fat 85/15 varieties."
+  ]
+}

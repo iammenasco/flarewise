@@ -1,0 +1,40 @@
+{
+  "id": "quaker-quick-1-minute-oats-porridge",
+  "name": "Quaker Quick 1-Minute Oats (Cooked Creamy Oatmeal)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Quaker Oats",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "quaker-oats",
+    "quick-oats",
+    "soluble-fiber",
+    "beta-glucan"
+  ],
+  "searchKeywords": [
+    "oatmeal",
+    "quick oats",
+    "quaker oatmeal",
+    "cooked oatmeal",
+    "porridge"
+  ],
+  "whyItWorks": "Quick oats are rolled thinner and cut finer than old-fashioned oats. Boiling them in water breaks down the oat starch into a creamy colloidal suspension rich in soluble beta-glucan, which nourishes the gut microbiome and forms a protective coating.",
+  "prepOrOrderInstructions": "Simmer 1/2 cup quick oats in 1 cup water or lactose-free milk for 1–2 minutes until completely smooth and creamy. Top with pureed applesauce or sliced ripe bananas.",
+  "watchOuts": [
+    "Must be thoroughly cooked until mushy; do not eat undercooked, dry, or raw rolled oats."
+  ]
+}

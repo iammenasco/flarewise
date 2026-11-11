@@ -1,0 +1,40 @@
+{
+  "id": "silk-unsweetened-almond-milk",
+  "name": "Silk Unsweetened Plain Almond Milk (Ultra-Filtered)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Silk / Danone",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dairy-free",
+    "almond-milk",
+    "plant-milk",
+    "silk",
+    "low-calorie",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "almond milk",
+    "silk almond milk",
+    "unsweetened almond milk",
+    "dairy free milk"
+  ],
+  "whyItWorks": "Finely ground blanched almonds filtered through micro-mesh, removing all solid particles and hulls. It is 100% dairy-free, lactose-free, low-calorie, and fortified with 50% more calcium than dairy milk without any digestive friction.",
+  "prepOrOrderInstructions": "Shake carton well before pouring. Excellent base for smoothies or morning cereal.",
+  "watchOuts": [
+    "Low in protein (1g per cup); combine with eggs or poultry if seeking protein density."
+  ]
+}

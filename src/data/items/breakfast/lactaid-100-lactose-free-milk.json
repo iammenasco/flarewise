@@ -1,0 +1,41 @@
+{
+  "id": "lactaid-100-lactose-free-milk",
+  "name": "Lactaid 100% Lactose-Free Whole / 2% Milk",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Lactaid / HP Hood",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink",
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "milk",
+    "lactose-free",
+    "lactaid",
+    "calcium",
+    "high-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "lactaid milk",
+    "lactose free milk",
+    "lactaid whole milk",
+    "dairy safe milk"
+  ],
+  "whyItWorks": "Real farm-fresh dairy milk pre-treated with natural lactase enzymes that convert all lactose disaccharides into simple, easily absorbed glucose and galactose. Delivers 8g of complete protein, calcium, and vitamin D with zero lactose bloating or diarrhea.",
+  "prepOrOrderInstructions": "Drink cold, pour over cereal, or use 1:1 in any recipe calling for milk.",
+  "watchOuts": [
+    "Contains real dairy milk protein (casein and whey); safe for lactose intolerance, but not for severe IgE milk allergies."
+  ]
+}

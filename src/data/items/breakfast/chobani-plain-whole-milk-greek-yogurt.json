@@ -1,0 +1,41 @@
+{
+  "id": "chobani-plain-whole-milk-greek-yogurt",
+  "name": "Chobani Plain Whole Milk Greek Yogurt (Strained Probiotic)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Chobani",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dairy",
+    "yogurt",
+    "greek-yogurt",
+    "chobani",
+    "probiotics",
+    "high-protein",
+    "low-lactose"
+  ],
+  "searchKeywords": [
+    "greek yogurt",
+    "chobani plain",
+    "strained yogurt",
+    "probiotic yogurt"
+  ],
+  "whyItWorks": "Traditional Greek yogurt is triple-strained, which washes away most of the liquid whey and lactose. The active live yogurt cultures (S. thermophilus and L. bulgaricus) produce their own lactase, aiding digestion and supporting colonic mucosal healing in remission.",
+  "prepOrOrderInstructions": "Stir in a teaspoon of pure maple syrup or smooth seedless honey. Avoid varieties packed with chunky fruit seeds or acidic citrus purees.",
+  "watchOuts": [
+    "Choose plain varieties to avoid added high-fructose corn syrup and seeded fruit compotes."
+  ]
+}

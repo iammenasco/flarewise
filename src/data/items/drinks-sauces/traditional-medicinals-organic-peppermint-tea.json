@@ -1,0 +1,40 @@
+{
+  "id": "traditional-medicinals-organic-peppermint-tea",
+  "name": "Traditional Medicinals Organic Peppermint Herbal Tea",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Traditional Medicinals",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "tea",
+    "peppermint",
+    "traditional-medicinals",
+    "antispasmodic",
+    "gas-relief"
+  ],
+  "searchKeywords": [
+    "peppermint tea",
+    "herbal tea",
+    "stomach cramp tea",
+    "mint tea",
+    "gas relief tea"
+  ],
+  "whyItWorks": "Rich in volatile menthol essential oils that act as natural calcium-channel blockers in gastrointestinal smooth muscle, rapidly easing painful colonic spasms and dispelling trapped abdominal gas.",
+  "prepOrOrderInstructions": "Steep 1 bag covered for 10 minutes to capture the therapeutic volatile oils. Drink after meals.",
+  "watchOuts": [
+    "Peppermint relaxes the lower esophageal sphincter; avoid if you suffer from severe GERD or active acid reflux."
+  ]
+}

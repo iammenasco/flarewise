@@ -1,0 +1,39 @@
+{
+  "id": "quinoa-saponin-seed-warning",
+  "name": "Cooked Quinoa (Intact Seed Coat & Saponin Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Pantry Grocery Staple",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grains",
+    "quinoa",
+    "seeds",
+    "stricture-warning",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "quinoa",
+    "quinoa seeds",
+    "quinoa trigger",
+    "quinoa diarrhea"
+  ],
+  "whyItWorks": "Quinoa is botanically a tiny seed, not a grain. When cooked, each seed unfurls a tiny fibrous tail and retains an indigestible seed coat. Thousands of tiny seeds pass largely intact into the bowel, causing mechanical irritation in strictures.",
+  "prepOrOrderInstructions": "Stricture Warning: Avoid quinoa salads and bowls during active symptoms. Choose white rice, couscous, or peeled potatoes instead.",
+  "watchOuts": [
+    "Tiny intact seeds pass undigested, irritating inflamed intestinal linings."
+  ]
+}

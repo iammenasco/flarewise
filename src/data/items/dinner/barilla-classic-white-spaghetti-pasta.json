@@ -1,0 +1,42 @@
+{
+  "id": "barilla-classic-white-spaghetti-pasta",
+  "name": "Barilla Classic White Semolina Spaghetti (Cooked Tender)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Barilla",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "spaghetti",
+    "barilla",
+    "semolina",
+    "refined-wheat",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "spaghetti",
+    "barilla pasta",
+    "white pasta",
+    "semolina pasta",
+    "plain noodles"
+  ],
+  "whyItWorks": "100% durum wheat semolina with the outer bran polished off. When boiled tender, white pasta is an elite flare-safe carb: simple, low-residue, non-bloating, and easy to digest.",
+  "prepOrOrderInstructions": "Boil in salted water for 9–10 minutes until tender (cook slightly past al dente during acute inflammation for softer chewing). Toss with butter or light olive oil.",
+  "watchOuts": [
+    "Never choose whole wheat pasta during flares; whole wheat pasta has coarse insoluble bran."
+  ]
+}

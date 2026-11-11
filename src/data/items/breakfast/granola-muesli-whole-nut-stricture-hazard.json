@@ -1,0 +1,42 @@
+{
+  "id": "granola-muesli-whole-nut-stricture-hazard",
+  "name": "Granola & Muesli (High Insoluble Fiber, Nut & Seed Hazard)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Pantry Breakfast Staple",
+  "crohnsScore": 2.3,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "granola",
+    "muesli",
+    "nuts",
+    "seeds",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "granola",
+    "muesli",
+    "crunchy granola",
+    "nature valley granola",
+    "granola hazard"
+  ],
+  "whyItWorks": "One of the absolute worst foods for Crohn's and Colitis. Granola combines raw rolled oats baked into hard clusters with whole pumpkin seeds, flax seeds, slivered almonds, and dried fruit. It forms an unyielding abrasive mass that acts like sandpaper on ulcers and is a frequent cause of ileal food impactions.",
+  "prepOrOrderInstructions": "Severe Medical Warning: Completely avoid granola, muesli, and crunchy granola bars if you have Crohn's, Colitis, or bowel narrowing. Choose Rice Chex or soft toasted white bread instead.",
+  "watchOuts": [
+    "Extreme stricture blockage risk: Dense mixture of raw grains, sharp seed coats, and whole nut fragments."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "twinings-pure-chamomile-herbal-tea",
+  "name": "Twinings Pure Chamomile Herbal Tea (Caffeine-Free Antispasmodic)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Twinings",
+  "crohnsScore": 9.6,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "tea",
+    "chamomile",
+    "twinings",
+    "caffeine-free",
+    "anti-inflammatory",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "chamomile tea",
+    "twinings chamomile",
+    "herbal tea",
+    "caffeine free tea",
+    "stomach tea"
+  ],
+  "whyItWorks": "Chamomile contains the bioflavonoid apigenin, which binds to benzodiazepine receptors in the nervous system and exerts natural antispasmodic and muscle-relaxant effects on the gastrointestinal tract, easing colonic cramps.",
+  "prepOrOrderInstructions": "Steep 1 tea bag in 8 oz boiling water for 4–5 minutes. Sip warm before bedtime or during cramps.",
+  "watchOuts": [
+    "100% caffeine-free; gentle on the stomach."
+  ]
+}

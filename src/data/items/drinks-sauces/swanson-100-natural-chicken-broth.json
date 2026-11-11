@@ -1,0 +1,44 @@
+{
+  "id": "swanson-100-natural-chicken-broth",
+  "name": "Swanson 100% Natural Chicken Broth (Warm Hydration)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Swanson / Campbell's",
+  "crohnsScore": 9.8,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "drink",
+    "snack",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "broth",
+    "chicken-broth",
+    "swanson",
+    "electrolytes",
+    "hydration",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "chicken broth",
+    "swanson broth",
+    "bone broth",
+    "warm broth",
+    "clear liquid"
+  ],
+  "whyItWorks": "The ultimate liquid hydration therapy during flares. Delivers sodium and potassium to prevent dehydration and orthostatic dizziness, while warm fluid relaxes gastrointestinal spastic contractions with zero residue.",
+  "prepOrOrderInstructions": "Pour into a mug and heat in microwave or saucepan until warm. Sip slowly throughout the day.",
+  "watchOuts": [
+    "Look for natural chicken broth without added onion powder or garlic if sensitive to alliums."
+  ]
+}

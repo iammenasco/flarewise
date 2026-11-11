@@ -1,0 +1,41 @@
+{
+  "id": "nabisco-cream-of-wheat-original-farina",
+  "name": "Cream of Wheat Original Hot Cereal (Smooth Farina)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Cream of Wheat / B&G Foods",
+  "crohnsScore": 9.6,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "hot-cereal",
+    "cream-of-wheat",
+    "farina",
+    "iron-rich",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "cream of wheat",
+    "farina",
+    "hot wheat cereal",
+    "smooth porridge",
+    "iron breakfast"
+  ],
+  "whyItWorks": "Fine wheat farina with the coarse outer bran removed. It cooks into an ultra-smooth, velvety porridge delivering 50% of daily iron (vital for anemia in IBD) with only 1g of gentle soluble fiber. Melts down effortlessly in gastric acid.",
+  "prepOrOrderInstructions": "Cook on stovetop for 2.5 minutes. Swirl in a teaspoon of brown sugar, pure maple syrup, or a dash of cinnamon.",
+  "watchOuts": [
+    "Contains wheat (gluten); choose Cream of Rice if co-diagnosed with celiac disease."
+  ]
+}

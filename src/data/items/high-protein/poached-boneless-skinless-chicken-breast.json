@@ -1,0 +1,41 @@
+{
+  "id": "poached-boneless-skinless-chicken-breast",
+  "name": "Plain Poached or Baked Boneless Skinless Chicken Breast",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Fresh Grocery Staple",
+  "crohnsScore": 9.7,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "protein",
+    "chicken",
+    "chicken-breast",
+    "lean-protein",
+    "flare-safe",
+    "zero-fat"
+  ],
+  "searchKeywords": [
+    "poached chicken",
+    "baked chicken breast",
+    "plain chicken",
+    "shredded chicken",
+    "safe meat"
+  ],
+  "whyItWorks": "The absolute gold standard meat for Crohn's and Colitis. Boneless white breast meat contains virtually no connective tissue, no gristle, very low fat, and zero fiber. It breaks down easily in stomach acid, providing bioavailable protein to heal the gut.",
+  "prepOrOrderInstructions": "Simmer breast gently in chicken broth with sea salt for 15 minutes until internal temp reaches 165°F. Shred finely with two forks.",
+  "watchOuts": [
+    "Avoid charring, blackening, or heavily peppering the chicken exterior."
+  ]
+}

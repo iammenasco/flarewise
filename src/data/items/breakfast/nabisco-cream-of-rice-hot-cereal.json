@@ -1,0 +1,42 @@
+{
+  "id": "nabisco-cream-of-rice-hot-cereal",
+  "name": "Cream of Rice Hot Cereal (The Acute Flare Breakfast Gold Standard)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Cream of Rice / B&G Foods",
+  "crohnsScore": 9.9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "hot-cereal",
+    "cream-of-rice",
+    "gluten-free",
+    "flare-safe",
+    "zero-fiber",
+    "iron-fortified"
+  ],
+  "searchKeywords": [
+    "cream of rice",
+    "hot rice cereal",
+    "ground rice porridge",
+    "baby cereal",
+    "bland breakfast"
+  ],
+  "whyItWorks": "The single safest breakfast on earth during an acute Crohn's or Colitis flare. Made exclusively of finely granulated white rice enriched with iron and B vitamins. It has 0g fiber, is naturally gluten-free, non-allergenic, and digests into pure soothing glucose without any mechanical work from the bowel.",
+  "prepOrOrderInstructions": "Whisk 1/4 cup Cream of Rice into 1 cup boiling water or lactose-free milk for 2.5 minutes until thick and creamy. Sweeten with a drizzle of pure maple syrup or stir in a spoonful of smooth creamy peanut butter.",
+  "watchOuts": [
+    "Practically zero GI risk; use water or lactose-free milk during acute inflammation."
+  ]
+}

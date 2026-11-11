@@ -1,0 +1,43 @@
+{
+  "id": "traditional-white-sourdough-bread",
+  "name": "Traditional Artisanal White Sourdough Bread (Naturally Fermented)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Bakery Grocery Staple",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "sourdough",
+    "fermented",
+    "low-fodmap",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "sourdough bread",
+    "white sourdough",
+    "fermented bread",
+    "boudin sourdough",
+    "safe bread"
+  ],
+  "whyItWorks": "The gold-standard daily bread for IBD. Natural wild yeast and lactobacilli fermentation over 24+ hours pre-digests wheat fructans (making it officially low-FODMAP) and partially breaks down gluten protein peptides, resulting in superior gastric tolerance and zero bloating.",
+  "prepOrOrderInstructions": "Toast lightly and spread with pure butter, smooth peanut butter, or use for lean turkey sandwiches. Chew crust thoroughly or slice crust away if jaw or bowel is fatigued.",
+  "watchOuts": [
+    "Look for authentic slow-fermented sourdough without added instant commercial yeast."
+  ]
+}

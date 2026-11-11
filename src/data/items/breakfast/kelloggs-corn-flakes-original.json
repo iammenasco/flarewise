@@ -1,0 +1,40 @@
+{
+  "id": "kelloggs-corn-flakes-original",
+  "name": "Kellogg's Corn Flakes Original Cereal",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Kellanova",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "cereal",
+    "corn-flakes",
+    "kelloggs",
+    "iron-fortified",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "corn flakes",
+    "kelloggs corn flakes",
+    "original corn flakes",
+    "breakfast cereal"
+  ],
+  "whyItWorks": "Milled from degermed corn grit (which completely strips away the dangerous indigestible outer corn hull). The paper-thin toasted flakes soften within seconds of touching liquid, leaving no roughage behind.",
+  "prepOrOrderInstructions": "Pour cold lactose-free milk over the flakes and let them soak for 30 seconds for a gentle, easy-to-swallow breakfast.",
+  "watchOuts": [
+    "Completely hull-free; safe for strictures unlike whole sweet corn."
+  ]
+}

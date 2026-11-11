@@ -1,0 +1,40 @@
+{
+  "id": "oscar-mayer-deli-fresh-oven-roasted-turkey",
+  "name": "Oscar Mayer Deli Fresh Oven Roasted Turkey Breast Slices",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Oscar Mayer / Kraft Heinz",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "protein",
+    "deli-meat",
+    "turkey-breast",
+    "oscar-mayer",
+    "lunch-meat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "deli turkey",
+    "sliced turkey",
+    "oscar mayer turkey",
+    "oven roasted turkey breast"
+  ],
+  "whyItWorks": "Thinly shaved, skinless, lean turkey breast slices. It requires virtually zero chewing effort, delivers 10g protein per 2-oz serving with under 1g fat, and has no roughage or spicy pepper coatings.",
+  "prepOrOrderInstructions": "Roll slices up for a quick protein snack, or layer between white bread with mild cheddar.",
+  "watchOuts": [
+    "Contains added sodium for preservation; drink water alongside deli meats."
+  ]
+}

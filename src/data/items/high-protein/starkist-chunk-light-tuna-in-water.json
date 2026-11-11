@@ -1,0 +1,42 @@
+{
+  "id": "starkist-chunk-light-tuna-in-water",
+  "name": "StarKist Chunk Light Tuna in Water (Drained Can or Pouch)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "StarKist",
+  "crohnsScore": 9.5,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "protein",
+    "seafood",
+    "tuna",
+    "starkist",
+    "lean-protein",
+    "flare-safe",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "canned tuna",
+    "chunk light tuna",
+    "starkist tuna",
+    "tuna in water",
+    "tuna fish"
+  ],
+  "whyItWorks": "Wild skipjack tuna packed in water provides 20g+ of pure lean animal protein per can with virtually zero fat (under 1g) and zero fiber. Extremely light on digestion and easy to flake into soft bites.",
+  "prepOrOrderInstructions": "Drain water completely. Mix with 1 tablespoon of plain mayonnaise or olive oil and spread on white toast or saltines.",
+  "watchOuts": [
+    "Avoid canned tuna packed in heavy spicy oils or containing celery/onion seasonings."
+  ]
+}

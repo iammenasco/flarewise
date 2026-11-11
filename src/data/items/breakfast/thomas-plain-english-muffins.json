@@ -1,0 +1,40 @@
+{
+  "id": "thomas-plain-english-muffins",
+  "name": "Thomas' Original Plain English Muffins (Fork-Split)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Thomas' / Bimbo Bakeries",
+  "crohnsScore": 9.1,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "english-muffin",
+    "thomas",
+    "toasted",
+    "flare-safe",
+    "nooks-and-crannies"
+  ],
+  "searchKeywords": [
+    "english muffin",
+    "thomas english muffins",
+    "fork split muffins",
+    "toasted muffin"
+  ],
+  "whyItWorks": "A light, yeast-leavened flat bread with 'nooks and crannies' made from refined white flour. When toasted, it becomes pleasantly crisp on the edges while remaining tender inside, absorbing butter with minimal fiber.",
+  "prepOrOrderInstructions": "Split open gently with a fork and toast until golden. Spread with butter or seedless strawberry jelly.",
+  "watchOuts": [
+    "Avoid whole wheat or multigrain English muffin varieties."
+  ]
+}

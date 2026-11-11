@@ -1,0 +1,42 @@
+{
+  "id": "mission-super-soft-flour-tortillas",
+  "name": "Mission Super Soft White Flour Tortillas (Taco Size)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Mission Foods / Gruma",
+  "crohnsScore": 9.2,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "tortillas",
+    "flour-tortillas",
+    "mission",
+    "soft-wraps",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "flour tortillas",
+    "mission tortillas",
+    "soft taco tortillas",
+    "white tortillas",
+    "soft wraps"
+  ],
+  "whyItWorks": "Pliable, tender, and made of refined bleached wheat flour. They wrap smoothly without cracking and contain only 1g fiber, providing a far safer taco/burrito wrap than abrasive fried corn shells.",
+  "prepOrOrderInstructions": "Warm on a dry skillet for 15 seconds per side to make them extra soft and pliable. Fill with shredded chicken breast and mild cheese.",
+  "watchOuts": [
+    "Far easier to digest during flares than crunchy hard taco shells."
+  ]
+}

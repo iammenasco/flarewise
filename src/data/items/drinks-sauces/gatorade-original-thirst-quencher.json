@@ -1,0 +1,40 @@
+{
+  "id": "gatorade-original-thirst-quencher",
+  "name": "Gatorade Thirst Quencher (Glacier Freeze or Cool Blue)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Gatorade / PepsiCo",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "drink"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "drink",
+    "gatorade",
+    "electrolytes",
+    "hydration",
+    "sports-drink",
+    "sodium"
+  ],
+  "searchKeywords": [
+    "gatorade",
+    "glacier freeze",
+    "electrolyte drink",
+    "sports drink",
+    "rehydration"
+  ],
+  "whyItWorks": "Formulated with the optimal glucose-to-sodium ratio (sodium-glucose cotransport mechanism in the small intestine) to force water absorption through the intestinal wall even during active diarrhea.",
+  "prepOrOrderInstructions": "Dilute 50/50 with cold water if the full-strength sugar concentration feels too sweet or stimulates stomach emptying.",
+  "watchOuts": [
+    "Contains simple sugars; dilute 1:1 with water for ideal osmolarity during rapid diarrhea."
+  ]
+}

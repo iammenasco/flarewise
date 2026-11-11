@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T16:53:49.473Z",
-  "itemCount": 1566,
+  "builtAt": "2026-11-11T17:37:33.190Z",
+  "itemCount": 1603,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -514,6 +514,49 @@
       "_sourcePath": "src/data/items/drinks-sauces/warm-salted-bone-broth-mug.json"
     },
     {
+      "id": "nabisco-cream-of-rice-hot-cereal",
+      "name": "Cream of Rice Hot Cereal (The Acute Flare Breakfast Gold Standard)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Cream of Rice / B&G Foods",
+      "crohnsScore": 9.9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "hot-cereal",
+        "cream-of-rice",
+        "gluten-free",
+        "flare-safe",
+        "zero-fiber",
+        "iron-fortified"
+      ],
+      "searchKeywords": [
+        "cream of rice",
+        "hot rice cereal",
+        "ground rice porridge",
+        "baby cereal",
+        "bland breakfast"
+      ],
+      "whyItWorks": "The single safest breakfast on earth during an acute Crohn's or Colitis flare. Made exclusively of finely granulated white rice enriched with iron and B vitamins. It has 0g fiber, is naturally gluten-free, non-allergenic, and digests into pure soothing glucose without any mechanical work from the bowel.",
+      "prepOrOrderInstructions": "Whisk 1/4 cup Cream of Rice into 1 cup boiling water or lactose-free milk for 2.5 minutes until thick and creamy. Sweeten with a drizzle of pure maple syrup or stir in a spoonful of smooth creamy peanut butter.",
+      "watchOuts": [
+        "Practically zero GI risk; use water or lactose-free milk during acute inflammation."
+      ],
+      "_sourcePath": "src/data/items/breakfast/nabisco-cream-of-rice-hot-cereal.json"
+    },
+    {
       "id": "members-mark-liquid-egg-whites-cartons",
       "name": "Member's Mark 100% Pure Liquid Egg Whites (6 x 16 oz Cartons)",
       "categoryFolder": "breakfast",
@@ -639,6 +682,49 @@
       "_sourcePath": "src/data/items/produce-sides/kirkland-signature-organic-jasmine-rice.json"
     },
     {
+      "id": "lundberg-organic-white-jasmine-rice",
+      "name": "Lundberg Organic White Jasmine Rice (Steamed Fluffy)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Lundberg Family Farms",
+      "crohnsScore": 9.8,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rice",
+        "jasmine-rice",
+        "white-rice",
+        "lundberg",
+        "flare-safe",
+        "hypoallergenic",
+        "zero-residue"
+      ],
+      "searchKeywords": [
+        "white rice",
+        "jasmine rice",
+        "steamed white rice",
+        "lundberg rice",
+        "bland diet rice"
+      ],
+      "whyItWorks": "The undisputed foundational carbohydrate for Crohn's and Colitis patients worldwide. Completely polished long-grain white rice is hypoallergenic, has virtually 0g insoluble fiber, absorbs smoothly, and provides immediate clean energy to heal intestines.",
+      "prepOrOrderInstructions": "Rinse rice until water runs clear. Cook 1 cup rice in 1.75 cups water with a pinch of sea salt for 15 minutes. Fluff with a fork.",
+      "watchOuts": [
+        "The safest carbohydrate staple in gastroenterology."
+      ],
+      "_sourcePath": "src/data/items/dinner/lundberg-organic-white-jasmine-rice.json"
+    },
+    {
       "id": "members-mark-long-grain-enriched-white-rice",
       "name": "Member's Mark Long Grain Enriched White Rice (25 lb Bag)",
       "categoryFolder": "produce-sides",
@@ -759,6 +845,96 @@
       "whyItWorks": "Pure steamed jasmine white rice is the ultimate soothing staple in DCA. It calms nausea, slows bowel transit, requires minimal digestive work, and contains zero dairy, gluten, or seeds.",
       "prepOrOrderInstructions": "Order an extra side bowl of plain steamed white rice. Eat plain or lightly seasoned with soy sauce.",
       "_sourcePath": "src/data/items/produce-sides/dca-lucky-fortune-steamed-white-rice.json"
+    },
+    {
+      "id": "soft-scrambled-large-eggs-butter",
+      "name": "Soft-Scrambled Large Eggs (Cooked in Butter or Olive Oil)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Grocery Staple",
+      "crohnsScore": 9.8,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "protein",
+        "eggs",
+        "scrambled-eggs",
+        "high-protein",
+        "flare-safe",
+        "zero-fiber",
+        "albumin"
+      ],
+      "searchKeywords": [
+        "scrambled eggs",
+        "soft eggs",
+        "breakfast eggs",
+        "plain eggs",
+        "safe protein"
+      ],
+      "whyItWorks": "Egg protein (ovalbumin) has the highest biological value of any whole food (BV = 100). Soft curds require zero chewing energy, contain 0g fiber, are naturally lactose-free, and provide essential amino acids to rebuild damaged intestinal mucosa.",
+      "prepOrOrderInstructions": "Whisk 2 eggs with a splash of water and salt. Cook over low heat in a nonstick skillet with a dab of butter until soft, creamy curds form. Do not overcook or brown.",
+      "watchOuts": [
+        "One of the most restorative, easily digested whole protein sources for IBD."
+      ],
+      "_sourcePath": "src/data/items/high-protein/soft-scrambled-large-eggs-butter.json"
+    },
+    {
+      "id": "swanson-100-natural-chicken-broth",
+      "name": "Swanson 100% Natural Chicken Broth (Warm Hydration)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Swanson / Campbell's",
+      "crohnsScore": 9.8,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "drink",
+        "snack",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "drink",
+        "broth",
+        "chicken-broth",
+        "swanson",
+        "electrolytes",
+        "hydration",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "chicken broth",
+        "swanson broth",
+        "bone broth",
+        "warm broth",
+        "clear liquid"
+      ],
+      "whyItWorks": "The ultimate liquid hydration therapy during flares. Delivers sodium and potassium to prevent dehydration and orthostatic dizziness, while warm fluid relaxes gastrointestinal spastic contractions with zero residue.",
+      "prepOrOrderInstructions": "Pour into a mug and heat in microwave or saucepan until warm. Sip slowly throughout the day.",
+      "watchOuts": [
+        "Look for natural chicken broth without added onion powder or garlic if sensitive to alliums."
+      ],
+      "_sourcePath": "src/data/items/drinks-sauces/swanson-100-natural-chicken-broth.json"
     },
     {
       "id": "takara-sushi-logan-steamed-white-rice-bowl",
@@ -969,6 +1145,89 @@
       "_sourcePath": "src/data/items/snacks-desserts/nabisco-premium-saltine-crackers.json"
     },
     {
+      "id": "pedialyte-classic-unflavored-solution",
+      "name": "Pedialyte Classic Oral Electrolyte Solution",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Pedialyte / Abbott",
+      "crohnsScore": 9.7,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "drink",
+        "pedialyte",
+        "oral-rehydration",
+        "electrolytes",
+        "medical-grade",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "pedialyte",
+        "oral rehydration solution",
+        "ors",
+        "dehydration",
+        "hospital electrolyte"
+      ],
+      "whyItWorks": "Medical-grade oral rehydration therapy meeting World Health Organization (WHO) osmotic standards. Contains twice the sodium and half the sugar of sports drinks, maximizing cellular water absorption without drawing fluid into the bowel.",
+      "prepOrOrderInstructions": "Sip 4–8 oz slowly throughout the day during heavy watery diarrhea or flare-ups. Serve chilled over ice.",
+      "watchOuts": [
+        "Top clinical recommendation for preventing dehydration and electrolyte imbalances."
+      ],
+      "_sourcePath": "src/data/items/drinks-sauces/pedialyte-classic-unflavored-solution.json"
+    },
+    {
+      "id": "poached-boneless-skinless-chicken-breast",
+      "name": "Plain Poached or Baked Boneless Skinless Chicken Breast",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Grocery Staple",
+      "crohnsScore": 9.7,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "protein",
+        "chicken",
+        "chicken-breast",
+        "lean-protein",
+        "flare-safe",
+        "zero-fat"
+      ],
+      "searchKeywords": [
+        "poached chicken",
+        "baked chicken breast",
+        "plain chicken",
+        "shredded chicken",
+        "safe meat"
+      ],
+      "whyItWorks": "The absolute gold standard meat for Crohn's and Colitis. Boneless white breast meat contains virtually no connective tissue, no gristle, very low fat, and zero fiber. It breaks down easily in stomach acid, providing bioavailable protein to heal the gut.",
+      "prepOrOrderInstructions": "Simmer breast gently in chicken broth with sea salt for 15 minutes until internal temp reaches 165°F. Shred finely with two forks.",
+      "watchOuts": [
+        "Avoid charring, blackening, or heavily peppering the chicken exterior."
+      ],
+      "_sourcePath": "src/data/items/high-protein/poached-boneless-skinless-chicken-breast.json"
+    },
+    {
       "id": "towneplace-suites-draper-in-suite-kitchen-meal-hack",
       "name": "TownePlace Suites Salt Lake City Draper In-Suite Kitchen Meal (Stovetop Jasmine Rice, Bone Broth & Rotisserie Chicken)",
       "categoryFolder": "dinner",
@@ -1012,6 +1271,48 @@
         "Zero gut triggers—gives you a 100% controlled safety net whenever eating out in Draper feels risky"
       ],
       "_sourcePath": "src/data/items/dinner/towneplace-suites-draper-in-suite-kitchen-meal-hack.json"
+    },
+    {
+      "id": "nabisco-cream-of-wheat-original-farina",
+      "name": "Cream of Wheat Original Hot Cereal (Smooth Farina)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Cream of Wheat / B&G Foods",
+      "crohnsScore": 9.6,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "hot-cereal",
+        "cream-of-wheat",
+        "farina",
+        "iron-rich",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "cream of wheat",
+        "farina",
+        "hot wheat cereal",
+        "smooth porridge",
+        "iron breakfast"
+      ],
+      "whyItWorks": "Fine wheat farina with the coarse outer bran removed. It cooks into an ultra-smooth, velvety porridge delivering 50% of daily iron (vital for anemia in IBD) with only 1g of gentle soluble fiber. Melts down effortlessly in gastric acid.",
+      "prepOrOrderInstructions": "Cook on stovetop for 2.5 minutes. Swirl in a teaspoon of brown sugar, pure maple syrup, or a dash of cinnamon.",
+      "watchOuts": [
+        "Contains wheat (gluten); choose Cream of Rice if co-diagnosed with celiac disease."
+      ],
+      "_sourcePath": "src/data/items/breakfast/nabisco-cream-of-wheat-original-farina.json"
     },
     {
       "id": "kirkland-rotisserie-chicken-hand-pulled-breast-meat",
@@ -1218,6 +1519,48 @@
         "Choose smooth pureed varieties rather than chunky homestyle applesauce with leftover skin fragments."
       ],
       "_sourcePath": "src/data/items/produce-sides/smooth-unsweetened-applesauce-cup.json"
+    },
+    {
+      "id": "twinings-pure-chamomile-herbal-tea",
+      "name": "Twinings Pure Chamomile Herbal Tea (Caffeine-Free Antispasmodic)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Twinings",
+      "crohnsScore": 9.6,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "drink",
+        "tea",
+        "chamomile",
+        "twinings",
+        "caffeine-free",
+        "anti-inflammatory",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "chamomile tea",
+        "twinings chamomile",
+        "herbal tea",
+        "caffeine free tea",
+        "stomach tea"
+      ],
+      "whyItWorks": "Chamomile contains the bioflavonoid apigenin, which binds to benzodiazepine receptors in the nervous system and exerts natural antispasmodic and muscle-relaxant effects on the gastrointestinal tract, easing colonic cramps.",
+      "prepOrOrderInstructions": "Steep 1 tea bag in 8 oz boiling water for 4–5 minutes. Sip warm before bedtime or during cramps.",
+      "watchOuts": [
+        "100% caffeine-free; gentle on the stomach."
+      ],
+      "_sourcePath": "src/data/items/drinks-sauces/twinings-pure-chamomile-herbal-tea.json"
     },
     {
       "id": "dcl-room-service-chicken-noodle-soup",
@@ -2000,6 +2343,49 @@
       "whyItWorks": "Provides creamy, tangy hibachi and burger flavor using smooth powders instead of raw onion or pickle chunks.",
       "prepOrOrderInstructions": "Whisk 1/2 cup mayo + 1 tbsp smooth ketchup + 1 tsp melted butter + 1/2 tsp garlic powder + 1/2 tsp onion powder + 1 tsp sugar + splash of water.",
       "_sourcePath": "src/data/items/drinks-sauces/gut-safe-yum-yum-burger-sauce.json"
+    },
+    {
+      "id": "hard-boiled-large-egg-snack",
+      "name": "Hard-Boiled Large Egg (Chilled Protein Snack)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Fresh Grocery Staple",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "snack",
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "protein",
+        "eggs",
+        "hard-boiled",
+        "portable-protein",
+        "zero-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "hard boiled egg",
+        "boiled egg",
+        "egg snack",
+        "portable protein egg"
+      ],
+      "whyItWorks": "A portable, pre-portioned package of 6g pure protein and choline with zero carbohydrates and zero fiber. Chilled hard-boiled eggs are gentle, non-irritating, and stabilize blood sugar on busy days.",
+      "prepOrOrderInstructions": "Peel shell cleanly and sprinkle with a pinch of sea salt. Chew yolk and white thoroughly.",
+      "watchOuts": [
+        "Ensure shell fragments are 100% removed before eating."
+      ],
+      "_sourcePath": "src/data/items/high-protein/hard-boiled-large-egg-snack.json"
     },
     {
       "id": "iced-lobster-and-jumbo-shrimp",
@@ -2873,6 +3259,49 @@
       "_sourcePath": "src/data/items/lunch/smooth-egg-salad-brioche.json"
     },
     {
+      "id": "starkist-chunk-light-tuna-in-water",
+      "name": "StarKist Chunk Light Tuna in Water (Drained Can or Pouch)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "StarKist",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "protein",
+        "seafood",
+        "tuna",
+        "starkist",
+        "lean-protein",
+        "flare-safe",
+        "zero-fiber"
+      ],
+      "searchKeywords": [
+        "canned tuna",
+        "chunk light tuna",
+        "starkist tuna",
+        "tuna in water",
+        "tuna fish"
+      ],
+      "whyItWorks": "Wild skipjack tuna packed in water provides 20g+ of pure lean animal protein per can with virtually zero fat (under 1g) and zero fiber. Extremely light on digestion and easy to flake into soft bites.",
+      "prepOrOrderInstructions": "Drain water completely. Mix with 1 tablespoon of plain mayonnaise or olive oil and spread on white toast or saltines.",
+      "watchOuts": [
+        "Avoid canned tuna packed in heavy spicy oils or containing celery/onion seasonings."
+      ],
+      "_sourcePath": "src/data/items/high-protein/starkist-chunk-light-tuna-in-water.json"
+    },
+    {
       "id": "takara-sushi-logan-nigiri-california-roll",
       "name": "Takara Sushi (Logan) Salmon, Tuna & Yellowtail Nigiri + Miso Soup",
       "categoryFolder": "asian-indian",
@@ -3054,6 +3483,50 @@
       "_sourcePath": "src/data/items/lunch/thomas-cuisine-bamboohr-chicken-rice-congee.json"
     },
     {
+      "id": "traditional-white-sourdough-bread",
+      "name": "Traditional Artisanal White Sourdough Bread (Naturally Fermented)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Bakery Grocery Staple",
+      "crohnsScore": 9.5,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "bread",
+        "sourdough",
+        "fermented",
+        "low-fodmap",
+        "flare-safe",
+        "low-residue"
+      ],
+      "searchKeywords": [
+        "sourdough bread",
+        "white sourdough",
+        "fermented bread",
+        "boudin sourdough",
+        "safe bread"
+      ],
+      "whyItWorks": "The gold-standard daily bread for IBD. Natural wild yeast and lactobacilli fermentation over 24+ hours pre-digests wheat fructans (making it officially low-FODMAP) and partially breaks down gluten protein peptides, resulting in superior gastric tolerance and zero bloating.",
+      "prepOrOrderInstructions": "Toast lightly and spread with pure butter, smooth peanut butter, or use for lean turkey sandwiches. Chew crust thoroughly or slice crust away if jaw or bowel is fatigued.",
+      "watchOuts": [
+        "Look for authentic slow-fermented sourdough without added instant commercial yeast."
+      ],
+      "_sourcePath": "src/data/items/lunch/traditional-white-sourdough-bread.json"
+    },
+    {
       "id": "wonton-ramen-noodle-broth-bowl",
       "name": "Wonton or Ramen Noodle Broth Bowl",
       "categoryFolder": "lunch",
@@ -3089,6 +3562,91 @@
       "whyItWorks": "Hot bone broth hydrates an irritated bowel and replaces sodium, while refined wheat noodles and thin wonton wrappers require almost zero digestive effort.",
       "prepOrOrderInstructions": "Simmer ramen noodles (ditch spicy chili packets) or frozen chicken/pork wontons in rich chicken bone broth. Add 1 drop toasted sesame oil and a soft-boiled egg.",
       "_sourcePath": "src/data/items/lunch/wonton-ramen-noodle-broth-bowl.json"
+    },
+    {
+      "id": "pure-grade-a-maple-syrup",
+      "name": "100% Pure Grade A Amber Maple Syrup (Pure Tree Sap)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Pantry Grocery Staple",
+      "crohnsScore": 9.4,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "sauce"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "maple-syrup",
+        "sweetener",
+        "pancake-syrup",
+        "pure-sap",
+        "low-fodmap",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "maple syrup",
+        "pure maple syrup",
+        "grade a maple",
+        "natural sweetener",
+        "pancake syrup"
+      ],
+      "whyItWorks": "100% pure boiled maple tree sap. Unlike commercial pancake syrups made of high-fructose corn syrup, pure maple syrup is predominantly sucrose with mineral trace elements (manganese and zinc). It contains 0g fiber, zero artificial sweeteners, and is certified low-FODMAP.",
+      "prepOrOrderInstructions": "Drizzle 1–2 tablespoons over oatmeal, pancakes, Cream of Rice, or waffles. Avoid pancake syrups sweetened with sorbitol or high-fructose corn syrup.",
+      "watchOuts": [
+        "Read label carefully: must state '100% Pure Maple Syrup', not 'Maple-Flavored Corn Syrup'."
+      ],
+      "_sourcePath": "src/data/items/breakfast/pure-grade-a-maple-syrup.json"
+    },
+    {
+      "id": "bumble-bee-wild-pink-salmon-in-water",
+      "name": "Bumble Bee Wild Pink Salmon in Water (Skinless & Boneless)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Bumble Bee",
+      "crohnsScore": 9.4,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "protein",
+        "seafood",
+        "salmon",
+        "canned-salmon",
+        "omega-3",
+        "anti-inflammatory",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "canned salmon",
+        "wild pink salmon",
+        "bumble bee salmon",
+        "salmon pouch"
+      ],
+      "whyItWorks": "Packed with anti-inflammatory marine omega-3 fatty acids (EPA and DHA) that actively dampen intestinal cytokine inflammation. Tender, flaky texture melts with gentle chewing.",
+      "prepOrOrderInstructions": "Drain and flake with a fork. Delicious tossed with warm white rice or served on sourdough bread.",
+      "watchOuts": [
+        "Buy skinless & boneless cans/pouches to avoid hard bone fragments."
+      ],
+      "_sourcePath": "src/data/items/high-protein/bumble-bee-wild-pink-salmon-in-water.json"
     },
     {
       "id": "disneyland-bengal-barbecue-steamed-white-rice-cup",
@@ -3624,6 +4182,133 @@
       "_sourcePath": "src/data/items/high-protein/towneplace-suites-draper-hard-boiled-eggs.json"
     },
     {
+      "id": "wonder-classic-white-sandwich-bread",
+      "name": "Wonder Classic White Sandwich Bread (Ultra-Soft)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Wonder Bread / Flowers Foods",
+      "crohnsScore": 9.4,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "lunch"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "bread",
+        "white-bread",
+        "wonder-bread",
+        "refined-flour",
+        "flare-safe",
+        "low-residue"
+      ],
+      "searchKeywords": [
+        "wonder bread",
+        "white bread",
+        "sandwich bread",
+        "soft bread",
+        "bland bread"
+      ],
+      "whyItWorks": "Refined enriched wheat flour with all bran and germ removed. Wonder bread has a cloud-soft texture that turns to smooth mush upon chewing, presenting zero abrasive roughage to the GI tract.",
+      "prepOrOrderInstructions": "The ideal vehicle for flare-safe deli turkey sandwiches or light cinnamon toast.",
+      "watchOuts": [
+        "Low in fiber by design (0.5g); perfect for low-residue flare protocols."
+      ],
+      "_sourcePath": "src/data/items/lunch/wonder-classic-white-sandwich-bread.json"
+    },
+    {
+      "id": "barilla-classic-white-spaghetti-pasta",
+      "name": "Barilla Classic White Semolina Spaghetti (Cooked Tender)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Barilla",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pasta",
+        "spaghetti",
+        "barilla",
+        "semolina",
+        "refined-wheat",
+        "flare-safe",
+        "low-residue"
+      ],
+      "searchKeywords": [
+        "spaghetti",
+        "barilla pasta",
+        "white pasta",
+        "semolina pasta",
+        "plain noodles"
+      ],
+      "whyItWorks": "100% durum wheat semolina with the outer bran polished off. When boiled tender, white pasta is an elite flare-safe carb: simple, low-residue, non-bloating, and easy to digest.",
+      "prepOrOrderInstructions": "Boil in salted water for 9–10 minutes until tender (cook slightly past al dente during acute inflammation for softer chewing). Toss with butter or light olive oil.",
+      "watchOuts": [
+        "Never choose whole wheat pasta during flares; whole wheat pasta has coarse insoluble bran."
+      ],
+      "_sourcePath": "src/data/items/dinner/barilla-classic-white-spaghetti-pasta.json"
+    },
+    {
+      "id": "butterball-93-7-lean-ground-turkey",
+      "name": "Butterball 93/7 All Natural Lean Ground Turkey (Simmered Crumbles)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Butterball",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "protein",
+        "turkey",
+        "ground-turkey",
+        "butterball",
+        "lean-meat",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "ground turkey",
+        "butterball ground turkey",
+        "lean turkey",
+        "turkey crumbles"
+      ],
+      "whyItWorks": "Pre-ground poultry meat eliminates tough meat fibers, creating soft, easily chewed crumbles that digest rapidly. Low in saturated fat and high in bioavailable zinc and iron.",
+      "prepOrOrderInstructions": "Brown in a skillet with a splash of olive oil and salt. Simmer with a little chicken broth to keep meat juicy and soft. Mix with white rice or mashed potatoes.",
+      "watchOuts": [
+        "Choose 93/7 lean ground turkey rather than high-fat 85/15 varieties."
+      ],
+      "_sourcePath": "src/data/items/high-protein/butterball-93-7-lean-ground-turkey.json"
+    },
+    {
       "id": "costco-food-court-rotisserie-chicken-hack",
       "name": "Costco Wholesale (Logan & Draper, UT) Famous Rotisserie Chicken (Peeled Skin Hack)",
       "categoryFolder": "high-protein",
@@ -3707,6 +4392,49 @@
         "Safe for all phases of IBD, including active flares and strictures."
       ],
       "_sourcePath": "src/data/items/produce-sides/canned-sliced-carrots-del-monte.json"
+    },
+    {
+      "id": "general-mills-rice-chex-cereal",
+      "name": "General Mills Rice Chex Cereal (Crisp Puffed Rice Lattice)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "General Mills",
+      "crohnsScore": 9.3,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "cereal",
+        "chex",
+        "rice-chex",
+        "gluten-free",
+        "flare-safe",
+        "low-residue"
+      ],
+      "searchKeywords": [
+        "rice chex",
+        "chex cereal",
+        "gluten free cereal",
+        "puffed rice cereal",
+        "bland cereal"
+      ],
+      "whyItWorks": "Delicate woven lattices of puffed white rice and sugar with zero gluten and only 1g fiber. They absorb milk rapidly and disintegrate into a soft, non-abrasive mash with minimal chewing.",
+      "prepOrOrderInstructions": "Serve with lactose-free milk or eat dry straight from the box as a clean finger-food snack.",
+      "watchOuts": [
+        "Certified gluten-free; safe for both active flares and remission."
+      ],
+      "_sourcePath": "src/data/items/breakfast/general-mills-rice-chex-cereal.json"
     },
     {
       "id": "haribo-goldbears-original-gummy-bears",
@@ -4657,6 +5385,91 @@
       "_sourcePath": "src/data/items/drinks-sauces/knotts-berry-market-seedless-boysenberry-jelly-jar.json"
     },
     {
+      "id": "lactaid-100-lactose-free-milk",
+      "name": "Lactaid 100% Lactose-Free Whole / 2% Milk",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Lactaid / HP Hood",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "drink",
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dairy",
+        "milk",
+        "lactose-free",
+        "lactaid",
+        "calcium",
+        "high-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "lactaid milk",
+        "lactose free milk",
+        "lactaid whole milk",
+        "dairy safe milk"
+      ],
+      "whyItWorks": "Real farm-fresh dairy milk pre-treated with natural lactase enzymes that convert all lactose disaccharides into simple, easily absorbed glucose and galactose. Delivers 8g of complete protein, calcium, and vitamin D with zero lactose bloating or diarrhea.",
+      "prepOrOrderInstructions": "Drink cold, pour over cereal, or use 1:1 in any recipe calling for milk.",
+      "watchOuts": [
+        "Contains real dairy milk protein (casein and whey); safe for lactose intolerance, but not for severe IgE milk allergies."
+      ],
+      "_sourcePath": "src/data/items/breakfast/lactaid-100-lactose-free-milk.json"
+    },
+    {
+      "id": "mission-super-soft-flour-tortillas",
+      "name": "Mission Super Soft White Flour Tortillas (Taco Size)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Mission Foods / Gruma",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "bread",
+        "tortillas",
+        "flour-tortillas",
+        "mission",
+        "soft-wraps",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "flour tortillas",
+        "mission tortillas",
+        "soft taco tortillas",
+        "white tortillas",
+        "soft wraps"
+      ],
+      "whyItWorks": "Pliable, tender, and made of refined bleached wheat flour. They wrap smoothly without cracking and contain only 1g fiber, providing a far safer taco/burrito wrap than abrasive fried corn shells.",
+      "prepOrOrderInstructions": "Warm on a dry skillet for 15 seconds per side to make them extra soft and pliable. Fill with shredded chicken breast and mild cheese.",
+      "watchOuts": [
+        "Far easier to digest during flares than crunchy hard taco shells."
+      ],
+      "_sourcePath": "src/data/items/lunch/mission-super-soft-flour-tortillas.json"
+    },
+    {
       "id": "pirates-booty-aged-white-cheddar-puffs",
       "name": "Pirate's Booty Aged White Cheddar Baked Rice & Corn Puffs",
       "categoryFolder": "snacks-desserts",
@@ -4816,6 +5629,47 @@
         "Discard tough baked potato skin during flare periods"
       ],
       "_sourcePath": "src/data/items/dinner/tjs-grill-montpelier-grilled-chicken-baked-potato.json"
+    },
+    {
+      "id": "traditional-medicinals-organic-peppermint-tea",
+      "name": "Traditional Medicinals Organic Peppermint Herbal Tea",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Traditional Medicinals",
+      "crohnsScore": 9.2,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "drink",
+        "tea",
+        "peppermint",
+        "traditional-medicinals",
+        "antispasmodic",
+        "gas-relief"
+      ],
+      "searchKeywords": [
+        "peppermint tea",
+        "herbal tea",
+        "stomach cramp tea",
+        "mint tea",
+        "gas relief tea"
+      ],
+      "whyItWorks": "Rich in volatile menthol essential oils that act as natural calcium-channel blockers in gastrointestinal smooth muscle, rapidly easing painful colonic spasms and dispelling trapped abdominal gas.",
+      "prepOrOrderInstructions": "Steep 1 bag covered for 10 minutes to capture the therapeutic volatile oils. Drink after meals.",
+      "watchOuts": [
+        "Peppermint relaxes the lower esophageal sphincter; avoid if you suffer from severe GERD or active acid reflux."
+      ],
+      "_sourcePath": "src/data/items/drinks-sauces/traditional-medicinals-organic-peppermint-tea.json"
     },
     {
       "id": "tsunami-sushi-south-jordan-lehi-salmon-nigiri-udon",
@@ -5336,6 +6190,47 @@
       "_sourcePath": "src/data/items/lunch/holiday-leftover-turkey-cranberry-sourdough-sandwich.json"
     },
     {
+      "id": "kelloggs-corn-flakes-original",
+      "name": "Kellogg's Corn Flakes Original Cereal",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Kellanova",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "cereal",
+        "corn-flakes",
+        "kelloggs",
+        "iron-fortified",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "corn flakes",
+        "kelloggs corn flakes",
+        "original corn flakes",
+        "breakfast cereal"
+      ],
+      "whyItWorks": "Milled from degermed corn grit (which completely strips away the dangerous indigestible outer corn hull). The paper-thin toasted flakes soften within seconds of touching liquid, leaving no roughage behind.",
+      "prepOrOrderInstructions": "Pour cold lactose-free milk over the flakes and let them soak for 30 seconds for a gentle, easy-to-swallow breakfast.",
+      "watchOuts": [
+        "Completely hull-free; safe for strictures unlike whole sweet corn."
+      ],
+      "_sourcePath": "src/data/items/breakfast/kelloggs-corn-flakes-original.json"
+    },
+    {
       "id": "members-mark-shrimp-cocktail-tray-with-cocktail-sauce",
       "name": "Member's Mark Steamed Tail-On Shrimp Cocktail Tray",
       "categoryFolder": "produce-sides",
@@ -5415,6 +6310,47 @@
         "Use smooth Boysenberry Jelly (strained juice + pectin) rather than whole-berry Boysenberry Preserves (which contain gritty seeds)"
       ],
       "_sourcePath": "src/data/items/lunch/knotts-mrs-knotts-chicken-noodle-soup-biscuits.json"
+    },
+    {
+      "id": "oscar-mayer-deli-fresh-oven-roasted-turkey",
+      "name": "Oscar Mayer Deli Fresh Oven Roasted Turkey Breast Slices",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Oscar Mayer / Kraft Heinz",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "protein",
+        "deli-meat",
+        "turkey-breast",
+        "oscar-mayer",
+        "lunch-meat",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "deli turkey",
+        "sliced turkey",
+        "oscar mayer turkey",
+        "oven roasted turkey breast"
+      ],
+      "whyItWorks": "Thinly shaved, skinless, lean turkey breast slices. It requires virtually zero chewing effort, delivers 10g protein per 2-oz serving with under 1g fat, and has no roughage or spicy pepper coatings.",
+      "prepOrOrderInstructions": "Roll slices up for a quick protein snack, or layer between white bread with mild cheddar.",
+      "watchOuts": [
+        "Contains added sodium for preservation; drink water alongside deli meats."
+      ],
+      "_sourcePath": "src/data/items/high-protein/oscar-mayer-deli-fresh-oven-roasted-turkey.json"
     },
     {
       "id": "peeled-steamed-zucchini",
@@ -5500,6 +6436,47 @@
       "_sourcePath": "src/data/items/snacks-desserts/pepperidge-farm-goldfish-original-crackers.json"
     },
     {
+      "id": "silk-unsweetened-almond-milk",
+      "name": "Silk Unsweetened Plain Almond Milk (Ultra-Filtered)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Silk / Danone",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "drink",
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dairy-free",
+        "almond-milk",
+        "plant-milk",
+        "silk",
+        "low-calorie",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "almond milk",
+        "silk almond milk",
+        "unsweetened almond milk",
+        "dairy free milk"
+      ],
+      "whyItWorks": "Finely ground blanched almonds filtered through micro-mesh, removing all solid particles and hulls. It is 100% dairy-free, lactose-free, low-calorie, and fortified with 50% more calcium than dairy milk without any digestive friction.",
+      "prepOrOrderInstructions": "Shake carton well before pouring. Excellent base for smoothies or morning cereal.",
+      "watchOuts": [
+        "Low in protein (1g per cup); combine with eggs or poultry if seeking protein density."
+      ],
+      "_sourcePath": "src/data/items/breakfast/silk-unsweetened-almond-milk.json"
+    },
+    {
       "id": "snack-factory-pretzel-crisps-original",
       "name": "Snack Factory Pretzel Crisps Original (Flat Pretzels)",
       "categoryFolder": "snacks-desserts",
@@ -5580,6 +6557,47 @@
         "None; premier flare-safe dinner"
       ],
       "_sourcePath": "src/data/items/dinner/the-break-sports-grill-daybreak-grilled-salmon-fillet.json"
+    },
+    {
+      "id": "thomas-plain-english-muffins",
+      "name": "Thomas' Original Plain English Muffins (Fork-Split)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Thomas' / Bimbo Bakeries",
+      "crohnsScore": 9.1,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "english-muffin",
+        "thomas",
+        "toasted",
+        "flare-safe",
+        "nooks-and-crannies"
+      ],
+      "searchKeywords": [
+        "english muffin",
+        "thomas english muffins",
+        "fork split muffins",
+        "toasted muffin"
+      ],
+      "whyItWorks": "A light, yeast-leavened flat bread with 'nooks and crannies' made from refined white flour. When toasted, it becomes pleasantly crisp on the edges while remaining tender inside, absorbing butter with minimal fiber.",
+      "prepOrOrderInstructions": "Split open gently with a fork and toast until golden. Spread with butter or seedless strawberry jelly.",
+      "watchOuts": [
+        "Avoid whole wheat or multigrain English muffin varieties."
+      ],
+      "_sourcePath": "src/data/items/breakfast/thomas-plain-english-muffins.json"
     },
     {
       "id": "thomas-cuisine-bamboohr-scrambled-egg-morning-bowl",
@@ -11102,6 +12120,88 @@
       "_sourcePath": "src/data/items/snacks-desserts/frigo-cheese-heads-string-cheese.json"
     },
     {
+      "id": "gatorade-original-thirst-quencher",
+      "name": "Gatorade Thirst Quencher (Glacier Freeze or Cool Blue)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Gatorade / PepsiCo",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "drink",
+        "gatorade",
+        "electrolytes",
+        "hydration",
+        "sports-drink",
+        "sodium"
+      ],
+      "searchKeywords": [
+        "gatorade",
+        "glacier freeze",
+        "electrolyte drink",
+        "sports drink",
+        "rehydration"
+      ],
+      "whyItWorks": "Formulated with the optimal glucose-to-sodium ratio (sodium-glucose cotransport mechanism in the small intestine) to force water absorption through the intestinal wall even during active diarrhea.",
+      "prepOrOrderInstructions": "Dilute 50/50 with cold water if the full-strength sugar concentration feels too sweet or stimulates stomach emptying.",
+      "watchOuts": [
+        "Contains simple sugars; dilute 1:1 with water for ideal osmolarity during rapid diarrhea."
+      ],
+      "_sourcePath": "src/data/items/drinks-sauces/gatorade-original-thirst-quencher.json"
+    },
+    {
+      "id": "eggo-homestyle-frozen-waffles",
+      "name": "Kellogg's Eggo Homestyle Frozen Waffles (Toasted)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Eggo / Kellanova",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "waffles",
+        "eggo",
+        "toasted-waffles",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "eggo waffles",
+        "frozen waffles",
+        "homestyle waffles",
+        "toasted waffle"
+      ],
+      "whyItWorks": "Made from refined enriched wheat flour with a light, airy grid texture that crisps on the outside and stays fluffy inside. With just 1g fiber and low fat, it is a comforting, low-residue morning carb.",
+      "prepOrOrderInstructions": "Toast until lightly golden (not dark or charred). Top with a dab of butter and 100% pure maple syrup.",
+      "watchOuts": [
+        "Contains wheat and egg ingredients; chew well."
+      ],
+      "_sourcePath": "src/data/items/breakfast/eggo-homestyle-frozen-waffles.json"
+    },
+    {
       "id": "kirkland-signature-wild-cold-smoked-salmon-lox",
       "name": "Kirkland Signature Wild Smoked Sockeye Salmon Lox (2 x 12 oz)",
       "categoryFolder": "high-protein",
@@ -11429,6 +12529,47 @@
         "Discard the central woody core of large mature parsnips before boiling."
       ],
       "_sourcePath": "src/data/items/produce-sides/steamed-peeled-parsnips-puree.json"
+    },
+    {
+      "id": "tillamook-medium-cheddar-cheese-slices",
+      "name": "Tillamook Medium Cheddar Cheese (Naturally 0g Lactose)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Tillamook",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dairy",
+        "cheese",
+        "cheddar",
+        "tillamook",
+        "naturally-lactose-free",
+        "protein"
+      ],
+      "searchKeywords": [
+        "cheddar cheese",
+        "tillamook cheddar",
+        "sliced cheddar",
+        "lactose free cheese"
+      ],
+      "whyItWorks": "Traditional cheddar cheese undergoes natural aging and bacterial fermentation that completely consumes all lactose sugars (testing at 0g lactose per serving). Provides calcium and satisfying fat with zero lactose distress.",
+      "prepOrOrderInstructions": "Melt over white bread for a gentle grilled cheese, or eat a slice with plain saltine crackers.",
+      "watchOuts": [
+        "Rich in natural dairy fat; limit to 1–2 slices during active flare recovery."
+      ],
+      "_sourcePath": "src/data/items/lunch/tillamook-medium-cheddar-cheese-slices.json"
     },
     {
       "id": "viva-chicken-herriman-st-george-rotisserie-chicken-white-rice",
@@ -12299,6 +13440,49 @@
       "_sourcePath": "src/data/items/produce-sides/fresh-ripe-papaya-slices.json"
     },
     {
+      "id": "general-mills-original-cheerios",
+      "name": "General Mills Original Cheerios (Toasted Oat O's)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "General Mills",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "cereal",
+        "cheerios",
+        "gluten-free",
+        "oats",
+        "soluble-fiber",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "cheerios",
+        "original cheerios",
+        "yellow box cheerios",
+        "oat cereal",
+        "heart healthy cereal"
+      ],
+      "whyItWorks": "Made from finely milled whole grain oat flour, pureed and toasted into crisp rings that dissolve immediately in milk. Unlike raw oats, the beta-glucan soluble fiber is smooth and helps bind stool without scratching inflamed tissue.",
+      "prepOrOrderInstructions": "Pour into a bowl with cold lactose-free milk, almond milk, or oat milk. Let sit for 60 seconds to soften before eating.",
+      "watchOuts": [
+        "Contains soluble oat fiber; enjoy in standard 1-cup portions."
+      ],
+      "_sourcePath": "src/data/items/breakfast/general-mills-original-cheerios.json"
+    },
+    {
       "id": "coopers-bear-lake-west-grilled-chicken-breast",
       "name": "Grilled Marinated Chicken Breast with Steamed Rice",
       "categoryFolder": "dinner",
@@ -13057,6 +14241,48 @@
         "Cold temperatures can trigger mild gastrocolic reflex spasms in hyper-motile individuals; eat slowly."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/breyers-lactose-free-vanilla-ice-cream.json"
+    },
+    {
+      "id": "chobani-plain-whole-milk-greek-yogurt",
+      "name": "Chobani Plain Whole Milk Greek Yogurt (Strained Probiotic)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Chobani",
+      "crohnsScore": 8.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dairy",
+        "yogurt",
+        "greek-yogurt",
+        "chobani",
+        "probiotics",
+        "high-protein",
+        "low-lactose"
+      ],
+      "searchKeywords": [
+        "greek yogurt",
+        "chobani plain",
+        "strained yogurt",
+        "probiotic yogurt"
+      ],
+      "whyItWorks": "Traditional Greek yogurt is triple-strained, which washes away most of the liquid whey and lactose. The active live yogurt cultures (S. thermophilus and L. bulgaricus) produce their own lactase, aiding digestion and supporting colonic mucosal healing in remission.",
+      "prepOrOrderInstructions": "Stir in a teaspoon of pure maple syrup or smooth seedless honey. Avoid varieties packed with chunky fruit seeds or acidic citrus purees.",
+      "watchOuts": [
+        "Choose plain varieties to avoid added high-fructose corn syrup and seeded fruit compotes."
+      ],
+      "_sourcePath": "src/data/items/breakfast/chobani-plain-whole-milk-greek-yogurt.json"
     },
     {
       "id": "cupbop-draper-herriman-lindon-bop-level-1",
@@ -15300,6 +16526,47 @@
         "None; premier gentle bakery bread"
       ],
       "_sourcePath": "src/data/items/breakfast/portos-bakery-buena-park-pan-suave-cuban-sweet-bread.json"
+    },
+    {
+      "id": "quaker-quick-1-minute-oats-porridge",
+      "name": "Quaker Quick 1-Minute Oats (Cooked Creamy Oatmeal)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Quaker Oats",
+      "crohnsScore": 8.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "oatmeal",
+        "quaker-oats",
+        "quick-oats",
+        "soluble-fiber",
+        "beta-glucan"
+      ],
+      "searchKeywords": [
+        "oatmeal",
+        "quick oats",
+        "quaker oatmeal",
+        "cooked oatmeal",
+        "porridge"
+      ],
+      "whyItWorks": "Quick oats are rolled thinner and cut finer than old-fashioned oats. Boiling them in water breaks down the oat starch into a creamy colloidal suspension rich in soluble beta-glucan, which nourishes the gut microbiome and forms a protective coating.",
+      "prepOrOrderInstructions": "Simmer 1/2 cup quick oats in 1 cup water or lactose-free milk for 1–2 minutes until completely smooth and creamy. Top with pureed applesauce or sliced ripe bananas.",
+      "watchOuts": [
+        "Must be thoroughly cooked until mushy; do not eat undercooked, dry, or raw rolled oats."
+      ],
+      "_sourcePath": "src/data/items/breakfast/quaker-quick-1-minute-oats-porridge.json"
     },
     {
       "id": "saffron-valley-herriman-dosa-idli-tikka-masala",
@@ -34578,6 +35845,46 @@
       "whyItWorks": "Freshly baked buttermilk biscuits are light, tender, and soft on the digestive system. Topped with a moderate smear of Knott's famous boysenberry jam, it provides comforting carbohydrates.",
       "prepOrOrderInstructions": "Eat the soft interior of the biscuit with seedless boysenberry jam or butter. Chew thoroughly.",
       "_sourcePath": "src/data/items/produce-sides/knotts-mrs-knotts-buttermilk-biscuits.json"
+    },
+    {
+      "id": "philadelphia-original-cream-cheese",
+      "name": "Philadelphia Original Cream Cheese (Plain Spread)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Philadelphia / Kraft Heinz",
+      "crohnsScore": 7.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "dairy",
+        "cream-cheese",
+        "philadelphia",
+        "spread",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "cream cheese",
+        "philadelphia cream cheese",
+        "bagel spread",
+        "plain cream cheese"
+      ],
+      "whyItWorks": "Smooth, velvety, and completely free of roughage, nuts, or seeds. It coats white bread or plain bagels comfortably and provides quick, dense calories during recovery.",
+      "prepOrOrderInstructions": "Spread a modest layer (1 tablespoon) onto soft white bread, plain bagel, or saltines. Take a lactase tablet if sensitive to unaged dairy.",
+      "watchOuts": [
+        "Contains unaged milk and cream (moderate lactose and saturated fat); avoid thick heavy schmears during active flare-ups."
+      ],
+      "_sourcePath": "src/data/items/breakfast/philadelphia-original-cream-cheese.json"
     },
     {
       "id": "plain-milk-chocolate-m-and-ms",
@@ -54966,6 +56273,48 @@
       "_sourcePath": "src/data/items/diner-bbq/pirate-night-baby-back-pork-ribs.json"
     },
     {
+      "id": "carbonated-seltzer-sparkling-water-warning",
+      "name": "Carbonated Seltzer & Sparkling Water (Gas Distension Warning)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Beverage Staple Warning",
+      "crohnsScore": 5.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "drink",
+        "seltzer",
+        "sparkling-water",
+        "lacroix",
+        "carbonation",
+        "gas-warning"
+      ],
+      "searchKeywords": [
+        "sparkling water",
+        "seltzer",
+        "lacroix",
+        "bubly",
+        "carbonated water",
+        "gas bloating"
+      ],
+      "whyItWorks": "Carbonated waters contain dissolved carbon dioxide gas under pressure. When consumed, the gas releases rapidly in the warm stomach and small intestine, causing painful mechanical bloating, belching, and painful distension against strictured bowel walls.",
+      "prepOrOrderInstructions": "Gas Warning: Avoid fizzy drinks, seltzers, and club sodas during flares or with known intestinal narrowing. Stick to flat, still spring water, broths, and herbal teas.",
+      "watchOuts": [
+        "Expanding CO2 gas creates painful luminal pressure against narrow strictures and inflamed intestines."
+      ],
+      "_sourcePath": "src/data/items/drinks-sauces/carbonated-seltzer-sparkling-water-warning.json"
+    },
+    {
       "id": "crepes-and-coffee-bear-lake-nitro-cold-brew-warning",
       "name": "Crepes and Coffee (Garden City, UT) Wasatch Roasters Nitro Cold Brew (Caffeine Warning)",
       "categoryFolder": "drinks-sauces",
@@ -56811,6 +58160,46 @@
       "whyItWorks": "Traditional curd yogurt blended with sweet mango pulp, sugar, and milk. Although yogurt cultures offer probiotics, the high lactose content and concentrated mango fructose can overwhelm compromised enzymes, causing osmotic diarrhea.",
       "prepOrOrderInstructions": "Lactose & High Fructose Warning: Sip just a few ounces in remission with lactase support. Avoid during flares.",
       "_sourcePath": "src/data/items/drinks-sauces/tandoori-oven-logan-sweet-mango-lassi-warning.json"
+    },
+    {
+      "id": "quinoa-saponin-seed-warning",
+      "name": "Cooked Quinoa (Intact Seed Coat & Saponin Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Pantry Grocery Staple",
+      "crohnsScore": 5.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grains",
+        "quinoa",
+        "seeds",
+        "stricture-warning",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "quinoa",
+        "quinoa seeds",
+        "quinoa trigger",
+        "quinoa diarrhea"
+      ],
+      "whyItWorks": "Quinoa is botanically a tiny seed, not a grain. When cooked, each seed unfurls a tiny fibrous tail and retains an indigestible seed coat. Thousands of tiny seeds pass largely intact into the bowel, causing mechanical irritation in strictures.",
+      "prepOrOrderInstructions": "Stricture Warning: Avoid quinoa salads and bowls during active symptoms. Choose white rice, couscous, or peeled potatoes instead.",
+      "watchOuts": [
+        "Tiny intact seeds pass undigested, irritating inflamed intestinal linings."
+      ],
+      "_sourcePath": "src/data/items/dinner/quinoa-saponin-seed-warning.json"
     },
     {
       "id": "dca-pym-test-kitchen-choco-smash-candy-bar-nut-warning",
@@ -59620,6 +61009,46 @@
       "_sourcePath": "src/data/items/drinks-sauces/holiday-spiced-eggnog-dairy-warning.json"
     },
     {
+      "id": "whole-grain-brown-rice-bran-warning",
+      "name": "Whole Grain Brown Rice (Insoluble Bran Coat Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Pantry Grocery Staple",
+      "crohnsScore": 4.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rice",
+        "brown-rice",
+        "whole-grain",
+        "insoluble-bran",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "brown rice",
+        "whole grain rice",
+        "brown rice diarrhea",
+        "brown rice trigger"
+      ],
+      "whyItWorks": "While often promoted as 'healthy', brown rice retains the tough, fibrous, insoluble outer bran hull. This sharp silica-rich hull resists digestion and rubs abrasively against inflamed mucosal ulcers, accelerating cramping and loose stools.",
+      "prepOrOrderInstructions": "Flare Warning: Avoid brown rice, wild rice, and black rice during active disease. Switch exclusively to polished white Jasmine, Basmati, or sushi rice.",
+      "watchOuts": [
+        "The insoluble bran coat mechanically scratches inflamed ulcerations and causes severe bloating."
+      ],
+      "_sourcePath": "src/data/items/dinner/whole-grain-brown-rice-bran-warning.json"
+    },
+    {
       "id": "angies-restaurant-logan-navajo-taco-warning",
       "name": "Angie's Restaurant (Logan, UT) Famous Navajo Taco on Utah Scone (High Risk Warning)",
       "categoryFolder": "mexican-southwest",
@@ -60972,6 +62401,47 @@
         "Cumin/onion spice base"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/plaza-de-coco-red-green-lentil-soup.json"
+    },
+    {
+      "id": "steel-cut-oats-coarse-groats-warning",
+      "name": "Steel-Cut Oats (Coarse Whole Groat Mechanical Hazard Warning)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Pantry Breakfast Staple",
+      "crohnsScore": 4.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "oats",
+        "steel-cut-oats",
+        "irish-oats",
+        "roughage",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "steel cut oats",
+        "irish oats",
+        "pinhead oats",
+        "bobs red mill oats",
+        "coarse oatmeal"
+      ],
+      "whyItWorks": "Unlike rolled or quick oats which are steamed and flattened, steel-cut oats are chopped whole oat groats. Even after 30 minutes of boiling, they retain a dense, chewy, rubbery core that requires extensive enzymatic digestion and can irritate inflamed ileal strictures.",
+      "prepOrOrderInstructions": "Stricture & Flare Warning: Avoid steel-cut and Irish oats during active disease. Substitute with smooth Quick 1-Minute Oats or Cream of Rice.",
+      "watchOuts": [
+        "Dense, chewy, un-flattened groats resist digestion and can cause painful spasms and partial blockages."
+      ],
+      "_sourcePath": "src/data/items/breakfast/steel-cut-oats-coarse-groats-warning.json"
     },
     {
       "id": "tianas-vegetable-gumbo",
@@ -64461,6 +65931,49 @@
       "_sourcePath": "src/data/items/dinner/periscope-pub-wings-coconut-shrimp.json"
     },
     {
+      "id": "granola-muesli-whole-nut-stricture-hazard",
+      "name": "Granola & Muesli (High Insoluble Fiber, Nut & Seed Hazard)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Pantry Breakfast Staple",
+      "crohnsScore": 2.3,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "breakfast",
+        "granola",
+        "muesli",
+        "nuts",
+        "seeds",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "granola",
+        "muesli",
+        "crunchy granola",
+        "nature valley granola",
+        "granola hazard"
+      ],
+      "whyItWorks": "One of the absolute worst foods for Crohn's and Colitis. Granola combines raw rolled oats baked into hard clusters with whole pumpkin seeds, flax seeds, slivered almonds, and dried fruit. It forms an unyielding abrasive mass that acts like sandpaper on ulcers and is a frequent cause of ileal food impactions.",
+      "prepOrOrderInstructions": "Severe Medical Warning: Completely avoid granola, muesli, and crunchy granola bars if you have Crohn's, Colitis, or bowel narrowing. Choose Rice Chex or soft toasted white bread instead.",
+      "watchOuts": [
+        "Extreme stricture blockage risk: Dense mixture of raw grains, sharp seed coats, and whole nut fragments."
+      ],
+      "_sourcePath": "src/data/items/breakfast/granola-muesli-whole-nut-stricture-hazard.json"
+    },
+    {
       "id": "whole-sweet-corn-on-the-cob-warning",
       "name": "Sweet Corn on the Cob & Whole Kernel Corn (Extreme Stricture Hazard)",
       "categoryFolder": "produce-sides",
@@ -64979,6 +66492,47 @@
       "whyItWorks": "Served in a giant boat dish with 8 scoops of ice cream, chocolate fudge, caramel, toasted nuts, whipped cream, and cherries. Represents an overwhelming barrage of lactose, sugar, and whole nut obstruction risks.",
       "prepOrOrderInstructions": "Extreme Danger Hazard: Never attempt with active IBD. Severe osmotic diarrhea, cramping, and stricture risk from nuts will follow.",
       "_sourcePath": "src/data/items/snacks-desserts/leatherbys-creamery-draper-alligator-giant-sundae-warning.json"
+    },
+    {
+      "id": "energy-drinks-caffeine-taurine-hazard-warning",
+      "name": "Caffeinated Energy Drinks (Monster, Red Bull, Celsius — Extreme Motility Hazard)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Beverage Staple Warning",
+      "crohnsScore": 1.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "drink"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "drink",
+        "energy-drinks",
+        "caffeine",
+        "taurine",
+        "hypermotility",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "monster energy",
+        "red bull",
+        "celsius",
+        "energy drink diarrhea",
+        "caffeine trigger"
+      ],
+      "whyItWorks": "A catastrophic trigger cocktail for IBD: massive doses of anhydrous caffeine (160–300mg), taurine, carbonation, and artificial sweeteners or citric acid. Caffeine strongly stimulates colonic peristalsis, triggering uncontrollable watery diarrhea, severe mucosal burning, and rectal bleeding.",
+      "prepOrOrderInstructions": "Severe Medical Warning: Never consume energy drinks if you have Crohn's disease or Ulcerative Colitis. If needing a gentle morning lift, choose warm black tea or decaf coffee in deep remission.",
+      "watchOuts": [
+        "Extreme gut motility stimulant: Causes violent cramping, immediate fecal urgency, and dehydrating diarrhea."
+      ],
+      "_sourcePath": "src/data/items/drinks-sauces/energy-drinks-caffeine-taurine-hazard-warning.json"
     },
     {
       "id": "dca-adorable-snowman-lemon-soft-serve-citrus-warning",

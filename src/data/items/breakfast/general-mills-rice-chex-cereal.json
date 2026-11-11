@@ -1,0 +1,42 @@
+{
+  "id": "general-mills-rice-chex-cereal",
+  "name": "General Mills Rice Chex Cereal (Crisp Puffed Rice Lattice)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "General Mills",
+  "crohnsScore": 9.3,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "breakfast",
+    "cereal",
+    "chex",
+    "rice-chex",
+    "gluten-free",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "rice chex",
+    "chex cereal",
+    "gluten free cereal",
+    "puffed rice cereal",
+    "bland cereal"
+  ],
+  "whyItWorks": "Delicate woven lattices of puffed white rice and sugar with zero gluten and only 1g fiber. They absorb milk rapidly and disintegrate into a soft, non-abrasive mash with minimal chewing.",
+  "prepOrOrderInstructions": "Serve with lactose-free milk or eat dry straight from the box as a clean finger-food snack.",
+  "watchOuts": [
+    "Certified gluten-free; safe for both active flares and remission."
+  ]
+}

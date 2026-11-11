@@ -1,0 +1,41 @@
+{
+  "id": "bumble-bee-wild-pink-salmon-in-water",
+  "name": "Bumble Bee Wild Pink Salmon in Water (Skinless & Boneless)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Bumble Bee",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "protein",
+    "seafood",
+    "salmon",
+    "canned-salmon",
+    "omega-3",
+    "anti-inflammatory",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "canned salmon",
+    "wild pink salmon",
+    "bumble bee salmon",
+    "salmon pouch"
+  ],
+  "whyItWorks": "Packed with anti-inflammatory marine omega-3 fatty acids (EPA and DHA) that actively dampen intestinal cytokine inflammation. Tender, flaky texture melts with gentle chewing.",
+  "prepOrOrderInstructions": "Drain and flake with a fork. Delicious tossed with warm white rice or served on sourdough bread.",
+  "watchOuts": [
+    "Buy skinless & boneless cans/pouches to avoid hard bone fragments."
+  ]
+}

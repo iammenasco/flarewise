@@ -1,0 +1,41 @@
+{
+  "id": "wonder-classic-white-sandwich-bread",
+  "name": "Wonder Classic White Sandwich Bread (Ultra-Soft)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Wonder Bread / Flowers Foods",
+  "crohnsScore": 9.4,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "breakfast",
+    "lunch"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "bread",
+    "white-bread",
+    "wonder-bread",
+    "refined-flour",
+    "flare-safe",
+    "low-residue"
+  ],
+  "searchKeywords": [
+    "wonder bread",
+    "white bread",
+    "sandwich bread",
+    "soft bread",
+    "bland bread"
+  ],
+  "whyItWorks": "Refined enriched wheat flour with all bran and germ removed. Wonder bread has a cloud-soft texture that turns to smooth mush upon chewing, presenting zero abrasive roughage to the GI tract.",
+  "prepOrOrderInstructions": "The ideal vehicle for flare-safe deli turkey sandwiches or light cinnamon toast.",
+  "watchOuts": [
+    "Low in fiber by design (0.5g); perfect for low-residue flare protocols."
+  ]
+}
