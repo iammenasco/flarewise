@@ -8,12 +8,7 @@ import type {
 
 export type ModeFilter = 'all' | 'starred' | 'grocery'
 
-export type PlaceContextId =
-  | 'home'
-  | 'bear-lake-cache'
-  | 'work-hotels'
-  | 'theme-parks'
-  | 'cruise'
+export type PlaceContextId = 'home' | 'theme-parks' | 'cruise'
 
 export const THEME_PARK_CHIPS = [
   { tag: 'disneyland', label: 'Disneyland', shortLabel: 'Disneyland' },
@@ -69,36 +64,6 @@ export const PLACE_CONTEXTS = [
     shortLabel: 'Home',
     hint: 'Everyday catalog — vacation menus stay tucked away',
     matchTags: [] as readonly string[],
-    vacation: false as const,
-  },
-  {
-    id: 'bear-lake-cache' as const,
-    label: 'Bear Lake & Cache Valley',
-    shortLabel: 'Bear Lake',
-    hint: 'Logan, Garden City, Montpelier, Laketown',
-    matchTags: [
-      'bear-lake',
-      'cache-valley',
-      'logan',
-      'garden-city',
-      'montpelier',
-      'laketown',
-    ] as const,
-    vacation: false as const,
-  },
-  {
-    id: 'work-hotels' as const,
-    label: 'Workplace & hotels',
-    shortLabel: 'Work',
-    hint: 'BambooHR / Thomas2Go and hotel breakfasts',
-    matchTags: [
-      'bamboohr',
-      'thomas2go',
-      'hotel',
-      'hotel-breakfast',
-      'office-cafe',
-      'lindon',
-    ] as const,
     vacation: false as const,
   },
   {
@@ -193,7 +158,7 @@ export interface CatalogFilters {
   region: Region | ''
   tag: string
   cost: '' | '1' | '2' | '3'
-  /** Life-context dial: Home / Bear Lake / Work / Parks / Cruise. */
+  /** Place dial: Home / Parks / Cruise (vacation scopes). */
   place: PlaceContextId
   /** Exact brandOrRestaurant venue menu (URL-encoded in the query string). */
   venue: string

@@ -173,57 +173,6 @@ describe('itemPassesFilters', () => {
     expect(defaultPreferences.guardrails.cruiseMode).toBe(false)
   })
 
-  it('scopes Bear Lake & Cache Valley to local tags without unlocking vacation menus', () => {
-    const loganItem: CrohnsFoodItem = {
-      ...baseItem,
-      id: 'angies-scramble',
-      brandOrRestaurant: "Angie's Restaurant (Logan, UT)",
-      tags: ['eggs', 'logan', 'cache-valley'],
-    }
-    const bearLakeItem: CrohnsFoodItem = {
-      ...baseItem,
-      id: 'crepes-bear-lake',
-      brandOrRestaurant: 'Crepes and Coffee (Garden City / Bear Lake, UT)',
-      tags: ['crepe', 'bear-lake', 'garden-city'],
-    }
-    const disneylandItem: CrohnsFoodItem = {
-      ...baseItem,
-      id: 'plaza-inn',
-      tags: ['chicken', 'vacation', 'disneyland'],
-    }
-    const placeFilters: CatalogFilters = {
-      ...emptyFilters,
-      place: 'bear-lake-cache',
-    }
-    expect(itemPassesFilters(loganItem, placeFilters, openPrefs)).toBe(true)
-    expect(itemPassesFilters(bearLakeItem, placeFilters, openPrefs)).toBe(true)
-    expect(itemPassesFilters(baseItem, placeFilters, openPrefs)).toBe(false)
-    expect(itemPassesFilters(disneylandItem, placeFilters, openPrefs)).toBe(
-      false,
-    )
-  })
-
-  it('scopes Workplace & hotels to BambooHR / hotel tags', () => {
-    const workItem: CrohnsFoodItem = {
-      ...baseItem,
-      id: 'thomas-oatmeal',
-      brandOrRestaurant: 'Thomas2Go / Thomas Cuisine (BambooHR Lindon, UT)',
-      tags: ['oatmeal', 'bamboohr', 'thomas2go'],
-    }
-    const hotelItem: CrohnsFoodItem = {
-      ...baseItem,
-      id: 'holiday-inn-pancakes',
-      tags: ['pancakes', 'hotel'],
-    }
-    const placeFilters: CatalogFilters = {
-      ...emptyFilters,
-      place: 'work-hotels',
-    }
-    expect(itemPassesFilters(workItem, placeFilters, openPrefs)).toBe(true)
-    expect(itemPassesFilters(hotelItem, placeFilters, openPrefs)).toBe(true)
-    expect(itemPassesFilters(baseItem, placeFilters, openPrefs)).toBe(false)
-  })
-
   it('scopes Theme parks and Cruise places to vacation menus only', () => {
     const parkItem: CrohnsFoodItem = {
       ...baseItem,
@@ -252,26 +201,26 @@ describe('itemPassesFilters', () => {
   })
 
   it('filters a venue menu to an exact brandOrRestaurant', () => {
-    const dansBurger: CrohnsFoodItem = {
+    const plazaChicken: CrohnsFoodItem = {
       ...baseItem,
-      id: 'dans-burger',
-      brandOrRestaurant: "Dan's Drive-In (Montpelier, ID)",
-      tags: ['burger', 'bear-lake', 'montpelier'],
+      id: 'plaza-chicken',
+      brandOrRestaurant: 'Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
+      tags: ['chicken', 'vacation', 'disneyland'],
       safetyTier: 'low-risk',
       crohnsScore: 8,
     }
     const other: CrohnsFoodItem = {
       ...baseItem,
-      id: 'other-burger',
-      brandOrRestaurant: 'Some Beaches (Laketown / Bear Lake, UT)',
-      tags: ['burger', 'bear-lake'],
+      id: 'other-park',
+      brandOrRestaurant: 'Carnation Cafe (Disneyland Park)',
+      tags: ['soup', 'vacation', 'disneyland'],
     }
     const venueFilters: CatalogFilters = {
       ...emptyFilters,
-      place: 'bear-lake-cache',
-      venue: "Dan's Drive-In (Montpelier, ID)",
+      place: 'theme-parks',
+      venue: 'Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
     }
-    expect(itemPassesFilters(dansBurger, venueFilters, openPrefs)).toBe(true)
+    expect(itemPassesFilters(plazaChicken, venueFilters, openPrefs)).toBe(true)
     expect(itemPassesFilters(other, venueFilters, openPrefs)).toBe(false)
   })
 })
@@ -353,16 +302,22 @@ describe('readFilters', () => {
 
   it('reads place and venue from the query string', () => {
     const params = new URLSearchParams(
-      "place=bear-lake-cache&venue=Dan's Drive-In (Montpelier, ID)",
+      'place=theme-parks&venue=Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
     )
     expect(readFilters(params)).toMatchObject({
-      place: 'bear-lake-cache',
-      venue: "Dan's Drive-In (Montpelier, ID)",
+      place: 'theme-parks',
+      venue: 'Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
     })
   })
 
-  it('falls back to home for unknown place values', () => {
+  it('falls back to home for unknown or retired place values', () => {
     expect(readFilters(new URLSearchParams('place=mars')).place).toBe('home')
+    expect(
+      readFilters(new URLSearchParams('place=bear-lake-cache')).place,
+    ).toBe('home')
+    expect(readFilters(new URLSearchParams('place=work-hotels')).place).toBe(
+      'home',
+    )
   })
 })
 
@@ -381,8 +336,8 @@ describe('countActiveFilters', () => {
       countActiveFilters(
         {
           ...emptyFilters,
-          place: 'bear-lake-cache',
-          venue: "Dan's Drive-In (Montpelier, ID)",
+          place: 'theme-parks',
+          venue: 'Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
         },
         openPrefs.guardrails,
       ),
