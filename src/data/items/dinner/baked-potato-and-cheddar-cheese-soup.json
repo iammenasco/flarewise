@@ -2,29 +2,52 @@
   "id": "baked-potato-and-cheddar-cheese-soup",
   "name": "Baked Potato & Cheddar Cheese Soup",
   "categoryFolder": "dinner",
-  "crohnsScore": 9,
-  "safetyTier": "flare-safe",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
   "mealTypes": [
     "lunch",
     "dinner"
   ],
   "region": "American",
   "costTier": 1,
-  "convenienceScore": 4,
+  "convenienceScore": 5,
   "prepMethod": [
-    "stovetop"
+    "stovetop",
+    "ready-to-eat"
   ],
-  "fiberGramsPerServing": 4,
+  "fiberGramsPerServing": 1.5,
   "lactoseSafe": false,
   "citrusFree": true,
+  "groceryIngredients": [
+    "Peeled Russet or Yukon Gold Potatoes",
+    "Chicken Bone Broth",
+    "Sharp Cheddar Cheese",
+    "Lactose-Free Milk",
+    "Crispy Bacon"
+  ],
   "tags": [
     "potato",
     "cheese",
-    "soup"
+    "cheddar",
+    "soup",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
   ],
   "searchKeywords": [
-    "potato-cheese-soup"
+    "baked potato soup",
+    "cheddar potato soup",
+    "animators palate soup",
+    "disney wonder",
+    "disney magic"
   ],
-  "whyItWorks": "Filling and warm.",
-  "prepOrOrderInstructions": "Serve hot."
+  "whyItWorks": "Peeled potatoes simmered and blended with aged sharp cheddar create a rich, soothing starch base with minimal mechanical friction.",
+  "prepOrOrderInstructions": "Order at Animator's Palate with no raw green onions/chives on top. If flaring, ask for no bacon bits and take a Lactaid pill for the cream base.",
+  "watchOuts": [
+    "Raw sliced scallions / chives on top",
+    "Dairy cream base if lactose sensitive",
+    "Potato skin fragments if unpeeled"
+  ]
 }
