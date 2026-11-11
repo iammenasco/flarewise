@@ -1,0 +1,37 @@
+{
+  "id": "red-lobster-ultimate-feast-heavy-butter-warning",
+  "name": "WARNING: Red Lobster Ultimate Feast (Fried Shrimp, Scampi Garlic Butter & Lobster)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Red Lobster Warning",
+  "crohnsScore": 2.3,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "red-lobster",
+    "ultimate-feast",
+    "fried-shrimp",
+    "garlic-scampi",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "ultimate feast warning",
+    "red lobster ultimate feast diarrhea",
+    "shrimp scampi garlic butter flare"
+  ],
+  "whyItWorks": "Combines Walt's deep-fried butterfly shrimp, garlic shrimp scampi swimming in liquefied garlic butter, and split lobster tail with drawn butter. The sheer volume of melted butter and fried breading overwhelms biliary and pancreatic digestion.",
+  "prepOrOrderInstructions": "Avoid combo feast platters. Order individual simply grilled fish fillets or steamed plain lobster tail without drawn butter.",
+  "safetyTier": "danger-zone"
+}

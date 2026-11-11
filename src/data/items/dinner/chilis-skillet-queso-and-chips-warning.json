@@ -1,0 +1,38 @@
+{
+  "id": "chilis-skillet-queso-and-chips-warning",
+  "name": "CRITICAL WARNING: Chili's Skillet Queso & Tortilla Chips (Saturated Grease Bomb)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Chili's Grill & Bar Warning",
+  "crohnsScore": 1.2,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "chilis",
+    "skillet-queso",
+    "tortilla-chips",
+    "heavy-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "chilis skillet queso warning",
+    "skillet queso diarrhea",
+    "chilis cheese dip flare colitis"
+  ],
+  "whyItWorks": "Packs 1,400+ calories of melted processed cheese food, ground beef with chili spices, and a basket of salty, hard fried corn tortilla chips. Saturated dairy fat + capsaicin + razor-sharp fried corn chips equals severe mucosal trauma.",
+  "prepOrOrderInstructions": "Never order Chili's Skillet Queso or fried corn tortilla chips during flares or with active strictures.",
+  "safetyTier": "danger-zone"
+}

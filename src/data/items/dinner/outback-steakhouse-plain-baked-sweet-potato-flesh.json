@@ -1,0 +1,37 @@
+{
+  "id": "outback-steakhouse-plain-baked-sweet-potato-flesh",
+  "name": "Outback Steakhouse Plain Baked Sweet Potato (Flesh Only)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Outback Steakhouse",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "sweet-potato",
+    "side",
+    "soluble-fiber",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "outback baked sweet potato plain",
+    "outback sweet potato no butter",
+    "plain sweet potato side"
+  ],
+  "whyItWorks": "Tender baked sweet potato interior flesh. Soft, moist soluble starch with gentle beta-carotene that provides easy calories during recovery.",
+  "prepOrOrderInstructions": "Order: 'Baked sweet potato completely plain and dry—NO brown sugar cinnamon butter, NO honey, NO honey butter.' Discard the outer skin and eat only the soft orange flesh.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "olive-garden-herb-grilled-salmon-plain",
+  "name": "Olive Garden Herb-Grilled Salmon (Plain, Garlic Butter Withheld)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Olive Garden",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "olive-garden",
+    "salmon",
+    "anti-inflammatory",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "olive garden salmon plain",
+    "herb grilled salmon no garlic butter",
+    "olive garden crohns safe"
+  ],
+  "whyItWorks": "Filet of salmon grilled tender. Naturally rich in marine omega-3 fatty acids. By withholding the heavy garlic herb butter sauce, it becomes an exceptionally gentle, safe Italian dining entree.",
+  "prepOrOrderInstructions": "Order: 'Herb-Grilled Salmon completely plain—NO garlic butter, NO marinara, NO seasoning blend, grilled with salt only.' Request plain steamed broccoli (eat florets only) or plain pasta with olive oil.",
+  "safetyTier": "flare-safe"
+}

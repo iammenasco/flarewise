@@ -1,0 +1,37 @@
+{
+  "id": "texas-roadhouse-hand-cut-sirloin-plain-no-seasoning",
+  "name": "Texas Roadhouse 6 oz Hand-Cut Sirloin (Plain, No Seasoning, No Butter)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Texas Roadhouse",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "steak",
+    "lean-protein",
+    "zero-fiber",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "texas roadhouse sirloin plain",
+    "texas roadhouse crohns safe",
+    "roadhouse steak no seasoning"
+  ],
+  "whyItWorks": "Texas Roadhouse center-cut sirloin is remarkably lean and tender. Ordering it grilled completely plain without their signature seasoning (which contains garlic, onion, and black pepper) and without butter makes it an ultra-safe, high-protein restaurant anchor.",
+  "prepOrOrderInstructions": "Order: '6 oz Sirloin, grilled completely dry and plain—NO steak seasoning, NO butter brush, seasoned with only salt.' Pair with a plain baked potato.",
+  "safetyTier": "flare-safe"
+}

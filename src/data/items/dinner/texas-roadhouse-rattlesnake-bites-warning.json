@@ -1,0 +1,37 @@
+{
+  "id": "texas-roadhouse-rattlesnake-bites-warning",
+  "name": "CRITICAL WARNING: Texas Roadhouse Rattlesnake Bites (Deep-Fried Jalapeños)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Texas Roadhouse Warning",
+  "crohnsScore": 1,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "jalapeno",
+    "deep-fried",
+    "capsaicin",
+    "dairy-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "texas roadhouse rattlesnake bites warning",
+    "rattlesnake bites diarrhea",
+    "fried jalapeno cheese balls colitis"
+  ],
+  "whyItWorks": "Diced spicy jalapeño peppers with seeds mixed with Monterrey Jack cheese, coated in breading, deep-fried in commercial soybean oil, and served with spicy Cajun horseradish dip. Capsaicin, grease, and dairy fat create an acute toxic triad for ulcerated intestines.",
+  "prepOrOrderInstructions": "Strictly avoid Rattlesnake Bites. They are one of the single most damaging appetizers on any American casual dining menu.",
+  "safetyTier": "danger-zone"
+}

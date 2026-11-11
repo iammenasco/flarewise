@@ -1,0 +1,38 @@
+{
+  "id": "chilis-simply-grilled-chicken-steamed-broccoli",
+  "name": "Chili's Guiltless Grill Sirloin (6 oz Plain, Avocado & Rice)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Chili's Grill & Bar",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "chilis",
+    "guiltless-grill",
+    "sirloin",
+    "lean-protein",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "chilis guiltless sirloin",
+    "chilis plain steak",
+    "chilis crohns safe meal"
+  ],
+  "whyItWorks": "100% USDA Choice 6 oz sirloin steak seared plain, served with steamed white Mexican rice and fresh avocado slices. Clean, lean protein and healthy fats without heavy chili seasonings.",
+  "prepOrOrderInstructions": "Order: '6 oz Sirloin plain—NO seasoning salt, NO garlic butter, grilled with salt only.' Swap corn salsa for plain white rice.",
+  "safetyTier": "low-risk"
+}

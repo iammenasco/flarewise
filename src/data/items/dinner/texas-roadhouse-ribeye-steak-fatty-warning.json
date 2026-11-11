@@ -1,0 +1,36 @@
+{
+  "id": "texas-roadhouse-ribeye-steak-fatty-warning",
+  "name": "WARNING: Texas Roadhouse 16 oz Ribeye Steak (Heavy Intermuscular Fat)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Texas Roadhouse Warning",
+  "crohnsScore": 4,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "ribeye",
+    "high-fat",
+    "gallbladder-strain",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "texas roadhouse ribeye warning",
+    "fatty ribeye steak diarrhea",
+    "ribeye grease ibd"
+  ],
+  "whyItWorks": "Ribeye is famed for heavy marbling and thick bands of intermuscular fat (often 60g+ fat per steak). Heavy saturated animal fat delays gastric emptying and triggers rapid bile acid secretion, producing acute steatorrhea and diarrhea.",
+  "prepOrOrderInstructions": "Switch from ribeye to center-cut Sirloin or Filet Medallions, ordered plain without butter brush.",
+  "safetyTier": "danger-zone"
+}

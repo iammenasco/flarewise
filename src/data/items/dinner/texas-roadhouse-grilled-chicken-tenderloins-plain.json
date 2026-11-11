@@ -1,0 +1,36 @@
+{
+  "id": "texas-roadhouse-grilled-chicken-tenderloins-plain",
+  "name": "Texas Roadhouse Grilled Chicken Tenders (Plain, No Marinade)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Texas Roadhouse",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "chicken-tenders",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "texas roadhouse grilled chicken tenders",
+    "roadhouse plain chicken",
+    "grilled chicken tenders ibd"
+  ],
+  "whyItWorks": "Skinless whole chicken breast tenderloins cooked tender on the grill. Free of rough breading, deep-fry grease, and fiery spices.",
+  "prepOrOrderInstructions": "Order: 'Grilled chicken tenders plain—unmarinated, NO BBQ sauce, NO honey mustard, seasoned with salt only.' Pair with white rice or baked potato flesh.",
+  "safetyTier": "flare-safe"
+}

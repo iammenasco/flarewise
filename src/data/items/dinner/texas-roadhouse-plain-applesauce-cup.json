@@ -1,0 +1,37 @@
+{
+  "id": "texas-roadhouse-plain-applesauce-cup",
+  "name": "Texas Roadhouse Smooth Applesauce Side Cup",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Texas Roadhouse",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "applesauce",
+    "side",
+    "pectin",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "texas roadhouse applesauce",
+    "roadhouse side applesauce",
+    "smooth applesauce side"
+  ],
+  "whyItWorks": "Pure smooth applesauce providing soluble pectin that firms loose bowel movements. A reliable safe restaurant side dish available nationwide at every Roadhouse location.",
+  "prepOrOrderInstructions": "Select smooth applesauce as one of your two included dinner sides. Ready-to-eat, zero prep needed.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "applebees-plain-grilled-chicken-breast-steamed-sides",
+  "name": "Applebee's Plain Grilled Chicken Breast (No Seasoning, Plain Steamed Broccoli)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Applebee's",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "applebees",
+    "grilled-chicken",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "applebees plain grilled chicken",
+    "applebees crohns safe meal",
+    "grilled chicken steamed broccoli applebees"
+  ],
+  "whyItWorks": "Skinless chicken breast grilled dry without Applebee's garlic-pepper seasoning blend. Paired with plain steamed broccoli (florets only) or plain baked potato for a safe sit-down dinner.",
+  "prepOrOrderInstructions": "Order: 'Grilled chicken breast completely plain—NO seasoning, NO butter, grilled dry.' Pair with plain steamed broccoli or baked potato.",
+  "safetyTier": "flare-safe"
+}

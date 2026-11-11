@@ -1,0 +1,37 @@
+{
+  "id": "chilis-texas-cheese-fries-bacon-jalapeno-warning",
+  "name": "WARNING: Chili's Texas Cheese Fries with Bacon & Jalapeños",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Chili's Grill & Bar Warning",
+  "crohnsScore": 1.4,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 8,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "chilis",
+    "cheese-fries",
+    "bacon",
+    "jalapeno",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "chilis texas cheese fries warning",
+    "loaded cheese fries diarrhea",
+    "chilis bacon jalapeno fries"
+  ],
+  "whyItWorks": "Heaping platter of french fries smothered in melted cheddar cheese, chopped bacon, pickled jalapeño wheels, and green onions, served with ranch dressing. More than 2,000 calories of heavy grease, lactose, and capsaicin.",
+  "prepOrOrderInstructions": "Pass on loaded cheese fries. Stick to plain grilled entrees.",
+  "safetyTier": "danger-zone"
+}

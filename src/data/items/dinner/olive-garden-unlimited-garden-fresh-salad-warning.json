@@ -1,0 +1,38 @@
+{
+  "id": "olive-garden-unlimited-garden-fresh-salad-warning",
+  "name": "WARNING: Olive Garden Famous House Salad (Raw Roughage, Onions & Pepperoncini)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Olive Garden Warning",
+  "crohnsScore": 2.1,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "restaurant",
+    "olive-garden",
+    "raw-salad",
+    "pepperoncini",
+    "raw-onion",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "olive garden salad warning",
+    "olive garden house salad flare",
+    "pepperoncini raw onion danger"
+  ],
+  "whyItWorks": "Famous communal bowl filled with coarse iceberg/romaine lettuce, whole raw red onion rings, pickled whole pepperoncini peppers with seeds, black olives, croutons, and high-acid garlic vinaigrette. Intense mechanical and chemical ulcer trigger.",
+  "prepOrOrderInstructions": "Politely pass on the house salad during flares or stricture recovery. If ordering soup/salad, choose clear chicken broth or substitute a side of plain pasta.",
+  "safetyTier": "danger-zone"
+}

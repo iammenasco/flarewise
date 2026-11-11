@@ -1,0 +1,37 @@
+{
+  "id": "red-lobster-cheddar-bay-biscuits-garlic-butter-warning",
+  "name": "WARNING: Red Lobster Cheddar Bay Biscuits (Garlic Butter & Cheese)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Red Lobster Warning",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "red-lobster",
+    "cheddar-bay-biscuits",
+    "garlic-butter",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "cheddar bay biscuits warning",
+    "red lobster biscuits diarrhea",
+    "garlic cheese biscuits flare"
+  ],
+  "whyItWorks": "Drop biscuits packed with sharp cheddar cheese, leavening agents, and drenched fresh out of the oven in melted garlic-herb butter. The saturated dairy fat and heavy garlic powder create rapid abdominal distension and cramping.",
+  "prepOrOrderInstructions": "Tell your server to withhold the biscuit basket from the table to eliminate temptation during active disease or recovery.",
+  "safetyTier": "danger-zone"
+}

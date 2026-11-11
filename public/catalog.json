@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:16:29.160Z",
-  "itemCount": 2033,
+  "builtAt": "2026-11-11T20:18:58.473Z",
+  "itemCount": 2066,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -5731,6 +5731,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/swanson-sipping-bone-broth-chicken-ginger-turmeric.json"
     },
     {
+      "id": "texas-roadhouse-plain-applesauce-cup",
+      "name": "Texas Roadhouse Smooth Applesauce Side Cup",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Texas Roadhouse",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "applesauce",
+        "side",
+        "pectin",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "texas roadhouse applesauce",
+        "roadhouse side applesauce",
+        "smooth applesauce side"
+      ],
+      "whyItWorks": "Pure smooth applesauce providing soluble pectin that firms loose bowel movements. A reliable safe restaurant side dish available nationwide at every Roadhouse location.",
+      "prepOrOrderInstructions": "Select smooth applesauce as one of your two included dinner sides. Ready-to-eat, zero prep needed.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/texas-roadhouse-plain-applesauce-cup.json"
+    },
+    {
       "id": "towneplace-suites-draper-hard-boiled-eggs",
       "name": "TownePlace Suites (Draper, UT) Chilled Hard-Boiled Eggs (Pure Protein Travel Hack)",
       "categoryFolder": "high-protein",
@@ -6849,6 +6887,82 @@
       "_sourcePath": "src/data/items/snacks-desserts/nabisco-ritz-crackers-original.json"
     },
     {
+      "id": "olive-garden-grilled-chicken-breast-plain",
+      "name": "Olive Garden Grilled Chicken Breast (Plain Add-On Filet)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Olive Garden",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "olive-garden",
+        "grilled-chicken",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "olive garden plain chicken",
+        "olive garden grilled chicken breast",
+        "add on chicken olive garden"
+      ],
+      "whyItWorks": "Pure boneless, skinless chicken breast filet seared on the grill. Free of rough breading, cheese, or spices; the ideal protein companion for plain pasta.",
+      "prepOrOrderInstructions": "Order: 'Plain grilled chicken breast—unmarinated, NO garlic herb seasoning, NO butter.' Slice over plain olive oil pasta.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/olive-garden-grilled-chicken-breast-plain.json"
+    },
+    {
+      "id": "outback-steakhouse-wood-fire-grilled-salmon-plain",
+      "name": "Outback Steakhouse Wood-Fire Grilled Salmon (Plain, Remoulade Withheld)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Outback Steakhouse",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "salmon",
+        "omega-3",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "outback steakhouse salmon plain",
+        "outback grilled salmon crohns",
+        "wood fire salmon no sauce"
+      ],
+      "whyItWorks": "Fresh Atlantic salmon grilled over an oak wood fire. Naturally packed with anti-inflammatory marine omega-3 fatty acids that actively soothe mucosal irritation. Tender and easily digested.",
+      "prepOrOrderInstructions": "Order: 'Wood-fire grilled salmon plain—NO classic seasoning, NO peppercorn crust, NO remoulade sauce, grilled with salt only.' Pair with plain steamed veggies or baked potato.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/outback-steakhouse-wood-fire-grilled-salmon-plain.json"
+    },
+    {
       "id": "baked-russet-potato-flesh-only",
       "name": "Plain Baked Russet Potato (Fluffy Flesh Only — Discard Skin!)",
       "categoryFolder": "produce-sides",
@@ -6926,6 +7040,83 @@
       "prepOrOrderInstructions": "Shake 1 scoop with cool water or lactose-free milk in a blender bottle for 15 seconds.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/high-protein/promix-unflavored-whey-protein-isolate.json"
+    },
+    {
+      "id": "red-lobster-plain-baked-potato-side",
+      "name": "Red Lobster Plain Baked Potato Side (Flesh Only)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Red Lobster",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "red-lobster",
+        "baked-potato",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "red lobster baked potato plain",
+        "plain potato side red lobster",
+        "dry baked potato seafood"
+      ],
+      "whyItWorks": "Fluffy baked russet potato served dry. Discarding the outer skin leaves a soft, easily absorbed soluble starch cushion for your fish entree.",
+      "prepOrOrderInstructions": "Order: 'Baked potato, 100% dry—NO butter, NO sour cream, NO bacon bits.' Season the interior flesh with salt.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/red-lobster-plain-baked-potato-side.json"
+    },
+    {
+      "id": "red-lobster-wild-caught-flounder-oven-broiled",
+      "name": "Red Lobster Wild-Caught Flounder (Oven-Broiled Plain)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Red Lobster",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "red-lobster",
+        "flounder",
+        "white-fish",
+        "ultra-lean",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "red lobster broiled flounder",
+        "wild flounder oven broiled plain",
+        "lean white fish red lobster"
+      ],
+      "whyItWorks": "Ultra-lean, delicate white flatfish broiled in the oven until flaky and tender. Less than 1g of fat per serving, zero fiber, and effortless to digest.",
+      "prepOrOrderInstructions": "Order: 'Oven-broiled flounder completely plain—NO breadcrumbs, NO paprika seasoning, NO melted butter.' Ask for plain white rice.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/red-lobster-wild-caught-flounder-oven-broiled.json"
     },
     {
       "id": "rice-dream-classic-original-rice-milk",
@@ -7240,6 +7431,43 @@
         "None; pristine flare-safe Japanese seafood entree"
       ],
       "_sourcePath": "src/data/items/asian-indian/takara-sushi-logan-grilled-hamachi-kama.json"
+    },
+    {
+      "id": "texas-roadhouse-plain-baked-potato-flesh-only",
+      "name": "Texas Roadhouse Plain Baked Potato (Flesh Only, Skin Discarded)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Texas Roadhouse",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "baked-potato",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "texas roadhouse baked potato plain",
+        "roadhouse potato flesh only",
+        "plain baked potato restaurant"
+      ],
+      "whyItWorks": "Fluffy Idaho russet potato baked soft. When ordered dry with no butter or sour cream, and with the tough salted skin discarded, the interior flesh is pure, soothing soluble starch that calms hyperactive peristalsis.",
+      "prepOrOrderInstructions": "Order: 'Plain baked potato, completely dry—NO butter, NO sour cream, NO cheese, NO bacon.' Scoop the white fluffy flesh out of the skin and season with table salt.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/texas-roadhouse-plain-baked-potato-flesh-only.json"
     },
     {
       "id": "thai-kitchen-thin-rice-vermicelli-noodles",
@@ -8346,6 +8574,82 @@
       "_sourcePath": "src/data/items/lunch/mission-super-soft-flour-tortillas.json"
     },
     {
+      "id": "outback-steakhouse-grilled-chicken-on-the-barbie-plain",
+      "name": "Outback Steakhouse Grilled Chicken on the Barbie (Plain, No BBQ Sauce)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Outback Steakhouse",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "chicken",
+        "lean-protein",
+        "zero-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "outback chicken on the barbie plain",
+        "outback plain grilled chicken",
+        "chicken on the barbie no bbq"
+      ],
+      "whyItWorks": "Seasoned grilled chicken breast ordered completely plain without Outback's high-fructose, garlic-heavy Aussie BBQ sauce. Pure lean poultry protein.",
+      "prepOrOrderInstructions": "Order: 'Grilled Chicken on the Barbie completely plain—NO BBQ sauce, NO seasonings, salt only.' Pair with white rice or plain sweet potato flesh.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/outback-steakhouse-grilled-chicken-on-the-barbie-plain.json"
+    },
+    {
+      "id": "outback-steakhouse-plain-baked-sweet-potato-flesh",
+      "name": "Outback Steakhouse Plain Baked Sweet Potato (Flesh Only)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Outback Steakhouse",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "sweet-potato",
+        "side",
+        "soluble-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "outback baked sweet potato plain",
+        "outback sweet potato no butter",
+        "plain sweet potato side"
+      ],
+      "whyItWorks": "Tender baked sweet potato interior flesh. Soft, moist soluble starch with gentle beta-carotene that provides easy calories during recovery.",
+      "prepOrOrderInstructions": "Order: 'Baked sweet potato completely plain and dry—NO brown sugar cinnamon butter, NO honey, NO honey butter.' Discard the outer skin and eat only the soft orange flesh.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/outback-steakhouse-plain-baked-sweet-potato-flesh.json"
+    },
+    {
       "id": "pirates-booty-aged-white-cheddar-puffs",
       "name": "Pirate's Booty Aged White Cheddar Baked Rice & Corn Puffs",
       "categoryFolder": "snacks-desserts",
@@ -8431,6 +8735,44 @@
         "Top recommendation for gut-safe Italian pasta meals."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/raos-homemade-sensitive-marinara.json"
+    },
+    {
+      "id": "red-lobster-wood-grilled-rainbow-trout-plain",
+      "name": "Red Lobster Wood-Grilled Rainbow Trout (Plain, No Butter Sauce)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Red Lobster",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "red-lobster",
+        "trout",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "red lobster grilled trout plain",
+        "wood grilled trout no butter",
+        "red lobster crohns safe"
+      ],
+      "whyItWorks": "Fresh, delicate freshwater trout grilled over wood fire. Flakes delicately under a fork, offers marine omega-3s, and has zero rough connective tissue or fiber.",
+      "prepOrOrderInstructions": "Order: 'Wood-Grilled Rainbow Trout plain—NO seasoned butter brush, NO garlic glaze, grilled with sea salt only.' Pair with plain baked potato or plain rice.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/red-lobster-wood-grilled-rainbow-trout-plain.json"
     },
     {
       "id": "san-gennaro-traditional-plain-polenta-roll",
@@ -8619,6 +8961,43 @@
         "Pure sugar; enjoy in moderation."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/swedish-fish-red-chewy-candy.json"
+    },
+    {
+      "id": "texas-roadhouse-grilled-chicken-tenderloins-plain",
+      "name": "Texas Roadhouse Grilled Chicken Tenders (Plain, No Marinade)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Texas Roadhouse",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "chicken-tenders",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "texas roadhouse grilled chicken tenders",
+        "roadhouse plain chicken",
+        "grilled chicken tenders ibd"
+      ],
+      "whyItWorks": "Skinless whole chicken breast tenderloins cooked tender on the grill. Free of rough breading, deep-fry grease, and fiery spices.",
+      "prepOrOrderInstructions": "Order: 'Grilled chicken tenders plain—unmarinated, NO BBQ sauce, NO honey mustard, seasoned with salt only.' Pair with white rice or baked potato flesh.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/texas-roadhouse-grilled-chicken-tenderloins-plain.json"
     },
     {
       "id": "thomas-cuisine-bamboohr-homestyle-chicken-noodle-soup",
@@ -9830,6 +10209,83 @@
       "_sourcePath": "src/data/items/high-protein/now-sports-egg-white-protein-powder.json"
     },
     {
+      "id": "olive-garden-herb-grilled-salmon-plain",
+      "name": "Olive Garden Herb-Grilled Salmon (Plain, Garlic Butter Withheld)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Olive Garden",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "olive-garden",
+        "salmon",
+        "anti-inflammatory",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "olive garden salmon plain",
+        "herb grilled salmon no garlic butter",
+        "olive garden crohns safe"
+      ],
+      "whyItWorks": "Filet of salmon grilled tender. Naturally rich in marine omega-3 fatty acids. By withholding the heavy garlic herb butter sauce, it becomes an exceptionally gentle, safe Italian dining entree.",
+      "prepOrOrderInstructions": "Order: 'Herb-Grilled Salmon completely plain—NO garlic butter, NO marinara, NO seasoning blend, grilled with salt only.' Request plain steamed broccoli (eat florets only) or plain pasta with olive oil.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/olive-garden-herb-grilled-salmon-plain.json"
+    },
+    {
+      "id": "olive-garden-plain-penne-extra-virgin-olive-oil",
+      "name": "Olive Garden Plain Penne Pasta (With Extra Virgin Olive Oil & Salt)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Olive Garden",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "olive-garden",
+        "pasta",
+        "penne",
+        "olive-oil",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "olive garden plain pasta",
+        "olive garden pasta olive oil",
+        "penne with olive oil restaurant"
+      ],
+      "whyItWorks": "White semolina penne pasta (or gluten-free rotini) boiled soft and tossed with pure olive oil and sea salt. Avoids tomato acid, garlic, onion, and dairy cream completely.",
+      "prepOrOrderInstructions": "Order: 'Create Your Own Pasta: Penne (or Gluten-Free Rotini), cooked well-done, with NO sauce—just extra virgin olive oil and salt on the side.' Top with plain grilled chicken.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/olive-garden-plain-penne-extra-virgin-olive-oil.json"
+    },
+    {
       "id": "oscar-mayer-deli-fresh-oven-roasted-turkey",
       "name": "Oscar Mayer Deli Fresh Oven Roasted Turkey Breast Slices",
       "categoryFolder": "high-protein",
@@ -10301,6 +10757,44 @@
       "_sourcePath": "src/data/items/produce-sides/steamed-tender-crookneck-squash.json"
     },
     {
+      "id": "texas-roadhouse-hand-cut-sirloin-plain-no-seasoning",
+      "name": "Texas Roadhouse 6 oz Hand-Cut Sirloin (Plain, No Seasoning, No Butter)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Texas Roadhouse",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "steak",
+        "lean-protein",
+        "zero-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "texas roadhouse sirloin plain",
+        "texas roadhouse crohns safe",
+        "roadhouse steak no seasoning"
+      ],
+      "whyItWorks": "Texas Roadhouse center-cut sirloin is remarkably lean and tender. Ordering it grilled completely plain without their signature seasoning (which contains garlic, onion, and black pepper) and without butter makes it an ultra-safe, high-protein restaurant anchor.",
+      "prepOrOrderInstructions": "Order: '6 oz Sirloin, grilled completely dry and plain—NO steak seasoning, NO butter brush, seasoned with only salt.' Pair with a plain baked potato.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/texas-roadhouse-hand-cut-sirloin-plain-no-seasoning.json"
+    },
+    {
       "id": "the-break-sports-grill-daybreak-grilled-salmon-fillet",
       "name": "The Break Sports Grill (Daybreak / South Jordan, UT) Grilled Atlantic Salmon & Steamed Rice",
       "categoryFolder": "dinner",
@@ -10767,6 +11261,44 @@
         "Sautéed spinach stems"
       ],
       "_sourcePath": "src/data/items/high-protein/freezing-the-night-away-annas-honey-mustard-salmon.json"
+    },
+    {
+      "id": "applebees-plain-grilled-chicken-breast-steamed-sides",
+      "name": "Applebee's Plain Grilled Chicken Breast (No Seasoning, Plain Steamed Broccoli)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Applebee's",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "applebees",
+        "grilled-chicken",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "applebees plain grilled chicken",
+        "applebees crohns safe meal",
+        "grilled chicken steamed broccoli applebees"
+      ],
+      "whyItWorks": "Skinless chicken breast grilled dry without Applebee's garlic-pepper seasoning blend. Paired with plain steamed broccoli (florets only) or plain baked potato for a safe sit-down dinner.",
+      "prepOrOrderInstructions": "Order: 'Grilled chicken breast completely plain—NO seasoning, NO butter, grilled dry.' Pair with plain steamed broccoli or baked potato.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/dinner/applebees-plain-grilled-chicken-breast-steamed-sides.json"
     },
     {
       "id": "bamboohr-thomas2go-protein-rice-bowl-grilled-chicken-salmon",
@@ -18093,6 +18625,45 @@
       "prepOrOrderInstructions": "Order standard 8 or 12 count grilled nuggets. Request no dipping sauce or dip lightly in honey or yellow mustard rather than garlic-rich CFA sauce or spicy sriracha.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/lunch/chick-fil-a-grilled-chicken-nuggets.json"
+    },
+    {
+      "id": "chilis-simply-grilled-chicken-steamed-broccoli",
+      "name": "Chili's Guiltless Grill Sirloin (6 oz Plain, Avocado & Rice)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Chili's Grill & Bar",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "takeout",
+        "chilis",
+        "guiltless-grill",
+        "sirloin",
+        "lean-protein",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "chilis guiltless sirloin",
+        "chilis plain steak",
+        "chilis crohns safe meal"
+      ],
+      "whyItWorks": "100% USDA Choice 6 oz sirloin steak seared plain, served with steamed white Mexican rice and fresh avocado slices. Clean, lean protein and healthy fats without heavy chili seasonings.",
+      "prepOrOrderInstructions": "Order: '6 oz Sirloin plain—NO seasoning salt, NO garlic butter, grilled with salt only.' Swap corn salsa for plain white rice.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/dinner/chilis-simply-grilled-chicken-steamed-broccoli.json"
     },
     {
       "id": "knotts-buena-park-claim-jumper-rotisserie-chicken-baked-potato",
@@ -74885,6 +75456,83 @@
       "_sourcePath": "src/data/items/dinner/worlds-of-marvel-heirloom-tomato-salad.json"
     },
     {
+      "id": "olive-garden-warm-garlic-breadsticks-warning",
+      "name": "WARNING: Olive Garden Warm Garlic Breadsticks (Garlic Margarine Brush)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Olive Garden Warning",
+      "crohnsScore": 4.5,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "olive-garden",
+        "breadsticks",
+        "garlic-salt",
+        "margarine",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "olive garden breadsticks warning",
+        "garlic breadsticks gas bloat",
+        "breadstick margarine diarrhea"
+      ],
+      "whyItWorks": "Rolled yeast bread baked fresh and heavily coated with melted margarine, garlic salt, and artificial butter flavoring. The concentrated garlic powder and grease trigger bloating, gas spasms, and acid reflux.",
+      "prepOrOrderInstructions": "Ask server for 'plain breadsticks with NO garlic butter topping' if you tolerate wheat, or skip breadsticks entirely.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/olive-garden-warm-garlic-breadsticks-warning.json"
+    },
+    {
+      "id": "texas-roadhouse-fresh-baked-rolls-cinnamon-butter-warning",
+      "name": "WARNING: Texas Roadhouse Fresh-Baked Rolls & Honey Cinnamon Butter",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Texas Roadhouse Warning",
+      "crohnsScore": 4.5,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "rolls",
+        "honey-cinnamon-butter",
+        "fructose",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "texas roadhouse rolls warning",
+        "roadhouse bread butter diarrhea",
+        "honey cinnamon butter trigger"
+      ],
+      "whyItWorks": "The fluffy yeast rolls contain gluten and high yeast fermentation, while the addictive honey cinnamon butter is loaded with fructose and dairy fat. Ingesting multiple warm rolls before a steak meal causes rapid gastric distension and postprandial cramping.",
+      "prepOrOrderInstructions": "Politely ask your server not to bring the bread basket to the table if you are sensitive to gluten or actively flaring. If in remission, limit to half a roll without butter.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/texas-roadhouse-fresh-baked-rolls-cinnamon-butter-warning.json"
+    },
+    {
       "id": "disneyland-rancho-del-zocalo-burrito-sonora-warning",
       "name": "Burrito Sonora Loaded with Cheese & Refried Beans",
       "categoryFolder": "mexican-southwest",
@@ -76564,6 +77212,43 @@
       "_sourcePath": "src/data/items/dinner/merrytime-harvest-corn-chowder.json"
     },
     {
+      "id": "texas-roadhouse-ribeye-steak-fatty-warning",
+      "name": "WARNING: Texas Roadhouse 16 oz Ribeye Steak (Heavy Intermuscular Fat)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Texas Roadhouse Warning",
+      "crohnsScore": 4,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "ribeye",
+        "high-fat",
+        "gallbladder-strain",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "texas roadhouse ribeye warning",
+        "fatty ribeye steak diarrhea",
+        "ribeye grease ibd"
+      ],
+      "whyItWorks": "Ribeye is famed for heavy marbling and thick bands of intermuscular fat (often 60g+ fat per steak). Heavy saturated animal fat delays gastric emptying and triggers rapid bile acid secretion, producing acute steatorrhea and diarrhea.",
+      "prepOrOrderInstructions": "Switch from ribeye to center-cut Sirloin or Filet Medallions, ordered plain without butter brush.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/texas-roadhouse-ribeye-steak-fatty-warning.json"
+    },
+    {
       "id": "raw-cauliflower-florets-warning",
       "name": "Raw Cauliflower Florets (High Fermentation Bloat Warning)",
       "categoryFolder": "produce-sides",
@@ -78029,6 +78714,45 @@
       "_sourcePath": "src/data/items/produce-sides/merrytime-carrot-beet-orange-salad.json"
     },
     {
+      "id": "outback-steakhouse-alice-springs-chicken-warning",
+      "name": "WARNING: Outback Alice Springs Chicken (Bacon, Honey Mustard & Cheese Melt)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Outback Steakhouse Warning",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "alice-springs",
+        "bacon",
+        "honey-mustard",
+        "melted-cheese",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "alice springs chicken warning",
+        "outback chicken bacon cheese flare",
+        "honey mustard bacon chicken ibd"
+      ],
+      "whyItWorks": "Grilled chicken smothered with sautéed mushrooms, strips of crisp smoked bacon, melted Monterey Jack and Cheddar cheese, and honey mustard sauce. The combination of saturated grease, mushrooms, and sugary mustard triggers rapid gut hypermotility.",
+      "prepOrOrderInstructions": "Order plain grilled chicken breast with sides of plain baked potato and plain steamed veggies.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/outback-steakhouse-alice-springs-chicken-warning.json"
+    },
+    {
       "id": "raw-baby-carrots-whole-crunch-warning",
       "name": "WARNING: Raw Whole Baby Carrots (Insoluble Crunch & Stricture Risk)",
       "categoryFolder": "produce-sides",
@@ -78892,6 +79616,44 @@
       "prepOrOrderInstructions": "Avoid raw pea pods from party trays or salads. If eating peas, choose tender shelled sweet green peas simmered soft or pureed.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/raw-sugar-snap-peas-pod-warning.json"
+    },
+    {
+      "id": "red-lobster-cheddar-bay-biscuits-garlic-butter-warning",
+      "name": "WARNING: Red Lobster Cheddar Bay Biscuits (Garlic Butter & Cheese)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Red Lobster Warning",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "red-lobster",
+        "cheddar-bay-biscuits",
+        "garlic-butter",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "cheddar bay biscuits warning",
+        "red lobster biscuits diarrhea",
+        "garlic cheese biscuits flare"
+      ],
+      "whyItWorks": "Drop biscuits packed with sharp cheddar cheese, leavening agents, and drenched fresh out of the oven in melted garlic-herb butter. The saturated dairy fat and heavy garlic powder create rapid abdominal distension and cramping.",
+      "prepOrOrderInstructions": "Tell your server to withhold the biscuit basket from the table to eliminate temptation during active disease or recovery.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/red-lobster-cheddar-bay-biscuits-garlic-butter-warning.json"
     },
     {
       "id": "zao-asian-cafe-draper-chili-dragon-sauce-warning",
@@ -81010,6 +81772,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/snyders-jalapeno-pretzel-pieces-warning.json"
     },
     {
+      "id": "red-lobster-ultimate-feast-heavy-butter-warning",
+      "name": "WARNING: Red Lobster Ultimate Feast (Fried Shrimp, Scampi Garlic Butter & Lobster)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Red Lobster Warning",
+      "crohnsScore": 2.3,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "red-lobster",
+        "ultimate-feast",
+        "fried-shrimp",
+        "garlic-scampi",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "ultimate feast warning",
+        "red lobster ultimate feast diarrhea",
+        "shrimp scampi garlic butter flare"
+      ],
+      "whyItWorks": "Combines Walt's deep-fried butterfly shrimp, garlic shrimp scampi swimming in liquefied garlic butter, and split lobster tail with drawn butter. The sheer volume of melted butter and fried breading overwhelms biliary and pancreatic digestion.",
+      "prepOrOrderInstructions": "Avoid combo feast platters. Order individual simply grilled fish fillets or steamed plain lobster tail without drawn butter.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/red-lobster-ultimate-feast-heavy-butter-warning.json"
+    },
+    {
       "id": "gt-synergy-raw-kombucha-warning",
       "name": "GT's Synergy Raw Kombucha Trilogy (WARNING)",
       "categoryFolder": "drinks-sauces",
@@ -81267,6 +82067,44 @@
         "Emergency hospital obstruction risk: Undigested corn kernels lodge in narrowed intestinal strictures, requiring surgical intervention."
       ],
       "_sourcePath": "src/data/items/produce-sides/whole-sweet-corn-on-the-cob-warning.json"
+    },
+    {
+      "id": "olive-garden-fried-mozzarella-warning",
+      "name": "WARNING: Olive Garden Fried Mozzarella with Marinara",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Olive Garden Warning",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "fried-cheese",
+        "mozzarella",
+        "heavy-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "olive garden fried mozzarella warning",
+        "fried cheese sticks crohns flare",
+        "mozzarella sticks stomach pain"
+      ],
+      "whyItWorks": "Thick planks of mozzarella cheese coated in herb breadcrumbs and deep-fried, served with garlic marinara. Molten dense cheese combined with frying oil forms a heavy bolus that stalls gastric emptying and strains strictures.",
+      "prepOrOrderInstructions": "Skip fried cheese appetizers. Start your meal with plain bread or hot water with lemon.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/olive-garden-fried-mozzarella-warning.json"
     },
     {
       "id": "raw-brussels-sprouts-shredded-slaw-warning",
@@ -81652,6 +82490,45 @@
       "whyItWorks": "Served in an actual miniature kitchen sink with 6 giant scoops of ice cream, 3 toppings, bananas, whole crushed nuts, whipped cream, and cherries. It represents a massive barrage of lactose, sugar, nuts, and fat.",
       "prepOrOrderInstructions": "Severe Flare Hazard: Do not attempt under any circumstances if you have Crohn's disease or ulcerative colitis. Severe cramping, obstruction risk from nuts, and diarrhea will follow.",
       "_sourcePath": "src/data/items/snacks-desserts/angies-restaurant-logan-clean-the-sink-warning.json"
+    },
+    {
+      "id": "olive-garden-unlimited-garden-fresh-salad-warning",
+      "name": "WARNING: Olive Garden Famous House Salad (Raw Roughage, Onions & Pepperoncini)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Olive Garden Warning",
+      "crohnsScore": 2.1,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "restaurant",
+        "olive-garden",
+        "raw-salad",
+        "pepperoncini",
+        "raw-onion",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "olive garden salad warning",
+        "olive garden house salad flare",
+        "pepperoncini raw onion danger"
+      ],
+      "whyItWorks": "Famous communal bowl filled with coarse iceberg/romaine lettuce, whole raw red onion rings, pickled whole pepperoncini peppers with seeds, black olives, croutons, and high-acid garlic vinaigrette. Intense mechanical and chemical ulcer trigger.",
+      "prepOrOrderInstructions": "Politely pass on the house salad during flares or stricture recovery. If ordering soup/salad, choose clear chicken broth or substitute a side of plain pasta.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/olive-garden-unlimited-garden-fresh-salad-warning.json"
     },
     {
       "id": "b-and-m-baked-beans-with-pork-warning",
@@ -82126,6 +83003,45 @@
       "_sourcePath": "src/data/items/snacks-desserts/captains-gala-orange-almond-cake.json"
     },
     {
+      "id": "applebees-spinach-and-artichoke-dip-warning",
+      "name": "WARNING: Applebee's Spinach & Artichoke Dip with Tortilla Chips",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Applebee's Warning",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 6,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "applebees",
+        "spinach-artichoke-dip",
+        "dairy-fat",
+        "chips",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "applebees spinach artichoke dip warning",
+        "spinach dip diarrhea",
+        "artichoke dip flare colitis"
+      ],
+      "whyItWorks": "Creamy dip made with Parmesan cheese, cream cheese, garlic puree, and chopped spinach/artichoke, served with crisp fried corn tortilla chips and salsa. High dairy fat + allium fructans + abrasive corn chips causes rapid digestive distress.",
+      "prepOrOrderInstructions": "Skip creamy restaurant dips. Choose plain warm bread without garlic butter if tolerated.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/applebees-spinach-and-artichoke-dip-warning.json"
+    },
+    {
       "id": "explore-cuisine-black-bean-spaghetti-warning",
       "name": "WARNING: Black Bean Spaghetti (Extreme Insoluble Legume Fiber)",
       "categoryFolder": "italian-med",
@@ -82349,6 +83265,44 @@
       "_sourcePath": "src/data/items/produce-sides/raw-edamame-in-pod-fibrous-warning.json"
     },
     {
+      "id": "outback-steakhouse-kookaburra-wings-spicy-warning",
+      "name": "WARNING: Outback Kookaburra Wings (Fried Skin, Garlic & Cayenne Sauce)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Outback Steakhouse Warning",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "wings",
+        "spicy-buffalo",
+        "fried-skin",
+        "blue-cheese",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "kookaburra wings warning",
+        "outback wings spicy diarrhea",
+        "buffalo wings colitis flare"
+      ],
+      "whyItWorks": "Deep-fried skin-on chicken wings drenched in tangy cayenne and garlic butter sauce, served with blue cheese and stringy celery sticks. Deep frying + capsaicin + blue cheese mold triggers intense GI cramping.",
+      "prepOrOrderInstructions": "Skip wings entirely. Choose unbattered, skinless Grilled Chicken on the Barbie.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/outback-steakhouse-kookaburra-wings-spicy-warning.json"
+    },
+    {
       "id": "pickled-jalapeno-peppers-seeds-warning",
       "name": "WARNING: Pickled Sliced Jalapeño Peppers (Capsaicin & Seeds)",
       "categoryFolder": "produce-sides",
@@ -82386,6 +83340,45 @@
       "prepOrOrderInstructions": "Strictly avoid pickled jalapeños, chili peppers, and spicy garnishes on tacos, nachos, and sandwiches. Ask for completely mild preparations.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/pickled-jalapeno-peppers-seeds-warning.json"
+    },
+    {
+      "id": "applebees-boneless-buffalo-wings-warning",
+      "name": "WARNING: Applebee's Boneless Buffalo Wings (Battered, Fried & Spicy)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Applebee's Warning",
+      "crohnsScore": 1.7,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "applebees",
+        "boneless-wings",
+        "buffalo",
+        "deep-fried",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "applebees boneless wings warning",
+        "buffalo wings diarrhea crohns",
+        "applebees hot wings flare"
+      ],
+      "whyItWorks": "Chicken breast pieces coated in thick wheat batter, deep-fried in commercial fryer oil, and tossed in spicy classic Buffalo cayenne pepper sauce. The intense capsaicin and fryer oil cause mucosal spasms and watery diarrhea.",
+      "prepOrOrderInstructions": "Avoid all battered and buffalo-sauced wings. Stick to unbattered, plain grilled chicken.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/applebees-boneless-buffalo-wings-warning.json"
     },
     {
       "id": "cheetos-flamin-hot-crunchy-warning",
@@ -82464,6 +83457,44 @@
         "Extreme gut motility stimulant: Causes violent cramping, immediate fecal urgency, and dehydrating diarrhea."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/energy-drinks-caffeine-taurine-hazard-warning.json"
+    },
+    {
+      "id": "olive-garden-tour-of-italy-heavy-fat-warning",
+      "name": "CRITICAL WARNING: Olive Garden Tour of Italy (Chicken Parm, Lasagna & Alfredo)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Olive Garden Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 8,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "olive-garden",
+        "tour-of-italy",
+        "extreme-fat",
+        "lactose-overload",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "tour of italy warning",
+        "olive garden tour of italy diarrhea",
+        "lasagna alfredo chicken parm danger"
+      ],
+      "whyItWorks": "A massive platter combining three high-risk items: breaded fried Chicken Parmigiana, multi-layer meat Lasagna with ricotta, and Fettuccine Alfredo. Delivers 95g+ fat and immense lactose, triggering severe intestinal cramping and urgent diarrhea.",
+      "prepOrOrderInstructions": "Never order the Tour of Italy. Stick to simple single-protein entrees like plain grilled salmon or plain grilled chicken with olive oil penne.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/olive-garden-tour-of-italy-heavy-fat-warning.json"
     },
     {
       "id": "dca-adorable-snowman-lemon-soft-serve-citrus-warning",
@@ -82657,6 +83688,44 @@
       "_sourcePath": "src/data/items/asian-indian/shin-ramen-spicy-instant-noodles-warning.json"
     },
     {
+      "id": "red-lobster-crispy-dragon-shrimp-spicy-warning",
+      "name": "WARNING: Red Lobster Crispy Dragon Shrimp (Spicy Chili Glaze & Fried Breading)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Red Lobster Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "red-lobster",
+        "dragon-shrimp",
+        "spicy-chili",
+        "deep-fried",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "crispy dragon shrimp warning",
+        "red lobster spicy shrimp diarrhea",
+        "dragon chili glaze flare"
+      ],
+      "whyItWorks": "Hand-battered crispy fried shrimp tossed in a sweet and fiery chili glaze loaded with chili flakes, garlic puree, and high-fructose corn syrup. Deep frying + spicy chili irritation triggers intense burning and loose stools.",
+      "prepOrOrderInstructions": "Strictly avoid Dragon Shrimp. Choose steamed cocktail shrimp (plain, light cocktail sauce) instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/red-lobster-crispy-dragon-shrimp-spicy-warning.json"
+    },
+    {
       "id": "whole-globe-artichoke-leaves-warning",
       "name": "WARNING: Whole Globe Artichoke Leaves & Spiny Tips",
       "categoryFolder": "produce-sides",
@@ -82690,6 +83759,83 @@
       "prepOrOrderInstructions": "Strictly avoid whole globe artichokes if you have known intestinal strictures or an ileostomy. Choose canned tender artichoke hearts only.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/whole-globe-artichoke-leaves-warning.json"
+    },
+    {
+      "id": "chilis-texas-cheese-fries-bacon-jalapeno-warning",
+      "name": "WARNING: Chili's Texas Cheese Fries with Bacon & Jalapeños",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Chili's Grill & Bar Warning",
+      "crohnsScore": 1.4,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 8,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "chilis",
+        "cheese-fries",
+        "bacon",
+        "jalapeno",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "chilis texas cheese fries warning",
+        "loaded cheese fries diarrhea",
+        "chilis bacon jalapeno fries"
+      ],
+      "whyItWorks": "Heaping platter of french fries smothered in melted cheddar cheese, chopped bacon, pickled jalapeño wheels, and green onions, served with ranch dressing. More than 2,000 calories of heavy grease, lactose, and capsaicin.",
+      "prepOrOrderInstructions": "Pass on loaded cheese fries. Stick to plain grilled entrees.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/chilis-texas-cheese-fries-bacon-jalapeno-warning.json"
+    },
+    {
+      "id": "chilis-skillet-queso-and-chips-warning",
+      "name": "CRITICAL WARNING: Chili's Skillet Queso & Tortilla Chips (Saturated Grease Bomb)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Chili's Grill & Bar Warning",
+      "crohnsScore": 1.2,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "chilis",
+        "skillet-queso",
+        "tortilla-chips",
+        "heavy-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "chilis skillet queso warning",
+        "skillet queso diarrhea",
+        "chilis cheese dip flare colitis"
+      ],
+      "whyItWorks": "Packs 1,400+ calories of melted processed cheese food, ground beef with chili spices, and a basket of salty, hard fried corn tortilla chips. Saturated dairy fat + capsaicin + razor-sharp fried corn chips equals severe mucosal trauma.",
+      "prepOrOrderInstructions": "Never order Chili's Skillet Queso or fried corn tortilla chips during flares or with active strictures.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/chilis-skillet-queso-and-chips-warning.json"
     },
     {
       "id": "raw-oysters-on-the-half-shell-warning",
@@ -82771,6 +83917,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/sugar-free-gummy-bears-sorbitol-warning.json"
     },
     {
+      "id": "texas-roadhouse-cactus-blossom-fried-onion-warning",
+      "name": "WARNING: Texas Roadhouse Cactus Blossom (Fried Colossal Onion)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Texas Roadhouse Warning",
+      "crohnsScore": 1.2,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 9,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "fried-onion",
+        "fructans",
+        "extreme-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "cactus blossom warning",
+        "texas roadhouse onion blossom danger",
+        "fried onion bloat crohns"
+      ],
+      "whyItWorks": "Colossal Texas onion sliced into petals, dipped in seasoned flour batter, deep-fried, and served with spicy Cajun horseradish dip. Packs 135g of oxidized fryer fat and massive onion fructans, guaranteeing severe intestinal distress and diarrhea.",
+      "prepOrOrderInstructions": "Never order or graze on the Cactus Blossom. Choose a plain baked potato or plain applesauce cup instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/texas-roadhouse-cactus-blossom-fried-onion-warning.json"
+    },
+    {
       "id": "1923-californian-grapefruit-cake-avoid",
       "name": "Californian Grapefruit Cake (HARD AVOID — Citrus Guardrail)",
       "categoryFolder": "snacks-desserts",
@@ -82812,6 +83995,45 @@
         "Grapefruit juice, zest, and segments (strict medication & gut contraindication)"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/1923-californian-grapefruit-cake-avoid.json"
+    },
+    {
+      "id": "outback-steakhouse-bloomin-onion-extreme-warning",
+      "name": "CRITICAL WARNING: Outback Steakhouse Bloomin' Onion (1,950 Calorie Grease & Spice Bomb)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Outback Steakhouse Warning",
+      "crohnsScore": 1,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 14,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "bloomin-onion",
+        "fried-onion",
+        "capsaicin",
+        "extreme-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "bloomin onion warning",
+        "outback bloomin onion diarrhea",
+        "bloomin onion flare colitis",
+        "fried onion disaster"
+      ],
+      "whyItWorks": "CLINICAL DISASTER: Packs nearly 2,000 calories, 150g of oxidized commercial frying fat, concentrated cayenne pepper spice blend, and colossal whole onion fructans. Delivered with spicy horseradish 'Bloom sauce'. High risk for severe acute colitis relapse and obstruction.",
+      "prepOrOrderInstructions": "Strictly avoid under all circumstances. Do not consume even a single petal.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/outback-steakhouse-bloomin-onion-extreme-warning.json"
     },
     {
       "id": "samyang-buldak-spicy-hot-chicken-ramen-warning",
@@ -82889,6 +84111,44 @@
       "prepOrOrderInstructions": "NEVER consume shirataki or konjac 'miracle noodles' if you have Crohn's disease, Ulcerative Colitis with narrowing, or an ostomy. Choose white rice noodles or gluten-free pasta instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/italian-med/shirataki-miracle-noodle-konjac-warning.json"
+    },
+    {
+      "id": "texas-roadhouse-rattlesnake-bites-warning",
+      "name": "CRITICAL WARNING: Texas Roadhouse Rattlesnake Bites (Deep-Fried Jalapeños)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Texas Roadhouse Warning",
+      "crohnsScore": 1,
+      "mealTypes": [
+        "dinner",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "restaurant",
+        "jalapeno",
+        "deep-fried",
+        "capsaicin",
+        "dairy-fat",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "texas roadhouse rattlesnake bites warning",
+        "rattlesnake bites diarrhea",
+        "fried jalapeno cheese balls colitis"
+      ],
+      "whyItWorks": "Diced spicy jalapeño peppers with seeds mixed with Monterrey Jack cheese, coated in breading, deep-fried in commercial soybean oil, and served with spicy Cajun horseradish dip. Capsaicin, grease, and dairy fat create an acute toxic triad for ulcerated intestines.",
+      "prepOrOrderInstructions": "Strictly avoid Rattlesnake Bites. They are one of the single most damaging appetizers on any American casual dining menu.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/texas-roadhouse-rattlesnake-bites-warning.json"
     },
     {
       "id": "til-we-meet-again-florida-citrus-spinach-salad",

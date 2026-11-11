@@ -1,0 +1,38 @@
+{
+  "id": "red-lobster-wild-caught-flounder-oven-broiled",
+  "name": "Red Lobster Wild-Caught Flounder (Oven-Broiled Plain)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Red Lobster",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "red-lobster",
+    "flounder",
+    "white-fish",
+    "ultra-lean",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "red lobster broiled flounder",
+    "wild flounder oven broiled plain",
+    "lean white fish red lobster"
+  ],
+  "whyItWorks": "Ultra-lean, delicate white flatfish broiled in the oven until flaky and tender. Less than 1g of fat per serving, zero fiber, and effortless to digest.",
+  "prepOrOrderInstructions": "Order: 'Oven-broiled flounder completely plain—NO breadcrumbs, NO paprika seasoning, NO melted butter.' Ask for plain white rice.",
+  "safetyTier": "flare-safe"
+}

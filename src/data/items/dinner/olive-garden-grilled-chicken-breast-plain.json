@@ -1,0 +1,37 @@
+{
+  "id": "olive-garden-grilled-chicken-breast-plain",
+  "name": "Olive Garden Grilled Chicken Breast (Plain Add-On Filet)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Olive Garden",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "olive-garden",
+    "grilled-chicken",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "olive garden plain chicken",
+    "olive garden grilled chicken breast",
+    "add on chicken olive garden"
+  ],
+  "whyItWorks": "Pure boneless, skinless chicken breast filet seared on the grill. Free of rough breading, cheese, or spices; the ideal protein companion for plain pasta.",
+  "prepOrOrderInstructions": "Order: 'Plain grilled chicken breast—unmarinated, NO garlic herb seasoning, NO butter.' Slice over plain olive oil pasta.",
+  "safetyTier": "flare-safe"
+}

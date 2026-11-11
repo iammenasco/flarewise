@@ -1,0 +1,38 @@
+{
+  "id": "olive-garden-plain-penne-extra-virgin-olive-oil",
+  "name": "Olive Garden Plain Penne Pasta (With Extra Virgin Olive Oil & Salt)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Olive Garden",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "olive-garden",
+    "pasta",
+    "penne",
+    "olive-oil",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "olive garden plain pasta",
+    "olive garden pasta olive oil",
+    "penne with olive oil restaurant"
+  ],
+  "whyItWorks": "White semolina penne pasta (or gluten-free rotini) boiled soft and tossed with pure olive oil and sea salt. Avoids tomato acid, garlic, onion, and dairy cream completely.",
+  "prepOrOrderInstructions": "Order: 'Create Your Own Pasta: Penne (or Gluten-Free Rotini), cooked well-done, with NO sauce—just extra virgin olive oil and salt on the side.' Top with plain grilled chicken.",
+  "safetyTier": "flare-safe"
+}

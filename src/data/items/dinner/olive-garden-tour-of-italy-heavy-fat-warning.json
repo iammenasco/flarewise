@@ -1,0 +1,37 @@
+{
+  "id": "olive-garden-tour-of-italy-heavy-fat-warning",
+  "name": "CRITICAL WARNING: Olive Garden Tour of Italy (Chicken Parm, Lasagna & Alfredo)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Olive Garden Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 8,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "olive-garden",
+    "tour-of-italy",
+    "extreme-fat",
+    "lactose-overload",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "tour of italy warning",
+    "olive garden tour of italy diarrhea",
+    "lasagna alfredo chicken parm danger"
+  ],
+  "whyItWorks": "A massive platter combining three high-risk items: breaded fried Chicken Parmigiana, multi-layer meat Lasagna with ricotta, and Fettuccine Alfredo. Delivers 95g+ fat and immense lactose, triggering severe intestinal cramping and urgent diarrhea.",
+  "prepOrOrderInstructions": "Never order the Tour of Italy. Stick to simple single-protein entrees like plain grilled salmon or plain grilled chicken with olive oil penne.",
+  "safetyTier": "danger-zone"
+}

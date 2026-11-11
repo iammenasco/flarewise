@@ -1,0 +1,36 @@
+{
+  "id": "texas-roadhouse-cactus-blossom-fried-onion-warning",
+  "name": "WARNING: Texas Roadhouse Cactus Blossom (Fried Colossal Onion)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Texas Roadhouse Warning",
+  "crohnsScore": 1.2,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 9,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "fried-onion",
+    "fructans",
+    "extreme-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "cactus blossom warning",
+    "texas roadhouse onion blossom danger",
+    "fried onion bloat crohns"
+  ],
+  "whyItWorks": "Colossal Texas onion sliced into petals, dipped in seasoned flour batter, deep-fried, and served with spicy Cajun horseradish dip. Packs 135g of oxidized fryer fat and massive onion fructans, guaranteeing severe intestinal distress and diarrhea.",
+  "prepOrOrderInstructions": "Never order or graze on the Cactus Blossom. Choose a plain baked potato or plain applesauce cup instead.",
+  "safetyTier": "danger-zone"
+}

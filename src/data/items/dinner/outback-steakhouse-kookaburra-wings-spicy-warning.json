@@ -1,0 +1,37 @@
+{
+  "id": "outback-steakhouse-kookaburra-wings-spicy-warning",
+  "name": "WARNING: Outback Kookaburra Wings (Fried Skin, Garlic & Cayenne Sauce)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Outback Steakhouse Warning",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "wings",
+    "spicy-buffalo",
+    "fried-skin",
+    "blue-cheese",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "kookaburra wings warning",
+    "outback wings spicy diarrhea",
+    "buffalo wings colitis flare"
+  ],
+  "whyItWorks": "Deep-fried skin-on chicken wings drenched in tangy cayenne and garlic butter sauce, served with blue cheese and stringy celery sticks. Deep frying + capsaicin + blue cheese mold triggers intense GI cramping.",
+  "prepOrOrderInstructions": "Skip wings entirely. Choose unbattered, skinless Grilled Chicken on the Barbie.",
+  "safetyTier": "danger-zone"
+}

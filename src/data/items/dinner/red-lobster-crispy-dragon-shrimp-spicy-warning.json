@@ -1,0 +1,37 @@
+{
+  "id": "red-lobster-crispy-dragon-shrimp-spicy-warning",
+  "name": "WARNING: Red Lobster Crispy Dragon Shrimp (Spicy Chili Glaze & Fried Breading)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Red Lobster Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "red-lobster",
+    "dragon-shrimp",
+    "spicy-chili",
+    "deep-fried",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "crispy dragon shrimp warning",
+    "red lobster spicy shrimp diarrhea",
+    "dragon chili glaze flare"
+  ],
+  "whyItWorks": "Hand-battered crispy fried shrimp tossed in a sweet and fiery chili glaze loaded with chili flakes, garlic puree, and high-fructose corn syrup. Deep frying + spicy chili irritation triggers intense burning and loose stools.",
+  "prepOrOrderInstructions": "Strictly avoid Dragon Shrimp. Choose steamed cocktail shrimp (plain, light cocktail sauce) instead.",
+  "safetyTier": "danger-zone"
+}

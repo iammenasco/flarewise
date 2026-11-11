@@ -1,0 +1,38 @@
+{
+  "id": "applebees-spinach-and-artichoke-dip-warning",
+  "name": "WARNING: Applebee's Spinach & Artichoke Dip with Tortilla Chips",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Applebee's Warning",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "applebees",
+    "spinach-artichoke-dip",
+    "dairy-fat",
+    "chips",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "applebees spinach artichoke dip warning",
+    "spinach dip diarrhea",
+    "artichoke dip flare colitis"
+  ],
+  "whyItWorks": "Creamy dip made with Parmesan cheese, cream cheese, garlic puree, and chopped spinach/artichoke, served with crisp fried corn tortilla chips and salsa. High dairy fat + allium fructans + abrasive corn chips causes rapid digestive distress.",
+  "prepOrOrderInstructions": "Skip creamy restaurant dips. Choose plain warm bread without garlic butter if tolerated.",
+  "safetyTier": "danger-zone"
+}

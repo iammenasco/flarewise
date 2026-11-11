@@ -1,0 +1,37 @@
+{
+  "id": "outback-steakhouse-grilled-chicken-on-the-barbie-plain",
+  "name": "Outback Steakhouse Grilled Chicken on the Barbie (Plain, No BBQ Sauce)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Outback Steakhouse",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "chicken",
+    "lean-protein",
+    "zero-fiber",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "outback chicken on the barbie plain",
+    "outback plain grilled chicken",
+    "chicken on the barbie no bbq"
+  ],
+  "whyItWorks": "Seasoned grilled chicken breast ordered completely plain without Outback's high-fructose, garlic-heavy Aussie BBQ sauce. Pure lean poultry protein.",
+  "prepOrOrderInstructions": "Order: 'Grilled Chicken on the Barbie completely plain—NO BBQ sauce, NO seasonings, salt only.' Pair with white rice or plain sweet potato flesh.",
+  "safetyTier": "flare-safe"
+}

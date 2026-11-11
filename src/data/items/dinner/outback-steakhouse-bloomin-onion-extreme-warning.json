@@ -1,0 +1,38 @@
+{
+  "id": "outback-steakhouse-bloomin-onion-extreme-warning",
+  "name": "CRITICAL WARNING: Outback Steakhouse Bloomin' Onion (1,950 Calorie Grease & Spice Bomb)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Outback Steakhouse Warning",
+  "crohnsScore": 1,
+  "mealTypes": [
+    "dinner",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 14,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "bloomin-onion",
+    "fried-onion",
+    "capsaicin",
+    "extreme-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "bloomin onion warning",
+    "outback bloomin onion diarrhea",
+    "bloomin onion flare colitis",
+    "fried onion disaster"
+  ],
+  "whyItWorks": "CLINICAL DISASTER: Packs nearly 2,000 calories, 150g of oxidized commercial frying fat, concentrated cayenne pepper spice blend, and colossal whole onion fructans. Delivered with spicy horseradish 'Bloom sauce'. High risk for severe acute colitis relapse and obstruction.",
+  "prepOrOrderInstructions": "Strictly avoid under all circumstances. Do not consume even a single petal.",
+  "safetyTier": "danger-zone"
+}

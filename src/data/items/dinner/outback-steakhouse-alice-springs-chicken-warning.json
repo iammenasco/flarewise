@@ -1,0 +1,38 @@
+{
+  "id": "outback-steakhouse-alice-springs-chicken-warning",
+  "name": "WARNING: Outback Alice Springs Chicken (Bacon, Honey Mustard & Cheese Melt)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Outback Steakhouse Warning",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "alice-springs",
+    "bacon",
+    "honey-mustard",
+    "melted-cheese",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "alice springs chicken warning",
+    "outback chicken bacon cheese flare",
+    "honey mustard bacon chicken ibd"
+  ],
+  "whyItWorks": "Grilled chicken smothered with sautéed mushrooms, strips of crisp smoked bacon, melted Monterey Jack and Cheddar cheese, and honey mustard sauce. The combination of saturated grease, mushrooms, and sugary mustard triggers rapid gut hypermotility.",
+  "prepOrOrderInstructions": "Order plain grilled chicken breast with sides of plain baked potato and plain steamed veggies.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "red-lobster-wood-grilled-rainbow-trout-plain",
+  "name": "Red Lobster Wood-Grilled Rainbow Trout (Plain, No Butter Sauce)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Red Lobster",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "red-lobster",
+    "trout",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "red lobster grilled trout plain",
+    "wood grilled trout no butter",
+    "red lobster crohns safe"
+  ],
+  "whyItWorks": "Fresh, delicate freshwater trout grilled over wood fire. Flakes delicately under a fork, offers marine omega-3s, and has zero rough connective tissue or fiber.",
+  "prepOrOrderInstructions": "Order: 'Wood-Grilled Rainbow Trout plain—NO seasoned butter brush, NO garlic glaze, grilled with sea salt only.' Pair with plain baked potato or plain rice.",
+  "safetyTier": "flare-safe"
+}

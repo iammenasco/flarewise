@@ -1,0 +1,37 @@
+{
+  "id": "olive-garden-fried-mozzarella-warning",
+  "name": "WARNING: Olive Garden Fried Mozzarella with Marinara",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Olive Garden Warning",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "fried-cheese",
+    "mozzarella",
+    "heavy-fat",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "olive garden fried mozzarella warning",
+    "fried cheese sticks crohns flare",
+    "mozzarella sticks stomach pain"
+  ],
+  "whyItWorks": "Thick planks of mozzarella cheese coated in herb breadcrumbs and deep-fried, served with garlic marinara. Molten dense cheese combined with frying oil forms a heavy bolus that stalls gastric emptying and strains strictures.",
+  "prepOrOrderInstructions": "Skip fried cheese appetizers. Start your meal with plain bread or hot water with lemon.",
+  "safetyTier": "danger-zone"
+}

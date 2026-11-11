@@ -1,0 +1,37 @@
+{
+  "id": "red-lobster-plain-baked-potato-side",
+  "name": "Red Lobster Plain Baked Potato Side (Flesh Only)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Red Lobster",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "red-lobster",
+    "baked-potato",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "red lobster baked potato plain",
+    "plain potato side red lobster",
+    "dry baked potato seafood"
+  ],
+  "whyItWorks": "Fluffy baked russet potato served dry. Discarding the outer skin leaves a soft, easily absorbed soluble starch cushion for your fish entree.",
+  "prepOrOrderInstructions": "Order: 'Baked potato, 100% dry—NO butter, NO sour cream, NO bacon bits.' Season the interior flesh with salt.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "applebees-boneless-buffalo-wings-warning",
+  "name": "WARNING: Applebee's Boneless Buffalo Wings (Battered, Fried & Spicy)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Applebee's Warning",
+  "crohnsScore": 1.7,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "applebees",
+    "boneless-wings",
+    "buffalo",
+    "deep-fried",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "applebees boneless wings warning",
+    "buffalo wings diarrhea crohns",
+    "applebees hot wings flare"
+  ],
+  "whyItWorks": "Chicken breast pieces coated in thick wheat batter, deep-fried in commercial fryer oil, and tossed in spicy classic Buffalo cayenne pepper sauce. The intense capsaicin and fryer oil cause mucosal spasms and watery diarrhea.",
+  "prepOrOrderInstructions": "Avoid all battered and buffalo-sauced wings. Stick to unbattered, plain grilled chicken.",
+  "safetyTier": "danger-zone"
+}

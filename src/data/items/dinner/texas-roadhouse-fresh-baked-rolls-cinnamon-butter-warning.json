@@ -1,0 +1,37 @@
+{
+  "id": "texas-roadhouse-fresh-baked-rolls-cinnamon-butter-warning",
+  "name": "WARNING: Texas Roadhouse Fresh-Baked Rolls & Honey Cinnamon Butter",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Texas Roadhouse Warning",
+  "crohnsScore": 4.5,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "rolls",
+    "honey-cinnamon-butter",
+    "fructose",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "texas roadhouse rolls warning",
+    "roadhouse bread butter diarrhea",
+    "honey cinnamon butter trigger"
+  ],
+  "whyItWorks": "The fluffy yeast rolls contain gluten and high yeast fermentation, while the addictive honey cinnamon butter is loaded with fructose and dairy fat. Ingesting multiple warm rolls before a steak meal causes rapid gastric distension and postprandial cramping.",
+  "prepOrOrderInstructions": "Politely ask your server not to bring the bread basket to the table if you are sensitive to gluten or actively flaring. If in remission, limit to half a roll without butter.",
+  "safetyTier": "danger-zone"
+}

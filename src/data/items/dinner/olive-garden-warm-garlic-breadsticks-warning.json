@@ -1,0 +1,38 @@
+{
+  "id": "olive-garden-warm-garlic-breadsticks-warning",
+  "name": "WARNING: Olive Garden Warm Garlic Breadsticks (Garlic Margarine Brush)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Olive Garden Warning",
+  "crohnsScore": 4.5,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "restaurant",
+    "olive-garden",
+    "breadsticks",
+    "garlic-salt",
+    "margarine",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "olive garden breadsticks warning",
+    "garlic breadsticks gas bloat",
+    "breadstick margarine diarrhea"
+  ],
+  "whyItWorks": "Rolled yeast bread baked fresh and heavily coated with melted margarine, garlic salt, and artificial butter flavoring. The concentrated garlic powder and grease trigger bloating, gas spasms, and acid reflux.",
+  "prepOrOrderInstructions": "Ask server for 'plain breadsticks with NO garlic butter topping' if you tolerate wheat, or skip breadsticks entirely.",
+  "safetyTier": "danger-zone"
+}

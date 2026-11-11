@@ -1,0 +1,36 @@
+{
+  "id": "texas-roadhouse-plain-baked-potato-flesh-only",
+  "name": "Texas Roadhouse Plain Baked Potato (Flesh Only, Skin Discarded)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Texas Roadhouse",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "takeout",
+    "baked-potato",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "texas roadhouse baked potato plain",
+    "roadhouse potato flesh only",
+    "plain baked potato restaurant"
+  ],
+  "whyItWorks": "Fluffy Idaho russet potato baked soft. When ordered dry with no butter or sour cream, and with the tough salted skin discarded, the interior flesh is pure, soothing soluble starch that calms hyperactive peristalsis.",
+  "prepOrOrderInstructions": "Order: 'Plain baked potato, completely dry—NO butter, NO sour cream, NO cheese, NO bacon.' Scoop the white fluffy flesh out of the skin and season with table salt.",
+  "safetyTier": "flare-safe"
+}
