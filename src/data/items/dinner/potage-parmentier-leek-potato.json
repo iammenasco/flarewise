@@ -1,0 +1,32 @@
+{
+  "id": "potage-parmentier-leek-potato",
+  "name": "Potage Parmentier",
+  "categoryFolder": "dinner",
+  "crohnsScore": 10,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 2,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soup",
+    "potato",
+    "leek",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "potage parmentier",
+    "leek potato soup"
+  ],
+  "whyItWorks": "Silky potatoes and leeks are gentle on the system.",
+  "prepOrOrderInstructions": "Simmer on the stove until smooth."
+}
