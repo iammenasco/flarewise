@@ -1,31 +1,50 @@
 {
-  "name": "Chateaubriand-Style Roasted Beef Tenderloin",
+  "id": "chateaubriand-style-roasted-beef-tenderloin",
+  "name": "Chateaubriand-Roasted Filet Steak",
   "categoryFolder": "high-protein",
-  "crohnsScore": 7,
-  "safetyTier": "remission-road",
+  "brandOrRestaurant": "Disney Wonder · Triton's / Disney Magic · Lumiere's",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
   "mealTypes": [
     "dinner"
   ],
-  "region": "American",
+  "region": "Euro/Bistro",
   "costTier": 3,
+  "convenienceScore": 5,
   "prepMethod": [
-    "stovetop"
+    "skillet",
+    "ready-to-eat"
   ],
-  "fiberGramsPerServing": 0,
+  "fiberGramsPerServing": 1,
   "lactoseSafe": true,
   "citrusFree": true,
   "tags": [
     "beef",
     "tenderloin",
-    "roast"
+    "steak",
+    "roast",
+    "french",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "tritons",
+    "lumieres"
   ],
   "searchKeywords": [
-    "beef",
-    "tenderloin",
-    "roast"
+    "chateaubriand",
+    "filet steak",
+    "roasted beef tenderloin",
+    "tritons",
+    "lumieres",
+    "disney wonder",
+    "disney magic"
   ],
-  "whyItWorks": "A high-quality protein that fits the careful tier.",
-  "prepOrOrderInstructions": "Cook to desired temperature.",
-  "convenienceScore": 5,
-  "id": "chateaubriand-style-roasted-beef-tenderloin"
+  "whyItWorks": "Chateaubriand is cut from the most tender center portion of beef tenderloin — virtually zero gristle or connective tissue, making it the easiest steak cut to digest.",
+  "prepOrOrderInstructions": "Order medium-rare to medium at Triton's or Lumiere's with the crushed new potatoes (eat the soft insides, skip any skins) and mild red wine jus on the side. Ask to swap green beans for peeled carrots or extra mashed potatoes during a flare.",
+  "watchOuts": [
+    "Potato skins on crushed new potatoes",
+    "Whole green beans if flaring",
+    "Rich Béarnaise sauce if high fat triggers urgency"
+  ]
 }
