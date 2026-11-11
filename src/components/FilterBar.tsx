@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react'
-import { CRUISE_SHIP_CHIPS } from '../lib/filters'
+import { Ship } from 'lucide-react'
+import { CRUISE_SHIP_CHIPS, isCruiseTag } from '../lib/filters'
 import { MEAL_CHIPS, REGION_CHIPS, costLabel } from '../lib/score'
 import type { CatalogFilters, ModeFilter } from '../hooks/useCatalogFilters'
 
@@ -49,13 +50,9 @@ function Chip({
 export function ModeChips({
   mode,
   onMode,
-  cruiseMode = false,
-  onToggleCruise,
 }: {
   mode: ModeFilter
   onMode: (mode: ModeFilter) => void
-  cruiseMode?: boolean
-  onToggleCruise?: () => void
 }) {
   const modes: { id: ModeFilter; label: string }[] = [
     { id: 'all', label: 'All' },
@@ -74,11 +71,6 @@ export function ModeChips({
           {item.label}
         </Chip>
       ))}
-      {onToggleCruise ? (
-        <Chip active={cruiseMode} onClick={onToggleCruise}>
-          Cruise
-        </Chip>
-      ) : null}
     </div>
   )
 }
@@ -98,32 +90,6 @@ export function FilterPanel({
 }: FilterBarProps) {
   return (
     <div className="space-y-3">
-      <div>
-        <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
-          Cruise & vacation
-        </p>
-        <div className="flex flex-wrap gap-1.5">
-          <Chip
-            active={cruiseMode}
-            onClick={() => onToggleGuardrail('cruiseMode')}
-          >
-            Cruise / Vacation
-          </Chip>
-          {CRUISE_SHIP_CHIPS.map((ship) => (
-            <Chip
-              key={ship.tag}
-              active={cruiseMode && filters.tag === ship.tag}
-              onClick={() => onSelectShip(ship.tag)}
-            >
-              {ship.label}
-            </Chip>
-          ))}
-        </div>
-        <p className="muted mt-1.5 text-xs">
-          Unselected by default so cruise menus stay tucked out of everyday
-          grocery and restaurant browsing.
-        </p>
-      </div>
       <div>
         <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
           Meal
@@ -205,12 +171,58 @@ export function FilterPanel({
               {costLabel(tier)}
             </Chip>
           ))}
-          {filters.tag ? (
+          {filters.tag && !isCruiseTag(filters.tag) ? (
             <Chip active onClick={() => onPatch({ tag: '' })}>
               #{filters.tag} ×
             </Chip>
           ) : null}
         </div>
+      </div>
+
+      <div>
+        <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
+          Vacation
+        </p>
+        <div className="flex flex-wrap gap-1.5">
+          <Chip
+            active={cruiseMode}
+            onClick={() => onToggleGuardrail('cruiseMode')}
+          >
+            <span className="inline-flex items-center gap-1.5">
+              <Ship className="h-3.5 w-3.5" />
+              Vacation / Cruise mode
+            </span>
+          </Chip>
+        </div>
+        {cruiseMode ? (
+          <div className="mt-2 rounded-2xl border border-[var(--brand)]/20 bg-[var(--brand-soft)]/55 p-2.5">
+            <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+              Cruise ship
+            </p>
+            <div className="flex flex-wrap gap-1.5">
+              <Chip
+                active={!filters.tag || !isCruiseTag(filters.tag)}
+                onClick={() => onPatch({ tag: '' })}
+              >
+                All ships
+              </Chip>
+              {CRUISE_SHIP_CHIPS.map((ship) => (
+                <Chip
+                  key={ship.tag}
+                  active={filters.tag === ship.tag}
+                  onClick={() => onSelectShip(ship.tag)}
+                >
+                  {ship.label}
+                </Chip>
+              ))}
+            </div>
+          </div>
+        ) : (
+          <p className="muted mt-1.5 text-xs">
+            Off by default — turn on to switch into Disney Cruise menus and pick
+            your ship.
+          </p>
+        )}
       </div>
 
       <div>

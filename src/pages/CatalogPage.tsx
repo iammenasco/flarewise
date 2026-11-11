@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Plus, Search, SlidersHorizontal, Sparkles, X } from 'lucide-react'
+import { Plus, Search, Ship, SlidersHorizontal, Sparkles, X } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { FilterPanel, ModeChips } from '../components/FilterBar'
 import { FlareDial } from '../components/FlareDial'
@@ -220,41 +220,65 @@ export function CatalogPage() {
           <ModeChips
             mode={filters.mode}
             onMode={(mode) => patch({ mode })}
-            cruiseMode={prefs.guardrails.cruiseMode}
-            onToggleCruise={toggleCruiseMode}
           />
-          <button
-            type="button"
-            onClick={roll}
-            className="btn btn-ghost shrink-0 !min-h-10 !px-3 !text-xs"
-            aria-label="Surprise me with three ideas for today"
-          >
-            <Sparkles className="h-4 w-4 text-[var(--brand)]" />
-            Surprise me
-          </button>
+          <div className="flex shrink-0 items-center gap-1.5">
+            <button
+              type="button"
+              onClick={toggleCruiseMode}
+              data-active={prefs.guardrails.cruiseMode}
+              className="chip shrink-0 !min-h-10 !px-3 !text-xs"
+              aria-label="Toggle Vacation and Cruise mode"
+              title="Vacation / Cruise menus"
+            >
+              <Ship className="h-3.5 w-3.5" />
+              Vacation
+            </button>
+            <button
+              type="button"
+              onClick={roll}
+              className="btn btn-ghost shrink-0 !min-h-10 !px-3 !text-xs"
+              aria-label="Surprise me with three ideas for today"
+            >
+              <Sparkles className="h-4 w-4 text-[var(--brand)]" />
+              Surprise me
+            </button>
+          </div>
         </div>
 
         {prefs.guardrails.cruiseMode ? (
-          <div className="flex items-center gap-1.5 overflow-x-auto pt-0.5">
+          <div className="flex items-center justify-between gap-2 rounded-xl border border-[var(--brand)]/20 bg-[var(--brand-soft)]/60 px-2.5 py-1.5">
+            <div className="flex items-center gap-1.5 overflow-x-auto">
+              <span className="shrink-0 pr-1 text-[11px] font-semibold text-[var(--brand-ink)]/70">
+                Cruises:
+              </span>
+              <button
+                type="button"
+                className="chip shrink-0 !min-h-7 !px-2.5 !py-0.5 !text-xs"
+                data-active={!filters.tag || !isCruiseTag(filters.tag)}
+                onClick={() => patch({ tag: '' })}
+              >
+                All ships
+              </button>
+              {CRUISE_SHIP_CHIPS.map((ship) => (
+                <button
+                  key={ship.tag}
+                  type="button"
+                  className="chip shrink-0 !min-h-7 !px-2.5 !py-0.5 !text-xs"
+                  data-active={filters.tag === ship.tag}
+                  onClick={() => selectShip(ship.tag)}
+                >
+                  {ship.shortLabel}
+                </button>
+              ))}
+            </div>
             <button
               type="button"
-              className="chip shrink-0 !min-h-8 !px-2.5 !py-0.5 !text-xs"
-              data-active={!filters.tag || !isCruiseTag(filters.tag)}
-              onClick={() => patch({ tag: '' })}
+              onClick={toggleCruiseMode}
+              aria-label="Exit Vacation mode"
+              className="shrink-0 rounded-full p-1 text-[var(--brand-ink)]/55 hover:bg-white/60"
             >
-              All ships
+              <X className="h-3.5 w-3.5" />
             </button>
-            {CRUISE_SHIP_CHIPS.map((ship) => (
-              <button
-                key={ship.tag}
-                type="button"
-                className="chip shrink-0 !min-h-8 !px-2.5 !py-0.5 !text-xs"
-                data-active={filters.tag === ship.tag}
-                onClick={() => selectShip(ship.tag)}
-              >
-                {ship.shortLabel}
-              </button>
-            ))}
           </div>
         ) : null}
       </div>
@@ -264,7 +288,7 @@ export function CatalogPage() {
           <p className="text-sm font-medium text-[var(--brand-ink)]/80">
             {resultLabel}
           </p>
-          {filters.tag ? (
+          {filters.tag && !(prefs.guardrails.cruiseMode && isCruiseTag(filters.tag)) ? (
             <button
               type="button"
               className="chip !min-h-8 !text-xs"
