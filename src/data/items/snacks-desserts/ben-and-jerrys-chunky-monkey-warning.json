@@ -1,0 +1,34 @@
+{
+  "id": "ben-and-jerrys-chunky-monkey-warning",
+  "name": "Ben & Jerry's Chunky Monkey Ice Cream (Walnut WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ben & Jerry's",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "walnut-chunks",
+    "high-fat-fudge",
+    "stricture-hazard",
+    "heavy-cream"
+  ],
+  "searchKeywords": [
+    "chunky monkey warning",
+    "ben and jerrys walnut danger",
+    "walnuts crohns stricture"
+  ],
+  "whyItWorks": "Packed with dense, whole roasted walnut halves and thick fudge chunks. Walnuts contain fibrous tannins and tough woody cell walls that pass undigested, posing severe obstruction hazards for narrowed bowels.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Choose smooth ice creams without nut mix-ins.",
+  "safetyTier": "danger-zone"
+}

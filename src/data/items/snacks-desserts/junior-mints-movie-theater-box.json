@@ -1,0 +1,35 @@
+{
+  "id": "junior-mints-movie-theater-box",
+  "name": "Junior Mints Dark Chocolate Covered Mints",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Tootsie Roll Industries",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "junior-mints",
+    "movie-snack",
+    "dark-chocolate",
+    "nut-free",
+    "soft-center"
+  ],
+  "searchKeywords": [
+    "junior mints",
+    "movie theater mints",
+    "chocolate mint drops"
+  ],
+  "whyItWorks": "Bite-sized dark chocolates with a creamy peppermint fondant center. Nut-free, seedless, low in fat (3g per serving), and melts cleanly without residue.",
+  "prepOrOrderInstructions": "A go-to safe movie theater candy for sensitive stomachs.",
+  "safetyTier": "low-risk"
+}

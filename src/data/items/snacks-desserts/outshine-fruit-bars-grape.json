@@ -1,0 +1,36 @@
+{
+  "id": "outshine-fruit-bars-grape",
+  "name": "Outshine 100% Juice Fruit Bars (Grape)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Outshine / Dreyer's",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fruit-bars",
+    "concord-grape-juice",
+    "fat-free",
+    "zero-fiber",
+    "flare-safe-hydration"
+  ],
+  "searchKeywords": [
+    "outshine grape",
+    "grape popsicles",
+    "100 percent juice bar",
+    "clear fruit bar"
+  ],
+  "whyItWorks": "Made from 100% real Concord grape juice with zero added high-fructose corn syrup, zero fat, zero dairy, and zero seeds. Soothes an inflamed digestive tract and provides refreshing, clean hydration during flares.",
+  "prepOrOrderInstructions": "Eat straight from the freezer on hot days or during bowel rest protocols.",
+  "safetyTier": "flare-safe"
+}

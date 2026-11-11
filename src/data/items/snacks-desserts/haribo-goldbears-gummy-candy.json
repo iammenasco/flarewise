@@ -1,0 +1,37 @@
+{
+  "id": "haribo-goldbears-gummy-candy",
+  "name": "Haribo Goldbears Gummy Bears (Original)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Haribo",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "gummy-bears",
+    "gelatin-candy",
+    "dairy-free",
+    "fat-free",
+    "zero-fiber",
+    "chewy-candy"
+  ],
+  "searchKeywords": [
+    "haribo goldbears",
+    "gummy bears",
+    "gelatin bears",
+    "chewy fruit snacks"
+  ],
+  "whyItWorks": "Made from high-quality animal gelatin, glucose syrup, sugar, and natural fruit concentrates. Gelatin is naturally soothing to inflamed mucosal tissue and dissolves into gentle amino acids, providing a fat-free, fiber-free sweet treat.",
+  "prepOrOrderInstructions": "Chew thoroughly before swallowing. Enjoy a small handful to satisfy sweet cravings without stomach heaviness.",
+  "safetyTier": "low-risk"
+}

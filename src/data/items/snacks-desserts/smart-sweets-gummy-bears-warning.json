@@ -1,0 +1,36 @@
+{
+  "id": "smart-sweets-gummy-bears-warning",
+  "name": "SmartSweets Gummy Bears (13g Prebiotic Fiber WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "SmartSweets",
+  "crohnsScore": 2.1,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 13,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "soluble-corn-fiber",
+    "allulose",
+    "isomalto-oligosaccharides",
+    "gas-explosion",
+    "cramping-trigger"
+  ],
+  "searchKeywords": [
+    "smartsweets warning",
+    "smart sweets gummy bears",
+    "fiber candy danger",
+    "keto candy diarrhea"
+  ],
+  "whyItWorks": "Deceptively marketed as a \"healthy low sugar\" candy, but packed with 13g of prebiotic soluble corn fiber and allulose per tiny 1.8 oz bag. The concentrated prebiotic fiber ferments violently in the colon, triggering explosive gas, loud bowel rumbling, and painful diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Traditional sugar and gelatin gummy bears like Haribo or Albanese are vastly safer for Crohn's and Colitis than fiber-spiked \"diet\" gummies.",
+  "safetyTier": "danger-zone"
+}

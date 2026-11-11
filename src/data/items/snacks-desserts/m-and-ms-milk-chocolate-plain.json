@@ -1,0 +1,35 @@
+{
+  "id": "m-and-ms-milk-chocolate-plain",
+  "name": "M&M's Plain Milk Chocolate Candies",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 8.1,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "plain-chocolate",
+    "m-and-ms",
+    "seedless",
+    "nut-free-plain",
+    "bite-sized"
+  ],
+  "searchKeywords": [
+    "plain m and ms",
+    "milk chocolate candy",
+    "movie theater chocolate"
+  ],
+  "whyItWorks": "Pure smooth milk chocolate encased in a thin, crisp sugar shell. Free from whole nuts, seeds, and dried fruits, melting easily in the mouth.",
+  "prepOrOrderInstructions": "Eat by the handful during remission or stable maintenance.",
+  "safetyTier": "low-risk"
+}

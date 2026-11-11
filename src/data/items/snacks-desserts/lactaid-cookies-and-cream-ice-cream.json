@@ -1,0 +1,36 @@
+{
+  "id": "lactaid-cookies-and-cream-ice-cream",
+  "name": "Lactaid Cookies & Cream Ice Cream (100% Lactose-Free)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Lactaid / HP Hood",
+  "crohnsScore": 8.3,
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "lactose-free-ice-cream",
+    "real-cream",
+    "cookies-and-cream",
+    "lactase-treated",
+    "creamy-dessert"
+  ],
+  "searchKeywords": [
+    "lactaid ice cream",
+    "lactose free cookies and cream",
+    "real dairy no lactose",
+    "gut safe ice cream"
+  ],
+  "whyItWorks": "Real, velvety dairy cream and milk treated with lactase enzyme so that 100% of the lactose is broken down into simple glucose and galactose. Blended with soft chocolate cookie crumbs that melt easily without nuts.",
+  "prepOrOrderInstructions": "Serve 1/2 cup portion chilled. Delivers all the authentic creaminess of real ice cream without lactose distress.",
+  "safetyTier": "low-risk"
+}

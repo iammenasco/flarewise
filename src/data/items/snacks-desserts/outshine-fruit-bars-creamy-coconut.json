@@ -1,0 +1,35 @@
+{
+  "id": "outshine-fruit-bars-creamy-coconut",
+  "name": "Outshine Fruit & Cream Bars (Creamy Coconut)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Outshine / Dreyer's",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "coconut-bars",
+    "creamy-coconut",
+    "refreshing",
+    "seedless-popsicle",
+    "real-cream"
+  ],
+  "searchKeywords": [
+    "outshine coconut",
+    "creamy coconut bars",
+    "coconut popsicle"
+  ],
+  "whyItWorks": "Crafted with real skim milk and sweet coconut cream, blended completely smooth without shredded coconut flakes or tough fruit pieces. Cool and soothing on the stomach.",
+  "prepOrOrderInstructions": "Enjoy frozen. If sensitive to lactose, take a lactase enzyme tablet.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dole-whip-frozen-pineapple-soft-serve",
+  "name": "Dole Whip Frozen Pineapple Soft Serve",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Dole / Kent Precision Foods",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "dole-whip",
+    "dairy-free",
+    "vegan-soft-serve",
+    "pineapple-treat",
+    "fat-free",
+    "seedless"
+  ],
+  "searchKeywords": [
+    "dole whip",
+    "pineapple soft serve",
+    "dairy free soft serve",
+    "disney dole whip at home"
+  ],
+  "whyItWorks": "A world-famous dry-mix soft serve formulated with pure fruit solids, coconut oil, and sugar. 100% vegan, dairy-free, fat-free, gluten-free, and seedless. Refreshing and silky smooth.",
+  "prepOrOrderInstructions": "Enjoy in small dishes. If sensitive to tropical fruit acid, eat slowly or choose vanilla/coconut flavor.",
+  "safetyTier": "low-risk"
+}

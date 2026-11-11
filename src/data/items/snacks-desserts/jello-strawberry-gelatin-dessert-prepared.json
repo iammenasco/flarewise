@@ -1,0 +1,37 @@
+{
+  "id": "jello-strawberry-gelatin-dessert-prepared",
+  "name": "Jell-O Gelatin Dessert (Prepared Strawberry / Berry)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kraft Heinz",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "jello",
+    "gelatin-dessert",
+    "clear-liquid",
+    "zero-fiber",
+    "zero-fat",
+    "ultimate-recovery-food"
+  ],
+  "searchKeywords": [
+    "jello",
+    "prepared jello",
+    "strawberry jello cup",
+    "clear liquid diet jello"
+  ],
+  "whyItWorks": "The quintessential hospital and recovery food! Pure collagen gelatin matrix that dissolves into liquid at body temperature without mechanical digestion. Leaves zero residue in the bowel, hydrates gently, and provides easy glucose calories.",
+  "prepOrOrderInstructions": "Eat chilled with a spoon. Ideal snack when transitioning from liquid to solid foods.",
+  "safetyTier": "flare-safe"
+}

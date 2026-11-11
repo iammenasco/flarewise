@@ -1,0 +1,36 @@
+{
+  "id": "york-peppermint-pattie",
+  "name": "York Dark Chocolate Peppermint Pattie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Hershey's",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "peppermint-pattie",
+    "dark-chocolate",
+    "low-fat",
+    "soothing-mint",
+    "nut-free"
+  ],
+  "searchKeywords": [
+    "york peppermint pattie",
+    "mint chocolate",
+    "peppermint candy",
+    "low fat chocolate"
+  ],
+  "whyItWorks": "Combines a thin layer of dark chocolate with a soft, cool peppermint sugar fondant. Contains only 2.5g of fat per full-sized patty (far lower than nutty candy bars), while real peppermint oil exerts a gentle antispasmodic effect.",
+  "prepOrOrderInstructions": "Enjoy cool or room temperature. A refreshing, low-fat chocolate treat.",
+  "safetyTier": "low-risk"
+}

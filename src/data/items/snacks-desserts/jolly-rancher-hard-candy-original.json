@@ -1,0 +1,35 @@
+{
+  "id": "jolly-rancher-hard-candy-original",
+  "name": "Jolly Rancher Original Flavors Hard Candy",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Hershey's",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "hard-candy",
+    "jolly-rancher",
+    "fat-free",
+    "zero-fiber",
+    "long-lasting"
+  ],
+  "searchKeywords": [
+    "jolly rancher",
+    "hard candy fruit",
+    "mouth watering candy"
+  ],
+  "whyItWorks": "Slow-dissolving hard candy containing zero fat, zero dairy, and zero fiber. Provides gentle oral stimulation and quick glucose energy during fatigue.",
+  "prepOrOrderInstructions": "Dissolve in the mouth slowly; never bite.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lindt-excellence-sea-salt-dark-chocolate",
+  "name": "Lindt Excellence A Touch of Sea Salt Dark Chocolate Bar",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Lindt & Sprüngli",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dark-chocolate",
+    "fleur-de-sel",
+    "sea-salt",
+    "dairy-free-friendly",
+    "seedless"
+  ],
+  "searchKeywords": [
+    "lindt sea salt",
+    "excellence dark chocolate",
+    "fine dark chocolate"
+  ],
+  "whyItWorks": "Premium dark chocolate with hand-harvested fleur de sel sea salt crystals. Completely free of dairy, whole nuts, and abrasive seeds.",
+  "prepOrOrderInstructions": "Break off 1 or 2 squares after dinner for gentle, luxurious sweetness.",
+  "safetyTier": "low-risk"
+}

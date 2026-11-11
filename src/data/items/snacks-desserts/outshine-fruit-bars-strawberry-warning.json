@@ -1,0 +1,35 @@
+{
+  "id": "outshine-fruit-bars-strawberry-warning",
+  "name": "Outshine Strawberry Fruit Bars (Berry Seed WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Outshine / Dreyer's",
+  "crohnsScore": 5.2,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "strawberry-seeds",
+    "achene-seeds",
+    "mechanical-irritant",
+    "stricture-hazard"
+  ],
+  "searchKeywords": [
+    "outshine strawberry warning",
+    "strawberry popsicle seeds",
+    "strawberry seeds crohns"
+  ],
+  "whyItWorks": "Made with real pureed strawberries that contain hundreds of tiny, hard, yellow achene seeds. These tiny seeds pass undigested into the small intestine, irritating mucosal ulcers and potentially aggravating narrowed strictures.",
+  "prepOrOrderInstructions": "Avoid strawberry fruit bars with visible seeds. Choose seedless Grape or Creamy Coconut Outshine bars instead.",
+  "safetyTier": "danger-zone"
+}

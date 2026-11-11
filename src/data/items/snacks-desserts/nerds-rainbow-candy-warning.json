@@ -1,0 +1,34 @@
+{
+  "id": "nerds-rainbow-candy-warning",
+  "name": "Nerds Rainbow Crunchy Candy (Gritty Acid WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ferrara Candy Company",
+  "crohnsScore": 5,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "crystallized-sugar",
+    "malic-acid",
+    "artificial-dyes",
+    "abrasive-texture"
+  ],
+  "searchKeywords": [
+    "nerds candy warning",
+    "rainbow nerds",
+    "crunchy candy acid"
+  ],
+  "whyItWorks": "Hard, irregular, microscopic sugar pebbles heavily coated with malic acid, carnauba wax, and artificial dyes (Red 40, Yellow 5, Blue 1). The gritty, sharp crystals do not dissolve quickly and can irritate inflamed mucosal ulcers.",
+  "prepOrOrderInstructions": "Avoid during active inflammation. Smooth hard candies or lollipops are vastly safer.",
+  "safetyTier": "danger-zone"
+}

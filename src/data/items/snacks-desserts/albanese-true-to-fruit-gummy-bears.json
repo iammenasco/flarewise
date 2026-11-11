@@ -1,0 +1,36 @@
+{
+  "id": "albanese-true-to-fruit-gummy-bears",
+  "name": "Albanese 12 Flavor Gummi Bears",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Albanese Confectionery",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "albanese-gummies",
+    "soft-gummies",
+    "gelatin-based",
+    "gluten-free",
+    "low-sodium"
+  ],
+  "searchKeywords": [
+    "albanese gummy bears",
+    "soft gummy bears",
+    "12 flavor gummies",
+    "gluten free gummies"
+  ],
+  "whyItWorks": "Famous for an exceptionally soft, tender chew that requires far less mastication than traditional stiff European gummies. Made with gelatin, gluten-free, fat-free, and allergen-friendly.",
+  "prepOrOrderInstructions": "Eat straight from the bag. A gentle candy option for kids and adults with IBD.",
+  "safetyTier": "low-risk"
+}

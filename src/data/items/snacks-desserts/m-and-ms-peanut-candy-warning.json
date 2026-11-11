@@ -1,0 +1,34 @@
+{
+  "id": "m-and-ms-peanut-candy-warning",
+  "name": "M&M's Peanut Chocolate Candies (Whole Nut WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 3,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "whole-peanuts",
+    "hard-nut-fragments",
+    "stricture-risk",
+    "ileal-blockage"
+  ],
+  "searchKeywords": [
+    "peanut m and ms warning",
+    "peanut candy danger",
+    "whole peanut obstruction"
+  ],
+  "whyItWorks": "Each candy encases a whole roasted peanut. In patients with intestinal strictures or postoperative anastomotic narrowing, swallowed whole or partially chewed peanuts represent a leading cause of food-induced small bowel obstruction.",
+  "prepOrOrderInstructions": "AVOID completely with stricturing Crohn's disease. Always select Plain M&M's.",
+  "safetyTier": "danger-zone"
+}

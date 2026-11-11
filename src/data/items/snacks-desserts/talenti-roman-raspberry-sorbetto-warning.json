@@ -1,0 +1,34 @@
+{
+  "id": "talenti-roman-raspberry-sorbetto-warning",
+  "name": "Talenti Roman Raspberry Sorbetto (Gritty Berry Seeds WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Talenti / Unilever",
+  "crohnsScore": 3.1,
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "crushed-raspberry-seeds",
+    "gritty-roughage",
+    "mechanical-irritant",
+    "stricture-hazard"
+  ],
+  "searchKeywords": [
+    "talenti raspberry sorbetto warning",
+    "raspberry seeds danger",
+    "berry sorbet warning"
+  ],
+  "whyItWorks": "Made with whole crushed raspberries that retain thousands of sharp, indigestible woody seed hulls. The insoluble berry seeds scrape along ulcerated mucosal walls and can become caught in small bowel strictures.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Always choose seedless, strained fruit sorbets (like mango or lemon) or smooth dairy-free ice cream.",
+  "safetyTier": "danger-zone"
+}

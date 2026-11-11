@@ -1,0 +1,37 @@
+{
+  "id": "goodpop-organic-freezer-pops-concord-grape",
+  "name": "GoodPop Organic 100% Juice Freezer Pops (Concord Grape)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "GoodPop",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "freezer-pops",
+    "organic-juice",
+    "zero-added-sugar",
+    "seedless",
+    "flare-safe",
+    "hydrating"
+  ],
+  "searchKeywords": [
+    "goodpop",
+    "organic freezer pops",
+    "juice pops",
+    "clean popsicles"
+  ],
+  "whyItWorks": "Certified organic freezer pops made exclusively with 100% fruit juice (white grape and concord grape), with no added sugar, artificial dyes, or preservatives. 0g fiber, 0g fat, pure soothing hydration.",
+  "prepOrOrderInstructions": "Freeze tubes flat in the freezer. Snip the top and enjoy.",
+  "safetyTier": "flare-safe"
+}

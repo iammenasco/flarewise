@@ -1,0 +1,34 @@
+{
+  "id": "talenti-madagascan-vanilla-bean-gelato",
+  "name": "Talenti Madagascan Vanilla Bean Gelato",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Talenti / Unilever",
+  "crohnsScore": 7.7,
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "gelato",
+    "real-dairy",
+    "madagascar-vanilla",
+    "seedless",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "talenti gelato",
+    "vanilla bean gelato",
+    "slow cooked gelato"
+  ],
+  "whyItWorks": "Slow-cooked fresh milk, cream, sugar, and egg yolks blended with real vanilla beans. Contains zero crunch mix-ins, nuts, or seeds, melting smoothly on the palate.",
+  "prepOrOrderInstructions": "Take a lactase enzyme tablet before consuming if lactose intolerant.",
+  "safetyTier": "low-risk"
+}

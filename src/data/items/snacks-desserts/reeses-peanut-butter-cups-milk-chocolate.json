@@ -1,0 +1,35 @@
+{
+  "id": "reeses-peanut-butter-cups-milk-chocolate",
+  "name": "Reese's Peanut Butter Cups (Milk Chocolate)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Hershey's",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "peanut-butter-cups",
+    "smooth-peanut-paste",
+    "zero-whole-nuts",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "reeses",
+    "peanut butter cups",
+    "smooth peanut candy",
+    "chocolate peanut butter"
+  ],
+  "whyItWorks": "Unlike nut bars with whole peanuts, Reese's uses roasted peanuts milled into an ultra-fine, velvety paste that melts instantly at body temperature. Presents zero stricture obstruction risk; enjoyable in moderation during remission.",
+  "prepOrOrderInstructions": "Enjoy 1 or 2 cups in remission. If lactose-sensitive, take a lactase enzyme tablet.",
+  "safetyTier": "low-risk"
+}

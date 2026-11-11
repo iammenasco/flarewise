@@ -1,0 +1,34 @@
+{
+  "id": "ben-and-jerrys-non-dairy-chocolate-fudge-brownie",
+  "name": "Ben & Jerry's Non-Dairy Chocolate Fudge Brownie",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ben & Jerry's",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dairy-free",
+    "oat-milk-base",
+    "fudge-brownies",
+    "vegan",
+    "nut-free-treat"
+  ],
+  "searchKeywords": [
+    "ben and jerrys non dairy",
+    "vegan fudge brownie",
+    "dairy free ice cream"
+  ],
+  "whyItWorks": "Made with an oat milk base and soft, chewy Greyston Bakery fudge brownies. Completely dairy-free, nut-free, and seedless; the soft brownie chunks disintegrate easily without sharp edges.",
+  "prepOrOrderInstructions": "Eat in modest 1/2 cup portions to keep rich cocoa oils easy to digest.",
+  "safetyTier": "low-risk"
+}

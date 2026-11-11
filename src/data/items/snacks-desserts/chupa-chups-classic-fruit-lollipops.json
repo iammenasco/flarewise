@@ -1,0 +1,36 @@
+{
+  "id": "chupa-chups-classic-fruit-lollipops",
+  "name": "Chupa Chups Classic Fruit Lollipops",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Perfetti Van Melle",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "lollipops",
+    "hard-candy",
+    "portion-controlled",
+    "zero-fat",
+    "zero-fiber"
+  ],
+  "searchKeywords": [
+    "chupa chups",
+    "fruit lollipops",
+    "suckers",
+    "travel candy"
+  ],
+  "whyItWorks": "Hard sugar lollipop that dissolves slowly in the mouth, stimulating soothing saliva production without placing any solid bolus into the stomach.",
+  "prepOrOrderInstructions": "Suck slowly; do not chew or crush with teeth.",
+  "safetyTier": "low-risk"
+}

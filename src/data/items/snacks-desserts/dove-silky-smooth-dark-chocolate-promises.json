@@ -1,0 +1,36 @@
+{
+  "id": "dove-silky-smooth-dark-chocolate-promises",
+  "name": "Dove Promises Silky Smooth Dark Chocolate",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mars Wrigley",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dark-chocolate",
+    "pure-cocoa-butter",
+    "antioxidants",
+    "portion-controlled",
+    "nut-free"
+  ],
+  "searchKeywords": [
+    "dove dark chocolate",
+    "dove promises",
+    "smooth dark chocolate",
+    "clean chocolate"
+  ],
+  "whyItWorks": "Made with finely ground chocolate liquor, cocoa butter, and sugar with no nuts, seeds, or fruit additives. Individually wrapped foil squares make it easy to limit fat intake to 1–2 pieces.",
+  "prepOrOrderInstructions": "Let melt slowly on the tongue to enjoy rich cocoa flavor without overloading digestive bile.",
+  "safetyTier": "low-risk"
+}

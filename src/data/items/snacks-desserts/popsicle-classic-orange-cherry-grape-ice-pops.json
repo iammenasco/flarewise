@@ -1,0 +1,37 @@
+{
+  "id": "popsicle-classic-orange-cherry-grape-ice-pops",
+  "name": "Popsicle Brand Classic Ice Pops (Cherry & Grape)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Popsicle / Unilever",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "classic-popsicles",
+    "ice-pops",
+    "fat-free",
+    "zero-residue",
+    "clear-liquid-protocol",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "popsicle brand",
+    "classic ice pops",
+    "cherry grape popsicles",
+    "fever hydration"
+  ],
+  "whyItWorks": "Pure water, sugar, and gentle flavoring frozen onto wooden sticks. Contains 0g fat, 0g fiber, and 0g dairy; acceptable on clear liquid protocols (verify dye restrictions for colonoscopy prep) and wonderfully soothing for mouth sores and nausea.",
+  "prepOrOrderInstructions": "Savor slowly. Keep a box in the freezer for acute flare days.",
+  "safetyTier": "flare-safe"
+}

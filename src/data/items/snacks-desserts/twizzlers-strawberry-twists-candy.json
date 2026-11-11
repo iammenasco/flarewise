@@ -1,0 +1,36 @@
+{
+  "id": "twizzlers-strawberry-twists-candy",
+  "name": "Twizzlers Strawberry Twists Chewy Candy",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Hershey's",
+  "crohnsScore": 8.4,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "licorice-twists",
+    "strawberry-twizzlers",
+    "low-fat",
+    "seedless",
+    "movie-theater-snack"
+  ],
+  "searchKeywords": [
+    "twizzlers",
+    "strawberry licorice",
+    "movie candy safe",
+    "low fat candy"
+  ],
+  "whyItWorks": "Made from enriched wheat flour, corn syrup, and sugar with less than 1g of fat per serving. Free of nuts, seeds, and citrus acids; chews down softly without leaving fibrous residue.",
+  "prepOrOrderInstructions": "Chew individual strands thoroughly. A reliable, low-risk movie theater sweet.",
+  "safetyTier": "low-risk"
+}

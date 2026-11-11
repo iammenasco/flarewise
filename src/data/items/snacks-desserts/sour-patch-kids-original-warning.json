@@ -1,0 +1,34 @@
+{
+  "id": "sour-patch-kids-original-warning",
+  "name": "Sour Patch Kids Original (Concentrated Acid WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Mondelēz",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "tartaric-acid",
+    "fumaric-acid",
+    "citric-acid",
+    "chemical-mucosal-burn"
+  ],
+  "searchKeywords": [
+    "sour patch kids warning",
+    "sour candy gut burn",
+    "acidic candy danger"
+  ],
+  "whyItWorks": "Coated with an intensely sour chemical crust of tartaric acid, citric acid, and fumaric acid. The concentrated acid layer causes acute mouth burning, stomach hyperacidity, and direct chemical irritation to ulcerated intestinal walls.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. The harsh topical acidity reliably triggers stomach cramps and reflux.",
+  "safetyTier": "danger-zone"
+}

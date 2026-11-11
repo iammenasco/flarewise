@@ -1,0 +1,37 @@
+{
+  "id": "marshmallow-fluff-original-spread",
+  "name": "Marshmallow Fluff Original Marshmallow Creme",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Durkee-Mower",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "marshmallow-fluff",
+    "egg-whites",
+    "zero-fiber",
+    "dairy-free",
+    "gluten-free",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "marshmallow fluff",
+    "fluffernutter",
+    "marshmallow creme",
+    "sweet dessert spread"
+  ],
+  "whyItWorks": "Made from corn syrup, sugar syrup, dried egg whites, and vanillin. Completely free of dairy, fat, and fiber; pure soft marshmallow cloud that dissolves instantly in the mouth.",
+  "prepOrOrderInstructions": "Spread over white sourdough toast or dip with gluten-free pretzel sticks for a safe sweet treat.",
+  "safetyTier": "flare-safe"
+}

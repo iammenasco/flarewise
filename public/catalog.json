@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T19:13:39.309Z",
-  "itemCount": 1840,
+  "builtAt": "2026-11-11T20:00:01.772Z",
+  "itemCount": 1872,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -3154,6 +3154,44 @@
       "_sourcePath": "src/data/items/asian-indian/japanese-chicken-udon-soup.json"
     },
     {
+      "id": "jello-strawberry-gelatin-dessert-prepared",
+      "name": "Jell-O Gelatin Dessert (Prepared Strawberry / Berry)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Kraft Heinz",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "jello",
+        "gelatin-dessert",
+        "clear-liquid",
+        "zero-fiber",
+        "zero-fat",
+        "ultimate-recovery-food"
+      ],
+      "searchKeywords": [
+        "jello",
+        "prepared jello",
+        "strawberry jello cup",
+        "clear liquid diet jello"
+      ],
+      "whyItWorks": "The quintessential hospital and recovery food! Pure collagen gelatin matrix that dissolves into liquid at body temperature without mechanical digestion. Leaves zero residue in the bowel, hydrates gently, and provides easy glucose calories.",
+      "prepOrOrderInstructions": "Eat chilled with a spoon. Ideal snack when transitioning from liquid to solid foods.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/jello-strawberry-gelatin-dessert-prepared.json"
+    },
+    {
       "id": "kate-farms-pediatric-peptide-1-5",
       "name": "Kate Farms Pediatric Peptide 1.5 Formula",
       "categoryFolder": "drinks-sauces",
@@ -4721,6 +4759,44 @@
       "_sourcePath": "src/data/items/snacks-desserts/peeps-marshmallow-chicks.json"
     },
     {
+      "id": "popsicle-classic-orange-cherry-grape-ice-pops",
+      "name": "Popsicle Brand Classic Ice Pops (Cherry & Grape)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Popsicle / Unilever",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "classic-popsicles",
+        "ice-pops",
+        "fat-free",
+        "zero-residue",
+        "clear-liquid-protocol",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "popsicle brand",
+        "classic ice pops",
+        "cherry grape popsicles",
+        "fever hydration"
+      ],
+      "whyItWorks": "Pure water, sugar, and gentle flavoring frozen onto wooden sticks. Contains 0g fat, 0g fiber, and 0g dairy; acceptable on clear liquid protocols (verify dye restrictions for colonoscopy prep) and wonderfully soothing for mouth sores and nausea.",
+      "prepOrOrderInstructions": "Savor slowly. Keep a box in the freezer for acute flare days.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/popsicle-classic-orange-cherry-grape-ice-pops.json"
+    },
+    {
       "id": "holiday-leftover-turkey-rice-bone-broth-soup",
       "name": "Post-Holiday Leftover Roast Turkey, White Rice & Bone Broth Soup",
       "categoryFolder": "dinner",
@@ -5422,6 +5498,44 @@
       "_sourcePath": "src/data/items/breakfast/general-mills-rice-chex-cereal.json"
     },
     {
+      "id": "goodpop-organic-freezer-pops-concord-grape",
+      "name": "GoodPop Organic 100% Juice Freezer Pops (Concord Grape)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "GoodPop",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "freezer-pops",
+        "organic-juice",
+        "zero-added-sugar",
+        "seedless",
+        "flare-safe",
+        "hydrating"
+      ],
+      "searchKeywords": [
+        "goodpop",
+        "organic freezer pops",
+        "juice pops",
+        "clean popsicles"
+      ],
+      "whyItWorks": "Certified organic freezer pops made exclusively with 100% fruit juice (white grape and concord grape), with no added sugar, artificial dyes, or preservatives. 0g fiber, 0g fat, pure soothing hydration.",
+      "prepOrOrderInstructions": "Freeze tubes flat in the freezer. Snip the top and enjoy.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/goodpop-organic-freezer-pops-concord-grape.json"
+    },
+    {
       "id": "haribo-goldbears-original-gummy-bears",
       "name": "Haribo Goldbears Original Gummy Bears",
       "categoryFolder": "snacks-desserts",
@@ -5668,6 +5782,44 @@
         "Safe for all IBD dietary stages."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/life-savers-hard-candy-5-flavors.json"
+    },
+    {
+      "id": "marshmallow-fluff-original-spread",
+      "name": "Marshmallow Fluff Original Marshmallow Creme",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Durkee-Mower",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "marshmallow-fluff",
+        "egg-whites",
+        "zero-fiber",
+        "dairy-free",
+        "gluten-free",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "marshmallow fluff",
+        "fluffernutter",
+        "marshmallow creme",
+        "sweet dessert spread"
+      ],
+      "whyItWorks": "Made from corn syrup, sugar syrup, dried egg whites, and vanillin. Completely free of dairy, fat, and fiber; pure soft marshmallow cloud that dissolves instantly in the mouth.",
+      "prepOrOrderInstructions": "Spread over white sourdough toast or dip with gluten-free pretzel sticks for a safe sweet treat.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/marshmallow-fluff-original-spread.json"
     },
     {
       "id": "members-mark-canned-wild-alaska-pink-salmon",
@@ -8003,6 +8155,43 @@
         "Contains added sodium for preservation; drink water alongside deli meats."
       ],
       "_sourcePath": "src/data/items/high-protein/oscar-mayer-deli-fresh-oven-roasted-turkey.json"
+    },
+    {
+      "id": "outshine-fruit-bars-grape",
+      "name": "Outshine 100% Juice Fruit Bars (Grape)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Outshine / Dreyer's",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "fruit-bars",
+        "concord-grape-juice",
+        "fat-free",
+        "zero-fiber",
+        "flare-safe-hydration"
+      ],
+      "searchKeywords": [
+        "outshine grape",
+        "grape popsicles",
+        "100 percent juice bar",
+        "clear fruit bar"
+      ],
+      "whyItWorks": "Made from 100% real Concord grape juice with zero added high-fructose corn syrup, zero fat, zero dairy, and zero seeds. Soothes an inflamed digestive tract and provides refreshing, clean hydration during flares.",
+      "prepOrOrderInstructions": "Eat straight from the freezer on hot days or during bowel rest protocols.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/outshine-fruit-bars-grape.json"
     },
     {
       "id": "peeled-steamed-zucchini",
@@ -14067,6 +14256,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/airheads-candy-bars-fruit-taffy.json"
     },
     {
+      "id": "albanese-true-to-fruit-gummy-bears",
+      "name": "Albanese 12 Flavor Gummi Bears",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Albanese Confectionery",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "albanese-gummies",
+        "soft-gummies",
+        "gelatin-based",
+        "gluten-free",
+        "low-sodium"
+      ],
+      "searchKeywords": [
+        "albanese gummy bears",
+        "soft gummy bears",
+        "12 flavor gummies",
+        "gluten free gummies"
+      ],
+      "whyItWorks": "Famous for an exceptionally soft, tender chew that requires far less mastication than traditional stiff European gummies. Made with gelatin, gluten-free, fat-free, and allergen-friendly.",
+      "prepOrOrderInstructions": "Eat straight from the bag. A gentle candy option for kids and adults with IBD.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/albanese-true-to-fruit-gummy-bears.json"
+    },
+    {
       "id": "aubergine-kitchen-orem-lehi-mediterranean-chicken-bowl",
       "name": "Aubergine Kitchen (Orem & Lehi, UT) Warm Mediterranean Chicken & Rice Bowl",
       "categoryFolder": "lunch",
@@ -14873,6 +15099,43 @@
       "prepOrOrderInstructions": "Steep 1 tea bag in freshly boiled water for 10 minutes. Sip slowly after meals to release painful postprandial gas.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/drinks-sauces/fennel-seed-herbal-infusion-tea.json"
+    },
+    {
+      "id": "so-delicious-dairy-free-vanilla-bean-coconutmilk-frozen-dessert",
+      "name": "So Delicious Dairy-Free Vanilla Bean Coconutmilk Frozen Dessert",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "So Delicious Dairy Free",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "dessert",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dairy-free-ice-cream",
+        "coconut-milk",
+        "vegan",
+        "gluten-free",
+        "creamy-vanilla"
+      ],
+      "searchKeywords": [
+        "so delicious vanilla",
+        "coconut milk ice cream",
+        "dairy free dessert",
+        "vegan ice cream"
+      ],
+      "whyItWorks": "Made from certified organic coconut milk, pure cane sugar, and Madagascar vanilla bean specks. 100% dairy-free, lactose-free, soy-free, and gluten-free; velvety mouthfeel that soothes inflamed throats and guts.",
+      "prepOrOrderInstructions": "Let sit on the counter for 3 minutes before scooping for optimum silky creaminess.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/so-delicious-dairy-free-vanilla-bean-coconutmilk-frozen-dessert.json"
     },
     {
       "id": "starbucks-marshmallow-dream-bar",
@@ -16265,6 +16528,44 @@
       "_sourcePath": "src/data/items/dinner/coopers-bear-lake-west-grilled-chicken-breast.json"
     },
     {
+      "id": "haribo-goldbears-gummy-candy",
+      "name": "Haribo Goldbears Gummy Bears (Original)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Haribo",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "gummy-bears",
+        "gelatin-candy",
+        "dairy-free",
+        "fat-free",
+        "zero-fiber",
+        "chewy-candy"
+      ],
+      "searchKeywords": [
+        "haribo goldbears",
+        "gummy bears",
+        "gelatin bears",
+        "chewy fruit snacks"
+      ],
+      "whyItWorks": "Made from high-quality animal gelatin, glucose syrup, sugar, and natural fruit concentrates. Gelatin is naturally soothing to inflamed mucosal tissue and dissolves into gentle amino acids, providing a fat-free, fiber-free sweet treat.",
+      "prepOrOrderInstructions": "Chew thoroughly before swallowing. Enjoy a small handful to satisfy sweet cravings without stomach heaviness.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/haribo-goldbears-gummy-candy.json"
+    },
+    {
       "id": "hellmanns-real-mayonnaise",
       "name": "Hellmann's / Best Foods Real Mayonnaise",
       "categoryFolder": "drinks-sauces",
@@ -16423,6 +16724,42 @@
         "Skip acidic citrus flavors (e.g., Sunkist lemon/lime) if sensitive to citric acid."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/jelly-belly-assorted-jelly-beans.json"
+    },
+    {
+      "id": "jolly-rancher-hard-candy-original",
+      "name": "Jolly Rancher Original Flavors Hard Candy",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Hershey's",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "hard-candy",
+        "jolly-rancher",
+        "fat-free",
+        "zero-fiber",
+        "long-lasting"
+      ],
+      "searchKeywords": [
+        "jolly rancher",
+        "hard candy fruit",
+        "mouth watering candy"
+      ],
+      "whyItWorks": "Slow-dissolving hard candy containing zero fat, zero dairy, and zero fiber. Provides gentle oral stimulation and quick glucose energy during fatigue.",
+      "prepOrOrderInstructions": "Dissolve in the mouth slowly; never bite.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/jolly-rancher-hard-candy-original.json"
     },
     {
       "id": "rice-krispies-treats-marshmallow-square",
@@ -17398,6 +17735,43 @@
       "_sourcePath": "src/data/items/breakfast/chobani-plain-whole-milk-greek-yogurt.json"
     },
     {
+      "id": "chupa-chups-classic-fruit-lollipops",
+      "name": "Chupa Chups Classic Fruit Lollipops",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Perfetti Van Melle",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "lollipops",
+        "hard-candy",
+        "portion-controlled",
+        "zero-fat",
+        "zero-fiber"
+      ],
+      "searchKeywords": [
+        "chupa chups",
+        "fruit lollipops",
+        "suckers",
+        "travel candy"
+      ],
+      "whyItWorks": "Hard sugar lollipop that dissolves slowly in the mouth, stimulating soothing saliva production without placing any solid bolus into the stomach.",
+      "prepOrOrderInstructions": "Suck slowly; do not chew or crush with teeth.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/chupa-chups-classic-fruit-lollipops.json"
+    },
+    {
       "id": "cupbop-draper-herriman-lindon-bop-level-1",
       "name": "Cupbop Korean BBQ (Draper / Herriman / Lindon / Logan) \"KKO KKO Bop\" Chicken or \"B Bop\" Beef (Spice Level 1)",
       "categoryFolder": "asian-indian",
@@ -17960,6 +18334,42 @@
       "_sourcePath": "src/data/items/snacks-desserts/honey-maid-original-graham-crackers.json"
     },
     {
+      "id": "junior-mints-movie-theater-box",
+      "name": "Junior Mints Dark Chocolate Covered Mints",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Tootsie Roll Industries",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "junior-mints",
+        "movie-snack",
+        "dark-chocolate",
+        "nut-free",
+        "soft-center"
+      ],
+      "searchKeywords": [
+        "junior mints",
+        "movie theater mints",
+        "chocolate mint drops"
+      ],
+      "whyItWorks": "Bite-sized dark chocolates with a creamy peppermint fondant center. Nut-free, seedless, low in fat (3g per serving), and melts cleanly without residue.",
+      "prepOrOrderInstructions": "A go-to safe movie theater candy for sensitive stomachs.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/junior-mints-movie-theater-box.json"
+    },
+    {
       "id": "kings-hawaiian-original-sweet-rolls",
       "name": "King's Hawaiian Original Hawaiian Sweet Rolls",
       "categoryFolder": "lunch",
@@ -18314,6 +18724,42 @@
         "Mashed potatoes contain milk/butter—take a lactase enzyme"
       ],
       "_sourcePath": "src/data/items/lunch/knotts-mrs-knotts-hot-roast-turkey-mashed-potatoes.json"
+    },
+    {
+      "id": "outshine-fruit-bars-creamy-coconut",
+      "name": "Outshine Fruit & Cream Bars (Creamy Coconut)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Outshine / Dreyer's",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "coconut-bars",
+        "creamy-coconut",
+        "refreshing",
+        "seedless-popsicle",
+        "real-cream"
+      ],
+      "searchKeywords": [
+        "outshine coconut",
+        "creamy coconut bars",
+        "coconut popsicle"
+      ],
+      "whyItWorks": "Crafted with real skim milk and sweet coconut cream, blended completely smooth without shredded coconut flakes or tough fruit pieces. Cool and soothing on the stomach.",
+      "prepOrOrderInstructions": "Enjoy frozen. If sensitive to lactose, take a lactase enzyme tablet.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/outshine-fruit-bars-creamy-coconut.json"
     },
     {
       "id": "holiday-leftover-turkey-shepherds-pie",
@@ -20798,6 +21244,43 @@
       "_sourcePath": "src/data/items/drinks-sauces/welchs-100-percent-white-grape-juice.json"
     },
     {
+      "id": "york-peppermint-pattie",
+      "name": "York Dark Chocolate Peppermint Pattie",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Hershey's",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "peppermint-pattie",
+        "dark-chocolate",
+        "low-fat",
+        "soothing-mint",
+        "nut-free"
+      ],
+      "searchKeywords": [
+        "york peppermint pattie",
+        "mint chocolate",
+        "peppermint candy",
+        "low fat chocolate"
+      ],
+      "whyItWorks": "Combines a thin layer of dark chocolate with a soft, cool peppermint sugar fondant. Contains only 2.5g of fat per full-sized patty (far lower than nutty candy bars), while real peppermint oil exerts a gentle antispasmodic effect.",
+      "prepOrOrderInstructions": "Enjoy cool or room temperature. A refreshing, low-fat chocolate treat.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/york-peppermint-pattie.json"
+    },
+    {
       "id": "1923-warm-cinnamon-donut-holes-sundae",
       "name": "1923 Warm Cinnamon Donut Holes & Hot Fudge Sundae",
       "categoryFolder": "snacks-desserts",
@@ -22377,6 +22860,44 @@
         "Zero triggers in the plain Boudin sourdough bread"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/disneyland-royal-street-veranda-cinnamon-roll-sourdough-bowl.json"
+    },
+    {
+      "id": "dole-whip-frozen-pineapple-soft-serve",
+      "name": "Dole Whip Frozen Pineapple Soft Serve",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Dole / Kent Precision Foods",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "dessert",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "dole-whip",
+        "dairy-free",
+        "vegan-soft-serve",
+        "pineapple-treat",
+        "fat-free",
+        "seedless"
+      ],
+      "searchKeywords": [
+        "dole whip",
+        "pineapple soft serve",
+        "dairy free soft serve",
+        "disney dole whip at home"
+      ],
+      "whyItWorks": "A world-famous dry-mix soft serve formulated with pure fruit solids, coconut oil, and sugar. 100% vegan, dairy-free, fat-free, gluten-free, and seedless. Refreshing and silky smooth.",
+      "prepOrOrderInstructions": "Enjoy in small dishes. If sensitive to tropical fruit acid, eat slowly or choose vanilla/coconut flavor.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/dole-whip-frozen-pineapple-soft-serve.json"
     },
     {
       "id": "donalds-cantina-custom-rice-bowl-flour-burrito",
@@ -28256,6 +28777,42 @@
       "_sourcePath": "src/data/items/lunch/knotts-soak-city-grilled-chicken-sandwich.json"
     },
     {
+      "id": "lindt-excellence-sea-salt-dark-chocolate",
+      "name": "Lindt Excellence A Touch of Sea Salt Dark Chocolate Bar",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Lindt & Sprüngli",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dark-chocolate",
+        "fleur-de-sel",
+        "sea-salt",
+        "dairy-free-friendly",
+        "seedless"
+      ],
+      "searchKeywords": [
+        "lindt sea salt",
+        "excellence dark chocolate",
+        "fine dark chocolate"
+      ],
+      "whyItWorks": "Premium dark chocolate with hand-harvested fleur de sel sea salt crystals. Completely free of dairy, whole nuts, and abrasive seeds.",
+      "prepOrOrderInstructions": "Break off 1 or 2 squares after dinner for gentle, luxurious sweetness.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/lindt-excellence-sea-salt-dark-chocolate.json"
+    },
+    {
       "id": "mad-moose-cafe-eden-turkey-havarti-panini",
       "name": "Mad Moose Cafe (Eden, UT) Roasted Turkey Breast & Havarti Panini on Sourdough",
       "categoryFolder": "lunch",
@@ -28824,6 +29381,43 @@
         "Hold raw onions"
       ],
       "_sourcePath": "src/data/items/lunch/thomas-cuisine-bamboohr-turkey-swiss-panini.json"
+    },
+    {
+      "id": "twizzlers-strawberry-twists-candy",
+      "name": "Twizzlers Strawberry Twists Chewy Candy",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Hershey's",
+      "crohnsScore": 8.4,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "licorice-twists",
+        "strawberry-twizzlers",
+        "low-fat",
+        "seedless",
+        "movie-theater-snack"
+      ],
+      "searchKeywords": [
+        "twizzlers",
+        "strawberry licorice",
+        "movie candy safe",
+        "low fat candy"
+      ],
+      "whyItWorks": "Made from enriched wheat flour, corn syrup, and sugar with less than 1g of fat per serving. Free of nuts, seeds, and citrus acids; chews down softly without leaving fibrous residue.",
+      "prepOrOrderInstructions": "Chew individual strands thoroughly. A reliable, low-risk movie theater sweet.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/twizzlers-strawberry-twists-candy.json"
     },
     {
       "id": "zipz-bear-lake-grilled-chicken-sandwich",
@@ -29937,6 +30531,43 @@
         "None; gentle low-residue lunch"
       ],
       "_sourcePath": "src/data/items/lunch/labeaus-garden-city-grilled-ham-and-cheese-sourdough.json"
+    },
+    {
+      "id": "lactaid-cookies-and-cream-ice-cream",
+      "name": "Lactaid Cookies & Cream Ice Cream (100% Lactose-Free)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Lactaid / HP Hood",
+      "crohnsScore": 8.3,
+      "mealTypes": [
+        "dessert",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "lactose-free-ice-cream",
+        "real-cream",
+        "cookies-and-cream",
+        "lactase-treated",
+        "creamy-dessert"
+      ],
+      "searchKeywords": [
+        "lactaid ice cream",
+        "lactose free cookies and cream",
+        "real dairy no lactose",
+        "gut safe ice cream"
+      ],
+      "whyItWorks": "Real, velvety dairy cream and milk treated with lactase enzyme so that 100% of the lactose is broken down into simple glucose and galactose. Blended with soft chocolate cookie crumbs that melt easily without nuts.",
+      "prepOrOrderInstructions": "Serve 1/2 cup portion chilled. Delivers all the authentic creaminess of real ice cream without lactose distress.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/lactaid-cookies-and-cream-ice-cream.json"
     },
     {
       "id": "mcdonalds-plain-hamburger",
@@ -31260,6 +31891,43 @@
         "Avoid the Spicy Lime Pork Bao and Lemon DOLE Whip flavor (citrus triggers)"
       ],
       "_sourcePath": "src/data/items/asian-indian/disneyland-tropical-hideaway-dole-whip-bao-bun.json"
+    },
+    {
+      "id": "dove-silky-smooth-dark-chocolate-promises",
+      "name": "Dove Promises Silky Smooth Dark Chocolate",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mars Wrigley",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dark-chocolate",
+        "pure-cocoa-butter",
+        "antioxidants",
+        "portion-controlled",
+        "nut-free"
+      ],
+      "searchKeywords": [
+        "dove dark chocolate",
+        "dove promises",
+        "smooth dark chocolate",
+        "clean chocolate"
+      ],
+      "whyItWorks": "Made with finely ground chocolate liquor, cocoa butter, and sugar with no nuts, seeds, or fruit additives. Individually wrapped foil squares make it easy to limit fat intake to 1–2 pieces.",
+      "prepOrOrderInstructions": "Let melt slowly on the tongue to enjoy rich cocoa flavor without overloading digestive bile.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/dove-silky-smooth-dark-chocolate-promises.json"
     },
     {
       "id": "disneyland-downtown-disney-naples-ristorante-margherita-plain-pasta",
@@ -33229,6 +33897,42 @@
       "_sourcePath": "src/data/items/italian-med/knotts-prop-shop-pizzeria-chicken-pasta-pizza.json"
     },
     {
+      "id": "m-and-ms-milk-chocolate-plain",
+      "name": "M&M's Plain Milk Chocolate Candies",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mars Wrigley",
+      "crohnsScore": 8.1,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "plain-chocolate",
+        "m-and-ms",
+        "seedless",
+        "nut-free-plain",
+        "bite-sized"
+      ],
+      "searchKeywords": [
+        "plain m and ms",
+        "milk chocolate candy",
+        "movie theater chocolate"
+      ],
+      "whyItWorks": "Pure smooth milk chocolate encased in a thin, crisp sugar shell. Free from whole nuts, seeds, and dried fruits, melting easily in the mouth.",
+      "prepOrOrderInstructions": "Eat by the handful during remission or stable maintenance.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/m-and-ms-milk-chocolate-plain.json"
+    },
+    {
       "id": "mcdonalds-fruit-and-maple-oatmeal-no-apples",
       "name": "McDonald's Fruit & Maple Oatmeal (Plain, No Cranberries)",
       "categoryFolder": "breakfast",
@@ -33722,6 +34426,41 @@
         "Contains dairy mozzarella"
       ],
       "_sourcePath": "src/data/items/italian-med/bear-lake-pizza-co-wood-fired-cheese-pizza.json"
+    },
+    {
+      "id": "ben-and-jerrys-non-dairy-chocolate-fudge-brownie",
+      "name": "Ben & Jerry's Non-Dairy Chocolate Fudge Brownie",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Ben & Jerry's",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "dairy-free",
+        "oat-milk-base",
+        "fudge-brownies",
+        "vegan",
+        "nut-free-treat"
+      ],
+      "searchKeywords": [
+        "ben and jerrys non dairy",
+        "vegan fudge brownie",
+        "dairy free ice cream"
+      ],
+      "whyItWorks": "Made with an oat milk base and soft, chewy Greyston Bakery fudge brownies. Completely dairy-free, nut-free, and seedless; the soft brownie chunks disintegrate easily without sharp edges.",
+      "prepOrOrderInstructions": "Eat in modest 1/2 cup portions to keep rich cocoa oils easy to digest.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/ben-and-jerrys-non-dairy-chocolate-fudge-brownie.json"
     },
     {
       "id": "big-daddys-roasted-prime-rib",
@@ -37030,6 +37769,42 @@
         "None; delicate seed-free cookie"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/portos-bakery-buena-park-guava-besito-cookie.json"
+    },
+    {
+      "id": "reeses-peanut-butter-cups-milk-chocolate",
+      "name": "Reese's Peanut Butter Cups (Milk Chocolate)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Hershey's",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "peanut-butter-cups",
+        "smooth-peanut-paste",
+        "zero-whole-nuts",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "reeses",
+        "peanut butter cups",
+        "smooth peanut candy",
+        "chocolate peanut butter"
+      ],
+      "whyItWorks": "Unlike nut bars with whole peanuts, Reese's uses roasted peanuts milled into an ultra-fine, velvety paste that melts instantly at body temperature. Presents zero stricture obstruction risk; enjoyable in moderation during remission.",
+      "prepOrOrderInstructions": "Enjoy 1 or 2 cups in remission. If lactose-sensitive, take a lactase enzyme tablet.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/reeses-peanut-butter-cups-milk-chocolate.json"
     },
     {
       "id": "til-we-meet-again-beef-wellington",
@@ -43311,6 +44086,41 @@
         "Eat the tender interior shrimp and sweet potato; leave heavy fried batter remnants if feeling sensitive"
       ],
       "_sourcePath": "src/data/items/asian-indian/takara-sushi-logan-shrimp-and-veggie-tempura.json"
+    },
+    {
+      "id": "talenti-madagascan-vanilla-bean-gelato",
+      "name": "Talenti Madagascan Vanilla Bean Gelato",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Talenti / Unilever",
+      "crohnsScore": 7.7,
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "gelato",
+        "real-dairy",
+        "madagascar-vanilla",
+        "seedless",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "talenti gelato",
+        "vanilla bean gelato",
+        "slow cooked gelato"
+      ],
+      "whyItWorks": "Slow-cooked fresh milk, cream, sugar, and egg yolks blended with real vanilla beans. Contains zero crunch mix-ins, nuts, or seeds, melting smoothly on the palate.",
+      "prepOrOrderInstructions": "Take a lactase enzyme tablet before consuming if lactose intolerant.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/talenti-madagascan-vanilla-bean-gelato.json"
     },
     {
       "id": "takara-sushi-logan-beef-teriyaki-bento",
@@ -64772,6 +65582,42 @@
       "_sourcePath": "src/data/items/dinner/members-mark-stuffed-bell-peppers-beef-rice-warning.json"
     },
     {
+      "id": "outshine-fruit-bars-strawberry-warning",
+      "name": "Outshine Strawberry Fruit Bars (Berry Seed WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Outshine / Dreyer's",
+      "crohnsScore": 5.2,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "strawberry-seeds",
+        "achene-seeds",
+        "mechanical-irritant",
+        "stricture-hazard"
+      ],
+      "searchKeywords": [
+        "outshine strawberry warning",
+        "strawberry popsicle seeds",
+        "strawberry seeds crohns"
+      ],
+      "whyItWorks": "Made with real pureed strawberries that contain hundreds of tiny, hard, yellow achene seeds. These tiny seeds pass undigested into the small intestine, irritating mucosal ulcers and potentially aggravating narrowed strictures.",
+      "prepOrOrderInstructions": "Avoid strawberry fruit bars with visible seeds. Choose seedless Grape or Creamy Coconut Outshine bars instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/outshine-fruit-bars-strawberry-warning.json"
+    },
+    {
       "id": "disneyland-harbour-galley-clam-chowder-warning",
       "name": "Pacific Clam Chowder in Sourdough Bread Bowl",
       "categoryFolder": "dinner",
@@ -66191,6 +67037,41 @@
         "Garlic seasoning and high saturated fat"
       ],
       "_sourcePath": "src/data/items/diner-bbq/mickeys-smokestack-smoked-kielbasa.json"
+    },
+    {
+      "id": "nerds-rainbow-candy-warning",
+      "name": "Nerds Rainbow Crunchy Candy (Gritty Acid WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Ferrara Candy Company",
+      "crohnsScore": 5,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "crystallized-sugar",
+        "malic-acid",
+        "artificial-dyes",
+        "abrasive-texture"
+      ],
+      "searchKeywords": [
+        "nerds candy warning",
+        "rainbow nerds",
+        "crunchy candy acid"
+      ],
+      "whyItWorks": "Hard, irregular, microscopic sugar pebbles heavily coated with malic acid, carnauba wax, and artificial dyes (Red 40, Yellow 5, Blue 1). The gritty, sharp crystals do not dissolve quickly and can irritate inflamed mucosal ulcers.",
+      "prepOrOrderInstructions": "Avoid during active inflammation. Smooth hard candies or lollipops are vastly safer.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/nerds-rainbow-candy-warning.json"
     },
     {
       "id": "palo-brunch-spicy-sausage-pizza",
@@ -72238,6 +73119,41 @@
       "_sourcePath": "src/data/items/produce-sides/raw-celery-sticks-warning.json"
     },
     {
+      "id": "sour-patch-kids-original-warning",
+      "name": "Sour Patch Kids Original (Concentrated Acid WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mondelēz",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "tartaric-acid",
+        "fumaric-acid",
+        "citric-acid",
+        "chemical-mucosal-burn"
+      ],
+      "searchKeywords": [
+        "sour patch kids warning",
+        "sour candy gut burn",
+        "acidic candy danger"
+      ],
+      "whyItWorks": "Coated with an intensely sour chemical crust of tartaric acid, citric acid, and fumaric acid. The concentrated acid layer causes acute mouth burning, stomach hyperacidity, and direct chemical irritation to ulcerated intestinal walls.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. The harsh topical acidity reliably triggers stomach cramps and reflux.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/sour-patch-kids-original-warning.json"
+    },
+    {
       "id": "disneyland-stage-door-funnel-cake-warning",
       "name": "Stage Door Fresh Funnel Cake with Powdered Sugar",
       "categoryFolder": "snacks-desserts",
@@ -72487,6 +73403,41 @@
       "_sourcePath": "src/data/items/lunch/dca-award-wieners-bacon-street-dog-warning.json"
     },
     {
+      "id": "haagen-dazs-vanilla-swiss-almond-ice-cream-warning",
+      "name": "Häagen-Dazs Vanilla Swiss Almond Ice Cream (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Häagen-Dazs",
+      "crohnsScore": 3.4,
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "whole-almonds",
+        "high-butterfat-18g",
+        "gallbladder-dumping",
+        "stricture-blockage"
+      ],
+      "searchKeywords": [
+        "haagen dazs swiss almond warning",
+        "high fat ice cream",
+        "whole almond danger"
+      ],
+      "whyItWorks": "A double flare hazard: 18g of heavy butterfat per 1/2 cup triggers rapid gastrocolic emptying and biliary diarrhea, while whole roasted almonds break into rigid, sharp jagged nuts that risk bowel impaction.",
+      "prepOrOrderInstructions": "AVOID during active disease. If craving Häagen-Dazs in remission, choose plain Vanilla without nuts or seeds.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/haagen-dazs-vanilla-swiss-almond-ice-cream-warning.json"
+    },
+    {
       "id": "in-n-out-animal-style-fries-warning",
       "name": "In-N-Out Animal Style Fries (WARNING)",
       "categoryFolder": "diner-bbq",
@@ -72635,6 +73586,42 @@
       "prepOrOrderInstructions": "AVOID during active disease. Switch to Fody low-FODMAP garlic-free salsa.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/produce-sides/tostitos-medium-chunky-salsa-warning.json"
+    },
+    {
+      "id": "choczero-sugar-free-chocolate-warning",
+      "name": "ChocZero Sugar-Free Dark Chocolate (Soluble Fiber WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "ChocZero",
+      "crohnsScore": 3.3,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 10,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "soluble-corn-fiber",
+        "monk-fruit",
+        "gas-trap",
+        "severe-bloating"
+      ],
+      "searchKeywords": [
+        "choczero warning",
+        "sugar free chocolate gas",
+        "soluble corn fiber chocolate",
+        "keto chocolate danger"
+      ],
+      "whyItWorks": "Formulated with soluble corn fiber (dextrin) to achieve a zero-sugar claim, delivering 10g of isolated fiber per small bar. Soluble corn fiber undergoes rapid bacterial fermentation in the colon, producing heavy flatulence and lower abdominal distention.",
+      "prepOrOrderInstructions": "AVOID during active IBD. Standard dark chocolate with real sugar is far gentler on digestion than fiber-doped chocolate.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/choczero-sugar-free-chocolate-warning.json"
     },
     {
       "id": "doritos-nacho-cheese-warning",
@@ -72911,6 +73898,41 @@
       "_sourcePath": "src/data/items/produce-sides/shredded-raw-coconut-meat-warning.json"
     },
     {
+      "id": "snickers-original-candy-bar-warning",
+      "name": "Snickers Full Size Candy Bar (Whole Peanuts WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mars Wrigley",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "whole-roasted-peanuts",
+        "stricture-obstruction-risk",
+        "chewy-nougat",
+        "high-fat"
+      ],
+      "searchKeywords": [
+        "snickers bar warning",
+        "whole peanut danger",
+        "snickers crohns obstruction"
+      ],
+      "whyItWorks": "Contains dense clusters of whole roasted peanuts suspended in caramel and nougat. Whole peanuts do not dissolve and break into sharp, jagged fragments that can become trapped in narrowed bowel strictures.",
+      "prepOrOrderInstructions": "STRICTLY AVOID if you have bowel strictures, active inflammation, or an ostomy. Choose smooth Reese's Peanut Butter Cups or plain milk chocolate instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/snickers-original-candy-bar-warning.json"
+    },
+    {
       "id": "zao-asian-cafe-draper-chili-dragon-sauce-warning",
       "name": "Zao Asian Cafe Red Chili Dragon Sauce (Capsaicin Danger Zone)",
       "categoryFolder": "drinks-sauces",
@@ -73109,6 +74131,41 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Opt for lean turkey breast or rotisserie chicken instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/lunch/subway-spicy-italian-sub-warning.json"
+    },
+    {
+      "id": "talenti-roman-raspberry-sorbetto-warning",
+      "name": "Talenti Roman Raspberry Sorbetto (Gritty Berry Seeds WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Talenti / Unilever",
+      "crohnsScore": 3.1,
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "crushed-raspberry-seeds",
+        "gritty-roughage",
+        "mechanical-irritant",
+        "stricture-hazard"
+      ],
+      "searchKeywords": [
+        "talenti raspberry sorbetto warning",
+        "raspberry seeds danger",
+        "berry sorbet warning"
+      ],
+      "whyItWorks": "Made with whole crushed raspberries that retain thousands of sharp, indigestible woody seed hulls. The insoluble berry seeds scrape along ulcerated mucosal walls and can become caught in small bowel strictures.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Always choose seedless, strained fruit sorbets (like mango or lemon) or smooth dairy-free ice cream.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/talenti-roman-raspberry-sorbetto-warning.json"
     },
     {
       "id": "dcl-room-service-buffalo-wings",
@@ -73325,6 +74382,41 @@
         "Condensed milk lactose"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/animators-lemon-icebox-pie.json"
+    },
+    {
+      "id": "m-and-ms-peanut-candy-warning",
+      "name": "M&M's Peanut Chocolate Candies (Whole Nut WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Mars Wrigley",
+      "crohnsScore": 3,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "whole-peanuts",
+        "hard-nut-fragments",
+        "stricture-risk",
+        "ileal-blockage"
+      ],
+      "searchKeywords": [
+        "peanut m and ms warning",
+        "peanut candy danger",
+        "whole peanut obstruction"
+      ],
+      "whyItWorks": "Each candy encases a whole roasted peanut. In patients with intestinal strictures or postoperative anastomotic narrowing, swallowed whole or partially chewed peanuts represent a leading cause of food-induced small bowel obstruction.",
+      "prepOrOrderInstructions": "AVOID completely with stricturing Crohn's disease. Always select Plain M&M's.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/m-and-ms-peanut-candy-warning.json"
     },
     {
       "id": "plaza-de-coco-margarita-lime-cheesecake",
@@ -73698,6 +74790,41 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. One of the highest-risk items on any fast-food menu for inflammatory bowel disease.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/lunch/wendys-chili-crohns-warning.json"
+    },
+    {
+      "id": "ben-and-jerrys-chunky-monkey-warning",
+      "name": "Ben & Jerry's Chunky Monkey Ice Cream (Walnut WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Ben & Jerry's",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "walnut-chunks",
+        "high-fat-fudge",
+        "stricture-hazard",
+        "heavy-cream"
+      ],
+      "searchKeywords": [
+        "chunky monkey warning",
+        "ben and jerrys walnut danger",
+        "walnuts crohns stricture"
+      ],
+      "whyItWorks": "Packed with dense, whole roasted walnut halves and thick fudge chunks. Walnuts contain fibrous tannins and tough woody cell walls that pass undigested, posing severe obstruction hazards for narrowed bowels.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Choose smooth ice creams without nut mix-ins.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/ben-and-jerrys-chunky-monkey-warning.json"
     },
     {
       "id": "panda-express-orange-chicken-warning",
@@ -74890,6 +76017,43 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. If craving carbonation in remission, choose flat water with a splash of apple juice.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/mountain-dew-citrus-soda-warning.json"
+    },
+    {
+      "id": "smart-sweets-gummy-bears-warning",
+      "name": "SmartSweets Gummy Bears (13g Prebiotic Fiber WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "SmartSweets",
+      "crohnsScore": 2.1,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 13,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "soluble-corn-fiber",
+        "allulose",
+        "isomalto-oligosaccharides",
+        "gas-explosion",
+        "cramping-trigger"
+      ],
+      "searchKeywords": [
+        "smartsweets warning",
+        "smart sweets gummy bears",
+        "fiber candy danger",
+        "keto candy diarrhea"
+      ],
+      "whyItWorks": "Deceptively marketed as a \"healthy low sugar\" candy, but packed with 13g of prebiotic soluble corn fiber and allulose per tiny 1.8 oz bag. The concentrated prebiotic fiber ferments violently in the colon, triggering explosive gas, loud bowel rumbling, and painful diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Traditional sugar and gelatin gummy bears like Haribo or Albanese are vastly safer for Crohn's and Colitis than fiber-spiked \"diet\" gummies.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/smart-sweets-gummy-bears-warning.json"
     },
     {
       "id": "taco-bell-bean-burrito-with-onions-warning",

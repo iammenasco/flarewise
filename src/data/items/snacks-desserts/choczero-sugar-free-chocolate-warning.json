@@ -1,0 +1,35 @@
+{
+  "id": "choczero-sugar-free-chocolate-warning",
+  "name": "ChocZero Sugar-Free Dark Chocolate (Soluble Fiber WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "ChocZero",
+  "crohnsScore": 3.3,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 10,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "soluble-corn-fiber",
+    "monk-fruit",
+    "gas-trap",
+    "severe-bloating"
+  ],
+  "searchKeywords": [
+    "choczero warning",
+    "sugar free chocolate gas",
+    "soluble corn fiber chocolate",
+    "keto chocolate danger"
+  ],
+  "whyItWorks": "Formulated with soluble corn fiber (dextrin) to achieve a zero-sugar claim, delivering 10g of isolated fiber per small bar. Soluble corn fiber undergoes rapid bacterial fermentation in the colon, producing heavy flatulence and lower abdominal distention.",
+  "prepOrOrderInstructions": "AVOID during active IBD. Standard dark chocolate with real sugar is far gentler on digestion than fiber-doped chocolate.",
+  "safetyTier": "danger-zone"
+}

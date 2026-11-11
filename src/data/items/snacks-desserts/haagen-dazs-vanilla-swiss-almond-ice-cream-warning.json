@@ -1,0 +1,34 @@
+{
+  "id": "haagen-dazs-vanilla-swiss-almond-ice-cream-warning",
+  "name": "Häagen-Dazs Vanilla Swiss Almond Ice Cream (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Häagen-Dazs",
+  "crohnsScore": 3.4,
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "whole-almonds",
+    "high-butterfat-18g",
+    "gallbladder-dumping",
+    "stricture-blockage"
+  ],
+  "searchKeywords": [
+    "haagen dazs swiss almond warning",
+    "high fat ice cream",
+    "whole almond danger"
+  ],
+  "whyItWorks": "A double flare hazard: 18g of heavy butterfat per 1/2 cup triggers rapid gastrocolic emptying and biliary diarrhea, while whole roasted almonds break into rigid, sharp jagged nuts that risk bowel impaction.",
+  "prepOrOrderInstructions": "AVOID during active disease. If craving Häagen-Dazs in remission, choose plain Vanilla without nuts or seeds.",
+  "safetyTier": "danger-zone"
+}

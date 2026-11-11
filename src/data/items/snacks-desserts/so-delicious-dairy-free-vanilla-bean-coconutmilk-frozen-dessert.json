@@ -1,0 +1,36 @@
+{
+  "id": "so-delicious-dairy-free-vanilla-bean-coconutmilk-frozen-dessert",
+  "name": "So Delicious Dairy-Free Vanilla Bean Coconutmilk Frozen Dessert",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "So Delicious Dairy Free",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "dairy-free-ice-cream",
+    "coconut-milk",
+    "vegan",
+    "gluten-free",
+    "creamy-vanilla"
+  ],
+  "searchKeywords": [
+    "so delicious vanilla",
+    "coconut milk ice cream",
+    "dairy free dessert",
+    "vegan ice cream"
+  ],
+  "whyItWorks": "Made from certified organic coconut milk, pure cane sugar, and Madagascar vanilla bean specks. 100% dairy-free, lactose-free, soy-free, and gluten-free; velvety mouthfeel that soothes inflamed throats and guts.",
+  "prepOrOrderInstructions": "Let sit on the counter for 3 minutes before scooping for optimum silky creaminess.",
+  "safetyTier": "low-risk"
+}
