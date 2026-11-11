@@ -1,0 +1,36 @@
+{
+  "id": "penny-anns-cafe-scrambled-eggs-ham-white-toast",
+  "name": "Penny Ann's Two Eggs Any Style with Grilled Ham & White Toast",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Penny Ann's Cafe (Draper, UT)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "penny-anns",
+    "scrambled-eggs",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "penny anns cafe",
+    "breakfast combo",
+    "scrambled eggs",
+    "draper utah"
+  ],
+  "whyItWorks": "Fresh eggs scrambled soft, a slice of grilled lean ham, and toasted white bread with seedless jelly. A quintessential flare-safe breakfast combo providing high-quality protein without grease.",
+  "prepOrOrderInstructions": "Request eggs scrambled soft with light cooking spray, grilled ham steak, and plain white toast with jelly. Skip grilled hashbrowns."
+}

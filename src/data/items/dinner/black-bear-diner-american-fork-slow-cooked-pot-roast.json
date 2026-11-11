@@ -1,0 +1,37 @@
+{
+  "id": "black-bear-diner-american-fork-slow-cooked-pot-roast",
+  "name": "Black Bear Diner Slow-Cooked Pot Roast with Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Black Bear Diner (American Fork / Sandy, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "american-fork",
+    "black-bear-diner",
+    "pot-roast",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "black bear diner",
+    "pot roast",
+    "american fork utah",
+    "comfort food diner"
+  ],
+  "whyItWorks": "Tender beef chuck roast slow-braised until fork-tender and served in savory brown beef gravy over smooth mashed potatoes. Low in fiber and highly comforting.",
+  "prepOrOrderInstructions": "Ask for extra tender meat and smooth mashed potatoes with light brown gravy. Skip whole baby carrots or green beans if adhering to strict low-residue."
+}

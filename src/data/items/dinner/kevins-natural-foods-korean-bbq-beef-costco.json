@@ -1,0 +1,39 @@
+{
+  "id": "kevins-natural-foods-korean-bbq-beef-costco",
+  "name": "Kevin's Natural Foods Korean Style BBQ Steak (Costco 2-Pack)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Kevin's Natural Foods (Costco / Sam's Club)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Korean",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "costco",
+    "sams-club",
+    "kevins-natural-foods",
+    "korean-bbq",
+    "gluten-free",
+    "beef"
+  ],
+  "searchKeywords": [
+    "kevins korean bbq beef",
+    "costco refrigerated beef",
+    "gluten free bulgogi",
+    "paleo beef"
+  ],
+  "whyItWorks": "Tender strips of beef flank steak prepared sous-vide with coconut aminos, apple cider vinegar, and sesame oil instead of wheat soy sauce or heavy corn syrup. Very tender and easy to chew.",
+  "prepOrOrderInstructions": "Pan-sear beef for 2 minutes and pour sauce over. Serve with plain steamed white rice. Skip adding extra raw green onions or sesame seeds if avoiding roughage."
+}

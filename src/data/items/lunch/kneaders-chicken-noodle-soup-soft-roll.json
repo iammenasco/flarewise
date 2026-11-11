@@ -1,0 +1,38 @@
+{
+  "id": "kneaders-chicken-noodle-soup-soft-roll",
+  "name": "Kneaders Hearty Chicken Noodle Soup with Fresh Bakery Roll",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Kneaders Bakery & Cafe (Lehi, Orem, Draper)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "kneaders",
+    "chicken-noodle-soup",
+    "soup",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "kneaders",
+    "chicken noodle soup",
+    "bakery roll",
+    "comfort food",
+    "utah soup"
+  ],
+  "whyItWorks": "Tender pulled chicken breast, thick egg noodles, and soft cooked carrots in a soothing chicken broth alongside a freshly baked soft white roll. Ideal warm comfort food for sensitive digestive days.",
+  "prepOrOrderInstructions": "Order a cup or bowl of chicken noodle soup with a plain soft white dinner roll. Highly comforting and low-residue."
+}

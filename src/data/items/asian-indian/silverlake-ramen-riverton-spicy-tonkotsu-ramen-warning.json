@@ -1,0 +1,39 @@
+{
+  "id": "silverlake-ramen-riverton-spicy-tonkotsu-ramen-warning",
+  "name": "Silverlake Ramen Blaze Spicy Tonkotsu Ramen (Danger Zone)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Silverlake Ramen (Mountain View Village · Riverton, UT)",
+  "crohnsScore": 2.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "riverton",
+    "mountain-view-village",
+    "silverlake-ramen",
+    "spicy-ramen",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "silverlake ramen",
+    "spicy tonkotsu",
+    "blaze ramen",
+    "chili oil",
+    "riverton utah"
+  ],
+  "whyItWorks": "Pork marrow bones boiled for 16 hours emulsifying heavy animal fat, drenched in fiery red chili oil, crushed garlic, and cayenne paste. Capsaicin burns active ulcerations while the heavy pork fat stimulates intense diarrhea.",
+  "prepOrOrderInstructions": "Extreme Danger Warning: Avoid entirely. Order mild Shoyu ramen or plain steamed rice instead."
+}

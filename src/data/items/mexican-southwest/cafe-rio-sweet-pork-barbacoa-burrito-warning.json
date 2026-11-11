@@ -1,0 +1,38 @@
+{
+  "id": "cafe-rio-sweet-pork-barbacoa-burrito-warning",
+  "name": "Café Rio Sweet Pork Barbacoa Burrito (Enchilada Style Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+  "crohnsScore": 3.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 6.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "cafe-rio",
+    "sweet-pork",
+    "burrito",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "cafe rio",
+    "sweet pork burrito",
+    "enchilada style",
+    "utah mexican",
+    "pork barbacoa"
+  ],
+  "whyItWorks": "A giant flour tortilla wrapped around sweet braised pork, black or pinto beans, rice, and smothered in cheese and enchilada sauce. The enormous mass of whole beans, sugar glaze, melted cheese, and tomato acid creates severe distress.",
+  "prepOrOrderInstructions": "High Fiber & Sugar Warning: Avoid giant smothered burritos. Order 2 soft corn tacos with grilled chicken and white rice instead."
+}

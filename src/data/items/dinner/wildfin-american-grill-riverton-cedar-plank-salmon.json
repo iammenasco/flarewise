@@ -1,0 +1,37 @@
+{
+  "id": "wildfin-american-grill-riverton-cedar-plank-salmon",
+  "name": "WildFin Cedar Plank King Salmon with Yukon Mashed Potatoes",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "WildFin American Grill (Mountain View Village · Riverton, UT)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "riverton",
+    "mountain-view-village",
+    "wildfin",
+    "salmon",
+    "fine-dining"
+  ],
+  "searchKeywords": [
+    "wildfin grill",
+    "cedar plank salmon",
+    "riverton utah dining",
+    "mountain view village"
+  ],
+  "whyItWorks": "Wild salmon gently roasted on a natural cedar wood plank with sea salt and light glaze. High in marine omega-3s and paired with skinless, smooth Yukon Gold mashed potatoes.",
+  "prepOrOrderInstructions": "Ask for salmon prepared simply with light olive oil and salt, skipping any spicy rubs or rich butter sauces. Pair with peeled mashed potatoes."
+}

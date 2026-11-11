@@ -1,0 +1,40 @@
+{
+  "id": "amylu-italian-style-chicken-meatballs-costco",
+  "name": "Amylu Roasted Garlic & Mozzarella Chicken Meatballs (Costco)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Amylu (Costco)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "stovetop",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "amylu",
+    "chicken-meatballs",
+    "italian",
+    "protein"
+  ],
+  "searchKeywords": [
+    "amylu chicken meatballs",
+    "costco meatballs",
+    "gluten free meatballs",
+    "refrigerated meatballs"
+  ],
+  "whyItWorks": "Lean chicken breast and thigh meat rolled with mozzarella and herbs, fully cooked and gluten-free. Free of dense breadcrumb fillers and deep-frying grease found in standard beef meatballs.",
+  "prepOrOrderInstructions": "Simmer in smooth strained marinara sauce or warm in broth. Pair with tender penne or sourdough toast."
+}

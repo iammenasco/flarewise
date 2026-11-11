@@ -1,0 +1,37 @@
+{
+  "id": "cafe-rio-black-beans-fiber-warning",
+  "name": "Café Rio Seasoned Black Beans Side (High Fiber Warning)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 7.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "cafe-rio",
+    "black-beans",
+    "high-fiber",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "cafe rio",
+    "black beans",
+    "fiber hazard",
+    "utah mexican"
+  ],
+  "whyItWorks": "Whole black beans are rich in insoluble seed coats and galacto-oligosaccharides. These fibers resist small bowel digestion and produce intense fermentation gas, distension, and cramps.",
+  "prepOrOrderInstructions": "High Fiber & Gas Hazard: Skip beans entirely on bowls, tacos, and burritos. Request extra white rice instead."
+}

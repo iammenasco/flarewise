@@ -1,0 +1,37 @@
+{
+  "id": "cafe-rio-cilantro-lime-rice-plain",
+  "name": "Café Rio Seasoned Cilantro Lime Rice Side Bowl",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+  "crohnsScore": 8.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "cafe-rio",
+    "cilantro-lime-rice",
+    "white-rice",
+    "side"
+  ],
+  "searchKeywords": [
+    "cafe rio",
+    "cilantro lime rice",
+    "white rice",
+    "utah mexican"
+  ],
+  "whyItWorks": "Steamed long-grain white rice infused with mild vegetable broth, light oil, and finely chopped cilantro. It is low in residue and very soothing to hyperactive bowels.",
+  "prepOrOrderInstructions": "Ask for a side bowl of cilantro lime rice without cheese topping."
+}

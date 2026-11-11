@@ -1,0 +1,38 @@
+{
+  "id": "wildfin-american-grill-riverton-clam-chowder-warning",
+  "name": "WildFin Northwest Seafood Chowder Cup (Heavy Cream Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "WildFin American Grill (Mountain View Village · Riverton, UT)",
+  "crohnsScore": 5.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "riverton",
+    "mountain-view-village",
+    "wildfin",
+    "clam-chowder",
+    "dairy-warning"
+  ],
+  "searchKeywords": [
+    "wildfin grill",
+    "seafood chowder",
+    "clam chowder",
+    "riverton utah"
+  ],
+  "whyItWorks": "Classic Pacific Northwest chowder loaded with heavy whipping cream, bacon drippings, butter, clams, and potatoes. Concentrated dairy fat and rubbery clam bits can aggravate active IBD.",
+  "prepOrOrderInstructions": "Dairy & Fat Warning: Savor only small tastes during remission, or swap for a cup of clear broth."
+}

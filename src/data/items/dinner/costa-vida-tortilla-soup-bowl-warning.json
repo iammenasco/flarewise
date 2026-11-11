@@ -1,0 +1,37 @@
+{
+  "id": "costa-vida-tortilla-soup-bowl-warning",
+  "name": "Costa Vida Chicken Tortilla Soup with Crispy Strips",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Costa Vida Fresh Mexican Grill (Utah County / Salt Lake)",
+  "crohnsScore": 5.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "costa-vida",
+    "tortilla-soup",
+    "soup",
+    "acid-warning"
+  ],
+  "searchKeywords": [
+    "costa vida",
+    "chicken tortilla soup",
+    "mexican soup",
+    "tortilla strips"
+  ],
+  "whyItWorks": "Tomato and roasted pepper chicken broth loaded with pulled chicken, whole black beans, corn kernels, and topped with fried corn tortilla strips and melted cheese. Beans and fried strips irritate sensitive bowels.",
+  "prepOrOrderInstructions": "Acid & Roughage Warning: Request soup without whole beans, corn, or crispy fried tortilla strips."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "zao-asian-cafe-draper-yakisoba-noodles-chicken",
+  "name": "Zao Asian Cafe Yakisoba Noodles with Seared Chicken (Mild)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Zao Asian Cafe (Draper / Lehi / South Jordan)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "lehi",
+    "zao-asian-cafe",
+    "yakisoba-noodles",
+    "asian"
+  ],
+  "searchKeywords": [
+    "zao asian cafe",
+    "yakisoba noodles",
+    "chicken noodles",
+    "draper utah"
+  ],
+  "whyItWorks": "Tender wheat yakisoba noodles wok-tossed with lean chicken breast in mild sweet soy sauce. Satisfies noodle cravings without spicy oils or raw roughage.",
+  "prepOrOrderInstructions": "Choose yakisoba noodle base with chicken breast and sweet teriyaki sauce. Do NOT add wok veggies (cabbage/onions) or chili crunch."
+}

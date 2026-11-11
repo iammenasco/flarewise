@@ -1,0 +1,38 @@
+{
+  "id": "just-bare-lightly-breaded-chicken-breast-chunks-costco",
+  "name": "Just Bare Lightly Breaded Chicken Breast Chunks (Costco Cult Favorite)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Just Bare (Costco)",
+  "crohnsScore": 7.6,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "just-bare",
+    "chicken-nuggets",
+    "frozen-chicken",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "just bare chicken",
+    "costco chicken chunks",
+    "lightly breaded chicken",
+    "chick fil a copycat"
+  ],
+  "whyItWorks": "Made from solid whole-muscle chicken breast chunks with a very light flour dusting rather than a heavy, thick batter. Bakes up crispy in a toaster oven without absorbing deep fryer grease.",
+  "prepOrOrderInstructions": "Bake in oven or air fryer until golden. Avoid dipping into spicy sauces or heavy mayonnaise if experiencing active symptoms."
+}

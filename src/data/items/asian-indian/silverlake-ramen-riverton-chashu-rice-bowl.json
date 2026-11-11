@@ -1,0 +1,38 @@
+{
+  "id": "silverlake-ramen-riverton-chashu-rice-bowl",
+  "name": "Silverlake Ramen Chashu Don Rice Bowl (Riverton)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Silverlake Ramen (Mountain View Village · Riverton, UT)",
+  "crohnsScore": 7.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "riverton",
+    "mountain-view-village",
+    "silverlake-ramen",
+    "rice-bowl"
+  ],
+  "searchKeywords": [
+    "silverlake ramen",
+    "chashu bowl",
+    "chashu don",
+    "riverton utah",
+    "white rice bowl"
+  ],
+  "whyItWorks": "Diced braised tender pork drizzled with sweet soy glaze over a large bowl of steaming white Calrose rice. Gentle on digestion without heavy soup oils.",
+  "prepOrOrderInstructions": "Request NO green onion garnish and NO spicy mayo drizzle. Eat with plain white rice."
+}

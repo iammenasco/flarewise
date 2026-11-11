@@ -1,0 +1,38 @@
+{
+  "id": "realgood-foods-chicken-enchiladas-costco-warning",
+  "name": "Real Good Foods Chicken Enchiladas Grande (Keto/Fiber Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Real Good Foods (Costco / Sam's Club)",
+  "crohnsScore": 4.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "costco",
+    "sams-club",
+    "realgood-foods",
+    "keto-warning",
+    "enchiladas",
+    "dairy-warning"
+  ],
+  "searchKeywords": [
+    "real good foods enchiladas",
+    "costco keto meals",
+    "low carb chicken enchiladas",
+    "chicken tortilla"
+  ],
+  "whyItWorks": "Uses a processed chicken-and-parmesan shell stuffed with cheese and green sauce. High levels of cheese, added functional fibers, and thick dairy fat can trigger gut distress despite low-carb claims.",
+  "prepOrOrderInstructions": "High Fat & Dairy Warning: Better to choose standard corn tortilla enchiladas with lean shredded chicken."
+}

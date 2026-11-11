@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-organic-frozen-mango-chunks-warning",
+  "name": "Kirkland Signature Organic Frozen Mango Chunks (FODMAP Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 5.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "breakfast"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "frozen-mango",
+    "fodmap-warning",
+    "fructose"
+  ],
+  "searchKeywords": [
+    "costco frozen mango",
+    "kirkland mango chunks",
+    "smoothie fruit",
+    "high fructose fruit"
+  ],
+  "whyItWorks": "Mango contains excess free fructose over glucose. In patients with IBD or compromised brush-border absorption, unabsorbed fructose rapidly ferments in the colon, producing gas, bloating, and osmotic diarrhea.",
+  "prepOrOrderInstructions": "High Fructose Warning: Limit to a few small chunks in smoothies during stable remission. Avoid during active diarrhea."
+}

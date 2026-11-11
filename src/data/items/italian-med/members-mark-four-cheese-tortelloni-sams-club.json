@@ -1,0 +1,38 @@
+{
+  "id": "members-mark-four-cheese-tortelloni-sams-club",
+  "name": "Member's Mark Four Cheese Italian Tortelloni (Refrigerated 2-Pack)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "tortelloni",
+    "pasta",
+    "italian"
+  ],
+  "searchKeywords": [
+    "sams club tortelloni",
+    "members mark fresh pasta",
+    "cheese tortellini",
+    "quick dinner"
+  ],
+  "whyItWorks": "Tender fresh egg pasta filled with smooth ricotta, mascarpone, parmesan, and romano cheeses. Boils in just 4 minutes to create an ultra-soft, low-roughage comfort meal.",
+  "prepOrOrderInstructions": "Boil gently until tender. Toss with a light drizzle of extra virgin olive oil and salt rather than heavy cream sauces."
+}

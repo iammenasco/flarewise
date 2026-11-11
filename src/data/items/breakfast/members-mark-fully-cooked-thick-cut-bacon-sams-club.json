@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-fully-cooked-thick-cut-bacon-sams-club",
+  "name": "Member's Mark Fully Cooked Thick Cut Bacon (Refrigerated 100-Pack)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 6.8,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "cooked-bacon",
+    "breakfast",
+    "bacon"
+  ],
+  "searchKeywords": [
+    "sams club cooked bacon",
+    "members mark bacon",
+    "precooked bacon bulk",
+    "quick breakfast"
+  ],
+  "whyItWorks": "Pre-cooked thick cut hardwood smoked bacon has much of its liquid rendering fat cooked out during factory processing. Crisping gently between paper towels leaves a savory, low-carb garnish with zero fiber.",
+  "prepOrOrderInstructions": "Dab thoroughly with paper towels to absorb excess surface grease. Limit to 1-2 strips to prevent fat-induced diarrhea."
+}

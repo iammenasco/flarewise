@@ -1,0 +1,38 @@
+{
+  "id": "silverlake-ramen-riverton-shoyu-ramen-chashu",
+  "name": "Silverlake Ramen Classic Shoyu Ramen with Chashu Pork (Riverton)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Silverlake Ramen (Mountain View Village · Riverton, UT)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "riverton",
+    "mountain-view-village",
+    "silverlake-ramen",
+    "shoyu-ramen"
+  ],
+  "searchKeywords": [
+    "silverlake ramen",
+    "riverton utah",
+    "mountain view village",
+    "shoyu ramen",
+    "ramen noodles"
+  ],
+  "whyItWorks": "Clear, soy-sauce-based chicken and fish broth is far lighter and lower in emulsified lard than creamy tonkotsu broths. Served with tender wheat noodles and a slice of braised pork belly.",
+  "prepOrOrderInstructions": "Order the Shoyu ramen with NO green onions and NO bean sprouts. Ask for noodles cooked soft and remove excess fat from the pork slice."
+}

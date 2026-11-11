@@ -1,0 +1,38 @@
+{
+  "id": "members-mark-angus-beef-new-york-strip-steak-sams-club",
+  "name": "Member's Mark USDA Choice Angus Beef New York Strip Steak",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "strip-steak",
+    "angus-beef",
+    "butcher"
+  ],
+  "searchKeywords": [
+    "sams club strip steak",
+    "members mark angus beef",
+    "ny strip steak",
+    "butcher beef"
+  ],
+  "whyItWorks": "High-grade Angus beef strip steak has fine marbling rather than coarse chewy gristle. Cooked medium-rare to medium, it breaks down cleanly in the stomach and provides dense zinc and iron.",
+  "prepOrOrderInstructions": "Trim the outer strip of white fat before eating. Season with salt only and pair with a baked potato (skin removed)."
+}

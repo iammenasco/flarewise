@@ -1,0 +1,38 @@
+{
+  "id": "leatherbys-creamery-draper-alligator-giant-sundae-warning",
+  "name": "Leatherby's \"Alligator\" Giant Family Ice Cream Sundae (Extreme Danger)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Leatherby's Family Creamery (Draper, UT)",
+  "crohnsScore": 1.8,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "leatherbys",
+    "ice-cream-sundae",
+    "danger-food",
+    "extreme-lactose"
+  ],
+  "searchKeywords": [
+    "leatherbys creamery",
+    "alligator sundae",
+    "giant ice cream",
+    "draper utah",
+    "lactose overload"
+  ],
+  "whyItWorks": "Served in a giant boat dish with 8 scoops of ice cream, chocolate fudge, caramel, toasted nuts, whipped cream, and cherries. Represents an overwhelming barrage of lactose, sugar, and whole nut obstruction risks.",
+  "prepOrOrderInstructions": "Extreme Danger Hazard: Never attempt with active IBD. Severe osmotic diarrhea, cramping, and stricture risk from nuts will follow."
+}

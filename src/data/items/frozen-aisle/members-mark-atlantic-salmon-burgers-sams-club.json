@@ -1,0 +1,39 @@
+{
+  "id": "members-mark-atlantic-salmon-burgers-sams-club",
+  "name": "Member's Mark Atlantic Salmon Burgers (Frozen 8-Pack)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 8.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "salmon-burgers",
+    "seafood-patty",
+    "omega-3"
+  ],
+  "searchKeywords": [
+    "sams club salmon burgers",
+    "members mark salmon patties",
+    "frozen seafood burger",
+    "healthy burger"
+  ],
+  "whyItWorks": "Atlantic salmon patties ground with light seasoning. They cook up moist and flaky, providing bioavailable anti-inflammatory marine fats without tough meat fibers.",
+  "prepOrOrderInstructions": "Pan-sear in a nonstick skillet with a little olive oil. Serve on a plain brioche or white hamburger bun."
+}

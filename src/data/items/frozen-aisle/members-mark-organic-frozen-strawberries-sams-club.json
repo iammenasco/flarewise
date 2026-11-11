@@ -1,0 +1,37 @@
+{
+  "id": "members-mark-organic-frozen-strawberries-sams-club",
+  "name": "Member's Mark Organic Whole Frozen Strawberries (Smoothie Hack)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Sam's Club (Member's Mark)",
+  "crohnsScore": 8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "sams-club",
+    "members-mark",
+    "frozen-strawberries",
+    "organic-fruit",
+    "smoothie"
+  ],
+  "searchKeywords": [
+    "sams club frozen strawberries",
+    "members mark organic berries",
+    "smoothie fruit bulk"
+  ],
+  "whyItWorks": "Strawberries are lower in FODMAP fructose than apples and mangos. Blending ripe frozen strawberries into smoothies completely pulverizes the delicate outer achenes (seeds), allowing antioxidant absorption without gut friction.",
+  "prepOrOrderInstructions": "Puree smooth with water or plant milk and pure maple syrup for a gentle morning vitamin C boost."
+}

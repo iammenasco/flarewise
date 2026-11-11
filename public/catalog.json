@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T14:02:58.510Z",
-  "itemCount": 1423,
+  "builtAt": "2026-11-11T14:07:08.897Z",
+  "itemCount": 1473,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -9059,6 +9059,85 @@
       "_sourcePath": "src/data/items/high-protein/wbpc-land-and-sea-tenderloin-lobster-medallions.json"
     },
     {
+      "id": "wildfin-american-grill-riverton-seared-halibut-rice",
+      "name": "WildFin Pan-Seared Pacific Halibut with Jasmine Rice",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "WildFin American Grill (Mountain View Village · Riverton, UT)",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "riverton",
+        "mountain-view-village",
+        "wildfin",
+        "halibut",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "wildfin grill",
+        "pacific halibut",
+        "jasmine rice",
+        "riverton utah",
+        "seafood"
+      ],
+      "whyItWorks": "Halibut is an ultra-lean, mild white fish with delicate flaky flesh that is effortless for an inflamed intestine to absorb. Paired with steamed jasmine rice, it is one of the safest high-end dinners in Riverton.",
+      "prepOrOrderInstructions": "Request halibut pan-seared with olive oil and salt only. Pair with plain steamed jasmine rice and skip asparagus spears or charred broccolini.",
+      "_sourcePath": "src/data/items/dinner/wildfin-american-grill-riverton-seared-halibut-rice.json"
+    },
+    {
+      "id": "zao-asian-cafe-draper-seared-chicken-jasmine-rice-bowl",
+      "name": "Zao Asian Cafe Seared Chicken Breast & Jasmine Rice Bowl",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Zao Asian Cafe (Draper / Lehi / South Jordan)",
+      "crohnsScore": 9,
+      "safetyTier": "flare-safe",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "lehi",
+        "zao-asian-cafe",
+        "rice-bowl",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "zao asian cafe",
+        "chicken rice bowl",
+        "draper utah",
+        "jasmine rice",
+        "clean eating"
+      ],
+      "whyItWorks": "Seared lean chicken breast served over warm steamed white jasmine rice with light teriyaki glaze. Naturally dairy-free, low in fat, and devoid of tough vegetables or irritating seeds.",
+      "prepOrOrderInstructions": "Build a custom bowl: Base of jasmine white rice, protein of seared chicken breast, light teriyaki sauce. Skip raw carrots, wok vegetables, edamame, and spicy dragon sauce.",
+      "_sourcePath": "src/data/items/asian-indian/zao-asian-cafe-draper-seared-chicken-jasmine-rice-bowl.json"
+    },
+    {
       "id": "aubergine-kitchen-orem-lehi-mediterranean-chicken-bowl",
       "name": "Aubergine Kitchen (Orem & Lehi, UT) Warm Mediterranean Chicken & Rice Bowl",
       "categoryFolder": "lunch",
@@ -9256,6 +9335,47 @@
       "whyItWorks": "Flaky grilled salmon delivers easily digestible marine protein packed with gut-healing EPA/DHA omega-3 fatty acids. Served with fragrant steamed jasmine rice, it is exceptionally gentle on the digestive tract.",
       "prepOrOrderInstructions": "Request the salmon simply grilled with olive oil and salt, no blackened spices or creamy garlic sauces. Pair with steamed rice and skip steamed broccoli.",
       "_sourcePath": "src/data/items/dinner/coopers-bear-lake-west-grilled-salmon-rice.json"
+    },
+    {
+      "id": "kirkland-signature-wild-cold-smoked-salmon-lox",
+      "name": "Kirkland Signature Wild Smoked Sockeye Salmon Lox (2 x 12 oz)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 8.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "smoked-salmon",
+        "lox",
+        "seafood",
+        "omega-3"
+      ],
+      "searchKeywords": [
+        "costco smoked salmon",
+        "kirkland sockeye lox",
+        "cured salmon",
+        "cold smoked fish"
+      ],
+      "whyItWorks": "Thinly sliced, cold-smoked wild Alaskan salmon melts in the mouth with zero chewing effort. High in natural omega-3 fats with zero rough fiber, making it an excellent topping for sourdough or plain bagels.",
+      "prepOrOrderInstructions": "Eat chilled right from the pack. Note: High in natural salt; drink plenty of water alongside.",
+      "_sourcePath": "src/data/items/high-protein/kirkland-signature-wild-cold-smoked-salmon-lox.json"
     },
     {
       "id": "knotts-boardwalk-bbq-rotisserie-chicken-mashed-potatoes",
@@ -10445,6 +10565,43 @@
       "_sourcePath": "src/data/items/dinner/disneyland-blue-bayou-pan-roasted-salmon.json"
     },
     {
+      "id": "penny-anns-cafe-scrambled-eggs-ham-white-toast",
+      "name": "Penny Ann's Two Eggs Any Style with Grilled Ham & White Toast",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Penny Ann's Cafe (Draper, UT)",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "penny-anns",
+        "scrambled-eggs",
+        "breakfast"
+      ],
+      "searchKeywords": [
+        "penny anns cafe",
+        "breakfast combo",
+        "scrambled eggs",
+        "draper utah"
+      ],
+      "whyItWorks": "Fresh eggs scrambled soft, a slice of grilled lean ham, and toasted white bread with seedless jelly. A quintessential flare-safe breakfast combo providing high-quality protein without grease.",
+      "prepOrOrderInstructions": "Request eggs scrambled soft with light cooking spray, grilled ham steak, and plain white toast with jelly. Skip grilled hashbrowns.",
+      "_sourcePath": "src/data/items/breakfast/penny-anns-cafe-scrambled-eggs-ham-white-toast.json"
+    },
+    {
       "id": "knotts-mrs-knotts-roasted-chicken-mashed-potatoes",
       "name": "Skinless Oven-Roasted Chicken Breast with Mashed Potatoes",
       "categoryFolder": "dinner",
@@ -10520,6 +10677,84 @@
         "Avoid raw cabbage, whole beans, and spicy sriracha dressings"
       ],
       "_sourcePath": "src/data/items/lunch/thomas-cuisine-bamboohr-custom-grain-bowl-chicken-rice.json"
+    },
+    {
+      "id": "trident-seafoods-wild-alaskan-salmon-burgers-costco",
+      "name": "Trident Seafoods Wild Alaskan Salmon Burgers (Costco Frozen 12-Pack)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Trident Seafoods (Costco / Sam's Club)",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "sams-club",
+        "salmon-burgers",
+        "wild-seafood",
+        "omega-3"
+      ],
+      "searchKeywords": [
+        "trident salmon burgers",
+        "costco frozen salmon patties",
+        "wild alaska salmon",
+        "seafood burger"
+      ],
+      "whyItWorks": "Formed from 100% wild-caught Alaskan salmon with light seasoning and zero dairy or fillers. Rich in natural omega-3 fatty acids that dampen intestinal inflammation, serving as an easy burger alternative.",
+      "prepOrOrderInstructions": "Cook directly from frozen on a lightly oiled skillet for 4-5 minutes per side. Serve on a plain white bun with light mayo or plain white rice.",
+      "_sourcePath": "src/data/items/frozen-aisle/trident-seafoods-wild-alaskan-salmon-burgers-costco.json"
+    },
+    {
+      "id": "wildfin-american-grill-riverton-cedar-plank-salmon",
+      "name": "WildFin Cedar Plank King Salmon with Yukon Mashed Potatoes",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "WildFin American Grill (Mountain View Village · Riverton, UT)",
+      "crohnsScore": 8.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "riverton",
+        "mountain-view-village",
+        "wildfin",
+        "salmon",
+        "fine-dining"
+      ],
+      "searchKeywords": [
+        "wildfin grill",
+        "cedar plank salmon",
+        "riverton utah dining",
+        "mountain view village"
+      ],
+      "whyItWorks": "Wild salmon gently roasted on a natural cedar wood plank with sea salt and light glaze. High in marine omega-3s and paired with skinless, smooth Yukon Gold mashed potatoes.",
+      "prepOrOrderInstructions": "Ask for salmon prepared simply with light olive oil and salt, skipping any spicy rubs or rich butter sauces. Pair with peeled mashed potatoes.",
+      "_sourcePath": "src/data/items/dinner/wildfin-american-grill-riverton-cedar-plank-salmon.json"
     },
     {
       "id": "bam-bams-bbq-lindon-orem-smoked-turkey-brisket",
@@ -10935,6 +11170,45 @@
       "_sourcePath": "src/data/items/dinner/goodwood-bbq-draper-smoked-turkey-rotisserie-chicken.json"
     },
     {
+      "id": "kneaders-chicken-noodle-soup-soft-roll",
+      "name": "Kneaders Hearty Chicken Noodle Soup with Fresh Bakery Roll",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Kneaders Bakery & Cafe (Lehi, Orem, Draper)",
+      "crohnsScore": 8.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "kneaders",
+        "chicken-noodle-soup",
+        "soup",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "kneaders",
+        "chicken noodle soup",
+        "bakery roll",
+        "comfort food",
+        "utah soup"
+      ],
+      "whyItWorks": "Tender pulled chicken breast, thick egg noodles, and soft cooked carrots in a soothing chicken broth alongside a freshly baked soft white roll. Ideal warm comfort food for sensitive digestive days.",
+      "prepOrOrderInstructions": "Order a cup or bowl of chicken noodle soup with a plain soft white dinner roll. Highly comforting and low-residue.",
+      "_sourcePath": "src/data/items/lunch/kneaders-chicken-noodle-soup-soft-roll.json"
+    },
+    {
       "id": "knotts-mrs-knotts-herb-roasted-half-chicken",
       "name": "Knott's Mrs. Knott's Oven Herb-Roasted Half Chicken (Gluten-Friendly Alternative)",
       "categoryFolder": "dinner",
@@ -11014,6 +11288,46 @@
       "whyItWorks": "Pre-sliced sourdough bread made with fermented starter. The fermentation process lowers gluten elasticity and fructan content, easing digestion compared to standard sandwich white bread.",
       "prepOrOrderInstructions": "Toast lightly for breakfast toast or sandwiches. Soft crumb is very easy to chew.",
       "_sourcePath": "src/data/items/breakfast/members-mark-sliced-artisan-sourdough-bread.json"
+    },
+    {
+      "id": "members-mark-atlantic-salmon-burgers-sams-club",
+      "name": "Member's Mark Atlantic Salmon Burgers (Frozen 8-Pack)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 8.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "salmon-burgers",
+        "seafood-patty",
+        "omega-3"
+      ],
+      "searchKeywords": [
+        "sams club salmon burgers",
+        "members mark salmon patties",
+        "frozen seafood burger",
+        "healthy burger"
+      ],
+      "whyItWorks": "Atlantic salmon patties ground with light seasoning. They cook up moist and flaky, providing bioavailable anti-inflammatory marine fats without tough meat fibers.",
+      "prepOrOrderInstructions": "Pan-sear in a nonstick skillet with a little olive oil. Serve on a plain brioche or white hamburger bun.",
+      "_sourcePath": "src/data/items/frozen-aisle/members-mark-atlantic-salmon-burgers-sams-club.json"
     },
     {
       "id": "knotts-mrs-knotts-hot-roast-turkey-mashed-potatoes",
@@ -11422,6 +11736,44 @@
         "Skip wasabi and spicy mayo drizzle; remove cucumber strips if strict low-residue"
       ],
       "_sourcePath": "src/data/items/asian-indian/broulims-montpelier-fresh-sushi-california-roll.json"
+    },
+    {
+      "id": "cafe-rio-cilantro-lime-rice-plain",
+      "name": "Café Rio Seasoned Cilantro Lime Rice Side Bowl",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+      "crohnsScore": 8.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.8,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "restaurant",
+        "utah",
+        "cafe-rio",
+        "cilantro-lime-rice",
+        "white-rice",
+        "side"
+      ],
+      "searchKeywords": [
+        "cafe rio",
+        "cilantro lime rice",
+        "white rice",
+        "utah mexican"
+      ],
+      "whyItWorks": "Steamed long-grain white rice infused with mild vegetable broth, light oil, and finely chopped cilantro. It is low in residue and very soothing to hyperactive bowels.",
+      "prepOrOrderInstructions": "Ask for a side bowl of cilantro lime rice without cheese topping.",
+      "_sourcePath": "src/data/items/produce-sides/cafe-rio-cilantro-lime-rice-plain.json"
     },
     {
       "id": "cafe-zupas-utah-turkey-avocado-soup-combo",
@@ -15118,6 +15470,46 @@
       "_sourcePath": "src/data/items/asian-indian/korean-japchae-glass-noodles.json"
     },
     {
+      "id": "kevins-natural-foods-chicken-tikka-masala-costco",
+      "name": "Kevin's Natural Foods Chicken Tikka Masala (Costco 2-Pack)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Kevin's Natural Foods (Costco / Sam's Club)",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Indian",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "costco",
+        "sams-club",
+        "kevins-natural-foods",
+        "dairy-free",
+        "gluten-free",
+        "chicken-tikka"
+      ],
+      "searchKeywords": [
+        "kevins chicken tikka masala",
+        "costco refrigerated meals",
+        "dairy free indian",
+        "paleo chicken"
+      ],
+      "whyItWorks": "Made with sous-vide cooked, ultra-tender chicken breast and a coconut-milk-based curry sauce instead of heavy cream or butter. Certified gluten-free and dairy-free with clean ingredients that avoid inflammatory dairy fats.",
+      "prepOrOrderInstructions": "Sear chicken in a skillet for 1-2 minutes, drain juices, and simmer in the coconut tikka sauce. Serve over a bowl of plain steamed white basmati or jasmine rice.",
+      "_sourcePath": "src/data/items/asian-indian/kevins-natural-foods-chicken-tikka-masala-costco.json"
+    },
+    {
       "id": "kneaders-draper-south-jordan-logan-chunky-cinnamon-french-toast",
       "name": "Kneaders Bakery & Cafe (Draper / South Jordan / Logan) Chunky Cinnamon French Toast & Turkey Croissant",
       "categoryFolder": "breakfast",
@@ -15165,6 +15557,44 @@
         "Rich cream in the Kneaders caramel syrup"
       ],
       "_sourcePath": "src/data/items/breakfast/kneaders-draper-south-jordan-logan-chunky-cinnamon-french-toast.json"
+    },
+    {
+      "id": "kneaders-slow-roasted-turkey-sourdough-sandwich",
+      "name": "Kneaders Slow-Roasted Turkey on Country White or Sourdough",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Kneaders Bakery & Cafe (Lehi, Orem, Draper)",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "kneaders",
+        "turkey-sandwich",
+        "sourdough",
+        "deli"
+      ],
+      "searchKeywords": [
+        "kneaders",
+        "slow roasted turkey",
+        "sourdough sandwich",
+        "utah lunch"
+      ],
+      "whyItWorks": "Freshly roasted, tender white turkey breast carved in-house served on soft bakery country white or sourdough bread. Free of tough gristle, rough bran, or inflammatory seasonings.",
+      "prepOrOrderInstructions": "Order turkey on country white or sourdough bread. Skip raw red onions, tomatoes, lettuce, and bacon. Light mayo is fine.",
+      "_sourcePath": "src/data/items/lunch/kneaders-slow-roasted-turkey-sourdough-sandwich.json"
     },
     {
       "id": "knotts-marketplace-tgi-fridays-grilled-chicken-steak-mashed-potatoes",
@@ -15750,6 +16180,46 @@
       "whyItWorks": "Turmeric, ginger, cumin, and fenugreek provide massive flavor and natural anti-inflammatory action without chili heat; white naan is pillow-soft.",
       "prepOrOrderInstructions": "Order '0/10 spice / Mild / Kid-friendly.' At home, simmer chicken thighs in strained tomato puree, coconut milk or heavy cream/ghee, garam masala, and turmeric. Warm white naan in the toaster oven.",
       "_sourcePath": "src/data/items/asian-indian/mild-butter-chicken-white-naan.json"
+    },
+    {
+      "id": "mo-bettahs-draper-kalua-pig-steamed-white-rice",
+      "name": "Mo' Bettahs Hawaiian Style Kalua Pig with Steamed White Rice",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Mo' Bettahs Hawaiian Style (Draper / Lehi / Herriman)",
+      "crohnsScore": 8.5,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "lehi",
+        "mo-bettahs",
+        "kalua-pork",
+        "white-rice"
+      ],
+      "searchKeywords": [
+        "mo bettahs",
+        "kalua pig",
+        "white rice",
+        "draper utah",
+        "hawaiian food"
+      ],
+      "whyItWorks": "Slow-roasted, tender shredded pork shoulder seasoned with sea salt and liquid smoke, served over scoops of steaming white rice. Extremely tender, dairy-free, and virtually zero insoluble roughage.",
+      "prepOrOrderInstructions": "Order the Mini or Regular plate with Kalua Pig and double white rice. Skip the macaroni salad (heavy mayo/dairy) and teri sauce.",
+      "_sourcePath": "src/data/items/dinner/mo-bettahs-draper-kalua-pig-steamed-white-rice.json"
     },
     {
       "id": "mortys-cafe-logan-turkey-bacon-sandwich",
@@ -18721,6 +19191,48 @@
       "_sourcePath": "src/data/items/snacks-desserts/zipz-dole-whip-mango-pineapple-swirl.json"
     },
     {
+      "id": "amylu-apple-gouda-chicken-sausage-costco",
+      "name": "Amylu Organic Apple & Gouda Fully Cooked Chicken Sausage (Costco)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Amylu (Costco)",
+      "crohnsScore": 8.4,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "skillet",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "amylu",
+        "chicken-sausage",
+        "gluten-free",
+        "breakfast"
+      ],
+      "searchKeywords": [
+        "amylu chicken sausage",
+        "costco amylu",
+        "apple gouda sausage",
+        "gluten free sausage"
+      ],
+      "whyItWorks": "Fully cooked skinless chicken sausages made with coarse-ground chicken breast and dried apple bits. Contains far less grease and nitrates than pork sausage links, offering gentle breakfast protein.",
+      "prepOrOrderInstructions": "Warm gently in a skillet or toaster oven without charring. Gouda is aged and naturally low in lactose, but enjoy in moderate portion (1 link).",
+      "_sourcePath": "src/data/items/high-protein/amylu-apple-gouda-chicken-sausage-costco.json"
+    },
+    {
       "id": "cafe-sabor-logan-garden-city-arroz-con-pollo",
       "name": "Café Sabor (Logan & Garden City, UT) Arroz con Pollo (Tender Chicken & Rice)",
       "categoryFolder": "mexican-southwest",
@@ -18843,6 +19355,44 @@
         "Mashed potatoes contain butter and milk—choose a plain baked potato if strictly dairy-free"
       ],
       "_sourcePath": "src/data/items/dinner/coopers-fish-haven-rotisserie-chicken-mashed-potatoes.json"
+    },
+    {
+      "id": "costa-vida-grilled-chicken-corn-tacos",
+      "name": "Costa Vida Grilled Chicken Tacos on Warm Corn Tortillas",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Costa Vida Fresh Mexican Grill (Utah County / Salt Lake)",
+      "crohnsScore": 8.4,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "costa-vida",
+        "grilled-chicken",
+        "corn-tacos",
+        "clean-meal"
+      ],
+      "searchKeywords": [
+        "costa vida",
+        "grilled chicken tacos",
+        "corn tortillas",
+        "utah mexican"
+      ],
+      "whyItWorks": "Marinated, fire-grilled chicken breast served in soft warm corn tortillas without beans, sour cream, or fried shells. Clean, low-residue Mexican food.",
+      "prepOrOrderInstructions": "Order grilled chicken tacos on corn tortillas with chicken only. Skip beans, cheese, pico, and lettuce. Pair with white rice.",
+      "_sourcePath": "src/data/items/mexican-southwest/costa-vida-grilled-chicken-corn-tacos.json"
     },
     {
       "id": "crepes-and-coffee-bear-lake-gluten-free-crepe",
@@ -20032,6 +20582,45 @@
         "Never order \"Animal Style\" (mustard-fried with pickles, grilled onions, and Thousand Island spread) or yellow cascabella chilies; skip Pink Lemonade"
       ],
       "_sourcePath": "src/data/items/diner-bbq/knotts-buena-park-rock-and-brews-in-n-out-beach-blvd-plain-burger.json"
+    },
+    {
+      "id": "cafe-rio-grilled-chicken-tacos-corn-tortillas",
+      "name": "Café Rio Fire-Grilled Chicken Tacos on Warm Corn Tortillas",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+      "crohnsScore": 8.3,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "cafe-rio",
+        "grilled-chicken",
+        "tacos",
+        "corn-tortillas"
+      ],
+      "searchKeywords": [
+        "cafe rio",
+        "grilled chicken tacos",
+        "corn tortillas",
+        "utah mexican",
+        "clean eating"
+      ],
+      "whyItWorks": "Marinated breast meat grilled over open fire, served in soft warm corn tortillas without greasy frying oil, cheese, or beans. Clean, easily digested protein and gentle gluten-free corn starch.",
+      "prepOrOrderInstructions": "Specify: 2 corn tortillas, grilled chicken only. Skip black/pinto beans, cheese, pico de gallo, and romaine lettuce. Pair with plain white rice.",
+      "_sourcePath": "src/data/items/mexican-southwest/cafe-rio-grilled-chicken-tacos-corn-tortillas.json"
     },
     {
       "id": "coopers-bear-lake-west-turkey-club-sandwich",
@@ -21276,6 +21865,47 @@
       "_sourcePath": "src/data/items/asian-indian/zao-asian-cafe-draper-yellow-curry-jasmine-rice.json"
     },
     {
+      "id": "amylu-italian-style-chicken-meatballs-costco",
+      "name": "Amylu Roasted Garlic & Mozzarella Chicken Meatballs (Costco)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Amylu (Costco)",
+      "crohnsScore": 8.2,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "stovetop",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "amylu",
+        "chicken-meatballs",
+        "italian",
+        "protein"
+      ],
+      "searchKeywords": [
+        "amylu chicken meatballs",
+        "costco meatballs",
+        "gluten free meatballs",
+        "refrigerated meatballs"
+      ],
+      "whyItWorks": "Lean chicken breast and thigh meat rolled with mozzarella and herbs, fully cooked and gluten-free. Free of dense breadcrumb fillers and deep-frying grease found in standard beef meatballs.",
+      "prepOrOrderInstructions": "Simmer in smooth strained marinara sauce or warm in broth. Pair with tender penne or sourdough toast.",
+      "_sourcePath": "src/data/items/high-protein/amylu-italian-style-chicken-meatballs-costco.json"
+    },
+    {
       "id": "angies-restaurant-logan-sampler-breakfast",
       "name": "Angie's Restaurant (Logan, UT) \"The Sampler\" All-Day Country Breakfast",
       "categoryFolder": "breakfast",
@@ -21441,6 +22071,44 @@
         "Skip deep-fried onion rings and raw tomato/lettuce"
       ],
       "_sourcePath": "src/data/items/lunch/bear-trapper-garden-city-turkey-croissant-cowboy-burger.json"
+    },
+    {
+      "id": "black-bear-diner-american-fork-slow-cooked-pot-roast",
+      "name": "Black Bear Diner Slow-Cooked Pot Roast with Mashed Potatoes",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Black Bear Diner (American Fork / Sandy, UT)",
+      "crohnsScore": 8.2,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "american-fork",
+        "black-bear-diner",
+        "pot-roast",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "black bear diner",
+        "pot roast",
+        "american fork utah",
+        "comfort food diner"
+      ],
+      "whyItWorks": "Tender beef chuck roast slow-braised until fork-tender and served in savory brown beef gravy over smooth mashed potatoes. Low in fiber and highly comforting.",
+      "prepOrOrderInstructions": "Ask for extra tender meat and smooth mashed potatoes with light brown gravy. Skip whole baby carrots or green beans if adhering to strict low-residue.",
+      "_sourcePath": "src/data/items/dinner/black-bear-diner-american-fork-slow-cooked-pot-roast.json"
     },
     {
       "id": "disneyland-rancho-del-zocalo-citrus-chicken-platter",
@@ -22240,6 +22908,45 @@
       "_sourcePath": "src/data/items/lunch/mad-moose-cafe-eden-french-dip-au-jus.json"
     },
     {
+      "id": "members-mark-angus-beef-new-york-strip-steak-sams-club",
+      "name": "Member's Mark USDA Choice Angus Beef New York Strip Steak",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 8.2,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "skillet",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "strip-steak",
+        "angus-beef",
+        "butcher"
+      ],
+      "searchKeywords": [
+        "sams club strip steak",
+        "members mark angus beef",
+        "ny strip steak",
+        "butcher beef"
+      ],
+      "whyItWorks": "High-grade Angus beef strip steak has fine marbling rather than coarse chewy gristle. Cooked medium-rare to medium, it breaks down cleanly in the stomach and provides dense zinc and iron.",
+      "prepOrOrderInstructions": "Trim the outer strip of white fat before eating. Season with salt only and pair with a baked potato (skin removed).",
+      "_sourcePath": "src/data/items/dinner/members-mark-angus-beef-new-york-strip-steak-sams-club.json"
+    },
+    {
       "id": "knotts-mrs-knotts-chicken-and-dumplings-pot-pie",
       "name": "Mrs. Knott's Old-Fashioned Chicken & Dumplings or Homemade Chicken Pot Pie",
       "categoryFolder": "dinner",
@@ -22277,6 +22984,44 @@
         "Contains dairy in the creamy gravy/crust—take lactase; pick around green peas in the pot pie if sensitive to pea skins"
       ],
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-chicken-and-dumplings-pot-pie.json"
+    },
+    {
+      "id": "penny-anns-cafe-heavenly-hotcakes-pure-syrup",
+      "name": "Penny Ann's Famous \"Heavenly Hotcakes\" with Warm Syrup",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Penny Ann's Cafe (Draper, UT)",
+      "crohnsScore": 8.2,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "penny-anns",
+        "hotcakes",
+        "pancakes",
+        "breakfast"
+      ],
+      "searchKeywords": [
+        "penny anns cafe",
+        "heavenly hotcakes",
+        "draper utah breakfast",
+        "sour cream pancakes"
+      ],
+      "whyItWorks": "Award-winning light, fluffy sour cream pancakes. The cultured sour cream in the batter creates an exceptionally tender crumb that dissolves quickly in the stomach without tough fiber or heavy grease.",
+      "prepOrOrderInstructions": "Enjoy with warm maple or pancake syrup. Order butter on the side and skip side bacon or sausage if fat-sensitive.",
+      "_sourcePath": "src/data/items/breakfast/penny-anns-cafe-heavenly-hotcakes-pure-syrup.json"
     },
     {
       "id": "porch-daybreak-south-jordan-shrimp-grits-chicken",
@@ -25860,6 +26605,46 @@
       "_sourcePath": "src/data/items/snacks-desserts/jumbeauxs-sweets-paw-shortbread-rice-crispy.json"
     },
     {
+      "id": "kevins-natural-foods-korean-bbq-beef-costco",
+      "name": "Kevin's Natural Foods Korean Style BBQ Steak (Costco 2-Pack)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Kevin's Natural Foods (Costco / Sam's Club)",
+      "crohnsScore": 8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Korean",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "costco",
+        "sams-club",
+        "kevins-natural-foods",
+        "korean-bbq",
+        "gluten-free",
+        "beef"
+      ],
+      "searchKeywords": [
+        "kevins korean bbq beef",
+        "costco refrigerated beef",
+        "gluten free bulgogi",
+        "paleo beef"
+      ],
+      "whyItWorks": "Tender strips of beef flank steak prepared sous-vide with coconut aminos, apple cider vinegar, and sesame oil instead of wheat soy sauce or heavy corn syrup. Very tender and easy to chew.",
+      "prepOrOrderInstructions": "Pan-sear beef for 2 minutes and pour sauce over. Serve with plain steamed white rice. Skip adding extra raw green onions or sesame seeds if avoiding roughage.",
+      "_sourcePath": "src/data/items/dinner/kevins-natural-foods-korean-bbq-beef-costco.json"
+    },
+    {
       "id": "kirkland-signature-plain-water-bagels",
       "name": "Kirkland Signature Plain Water Bagels (Bakery 2-Pack)",
       "categoryFolder": "breakfast",
@@ -26394,6 +27179,44 @@
       "whyItWorks": "Extra lean sliced deli ham with 97% fat-free profile. Thinly shaved with low gristle, it supplies easy protein without heavy cooking oils or tough connective tissue.",
       "prepOrOrderInstructions": "Layer onto white bread or roll up plain for a quick high-protein snack. Discard visible outer edge fat.",
       "_sourcePath": "src/data/items/high-protein/members-mark-deli-sliced-honey-ham.json"
+    },
+    {
+      "id": "members-mark-organic-frozen-strawberries-sams-club",
+      "name": "Member's Mark Organic Whole Frozen Strawberries (Smoothie Hack)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "frozen-strawberries",
+        "organic-fruit",
+        "smoothie"
+      ],
+      "searchKeywords": [
+        "sams club frozen strawberries",
+        "members mark organic berries",
+        "smoothie fruit bulk"
+      ],
+      "whyItWorks": "Strawberries are lower in FODMAP fructose than apples and mangos. Blending ripe frozen strawberries into smoothies completely pulverizes the delicate outer achenes (seeds), allowing antioxidant absorption without gut friction.",
+      "prepOrOrderInstructions": "Puree smooth with water or plant milk and pure maple syrup for a gentle morning vitamin C boost.",
+      "_sourcePath": "src/data/items/frozen-aisle/members-mark-organic-frozen-strawberries-sams-club.json"
     },
     {
       "id": "mickeys-smokestack-beef-brisket",
@@ -27443,6 +28266,45 @@
       "whyItWorks": "Finely shredded chicken and white flour tortillas are super easy on strictures.",
       "prepOrOrderInstructions": "Crisp in a dry skillet and dip in plain strained Greek yogurt or smooth avocado mash. Skip chunky tomato salsa.",
       "_sourcePath": "src/data/items/lunch/shredded-chicken-jack-quesadilla.json"
+    },
+    {
+      "id": "silverlake-ramen-riverton-shoyu-ramen-chashu",
+      "name": "Silverlake Ramen Classic Shoyu Ramen with Chashu Pork (Riverton)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Silverlake Ramen (Mountain View Village · Riverton, UT)",
+      "crohnsScore": 8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "riverton",
+        "mountain-view-village",
+        "silverlake-ramen",
+        "shoyu-ramen"
+      ],
+      "searchKeywords": [
+        "silverlake ramen",
+        "riverton utah",
+        "mountain view village",
+        "shoyu ramen",
+        "ramen noodles"
+      ],
+      "whyItWorks": "Clear, soy-sauce-based chicken and fish broth is far lighter and lower in emulsified lard than creamy tonkotsu broths. Served with tender wheat noodles and a slice of braised pork belly.",
+      "prepOrOrderInstructions": "Order the Shoyu ramen with NO green onions and NO bean sprouts. Ask for noodles cooked soft and remove excess fat from the pork slice.",
+      "_sourcePath": "src/data/items/asian-indian/silverlake-ramen-riverton-shoyu-ramen-chashu.json"
     },
     {
       "id": "skipper-society-apple-cinnamon-original-waffles",
@@ -29507,6 +30369,45 @@
       "_sourcePath": "src/data/items/lunch/sabores-logan-the-havana-sandwich.json"
     },
     {
+      "id": "silverlake-ramen-riverton-chashu-rice-bowl",
+      "name": "Silverlake Ramen Chashu Don Rice Bowl (Riverton)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Silverlake Ramen (Mountain View Village · Riverton, UT)",
+      "crohnsScore": 7.9,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "riverton",
+        "mountain-view-village",
+        "silverlake-ramen",
+        "rice-bowl"
+      ],
+      "searchKeywords": [
+        "silverlake ramen",
+        "chashu bowl",
+        "chashu don",
+        "riverton utah",
+        "white rice bowl"
+      ],
+      "whyItWorks": "Diced braised tender pork drizzled with sweet soy glaze over a large bowl of steaming white Calrose rice. Gentle on digestion without heavy soup oils.",
+      "prepOrOrderInstructions": "Request NO green onion garnish and NO spicy mayo drizzle. Eat with plain white rice.",
+      "_sourcePath": "src/data/items/asian-indian/silverlake-ramen-riverton-chashu-rice-bowl.json"
+    },
+    {
       "id": "disneyland-galactic-grill-yogurt-parfait",
       "name": "Strawberry Greek Yogurt Parfait Cup (No Granola)",
       "categoryFolder": "breakfast",
@@ -30569,6 +31470,83 @@
       "_sourcePath": "src/data/items/diner-bbq/jcws-burger-boys-american-fork-charbroiled-cheeseburger.json"
     },
     {
+      "id": "kirkland-signature-organic-frozen-blueberries-smoothie-hack",
+      "name": "Kirkland Signature Organic Frozen Blueberries (Strained Smoothie Hack)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 7.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "frozen-blueberries",
+        "antioxidants",
+        "smoothie"
+      ],
+      "searchKeywords": [
+        "costco frozen blueberries",
+        "kirkland organic berries",
+        "smoothie berries",
+        "wild blueberries"
+      ],
+      "whyItWorks": "Rich in anthocyanins and polyphenols shown to reduce gut inflammation. While eating whole raw berries passes insoluble skin flakes, high-speed blending or straining into a smooth beverage provides all the anti-inflammatory benefits without roughage.",
+      "prepOrOrderInstructions": "Blend completely in a high-powered blender with lactose-free almond milk or water until smooth. Strain through a fine mesh sieve if strictures are present.",
+      "_sourcePath": "src/data/items/frozen-aisle/kirkland-signature-organic-frozen-blueberries-smoothie-hack.json"
+    },
+    {
+      "id": "kneaders-chunky-cinnamon-french-toast-caramel-syrup",
+      "name": "Kneaders Chunky Cinnamon French Toast with Caramel Syrup",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Kneaders Bakery & Cafe (Lehi, Orem, Draper)",
+      "crohnsScore": 7.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "kneaders",
+        "french-toast",
+        "bakery",
+        "breakfast"
+      ],
+      "searchKeywords": [
+        "kneaders",
+        "chunky cinnamon french toast",
+        "caramel syrup",
+        "utah breakfast",
+        "bakery"
+      ],
+      "whyItWorks": "Famous thick slices of Kneaders Chunky Cinnamon bread dipped in egg custard and griddled soft. Refined flour and egg provide easily broken-down carbohydrates and gentle protein without rough seed fibers.",
+      "prepOrOrderInstructions": "Ask for warm caramel syrup or maple syrup in moderation on the side. Skip whipped cream if lactose intolerant.",
+      "_sourcePath": "src/data/items/breakfast/kneaders-chunky-cinnamon-french-toast-caramel-syrup.json"
+    },
+    {
       "id": "knotts-coasters-diner-cheeseburger-chicken-club",
       "name": "Knott's Coasters Diner (Boardwalk) Plain Cheeseburger, Grilled Chicken Club or Hot Dog Basket",
       "categoryFolder": "diner-bbq",
@@ -30728,6 +31706,44 @@
         "Remove outer fried crust during active digestive symptoms"
       ],
       "_sourcePath": "src/data/items/dinner/labeaus-garden-city-golden-halibut-basket.json"
+    },
+    {
+      "id": "leatherbys-creamery-draper-plain-hamburger-basket",
+      "name": "Leatherby's Plain Hamburger Basket on Bakery White Bun",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Leatherby's Family Creamery (Draper, UT)",
+      "crohnsScore": 7.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "leatherbys",
+        "hamburger",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "leatherbys creamery",
+        "draper utah",
+        "hamburger basket",
+        "plain burger"
+      ],
+      "whyItWorks": "While famous for colossal ice cream sundaes, Leatherby's griddle makes a simple, fresh ground beef patty served plain on a soft white bakery bun with zero dairy or roughage.",
+      "prepOrOrderInstructions": "Order the single hamburger plain (meat and bun only). Skip lettuce, tomato, onions, pickles, and fry sauce. Substitute a side of white toast or applesauce for fries.",
+      "_sourcePath": "src/data/items/lunch/leatherbys-creamery-draper-plain-hamburger-basket.json"
     },
     {
       "id": "members-mark-all-butter-brioche-buns",
@@ -31091,6 +32107,45 @@
         "Never mix in the spicy red gochujang chili paste—use a splash of plain soy sauce instead"
       ],
       "_sourcePath": "src/data/items/asian-indian/takara-sushi-logan-okdol-bibimbap.json"
+    },
+    {
+      "id": "zao-asian-cafe-draper-yakisoba-noodles-chicken",
+      "name": "Zao Asian Cafe Yakisoba Noodles with Seared Chicken (Mild)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Zao Asian Cafe (Draper / Lehi / South Jordan)",
+      "crohnsScore": 7.8,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "lehi",
+        "zao-asian-cafe",
+        "yakisoba-noodles",
+        "asian"
+      ],
+      "searchKeywords": [
+        "zao asian cafe",
+        "yakisoba noodles",
+        "chicken noodles",
+        "draper utah"
+      ],
+      "whyItWorks": "Tender wheat yakisoba noodles wok-tossed with lean chicken breast in mild sweet soy sauce. Satisfies noodle cravings without spicy oils or raw roughage.",
+      "prepOrOrderInstructions": "Choose yakisoba noodle base with chicken breast and sweet teriyaki sauce. Do NOT add wok veggies (cabbage/onions) or chili crunch.",
+      "_sourcePath": "src/data/items/asian-indian/zao-asian-cafe-draper-yakisoba-noodles-chicken.json"
     },
     {
       "id": "angies-restaurant-logan-california-burger",
@@ -31823,6 +32878,45 @@
       "whyItWorks": "A single fresh beef patty grilled and topped with a slice of mild American cheese on a soft bakery bun provides balanced protein and easily digested carbohydrates.",
       "prepOrOrderInstructions": "Order the burger plain (meat, cheese, bun only). Skip lettuce, tomato, raw onions, pickles, and 1000 Island dressing. Swap steak fries for cuties mandarin or apple slices.",
       "_sourcePath": "src/data/items/lunch/dca-flos-v8-cafe-single-cheeseburger.json"
+    },
+    {
+      "id": "kevins-natural-foods-roasted-garlic-chicken-costco",
+      "name": "Kevin's Natural Foods Roasted Garlic Chicken (Costco 2-Pack)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Kevin's Natural Foods (Costco / Sam's Club)",
+      "crohnsScore": 7.7,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop",
+        "skillet"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "costco",
+        "sams-club",
+        "kevins-natural-foods",
+        "roasted-garlic-chicken",
+        "dairy-free"
+      ],
+      "searchKeywords": [
+        "kevins garlic chicken",
+        "costco refrigerated meals",
+        "paleo chicken breast",
+        "dairy free"
+      ],
+      "whyItWorks": "Sous-vide chicken breast in a smooth roasted garlic chicken broth reduction. Roasting garlic breaks down raw allium fructans, making it far milder on the gut than raw garlic sauces.",
+      "prepOrOrderInstructions": "Warm chicken in skillet and heat sauce until bubbly. Pair with smooth peeled mashed potatoes or white rice.",
+      "_sourcePath": "src/data/items/dinner/kevins-natural-foods-roasted-garlic-chicken-costco.json"
     },
     {
       "id": "knotts-berry-market-cold-boysenberry-punch",
@@ -33197,6 +34291,45 @@
       "whyItWorks": "Tender sliced deli ham served on plain griddled white bread provides gentle protein with low roughage. Swiss cheese is naturally very low in lactose, making this warm sandwich far gentler on Crohn's digestion than fatty burgers or fried items.",
       "prepOrOrderInstructions": "Ask for it lightly grilled without extra butter or margarine on the griddle. Skip mustard, pickles, or tomato if sensitive to acids.",
       "_sourcePath": "src/data/items/lunch/dans-drive-in-montpelier-hot-ham-and-swiss.json"
+    },
+    {
+      "id": "just-bare-lightly-breaded-chicken-breast-chunks-costco",
+      "name": "Just Bare Lightly Breaded Chicken Breast Chunks (Costco Cult Favorite)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Just Bare (Costco)",
+      "crohnsScore": 7.6,
+      "safetyTier": "low-risk",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "just-bare",
+        "chicken-nuggets",
+        "frozen-chicken",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "just bare chicken",
+        "costco chicken chunks",
+        "lightly breaded chicken",
+        "chick fil a copycat"
+      ],
+      "whyItWorks": "Made from solid whole-muscle chicken breast chunks with a very light flour dusting rather than a heavy, thick batter. Bakes up crispy in a toaster oven without absorbing deep fryer grease.",
+      "prepOrOrderInstructions": "Bake in oven or air fryer until golden. Avoid dipping into spicy sauces or heavy mayonnaise if experiencing active symptoms.",
+      "_sourcePath": "src/data/items/frozen-aisle/just-bare-lightly-breaded-chicken-breast-chunks-costco.json"
     },
     {
       "id": "knotts-coasters-diner-double-cheeseburger",
@@ -39210,6 +40343,44 @@
       "_sourcePath": "src/data/items/diner-bbq/zipz-grilled-chicken-philly-saucewich.json"
     },
     {
+      "id": "black-bear-diner-american-fork-meatloaf-mashed-potatoes",
+      "name": "Black Bear Diner Homestyle Meatloaf with Brown Gravy",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Black Bear Diner (American Fork / Sandy, UT)",
+      "crohnsScore": 7.4,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "american-fork",
+        "black-bear-diner",
+        "meatloaf",
+        "comfort-food"
+      ],
+      "searchKeywords": [
+        "black bear diner",
+        "homestyle meatloaf",
+        "american fork utah",
+        "mashed potatoes"
+      ],
+      "whyItWorks": "Seasoned ground beef baked into classic meatloaf and served with brown gravy over mashed potatoes. Meat is soft and easy to chew, but contains onion seasoning and breading requiring baseline tolerance.",
+      "prepOrOrderInstructions": "Pair with smooth mashed potatoes and gravy. Discard outer heavily glazed crust if tomato sauce causes acid reflux.",
+      "_sourcePath": "src/data/items/dinner/black-bear-diner-american-fork-meatloaf-mashed-potatoes.json"
+    },
+    {
       "id": "holiday-christmas-eve-chowder-sourdough-bread-bowl",
       "name": "Christmas Eve New England Clam Chowder or Creamy Potato Soup in a Sourdough Bread Bowl",
       "categoryFolder": "lunch",
@@ -41498,6 +42669,45 @@
       "_sourcePath": "src/data/items/snacks-desserts/labeaus-garden-city-fresh-banana-cheesecake-shake.json"
     },
     {
+      "id": "members-mark-four-cheese-tortelloni-sams-club",
+      "name": "Member's Mark Four Cheese Italian Tortelloni (Refrigerated 2-Pack)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 7.2,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "tortelloni",
+        "pasta",
+        "italian"
+      ],
+      "searchKeywords": [
+        "sams club tortelloni",
+        "members mark fresh pasta",
+        "cheese tortellini",
+        "quick dinner"
+      ],
+      "whyItWorks": "Tender fresh egg pasta filled with smooth ricotta, mascarpone, parmesan, and romano cheeses. Boils in just 4 minutes to create an ultra-soft, low-roughage comfort meal.",
+      "prepOrOrderInstructions": "Boil gently until tender. Toss with a light drizzle of extra virgin olive oil and salt rather than heavy cream sauces.",
+      "_sourcePath": "src/data/items/italian-med/members-mark-four-cheese-tortelloni-sams-club.json"
+    },
+    {
       "id": "quick-n-tasty-garden-city-seedless-chocolate-malt",
       "name": "Quick N Tasty (Garden City, UT) Seedless Hand-Spun Chocolate Malt Milkshake",
       "categoryFolder": "snacks-desserts",
@@ -41616,6 +42826,44 @@
       "whyItWorks": "Soft corn tortillas stuffed with slow-braised, tender shredded beef and topped with a mild tomato-based ranchero sauce offer digestible protein without seeds or skins. Light melted cheese adds calories safely if lactose tolerant.",
       "prepOrOrderInstructions": "Specify mild ranchero sauce instead of spicy red or green chile sauce. Ask for sour cream on the side.",
       "_sourcePath": "src/data/items/mexican-southwest/cafe-sabor-garden-city-beef-enchiladas.json"
+    },
+    {
+      "id": "sukhis-chicken-tikka-masala-basmati-rice-costco",
+      "name": "Sukhi's Gourmet Chicken Tikka Masala with Basmati Rice (Costco 2-Pack)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Sukhi's (Costco)",
+      "crohnsScore": 7.2,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Indian",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "costco",
+        "sukhis",
+        "chicken-tikka-masala",
+        "curry",
+        "basmati-rice"
+      ],
+      "searchKeywords": [
+        "sukhis chicken tikka",
+        "costco indian meal",
+        "tikka masala rice",
+        "ready to eat curry"
+      ],
+      "whyItWorks": "Boneless chicken breast in a creamy tomato tikka sauce paired with fluffy basmati rice. Basmati rice is exceptionally easy to digest, though the curry sauce contains cream and tomato spices best suited for remission.",
+      "prepOrOrderInstructions": "Warm thoroughly and mix chicken with plenty of basmati rice to temper the rich curry sauce. Drink with water.",
+      "_sourcePath": "src/data/items/asian-indian/sukhis-chicken-tikka-masala-basmati-rice-costco.json"
     },
     {
       "id": "knotts-mrs-knotts-sweet-stewed-rhubarb",
@@ -46127,6 +47375,46 @@
       "_sourcePath": "src/data/items/dinner/labeaus-halibut-and-chips-basket.json"
     },
     {
+      "id": "members-mark-fully-cooked-thick-cut-bacon-sams-club",
+      "name": "Member's Mark Fully Cooked Thick Cut Bacon (Refrigerated 100-Pack)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Sam's Club (Member's Mark)",
+      "crohnsScore": 6.8,
+      "safetyTier": "remission-road",
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat",
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "sams-club",
+        "members-mark",
+        "cooked-bacon",
+        "breakfast",
+        "bacon"
+      ],
+      "searchKeywords": [
+        "sams club cooked bacon",
+        "members mark bacon",
+        "precooked bacon bulk",
+        "quick breakfast"
+      ],
+      "whyItWorks": "Pre-cooked thick cut hardwood smoked bacon has much of its liquid rendering fat cooked out during factory processing. Crisping gently between paper towels leaves a savory, low-carb garnish with zero fiber.",
+      "prepOrOrderInstructions": "Dab thoroughly with paper towels to absorb excess surface grease. Limit to 1-2 strips to prevent fat-induced diarrhea.",
+      "_sourcePath": "src/data/items/breakfast/members-mark-fully-cooked-thick-cut-bacon-sams-club.json"
+    },
+    {
       "id": "members-mark-chicken-salad-with-rotisserie-meat-warning",
       "name": "Member's Mark Rotisserie Chicken Salad (Deli Tub Warning)",
       "categoryFolder": "lunch",
@@ -49981,6 +51269,44 @@
       "_sourcePath": "src/data/items/lunch/coopers-bear-lake-west-clam-chowder-warning.json"
     },
     {
+      "id": "costa-vida-tortilla-soup-bowl-warning",
+      "name": "Costa Vida Chicken Tortilla Soup with Crispy Strips",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Costa Vida Fresh Mexican Grill (Utah County / Salt Lake)",
+      "crohnsScore": 5.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "restaurant",
+        "utah",
+        "costa-vida",
+        "tortilla-soup",
+        "soup",
+        "acid-warning"
+      ],
+      "searchKeywords": [
+        "costa vida",
+        "chicken tortilla soup",
+        "mexican soup",
+        "tortilla strips"
+      ],
+      "whyItWorks": "Tomato and roasted pepper chicken broth loaded with pulled chicken, whole black beans, corn kernels, and topped with fried corn tortilla strips and melted cheese. Beans and fried strips irritate sensitive bowels.",
+      "prepOrOrderInstructions": "Acid & Roughage Warning: Request soup without whole beans, corn, or crispy fried tortilla strips.",
+      "_sourcePath": "src/data/items/dinner/costa-vida-tortilla-soup-bowl-warning.json"
+    },
+    {
       "id": "costco-food-court-chocolate-chunk-cookie-warning",
       "name": "Costco Food Court (Logan & Draper, UT) Warm Double Chocolate Chunk Cookie (800 Cal Warning)",
       "categoryFolder": "snacks-desserts",
@@ -50098,6 +51424,45 @@
         "Deep-fried batter is extremely high in fryer oil fat; Three-Cheese version adds melted Brie/Mozzarella lactose"
       ],
       "_sourcePath": "src/data/items/lunch/disneyland-cafe-orleans-monte-cristo-sandwich.json"
+    },
+    {
+      "id": "kirkland-signature-organic-frozen-mango-chunks-warning",
+      "name": "Kirkland Signature Organic Frozen Mango Chunks (FODMAP Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 5.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "frozen-mango",
+        "fodmap-warning",
+        "fructose"
+      ],
+      "searchKeywords": [
+        "costco frozen mango",
+        "kirkland mango chunks",
+        "smoothie fruit",
+        "high fructose fruit"
+      ],
+      "whyItWorks": "Mango contains excess free fructose over glucose. In patients with IBD or compromised brush-border absorption, unabsorbed fructose rapidly ferments in the colon, producing gas, bloating, and osmotic diarrhea.",
+      "prepOrOrderInstructions": "High Fructose Warning: Limit to a few small chunks in smoothies during stable remission. Avoid during active diarrhea.",
+      "_sourcePath": "src/data/items/frozen-aisle/kirkland-signature-organic-frozen-mango-chunks-warning.json"
     },
     {
       "id": "disneyland-maurices-treats-cheddar-twist-warning",
@@ -50493,6 +51858,86 @@
       "whyItWorks": "A jumbo russet potato loaded with thick sour cream, melted cheddar, greasy smoked bacon bits, and raw chives. While the potato flesh is gentle, the dairy fat, bacon grease, and alliums trigger cramping in sensitive bowels.",
       "prepOrOrderInstructions": "Grease & Dairy Warning: Request plain butter and salt instead, skipping sour cream, bacon bits, and chives.",
       "_sourcePath": "src/data/items/lunch/disneyland-troubadour-tavern-loaded-potato-warning.json"
+    },
+    {
+      "id": "kirkland-signature-italian-style-beef-meatballs-frozen-warning",
+      "name": "Kirkland Signature Italian Style Beef Meatballs (Frozen 6 lb Bag Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 5.6,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dinner",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven",
+        "slow-cooker",
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "frozen-meatballs",
+        "allium-warning",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "costco meatballs",
+        "kirkland frozen meatballs",
+        "italian meatballs",
+        "beef pork meatballs"
+      ],
+      "whyItWorks": "Pre-cooked beef and pork meatballs packed with granulated onion, garlic powder, Romano cheese, and soy protein. The heavy concentration of dried alliums and rendered animal fat can provoke severe heartburn and loose stools.",
+      "prepOrOrderInstructions": "Allium & Fat Warning: Savor only 2-3 meatballs during remission. Avoid during active flare-ups in favor of pure ground poultry.",
+      "_sourcePath": "src/data/items/frozen-aisle/kirkland-signature-italian-style-beef-meatballs-frozen-warning.json"
+    },
+    {
+      "id": "kneaders-fruit-tart-fresh-berries-warning",
+      "name": "Kneaders European Fruit Tart with Vanilla Custard (Warning)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Kneaders Bakery & Cafe (Lehi, Orem, Draper)",
+      "crohnsScore": 5.6,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dessert",
+        "snack"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "kneaders",
+        "fruit-tart",
+        "bakery",
+        "berries-warning"
+      ],
+      "searchKeywords": [
+        "kneaders",
+        "fruit tart",
+        "fresh berries",
+        "bakery dessert",
+        "pastry"
+      ],
+      "whyItWorks": "A shortbread butter tart shell filled with rich dairy custard and topped with raw whole raspberries, blackberries, blueberries, and kiwi. Raw whole blackberry and raspberry seeds are hard mechanical irritants.",
+      "prepOrOrderInstructions": "Seed & Dairy Warning: Avoid raw seed-heavy tarts. Choose a slice of plain cinnamon swirl bread or sugar cookie instead.",
+      "_sourcePath": "src/data/items/snacks-desserts/kneaders-fruit-tart-fresh-berries-warning.json"
     },
     {
       "id": "some-beaches-laketown-chipotle-shrimp-wrap-warning",
@@ -52320,6 +53765,45 @@
       "_sourcePath": "src/data/items/breakfast/kirkland-signature-all-butter-croissants-warning.json"
     },
     {
+      "id": "kirkland-signature-frozen-shelled-edamame-microwave-warning",
+      "name": "Kirkland Signature Frozen Shelled Edamame (Soy/Fiber Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Costco (Kirkland Signature)",
+      "crohnsScore": 5.4,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "snack",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 6,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "kirkland",
+        "frozen-edamame",
+        "soybeans",
+        "fiber-warning"
+      ],
+      "searchKeywords": [
+        "costco edamame",
+        "kirkland shelled edamame",
+        "frozen soybeans",
+        "high fiber snack"
+      ],
+      "whyItWorks": "Whole young soybeans contain 6 grams of dense insoluble fiber and galacto-oligosaccharides per cup. Whole legumes resist complete breakdown and can induce severe gas pressure and mechanical irritation in narrowed bowels.",
+      "prepOrOrderInstructions": "High Fiber & Gas Warning: Avoid if experiencing bloating or strictures. In remission, eat small portions and chew thoroughly.",
+      "_sourcePath": "src/data/items/frozen-aisle/kirkland-signature-frozen-shelled-edamame-microwave-warning.json"
+    },
+    {
       "id": "members-mark-all-beef-cocktail-meatballs-sweet-chili-warning",
       "name": "Member's Mark Cocktail Beef Meatballs with Sweet Chili Sauce (Warning)",
       "categoryFolder": "dinner",
@@ -53217,6 +54701,45 @@
       "whyItWorks": "Whole boysenberries contain thousands of tiny hard seeds suspended in sweet fruit filling inside a flaky lard/shortening crust. These seeds act as abrasive particles that can get lodged in inflamed pockets or narrowings.",
       "prepOrOrderInstructions": "Seed & Stricture Warning: Strictly avoid if you have intestinal strictures or active Crohn's. In remission, eat filling with seeds strained out.",
       "_sourcePath": "src/data/items/snacks-desserts/knotts-ghost-town-boysenberry-pie-warning.json"
+    },
+    {
+      "id": "wildfin-american-grill-riverton-clam-chowder-warning",
+      "name": "WildFin Northwest Seafood Chowder Cup (Heavy Cream Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "WildFin American Grill (Mountain View Village · Riverton, UT)",
+      "crohnsScore": 5.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "riverton",
+        "mountain-view-village",
+        "wildfin",
+        "clam-chowder",
+        "dairy-warning"
+      ],
+      "searchKeywords": [
+        "wildfin grill",
+        "seafood chowder",
+        "clam chowder",
+        "riverton utah"
+      ],
+      "whyItWorks": "Classic Pacific Northwest chowder loaded with heavy whipping cream, bacon drippings, butter, clams, and potatoes. Concentrated dairy fat and rubbery clam bits can aggravate active IBD.",
+      "prepOrOrderInstructions": "Dairy & Fat Warning: Savor only small tastes during remission, or swap for a cup of clear broth.",
+      "_sourcePath": "src/data/items/dinner/wildfin-american-grill-riverton-clam-chowder-warning.json"
     },
     {
       "id": "dca-aunt-cass-cafe-broccoli-cheddar-soup-warning",
@@ -54572,6 +56095,44 @@
       "_sourcePath": "src/data/items/dinner/animators-wild-mushroom-onion-strudel.json"
     },
     {
+      "id": "cafe-rio-black-beans-fiber-warning",
+      "name": "Café Rio Seasoned Black Beans Side (High Fiber Warning)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+      "crohnsScore": 4.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 7.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "cafe-rio",
+        "black-beans",
+        "high-fiber",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "cafe rio",
+        "black beans",
+        "fiber hazard",
+        "utah mexican"
+      ],
+      "whyItWorks": "Whole black beans are rich in insoluble seed coats and galacto-oligosaccharides. These fibers resist small bowel digestion and produce intense fermentation gas, distension, and cramps.",
+      "prepOrOrderInstructions": "High Fiber & Gas Hazard: Skip beans entirely on bowls, tacos, and burritos. Request extra white rice instead.",
+      "_sourcePath": "src/data/items/produce-sides/cafe-rio-black-beans-fiber-warning.json"
+    },
+    {
       "id": "knotts-mrs-knotts-country-fried-chicken-warning",
       "name": "Classic Country Fried Chicken (Skin & Batter Warning)",
       "categoryFolder": "dinner",
@@ -54887,6 +56448,45 @@
       "whyItWorks": "Rich shredded pork shoulder tossed in acidic spicy BBQ sauce and piled high with crunchy raw cabbage coleslaw. Raw shredded cabbage is tough insoluble fiber that ferments into painful gas.",
       "prepOrOrderInstructions": "Raw Cabbage & Acid Warning: Avoid raw coleslaw and heavy BBQ sauces during active gut flares.",
       "_sourcePath": "src/data/items/lunch/knotts-boardwalk-bbq-pulled-pork-warning.json"
+    },
+    {
+      "id": "realgood-foods-chicken-enchiladas-costco-warning",
+      "name": "Real Good Foods Chicken Enchiladas Grande (Keto/Fiber Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Real Good Foods (Costco / Sam's Club)",
+      "crohnsScore": 4.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "costco",
+        "sams-club",
+        "realgood-foods",
+        "keto-warning",
+        "enchiladas",
+        "dairy-warning"
+      ],
+      "searchKeywords": [
+        "real good foods enchiladas",
+        "costco keto meals",
+        "low carb chicken enchiladas",
+        "chicken tortilla"
+      ],
+      "whyItWorks": "Uses a processed chicken-and-parmesan shell stuffed with cheese and green sauce. High levels of cheese, added functional fibers, and thick dairy fat can trigger gut distress despite low-carb claims.",
+      "prepOrOrderInstructions": "High Fat & Dairy Warning: Better to choose standard corn tortilla enchiladas with lean shredded chicken.",
+      "_sourcePath": "src/data/items/frozen-aisle/realgood-foods-chicken-enchiladas-costco-warning.json"
     },
     {
       "id": "takara-sushi-logan-spicy-crunch-salmon-warning",
@@ -55462,6 +57062,44 @@
         "Quinoa and corn filling"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/plaza-de-coco-blistered-poblano-pepper.json"
+    },
+    {
+      "id": "cafe-rio-creamy-tomatillo-ranch-warning",
+      "name": "Café Rio House Creamy Tomatillo Ranch Dressing (Warning)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+      "crohnsScore": 4.5,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "restaurant",
+        "utah",
+        "cafe-rio",
+        "tomatillo-ranch",
+        "dressing",
+        "dairy-warning"
+      ],
+      "searchKeywords": [
+        "cafe rio",
+        "tomatillo ranch",
+        "creamy dressing",
+        "house dressing"
+      ],
+      "whyItWorks": "Famous house dressing made by blending heavy mayonnaise, buttermilk, sour cream, raw jalapenos, cilantro, and garlic. The concentrated dairy fat and raw alliums/capsaicin frequently spark acute flare reactions.",
+      "prepOrOrderInstructions": "Dairy & Spice Warning: Avoid during flares. If in solid remission, ask for it on the side and use a light fork dip.",
+      "_sourcePath": "src/data/items/drinks-sauces/cafe-rio-creamy-tomatillo-ranch-warning.json"
     },
     {
       "id": "cafe-sabor-chino-latino-eggrolls-queso",
@@ -56725,6 +58363,45 @@
       "_sourcePath": "src/data/items/snacks-desserts/dca-pym-test-kitchen-atomic-fusion-buffalo-pretzel-warning.json"
     },
     {
+      "id": "don-lee-farms-veggie-bites-costco-warning",
+      "name": "Don Lee Farms Organic Veggie Bites (Raw Fiber Warning)",
+      "categoryFolder": "frozen-aisle",
+      "brandOrRestaurant": "Don Lee Farms (Costco)",
+      "crohnsScore": 4.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "grocery",
+        "bulk",
+        "costco",
+        "don-lee-farms",
+        "veggie-bites",
+        "roughage-warning",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "don lee farms veggie bites",
+        "costco organic veggie bites",
+        "veggie nuggets",
+        "fiber danger"
+      ],
+      "whyItWorks": "Compacted clusters of diced kale, carrots, corn, peas, and chia seeds. Packed with insoluble cellulose and unground seeds that can cause serious bowel obstruction in Crohn's patients with stricturing disease.",
+      "prepOrOrderInstructions": "Stricture & Roughage Hazard: Strictly avoid during active flares or known intestinal narrowings.",
+      "_sourcePath": "src/data/items/frozen-aisle/don-lee-farms-veggie-bites-costco-warning.json"
+    },
+    {
       "id": "holiday-creamed-sweet-corn-warning",
       "name": "Holiday Southern Creamed Sweet Corn (Insoluble Corn Hull Warning)",
       "categoryFolder": "produce-sides",
@@ -56845,6 +58522,47 @@
         "Insoluble corn hulls pass undigested and can block narrowed intestines"
       ],
       "_sourcePath": "src/data/items/produce-sides/knotts-boardwalk-bbq-roasted-corn-cob-warning.json"
+    },
+    {
+      "id": "penny-anns-cafe-country-fried-steak-gravy-warning",
+      "name": "Penny Ann's Country Fried Steak with Country Gravy (Warning)",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Penny Ann's Cafe (Draper, UT)",
+      "crohnsScore": 4.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "penny-anns",
+        "country-fried-steak",
+        "fried-food",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "penny anns cafe",
+        "country fried steak",
+        "sausage gravy",
+        "draper utah",
+        "high fat breakfast"
+      ],
+      "whyItWorks": "Tenderized cube steak battered in seasoned flour, deep-fried in shortening, and smothered in sausage country gravy. The combination of deep fryer lipids and sausage fat triggers violent gut contractions.",
+      "prepOrOrderInstructions": "High Fat & Grease Warning: Strictly avoid during flares. Choose grilled lean ham or soft scrambled eggs instead.",
+      "_sourcePath": "src/data/items/dinner/penny-anns-cafe-country-fried-steak-gravy-warning.json"
     },
     {
       "id": "dca-pym-test-kitchen-not-so-little-chicken-warning",
@@ -57089,6 +58807,82 @@
         "Raw romaine roughage"
       ],
       "_sourcePath": "src/data/items/mexican-southwest/plaza-de-coco-baby-romaine-avocado-salad.json"
+    },
+    {
+      "id": "black-bear-diner-american-fork-bacon-avocado-skillet-warning",
+      "name": "Black Bear Diner Volcano Bacon & Avocado Skillet (Danger Zone)",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Black Bear Diner (American Fork / Sandy, UT)",
+      "crohnsScore": 4,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "breakfast"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "american-fork",
+        "black-bear-diner",
+        "breakfast-skillet",
+        "high-fat",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "black bear diner",
+        "breakfast skillet",
+        "bacon avocado skillet",
+        "american fork"
+      ],
+      "whyItWorks": "A massive mountain of country fried red potatoes, thick smoked bacon, sausage, melted cheddar-jack, diced avocados, and sour cream. Over 60g of heavy grease and dairy sparks severe gut motility and diarrhea.",
+      "prepOrOrderInstructions": "High Fat & Grease Warning: Avoid breakfast skillets. Order 2 eggs scrambled soft with plain white toast instead.",
+      "_sourcePath": "src/data/items/breakfast/black-bear-diner-american-fork-bacon-avocado-skillet-warning.json"
+    },
+    {
+      "id": "costa-vida-sweet-pork-salad-enchilada-warning",
+      "name": "Costa Vida Sweet Pork Enchilada Salad (Grease & Dairy Warning)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Costa Vida Fresh Mexican Grill (Utah County / Salt Lake)",
+      "crohnsScore": 4,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5.5,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "restaurant",
+        "utah",
+        "costa-vida",
+        "sweet-pork-salad",
+        "mexican",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "costa vida",
+        "sweet pork salad",
+        "enchilada style salad",
+        "utah mexican"
+      ],
+      "whyItWorks": "Layered with a warm flour tortilla, sweet braised pork shoulder, whole beans, cheese, tortilla strips, and heavy creamy dressing. Combining high sugar, legumes, dairy fat, and fried strips triggers gastrocolic spasms.",
+      "prepOrOrderInstructions": "High Fat & Sugar Warning: Choose a simple grilled chicken taco on soft corn tortillas instead.",
+      "_sourcePath": "src/data/items/mexican-southwest/costa-vida-sweet-pork-salad-enchilada-warning.json"
     },
     {
       "id": "plaza-de-coco-pecan-tart",
@@ -57464,6 +59258,45 @@
         "Heavy cream base"
       ],
       "_sourcePath": "src/data/items/dinner/merrytime-harvest-corn-chowder.json"
+    },
+    {
+      "id": "cafe-rio-sweet-pork-barbacoa-burrito-warning",
+      "name": "Café Rio Sweet Pork Barbacoa Burrito (Enchilada Style Warning)",
+      "categoryFolder": "mexican-southwest",
+      "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+      "crohnsScore": 3.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 6.5,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "restaurant",
+        "utah",
+        "cafe-rio",
+        "sweet-pork",
+        "burrito",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "cafe rio",
+        "sweet pork burrito",
+        "enchilada style",
+        "utah mexican",
+        "pork barbacoa"
+      ],
+      "whyItWorks": "A giant flour tortilla wrapped around sweet braised pork, black or pinto beans, rice, and smothered in cheese and enchilada sauce. The enormous mass of whole beans, sugar glaze, melted cheese, and tomato acid creates severe distress.",
+      "prepOrOrderInstructions": "High Fiber & Sugar Warning: Avoid giant smothered burritos. Order 2 soft corn tacos with grilled chicken and white rice instead.",
+      "_sourcePath": "src/data/items/mexican-southwest/cafe-rio-sweet-pork-barbacoa-burrito-warning.json"
     },
     {
       "id": "some-beaches-laketown-double-bacon-cheeseburger-warning",
@@ -58154,6 +59987,46 @@
       "_sourcePath": "src/data/items/lunch/disneyland-cafe-orleans-monte-cristo-warning.json"
     },
     {
+      "id": "zao-asian-cafe-draper-chili-dragon-sauce-warning",
+      "name": "Zao Asian Cafe Red Chili Dragon Sauce (Capsaicin Danger Zone)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Zao Asian Cafe (Draper / Lehi / South Jordan)",
+      "crohnsScore": 3.2,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "lehi",
+        "zao-asian-cafe",
+        "dragon-sauce",
+        "spicy",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "zao asian cafe",
+        "dragon sauce",
+        "spicy chili sauce",
+        "draper utah"
+      ],
+      "whyItWorks": "Spicy red chili paste blended with sriracha, vinegar, and garlic. Intense capsaicin triggers burning along the mucosal lining and speeds peristalsis into painful diarrhea.",
+      "prepOrOrderInstructions": "Spicy Hazard: Avoid dragon sauce. Choose sweet teriyaki or ginger scallion sauce instead.",
+      "_sourcePath": "src/data/items/drinks-sauces/zao-asian-cafe-draper-chili-dragon-sauce-warning.json"
+    },
+    {
       "id": "dcl-room-service-buffalo-wings",
       "name": "24-Hour Room Service Crispy Buffalo Chicken Wings (Avoid)",
       "categoryFolder": "diner-bbq",
@@ -58618,6 +60491,46 @@
         "Wholegrain mustard seeds"
       ],
       "_sourcePath": "src/data/items/dinner/christmas-merrytime-marmalade-ham-cheddar-croquettes.json"
+    },
+    {
+      "id": "silverlake-ramen-riverton-spicy-tonkotsu-ramen-warning",
+      "name": "Silverlake Ramen Blaze Spicy Tonkotsu Ramen (Danger Zone)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Silverlake Ramen (Mountain View Village · Riverton, UT)",
+      "crohnsScore": 2.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "riverton",
+        "mountain-view-village",
+        "silverlake-ramen",
+        "spicy-ramen",
+        "danger-food"
+      ],
+      "searchKeywords": [
+        "silverlake ramen",
+        "spicy tonkotsu",
+        "blaze ramen",
+        "chili oil",
+        "riverton utah"
+      ],
+      "whyItWorks": "Pork marrow bones boiled for 16 hours emulsifying heavy animal fat, drenched in fiery red chili oil, crushed garlic, and cayenne paste. Capsaicin burns active ulcerations while the heavy pork fat stimulates intense diarrhea.",
+      "prepOrOrderInstructions": "Extreme Danger Warning: Avoid entirely. Order mild Shoyu ramen or plain steamed rice instead.",
+      "_sourcePath": "src/data/items/asian-indian/silverlake-ramen-riverton-spicy-tonkotsu-ramen-warning.json"
     },
     {
       "id": "dca-lucky-fortune-spicy-dan-dan-noodles-warning",
@@ -59177,6 +61090,45 @@
         "Almond meal fiber"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/captains-gala-orange-almond-cake.json"
+    },
+    {
+      "id": "leatherbys-creamery-draper-alligator-giant-sundae-warning",
+      "name": "Leatherby's \"Alligator\" Giant Family Ice Cream Sundae (Extreme Danger)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Leatherby's Family Creamery (Draper, UT)",
+      "crohnsScore": 1.8,
+      "safetyTier": "danger-zone",
+      "mealTypes": [
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "restaurant",
+        "utah",
+        "draper",
+        "leatherbys",
+        "ice-cream-sundae",
+        "danger-food",
+        "extreme-lactose"
+      ],
+      "searchKeywords": [
+        "leatherbys creamery",
+        "alligator sundae",
+        "giant ice cream",
+        "draper utah",
+        "lactose overload"
+      ],
+      "whyItWorks": "Served in a giant boat dish with 8 scoops of ice cream, chocolate fudge, caramel, toasted nuts, whipped cream, and cherries. Represents an overwhelming barrage of lactose, sugar, and whole nut obstruction risks.",
+      "prepOrOrderInstructions": "Extreme Danger Hazard: Never attempt with active IBD. Severe osmotic diarrhea, cramping, and stricture risk from nuts will follow.",
+      "_sourcePath": "src/data/items/snacks-desserts/leatherbys-creamery-draper-alligator-giant-sundae-warning.json"
     },
     {
       "id": "dca-adorable-snowman-lemon-soft-serve-citrus-warning",

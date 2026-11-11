@@ -1,0 +1,39 @@
+{
+  "id": "kevins-natural-foods-chicken-tikka-masala-costco",
+  "name": "Kevin's Natural Foods Chicken Tikka Masala (Costco 2-Pack)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Kevin's Natural Foods (Costco / Sam's Club)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "costco",
+    "sams-club",
+    "kevins-natural-foods",
+    "dairy-free",
+    "gluten-free",
+    "chicken-tikka"
+  ],
+  "searchKeywords": [
+    "kevins chicken tikka masala",
+    "costco refrigerated meals",
+    "dairy free indian",
+    "paleo chicken"
+  ],
+  "whyItWorks": "Made with sous-vide cooked, ultra-tender chicken breast and a coconut-milk-based curry sauce instead of heavy cream or butter. Certified gluten-free and dairy-free with clean ingredients that avoid inflammatory dairy fats.",
+  "prepOrOrderInstructions": "Sear chicken in a skillet for 1-2 minutes, drain juices, and simmer in the coconut tikka sauce. Serve over a bowl of plain steamed white basmati or jasmine rice."
+}

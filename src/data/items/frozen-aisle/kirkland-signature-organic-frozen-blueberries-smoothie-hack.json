@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-organic-frozen-blueberries-smoothie-hack",
+  "name": "Kirkland Signature Organic Frozen Blueberries (Strained Smoothie Hack)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "frozen-blueberries",
+    "antioxidants",
+    "smoothie"
+  ],
+  "searchKeywords": [
+    "costco frozen blueberries",
+    "kirkland organic berries",
+    "smoothie berries",
+    "wild blueberries"
+  ],
+  "whyItWorks": "Rich in anthocyanins and polyphenols shown to reduce gut inflammation. While eating whole raw berries passes insoluble skin flakes, high-speed blending or straining into a smooth beverage provides all the anti-inflammatory benefits without roughage.",
+  "prepOrOrderInstructions": "Blend completely in a high-powered blender with lactose-free almond milk or water until smooth. Strain through a fine mesh sieve if strictures are present."
+}

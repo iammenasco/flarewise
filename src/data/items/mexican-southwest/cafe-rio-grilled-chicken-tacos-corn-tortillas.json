@@ -1,0 +1,38 @@
+{
+  "id": "cafe-rio-grilled-chicken-tacos-corn-tortillas",
+  "name": "Café Rio Fire-Grilled Chicken Tacos on Warm Corn Tortillas",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+  "crohnsScore": 8.3,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "cafe-rio",
+    "grilled-chicken",
+    "tacos",
+    "corn-tortillas"
+  ],
+  "searchKeywords": [
+    "cafe rio",
+    "grilled chicken tacos",
+    "corn tortillas",
+    "utah mexican",
+    "clean eating"
+  ],
+  "whyItWorks": "Marinated breast meat grilled over open fire, served in soft warm corn tortillas without greasy frying oil, cheese, or beans. Clean, easily digested protein and gentle gluten-free corn starch.",
+  "prepOrOrderInstructions": "Specify: 2 corn tortillas, grilled chicken only. Skip black/pinto beans, cheese, pico de gallo, and romaine lettuce. Pair with plain white rice."
+}

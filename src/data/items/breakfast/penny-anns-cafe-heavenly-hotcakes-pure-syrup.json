@@ -1,0 +1,37 @@
+{
+  "id": "penny-anns-cafe-heavenly-hotcakes-pure-syrup",
+  "name": "Penny Ann's Famous \"Heavenly Hotcakes\" with Warm Syrup",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Penny Ann's Cafe (Draper, UT)",
+  "crohnsScore": 8.2,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "penny-anns",
+    "hotcakes",
+    "pancakes",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "penny anns cafe",
+    "heavenly hotcakes",
+    "draper utah breakfast",
+    "sour cream pancakes"
+  ],
+  "whyItWorks": "Award-winning light, fluffy sour cream pancakes. The cultured sour cream in the batter creates an exceptionally tender crumb that dissolves quickly in the stomach without tough fiber or heavy grease.",
+  "prepOrOrderInstructions": "Enjoy with warm maple or pancake syrup. Order butter on the side and skip side bacon or sausage if fat-sensitive."
+}

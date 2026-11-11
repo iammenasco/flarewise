@@ -1,0 +1,41 @@
+{
+  "id": "amylu-apple-gouda-chicken-sausage-costco",
+  "name": "Amylu Organic Apple & Gouda Fully Cooked Chicken Sausage (Costco)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Amylu (Costco)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat",
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "amylu",
+    "chicken-sausage",
+    "gluten-free",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "amylu chicken sausage",
+    "costco amylu",
+    "apple gouda sausage",
+    "gluten free sausage"
+  ],
+  "whyItWorks": "Fully cooked skinless chicken sausages made with coarse-ground chicken breast and dried apple bits. Contains far less grease and nitrates than pork sausage links, offering gentle breakfast protein.",
+  "prepOrOrderInstructions": "Warm gently in a skillet or toaster oven without charring. Gouda is aged and naturally low in lactose, but enjoy in moderate portion (1 link)."
+}

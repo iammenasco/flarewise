@@ -1,0 +1,38 @@
+{
+  "id": "kneaders-fruit-tart-fresh-berries-warning",
+  "name": "Kneaders European Fruit Tart with Vanilla Custard (Warning)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kneaders Bakery & Cafe (Lehi, Orem, Draper)",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dessert",
+    "snack"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "kneaders",
+    "fruit-tart",
+    "bakery",
+    "berries-warning"
+  ],
+  "searchKeywords": [
+    "kneaders",
+    "fruit tart",
+    "fresh berries",
+    "bakery dessert",
+    "pastry"
+  ],
+  "whyItWorks": "A shortbread butter tart shell filled with rich dairy custard and topped with raw whole raspberries, blackberries, blueberries, and kiwi. Raw whole blackberry and raspberry seeds are hard mechanical irritants.",
+  "prepOrOrderInstructions": "Seed & Dairy Warning: Avoid raw seed-heavy tarts. Choose a slice of plain cinnamon swirl bread or sugar cookie instead."
+}

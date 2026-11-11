@@ -1,0 +1,39 @@
+{
+  "id": "zao-asian-cafe-draper-chili-dragon-sauce-warning",
+  "name": "Zao Asian Cafe Red Chili Dragon Sauce (Capsaicin Danger Zone)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Zao Asian Cafe (Draper / Lehi / South Jordan)",
+  "crohnsScore": 3.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "lehi",
+    "zao-asian-cafe",
+    "dragon-sauce",
+    "spicy",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "zao asian cafe",
+    "dragon sauce",
+    "spicy chili sauce",
+    "draper utah"
+  ],
+  "whyItWorks": "Spicy red chili paste blended with sriracha, vinegar, and garlic. Intense capsaicin triggers burning along the mucosal lining and speeds peristalsis into painful diarrhea.",
+  "prepOrOrderInstructions": "Spicy Hazard: Avoid dragon sauce. Choose sweet teriyaki or ginger scallion sauce instead."
+}

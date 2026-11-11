@@ -1,0 +1,37 @@
+{
+  "id": "costa-vida-sweet-pork-salad-enchilada-warning",
+  "name": "Costa Vida Sweet Pork Enchilada Salad (Grease & Dairy Warning)",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Costa Vida Fresh Mexican Grill (Utah County / Salt Lake)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "costa-vida",
+    "sweet-pork-salad",
+    "mexican",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "costa vida",
+    "sweet pork salad",
+    "enchilada style salad",
+    "utah mexican"
+  ],
+  "whyItWorks": "Layered with a warm flour tortilla, sweet braised pork shoulder, whole beans, cheese, tortilla strips, and heavy creamy dressing. Combining high sugar, legumes, dairy fat, and fried strips triggers gastrocolic spasms.",
+  "prepOrOrderInstructions": "High Fat & Sugar Warning: Choose a simple grilled chicken taco on soft corn tortillas instead."
+}

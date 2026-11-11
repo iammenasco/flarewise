@@ -1,0 +1,38 @@
+{
+  "id": "don-lee-farms-veggie-bites-costco-warning",
+  "name": "Don Lee Farms Organic Veggie Bites (Raw Fiber Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Don Lee Farms (Costco)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "don-lee-farms",
+    "veggie-bites",
+    "roughage-warning",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "don lee farms veggie bites",
+    "costco organic veggie bites",
+    "veggie nuggets",
+    "fiber danger"
+  ],
+  "whyItWorks": "Compacted clusters of diced kale, carrots, corn, peas, and chia seeds. Packed with insoluble cellulose and unground seeds that can cause serious bowel obstruction in Crohn's patients with stricturing disease.",
+  "prepOrOrderInstructions": "Stricture & Roughage Hazard: Strictly avoid during active flares or known intestinal narrowings."
+}

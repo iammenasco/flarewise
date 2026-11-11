@@ -1,0 +1,38 @@
+{
+  "id": "kevins-natural-foods-roasted-garlic-chicken-costco",
+  "name": "Kevin's Natural Foods Roasted Garlic Chicken (Costco 2-Pack)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Kevin's Natural Foods (Costco / Sam's Club)",
+  "crohnsScore": 7.7,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop",
+    "skillet"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "costco",
+    "sams-club",
+    "kevins-natural-foods",
+    "roasted-garlic-chicken",
+    "dairy-free"
+  ],
+  "searchKeywords": [
+    "kevins garlic chicken",
+    "costco refrigerated meals",
+    "paleo chicken breast",
+    "dairy free"
+  ],
+  "whyItWorks": "Sous-vide chicken breast in a smooth roasted garlic chicken broth reduction. Roasting garlic breaks down raw allium fructans, making it far milder on the gut than raw garlic sauces.",
+  "prepOrOrderInstructions": "Warm chicken in skillet and heat sauce until bubbly. Pair with smooth peeled mashed potatoes or white rice."
+}

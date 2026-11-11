@@ -1,0 +1,37 @@
+{
+  "id": "kneaders-slow-roasted-turkey-sourdough-sandwich",
+  "name": "Kneaders Slow-Roasted Turkey on Country White or Sourdough",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Kneaders Bakery & Cafe (Lehi, Orem, Draper)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "kneaders",
+    "turkey-sandwich",
+    "sourdough",
+    "deli"
+  ],
+  "searchKeywords": [
+    "kneaders",
+    "slow roasted turkey",
+    "sourdough sandwich",
+    "utah lunch"
+  ],
+  "whyItWorks": "Freshly roasted, tender white turkey breast carved in-house served on soft bakery country white or sourdough bread. Free of tough gristle, rough bran, or inflammatory seasonings.",
+  "prepOrOrderInstructions": "Order turkey on country white or sourdough bread. Skip raw red onions, tomatoes, lettuce, and bacon. Light mayo is fine."
+}

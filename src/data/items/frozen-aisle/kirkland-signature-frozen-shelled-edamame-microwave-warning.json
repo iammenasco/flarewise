@@ -1,0 +1,38 @@
+{
+  "id": "kirkland-signature-frozen-shelled-edamame-microwave-warning",
+  "name": "Kirkland Signature Frozen Shelled Edamame (Soy/Fiber Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 5.4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "snack",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 6,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "frozen-edamame",
+    "soybeans",
+    "fiber-warning"
+  ],
+  "searchKeywords": [
+    "costco edamame",
+    "kirkland shelled edamame",
+    "frozen soybeans",
+    "high fiber snack"
+  ],
+  "whyItWorks": "Whole young soybeans contain 6 grams of dense insoluble fiber and galacto-oligosaccharides per cup. Whole legumes resist complete breakdown and can induce severe gas pressure and mechanical irritation in narrowed bowels.",
+  "prepOrOrderInstructions": "High Fiber & Gas Warning: Avoid if experiencing bloating or strictures. In remission, eat small portions and chew thoroughly."
+}

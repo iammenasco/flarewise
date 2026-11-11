@@ -1,0 +1,37 @@
+{
+  "id": "costa-vida-grilled-chicken-corn-tacos",
+  "name": "Costa Vida Grilled Chicken Tacos on Warm Corn Tortillas",
+  "categoryFolder": "mexican-southwest",
+  "brandOrRestaurant": "Costa Vida Fresh Mexican Grill (Utah County / Salt Lake)",
+  "crohnsScore": 8.4,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "costa-vida",
+    "grilled-chicken",
+    "corn-tacos",
+    "clean-meal"
+  ],
+  "searchKeywords": [
+    "costa vida",
+    "grilled chicken tacos",
+    "corn tortillas",
+    "utah mexican"
+  ],
+  "whyItWorks": "Marinated, fire-grilled chicken breast served in soft warm corn tortillas without beans, sour cream, or fried shells. Clean, low-residue Mexican food.",
+  "prepOrOrderInstructions": "Order grilled chicken tacos on corn tortillas with chicken only. Skip beans, cheese, pico, and lettuce. Pair with white rice."
+}

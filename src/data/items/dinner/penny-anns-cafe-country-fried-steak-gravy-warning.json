@@ -1,0 +1,40 @@
+{
+  "id": "penny-anns-cafe-country-fried-steak-gravy-warning",
+  "name": "Penny Ann's Country Fried Steak with Country Gravy (Warning)",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Penny Ann's Cafe (Draper, UT)",
+  "crohnsScore": 4.2,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "penny-anns",
+    "country-fried-steak",
+    "fried-food",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "penny anns cafe",
+    "country fried steak",
+    "sausage gravy",
+    "draper utah",
+    "high fat breakfast"
+  ],
+  "whyItWorks": "Tenderized cube steak battered in seasoned flour, deep-fried in shortening, and smothered in sausage country gravy. The combination of deep fryer lipids and sausage fat triggers violent gut contractions.",
+  "prepOrOrderInstructions": "High Fat & Grease Warning: Strictly avoid during flares. Choose grilled lean ham or soft scrambled eggs instead."
+}

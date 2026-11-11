@@ -1,0 +1,39 @@
+{
+  "id": "zao-asian-cafe-draper-seared-chicken-jasmine-rice-bowl",
+  "name": "Zao Asian Cafe Seared Chicken Breast & Jasmine Rice Bowl",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Zao Asian Cafe (Draper / Lehi / South Jordan)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "lehi",
+    "zao-asian-cafe",
+    "rice-bowl",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "zao asian cafe",
+    "chicken rice bowl",
+    "draper utah",
+    "jasmine rice",
+    "clean eating"
+  ],
+  "whyItWorks": "Seared lean chicken breast served over warm steamed white jasmine rice with light teriyaki glaze. Naturally dairy-free, low in fat, and devoid of tough vegetables or irritating seeds.",
+  "prepOrOrderInstructions": "Build a custom bowl: Base of jasmine white rice, protein of seared chicken breast, light teriyaki sauce. Skip raw carrots, wok vegetables, edamame, and spicy dragon sauce."
+}

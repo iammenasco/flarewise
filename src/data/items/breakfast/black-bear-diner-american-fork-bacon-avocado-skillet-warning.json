@@ -1,0 +1,37 @@
+{
+  "id": "black-bear-diner-american-fork-bacon-avocado-skillet-warning",
+  "name": "Black Bear Diner Volcano Bacon & Avocado Skillet (Danger Zone)",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Black Bear Diner (American Fork / Sandy, UT)",
+  "crohnsScore": 4,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "american-fork",
+    "black-bear-diner",
+    "breakfast-skillet",
+    "high-fat",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "black bear diner",
+    "breakfast skillet",
+    "bacon avocado skillet",
+    "american fork"
+  ],
+  "whyItWorks": "A massive mountain of country fried red potatoes, thick smoked bacon, sausage, melted cheddar-jack, diced avocados, and sour cream. Over 60g of heavy grease and dairy sparks severe gut motility and diarrhea.",
+  "prepOrOrderInstructions": "High Fat & Grease Warning: Avoid breakfast skillets. Order 2 eggs scrambled soft with plain white toast instead."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "kneaders-chunky-cinnamon-french-toast-caramel-syrup",
+  "name": "Kneaders Chunky Cinnamon French Toast with Caramel Syrup",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Kneaders Bakery & Cafe (Lehi, Orem, Draper)",
+  "crohnsScore": 7.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "kneaders",
+    "french-toast",
+    "bakery",
+    "breakfast"
+  ],
+  "searchKeywords": [
+    "kneaders",
+    "chunky cinnamon french toast",
+    "caramel syrup",
+    "utah breakfast",
+    "bakery"
+  ],
+  "whyItWorks": "Famous thick slices of Kneaders Chunky Cinnamon bread dipped in egg custard and griddled soft. Refined flour and egg provide easily broken-down carbohydrates and gentle protein without rough seed fibers.",
+  "prepOrOrderInstructions": "Ask for warm caramel syrup or maple syrup in moderation on the side. Skip whipped cream if lactose intolerant."
+}

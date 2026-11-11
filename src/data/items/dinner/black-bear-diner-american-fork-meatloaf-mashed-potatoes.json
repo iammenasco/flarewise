@@ -1,0 +1,37 @@
+{
+  "id": "black-bear-diner-american-fork-meatloaf-mashed-potatoes",
+  "name": "Black Bear Diner Homestyle Meatloaf with Brown Gravy",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Black Bear Diner (American Fork / Sandy, UT)",
+  "crohnsScore": 7.4,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "american-fork",
+    "black-bear-diner",
+    "meatloaf",
+    "comfort-food"
+  ],
+  "searchKeywords": [
+    "black bear diner",
+    "homestyle meatloaf",
+    "american fork utah",
+    "mashed potatoes"
+  ],
+  "whyItWorks": "Seasoned ground beef baked into classic meatloaf and served with brown gravy over mashed potatoes. Meat is soft and easy to chew, but contains onion seasoning and breading requiring baseline tolerance.",
+  "prepOrOrderInstructions": "Pair with smooth mashed potatoes and gravy. Discard outer heavily glazed crust if tomato sauce causes acid reflux."
+}

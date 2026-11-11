@@ -1,0 +1,40 @@
+{
+  "id": "kirkland-signature-italian-style-beef-meatballs-frozen-warning",
+  "name": "Kirkland Signature Italian Style Beef Meatballs (Frozen 6 lb Bag Warning)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 5.6,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "dinner",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "toaster-oven",
+    "slow-cooker",
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "frozen-meatballs",
+    "allium-warning",
+    "danger-food"
+  ],
+  "searchKeywords": [
+    "costco meatballs",
+    "kirkland frozen meatballs",
+    "italian meatballs",
+    "beef pork meatballs"
+  ],
+  "whyItWorks": "Pre-cooked beef and pork meatballs packed with granulated onion, garlic powder, Romano cheese, and soy protein. The heavy concentration of dried alliums and rendered animal fat can provoke severe heartburn and loose stools.",
+  "prepOrOrderInstructions": "Allium & Fat Warning: Savor only 2-3 meatballs during remission. Avoid during active flare-ups in favor of pure ground poultry."
+}

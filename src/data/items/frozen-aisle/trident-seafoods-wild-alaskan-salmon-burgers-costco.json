@@ -1,0 +1,39 @@
+{
+  "id": "trident-seafoods-wild-alaskan-salmon-burgers-costco",
+  "name": "Trident Seafoods Wild Alaskan Salmon Burgers (Costco Frozen 12-Pack)",
+  "categoryFolder": "frozen-aisle",
+  "brandOrRestaurant": "Trident Seafoods (Costco / Sam's Club)",
+  "crohnsScore": 8.8,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "skillet",
+    "toaster-oven"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "sams-club",
+    "salmon-burgers",
+    "wild-seafood",
+    "omega-3"
+  ],
+  "searchKeywords": [
+    "trident salmon burgers",
+    "costco frozen salmon patties",
+    "wild alaska salmon",
+    "seafood burger"
+  ],
+  "whyItWorks": "Formed from 100% wild-caught Alaskan salmon with light seasoning and zero dairy or fillers. Rich in natural omega-3 fatty acids that dampen intestinal inflammation, serving as an easy burger alternative.",
+  "prepOrOrderInstructions": "Cook directly from frozen on a lightly oiled skillet for 4-5 minutes per side. Serve on a plain white bun with light mayo or plain white rice."
+}

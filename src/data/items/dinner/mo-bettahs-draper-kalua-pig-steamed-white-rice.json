@@ -1,0 +1,39 @@
+{
+  "id": "mo-bettahs-draper-kalua-pig-steamed-white-rice",
+  "name": "Mo' Bettahs Hawaiian Style Kalua Pig with Steamed White Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Mo' Bettahs Hawaiian Style (Draper / Lehi / Herriman)",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "draper",
+    "lehi",
+    "mo-bettahs",
+    "kalua-pork",
+    "white-rice"
+  ],
+  "searchKeywords": [
+    "mo bettahs",
+    "kalua pig",
+    "white rice",
+    "draper utah",
+    "hawaiian food"
+  ],
+  "whyItWorks": "Slow-roasted, tender shredded pork shoulder seasoned with sea salt and liquid smoke, served over scoops of steaming white rice. Extremely tender, dairy-free, and virtually zero insoluble roughage.",
+  "prepOrOrderInstructions": "Order the Mini or Regular plate with Kalua Pig and double white rice. Skip the macaroni salad (heavy mayo/dairy) and teri sauce."
+}

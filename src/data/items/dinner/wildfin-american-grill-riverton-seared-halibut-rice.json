@@ -1,0 +1,38 @@
+{
+  "id": "wildfin-american-grill-riverton-seared-halibut-rice",
+  "name": "WildFin Pan-Seared Pacific Halibut with Jasmine Rice",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "WildFin American Grill (Mountain View Village · Riverton, UT)",
+  "crohnsScore": 9,
+  "safetyTier": "flare-safe",
+  "mealTypes": [
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "restaurant",
+    "utah",
+    "riverton",
+    "mountain-view-village",
+    "wildfin",
+    "halibut",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "wildfin grill",
+    "pacific halibut",
+    "jasmine rice",
+    "riverton utah",
+    "seafood"
+  ],
+  "whyItWorks": "Halibut is an ultra-lean, mild white fish with delicate flaky flesh that is effortless for an inflamed intestine to absorb. Paired with steamed jasmine rice, it is one of the safest high-end dinners in Riverton.",
+  "prepOrOrderInstructions": "Request halibut pan-seared with olive oil and salt only. Pair with plain steamed jasmine rice and skip asparagus spears or charred broccolini."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kirkland-signature-wild-cold-smoked-salmon-lox",
+  "name": "Kirkland Signature Wild Smoked Sockeye Salmon Lox (2 x 12 oz)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Costco (Kirkland Signature)",
+  "crohnsScore": 8.9,
+  "safetyTier": "low-risk",
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "bulk",
+    "costco",
+    "kirkland",
+    "smoked-salmon",
+    "lox",
+    "seafood",
+    "omega-3"
+  ],
+  "searchKeywords": [
+    "costco smoked salmon",
+    "kirkland sockeye lox",
+    "cured salmon",
+    "cold smoked fish"
+  ],
+  "whyItWorks": "Thinly sliced, cold-smoked wild Alaskan salmon melts in the mouth with zero chewing effort. High in natural omega-3 fats with zero rough fiber, making it an excellent topping for sourdough or plain bagels.",
+  "prepOrOrderInstructions": "Eat chilled right from the pack. Note: High in natural salt; drink plenty of water alongside."
+}

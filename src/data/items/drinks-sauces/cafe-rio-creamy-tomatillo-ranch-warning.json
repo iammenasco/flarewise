@@ -1,0 +1,37 @@
+{
+  "id": "cafe-rio-creamy-tomatillo-ranch-warning",
+  "name": "Café Rio House Creamy Tomatillo Ranch Dressing (Warning)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Café Rio Mexican Grill (Utah County / Salt Lake)",
+  "crohnsScore": 4.5,
+  "safetyTier": "danger-zone",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "restaurant",
+    "utah",
+    "cafe-rio",
+    "tomatillo-ranch",
+    "dressing",
+    "dairy-warning"
+  ],
+  "searchKeywords": [
+    "cafe rio",
+    "tomatillo ranch",
+    "creamy dressing",
+    "house dressing"
+  ],
+  "whyItWorks": "Famous house dressing made by blending heavy mayonnaise, buttermilk, sour cream, raw jalapenos, cilantro, and garlic. The concentrated dairy fat and raw alliums/capsaicin frequently spark acute flare reactions.",
+  "prepOrOrderInstructions": "Dairy & Spice Warning: Avoid during flares. If in solid remission, ask for it on the side and use a light fork dip."
+}

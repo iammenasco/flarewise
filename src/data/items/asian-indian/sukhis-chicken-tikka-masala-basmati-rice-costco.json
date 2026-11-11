@@ -1,0 +1,37 @@
+{
+  "id": "sukhis-chicken-tikka-masala-basmati-rice-costco",
+  "name": "Sukhi's Gourmet Chicken Tikka Masala with Basmati Rice (Costco 2-Pack)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Sukhi's (Costco)",
+  "crohnsScore": 7.2,
+  "safetyTier": "remission-road",
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Indian",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "grocery",
+    "costco",
+    "sukhis",
+    "chicken-tikka-masala",
+    "curry",
+    "basmati-rice"
+  ],
+  "searchKeywords": [
+    "sukhis chicken tikka",
+    "costco indian meal",
+    "tikka masala rice",
+    "ready to eat curry"
+  ],
+  "whyItWorks": "Boneless chicken breast in a creamy tomato tikka sauce paired with fluffy basmati rice. Basmati rice is exceptionally easy to digest, though the curry sauce contains cream and tomato spices best suited for remission.",
+  "prepOrOrderInstructions": "Warm thoroughly and mix chicken with plenty of basmati rice to temper the rich curry sauce. Drink with water."
+}
