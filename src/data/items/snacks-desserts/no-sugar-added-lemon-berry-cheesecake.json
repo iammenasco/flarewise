@@ -1,31 +1,45 @@
 {
+  "id": "no-sugar-added-lemon-berry-cheesecake",
   "name": "No-Sugar-Added Lemon Berry Cheesecake",
   "categoryFolder": "snacks-desserts",
-  "crohnsScore": 8.2,
-  "safetyTier": "low-risk",
+  "brandOrRestaurant": "Disney Cruise Line · Main Dining Rooms",
+  "crohnsScore": 7,
+  "safetyTier": "remission-road",
   "mealTypes": [
     "dessert"
   ],
   "region": "American",
   "costTier": 2,
+  "convenienceScore": 5,
   "prepMethod": [
     "ready-to-eat"
   ],
-  "fiberGramsPerServing": 0,
-  "lactoseSafe": true,
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": false,
   "citrusFree": false,
   "tags": [
     "cheesecake",
+    "dessert",
     "sweet",
-    "no-sugar-added"
+    "no-sugar-added",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "disney-treasure"
   ],
   "searchKeywords": [
-    "lemon",
-    "berry",
-    "cheesecake"
+    "no sugar added cheesecake",
+    "lemon berry cheesecake",
+    "sugar free dessert",
+    "disney cruise dessert"
   ],
-  "whyItWorks": "A smooth, low-sugar dessert that fits the everyday tier.",
-  "prepOrOrderInstructions": "Keep refrigerated.",
-  "convenienceScore": 5,
-  "id": "no-sugar-added-lemon-berry-cheesecake"
+  "whyItWorks": "Whipped cheesecake mousse has a smooth, zero-roughage texture, but lemon citrus, berry seeds, and sugar alcohols in \"no-sugar-added\" desserts make it a careful/good-day pick.",
+  "prepOrOrderInstructions": "Skip if you follow a strict citrus guardrail or if sugar alcohols (maltitol/sorbitol) trigger osmotic urgency. Otherwise, scrape off any whole berry garnish with seeds and enjoy the smooth filling.",
+  "flareEmergencySwap": "Order plain vanilla ice cream / Mickey Premium Ice Cream Bar or warm Crème Brûlée (without berries) instead.",
+  "watchOuts": [
+    "Lemon juice/zest (citrus guardrail)",
+    "Sugar alcohols / artificial sweeteners in no-sugar-added desserts",
+    "Whole berry seeds on top",
+    "Cream cheese lactose"
+  ]
 }
