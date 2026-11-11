@@ -51,6 +51,10 @@ export function usePreferences() {
     })
   }
 
+  function setShowServerCard(showServerCard: boolean) {
+    setPrefs((prev) => ({ ...prev, showServerCard }))
+  }
+
   function setPersonalStatus(id: string, status: PersonalStatus | undefined) {
     setPrefs((prev) => {
       const personalStatus = { ...prev.personalStatus }
@@ -104,6 +108,7 @@ export function usePreferences() {
     toggleGrocery,
     setMinScore,
     setGuardrails,
+    setShowServerCard,
     setPersonalStatus,
     toggleCheckedIngredient,
     clearGrocery,

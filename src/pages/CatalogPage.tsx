@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { Plus, Search, SlidersHorizontal, Sparkles, X } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { FilterPanel, ModeChips } from '../components/FilterBar'
@@ -23,6 +23,7 @@ export function CatalogPage() {
     toggleGrocery,
     setMinScore,
     setGuardrails,
+    setShowServerCard,
     setPersonalStatus,
     toggleCheckedIngredient,
     clearGrocery,
@@ -38,6 +39,8 @@ export function CatalogPage() {
   const [visibleCount, setVisibleCount] = useState(40)
   const [picks, setPicks] = useState(() => pickForMe(filtered))
   const [buildInfo, setBuildInfo] = useState<{ builtAt?: string } | null>(null)
+  const foodScrollRef = useRef<HTMLDivElement>(null)
+  const loadMoreRef = useRef<HTMLDivElement>(null)
   const { online, justReconnected, dismissReconnect } = useJustReconnected()
   const pendingCount =
     justReconnected && online ? countPendingSubmissions() : 0
@@ -60,6 +63,27 @@ export function CatalogPage() {
   const visibleFoods = useMemo(() => {
     return filtered.slice(0, visibleCount)
   }, [filtered, visibleCount])
+
+  const hasMore = filtered.length > visibleCount
+
+  useEffect(() => {
+    const root = foodScrollRef.current
+    const target = loadMoreRef.current
+    if (!root || !target || !hasMore) return
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((entry) => entry.isIntersecting)) {
+          setVisibleCount((count) =>
+            Math.min(count + 40, filtered.length),
+          )
+        }
+      },
+      { root, rootMargin: '200px 0px', threshold: 0 },
+    )
+    observer.observe(target)
+    return () => observer.disconnect()
+  }, [filtered.length, hasMore, visibleCount])
 
   useEffect(() => {
     void fetch(`${import.meta.env.BASE_URL}build-info.json`)
@@ -258,7 +282,10 @@ export function CatalogPage() {
           ) : null}
         </div>
 
-        <div className="food-scroll min-h-0 flex-1 space-y-2.5 overflow-y-auto overscroll-contain pb-[max(1rem,env(safe-area-inset-bottom))]">
+        <div
+          ref={foodScrollRef}
+          className="food-scroll min-h-0 flex-1 space-y-2.5 overflow-y-auto overscroll-contain pb-[max(1rem,env(safe-area-inset-bottom))]"
+        >
           {filters.mode === 'grocery' ? (
             <GroceryPanel
               prefs={prefs}
@@ -281,15 +308,13 @@ export function CatalogPage() {
             />
           ))}
 
-          {filtered.length > visibleCount ? (
-            <div className="pt-2 pb-4 text-center">
-              <button
-                type="button"
-                onClick={() => setVisibleCount((c) => c + 40)}
-                className="btn btn-ghost !min-h-10 !px-4 !text-xs font-semibold text-[var(--brand)]"
-              >
-                Show more foods ({filtered.length - visibleCount} remaining)
-              </button>
+          {hasMore ? (
+            <div
+              ref={loadMoreRef}
+              className="pt-1 pb-3 text-center text-[11px] font-medium text-[var(--brand-ink)]/45"
+              aria-hidden="true"
+            >
+              Loading more…
             </div>
           ) : null}
 
@@ -392,6 +417,7 @@ export function CatalogPage() {
               citrusFreeOnly={prefs.guardrails.citrusFreeOnly}
               cruiseMode={prefs.guardrails.cruiseMode}
               showDangerZone={prefs.guardrails.showDangerZone}
+              showServerCard={prefs.showServerCard}
               onToggleGuardrail={(key) => {
                 if (key === 'showDangerZone') {
                   setGuardrails({ showDangerZone: !prefs.guardrails.showDangerZone })
@@ -403,6 +429,9 @@ export function CatalogPage() {
                 }
                 setGuardrails({ [key]: !prefs.guardrails[key] })
               }}
+              onToggleShowServerCard={() =>
+                setShowServerCard(!prefs.showServerCard)
+              }
               onSelectDestination={selectDestination}
               onClearExtra={clearExtraFilters}
             />
@@ -425,6 +454,7 @@ export function CatalogPage() {
         personalStatus={
           selected ? prefs.personalStatus[selected.id] : undefined
         }
+        showServerCard={prefs.showServerCard}
         onClose={() => setSelected(null)}
         onToggleStar={() => selected && toggleStar(selected.id)}
         onToggleCart={() => selected && toggleGrocery(selected.id)}

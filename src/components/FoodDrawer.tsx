@@ -28,6 +28,7 @@ interface FoodDrawerProps {
   starred: boolean
   inCart: boolean
   personalStatus?: PersonalStatus
+  showServerCard?: boolean
   onClose: () => void
   onToggleStar: () => void
   onToggleCart: () => void
@@ -52,6 +53,7 @@ export function FoodDrawer({
   starred,
   inCart,
   personalStatus,
+  showServerCard = false,
   onClose,
   onToggleStar,
   onToggleCart,
@@ -201,7 +203,7 @@ export function FoodDrawer({
               <h3 className="font-bold text-[var(--brand-ink)]">
                 Prep / order script
               </h3>
-              {item.prepOrOrderInstructions ? (
+              {showServerCard && item.prepOrOrderInstructions ? (
                 <button
                   type="button"
                   onClick={() => setServerCardOpen(true)}
@@ -284,7 +286,7 @@ export function FoodDrawer({
         </a>
       </div>
 
-      {serverCardOpen ? (
+      {showServerCard && serverCardOpen ? (
         <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm">
           <div className="w-full max-w-md rounded-3xl bg-white p-6 shadow-2xl text-[var(--brand-ink)] border-2 border-[var(--brand)]">
             <div className="mb-4 flex items-start justify-between">

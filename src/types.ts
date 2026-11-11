@@ -97,4 +97,6 @@ export interface CatalogPreferences {
   minScore: number
   guardrails: Guardrails
   personalStatus: Record<string, PersonalStatus>
+  /** Opt-in: show "Show server card" on food drawers. Off by default. */
+  showServerCard: boolean
 }
