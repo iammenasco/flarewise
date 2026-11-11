@@ -2,29 +2,46 @@
   "id": "ginger-teriyaki-angus-beef-tenderloin",
   "name": "Ginger-Teriyaki Dusted Angus Beef Tenderloin",
   "categoryFolder": "high-protein",
-  "crohnsScore": 7,
-  "safetyTier": "remission-road",
+  "brandOrRestaurant": "Disney Wonder & Magic · Animator's Palate",
+  "crohnsScore": 8.5,
+  "safetyTier": "low-risk",
   "mealTypes": [
     "dinner"
   ],
   "region": "Global",
   "costTier": 3,
-  "convenienceScore": 2,
+  "convenienceScore": 5,
   "prepMethod": [
-    "skillet"
+    "skillet",
+    "ready-to-eat"
   ],
-  "fiberGramsPerServing": 0,
+  "fiberGramsPerServing": 1,
   "lactoseSafe": true,
-  "citrusFree": false,
+  "citrusFree": true,
   "tags": [
     "beef",
     "tenderloin",
     "ginger",
-    "teriyaki"
+    "teriyaki",
+    "steak",
+    "high-protein",
+    "disney-cruise",
+    "disney-wonder",
+    "disney-magic",
+    "animators-palate"
   ],
   "searchKeywords": [
-    "teriyaki-beef"
+    "ginger teriyaki beef tenderloin",
+    "animators palate steak",
+    "angus beef tenderloin",
+    "disney wonder",
+    "disney magic"
   ],
-  "whyItWorks": "High protein source.",
-  "prepOrOrderInstructions": "Serve warm."
+  "whyItWorks": "Center-cut beef tenderloin (filet) has almost zero tough connective tissue, and the ginger-teriyaki crust adds savory umami without chili burn.",
+  "prepOrOrderInstructions": "Order medium-rare to medium for maximum tenderness at Animator's Palate. Ask to swap the wasabi mashed potatoes and bok choy for plain mashed potatoes or steamed white rice, and hold any coarse black peppercorn crust.",
+  "watchOuts": [
+    "Wasabi in the standard mashed potato side",
+    "Fibrous bok choy stalks",
+    "Overcooking past medium (makes beef fibers tougher)"
+  ]
 }
