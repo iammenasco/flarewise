@@ -221,125 +221,122 @@ export function FilterPanel({
         </p>
       </div>
 
+      <div>
+        <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
+          Vacation
+        </p>
+        <div
+          className="flex flex-wrap gap-1.5"
+          role="radiogroup"
+          aria-label="Vacation catalog"
+        >
+          {PLACE_CONTEXTS.map((ctx) => (
+            <Chip
+              key={ctx.id}
+              active={filters.place === ctx.id}
+              onClick={() => onSelectVacation(ctx.id)}
+            >
+              {ctx.shortLabel}
+            </Chip>
+          ))}
+        </div>
+        {vacationScope ? (
+          <div className="mt-2.5 space-y-2.5">
+            <div className="flex flex-wrap gap-1.5">
+              <Chip
+                active={!filters.tag || !isVacationTag(filters.tag)}
+                onClick={() => onPatch({ tag: '', venue: '' })}
+              >
+                {parksScope ? 'All parks' : 'All ships'}
+              </Chip>
+            </div>
+            {parksScope ? (
+              <div>
+                <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+                  Theme parks
+                </p>
+                <div className="flex flex-wrap gap-1.5">
+                  {THEME_PARK_CHIPS.map((park) => (
+                    <Chip
+                      key={park.tag}
+                      active={filters.tag === park.tag}
+                      onClick={() => onSelectDestination(park.tag)}
+                    >
+                      {park.label}
+                    </Chip>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+            {cruiseScope ? (
+              <div>
+                <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+                  Cruise ships
+                </p>
+                <div className="flex flex-wrap gap-1.5">
+                  {CRUISE_SHIP_CHIPS.map((ship) => (
+                    <Chip
+                      key={ship.tag}
+                      active={filters.tag === ship.tag}
+                      onClick={() => onSelectDestination(ship.tag)}
+                    >
+                      {ship.label}
+                    </Chip>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+          </div>
+        ) : null}
+        <p className="muted mt-1.5 text-xs">
+          Off by default. Unlock Parks or Cruise for destination menus.
+        </p>
+      </div>
+
       <button type="button" className="btn btn-ghost w-full" onClick={onClearExtra}>
         Clear filters
       </button>
 
       <div>
         <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
-          Extras
+          Preferences
         </p>
-        <div className="flex flex-wrap gap-1.5">
-          <Chip active={showServerCard} onClick={onToggleShowServerCard}>
-            Server card on food details
-          </Chip>
-        </div>
-        <p className="muted mt-1.5 text-xs">
-          Off by default — turns on a high-contrast order card you can show a
-          server, plus one-tap copy of the prep script.
-        </p>
-        <p className="mb-1.5 mt-3 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
-          Appearance
-        </p>
-        <div
-          className="flex flex-wrap gap-1.5"
-          role="radiogroup"
-          aria-label="Appearance"
-        >
-          {THEME_PREFERENCES.map((item) => {
-            const Icon = THEME_ICONS[item.id]
-            return (
-              <Chip
-                key={item.id}
-                active={theme === item.id}
-                onClick={() => onTheme(item.id)}
-              >
-                <Icon className="h-3.5 w-3.5" aria-hidden />
-                {item.label}
+        <div className="space-y-2.5">
+          <div>
+            <div className="flex flex-wrap gap-1.5">
+              <Chip active={showServerCard} onClick={onToggleShowServerCard}>
+                Server card on food details
               </Chip>
-            )
-          })}
-        </div>
-        <p className="muted mt-1.5 text-xs">
-          System follows your phone’s light/dark setting. Favicon updates to
-          match.
-        </p>
-      </div>
-
-      <div>
-        <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
-          Vacation
-        </p>
-        <div className="space-y-2.5 rounded-2xl border border-[var(--brand)]/20 bg-[var(--brand-soft)]/55 p-2.5">
-          <div
-            className="flex flex-wrap gap-1.5"
-            role="radiogroup"
-            aria-label="Vacation catalog"
-          >
-            {PLACE_CONTEXTS.map((ctx) => (
-              <Chip
-                key={ctx.id}
-                active={filters.place === ctx.id}
-                onClick={() => onSelectVacation(ctx.id)}
-              >
-                {ctx.shortLabel}
-              </Chip>
-            ))}
+            </div>
+            <p className="muted mt-1.5 text-xs">
+              High-contrast order card for servers, plus one-tap prep copy.
+            </p>
           </div>
-          {vacationScope ? (
-            <>
-              <div className="flex flex-wrap gap-1.5">
-                <Chip
-                  active={!filters.tag || !isVacationTag(filters.tag)}
-                  onClick={() => onPatch({ tag: '', venue: '' })}
-                >
-                  {parksScope ? 'All parks' : 'All ships'}
-                </Chip>
-              </div>
-              {parksScope ? (
-                <div>
-                  <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
-                    Theme parks
-                  </p>
-                  <div className="flex flex-wrap gap-1.5">
-                    {THEME_PARK_CHIPS.map((park) => (
-                      <Chip
-                        key={park.tag}
-                        active={filters.tag === park.tag}
-                        onClick={() => onSelectDestination(park.tag)}
-                      >
-                        {park.label}
-                      </Chip>
-                    ))}
-                  </div>
-                </div>
-              ) : null}
-              {cruiseScope ? (
-                <div>
-                  <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
-                    Cruise ships
-                  </p>
-                  <div className="flex flex-wrap gap-1.5">
-                    {CRUISE_SHIP_CHIPS.map((ship) => (
-                      <Chip
-                        key={ship.tag}
-                        active={filters.tag === ship.tag}
-                        onClick={() => onSelectDestination(ship.tag)}
-                      >
-                        {ship.label}
-                      </Chip>
-                    ))}
-                  </div>
-                </div>
-              ) : null}
-            </>
-          ) : null}
+          <div>
+            <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
+              Appearance
+            </p>
+            <div
+              className="flex flex-wrap gap-1.5"
+              role="radiogroup"
+              aria-label="Appearance"
+            >
+              {THEME_PREFERENCES.map((item) => {
+                const Icon = THEME_ICONS[item.id]
+                return (
+                  <Chip
+                    key={item.id}
+                    active={theme === item.id}
+                    onClick={() => onTheme(item.id)}
+                  >
+                    <Icon className="h-3.5 w-3.5" aria-hidden />
+                    {item.label}
+                  </Chip>
+                )
+              })}
+            </div>
+          </div>
         </div>
-        <p className="muted mt-1.5 text-xs">
-          Off by default. Unlock Parks or Cruise for destination menus; venue
-          chips stay on the catalog list. Everyday on cards still means the
-          safety band, not vacation.
-        </p>
       </div>
     </div>
   )
