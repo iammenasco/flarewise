@@ -40,7 +40,7 @@ CI (`.github/workflows/ci.yml`) runs the same gate on every pull request.
 2. `id` must match the filename (without `.json`)
 3. At least **two** `tags`
 4. `safetyTier` must match the `crohnsScore` band in [`src/data/rubric.json`](src/data/rubric.json) (`9.0–10.0` `flare-safe`, `7.5–8.9` `low-risk`, `6.5–7.4` `remission-road`, `1.0–6.4` `danger-zone`)
-5. **Vacation foods (theme parks & cruises):** Must include `"vacation"` (or `"disney-cruise"` / `"cruise"`) in `tags`, plus destination tags (`"disneyland"`, `"california-adventure"`, `"knotts-berry-farm"`, `"disney-wonder"`, `"disney-magic"`, `"disney-treasure"`) when applicable. Vacation items are hidden in the Everyday search scope and unlock under Parks or Cruise.
+5. **Vacation foods (theme parks & cruises):** Must include `"vacation"` (or `"disney-cruise"` / `"cruise"`) in `tags`, plus destination tags (`"disneyland"`, `"california-adventure"`, `"knotts-berry-farm"`, `"disney-wonder"`, `"disney-magic"`, `"disney-treasure"`) when applicable. Vacation items are hidden by default and unlock under Filters → Vacation (Parks or Cruise). Front Make / Order / Check is separate; Everyday on cards means the safety band only.
 6. **Citrus & lactose guardrails:** Set `citrusFree: false` if any lemon, lime, orange, grapefruit (`1.0` hard avoid), yuzu/ponzu, or bergamot/Earl Grey is present. Naturally aged hard cheeses are `lactoseSafe: true`; unaged dairy/cream/ice cream is `lactoseSafe: false`.
 7. Required fields: [`src/data/schema.json`](src/data/schema.json)
 8. Run `npm run validate-data` — this is the hard gate before merge/deploy

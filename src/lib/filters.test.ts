@@ -4,7 +4,11 @@ import { defaultPreferences } from './storage'
 import {
   compareVenueMenuItems,
   countActiveFilters,
+  isCheckItem,
   isCruiseOrVacationItem,
+  isMakeItem,
+  isOrderItem,
+  itemMatchesCatalogJob,
   itemPassesFilters,
   listVenues,
   readFilters,
@@ -49,21 +53,123 @@ const emptyFilters: CatalogFilters = {
   region: '',
   tag: '',
   cost: '',
+  job: 'make',
   place: 'home',
   venue: '',
 }
 
+describe('catalog job predicates', () => {
+  const makeItem: CrohnsFoodItem = {
+    ...baseItem,
+    id: 'skillet-eggs',
+    name: 'Skillet eggs',
+    prepMethod: ['skillet', 'stovetop'],
+    mealTypes: ['breakfast'],
+    tags: ['eggs', 'homemade'],
+  }
+  const orderItem: CrohnsFoodItem = {
+    ...baseItem,
+    id: 'cafe-burrito',
+    name: 'Cafe burrito',
+    prepMethod: ['ready-to-eat'],
+    mealTypes: ['lunch', 'takeout'],
+    tags: ['restaurant', 'mexican'],
+    brandOrRestaurant: 'Café Rio',
+  }
+  const driveThru: CrohnsFoodItem = {
+    ...baseItem,
+    id: 'drive-fries',
+    name: 'Drive-thru fries',
+    prepMethod: ['ready-to-eat', 'drive-thru'],
+    mealTypes: ['snack'],
+    tags: ['potato'],
+    brandOrRestaurant: "Dan's Drive-In",
+  }
+  const checkItem: CrohnsFoodItem = {
+    ...baseItem,
+    id: 'fresh-banana',
+    name: 'Banana',
+    prepMethod: ['ready-to-eat'],
+    mealTypes: ['snack'],
+    tags: ['produce', 'fruit'],
+    brandOrRestaurant: 'Fresh Produce Staple',
+  }
+
+  it('classifies Make / Order / Check without using brand presence alone', () => {
+    expect(isMakeItem(makeItem)).toBe(true)
+    expect(isOrderItem(makeItem)).toBe(false)
+    expect(isCheckItem(makeItem)).toBe(false)
+
+    expect(isOrderItem(orderItem)).toBe(true)
+    expect(isMakeItem(orderItem)).toBe(false)
+    expect(isCheckItem(orderItem)).toBe(false)
+
+    expect(isOrderItem(driveThru)).toBe(true)
+    expect(isCheckItem(checkItem)).toBe(true)
+    expect(isMakeItem(checkItem)).toBe(false)
+    expect(isOrderItem(checkItem)).toBe(false)
+
+    // brand alone is not Order — Check staples often have a brand string
+    expect(isOrderItem(checkItem)).toBe(false)
+  })
+
+  it('groceryIngredients counts as Make even when ready-to-eat', () => {
+    const kit: CrohnsFoodItem = {
+      ...baseItem,
+      id: 'soup-kit',
+      prepMethod: ['ready-to-eat'],
+      groceryIngredients: ['broth', 'rice'],
+      tags: ['grocery'],
+    }
+    expect(isMakeItem(kit)).toBe(true)
+    expect(isCheckItem(kit)).toBe(false)
+  })
+
+  it('itemMatchesCatalogJob ignores job while vacation browsing', () => {
+    expect(itemMatchesCatalogJob(makeItem, 'order', false)).toBe(false)
+    expect(itemMatchesCatalogJob(orderItem, 'order', false)).toBe(true)
+    expect(itemMatchesCatalogJob(makeItem, 'make', true)).toBe(true)
+    expect(itemMatchesCatalogJob(orderItem, 'check', true)).toBe(true)
+  })
+
+  it('Make / Order / Check filters pass the right non-vacation items', () => {
+    expect(
+      itemPassesFilters(makeItem, { ...emptyFilters, job: 'make' }, openPrefs),
+    ).toBe(true)
+    expect(
+      itemPassesFilters(orderItem, { ...emptyFilters, job: 'make' }, openPrefs),
+    ).toBe(false)
+    expect(
+      itemPassesFilters(orderItem, { ...emptyFilters, job: 'order' }, openPrefs),
+    ).toBe(true)
+    expect(
+      itemPassesFilters(checkItem, { ...emptyFilters, job: 'check' }, openPrefs),
+    ).toBe(true)
+    expect(
+      itemPassesFilters(makeItem, { ...emptyFilters, job: 'check' }, openPrefs),
+    ).toBe(false)
+  })
+})
+
 describe('itemPassesFilters', () => {
   it('keeps items that match a tag filter', () => {
     expect(
-      itemPassesFilters(baseItem, { ...emptyFilters, tag: 'broth' }, openPrefs),
+      itemPassesFilters(
+        baseItem,
+        { ...emptyFilters, job: 'check', tag: 'broth' },
+        openPrefs,
+      ),
     ).toBe(true)
   })
 
   it('drops items that lack the active tag', () => {
     const toast = { ...baseItem, id: 'toast', tags: ['bread', 'toaster'] }
     expect(
-      itemPassesFilters(toast, { ...emptyFilters, tag: 'broth' }, openPrefs),
+      itemPassesFilters(
+        toast,
+        { ...emptyFilters, job: 'check', tag: 'broth' },
+        openPrefs,
+      ),
     ).toBe(false)
   })
 
@@ -74,12 +180,22 @@ describe('itemPassesFilters', () => {
       safetyTier: 'danger-zone' as const,
       crohnsScore: 3,
     }
-    expect(itemPassesFilters(avoid, emptyFilters, openPrefs)).toBe(false)
     expect(
-      itemPassesFilters(avoid, emptyFilters, {
-        ...openPrefs,
-        guardrails: { ...openPrefs.guardrails, showDangerZone: true },
-      }),
+      itemPassesFilters(
+        avoid,
+        { ...emptyFilters, job: 'check' },
+        openPrefs,
+      ),
+    ).toBe(false)
+    expect(
+      itemPassesFilters(
+        avoid,
+        { ...emptyFilters, job: 'check' },
+        {
+          ...openPrefs,
+          guardrails: { ...openPrefs.guardrails, showDangerZone: true },
+        },
+      ),
     ).toBe(true)
   })
 
@@ -91,20 +207,28 @@ describe('itemPassesFilters', () => {
       safetyTier: 'remission-road' as const,
     }
     expect(
-      itemPassesFilters(careful, emptyFilters, {
-        ...openPrefs,
-        minScore: 9,
-      }),
+      itemPassesFilters(
+        careful,
+        { ...emptyFilters, job: 'check' },
+        {
+          ...openPrefs,
+          minScore: 9,
+        },
+      ),
     ).toBe(false)
     expect(
-      itemPassesFilters(careful, emptyFilters, {
-        ...openPrefs,
-        minScore: 6.5,
-      }),
+      itemPassesFilters(
+        careful,
+        { ...emptyFilters, job: 'check' },
+        {
+          ...openPrefs,
+          minScore: 6.5,
+        },
+      ),
     ).toBe(true)
   })
 
-  it('Everyday scope hides vacation items; legacy cruiseMode at Everyday unlocks them', () => {
+  it('default home hides vacation; legacy cruiseMode unlocks them', () => {
     const cruiseItem: CrohnsFoodItem = {
       ...baseItem,
       id: 'creamy-butternut-squash-soup',
@@ -120,48 +244,56 @@ describe('itemPassesFilters', () => {
       id: 'knotts-mrs-knotts-roasted-chicken',
       tags: ['chicken', 'vacation', 'knotts-berry-farm'],
     }
-    // Everyday default: everyday item passes, vacation items are hidden
-    expect(itemPassesFilters(baseItem, emptyFilters, openPrefs)).toBe(true)
-    expect(itemPassesFilters(cruiseItem, emptyFilters, openPrefs)).toBe(false)
-    expect(itemPassesFilters(disneylandItem, emptyFilters, openPrefs)).toBe(false)
-    expect(itemPassesFilters(knottsItem, emptyFilters, openPrefs)).toBe(false)
+    const checkFilters = { ...emptyFilters, job: 'check' as const }
+    expect(itemPassesFilters(baseItem, checkFilters, openPrefs)).toBe(true)
+    expect(itemPassesFilters(cruiseItem, checkFilters, openPrefs)).toBe(false)
+    expect(itemPassesFilters(disneylandItem, checkFilters, openPrefs)).toBe(
+      false,
+    )
+    expect(itemPassesFilters(knottsItem, checkFilters, openPrefs)).toBe(false)
 
-    // Legacy Everyday + cruiseMode pref still unlocks vacation catalogs
     const vacationPrefs = {
       ...openPrefs,
       guardrails: { ...openPrefs.guardrails, cruiseMode: true },
     }
-    expect(itemPassesFilters(cruiseItem, emptyFilters, vacationPrefs)).toBe(true)
-    expect(itemPassesFilters(disneylandItem, emptyFilters, vacationPrefs)).toBe(true)
-    expect(itemPassesFilters(knottsItem, emptyFilters, vacationPrefs)).toBe(true)
-    expect(itemPassesFilters(baseItem, emptyFilters, vacationPrefs)).toBe(false)
+    expect(itemPassesFilters(cruiseItem, checkFilters, vacationPrefs)).toBe(
+      true,
+    )
+    expect(
+      itemPassesFilters(disneylandItem, checkFilters, vacationPrefs),
+    ).toBe(true)
+    expect(itemPassesFilters(knottsItem, checkFilters, vacationPrefs)).toBe(
+      true,
+    )
+    expect(itemPassesFilters(baseItem, checkFilters, vacationPrefs)).toBe(
+      false,
+    )
 
-    // Destination tag filter inside a vacation unlock
     expect(
       itemPassesFilters(
         disneylandItem,
-        { ...emptyFilters, tag: 'disneyland' },
+        { ...checkFilters, tag: 'disneyland' },
         vacationPrefs,
       ),
     ).toBe(true)
     expect(
       itemPassesFilters(
         disneylandItem,
-        { ...emptyFilters, tag: 'knotts-berry-farm' },
+        { ...checkFilters, tag: 'knotts-berry-farm' },
         vacationPrefs,
       ),
     ).toBe(false)
     expect(
       itemPassesFilters(
         cruiseItem,
-        { ...emptyFilters, tag: 'disney-wonder' },
+        { ...checkFilters, tag: 'disney-wonder' },
         vacationPrefs,
       ),
     ).toBe(true)
     expect(
       itemPassesFilters(
         cruiseItem,
-        { ...emptyFilters, tag: 'disney-treasure' },
+        { ...checkFilters, tag: 'disney-treasure' },
         vacationPrefs,
       ),
     ).toBe(false)
@@ -173,7 +305,7 @@ describe('itemPassesFilters', () => {
     expect(defaultPreferences.guardrails.cruiseMode).toBe(false)
   })
 
-  it('Parks and Cruise search scopes unlock only their vacation catalogs', () => {
+  it('Filters Parks and Cruise unlock only their vacation catalogs (any job)', () => {
     const parkItem: CrohnsFoodItem = {
       ...baseItem,
       id: 'bengal-skewer',
@@ -186,13 +318,15 @@ describe('itemPassesFilters', () => {
     }
     const parkFilters: CatalogFilters = {
       ...emptyFilters,
+      job: 'make',
       place: 'theme-parks',
     }
     const cruiseFilters: CatalogFilters = {
       ...emptyFilters,
+      job: 'check',
       place: 'cruise',
     }
-    // Scope itself unlocks vacation browsing even if cruiseMode pref is false.
+    // Vacation unlock ignores job so park/ship menus stay usable.
     expect(itemPassesFilters(parkItem, parkFilters, openPrefs)).toBe(true)
     expect(itemPassesFilters(cruiseItem, parkFilters, openPrefs)).toBe(false)
     expect(itemPassesFilters(baseItem, parkFilters, openPrefs)).toBe(false)
@@ -200,7 +334,7 @@ describe('itemPassesFilters', () => {
     expect(itemPassesFilters(parkItem, cruiseFilters, openPrefs)).toBe(false)
   })
 
-  it('filters a venue menu to an exact brandOrRestaurant', () => {
+  it('filters a venue menu to an exact brandOrRestaurant under Order + Parks', () => {
     const plazaChicken: CrohnsFoodItem = {
       ...baseItem,
       id: 'plaza-chicken',
@@ -217,11 +351,29 @@ describe('itemPassesFilters', () => {
     }
     const venueFilters: CatalogFilters = {
       ...emptyFilters,
+      job: 'order',
       place: 'theme-parks',
       venue: 'Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
     }
     expect(itemPassesFilters(plazaChicken, venueFilters, openPrefs)).toBe(true)
     expect(itemPassesFilters(other, venueFilters, openPrefs)).toBe(false)
+  })
+
+  it('Order job keeps everyday restaurant venue menus without vacation unlock', () => {
+    const rio: CrohnsFoodItem = {
+      ...baseItem,
+      id: 'cafe-rio-rice',
+      brandOrRestaurant: 'Café Rio',
+      tags: ['restaurant', 'rice'],
+      mealTypes: ['lunch', 'dinner'],
+      prepMethod: ['ready-to-eat'],
+    }
+    expect(
+      itemPassesFilters(rio, { ...emptyFilters, job: 'order' }, openPrefs),
+    ).toBe(true)
+    expect(
+      itemPassesFilters(rio, { ...emptyFilters, job: 'make' }, openPrefs),
+    ).toBe(false)
   })
 })
 
@@ -295,22 +447,25 @@ describe('readFilters', () => {
     expect(readFilters(params)).toMatchObject({
       tag: 'broth',
       mode: 'starred',
+      job: 'make',
       place: 'home',
       venue: '',
     })
   })
 
-  it('reads place and venue from the query string', () => {
+  it('reads job, place and venue from the query string', () => {
     const params = new URLSearchParams(
-      'place=theme-parks&venue=Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
+      'job=order&place=theme-parks&venue=Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
     )
     expect(readFilters(params)).toMatchObject({
+      job: 'order',
       place: 'theme-parks',
       venue: 'Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
     })
   })
 
-  it('falls back to home for unknown or retired place values', () => {
+  it('falls back to make / home for unknown job or place values', () => {
+    expect(readFilters(new URLSearchParams('job=bake')).job).toBe('make')
     expect(readFilters(new URLSearchParams('place=mars')).place).toBe('home')
     expect(
       readFilters(new URLSearchParams('place=bear-lake-cache')).place,
@@ -331,11 +486,12 @@ describe('countActiveFilters', () => {
     ).toBe(1)
   })
 
-  it('counts non-Everyday search scope and venue', () => {
+  it('counts vacation place and venue, not front job', () => {
     expect(
       countActiveFilters(
         {
           ...emptyFilters,
+          job: 'order',
           place: 'theme-parks',
           venue: 'Plaza Inn (Main Street, U.S.A. · Disneyland Park)',
         },
@@ -344,7 +500,7 @@ describe('countActiveFilters', () => {
     ).toBe(2)
   })
 
-  it('does not double-count Parks/Cruise scope via cruiseMode', () => {
+  it('does not double-count Parks/Cruise via cruiseMode', () => {
     expect(
       countActiveFilters(
         { ...emptyFilters, place: 'cruise' },

@@ -15,9 +15,12 @@ import { useJustReconnected } from '../hooks/useOnline'
 import { usePreferences } from '../hooks/usePreferences'
 import {
   countActiveFilters,
+  getCatalogJob,
   getPlaceContext,
+  isVacationBrowsing,
   isVacationTag,
   listVenues,
+  type CatalogJobId,
   type PlaceContextId,
 } from '../lib/filters'
 import { githubRepoUrl } from '../lib/github'
@@ -62,7 +65,7 @@ export function CatalogPage() {
   const feeling = feelingFromMinScore(prefs.minScore)
 
   const [prevFilterKey, setPrevFilterKey] = useState('')
-  const filterKey = `${filters.q}:${filters.tag}:${filters.mode}:${filters.meal}:${filters.region}:${filters.cost}:${filters.place}:${filters.venue}:${prefs.minScore}:${prefs.guardrails.showDangerZone}:${prefs.guardrails.cruiseMode}`
+  const filterKey = `${filters.q}:${filters.tag}:${filters.mode}:${filters.meal}:${filters.region}:${filters.cost}:${filters.job}:${filters.place}:${filters.venue}:${prefs.minScore}:${prefs.guardrails.showDangerZone}:${prefs.guardrails.cruiseMode}`
   if (prevFilterKey !== filterKey) {
     setPrevFilterKey(filterKey)
     setVisibleCount(40)
@@ -72,12 +75,17 @@ export function CatalogPage() {
     return filtered.slice(0, visibleCount)
   }, [filtered, visibleCount])
 
+  const vacationBrowsing = isVacationBrowsing(
+    filters.place,
+    prefs.guardrails.cruiseMode,
+  )
+
   const nearbyVenues = useMemo(() => {
-    if (filters.venue || filters.place === 'home') return []
-    // Build venue chips from the place-scoped list without the venue filter
-    // (filtered already excludes other venues when one is open).
+    // Venue menus for Order at home, and for Parks/Cruise when vacation unlocked.
+    if (filters.venue) return []
+    if (!vacationBrowsing && filters.job !== 'order') return []
     return listVenues(filtered, 20)
-  }, [filtered, filters.place, filters.venue])
+  }, [filtered, filters.job, filters.venue, vacationBrowsing])
 
   const hasMore = filtered.length > visibleCount
 
@@ -113,11 +121,18 @@ export function CatalogPage() {
       return `${n} menu item${n === 1 ? '' : 's'}`
     }
     if (filters.q) return `${n} match${n === 1 ? '' : 'es'}`
-    if (filters.place !== 'home') {
+    if (vacationBrowsing) {
       return `${n} food${n === 1 ? '' : 's'} · ${getPlaceContext(filters.place).shortLabel}`
     }
-    return `${n} food${n === 1 ? '' : 's'} for today`
-  }, [filtered.length, filters.place, filters.q, filters.venue])
+    return `${n} food${n === 1 ? '' : 's'} · ${getCatalogJob(filters.job).shortLabel}`
+  }, [
+    filtered.length,
+    filters.job,
+    filters.place,
+    filters.q,
+    filters.venue,
+    vacationBrowsing,
+  ])
 
   const activeFilterCount = countActiveFilters(filters, prefs.guardrails)
 
@@ -126,13 +141,20 @@ export function CatalogPage() {
     setPickerOpen(true)
   }
 
-  function selectScope(place: PlaceContextId) {
+  function selectJob(job: CatalogJobId) {
+    patch({
+      job,
+      venue: '',
+    })
+  }
+
+  function selectVacation(place: PlaceContextId) {
     const ctx = getPlaceContext(place)
     const nextTag =
       filters.tag && isVacationTag(filters.tag) && !ctx.vacation
         ? ''
         : filters.tag
-    // Keep cruiseMode aligned with scope for legacy prefs / filter counting.
+    // Keep cruiseMode aligned with vacation unlock for legacy prefs / counting.
     setGuardrails({ cruiseMode: ctx.vacation })
     patch({
       place,
@@ -267,7 +289,11 @@ export function CatalogPage() {
                   ? 'Search park menus…'
                   : filters.place === 'cruise'
                     ? 'Search ship menus…'
-                    : 'Search cereal, noodles, takeout…'
+                    : filters.job === 'order'
+                      ? 'Search restaurants, takeout…'
+                      : filters.job === 'check'
+                        ? 'Search staples, produce…'
+                        : 'Search recipes, prep at home…'
               }
               className="w-full bg-transparent text-sm outline-none placeholder:text-[var(--brand-ink)]/40"
               autoComplete="off"
@@ -284,7 +310,7 @@ export function CatalogPage() {
               </button>
             ) : null}
           </label>
-          <SearchScope place={filters.place} onPlace={selectScope} />
+          <SearchScope job={filters.job} onJob={selectJob} />
         </div>
 
         <div className="panel flex items-center gap-2 rounded-xl px-2.5 py-2 shadow-sm">
@@ -492,6 +518,7 @@ export function CatalogPage() {
               onToggleShowServerCard={() =>
                 setShowServerCard(!prefs.showServerCard)
               }
+              onSelectVacation={selectVacation}
               onSelectDestination={selectDestination}
               onClearExtra={clearExtraFilters}
             />

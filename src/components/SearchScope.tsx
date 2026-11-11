@@ -1,31 +1,28 @@
-import {
-  PLACE_CONTEXTS,
-  type PlaceContextId,
-} from '../lib/filters'
+import { CATALOG_JOBS, type CatalogJobId } from '../lib/filters'
 
 interface SearchScopeProps {
-  place: PlaceContextId
-  onPlace: (place: PlaceContextId) => void
+  job: CatalogJobId
+  onJob: (job: CatalogJobId) => void
 }
 
-/** Compact Everyday / Parks / Cruise scope sitting with the search field. */
-export function SearchScope({ place, onPlace }: SearchScopeProps) {
+/** Compact Make / Order / Check job scope sitting with the search field. */
+export function SearchScope({ job, onJob }: SearchScopeProps) {
   return (
     <div
       className="flex gap-1 overflow-x-auto"
       role="radiogroup"
-      aria-label="Search scope"
+      aria-label="Catalog job"
     >
-      {PLACE_CONTEXTS.map((ctx) => (
+      {CATALOG_JOBS.map((ctx) => (
         <button
           key={ctx.id}
           type="button"
           role="radio"
-          aria-checked={place === ctx.id}
+          aria-checked={job === ctx.id}
           className="chip shrink-0 !min-h-8 !px-2.5 !py-1 !text-xs"
-          data-active={place === ctx.id}
+          data-active={job === ctx.id}
           title={ctx.hint}
-          onClick={() => onPlace(ctx.id)}
+          onClick={() => onJob(ctx.id)}
         >
           {ctx.shortLabel}
         </button>

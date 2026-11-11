@@ -12,6 +12,7 @@ const base: CatalogFilters = {
   region: '',
   tag: '',
   cost: '',
+  job: 'make',
   place: 'home',
   venue: '',
 }
@@ -27,19 +28,26 @@ describe('search URL helpers', () => {
     expect(sp.toString()).toBe('')
   })
 
-  it('buildSearchParams keeps q and non-default scope for shareable URLs', () => {
+  it('buildSearchParams keeps q, job, and vacation place for shareable URLs', () => {
     const sp = buildSearchParams(
       {
         ...base,
         q: 'Strawberries',
+        job: 'order',
         place: 'theme-parks',
         mode: 'starred',
       },
       'some-item',
     )
     expect(sp.get('q')).toBe('Strawberries')
+    expect(sp.get('job')).toBe('order')
     expect(sp.get('place')).toBe('theme-parks')
     expect(sp.get('mode')).toBe('starred')
     expect(sp.get('item')).toBe('some-item')
+  })
+
+  it('buildSearchParams omits default Make job', () => {
+    const sp = buildSearchParams({ ...base, job: 'make' }, null)
+    expect(sp.get('job')).toBeNull()
   })
 })

@@ -2,13 +2,18 @@ import type {
   CatalogPreferences,
   CrohnsFoodItem,
   MealType,
+  PrepMethod,
   Region,
   SafetyTier,
 } from '../types'
 
 export type ModeFilter = 'all' | 'starred' | 'grocery'
 
+/** Vacation place context (Filters only). Not the Everyday safety band. */
 export type PlaceContextId = 'home' | 'theme-parks' | 'cruise'
+
+/** Front catalog job chips: Make / Order / Check (URL `job`). */
+export type CatalogJobId = 'make' | 'order' | 'check'
 
 export const THEME_PARK_CHIPS = [
   { tag: 'disneyland', label: 'Disneyland', shortLabel: 'Disneyland' },
@@ -57,13 +62,16 @@ const CRUISE_TAGS = [
   'plaza-de-coco',
 ] as const
 
-/** Search scope: Everyday / Parks / Cruise (URL param still `place`). */
+/**
+ * Vacation place contexts (Filters → Vacation). Parks/Cruise live here —
+ * not on the front search row. `home` = vacation hidden (default).
+ */
 export const PLACE_CONTEXTS = [
   {
     id: 'home' as const,
-    label: 'Everyday',
-    shortLabel: 'Everyday',
-    hint: 'Everyday catalog — vacation menus stay tucked away',
+    label: 'Off',
+    shortLabel: 'Off',
+    hint: 'Hide parks & cruise menus',
     matchTags: [] as readonly string[],
     vacation: false as const,
   },
@@ -87,8 +95,36 @@ export const PLACE_CONTEXTS = [
 
 export type PlaceContext = (typeof PLACE_CONTEXTS)[number]
 
+/** Front job scopes — Everyday is reserved for the safety band, not a chip here. */
+export const CATALOG_JOBS = [
+  {
+    id: 'make' as const,
+    label: 'Make',
+    shortLabel: 'Make',
+    hint: 'Cook or prep at home',
+  },
+  {
+    id: 'order' as const,
+    label: 'Order',
+    shortLabel: 'Order',
+    hint: 'Restaurants, takeout, drive-thru, venue menus',
+  },
+  {
+    id: 'check' as const,
+    label: 'Check',
+    shortLabel: 'Check',
+    hint: 'Can I eat this? Staples, produce, ingredients',
+  },
+] as const
+
+export type CatalogJob = (typeof CATALOG_JOBS)[number]
+
 const PLACE_BY_ID = new Map<PlaceContextId, PlaceContext>(
   PLACE_CONTEXTS.map((ctx) => [ctx.id, ctx]),
+)
+
+const JOB_BY_ID = new Map<CatalogJobId, CatalogJob>(
+  CATALOG_JOBS.map((job) => [job.id, job]),
 )
 
 const VACATION_TAGS = new Set([
@@ -105,6 +141,20 @@ const VACATION_TAGS = new Set([
   'downtown-disney',
   'knotts-berry-farm',
   'knotts',
+])
+
+const ORDER_TAGS = new Set([
+  'restaurant',
+  'takeout',
+  'drive-thru',
+  'fast-food',
+])
+
+const HOME_PREP = new Set<PrepMethod>([
+  'stovetop',
+  'skillet',
+  'slow-cooker',
+  'toaster-oven',
 ])
 
 const TIER_RANK: Record<SafetyTier, number> = {
@@ -130,13 +180,21 @@ export function isPlaceContextId(value: string): value is PlaceContextId {
   return PLACE_BY_ID.has(value as PlaceContextId)
 }
 
+export function isCatalogJobId(value: string): value is CatalogJobId {
+  return JOB_BY_ID.has(value as CatalogJobId)
+}
+
 export function getPlaceContext(id: PlaceContextId): PlaceContext {
   return PLACE_BY_ID.get(id) ?? PLACE_CONTEXTS[0]
 }
 
+export function getCatalogJob(id: CatalogJobId): CatalogJob {
+  return JOB_BY_ID.get(id) ?? CATALOG_JOBS[0]
+}
+
 /**
- * Vacation browsing follows search scope (Parks/Cruise).
- * Legacy: `cruiseMode` at Everyday still unlocks vacation if a stale pref remains.
+ * Vacation browsing follows Filters place (Parks/Cruise).
+ * Legacy: `cruiseMode` at home still unlocks vacation if a stale pref remains.
  */
 export function isVacationBrowsing(
   place: PlaceContextId,
@@ -155,6 +213,57 @@ export function itemMatchesPlaceTags(
   return ctx.matchTags.some((tag) => item.tags.includes(tag))
 }
 
+/** Restaurant / takeout / drive-thru — Order job at home. */
+export function isOrderItem(item: CrohnsFoodItem): boolean {
+  if (item.mealTypes.includes('takeout')) return true
+  if (item.prepMethod.includes('drive-thru')) return true
+  return item.tags.some((t) => ORDER_TAGS.has(t.toLowerCase()))
+}
+
+/**
+ * Home cook / prep signal — Make job.
+ * Excludes Order items so restaurant toaster-oven hacks stay under Order.
+ */
+export function isMakeItem(item: CrohnsFoodItem): boolean {
+  if (isOrderItem(item)) return false
+  if (item.prepMethod.some((p) => HOME_PREP.has(p))) return true
+  if (item.groceryIngredients && item.groceryIngredients.length > 0) {
+    return true
+  }
+  return false
+}
+
+/**
+ * Staple / ingredient / “can I eat X?” — Check job.
+ * Catch-all for non-Order items without a strong home-prep signal.
+ */
+export function isCheckItem(item: CrohnsFoodItem): boolean {
+  return !isOrderItem(item) && !isMakeItem(item)
+}
+
+/**
+ * Job chips filter the non-vacation catalog.
+ * While vacation browsing, job is ignored so Parks/Cruise menus stay intact
+ * (venue menus still work under Order at home and when vacation is unlocked).
+ */
+export function itemMatchesCatalogJob(
+  item: CrohnsFoodItem,
+  job: CatalogJobId,
+  vacationBrowsing: boolean,
+): boolean {
+  if (vacationBrowsing) return true
+  switch (job) {
+    case 'make':
+      return isMakeItem(item)
+    case 'order':
+      return isOrderItem(item)
+    case 'check':
+      return isCheckItem(item)
+    default:
+      return true
+  }
+}
+
 export interface CatalogFilters {
   q: string
   mode: ModeFilter
@@ -162,7 +271,9 @@ export interface CatalogFilters {
   region: Region | ''
   tag: string
   cost: '' | '1' | '2' | '3'
-  /** Search scope: Everyday / Parks / Cruise (URL `place`). */
+  /** Front job: Make / Order / Check (URL `job`). Default Make. */
+  job: CatalogJobId
+  /** Vacation place: home / Parks / Cruise (URL `place`). Filters only. */
   place: PlaceContextId
   /** Exact brandOrRestaurant venue menu (URL-encoded in the query string). */
   venue: string
@@ -172,6 +283,7 @@ export function readFilters(params: URLSearchParams): CatalogFilters {
   const mode = params.get('mode')
   const cost = params.get('cost')
   const placeRaw = params.get('place') ?? ''
+  const jobRaw = params.get('job') ?? ''
   return {
     q: params.get('q') ?? '',
     mode: mode === 'starred' || mode === 'grocery' ? mode : 'all',
@@ -179,6 +291,7 @@ export function readFilters(params: URLSearchParams): CatalogFilters {
     region: (params.get('region') as Region) || '',
     tag: params.get('tag') ?? '',
     cost: cost === '1' || cost === '2' || cost === '3' ? cost : '',
+    job: isCatalogJobId(jobRaw) ? jobRaw : 'make',
     place: isPlaceContextId(placeRaw) ? placeRaw : 'home',
     venue: params.get('venue') ?? '',
   }
@@ -192,8 +305,8 @@ export function itemPassesFilters(
 ): boolean {
   if (prefs.personalStatus[item.id] === 'trigger') return false
 
-  // Vacation filter: Everyday hides parks/cruise menus unless scope is Parks/
-  // Cruise (or a legacy Everyday + cruiseMode pref / vacation destination tag).
+  // Vacation: default hides parks/cruise; Filters Parks/Cruise unlock
+  // (or a legacy home + cruiseMode pref / vacation destination tag).
   const isVacation = isCruiseOrVacationItem(item)
   const tagIsVacation = Boolean(filters.tag && isVacationTag(filters.tag))
   const vacationBrowsing = isVacationBrowsing(
@@ -207,6 +320,10 @@ export function itemPassesFilters(
   }
 
   if (!itemMatchesPlaceTags(item, filters.place)) return false
+
+  if (!itemMatchesCatalogJob(item, filters.job, vacationBrowsing)) {
+    return false
+  }
 
   if (filters.venue) {
     if ((item.brandOrRestaurant ?? '').trim() !== filters.venue.trim()) {
@@ -295,12 +412,13 @@ export function countActiveFilters(
   if (filters.region) n += 1
   if (filters.tag) n += 1
   if (filters.cost) n += 1
+  // Front job is primary scope — not an "extra" filter badge.
   if (filters.place !== 'home') n += 1
   if (filters.venue) n += 1
   if (guardrails.lactoseSafeOnly) n += 1
   if (guardrails.toasterOvenOnly) n += 1
   if (guardrails.grabAndGoOnly) n += 1
-  // Parks/Cruise already counted via place; only count legacy Vacation at Home.
+  // Parks/Cruise already counted via place; only count legacy Vacation at home.
   if (guardrails.cruiseMode && filters.place === 'home') n += 1
   // citrusFreeOnly defaults on — don't count it as an "extra" filter
   if (guardrails.showDangerZone) n += 1
