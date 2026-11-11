@@ -67,9 +67,12 @@ Labels to create on a new repo: [`.github/LABELS.md`](.github/LABELS.md)
 ## App notes
 
 - React + Vite + TypeScript + Tailwind
-- Catalog filters are URL-driven (`q`, `tag`, `meal`, …) so links are shareable
-- Stars / grocery / Works·Iffy·Trigger notes are **localStorage only** — never
-  commit them
+- Catalog filters are URL-driven (`q`, `job`, `place`, `tag`, `meal`, …) so links are shareable
+- Front scopes are **Make / Order / Check** (`job`); Vacation is Filters-only (`place`)
+- When adding foods, set tags / mealTypes / prepMethod so those jobs classify correctly
+  (see README + `public/llms.txt` + `src/lib/filters.ts`)
+- Stars / grocery / Works·Iffy·Trigger notes are **localStorage only** (optional
+  user secret-Gist sync) — never commit prefs, PATs, or gist tokens
 - `research/` is gitignored private notes — do not add it
 
 ## Publishing (GitHub Pages + Cloudflare)

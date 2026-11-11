@@ -20,6 +20,7 @@ This project welcomes agents. Please use the data — and add to it when you can
 - Per-food share / unfurl pages: /f/{id}/ (OG tags; redirects into /#/?item={id})
 - Site Open Graph image: /og.png
 - Maintainer ingestion: apply label `approved-food` to create a PR
+- Job predicates (Make / Order / Check): `src/lib/filters.ts`
 
 ## How to add a food
 
@@ -27,6 +28,7 @@ This project welcomes agents. Please use the data — and add to it when you can
 2. Prefer opening a GitHub Issue with label `new-food` and a ```json payload.
 3. Or add `src/data/items/<categoryFolder>/<id>.json` directly and open a PR.
 4. Run `npm run validate-data` before merge.
+5. Set tags / mealTypes / prepMethod so catalog jobs classify correctly (below).
 
 ## Key product rules
 
@@ -34,12 +36,30 @@ This project welcomes agents. Please use the data — and add to it when you can
 - UI tiers (not raw scores in the main list): Flare safe, Everyday, Careful/Good-day fit, Avoid.
 - Underlying crohnsScore remains 1–10 where higher is gentler for sorting/filtering.
 - Avoid/danger-zone items stay hidden unless explicitly enabled.
-- Vacation items (theme parks & cruises) stay hidden by default (`cruiseMode: false` in the Filters pane) so everyday grocery/restaurant browsing stays clean. Every vacation food MUST include `"vacation"` (or `"disney-cruise"` / `"cruise"`) in `tags`, plus destination tags (`"disneyland"`, `"california-adventure"`, `"knotts-berry-farm"`, `"disney-wonder"`, `"disney-magic"`, `"disney-treasure"`) when applicable.
+- Front scopes are **Make / Order / Check** (URL `job`), not Everyday/Parks/Cruise.
+- **Make** = cook/prep at home: home prep methods (`stovetop`, `skillet`, `slow-cooker`, `toaster-oven`) or non-empty `groceryIngredients`, and **not** an Order item.
+- **Order** = restaurant / takeout / drive-thru: `mealTypes` includes `takeout`, `prepMethod` includes `drive-thru`, or tags in `restaurant` / `takeout` / `drive-thru` / `fast-food`. Brand alone does **not** make an item Order.
+- **Check** = catch-all staples / ingredients / “can I eat X?” — not Order and not Make.
+- Vacation (theme parks & cruises) is **Filters only** (`place=home|theme-parks|cruise`); default off. While vacation browsing is on, job chips are ignored so menus stay intact.
+- Vacation items stay hidden by default. Every vacation food MUST include `"vacation"` (or `"disney-cruise"` / `"cruise"`) in `tags`, plus destination tags (`"disneyland"`, `"california-adventure"`, `"knotts-berry-farm"`, `"disney-wonder"`, `"disney-magic"`, `"disney-treasure"`) when applicable.
 - Citrus guardrail: `citrusFree: false` whenever lemon, lime, orange, grapefruit (score `1.0` hard avoid), yuzu/ponzu, or bergamot/Earl Grey is present.
 - Lactose rule: naturally aged cheeses (Cheddar, Swiss, Gruyère, Havarti, Provolone, Parmigiano-Reggiano, Manchego) are `lactoseSafe: true`; unaged dairy/cream/ice cream is `lactoseSafe: false`.
+- Preferences (stars, grocery, personal status, dial, guardrails, theme) are localStorage; optional user-driven secret GitHub Gist sync. Never commit personal prefs or tokens.
 
 ## Scoring rubric (for agents)
 
 Canonical machine rubric: `/rubric.json` (same object as `catalog.rubric`; source `src/data/rubric.json`).
 Use `agentBrief` + `bands` / `dial` from that file when ranking or drafting — do not invent vibes or mirror the numbers in other repos.
 Today dial maps feeling → min crohnsScore floor. For catalog growth or an unspecified/steady+ dial, suggest Everyday and Careful too — not only Flare safe. Keep user-facing replies short; do not repeat a medical-disclaimer boilerplate every turn.
+
+## Honoring Make / Order / Check when drafting foods
+
+When suggesting or adding an item, choose fields so the predicates stay true:
+
+| Intent | Set these |
+|--------|-----------|
+| Home recipe / meal prep | prepMethod with home methods and/or groceryIngredients; avoid restaurant/takeout/drive-thru tags |
+| Restaurant / takeout / venue dish | tag `restaurant` (and/or takeout / drive-thru / fast-food); use mealType `takeout` or prep `drive-thru` when accurate; set `brandOrRestaurant` for venue menus |
+| Staple / ingredient / packaged “is this OK?” | ready-to-eat or minimal prep; no Order tags; usually no home-prep grocery list — lands in Check |
+
+Do not invent a fourth front scope. Do not put parks/cruise on the front row — vacation tags + Filters only.
