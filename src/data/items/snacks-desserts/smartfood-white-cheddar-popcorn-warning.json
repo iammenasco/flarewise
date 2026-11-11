@@ -1,0 +1,35 @@
+{
+  "id": "smartfood-white-cheddar-popcorn-warning",
+  "name": "Smartfood White Cheddar Popcorn (Kernel Hull WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "popcorn-hulls",
+    "unpopped-kernels",
+    "stricture-obstruction",
+    "severe-risk"
+  ],
+  "searchKeywords": [
+    "smartfood white cheddar",
+    "smartfood popcorn warning",
+    "popcorn danger",
+    "obstruction risk"
+  ],
+  "whyItWorks": "Unlike extruded corn puffs, Smartfood is real air-popped whole kernel corn. Every popped cluster contains rigid, sharp brown pericarp hulls that do not dissolve in stomach acid and easily lodge in narrowed Crohn's strictures.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Choose hull-free PopCorners or Pirate's Booty instead.",
+  "safetyTier": "danger-zone"
+}

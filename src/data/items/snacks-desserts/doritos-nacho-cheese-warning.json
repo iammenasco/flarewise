@@ -1,0 +1,36 @@
+{
+  "id": "doritos-nacho-cheese-warning",
+  "name": "Doritos Nacho Cheese Flavored Tortilla Chips (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "garlic-onion-powder",
+    "sharp-edges",
+    "msg",
+    "high-fat",
+    "cramping-trigger"
+  ],
+  "searchKeywords": [
+    "doritos nacho cheese",
+    "doritos warning",
+    "tortilla chip danger",
+    "sharp chip obstruction"
+  ],
+  "whyItWorks": "Fried whole corn chips form jagged, sharp triangles that can cause mucosal abrasion if not thoroughly chewed. Seasoned with onion powder, garlic powder, cheddar cheese, whey, MSG, and citric acid, producing gas, spasms, and urgency.",
+  "prepOrOrderInstructions": "AVOID during active flares. If in deep remission, chew each chip to a complete paste.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "snyders-of-hanover-gluten-free-pretzel-sticks",
+  "name": "Snyder's of Hanover Gluten-Free Pretzel Sticks",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Snyder's of Hanover",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "gluten-free-pretzels",
+    "corn-potato-starch",
+    "dairy-free",
+    "egg-free",
+    "crunchy-snack",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "snyders gluten free pretzels",
+    "gf pretzel sticks",
+    "gluten free pretzels crohns",
+    "snyders gf"
+  ],
+  "whyItWorks": "Crafted from potato starch, tapioca starch, and cellulose gum, baked into crisp golden sticks with coarse salt. Certified gluten-free, dairy-free, and seedless. Digests smoothly and provides reliable sodium during dehydration.",
+  "prepOrOrderInstructions": "Eat straight from the bag or dip into smooth peanut butter or mild cheddar dip.",
+  "safetyTier": "flare-safe"
+}

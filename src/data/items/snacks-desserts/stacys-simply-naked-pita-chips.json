@@ -1,0 +1,35 @@
+{
+  "id": "stacys-simply-naked-pita-chips",
+  "name": "Stacy's Simply Naked Pita Chips",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Stacy's / PepsiCo",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pita-chips",
+    "twice-baked",
+    "seedless",
+    "simple-ingredients",
+    "non-spicy"
+  ],
+  "searchKeywords": [
+    "stacys simply naked",
+    "pita chips",
+    "baked pita chips",
+    "plain pita chips"
+  ],
+  "whyItWorks": "Real sliced pita bread twice-baked to a golden crunch with sunflower oil and sea salt. Seedless, non-spicy, and low in fiber (1g).",
+  "prepOrOrderInstructions": "Chew well before swallowing to ensure edges are fully softened. Pairs well with smooth garlic-free hummus.",
+  "safetyTier": "low-risk"
+}

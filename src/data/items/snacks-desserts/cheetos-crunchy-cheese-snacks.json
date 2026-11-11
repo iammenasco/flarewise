@@ -1,0 +1,34 @@
+{
+  "id": "cheetos-crunchy-cheese-snacks",
+  "name": "Cheetos Crunchy Cheese Flavored Snacks",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 7.7,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "cheetos-crunchy",
+    "cheese-snack",
+    "hull-free",
+    "cornmeal",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "cheetos crunchy",
+    "original cheetos",
+    "cheese corn snacks"
+  ],
+  "whyItWorks": "Extruded from enriched yellow cornmeal without outer kernel hulls. Chews down softer than hard tortilla chips, making it gentle on strictures when eaten in remission.",
+  "prepOrOrderInstructions": "Stick to small single-serve bags to manage dairy and vegetable oil intake.",
+  "safetyTier": "low-risk"
+}

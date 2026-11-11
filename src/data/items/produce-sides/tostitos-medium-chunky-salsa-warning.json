@@ -1,0 +1,34 @@
+{
+  "id": "tostitos-medium-chunky-salsa-warning",
+  "name": "Tostitos Medium Chunky Salsa (Onion & Pepper WARNING)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Tostitos / Frito-Lay",
+  "crohnsScore": 3.4,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "diced-onions",
+    "jalapeno-peppers",
+    "tomato-seeds",
+    "chunky-salsa-trigger"
+  ],
+  "searchKeywords": [
+    "tostitos chunky salsa",
+    "chunky salsa warning",
+    "onion salsa danger"
+  ],
+  "whyItWorks": "Loaded with raw diced yellow onions, jalapeño chili peppers, garlic powder, vinegar, and whole tomato seeds. The combination of concentrated fructans, capsaicin, and sharp seeds triggers severe intestinal cramping.",
+  "prepOrOrderInstructions": "AVOID during active disease. Switch to Fody low-FODMAP garlic-free salsa.",
+  "safetyTier": "danger-zone"
+}

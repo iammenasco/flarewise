@@ -1,0 +1,35 @@
+{
+  "id": "cheetos-simply-puffs-white-cheddar",
+  "name": "Simply Cheetos Puffs (White Cheddar, Non-GMO)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "simply-cheetos",
+    "white-cheddar-puffs",
+    "baked-puffs",
+    "hull-free",
+    "clean-ingredients"
+  ],
+  "searchKeywords": [
+    "simply cheetos puffs",
+    "white cheddar puffs",
+    "safe cheese puffs",
+    "gentle crunchy snack"
+  ],
+  "whyItWorks": "Baked with organic non-GMO cornmeal and real aged white cheddar cheese, with zero artificial colors or preservatives. The puffs disintegrate rapidly in the mouth into smooth starch, leaving zero sharp fragments.",
+  "prepOrOrderInstructions": "Eat straight from the bag. Safe for flare recoveries when seeking salty savory flavor.",
+  "safetyTier": "flare-safe"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rold-gold-tiny-twists-pretzels",
+  "name": "Rold Gold Tiny Twists Original Pretzels",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Rold Gold / Frito-Lay",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pretzels",
+    "tiny-twists",
+    "low-fat",
+    "seedless",
+    "bland-snack"
+  ],
+  "searchKeywords": [
+    "rold gold tiny twists",
+    "mini pretzels",
+    "low fat pretzels",
+    "salty snack crohns"
+  ],
+  "whyItWorks": "Oven-baked from enriched wheat flour with only 1g of fat per serving. Free from seeds and whole grains; provides a light, salty crunch that is low in residue.",
+  "prepOrOrderInstructions": "Chew thoroughly. Excellent salty snack when recovering from stomach upset.",
+  "safetyTier": "low-risk"
+}

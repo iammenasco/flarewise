@@ -1,0 +1,38 @@
+{
+  "id": "fody-foods-low-fodmap-mild-salsa",
+  "name": "Fody Foods Low-FODMAP Mild Salsa (Garlic & Onion-Free)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Fody Foods",
+  "crohnsScore": 8.9,
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "low-fodmap-salsa",
+    "garlic-free",
+    "onion-free",
+    "certified-low-fodmap",
+    "gut-friendly-dip"
+  ],
+  "searchKeywords": [
+    "fody salsa",
+    "low fodmap salsa",
+    "garlic free salsa",
+    "onion free salsa",
+    "crohns salsa"
+  ],
+  "whyItWorks": "Certified low-FODMAP salsa made with diced tomatoes, roasted jalapeño peppers (mild flavor without seeds), cumin, and cilantro, completely free from garlic and onions. Allows salsa lovers to enjoy tacos without painful fructan fermentation.",
+  "prepOrOrderInstructions": "Spoon over grilled chicken, white rice bowls, or dip with plain Fritos corn chips.",
+  "safetyTier": "low-risk"
+}

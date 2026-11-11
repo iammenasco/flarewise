@@ -1,0 +1,33 @@
+{
+  "id": "simple-mills-fine-ground-sea-salt-almond-flour-crackers",
+  "name": "Simple Mills Fine Ground Sea Salt Almond Flour Crackers",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Simple Mills",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "almond-flour-crackers",
+    "gluten-free",
+    "grain-free",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "simple mills crackers",
+    "almond flour crackers",
+    "grain free crackers"
+  ],
+  "whyItWorks": "Baked with finely ground blanched almond flour, arrowroot starch, and cassava. Clean, seedless, and suitable for gluten-free diets during remission.",
+  "prepOrOrderInstructions": "Chew thoroughly. Pair with smooth lactose-free cream cheese.",
+  "safetyTier": "low-risk"
+}

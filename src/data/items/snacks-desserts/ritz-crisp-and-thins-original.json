@@ -1,0 +1,35 @@
+{
+  "id": "ritz-crisp-and-thins-original",
+  "name": "Ritz Crisp & Thins Oven-Baked Potato and Wheat Chips",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Ritz / Mondelēz",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "oven-baked",
+    "potato-wheat-chips",
+    "50-percent-less-fat",
+    "delicate-crunch",
+    "low-fiber"
+  ],
+  "searchKeywords": [
+    "ritz crisp and thins",
+    "baked ritz chips",
+    "delicate crackers",
+    "low fat chips"
+  ],
+  "whyItWorks": "Ultra-thin, oven-baked crisps made from potato and wheat flour with 50% less fat than standard chips. Fragile structure dissolves quickly upon chewing.",
+  "prepOrOrderInstructions": "Eat straight from the bag. A gentle alternative to greasy fried potato chips.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "takis-fuego-rolled-tortilla-chips-warning",
+  "name": "Takis Fuego Hot Chili Pepper & Lime Chips (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Barcel",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "extreme-heat",
+    "citric-acid-burn",
+    "habanero-capsaicin",
+    "severe-ulceration-hazard"
+  ],
+  "searchKeywords": [
+    "takis fuego warning",
+    "takis danger",
+    "extreme spicy chips",
+    "lime chili chips burn"
+  ],
+  "whyItWorks": "Tightly rolled, hard-fried corn tortillas coated in extreme chili pepper seasoning and citric acid. The high acid content and concentrated capsaicin burn ulcerated gut tissues, sparking violent tenesmus and bloody stools.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Zero tolerance food for inflammatory bowel disease.",
+  "safetyTier": "danger-zone"
+}

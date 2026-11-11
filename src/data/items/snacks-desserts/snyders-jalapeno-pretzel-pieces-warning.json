@@ -1,0 +1,34 @@
+{
+  "id": "snyders-jalapeno-pretzel-pieces-warning",
+  "name": "Snyder's of Hanover Jalapeño Pretzel Pieces (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Snyder's of Hanover",
+  "crohnsScore": 2.3,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "capsaicin-heat",
+    "jalapeno-powder",
+    "palm-oil",
+    "hard-sourdough-chunks"
+  ],
+  "searchKeywords": [
+    "snyders jalapeno pretzels",
+    "spicy pretzel pieces warning",
+    "jalapeno pieces danger"
+  ],
+  "whyItWorks": "Dense, rock-hard sourdough pretzel chunks drenched in palm oil, jalapeño pepper powder, onion powder, garlic powder, and torula yeast. The pungent capsaicin and hard sharp chunks scratch and inflame the digestive mucosa.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. Hard pretzel pieces and hot peppers are a double flare trigger.",
+  "safetyTier": "danger-zone"
+}

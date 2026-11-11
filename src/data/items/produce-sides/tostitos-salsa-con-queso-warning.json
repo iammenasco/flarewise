@@ -1,0 +1,35 @@
+{
+  "id": "tostitos-salsa-con-queso-warning",
+  "name": "Tostitos Salsa Con Queso Dip (Spicy Pepper WARNING)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Tostitos / Frito-Lay",
+  "crohnsScore": 3.8,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "red-peppers",
+    "jalapenos",
+    "onion-powder",
+    "garlic-powder",
+    "spicy-cheese-dip"
+  ],
+  "searchKeywords": [
+    "salsa con queso warning",
+    "tostitos queso warning",
+    "spicy cheese dip danger"
+  ],
+  "whyItWorks": "Blended with diced red bell peppers, jalapeño peppers, garlic powder, onion powder, and concentrated spice extracts. The spicy heat combined with high dairy fats frequently provokes intense nausea and rapid diarrhea.",
+  "prepOrOrderInstructions": "AVOID during flares. Choose mild, un-spiced cheese dips instead.",
+  "safetyTier": "danger-zone"
+}

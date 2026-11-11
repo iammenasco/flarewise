@@ -1,0 +1,36 @@
+{
+  "id": "cheetos-flamin-hot-crunchy-warning",
+  "name": "Cheetos Flamin' Hot Crunchy Snacks (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 1.6,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": false,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "flamin-hot",
+    "capsaicin",
+    "citric-acid",
+    "red-40",
+    "severe-mucosal-damage"
+  ],
+  "searchKeywords": [
+    "hot cheetos",
+    "flamin hot warning",
+    "hot cheetos crohns",
+    "red 40 gut burn"
+  ],
+  "whyItWorks": "Coated with an aggressive blend of chili pepper extract, high citric acid, garlic powder, onion powder, and concentrated Red 40 lake dye. The acid and capsaicin cause chemical irritation of ulcers, leading to blood in the stool and intense burning diarrhea.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. One of the most common triggers for emergency flares and mucosal bleeding in pediatric and adult IBD.",
+  "safetyTier": "danger-zone"
+}

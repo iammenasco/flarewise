@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T18:51:45.649Z",
-  "itemCount": 1808,
+  "builtAt": "2026-11-11T19:13:39.309Z",
+  "itemCount": 1840,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -6936,6 +6936,43 @@
       "_sourcePath": "src/data/items/lunch/schar-gluten-free-artisan-baker-white-bread.json"
     },
     {
+      "id": "snyders-of-hanover-gluten-free-pretzel-sticks",
+      "name": "Snyder's of Hanover Gluten-Free Pretzel Sticks",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Snyder's of Hanover",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "gluten-free-pretzels",
+        "corn-potato-starch",
+        "dairy-free",
+        "egg-free",
+        "crunchy-snack",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "snyders gluten free pretzels",
+        "gf pretzel sticks",
+        "gluten free pretzels crohns",
+        "snyders gf"
+      ],
+      "whyItWorks": "Crafted from potato starch, tapioca starch, and cellulose gum, baked into crisp golden sticks with coarse salt. Certified gluten-free, dairy-free, and seedless. Digests smoothly and provides reliable sodium during dehydration.",
+      "prepOrOrderInstructions": "Eat straight from the bag or dip into smooth peanut butter or mild cheddar dip.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/snyders-of-hanover-gluten-free-pretzel-sticks.json"
+    },
+    {
       "id": "swedish-fish-red-chewy-candy",
       "name": "Swedish Fish Original Red Chewy Candy",
       "categoryFolder": "snacks-desserts",
@@ -8049,6 +8086,44 @@
         "Chew small handfuls thoroughly before swallowing."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/pepperidge-farm-goldfish-original-crackers.json"
+    },
+    {
+      "id": "popcorners-sea-salt-crisps",
+      "name": "PopCorners Sea Salt Popped Corn Crisps",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "PopCorners / PepsiCo",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "popped-corn",
+        "hull-free",
+        "gluten-free",
+        "zero-kernels",
+        "movie-snack",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "popcorners",
+        "pop corners sea salt",
+        "safe popcorn",
+        "hull free popcorn",
+        "popped corn snack"
+      ],
+      "whyItWorks": "The ultimate movie-night popcorn replacement! Made with non-GMO yellow corn, sunflower oil, and sea salt, air-popped under heat and pressure into crispy triangular crisps. Contains ZERO sharp hulls, ZERO unpopped kernels, and melts smoothly under saliva.",
+      "prepOrOrderInstructions": "Eat straight from the bag during movie night or travel. Satisfies the crunchy popcorn craving without the risk of emergency bowel obstruction.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/popcorners-sea-salt-crisps.json"
     },
     {
       "id": "primal-kitchen-avocado-oil-mayo",
@@ -10539,6 +10614,41 @@
       "_sourcePath": "src/data/items/breakfast/malt-o-meal-dyno-bites.json"
     },
     {
+      "id": "glutino-gluten-free-pretzel-twists",
+      "name": "Glutino Gluten-Free Pretzel Twists",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Glutino",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "glutino-pretzels",
+        "gluten-free",
+        "crunchy",
+        "dairy-free",
+        "seedless"
+      ],
+      "searchKeywords": [
+        "glutino pretzels",
+        "gluten free twists",
+        "gf pretzels"
+      ],
+      "whyItWorks": "Certified gluten-free corn and potato starch pretzel twists. Crisp, snappy texture without wheat proteins or coarse bran.",
+      "prepOrOrderInstructions": "Great portable snack for flights and road trips.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/glutino-gluten-free-pretzel-twists.json"
+    },
+    {
       "id": "gossner-foods-logan-swiss-cheese",
       "name": "Gossner Foods Cheese Factory Aged Baby Swiss & Cheddar Curds/Slices",
       "categoryFolder": "snacks-desserts",
@@ -12565,6 +12675,80 @@
       "_sourcePath": "src/data/items/breakfast/cream-cheese-english-muffin.json"
     },
     {
+      "id": "simple-whipped-guacamole-no-onion",
+      "name": "Simple Whipped Guacamole (No Onion, No Garlic, Seedless)",
+      "categoryFolder": "produce-sides",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "snack",
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "whipped-guacamole",
+        "onion-free",
+        "garlic-free",
+        "healthy-fats",
+        "creamy-dip",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "simple guacamole",
+        "no onion guacamole",
+        "garlic free guac",
+        "avocado dip crohns"
+      ],
+      "whyItWorks": "Ripe Hass avocado whipped with a fork until creamy, seasoned only with extra virgin olive oil and fine sea salt. Packed with anti-inflammatory monounsaturated fats and soluble potassium, with zero onion fructans or spicy jalapeño seeds.",
+      "prepOrOrderInstructions": "Mash 1 ripe avocado with 1 tsp olive oil and 1/4 tsp salt. Dip with Fritos corn chips or spread onto soft flour tortillas.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/simple-whipped-guacamole-no-onion.json"
+    },
+    {
+      "id": "cheetos-simply-puffs-white-cheddar",
+      "name": "Simply Cheetos Puffs (White Cheddar, Non-GMO)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Frito-Lay",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "simply-cheetos",
+        "white-cheddar-puffs",
+        "baked-puffs",
+        "hull-free",
+        "clean-ingredients"
+      ],
+      "searchKeywords": [
+        "simply cheetos puffs",
+        "white cheddar puffs",
+        "safe cheese puffs",
+        "gentle crunchy snack"
+      ],
+      "whyItWorks": "Baked with organic non-GMO cornmeal and real aged white cheddar cheese, with zero artificial colors or preservatives. The puffs disintegrate rapidly in the mouth into smooth starch, leaving zero sharp fragments.",
+      "prepOrOrderInstructions": "Eat straight from the bag. Safe for flare recoveries when seeking salty savory flavor.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/cheetos-simply-puffs-white-cheddar.json"
+    },
+    {
       "id": "dcl-sit-down-smoked-salmon-bagel-platter",
       "name": "Sit-Down Breakfast Smoked Salmon (Lox), Toasted White Bagel & Cream Cheese",
       "categoryFolder": "breakfast",
@@ -13681,6 +13865,43 @@
       "_sourcePath": "src/data/items/high-protein/wbpc-land-and-sea-tenderloin-lobster-medallions.json"
     },
     {
+      "id": "baked-parmesan-crisps-whisps",
+      "name": "Whisps 100% Real Aged Parmesan Cheese Crisps",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Whisps",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "parmesan-crisps",
+        "zero-carb",
+        "zero-fiber",
+        "100-percent-cheese",
+        "lactose-free",
+        "high-protein"
+      ],
+      "searchKeywords": [
+        "whisps parmesan",
+        "cheese crisps",
+        "zero carb crunch",
+        "parmesan wafers"
+      ],
+      "whyItWorks": "Made with 100% copper-kettle aged parmesan cheese baked into crispy wafers. Aged cheese bacteria consume virtually all lactose, while containing 0g carbohydrates and 0g fiber. Pure protein and calcium crunch.",
+      "prepOrOrderInstructions": "Eat straight from the pouch or crumble over smooth butternut squash soup.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/baked-parmesan-crisps-whisps.json"
+    },
+    {
       "id": "wildfin-american-grill-riverton-seared-halibut-rice",
       "name": "WildFin Pan-Seared Pacific Halibut with Jasmine Rice",
       "categoryFolder": "dinner",
@@ -14042,6 +14263,45 @@
         "Skip Volcano Roll (spicy mayo) and any rolls with ponzu/lemon slices"
       ],
       "_sourcePath": "src/data/items/asian-indian/disneyland-downtown-disney-splitsville-sushi-california-roll-chicken-bowl.json"
+    },
+    {
+      "id": "fody-foods-low-fodmap-mild-salsa",
+      "name": "Fody Foods Low-FODMAP Mild Salsa (Garlic & Onion-Free)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Fody Foods",
+      "crohnsScore": 8.9,
+      "mealTypes": [
+        "snack",
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "low-fodmap-salsa",
+        "garlic-free",
+        "onion-free",
+        "certified-low-fodmap",
+        "gut-friendly-dip"
+      ],
+      "searchKeywords": [
+        "fody salsa",
+        "low fodmap salsa",
+        "garlic free salsa",
+        "onion free salsa",
+        "crohns salsa"
+      ],
+      "whyItWorks": "Certified low-FODMAP salsa made with diced tomatoes, roasted jalapeño peppers (mild flavor without seeds), cumin, and cilantro, completely free from garlic and onions. Allows salsa lovers to enjoy tacos without painful fructan fermentation.",
+      "prepOrOrderInstructions": "Spoon over grilled chicken, white rice bowls, or dip with plain Fritos corn chips.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/fody-foods-low-fodmap-mild-salsa.json"
     },
     {
       "id": "coopers-bear-lake-west-grilled-salmon-rice",
@@ -16090,6 +16350,41 @@
       "_sourcePath": "src/data/items/breakfast/holiday-inn-express-herriman-cheese-omelet-patty.json"
     },
     {
+      "id": "homemade-cinnamon-sugar-pita-chips",
+      "name": "Homemade Toaster-Oven Cinnamon Sugar Pita Chips",
+      "categoryFolder": "snacks-desserts",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "toaster-oven"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "homemade-pita-chips",
+        "cinnamon-sugar",
+        "low-fat",
+        "easy-prep",
+        "sweet-crunch"
+      ],
+      "searchKeywords": [
+        "cinnamon pita chips",
+        "homemade pita chips",
+        "sweet pita crunch"
+      ],
+      "whyItWorks": "Soft white pita bread sliced into triangles, brushed with light coconut oil or melted butter, dusted with cinnamon and sugar, and baked until crisp. Low in residue, seedless, and comforting.",
+      "prepOrOrderInstructions": "Bake pita triangles at 375°F in a toaster oven for 6–8 minutes until crisp and golden.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/homemade-cinnamon-sugar-pita-chips.json"
+    },
+    {
       "id": "jelly-belly-assorted-jelly-beans",
       "name": "Jelly Belly Assorted Gourmet Jelly Beans",
       "categoryFolder": "snacks-desserts",
@@ -16486,6 +16781,42 @@
       "_sourcePath": "src/data/items/breakfast/penny-anns-cafe-scrambled-eggs-ham-white-toast.json"
     },
     {
+      "id": "popcorners-kettle-corn",
+      "name": "PopCorners Kettle Corn Popped Corn Crisps",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "PopCorners / PepsiCo",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "snack",
+        "dessert"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "kettle-corn",
+        "sweet-salty",
+        "hull-free",
+        "gluten-free",
+        "zero-seeds"
+      ],
+      "searchKeywords": [
+        "popcorners kettle corn",
+        "sweet salty popped corn",
+        "hull free kettle corn"
+      ],
+      "whyItWorks": "Combines pure yellow corn, sunflower oil, cane sugar, and sea salt. Crisp and airy with zero pericarp hulls, providing gentle sweet-salty crunch with low residue.",
+      "prepOrOrderInstructions": "Enjoy in portion-controlled bowls to keep simple sugars moderate.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/popcorners-kettle-corn.json"
+    },
+    {
       "id": "quaker-lightly-salted-rice-crisps",
       "name": "Quaker Lightly Salted Gluten-Free Rice Crisps",
       "categoryFolder": "snacks-desserts",
@@ -16561,6 +16892,42 @@
         "Ensure all fibrous stringy seed pith and seeds are completely removed prior to blending."
       ],
       "_sourcePath": "src/data/items/produce-sides/roasted-butternut-squash-puree.json"
+    },
+    {
+      "id": "rold-gold-tiny-twists-pretzels",
+      "name": "Rold Gold Tiny Twists Original Pretzels",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Rold Gold / Frito-Lay",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pretzels",
+        "tiny-twists",
+        "low-fat",
+        "seedless",
+        "bland-snack"
+      ],
+      "searchKeywords": [
+        "rold gold tiny twists",
+        "mini pretzels",
+        "low fat pretzels",
+        "salty snack crohns"
+      ],
+      "whyItWorks": "Oven-baked from enriched wheat flour with only 1g of fat per serving. Free from seeds and whole grains; provides a light, salty crunch that is low in residue.",
+      "prepOrOrderInstructions": "Chew thoroughly. Excellent salty snack when recovering from stomach upset.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/rold-gold-tiny-twists-pretzels.json"
     },
     {
       "id": "silk-unsweetened-almond-milk-plain",
@@ -17991,6 +18358,42 @@
       "_sourcePath": "src/data/items/dinner/holiday-leftover-turkey-shepherds-pie.json"
     },
     {
+      "id": "ritz-crisp-and-thins-original",
+      "name": "Ritz Crisp & Thins Oven-Baked Potato and Wheat Chips",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Ritz / Mondelēz",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "oven-baked",
+        "potato-wheat-chips",
+        "50-percent-less-fat",
+        "delicate-crunch",
+        "low-fiber"
+      ],
+      "searchKeywords": [
+        "ritz crisp and thins",
+        "baked ritz chips",
+        "delicate crackers",
+        "low fat chips"
+      ],
+      "whyItWorks": "Ultra-thin, oven-baked crisps made from potato and wheat flour with 50% less fat than standard chips. Fragile structure dissolves quickly upon chewing.",
+      "prepOrOrderInstructions": "Eat straight from the bag. A gentle alternative to greasy fried potato chips.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/ritz-crisp-and-thins-original.json"
+    },
+    {
       "id": "sensible-portions-garden-veggie-straws",
       "name": "Sensible Portions Garden Veggie Straws (Sea Salt)",
       "categoryFolder": "snacks-desserts",
@@ -19324,6 +19727,41 @@
       "_sourcePath": "src/data/items/breakfast/holiday-inn-express-herriman-one-touch-pancakes.json"
     },
     {
+      "id": "homemade-smooth-garlic-free-hummus",
+      "name": "Homemade Smooth Garlic-Free Hummus (Blended Chickpea Puree)",
+      "categoryFolder": "produce-sides",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 3,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "garlic-free-hummus",
+        "skinless-chickpeas",
+        "pureed-smooth",
+        "extra-virgin-olive-oil"
+      ],
+      "searchKeywords": [
+        "garlic free hummus",
+        "homemade hummus crohns",
+        "low fodmap hummus",
+        "skinless chickpea dip"
+      ],
+      "whyItWorks": "Made by boiling canned chickpeas with a pinch of baking soda so the skins slip off, then blending the inner flesh velvety smooth with extra-virgin olive oil, cumin, and sea salt with ZERO raw garlic. High protein and gentle.",
+      "prepOrOrderInstructions": "Simmer canned chickpeas for 10 minutes, pinch off loose skins, and puree in a food processor with 2 tbsp olive oil, 2 tbsp warm water, and 1/2 tsp salt until ultra-creamy.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/homemade-smooth-garlic-free-hummus.json"
+    },
+    {
       "id": "kikkoman-sweet-teriyaki-marinade",
       "name": "Kikkoman Sweet Teriyaki Glaze & Marinade (Strained)",
       "categoryFolder": "drinks-sauces",
@@ -20048,6 +20486,42 @@
         "Skip spicy vindaloo, green chili chutneys, and heavy coconut-shred chutneys"
       ],
       "_sourcePath": "src/data/items/asian-indian/saffron-valley-herriman-dosa-idli-tikka-masala.json"
+    },
+    {
+      "id": "sensible-portions-sea-salt-veggie-straws",
+      "name": "Sensible Portions Sea Salt Garden Veggie Straws",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Sensible Portions",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "veggie-straws",
+        "potato-starch",
+        "hollow-crunch",
+        "gluten-free",
+        "melt-in-mouth"
+      ],
+      "searchKeywords": [
+        "veggie straws",
+        "sensible portions",
+        "garden veggie straws",
+        "puffed straws"
+      ],
+      "whyItWorks": "Made from potato starch, potato flour, and corn starch colored gently with spinach and beet powder. The hollow extruded straw structure collapses immediately when chewed, offering satisfying crunch with negligible roughage.",
+      "prepOrOrderInstructions": "Great lunchbox or travel snack. Low in fat and seedless.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/sensible-portions-sea-salt-veggie-straws.json"
     },
     {
       "id": "skittles-original-chewy-candy",
@@ -25708,6 +26182,42 @@
       "_sourcePath": "src/data/items/asian-indian/soy-paper-sushi-rolls.json"
     },
     {
+      "id": "stacys-simply-naked-pita-chips",
+      "name": "Stacy's Simply Naked Pita Chips",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Stacy's / PepsiCo",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pita-chips",
+        "twice-baked",
+        "seedless",
+        "simple-ingredients",
+        "non-spicy"
+      ],
+      "searchKeywords": [
+        "stacys simply naked",
+        "pita chips",
+        "baked pita chips",
+        "plain pita chips"
+      ],
+      "whyItWorks": "Real sliced pita bread twice-baked to a golden crunch with sunflower oil and sea salt. Seedless, non-spicy, and low in fiber (1g).",
+      "prepOrOrderInstructions": "Chew well before swallowing to ensure edges are fully softened. Pairs well with smooth garlic-free hummus.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/stacys-simply-naked-pita-chips.json"
+    },
+    {
       "id": "worlds-of-marvel-steamed-pork-bao-bun",
       "name": "Steamed Pork Bao Bun (Worlds of Marvel)",
       "categoryFolder": "asian-indian",
@@ -30906,6 +31416,42 @@
         "Contains real cheese; take lactase enzyme if sensitive to dairy."
       ],
       "_sourcePath": "src/data/items/frozen-aisle/freschetta-gluten-free-four-cheese-pizza.json"
+    },
+    {
+      "id": "fritos-the-original-corn-chips",
+      "name": "Fritos The Original Corn Chips",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Frito-Lay",
+      "crohnsScore": 8.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "corn-chips",
+        "three-ingredients",
+        "gluten-free",
+        "hull-free",
+        "classic-snack"
+      ],
+      "searchKeywords": [
+        "fritos original",
+        "fritos corn chips",
+        "simple corn chips",
+        "gluten free chips"
+      ],
+      "whyItWorks": "Contains just three simple ingredients: corn, corn oil, and salt. The corn is cooked, finely ground, and extruded before frying, completely eliminating whole kernels and sharp hulls.",
+      "prepOrOrderInstructions": "Enjoy in moderation during remission. Because of oil content, chew thoroughly and avoid eating on an empty stomach during active flares.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/fritos-the-original-corn-chips.json"
     },
     {
       "id": "gourmandise-draper-butternut-squash-pasta-salmon",
@@ -36926,6 +37472,40 @@
       "_sourcePath": "src/data/items/asian-indian/silverlake-ramen-riverton-shoyu-ramen-chashu.json"
     },
     {
+      "id": "simple-mills-fine-ground-sea-salt-almond-flour-crackers",
+      "name": "Simple Mills Fine Ground Sea Salt Almond Flour Crackers",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Simple Mills",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "almond-flour-crackers",
+        "gluten-free",
+        "grain-free",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "simple mills crackers",
+        "almond flour crackers",
+        "grain free crackers"
+      ],
+      "whyItWorks": "Baked with finely ground blanched almond flour, arrowroot starch, and cassava. Clean, seedless, and suitable for gluten-free diets during remission.",
+      "prepOrOrderInstructions": "Chew thoroughly. Pair with smooth lactose-free cream cheese.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/simple-mills-fine-ground-sea-salt-almond-flour-crackers.json"
+    },
+    {
       "id": "skipper-society-apple-cinnamon-original-waffles",
       "name": "Skipper Society Warm Apple Cinnamon & Original Liège Waffles (Disney Treasure)",
       "categoryFolder": "snacks-desserts",
@@ -40355,6 +40935,41 @@
       "_sourcePath": "src/data/items/produce-sides/peeled-fresh-apple-slices.json"
     },
     {
+      "id": "fritolay-mild-cheddar-cheese-dip",
+      "name": "Frito-Lay Mild Cheddar Cheese Dip (Smooth Can)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Frito-Lay",
+      "crohnsScore": 7.8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "cheese-dip",
+        "smooth-texture",
+        "non-spicy",
+        "zero-fiber",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "frito lay cheese dip",
+        "mild cheddar dip",
+        "canned cheese dip"
+      ],
+      "whyItWorks": "A completely smooth, seedless, non-spicy processed cheese dip. Contains 0g fiber and zero peppers or onions; provides comforting savory flavor for pretzels when in remission.",
+      "prepOrOrderInstructions": "Serve slightly warm or room temperature. Take a lactase enzyme tablet if lactose sensitive.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/produce-sides/fritolay-mild-cheddar-cheese-dip.json"
+    },
+    {
       "id": "holiday-traditional-pumpkin-pie-slice",
       "name": "Holiday Traditional Spiced Pumpkin Pie Slice with Whipped Cream",
       "categoryFolder": "snacks-desserts",
@@ -41278,6 +41893,41 @@
         "Angie's burgers are a generous 1/2 pound; eat half if prone to volume discomfort"
       ],
       "_sourcePath": "src/data/items/diner-bbq/angies-restaurant-logan-california-burger.json"
+    },
+    {
+      "id": "cheetos-crunchy-cheese-snacks",
+      "name": "Cheetos Crunchy Cheese Flavored Snacks",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Frito-Lay",
+      "crohnsScore": 7.7,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "cheetos-crunchy",
+        "cheese-snack",
+        "hull-free",
+        "cornmeal",
+        "remission-road"
+      ],
+      "searchKeywords": [
+        "cheetos crunchy",
+        "original cheetos",
+        "cheese corn snacks"
+      ],
+      "whyItWorks": "Extruded from enriched yellow cornmeal without outer kernel hulls. Chews down softer than hard tortilla chips, making it gentle on strictures when eaten in remission.",
+      "prepOrOrderInstructions": "Stick to small single-serve bags to manage dairy and vegetable oil intake.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/cheetos-crunchy-cheese-snacks.json"
     },
     {
       "id": "chubbys-neighborhood-cafe-pleasant-grove-chicken-tenders",
@@ -60830,6 +61480,42 @@
       "_sourcePath": "src/data/items/lunch/disneyland-cafe-orleans-monte-cristo-sandwich.json"
     },
     {
+      "id": "kettle-brand-sea-salt-potato-chips-warning",
+      "name": "Kettle Brand Sea Salt Potato Chips (Thick Cut WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Kettle Brand / Campbell's",
+      "crohnsScore": 5.8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "thick-cut",
+        "batch-fried",
+        "sharp-edges",
+        "high-fat-9g"
+      ],
+      "searchKeywords": [
+        "kettle chips warning",
+        "thick cut potato chips",
+        "hard fried chips",
+        "greasy chips"
+      ],
+      "whyItWorks": "Extra thick-cut potato slices kettle-cooked in oil to a hard, rigid crispness. The sharp, jagged chip shards can physically scratch inflamed bowel segments, and the high fat (9g per ounce) triggers rapid gastrocolic dumping.",
+      "prepOrOrderInstructions": "Avoid during active disease. Baked Lay's or plain thin crisps are far safer.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/kettle-brand-sea-salt-potato-chips-warning.json"
+    },
+    {
       "id": "kirkland-signature-organic-frozen-mango-chunks-warning",
       "name": "Kirkland Signature Organic Frozen Mango Chunks (FODMAP Warning)",
       "categoryFolder": "frozen-aisle",
@@ -61386,6 +62072,41 @@
         "Chili-lime crema contains acidic lime juice and spicy chipotle peppers"
       ],
       "_sourcePath": "src/data/items/lunch/some-beaches-laketown-chipotle-shrimp-wrap-warning.json"
+    },
+    {
+      "id": "wheat-thins-original-crackers-warning",
+      "name": "Wheat Thins Original Crackers (Coarse Bran WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Nabisco / Mondelēz",
+      "crohnsScore": 5.6,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "whole-wheat-bran",
+        "malt-syrup",
+        "rough-edges",
+        "stricture-irritant"
+      ],
+      "searchKeywords": [
+        "wheat thins warning",
+        "whole wheat crackers danger",
+        "wheat bran crackers"
+      ],
+      "whyItWorks": "Baked with 100% whole grain wheat, retaining coarse insoluble bran flakes. Produces abrasive friction against inflamed ileal and colonic walls.",
+      "prepOrOrderInstructions": "Choose refined Ritz crackers or saltines instead during active disease.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/wheat-thins-original-crackers-warning.json"
     },
     {
       "id": "dcl-room-service-lamb-and-beef-pide",
@@ -66854,6 +67575,42 @@
       "_sourcePath": "src/data/items/drinks-sauces/sweet-baby-rays-barbecue-sauce-warning.json"
     },
     {
+      "id": "terra-original-root-vegetable-chips-warning",
+      "name": "TERRA Original Real Vegetable Chips (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "TERRA / Hain Celestial",
+      "crohnsScore": 4.8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "taro-root",
+        "parsnip-fibers",
+        "yuca",
+        "dense-insoluble-fiber"
+      ],
+      "searchKeywords": [
+        "terra chips warning",
+        "root vegetable chips",
+        "taro chips danger",
+        "yuca chips"
+      ],
+      "whyItWorks": "Made from exotic root vegetables (taro, sweet potato, batata, yuca, parsnip). While colorful, root tubers contain dense, woody insoluble fibers that resist enzymatic breakdown and can produce severe gas and cramps.",
+      "prepOrOrderInstructions": "Avoid during flares. Standard peeled white potato chips are much easier to digest.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/terra-original-root-vegetable-chips-warning.json"
+    },
+    {
       "id": "holiday-spiced-eggnog-dairy-warning",
       "name": "Traditional Holiday Spiced Eggnog (Heavy Cream & Nutmeg Warning)",
       "categoryFolder": "drinks-sauces",
@@ -68526,6 +69283,41 @@
       "_sourcePath": "src/data/items/breakfast/steel-cut-oats-coarse-groats-warning.json"
     },
     {
+      "id": "sun-chips-original-multigrain-warning",
+      "name": "SunChips Original Multigrain Snacks (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Frito-Lay",
+      "crohnsScore": 4.5,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "multigrain-roughage",
+        "whole-wheat",
+        "whole-oats",
+        "jagged-waves"
+      ],
+      "searchKeywords": [
+        "sunchips warning",
+        "multigrain chips danger",
+        "whole grain roughage"
+      ],
+      "whyItWorks": "Packed with whole corn, whole wheat, brown rice flour, and whole oat flour (3g insoluble fiber). The wavy ridges break into sharp, abrasive particles that irritate active mucosal ulcers.",
+      "prepOrOrderInstructions": "AVOID during active flares or strictures.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/sun-chips-original-multigrain-warning.json"
+    },
+    {
       "id": "tianas-vegetable-gumbo",
       "name": "Tiana's Vegetable Gumbo",
       "categoryFolder": "dinner",
@@ -69332,6 +70124,41 @@
       "_sourcePath": "src/data/items/dinner/penny-anns-cafe-country-fried-steak-gravy-warning.json"
     },
     {
+      "id": "pringles-sour-cream-and-onion-warning",
+      "name": "Pringles Sour Cream & Onion Potato Crisps (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Pringles / Kellanova",
+      "crohnsScore": 4.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "onion-powder",
+        "garlic-powder",
+        "sour-cream-solids",
+        "high-fodmap-dust"
+      ],
+      "searchKeywords": [
+        "sour cream and onion pringles",
+        "pringles warning",
+        "onion powder chips"
+      ],
+      "whyItWorks": "Heavily dusted with concentrated dehydrated onion powder, garlic powder, sour cream solids, and MSG. The intense fructan content provokes rapid fermentation and severe gas pain.",
+      "prepOrOrderInstructions": "Choose Pringles Original (Plain Salt) instead, which is completely free of onion and garlic powders.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/pringles-sour-cream-and-onion-warning.json"
+    },
+    {
       "id": "prune-juice-sorbitol-warning",
       "name": "Sunsweet 100% Prune Juice (High Osmotic Laxative Warning)",
       "categoryFolder": "produce-sides",
@@ -70102,6 +70929,42 @@
       "_sourcePath": "src/data/items/mexican-southwest/plaza-de-coco-romaine-wedge-salad.json"
     },
     {
+      "id": "sabra-classic-hummus-with-garlic-warning",
+      "name": "Sabra Classic Hummus (Raw Garlic & Skin WARNING)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Sabra",
+      "crohnsScore": 4,
+      "mealTypes": [
+        "snack",
+        "lunch"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "raw-garlic",
+        "chickpea-skins",
+        "citric-acid",
+        "intense-gas-trigger"
+      ],
+      "searchKeywords": [
+        "sabra hummus warning",
+        "commercial hummus gas",
+        "raw garlic dip warning"
+      ],
+      "whyItWorks": "Contains un-hulled chickpea skins, heavy raw minced garlic, citric acid, and tahini. The raw garlic fructans and fibrous chickpea hulls ferment vigorously in the colon, producing painful bloating and sulfurous gas.",
+      "prepOrOrderInstructions": "Avoid commercial hummus containing raw garlic. Make your own skinned, garlic-free hummus at home.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/sabra-classic-hummus-with-garlic-warning.json"
+    },
+    {
       "id": "tianas-place-rocky-road-sundae",
       "name": "Tiana's Place Rocky Road Ice Cream Sundae",
       "categoryFolder": "snacks-desserts",
@@ -70533,6 +71396,42 @@
       "prepOrOrderInstructions": "AVOID during active flares. Choose the Marshmallow Dream Bar instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/snacks-desserts/starbucks-iced-lemon-loaf-warning.json"
+    },
+    {
+      "id": "tostitos-salsa-con-queso-warning",
+      "name": "Tostitos Salsa Con Queso Dip (Spicy Pepper WARNING)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Tostitos / Frito-Lay",
+      "crohnsScore": 3.8,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "red-peppers",
+        "jalapenos",
+        "onion-powder",
+        "garlic-powder",
+        "spicy-cheese-dip"
+      ],
+      "searchKeywords": [
+        "salsa con queso warning",
+        "tostitos queso warning",
+        "spicy cheese dip danger"
+      ],
+      "whyItWorks": "Blended with diced red bell peppers, jalapeño peppers, garlic powder, onion powder, and concentrated spice extracts. The spicy heat combined with high dairy fats frequently provokes intense nausea and rapid diarrhea.",
+      "prepOrOrderInstructions": "AVOID during flares. Choose mild, un-spiced cheese dips instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/tostitos-salsa-con-queso-warning.json"
     },
     {
       "id": "whole-raw-almonds-walnuts-stricture-warning",
@@ -71701,6 +72600,78 @@
       "prepOrOrderInstructions": "AVOID during flares. If taken in remission for joint soreness, dilute 1 ounce into 10 ounces of water with meals.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/knudsen-organic-just-tart-cherry-juice-warning.json"
+    },
+    {
+      "id": "tostitos-medium-chunky-salsa-warning",
+      "name": "Tostitos Medium Chunky Salsa (Onion & Pepper WARNING)",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Tostitos / Frito-Lay",
+      "crohnsScore": 3.4,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "diced-onions",
+        "jalapeno-peppers",
+        "tomato-seeds",
+        "chunky-salsa-trigger"
+      ],
+      "searchKeywords": [
+        "tostitos chunky salsa",
+        "chunky salsa warning",
+        "onion salsa danger"
+      ],
+      "whyItWorks": "Loaded with raw diced yellow onions, jalapeño chili peppers, garlic powder, vinegar, and whole tomato seeds. The combination of concentrated fructans, capsaicin, and sharp seeds triggers severe intestinal cramping.",
+      "prepOrOrderInstructions": "AVOID during active disease. Switch to Fody low-FODMAP garlic-free salsa.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/produce-sides/tostitos-medium-chunky-salsa-warning.json"
+    },
+    {
+      "id": "doritos-nacho-cheese-warning",
+      "name": "Doritos Nacho Cheese Flavored Tortilla Chips (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Frito-Lay",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "garlic-onion-powder",
+        "sharp-edges",
+        "msg",
+        "high-fat",
+        "cramping-trigger"
+      ],
+      "searchKeywords": [
+        "doritos nacho cheese",
+        "doritos warning",
+        "tortilla chip danger",
+        "sharp chip obstruction"
+      ],
+      "whyItWorks": "Fried whole corn chips form jagged, sharp triangles that can cause mucosal abrasion if not thoroughly chewed. Seasoned with onion powder, garlic powder, cheddar cheese, whey, MSG, and citric acid, producing gas, spasms, and urgency.",
+      "prepOrOrderInstructions": "AVOID during active flares. If in deep remission, chew each chip to a complete paste.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/doritos-nacho-cheese-warning.json"
     },
     {
       "id": "dr-browns-cel-ray-soda-warning",
@@ -73468,6 +74439,41 @@
       "_sourcePath": "src/data/items/drinks-sauces/olipop-vintage-cola-prebiotic-soda-warning.json"
     },
     {
+      "id": "snyders-jalapeno-pretzel-pieces-warning",
+      "name": "Snyder's of Hanover Jalapeño Pretzel Pieces (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Snyder's of Hanover",
+      "crohnsScore": 2.3,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "capsaicin-heat",
+        "jalapeno-powder",
+        "palm-oil",
+        "hard-sourdough-chunks"
+      ],
+      "searchKeywords": [
+        "snyders jalapeno pretzels",
+        "spicy pretzel pieces warning",
+        "jalapeno pieces danger"
+      ],
+      "whyItWorks": "Dense, rock-hard sourdough pretzel chunks drenched in palm oil, jalapeño pepper powder, onion powder, garlic powder, and torula yeast. The pungent capsaicin and hard sharp chunks scratch and inflame the digestive mucosa.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Hard pretzel pieces and hot peppers are a double flare trigger.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/snyders-jalapeno-pretzel-pieces-warning.json"
+    },
+    {
       "id": "gt-synergy-raw-kombucha-warning",
       "name": "GT's Synergy Raw Kombucha Trilogy (WARNING)",
       "categoryFolder": "drinks-sauces",
@@ -73538,6 +74544,78 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. One of the most notorious grocery trap items for Crohn's and Colitis patients. Always choose regular Mission Super Soft white tortillas instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/lunch/mission-carb-balance-flour-tortillas-warning.json"
+    },
+    {
+      "id": "skinny-pop-popcorn-warning",
+      "name": "SkinnyPop Original Popcorn (Hull Hazard WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Amplify Snack Brands",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "popcorn-hulls",
+        "cellulosic-roughage",
+        "ileal-obstruction",
+        "stricture-hazard"
+      ],
+      "searchKeywords": [
+        "skinnypop warning",
+        "skinny pop danger",
+        "healthy popcorn trap",
+        "popcorn blockage"
+      ],
+      "whyItWorks": "Marketed as \"pure, simple, and healthy,\" but it is still whole popped corn. Retains sharp, fibrous hulls and partially popped hard kernels that act as physical blockages in the small intestine.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. No brand of real popcorn is safe for patients with bowel strictures or active mucosal ulcers.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/skinny-pop-popcorn-warning.json"
+    },
+    {
+      "id": "smartfood-white-cheddar-popcorn-warning",
+      "name": "Smartfood White Cheddar Popcorn (Kernel Hull WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Frito-Lay",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "danger-zone",
+        "popcorn-hulls",
+        "unpopped-kernels",
+        "stricture-obstruction",
+        "severe-risk"
+      ],
+      "searchKeywords": [
+        "smartfood white cheddar",
+        "smartfood popcorn warning",
+        "popcorn danger",
+        "obstruction risk"
+      ],
+      "whyItWorks": "Unlike extruded corn puffs, Smartfood is real air-popped whole kernel corn. Every popped cluster contains rigid, sharp brown pericarp hulls that do not dissolve in stomach acid and easily lodge in narrowed Crohn's strictures.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Choose hull-free PopCorners or Pirate's Booty instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/smartfood-white-cheddar-popcorn-warning.json"
     },
     {
       "id": "starbucks-nitro-cold-brew-warning",
@@ -74401,6 +75479,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/leatherbys-creamery-draper-alligator-giant-sundae-warning.json"
     },
     {
+      "id": "cheetos-flamin-hot-crunchy-warning",
+      "name": "Cheetos Flamin' Hot Crunchy Snacks (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Frito-Lay",
+      "crohnsScore": 1.6,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": false,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "flamin-hot",
+        "capsaicin",
+        "citric-acid",
+        "red-40",
+        "severe-mucosal-damage"
+      ],
+      "searchKeywords": [
+        "hot cheetos",
+        "flamin hot warning",
+        "hot cheetos crohns",
+        "red 40 gut burn"
+      ],
+      "whyItWorks": "Coated with an aggressive blend of chili pepper extract, high citric acid, garlic powder, onion powder, and concentrated Red 40 lake dye. The acid and capsaicin cause chemical irritation of ulcers, leading to blood in the stool and intense burning diarrhea.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. One of the most common triggers for emergency flares and mucosal bleeding in pediatric and adult IBD.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/cheetos-flamin-hot-crunchy-warning.json"
+    },
+    {
       "id": "energy-drinks-caffeine-taurine-hazard-warning",
       "name": "Caffeinated Energy Drinks (Monster, Red Bull, Celsius — Extreme Motility Hazard)",
       "categoryFolder": "drinks-sauces",
@@ -74558,6 +75673,42 @@
         "Citrus ceviche marinade"
       ],
       "_sourcePath": "src/data/items/dinner/worlds-of-marvel-hearts-of-palm-popcorn.json"
+    },
+    {
+      "id": "takis-fuego-rolled-tortilla-chips-warning",
+      "name": "Takis Fuego Hot Chili Pepper & Lime Chips (WARNING)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Barcel",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "snack"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "danger-zone",
+        "extreme-heat",
+        "citric-acid-burn",
+        "habanero-capsaicin",
+        "severe-ulceration-hazard"
+      ],
+      "searchKeywords": [
+        "takis fuego warning",
+        "takis danger",
+        "extreme spicy chips",
+        "lime chili chips burn"
+      ],
+      "whyItWorks": "Tightly rolled, hard-fried corn tortillas coated in extreme chili pepper seasoning and citric acid. The high acid content and concentrated capsaicin burn ulcerated gut tissues, sparking violent tenesmus and bloody stools.",
+      "prepOrOrderInstructions": "STRICTLY AVOID. Zero tolerance food for inflammatory bowel disease.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/takis-fuego-rolled-tortilla-chips-warning.json"
     },
     {
       "id": "sugar-free-gummy-bears-sorbitol-warning",

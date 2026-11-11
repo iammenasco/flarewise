@@ -1,0 +1,34 @@
+{
+  "id": "fritolay-mild-cheddar-cheese-dip",
+  "name": "Frito-Lay Mild Cheddar Cheese Dip (Smooth Can)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 7.8,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "cheese-dip",
+    "smooth-texture",
+    "non-spicy",
+    "zero-fiber",
+    "remission-road"
+  ],
+  "searchKeywords": [
+    "frito lay cheese dip",
+    "mild cheddar dip",
+    "canned cheese dip"
+  ],
+  "whyItWorks": "A completely smooth, seedless, non-spicy processed cheese dip. Contains 0g fiber and zero peppers or onions; provides comforting savory flavor for pretzels when in remission.",
+  "prepOrOrderInstructions": "Serve slightly warm or room temperature. Take a lactase enzyme tablet if lactose sensitive.",
+  "safetyTier": "low-risk"
+}

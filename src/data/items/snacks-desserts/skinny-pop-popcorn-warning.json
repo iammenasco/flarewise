@@ -1,0 +1,35 @@
+{
+  "id": "skinny-pop-popcorn-warning",
+  "name": "SkinnyPop Original Popcorn (Hull Hazard WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Amplify Snack Brands",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "popcorn-hulls",
+    "cellulosic-roughage",
+    "ileal-obstruction",
+    "stricture-hazard"
+  ],
+  "searchKeywords": [
+    "skinnypop warning",
+    "skinny pop danger",
+    "healthy popcorn trap",
+    "popcorn blockage"
+  ],
+  "whyItWorks": "Marketed as \"pure, simple, and healthy,\" but it is still whole popped corn. Retains sharp, fibrous hulls and partially popped hard kernels that act as physical blockages in the small intestine.",
+  "prepOrOrderInstructions": "STRICTLY AVOID. No brand of real popcorn is safe for patients with bowel strictures or active mucosal ulcers.",
+  "safetyTier": "danger-zone"
+}

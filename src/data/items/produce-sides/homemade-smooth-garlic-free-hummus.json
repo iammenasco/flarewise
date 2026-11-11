@@ -1,0 +1,34 @@
+{
+  "id": "homemade-smooth-garlic-free-hummus",
+  "name": "Homemade Smooth Garlic-Free Hummus (Blended Chickpea Puree)",
+  "categoryFolder": "produce-sides",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 3,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "garlic-free-hummus",
+    "skinless-chickpeas",
+    "pureed-smooth",
+    "extra-virgin-olive-oil"
+  ],
+  "searchKeywords": [
+    "garlic free hummus",
+    "homemade hummus crohns",
+    "low fodmap hummus",
+    "skinless chickpea dip"
+  ],
+  "whyItWorks": "Made by boiling canned chickpeas with a pinch of baking soda so the skins slip off, then blending the inner flesh velvety smooth with extra-virgin olive oil, cumin, and sea salt with ZERO raw garlic. High protein and gentle.",
+  "prepOrOrderInstructions": "Simmer canned chickpeas for 10 minutes, pinch off loose skins, and puree in a food processor with 2 tbsp olive oil, 2 tbsp warm water, and 1/2 tsp salt until ultra-creamy.",
+  "safetyTier": "low-risk"
+}

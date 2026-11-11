@@ -1,0 +1,37 @@
+{
+  "id": "popcorners-sea-salt-crisps",
+  "name": "PopCorners Sea Salt Popped Corn Crisps",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "PopCorners / PepsiCo",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "popped-corn",
+    "hull-free",
+    "gluten-free",
+    "zero-kernels",
+    "movie-snack",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "popcorners",
+    "pop corners sea salt",
+    "safe popcorn",
+    "hull free popcorn",
+    "popped corn snack"
+  ],
+  "whyItWorks": "The ultimate movie-night popcorn replacement! Made with non-GMO yellow corn, sunflower oil, and sea salt, air-popped under heat and pressure into crispy triangular crisps. Contains ZERO sharp hulls, ZERO unpopped kernels, and melts smoothly under saliva.",
+  "prepOrOrderInstructions": "Eat straight from the bag during movie night or travel. Satisfies the crunchy popcorn craving without the risk of emergency bowel obstruction.",
+  "safetyTier": "flare-safe"
+}

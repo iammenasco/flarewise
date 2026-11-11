@@ -1,0 +1,35 @@
+{
+  "id": "kettle-brand-sea-salt-potato-chips-warning",
+  "name": "Kettle Brand Sea Salt Potato Chips (Thick Cut WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Kettle Brand / Campbell's",
+  "crohnsScore": 5.8,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "thick-cut",
+    "batch-fried",
+    "sharp-edges",
+    "high-fat-9g"
+  ],
+  "searchKeywords": [
+    "kettle chips warning",
+    "thick cut potato chips",
+    "hard fried chips",
+    "greasy chips"
+  ],
+  "whyItWorks": "Extra thick-cut potato slices kettle-cooked in oil to a hard, rigid crispness. The sharp, jagged chip shards can physically scratch inflamed bowel segments, and the high fat (9g per ounce) triggers rapid gastrocolic dumping.",
+  "prepOrOrderInstructions": "Avoid during active disease. Baked Lay's or plain thin crisps are far safer.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "simple-whipped-guacamole-no-onion",
+  "name": "Simple Whipped Guacamole (No Onion, No Garlic, Seedless)",
+  "categoryFolder": "produce-sides",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "whipped-guacamole",
+    "onion-free",
+    "garlic-free",
+    "healthy-fats",
+    "creamy-dip",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "simple guacamole",
+    "no onion guacamole",
+    "garlic free guac",
+    "avocado dip crohns"
+  ],
+  "whyItWorks": "Ripe Hass avocado whipped with a fork until creamy, seasoned only with extra virgin olive oil and fine sea salt. Packed with anti-inflammatory monounsaturated fats and soluble potassium, with zero onion fructans or spicy jalapeño seeds.",
+  "prepOrOrderInstructions": "Mash 1 ripe avocado with 1 tsp olive oil and 1/4 tsp salt. Dip with Fritos corn chips or spread onto soft flour tortillas.",
+  "safetyTier": "flare-safe"
+}

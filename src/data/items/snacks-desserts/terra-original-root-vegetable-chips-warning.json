@@ -1,0 +1,35 @@
+{
+  "id": "terra-original-root-vegetable-chips-warning",
+  "name": "TERRA Original Real Vegetable Chips (WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "TERRA / Hain Celestial",
+  "crohnsScore": 4.8,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "taro-root",
+    "parsnip-fibers",
+    "yuca",
+    "dense-insoluble-fiber"
+  ],
+  "searchKeywords": [
+    "terra chips warning",
+    "root vegetable chips",
+    "taro chips danger",
+    "yuca chips"
+  ],
+  "whyItWorks": "Made from exotic root vegetables (taro, sweet potato, batata, yuca, parsnip). While colorful, root tubers contain dense, woody insoluble fibers that resist enzymatic breakdown and can produce severe gas and cramps.",
+  "prepOrOrderInstructions": "Avoid during flares. Standard peeled white potato chips are much easier to digest.",
+  "safetyTier": "danger-zone"
+}

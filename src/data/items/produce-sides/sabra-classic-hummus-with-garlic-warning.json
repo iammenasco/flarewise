@@ -1,0 +1,35 @@
+{
+  "id": "sabra-classic-hummus-with-garlic-warning",
+  "name": "Sabra Classic Hummus (Raw Garlic & Skin WARNING)",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Sabra",
+  "crohnsScore": 4,
+  "mealTypes": [
+    "snack",
+    "lunch"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "danger-zone",
+    "raw-garlic",
+    "chickpea-skins",
+    "citric-acid",
+    "intense-gas-trigger"
+  ],
+  "searchKeywords": [
+    "sabra hummus warning",
+    "commercial hummus gas",
+    "raw garlic dip warning"
+  ],
+  "whyItWorks": "Contains un-hulled chickpea skins, heavy raw minced garlic, citric acid, and tahini. The raw garlic fructans and fibrous chickpea hulls ferment vigorously in the colon, producing painful bloating and sulfurous gas.",
+  "prepOrOrderInstructions": "Avoid commercial hummus containing raw garlic. Make your own skinned, garlic-free hummus at home.",
+  "safetyTier": "danger-zone"
+}

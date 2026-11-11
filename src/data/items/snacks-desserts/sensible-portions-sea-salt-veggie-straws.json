@@ -1,0 +1,35 @@
+{
+  "id": "sensible-portions-sea-salt-veggie-straws",
+  "name": "Sensible Portions Sea Salt Garden Veggie Straws",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sensible Portions",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "veggie-straws",
+    "potato-starch",
+    "hollow-crunch",
+    "gluten-free",
+    "melt-in-mouth"
+  ],
+  "searchKeywords": [
+    "veggie straws",
+    "sensible portions",
+    "garden veggie straws",
+    "puffed straws"
+  ],
+  "whyItWorks": "Made from potato starch, potato flour, and corn starch colored gently with spinach and beet powder. The hollow extruded straw structure collapses immediately when chewed, offering satisfying crunch with negligible roughage.",
+  "prepOrOrderInstructions": "Great lunchbox or travel snack. Low in fat and seedless.",
+  "safetyTier": "low-risk"
+}

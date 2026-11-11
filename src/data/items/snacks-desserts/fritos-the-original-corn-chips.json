@@ -1,0 +1,35 @@
+{
+  "id": "fritos-the-original-corn-chips",
+  "name": "Fritos The Original Corn Chips",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Frito-Lay",
+  "crohnsScore": 8.2,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "corn-chips",
+    "three-ingredients",
+    "gluten-free",
+    "hull-free",
+    "classic-snack"
+  ],
+  "searchKeywords": [
+    "fritos original",
+    "fritos corn chips",
+    "simple corn chips",
+    "gluten free chips"
+  ],
+  "whyItWorks": "Contains just three simple ingredients: corn, corn oil, and salt. The corn is cooked, finely ground, and extruded before frying, completely eliminating whole kernels and sharp hulls.",
+  "prepOrOrderInstructions": "Enjoy in moderation during remission. Because of oil content, chew thoroughly and avoid eating on an empty stomach during active flares.",
+  "safetyTier": "low-risk"
+}

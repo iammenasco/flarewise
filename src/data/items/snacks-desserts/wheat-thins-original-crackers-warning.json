@@ -1,0 +1,34 @@
+{
+  "id": "wheat-thins-original-crackers-warning",
+  "name": "Wheat Thins Original Crackers (Coarse Bran WARNING)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Nabisco / Mondelēz",
+  "crohnsScore": 5.6,
+  "mealTypes": [
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "danger-zone",
+    "whole-wheat-bran",
+    "malt-syrup",
+    "rough-edges",
+    "stricture-irritant"
+  ],
+  "searchKeywords": [
+    "wheat thins warning",
+    "whole wheat crackers danger",
+    "wheat bran crackers"
+  ],
+  "whyItWorks": "Baked with 100% whole grain wheat, retaining coarse insoluble bran flakes. Produces abrasive friction against inflamed ileal and colonic walls.",
+  "prepOrOrderInstructions": "Choose refined Ritz crackers or saltines instead during active disease.",
+  "safetyTier": "danger-zone"
+}

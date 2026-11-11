@@ -1,0 +1,35 @@
+{
+  "id": "popcorners-kettle-corn",
+  "name": "PopCorners Kettle Corn Popped Corn Crisps",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "PopCorners / PepsiCo",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "snack",
+    "dessert"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "kettle-corn",
+    "sweet-salty",
+    "hull-free",
+    "gluten-free",
+    "zero-seeds"
+  ],
+  "searchKeywords": [
+    "popcorners kettle corn",
+    "sweet salty popped corn",
+    "hull free kettle corn"
+  ],
+  "whyItWorks": "Combines pure yellow corn, sunflower oil, cane sugar, and sea salt. Crisp and airy with zero pericarp hulls, providing gentle sweet-salty crunch with low residue.",
+  "prepOrOrderInstructions": "Enjoy in portion-controlled bowls to keep simple sugars moderate.",
+  "safetyTier": "low-risk"
+}
