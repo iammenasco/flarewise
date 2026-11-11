@@ -1,0 +1,37 @@
+{
+  "id": "airport-auntie-annes-soft-pretzel-plain-dry-no-butter",
+  "name": "Airport Auntie Anne's Soft Pretzel (Plain, Dry, NO Butter, Light Salt)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Auntie Anne's",
+  "crohnsScore": 8.7,
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "auntie-annes",
+    "soft-pretzel",
+    "dry-pretzel",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "auntie annes plain pretzel",
+    "airport pretzel no butter",
+    "dry soft pretzel travel"
+  ],
+  "whyItWorks": "Enriched wheat dough baked fresh in the terminal. When ordered 'dry' without the customary ladle of melted margarine butter, it is low in fat, dairy-free, and provides easily digestible carbohydrates.",
+  "prepOrOrderInstructions": "Order: 'Original Pretzel, but please make it DRY—NO butter brush, light salt only.' (They will pull a fresh one before the butter bath).",
+  "safetyTier": "low-risk"
+}

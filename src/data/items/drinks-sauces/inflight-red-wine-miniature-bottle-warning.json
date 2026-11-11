@@ -1,0 +1,38 @@
+{
+  "id": "inflight-red-wine-miniature-bottle-warning",
+  "name": "WARNING: In-Flight Red Wine Miniature Bottle (High Tannins, Histamines & Dehydration)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Airline In-Flight Warning",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "Euro/Bistro",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "inflight",
+    "travel",
+    "red-wine",
+    "tannins",
+    "histamines",
+    "dehydration",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airplane red wine warning",
+    "inflight wine diarrhea",
+    "red wine crohns flare altitude"
+  ],
+  "whyItWorks": "Red wine is rich in astringent grape tannins and histamines that provoke mucosal mast cell degranulation. Combined with cabin dehydration, alcohol weakens gut barrier integrity, triggering nocturnal diarrhea upon arrival.",
+  "prepOrOrderInstructions": "Decline alcoholic beverages on flights. Drink pure bottled spring water or coconut water.",
+  "safetyTier": "danger-zone"
+}

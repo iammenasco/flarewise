@@ -1,0 +1,39 @@
+{
+  "id": "airport-terminal-crispy-nachos-jalapeno-cheese-warning",
+  "name": "WARNING: Terminal Crispy Nachos with Yellow Cheese Sauce & Pickled Jalapeños",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Airport Concessions Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "snack",
+    "lunch",
+    "takeout"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "nachos",
+    "sharp-chips",
+    "jalapeno",
+    "cheese-grease",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airport nachos warning",
+    "nacho cheese jalapeño diarrhea",
+    "crispy tortilla chips crohns"
+  ],
+  "whyItWorks": "Hard, razor-sharp corn tortilla chips that shatter into jagged shards, smothered in hydrogenated cheese sauce and fiery pickled jalapeño wheels with seeds. Severe mechanical scrape hazard and acute capsaicin motility trigger.",
+  "prepOrOrderInstructions": "Skip stadium-style terminal nachos. Choose plain potato crisps or soft pretzels.",
+  "safetyTier": "danger-zone"
+}

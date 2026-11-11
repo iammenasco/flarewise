@@ -1,0 +1,37 @@
+{
+  "id": "inflight-diluted-ginger-ale-with-still-water",
+  "name": "In-Flight Half Ginger Ale & Half Still Water (De-Gas Dilution Hack)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Airline In-Flight Service Hack",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "inflight",
+    "travel",
+    "ginger-ale-hack",
+    "diluted",
+    "de-gas",
+    "anti-nausea",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "inflight ginger ale hack",
+    "diluted ginger ale airplane",
+    "safe airplane drink"
+  ],
+  "whyItWorks": "Full-strength airplane canned sodas are super-carbonated and expand aggressively in pressurized cabins. Asking the flight attendant for half cup ginger ale and half cup bottled water cuts carbonation by 50% while retaining soothing ginger sweetness and anti-nausea benefits.",
+  "prepOrOrderInstructions": "Ask the flight attendant: 'Could I please have half a cup of ginger ale topped off with bottled spring water?' Stir lightly with your straw to disperse bubbles.",
+  "safetyTier": "flare-safe"
+}

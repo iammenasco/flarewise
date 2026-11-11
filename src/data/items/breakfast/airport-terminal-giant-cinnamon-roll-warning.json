@@ -1,0 +1,39 @@
+{
+  "id": "airport-terminal-giant-cinnamon-roll-warning",
+  "name": "WARNING: Airport Cinnabon / Terminal Giant Cinnamon Roll",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Cinnabon / Terminal Bakery Warning",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "breakfast",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "cinnabon",
+    "cinnamon-roll",
+    "cream-cheese-frosting",
+    "fat-bomb",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "cinnabon airport warning",
+    "giant cinnamon roll diarrhea",
+    "cinnabon crohns flare"
+  ],
+  "whyItWorks": "Packs 880+ calories, 37g of fat, and 60g of refined sugar smothered in rich cream cheese frosting and intense cinnamon oils. Extreme hyperosmolarity draws water into the colon, causing severe cramps and urgency.",
+  "prepOrOrderInstructions": "Walk past the terminal Cinnabon aroma. Choose a plain toasted bagel with light butter.",
+  "safetyTier": "danger-zone"
+}

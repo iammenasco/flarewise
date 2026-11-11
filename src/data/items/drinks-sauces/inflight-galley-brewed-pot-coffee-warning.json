@@ -1,0 +1,37 @@
+{
+  "id": "inflight-galley-brewed-pot-coffee-warning",
+  "name": "WARNING: In-Flight Galley-Brewed Coffee (Extreme Dehydration & Motility Spasms)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Airline In-Flight Warning",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "inflight",
+    "travel",
+    "airplane-coffee",
+    "caffeine-motility",
+    "dehydration",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airplane coffee warning",
+    "inflight coffee diarrhea",
+    "coffee on plane crohns"
+  ],
+  "whyItWorks": "Airline coffee is brewed using potable galley water tanks that have variable sanitization protocols. Furthermore, high caffeine in an already low-humidity pressurized cabin acts as a potent diuretic and triggers immediate colonic motor contractions when airplane lavatories may be inaccessible during turbulence.",
+  "prepOrOrderInstructions": "Decline airplane galley coffee. Drink bottled still spring water or hot herbal tea.",
+  "safetyTier": "danger-zone"
+}

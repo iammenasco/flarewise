@@ -1,0 +1,37 @@
+{
+  "id": "inflight-salted-roasted-peanuts-packet-warning",
+  "name": "WARNING: In-Flight Salted Roasted Peanuts Packet (Hard Particles & Strictures)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Airline Service Warning",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "inflight",
+    "travel",
+    "peanuts",
+    "hard-nuts",
+    "stricture-hazard",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airline peanuts warning",
+    "inflight peanuts crohns",
+    "peanut packet stricture risk"
+  ],
+  "whyItWorks": "Standard in-flight complimentary snack pack. Even with chewing, hard roasted peanut fragments resist stomach acid digestion, creating gritty friction against inflamed ileal or colonic walls.",
+  "prepOrOrderInstructions": "Politely pass on the peanut packet. Ask the flight attendant for Biscoff cookies or pretzels instead.",
+  "safetyTier": "danger-zone"
+}

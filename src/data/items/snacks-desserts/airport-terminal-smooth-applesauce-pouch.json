@@ -1,0 +1,36 @@
+{
+  "id": "airport-terminal-smooth-applesauce-pouch",
+  "name": "Airport Terminal Squeezable Applesauce Pouch (GoGo Squeez)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "GoGo Squeez / Hudson News",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "applesauce-pouch",
+    "soluble-fiber",
+    "pectin",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airport applesauce pouch",
+    "gogo squeez airport",
+    "travel pectin snack"
+  ],
+  "whyItWorks": "TSA medically exempt or purchased post-security. Provides smooth, comforting soluble pectin and clean hydration with zero peeling, utensils, or chewing friction.",
+  "prepOrOrderInstructions": "Keep in your carry-on bag for smooth, gentle calories during taxi and takeoff.",
+  "safetyTier": "flare-safe"
+}

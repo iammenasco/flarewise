@@ -1,0 +1,39 @@
+{
+  "id": "airport-hudson-news-raw-nut-trail-mix-warning",
+  "name": "CRITICAL WARNING: Airport Hudson News Trail Mixes (Raw Almonds, Cashews & Stricture Hazard)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Hudson News / Terminal Warning",
+  "crohnsScore": 1,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "trail-mix",
+    "whole-nuts",
+    "bezoar-hazard",
+    "stricture-blockage",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airport trail mix warning",
+    "hudson news nuts danger",
+    "trail mix bowel obstruction",
+    "raw nuts stricture hazard flight"
+  ],
+  "whyItWorks": "EMERGENCY CLINICAL OBSTRUCTION HAZARD: Bags of mixed raw almonds, cashews, dried cranberries, and raisins. Chewed nut shards are razor-sharp and pass largely intact, forming dense phytobezoars that can wedge in strictures at 35,000 feet—an in-flight medical emergency.",
+  "prepOrOrderInstructions": "NEVER consume whole nut trail mixes while traveling with Crohn's or strictures. Choose smooth nut butters or hard-boiled eggs.",
+  "safetyTier": "danger-zone"
+}

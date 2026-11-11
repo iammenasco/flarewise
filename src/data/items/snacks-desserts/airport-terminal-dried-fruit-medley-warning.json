@@ -1,0 +1,38 @@
+{
+  "id": "airport-terminal-dried-fruit-medley-warning",
+  "name": "WARNING: Airport Hudson News Dried Fruit Medley (Sorbitol & Insoluble Skins)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Hudson News / Terminal Warning",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "dried-fruit",
+    "sorbitol",
+    "sulfites",
+    "leathery-skins",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airport dried fruit warning",
+    "dried apricot prunes flight diarrhea",
+    "sorbitol gas airplane"
+  ],
+  "whyItWorks": "Bags of dried apricots, prunes, and apples. Dense in natural sorbitol (sugar alcohol) and concentrated leathery fruit skins. Triggers explosive gas distension and laxative effects at altitude.",
+  "prepOrOrderInstructions": "Avoid dried fruit bags at airport newsstands. Choose fresh peeled bananas or smooth applesauce pouches.",
+  "safetyTier": "danger-zone"
+}

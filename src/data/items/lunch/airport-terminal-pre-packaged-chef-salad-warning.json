@@ -1,0 +1,37 @@
+{
+  "id": "airport-terminal-pre-packaged-chef-salad-warning",
+  "name": "WARNING: Terminal Pre-Packaged Chef Salad (Raw Iceberg Roughage & Sulfite Ranch)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Airport Kiosk Warning",
+  "crohnsScore": 2.2,
+  "mealTypes": [
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "chef-salad",
+    "raw-roughage",
+    "iceberg",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airport salad warning",
+    "terminal grab and go salad diarrhea",
+    "raw lettuce before flight"
+  ],
+  "whyItWorks": "Dense plastic clamshell filled with coarse raw iceberg lettuce, hard raw carrots, raw red cabbage, and thick garlic ranch dressing. Massive mechanical roughage sitting in a pressurized gut produces cramping and frequent lavatory trips.",
+  "prepOrOrderInstructions": "Skip pre-packaged raw salads in the airport. Choose a warm, cooked meal or plain turkey sandwich.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "inflight-hot-peppermint-chamomile-tea-mug",
+  "name": "In-Flight Hot Herbal Tea (BYO Peppermint / Chamomile Tea Bag Hack)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Airline Hot Water + BYO Herbal Sachet",
+  "crohnsScore": 9.7,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "inflight",
+    "travel",
+    "hot-herbal-tea",
+    "byo-teabag",
+    "antispasmodic",
+    "warmth",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "inflight hot tea hack",
+    "airplane herbal tea crohns",
+    "carry on tea bag flight"
+  ],
+  "whyItWorks": "A flight-tested pro tip for IBD travelers: Pack organic peppermint or chamomile tea bags in your pocket. Ask the flight attendant for a cup of plain hot water. Warmth soothes abdominal muscle spasms and eases flight anxiety with zero caffeine.",
+  "prepOrOrderInstructions": "Carry 2–3 wrapped herbal tea bags in your carry-on. Ask the flight attendant during beverage service: 'May I please have a cup of hot water with a slice of lemon?' Drop in your tea bag.",
+  "safetyTier": "flare-safe"
+}

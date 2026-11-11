@@ -1,0 +1,37 @@
+{
+  "id": "airport-starbucks-protein-box-hacked-eggs-cheese",
+  "name": "Airport Starbucks Eggs & Gouda Protein Box (Hacked: Eggs & Cheese Only)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Starbucks / Airport Kiosk",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "starbucks",
+    "protein-box",
+    "hacked",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "starbucks protein box airport",
+    "hacked starbucks box crohns",
+    "airport eggs cheese"
+  ],
+  "whyItWorks": "Available in almost every terminal. Contains two hard-boiled eggs and slices of aged Gouda cheese (naturally very low lactose). By selectively eating the eggs, cheese, and honey/crackers while discarding the raw whole apples and peanut butter packet, you get a clean 20g protein meal.",
+  "prepOrOrderInstructions": "Purchase the Eggs & Gouda (or Cheddar) Protein Box. Eat the eggs and cheese; discard the fresh raw apple slices and nut butter if flaring.",
+  "safetyTier": "low-risk"
+}

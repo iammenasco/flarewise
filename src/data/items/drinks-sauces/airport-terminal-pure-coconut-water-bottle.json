@@ -1,0 +1,37 @@
+{
+  "id": "airport-terminal-pure-coconut-water-bottle",
+  "name": "Airport Terminal Pure Coconut Water (Harmless Harvest / Vita Coco)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Hudson News / Terminal Market",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "coconut-water",
+    "hydration",
+    "electrolytes",
+    "potassium",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airport coconut water",
+    "terminal electrolyte drink",
+    "hydration flight crohns"
+  ],
+  "whyItWorks": "Cabin air at 35,000 feet has relative humidity under 15%—dryer than the Sahara Desert. Pure coconut water provides natural bioavailable potassium, magnesium, and sodium to combat travel dehydration without acidic citric dyes.",
+  "prepOrOrderInstructions": "Buy a bottle post-security before boarding. Sip at room temperature throughout the flight.",
+  "safetyTier": "flare-safe"
+}

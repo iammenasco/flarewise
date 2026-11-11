@@ -1,0 +1,36 @@
+{
+  "id": "airport-terminal-gluten-free-pretzels-mini",
+  "name": "Airport Terminal Snyder's of Hanover Gluten-Free Mini Pretzels",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Snyder's / Terminal Kiosk",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "gluten-free-pretzels",
+    "low-fat",
+    "salt",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airport gf pretzels",
+    "snyders gluten free travel",
+    "salted pretzels flight"
+  ],
+  "whyItWorks": "Crunchy corn and potato starch pretzels with fine sea salt. Gluten-free, ultra-low in fat, non-greasy, and provides crucial sodium to maintain fluid retention at high altitudes.",
+  "prepOrOrderInstructions": "Available in single-serve bags at newsstands and Hudson News racks.",
+  "safetyTier": "flare-safe"
+}

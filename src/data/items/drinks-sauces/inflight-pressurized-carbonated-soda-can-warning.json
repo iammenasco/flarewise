@@ -1,0 +1,38 @@
+{
+  "id": "inflight-pressurized-carbonated-soda-can-warning",
+  "name": "CRITICAL WARNING: Full-Strength In-Flight Carbonated Sodas (Boyle's Law Colic Expansion)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Airline In-Flight Warning",
+  "crohnsScore": 1.2,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "inflight",
+    "travel",
+    "carbonated-soda",
+    "boyles-law",
+    "cabin-pressure",
+    "colic-pain",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "drinking soda on airplane warning",
+    "carbonation cabin pressure bloat",
+    "airplane gas expansion crohns"
+  ],
+  "whyItWorks": "CLINICAL WARNING: According to Boyle's Law, when aircraft cabin altitude drops to equivalent 6,000–8,000 feet, free gas in the human intestinal tract naturally expands by 25% to 30%. Drinking full-strength carbonated sodas introduces immense volumes of dissolved CO2 that aggressively expand in the bowel, causing severe gas colic, excruciating distension, and trapped gas at strictures.",
+  "prepOrOrderInstructions": "Never drink full-can carbonated sodas or sparkling seltzers on airplanes. Stick to still bottled water or diluted juices.",
+  "safetyTier": "danger-zone"
+}

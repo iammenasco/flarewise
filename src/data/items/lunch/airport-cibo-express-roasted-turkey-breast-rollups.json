@@ -1,0 +1,37 @@
+{
+  "id": "airport-cibo-express-roasted-turkey-breast-rollups",
+  "name": "Airport Cibo Express Roasted Turkey Breast Roll-Ups (Deli Pack)",
+  "categoryFolder": "lunch",
+  "brandOrRestaurant": "Cibo Express / OTG Terminal Market",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "turkey-rollups",
+    "cibo-express",
+    "lean-protein",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "cibo express turkey rollups",
+    "airport deli turkey slices",
+    "terminal protein pack"
+  ],
+  "whyItWorks": "Packaged sliced oven-roasted turkey breast rolled with mild provolone or eaten plain. Pure protein without rough bread crusts, raw onions, or spicy dressings.",
+  "prepOrOrderInstructions": "Grab from refrigerated cases at terminal gourmet markets. Eat with plain crackers or a banana.",
+  "safetyTier": "flare-safe"
+}

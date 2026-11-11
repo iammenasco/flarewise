@@ -1,0 +1,38 @@
+{
+  "id": "airport-hudson-news-hard-boiled-eggs-two-pack",
+  "name": "Airport Hudson News Hard-Boiled Eggs (Peeled 2-Pack with Salt)",
+  "categoryFolder": "high-protein",
+  "brandOrRestaurant": "Hudson News / Terminal C-Store",
+  "crohnsScore": 9.6,
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "hard-boiled-eggs",
+    "high-protein",
+    "zero-fiber",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airport hard boiled eggs",
+    "hudson news eggs",
+    "travel snack crohns safe"
+  ],
+  "whyItWorks": "Available at almost every airport newsstand and gate-side kiosk in the world. Pre-cooked, peeled, and refrigerated. Delivers 12g of complete protein with zero fiber, zero lactose, and zero irritating spices.",
+  "prepOrOrderInstructions": "Grab from the refrigerated grab-and-go case. Season with the included salt packet; eat before boarding or carry on plane.",
+  "safetyTier": "flare-safe"
+}

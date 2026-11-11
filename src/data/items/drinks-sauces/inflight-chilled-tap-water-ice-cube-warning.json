@@ -1,0 +1,37 @@
+{
+  "id": "inflight-chilled-tap-water-ice-cube-warning",
+  "name": "WARNING: In-Flight Galley Tap Water & Airplane Ice Cubes",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Airline Service Warning",
+  "crohnsScore": 3.5,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "inflight",
+    "travel",
+    "galley-water",
+    "ice-cubes",
+    "tank-water",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airplane tap water warning",
+    "inflight ice cubes water quality",
+    "galley water tank bacteria"
+  ],
+  "whyItWorks": "Airplane ice cubes and open-pitcher tap water originate from onboard potable water tanks, which multiple EPA studies have identified as having variable coliform compliance. For immunosuppressed IBD patients (biologics, steroids, JAK inhibitors), this poses opportunistic GI infection risks.",
+  "prepOrOrderInstructions": "Always ask for an unopened, factory-sealed can or bottle of water, and specify: 'NO ice, please.'",
+  "safetyTier": "danger-zone"
+}

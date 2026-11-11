@@ -1,0 +1,36 @@
+{
+  "id": "airport-terminal-bottled-still-spring-water",
+  "name": "Airport Terminal Bottled Still Spring Water (Room Temperature)",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Fiji / Evian / Dasani / Smartwater",
+  "crohnsScore": 9.8,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "water",
+    "essential",
+    "hydration",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "bottled water airport",
+    "still water flight",
+    "safe drinking water travel"
+  ],
+  "whyItWorks": "The #1 non-negotiable health asset for flying with IBD. Drinking 8–12 oz of still, non-carbonated water per hour of flight offsets rapid respiratory fluid loss and prevents blood thickening and stool hardening.",
+  "prepOrOrderInstructions": "Always buy a large 1-liter bottle after clearing the TSA security checkpoint. Request it unchilled if available.",
+  "safetyTier": "flare-safe"
+}

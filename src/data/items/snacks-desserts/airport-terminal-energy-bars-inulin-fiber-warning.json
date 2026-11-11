@@ -1,0 +1,38 @@
+{
+  "id": "airport-terminal-energy-bars-inulin-fiber-warning",
+  "name": "WARNING: Airport Terminal 'High Fiber' Energy Bars (Inulin / Chicory Root Hazard)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Fiber One / Think / Quest / Terminal Warning",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 10,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "fiber-bar",
+    "inulin",
+    "chicory-root",
+    "gas-bomb",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "high fiber bar airport warning",
+    "inulin chicory root airplane gas",
+    "fiber one bar flight disaster"
+  ],
+  "whyItWorks": "Marketed as healthy travel snacks, these bars pack 10g–15g of isolated chicory root fiber (inulin). In a pressurized airplane cabin, rapid fermentation of inulin produces massive, agonizing gas distension and flatulence.",
+  "prepOrOrderInstructions": "Check labels at Hudson News for 'chicory root fiber' or 'inulin' and strictly avoid them before boarding.",
+  "safetyTier": "danger-zone"
+}

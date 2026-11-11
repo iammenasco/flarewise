@@ -1,0 +1,37 @@
+{
+  "id": "airport-terminal-plain-white-bagel-cream-cheese",
+  "name": "Airport Terminal Plain White Bagel with Regular Cream Cheese",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Einstein Bros / Terminal Bakery",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "breakfast",
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "plain-bagel",
+    "cream-cheese",
+    "low-residue",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "airport plain bagel",
+    "einstein bros airport bagel",
+    "terminal breakfast bagel"
+  ],
+  "whyItWorks": "Dense boiled white flour dough toasted golden. Provides steady, low-residue fuel that sits quietly in the stomach without causing urgency on long flights.",
+  "prepOrOrderInstructions": "Order: 'Plain Bagel toasted with plain regular cream cheese—NO seeds, NO garlic, NO onion.'",
+  "safetyTier": "low-risk"
+}

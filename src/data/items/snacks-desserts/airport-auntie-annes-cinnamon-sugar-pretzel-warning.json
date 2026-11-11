@@ -1,0 +1,39 @@
+{
+  "id": "airport-auntie-annes-cinnamon-sugar-pretzel-warning",
+  "name": "WARNING: Auntie Anne's Cinnamon Sugar Soft Pretzel (Heavy Butter Bath & Sugar Crust)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Auntie Anne's Warning",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "snack",
+    "dessert",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "auntie-annes",
+    "cinnamon-sugar",
+    "butter-bath",
+    "dumping",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "auntie annes cinnamon pretzel warning",
+    "cinnamon sugar pretzel diarrhea",
+    "airport sweet pretzel flare"
+  ],
+  "whyItWorks": "After baking, the hot pretzel is completely submerged in a bath of melted margarine butter and heavily coated in coarse granulated cinnamon sugar (nearly 500 calories and 30g sugar). The heavy grease and hyperosmolar sugar coat trigger rapid dumping and nausea.",
+  "prepOrOrderInstructions": "Order the Original pretzel completely 'DRY' without butter.",
+  "safetyTier": "danger-zone"
+}

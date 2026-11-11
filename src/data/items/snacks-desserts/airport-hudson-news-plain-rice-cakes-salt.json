@@ -1,0 +1,36 @@
+{
+  "id": "airport-hudson-news-plain-rice-cakes-salt",
+  "name": "Airport Terminal Plain Lightly Salted Rice Cakes",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Quaker / Lundberg / Hudson News",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "rice-cakes",
+    "puffed-rice",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airport rice cakes",
+    "plain rice cakes travel",
+    "terminal snack crohns"
+  ],
+  "whyItWorks": "Puffed white rice and sea salt. Ultra-light, dry, non-perishable, and exceptionally easy to digest. Provides gentle, non-bloating carbohydrate energy during flights.",
+  "prepOrOrderInstructions": "Buy a roll at Hudson News or airport sundry shops to keep in your personal carry-on bag for hunger emergencies.",
+  "safetyTier": "flare-safe"
+}

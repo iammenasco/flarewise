@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:36:32.618Z",
-  "itemCount": 2165,
+  "builtAt": "2026-11-11T20:38:45.091Z",
+  "itemCount": 2195,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -596,6 +596,43 @@
       "whyItWorks": "Pure pasteurized egg whites offer 100% bioavailable protein with zero fat, zero cholesterol, zero lactose, and zero fiber. It is arguably the easiest protein for a severely inflamed bowel to absorb.",
       "prepOrOrderInstructions": "Scramble gently in a non-stick pan with light cooking spray. Pair with soft white toast and seedless jelly.",
       "_sourcePath": "src/data/items/breakfast/members-mark-liquid-egg-whites-cartons.json"
+    },
+    {
+      "id": "airport-terminal-bottled-still-spring-water",
+      "name": "Airport Terminal Bottled Still Spring Water (Room Temperature)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Fiji / Evian / Dasani / Smartwater",
+      "crohnsScore": 9.8,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "water",
+        "essential",
+        "hydration",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "bottled water airport",
+        "still water flight",
+        "safe drinking water travel"
+      ],
+      "whyItWorks": "The #1 non-negotiable health asset for flying with IBD. Drinking 8–12 oz of still, non-carbonated water per hour of flight offsets rapid respiratory fluid loss and prevents blood thickening and stool hardening.",
+      "prepOrOrderInstructions": "Always buy a large 1-liter bottle after clearing the TSA security checkpoint. Request it unchilled if available.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/airport-terminal-bottled-still-spring-water.json"
     },
     {
       "id": "costco-kirkland-organic-chicken-bone-broth",
@@ -1229,6 +1266,44 @@
       "_sourcePath": "src/data/items/lunch/holiday-leftover-turkey-bone-broth-noodle-soup.json"
     },
     {
+      "id": "inflight-hot-peppermint-chamomile-tea-mug",
+      "name": "In-Flight Hot Herbal Tea (BYO Peppermint / Chamomile Tea Bag Hack)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Airline Hot Water + BYO Herbal Sachet",
+      "crohnsScore": 9.7,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "inflight",
+        "travel",
+        "hot-herbal-tea",
+        "byo-teabag",
+        "antispasmodic",
+        "warmth",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "inflight hot tea hack",
+        "airplane herbal tea crohns",
+        "carry on tea bag flight"
+      ],
+      "whyItWorks": "A flight-tested pro tip for IBD travelers: Pack organic peppermint or chamomile tea bags in your pocket. Ask the flight attendant for a cup of plain hot water. Warmth soothes abdominal muscle spasms and eases flight anxiety with zero caffeine.",
+      "prepOrOrderInstructions": "Carry 2–3 wrapped herbal tea bags in your carry-on. Ask the flight attendant during beverage service: 'May I please have a cup of hot water with a slice of lemon?' Drop in your tea bag.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/inflight-hot-peppermint-chamomile-tea-mug.json"
+    },
+    {
       "id": "kirkland-signature-boneless-skinless-chicken-breasts-frozen",
       "name": "Kirkland Signature Boneless Skinless Chicken Breasts (Individually Wrapped)",
       "categoryFolder": "frozen-aisle",
@@ -1684,6 +1759,45 @@
         "100% pure butter oil; safe for all IBD dietary stages."
       ],
       "_sourcePath": "src/data/items/drinks-sauces/fourth-heart-original-grassfed-ghee.json"
+    },
+    {
+      "id": "airport-hudson-news-hard-boiled-eggs-two-pack",
+      "name": "Airport Hudson News Hard-Boiled Eggs (Peeled 2-Pack with Salt)",
+      "categoryFolder": "high-protein",
+      "brandOrRestaurant": "Hudson News / Terminal C-Store",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "snack",
+        "breakfast",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "hard-boiled-eggs",
+        "high-protein",
+        "zero-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airport hard boiled eggs",
+        "hudson news eggs",
+        "travel snack crohns safe"
+      ],
+      "whyItWorks": "Available at almost every airport newsstand and gate-side kiosk in the world. Pre-cooked, peeled, and refrigerated. Delivers 12g of complete protein with zero fiber, zero lactose, and zero irritating spices.",
+      "prepOrOrderInstructions": "Grab from the refrigerated grab-and-go case. Season with the included salt packet; eat before boarding or carry on plane.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/high-protein/airport-hudson-news-hard-boiled-eggs-two-pack.json"
     },
     {
       "id": "cream-of-wheat-instant-original",
@@ -2448,6 +2562,44 @@
         "Leave any fibrous celery pieces at the bottom of the bowl if mid-flare"
       ],
       "_sourcePath": "src/data/items/lunch/dcl-room-service-chicken-noodle-soup.json"
+    },
+    {
+      "id": "airport-terminal-fresh-ripe-yellow-banana",
+      "name": "Airport Terminal Fresh Ripe Yellow Banana",
+      "categoryFolder": "produce-sides",
+      "brandOrRestaurant": "Airport Kiosk / Starbucks / Grab & Go",
+      "crohnsScore": 9.5,
+      "mealTypes": [
+        "snack",
+        "breakfast",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "banana",
+        "potassium",
+        "soluble-fiber",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airport banana",
+        "terminal fresh fruit banana",
+        "travel fruit crohns safe"
+      ],
+      "whyItWorks": "Nature's portable gastrointestinal medicine. The thick protective peel keeps it sanitary in airports. Rich in soluble pectin and potassium to prevent travel cramping and dehydration.",
+      "prepOrOrderInstructions": "Pick a fully yellow banana with light brown speckles (avoid green unripe bananas with resistant starch). Available at Starbucks counter or fruit baskets.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/produce-sides/airport-terminal-fresh-ripe-yellow-banana.json"
     },
     {
       "id": "bob-red-mill-organic-farina-creamy-wheat",
@@ -4938,6 +5090,80 @@
       "_sourcePath": "src/data/items/breakfast/pure-grade-a-maple-syrup.json"
     },
     {
+      "id": "airport-hudson-news-plain-rice-cakes-salt",
+      "name": "Airport Terminal Plain Lightly Salted Rice Cakes",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Quaker / Lundberg / Hudson News",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "rice-cakes",
+        "puffed-rice",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airport rice cakes",
+        "plain rice cakes travel",
+        "terminal snack crohns"
+      ],
+      "whyItWorks": "Puffed white rice and sea salt. Ultra-light, dry, non-perishable, and exceptionally easy to digest. Provides gentle, non-bloating carbohydrate energy during flights.",
+      "prepOrOrderInstructions": "Buy a roll at Hudson News or airport sundry shops to keep in your personal carry-on bag for hunger emergencies.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-hudson-news-plain-rice-cakes-salt.json"
+    },
+    {
+      "id": "airport-terminal-smooth-applesauce-pouch",
+      "name": "Airport Terminal Squeezable Applesauce Pouch (GoGo Squeez)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "GoGo Squeez / Hudson News",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "applesauce-pouch",
+        "soluble-fiber",
+        "pectin",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airport applesauce pouch",
+        "gogo squeez airport",
+        "travel pectin snack"
+      ],
+      "whyItWorks": "TSA medically exempt or purchased post-security. Provides smooth, comforting soluble pectin and clean hydration with zero peeling, utensils, or chewing friction.",
+      "prepOrOrderInstructions": "Keep in your carry-on bag for smooth, gentle calories during taxi and takeoff.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-terminal-smooth-applesauce-pouch.json"
+    },
+    {
       "id": "bumble-bee-solid-white-albacore-tuna-water",
       "name": "Bumble Bee Solid White Albacore Tuna in Water",
       "categoryFolder": "high-protein",
@@ -6158,6 +6384,44 @@
         "Low in fiber by design (0.5g); perfect for low-residue flare protocols."
       ],
       "_sourcePath": "src/data/items/lunch/wonder-classic-white-sandwich-bread.json"
+    },
+    {
+      "id": "airport-terminal-pure-coconut-water-bottle",
+      "name": "Airport Terminal Pure Coconut Water (Harmless Harvest / Vita Coco)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Hudson News / Terminal Market",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "coconut-water",
+        "hydration",
+        "electrolytes",
+        "potassium",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airport coconut water",
+        "terminal electrolyte drink",
+        "hydration flight crohns"
+      ],
+      "whyItWorks": "Cabin air at 35,000 feet has relative humidity under 15%—dryer than the Sahara Desert. Pure coconut water provides natural bioavailable potassium, magnesium, and sodium to combat travel dehydration without acidic citric dyes.",
+      "prepOrOrderInstructions": "Buy a bottle post-security before boarding. Sip at room temperature throughout the flight.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/airport-terminal-pure-coconut-water-bottle.json"
     },
     {
       "id": "applegate-naturals-roasted-turkey-breast-slices",
@@ -8086,6 +8350,82 @@
       "_sourcePath": "src/data/items/lunch/wendys-plain-baked-potato-no-skin.json"
     },
     {
+      "id": "airport-cibo-express-roasted-turkey-breast-rollups",
+      "name": "Airport Cibo Express Roasted Turkey Breast Roll-Ups (Deli Pack)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Cibo Express / OTG Terminal Market",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "turkey-rollups",
+        "cibo-express",
+        "lean-protein",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "cibo express turkey rollups",
+        "airport deli turkey slices",
+        "terminal protein pack"
+      ],
+      "whyItWorks": "Packaged sliced oven-roasted turkey breast rolled with mild provolone or eaten plain. Pure protein without rough bread crusts, raw onions, or spicy dressings.",
+      "prepOrOrderInstructions": "Grab from refrigerated cases at terminal gourmet markets. Eat with plain crackers or a banana.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/lunch/airport-cibo-express-roasted-turkey-breast-rollups.json"
+    },
+    {
+      "id": "airport-terminal-plain-scrambled-eggs-toast",
+      "name": "Airport Terminal Diner Plain Scrambled Eggs with White Toast",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Terminal Diner / Sit-Down Gate Cafe",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "scrambled-eggs",
+        "white-toast",
+        "sit-down",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airport scrambled eggs",
+        "terminal diner breakfast",
+        "plain eggs airport"
+      ],
+      "whyItWorks": "Freshly scrambled eggs cooked dry or in a touch of butter, served with dry white toast and jelly. Soft, warm, and highly comforting before boarding a cross-country flight.",
+      "prepOrOrderInstructions": "Order: 'Two scrambled eggs cooked plain—NO bacon, NO sausage, NO hash browns—with dry white toast and butter on the side.'",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/breakfast/airport-terminal-plain-scrambled-eggs-toast.json"
+    },
+    {
       "id": "fresh-bakery-angel-food-cake",
       "name": "Bakery Angel Food Cake (Fat-Free White Sponge Cake)",
       "categoryFolder": "snacks-desserts",
@@ -8754,6 +9094,43 @@
       "prepOrOrderInstructions": "Use as the liquid for boiling white jasmine rice, pasta, or softening potatoes.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/drinks-sauces/imagine-organic-free-range-chicken-broth.json"
+    },
+    {
+      "id": "inflight-saltine-crackers-plain-snack-pack",
+      "name": "In-Flight Plain Saltine Crackers (Airline Snack Pack)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Keebler / Nabisco / Airline Service",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "inflight",
+        "travel",
+        "saltines",
+        "soda-crackers",
+        "nausea-relief",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airline saltine crackers",
+        "flight crackers nausea",
+        "plain saltines airplane"
+      ],
+      "whyItWorks": "Simple baking soda crackers made with enriched white flour and salt. Absorbs excess gastric juices, settles flight turbulence nausea, and provides quick, harmless glucose without roughage.",
+      "prepOrOrderInstructions": "Request an extra pack of saltine crackers from the galley attendant if you feel stomach churn or hunger between meal services.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/inflight-saltine-crackers-plain-snack-pack.json"
     },
     {
       "id": "kadoya-pure-toasted-sesame-oil",
@@ -9981,6 +10358,43 @@
         "Drink slowly; drinking large volumes quickly can have a mild laxative effect due to natural potassium."
       ],
       "_sourcePath": "src/data/items/produce-sides/vita-coco-pure-coconut-water.json"
+    },
+    {
+      "id": "airport-terminal-cheddar-string-cheese-stick",
+      "name": "Airport Terminal Sharp Cheddar or Mozzarella String Cheese Stick",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Sargento / Frigo / Terminal Cooler",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "string-cheese",
+        "low-lactose",
+        "protein-snack",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airport string cheese",
+        "cheese stick terminal",
+        "low lactose travel snack"
+      ],
+      "whyItWorks": "Individually sealed pasteurized cheese sticks in terminal cooler cases. Aged cheddar and part-skim mozzarella have less than 0.1g lactose per stick, providing 6g–7g of clean protein with zero GI distress.",
+      "prepOrOrderInstructions": "Buy a pair from the grab-and-go refrigerator before boarding.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-terminal-cheddar-string-cheese-stick.json"
     },
     {
       "id": "amys-organic-butternut-squash-soup",
@@ -12175,6 +12589,43 @@
         "Remove raw lettuce and tomato slices"
       ],
       "_sourcePath": "src/data/items/lunch/dcl-room-service-turkey-sandwich.json"
+    },
+    {
+      "id": "airport-terminal-gluten-free-pretzels-mini",
+      "name": "Airport Terminal Snyder's of Hanover Gluten-Free Mini Pretzels",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Snyder's / Terminal Kiosk",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "gluten-free-pretzels",
+        "low-fat",
+        "salt",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "airport gf pretzels",
+        "snyders gluten free travel",
+        "salted pretzels flight"
+      ],
+      "whyItWorks": "Crunchy corn and potato starch pretzels with fine sea salt. Gluten-free, ultra-low in fat, non-greasy, and provides crucial sodium to maintain fluid retention at high altitudes.",
+      "prepOrOrderInstructions": "Available in single-serve bags at newsstands and Hudson News racks.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-terminal-gluten-free-pretzels-mini.json"
     },
     {
       "id": "angies-logan-turkey-steak-roast-beef-mashed-potatoes",
@@ -14805,6 +15256,44 @@
         "Unpeeled squash skin edges"
       ],
       "_sourcePath": "src/data/items/dinner/honey-roasted-butternut-squash.json"
+    },
+    {
+      "id": "inflight-diluted-ginger-ale-with-still-water",
+      "name": "In-Flight Half Ginger Ale & Half Still Water (De-Gas Dilution Hack)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Airline In-Flight Service Hack",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "inflight",
+        "travel",
+        "ginger-ale-hack",
+        "diluted",
+        "de-gas",
+        "anti-nausea",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "inflight ginger ale hack",
+        "diluted ginger ale airplane",
+        "safe airplane drink"
+      ],
+      "whyItWorks": "Full-strength airplane canned sodas are super-carbonated and expand aggressively in pressurized cabins. Asking the flight attendant for half cup ginger ale and half cup bottled water cuts carbonation by 50% while retaining soothing ginger sweetness and anti-nausea benefits.",
+      "prepOrOrderInstructions": "Ask the flight attendant: 'Could I please have half a cup of ginger ale topped off with bottled spring water?' Stir lightly with your straw to disperse bubbles.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/drinks-sauces/inflight-diluted-ginger-ale-with-still-water.json"
     },
     {
       "id": "japanese-custard-taiyaki-mochi",
@@ -19440,6 +19929,82 @@
       "_sourcePath": "src/data/items/dinner/viva-chicken-herriman-st-george-rotisserie-chicken-white-rice.json"
     },
     {
+      "id": "airport-starbucks-protein-box-hacked-eggs-cheese",
+      "name": "Airport Starbucks Eggs & Gouda Protein Box (Hacked: Eggs & Cheese Only)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Starbucks / Airport Kiosk",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "starbucks",
+        "protein-box",
+        "hacked",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "starbucks protein box airport",
+        "hacked starbucks box crohns",
+        "airport eggs cheese"
+      ],
+      "whyItWorks": "Available in almost every terminal. Contains two hard-boiled eggs and slices of aged Gouda cheese (naturally very low lactose). By selectively eating the eggs, cheese, and honey/crackers while discarding the raw whole apples and peanut butter packet, you get a clean 20g protein meal.",
+      "prepOrOrderInstructions": "Purchase the Eggs & Gouda (or Cheddar) Protein Box. Eat the eggs and cheese; discard the fresh raw apple slices and nut butter if flaring.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/lunch/airport-starbucks-protein-box-hacked-eggs-cheese.json"
+    },
+    {
+      "id": "airport-terminal-plain-white-bagel-cream-cheese",
+      "name": "Airport Terminal Plain White Bagel with Regular Cream Cheese",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Einstein Bros / Terminal Bakery",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "breakfast",
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "plain-bagel",
+        "cream-cheese",
+        "low-residue",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "airport plain bagel",
+        "einstein bros airport bagel",
+        "terminal breakfast bagel"
+      ],
+      "whyItWorks": "Dense boiled white flour dough toasted golden. Provides steady, low-residue fuel that sits quietly in the stomach without causing urgency on long flights.",
+      "prepOrOrderInstructions": "Order: 'Plain Bagel toasted with plain regular cream cheese—NO seeds, NO garlic, NO onion.'",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/breakfast/airport-terminal-plain-white-bagel-cream-cheese.json"
+    },
+    {
       "id": "altoids-curiously-strong-peppermints",
       "name": "Altoids Curiously Strong Peppermints",
       "categoryFolder": "snacks-desserts",
@@ -22226,6 +22791,44 @@
       "whyItWorks": "Wild salmon gently roasted on a natural cedar wood plank with sea salt and light glaze. High in marine omega-3s and paired with skinless, smooth Yukon Gold mashed potatoes.",
       "prepOrOrderInstructions": "Ask for salmon prepared simply with light olive oil and salt, skipping any spicy rubs or rich butter sauces. Pair with peeled mashed potatoes.",
       "_sourcePath": "src/data/items/dinner/wildfin-american-grill-riverton-cedar-plank-salmon.json"
+    },
+    {
+      "id": "airport-auntie-annes-soft-pretzel-plain-dry-no-butter",
+      "name": "Airport Auntie Anne's Soft Pretzel (Plain, Dry, NO Butter, Light Salt)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Auntie Anne's",
+      "crohnsScore": 8.7,
+      "mealTypes": [
+        "snack",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "airport",
+        "travel",
+        "auntie-annes",
+        "soft-pretzel",
+        "dry-pretzel",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "auntie annes plain pretzel",
+        "airport pretzel no butter",
+        "dry soft pretzel travel"
+      ],
+      "whyItWorks": "Enriched wheat dough baked fresh in the terminal. When ordered 'dry' without the customary ladle of melted margarine butter, it is low in fat, dairy-free, and provides easily digestible carbohydrates.",
+      "prepOrOrderInstructions": "Order: 'Original Pretzel, but please make it DRY—NO butter brush, light salt only.' (They will pull a fresh one before the butter bath).",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-auntie-annes-soft-pretzel-plain-dry-no-butter.json"
     },
     {
       "id": "athenas-white-pita-bread-pockets",
@@ -80860,6 +81463,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/dunkin-refreshers-green-tea-energy-warning.json"
     },
     {
+      "id": "inflight-chilled-tap-water-ice-cube-warning",
+      "name": "WARNING: In-Flight Galley Tap Water & Airplane Ice Cubes",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Airline Service Warning",
+      "crohnsScore": 3.5,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "inflight",
+        "travel",
+        "galley-water",
+        "ice-cubes",
+        "tank-water",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airplane tap water warning",
+        "inflight ice cubes water quality",
+        "galley water tank bacteria"
+      ],
+      "whyItWorks": "Airplane ice cubes and open-pitcher tap water originate from onboard potable water tanks, which multiple EPA studies have identified as having variable coliform compliance. For immunosuppressed IBD patients (biologics, steroids, JAK inhibitors), this poses opportunistic GI infection risks.",
+      "prepOrOrderInstructions": "Always ask for an unopened, factory-sealed can or bottle of water, and specify: 'NO ice, please.'",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/inflight-chilled-tap-water-ice-cube-warning.json"
+    },
+    {
       "id": "sushi-bar-masago-tobiko-flying-fish-roe-warning",
       "name": "WARNING: Masago & Tobiko (Tiny Flying Fish Eggs & Capelin Roe Garnish)",
       "categoryFolder": "asian-indian",
@@ -83498,6 +84139,44 @@
       "_sourcePath": "src/data/items/italian-med/banza-chickpea-pasta-rotini-warning.json"
     },
     {
+      "id": "inflight-salted-roasted-peanuts-packet-warning",
+      "name": "WARNING: In-Flight Salted Roasted Peanuts Packet (Hard Particles & Strictures)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Airline Service Warning",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "inflight",
+        "travel",
+        "peanuts",
+        "hard-nuts",
+        "stricture-hazard",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airline peanuts warning",
+        "inflight peanuts crohns",
+        "peanut packet stricture risk"
+      ],
+      "whyItWorks": "Standard in-flight complimentary snack pack. Even with chewing, hard roasted peanut fragments resist stomach acid digestion, creating gritty friction against inflamed ileal or colonic walls.",
+      "prepOrOrderInstructions": "Politely pass on the peanut packet. Ask the flight attendant for Biscoff cookies or pretzels instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/inflight-salted-roasted-peanuts-packet-warning.json"
+    },
+    {
       "id": "maggi-seasoning-cubes-monosodium-glutamate-warning",
       "name": "WARNING: Maggi Seasoning Cubes (High Sodium, MSG & Hydrolyzed Alliums)",
       "categoryFolder": "drinks-sauces",
@@ -84107,6 +84786,85 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Raw green juices are not \"detoxifying\" for active bowel inflammation—they are high-residue mucosal abrasives.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/suja-organic-green-delight-cold-pressed-juice-warning.json"
+    },
+    {
+      "id": "airport-terminal-dried-fruit-medley-warning",
+      "name": "WARNING: Airport Hudson News Dried Fruit Medley (Sorbitol & Insoluble Skins)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Hudson News / Terminal Warning",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "dried-fruit",
+        "sorbitol",
+        "sulfites",
+        "leathery-skins",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airport dried fruit warning",
+        "dried apricot prunes flight diarrhea",
+        "sorbitol gas airplane"
+      ],
+      "whyItWorks": "Bags of dried apricots, prunes, and apples. Dense in natural sorbitol (sugar alcohol) and concentrated leathery fruit skins. Triggers explosive gas distension and laxative effects at altitude.",
+      "prepOrOrderInstructions": "Avoid dried fruit bags at airport newsstands. Choose fresh peeled bananas or smooth applesauce pouches.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-terminal-dried-fruit-medley-warning.json"
+    },
+    {
+      "id": "airport-auntie-annes-cinnamon-sugar-pretzel-warning",
+      "name": "WARNING: Auntie Anne's Cinnamon Sugar Soft Pretzel (Heavy Butter Bath & Sugar Crust)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Auntie Anne's Warning",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "snack",
+        "dessert",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "auntie-annes",
+        "cinnamon-sugar",
+        "butter-bath",
+        "dumping",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "auntie annes cinnamon pretzel warning",
+        "cinnamon sugar pretzel diarrhea",
+        "airport sweet pretzel flare"
+      ],
+      "whyItWorks": "After baking, the hot pretzel is completely submerged in a bath of melted margarine butter and heavily coated in coarse granulated cinnamon sugar (nearly 500 calories and 30g sugar). The heavy grease and hyperosmolar sugar coat trigger rapid dumping and nausea.",
+      "prepOrOrderInstructions": "Order the Original pretzel completely 'DRY' without butter.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-auntie-annes-cinnamon-sugar-pretzel-warning.json"
     },
     {
       "id": "heinz-57-sauce-onion-garlic-spice-warning",
@@ -85057,6 +85815,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/hidden-valley-ranch-dry-seasoning-packet-warning.json"
     },
     {
+      "id": "inflight-galley-brewed-pot-coffee-warning",
+      "name": "WARNING: In-Flight Galley-Brewed Coffee (Extreme Dehydration & Motility Spasms)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Airline In-Flight Warning",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "inflight",
+        "travel",
+        "airplane-coffee",
+        "caffeine-motility",
+        "dehydration",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airplane coffee warning",
+        "inflight coffee diarrhea",
+        "coffee on plane crohns"
+      ],
+      "whyItWorks": "Airline coffee is brewed using potable galley water tanks that have variable sanitization protocols. Furthermore, high caffeine in an already low-humidity pressurized cabin acts as a potent diuretic and triggers immediate colonic motor contractions when airplane lavatories may be inaccessible during turbulence.",
+      "prepOrOrderInstructions": "Decline airplane galley coffee. Drink bottled still spring water or hot herbal tea.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/inflight-galley-brewed-pot-coffee-warning.json"
+    },
+    {
       "id": "olive-garden-fried-mozzarella-warning",
       "name": "WARNING: Olive Garden Fried Mozzarella with Marinara",
       "categoryFolder": "dinner",
@@ -85172,6 +85968,44 @@
       "prepOrOrderInstructions": "Avoid al pastor. Choose unspiced carnitas or plain grilled chicken (pollo asado) instead.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/mexican-southwest/taqueria-tacos-al-pastor-spit-roasted-warning.json"
+    },
+    {
+      "id": "airport-terminal-pre-packaged-chef-salad-warning",
+      "name": "WARNING: Terminal Pre-Packaged Chef Salad (Raw Iceberg Roughage & Sulfite Ranch)",
+      "categoryFolder": "lunch",
+      "brandOrRestaurant": "Airport Kiosk Warning",
+      "crohnsScore": 2.2,
+      "mealTypes": [
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "chef-salad",
+        "raw-roughage",
+        "iceberg",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airport salad warning",
+        "terminal grab and go salad diarrhea",
+        "raw lettuce before flight"
+      ],
+      "whyItWorks": "Dense plastic clamshell filled with coarse raw iceberg lettuce, hard raw carrots, raw red cabbage, and thick garlic ranch dressing. Massive mechanical roughage sitting in a pressurized gut produces cramping and frequent lavatory trips.",
+      "prepOrOrderInstructions": "Skip pre-packaged raw salads in the airport. Choose a warm, cooked meal or plain turkey sandwich.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/lunch/airport-terminal-pre-packaged-chef-salad-warning.json"
     },
     {
       "id": "birds-eye-steamfresh-sweet-corn-warning",
@@ -86031,6 +86865,46 @@
       "_sourcePath": "src/data/items/snacks-desserts/captains-gala-orange-almond-cake.json"
     },
     {
+      "id": "airport-terminal-giant-cinnamon-roll-warning",
+      "name": "WARNING: Airport Cinnabon / Terminal Giant Cinnamon Roll",
+      "categoryFolder": "breakfast",
+      "brandOrRestaurant": "Cinnabon / Terminal Bakery Warning",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "breakfast",
+        "dessert",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "cinnabon",
+        "cinnamon-roll",
+        "cream-cheese-frosting",
+        "fat-bomb",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "cinnabon airport warning",
+        "giant cinnamon roll diarrhea",
+        "cinnabon crohns flare"
+      ],
+      "whyItWorks": "Packs 880+ calories, 37g of fat, and 60g of refined sugar smothered in rich cream cheese frosting and intense cinnamon oils. Extreme hyperosmolarity draws water into the colon, causing severe cramps and urgency.",
+      "prepOrOrderInstructions": "Walk past the terminal Cinnabon aroma. Choose a plain toasted bagel with light butter.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/breakfast/airport-terminal-giant-cinnamon-roll-warning.json"
+    },
+    {
       "id": "applebees-spinach-and-artichoke-dip-warning",
       "name": "WARNING: Applebee's Spinach & Artichoke Dip with Tortilla Chips",
       "categoryFolder": "dinner",
@@ -86143,6 +87017,45 @@
       "prepOrOrderInstructions": "Always substitute Breve (half-and-half) with oat milk or almond milk, and ask for sugar-free or syrup-free.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/dutch-bros-golden-eagle-breve-warning.json"
+    },
+    {
+      "id": "inflight-red-wine-miniature-bottle-warning",
+      "name": "WARNING: In-Flight Red Wine Miniature Bottle (High Tannins, Histamines & Dehydration)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Airline In-Flight Warning",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "Euro/Bistro",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "inflight",
+        "travel",
+        "red-wine",
+        "tannins",
+        "histamines",
+        "dehydration",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airplane red wine warning",
+        "inflight wine diarrhea",
+        "red wine crohns flare altitude"
+      ],
+      "whyItWorks": "Red wine is rich in astringent grape tannins and histamines that provoke mucosal mast cell degranulation. Combined with cabin dehydration, alcohol weakens gut barrier integrity, triggering nocturnal diarrhea upon arrival.",
+      "prepOrOrderInstructions": "Decline alcoholic beverages on flights. Drink pure bottled spring water or coconut water.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/inflight-red-wine-miniature-bottle-warning.json"
     },
     {
       "id": "panera-green-goddess-cobb-salad-warning",
@@ -86375,6 +87288,45 @@
       "_sourcePath": "src/data/items/high-protein/mexican-pork-chorizo-sausage-warning.json"
     },
     {
+      "id": "airport-terminal-energy-bars-inulin-fiber-warning",
+      "name": "WARNING: Airport Terminal 'High Fiber' Energy Bars (Inulin / Chicory Root Hazard)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Fiber One / Think / Quest / Terminal Warning",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 10,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "fiber-bar",
+        "inulin",
+        "chicory-root",
+        "gas-bomb",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "high fiber bar airport warning",
+        "inulin chicory root airplane gas",
+        "fiber one bar flight disaster"
+      ],
+      "whyItWorks": "Marketed as healthy travel snacks, these bars pack 10g–15g of isolated chicory root fiber (inulin). In a pressurized airplane cabin, rapid fermentation of inulin produces massive, agonizing gas distension and flatulence.",
+      "prepOrOrderInstructions": "Check labels at Hudson News for 'chicory root fiber' or 'inulin' and strictly avoid them before boarding.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-terminal-energy-bars-inulin-fiber-warning.json"
+    },
+    {
       "id": "traditional-taqueria-salsa-verde-tomatillo-warning",
       "name": "WARNING: Authentic Salsa Verde (Raw Acidic Tomatillos, Serrano Chiles & Raw Onion)",
       "categoryFolder": "mexican-southwest",
@@ -86605,6 +87557,46 @@
       "prepOrOrderInstructions": "Avoid all rolls labeled 'Spicy' or 'Crunchy'. Choose fresh salmon nigiri or avocado rolls with soy paper.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/asian-indian/sushi-bar-spicy-tuna-crunch-roll-warning.json"
+    },
+    {
+      "id": "airport-terminal-pre-flight-greasy-burger-fries-warning",
+      "name": "WARNING: Terminal Pre-Flight Fast-Food Bacon Burger & Fries",
+      "categoryFolder": "dinner",
+      "brandOrRestaurant": "Terminal Fast-Food Warning",
+      "crohnsScore": 1.8,
+      "mealTypes": [
+        "dinner",
+        "lunch",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "fast-food",
+        "greasy-burger",
+        "bacon-cheese",
+        "delayed-gastric-emptying",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airport burger and fries warning",
+        "pre flight greasy food diarrhea",
+        "eating fast food before flying crohns"
+      ],
+      "whyItWorks": "Consuming 70g+ of fryer oil, bacon grease, melted cheese, and raw onion rings immediately before boarding a flight delays gastric emptying. In a seated posture for hours under altitude expansion, this induces severe nausea, acid reflux, and sudden gastrocolic urgency.",
+      "prepOrOrderInstructions": "Avoid greasy fast food at the gate. Eat plain grilled turkey sandwiches, bananas, or eggs.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/dinner/airport-terminal-pre-flight-greasy-burger-fries-warning.json"
     },
     {
       "id": "applebees-boneless-buffalo-wings-warning",
@@ -87299,6 +88291,46 @@
       "_sourcePath": "src/data/items/mexican-southwest/taqueria-pickled-jalapenos-escabeche-carrots-warning.json"
     },
     {
+      "id": "airport-terminal-crispy-nachos-jalapeno-cheese-warning",
+      "name": "WARNING: Terminal Crispy Nachos with Yellow Cheese Sauce & Pickled Jalapeños",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Airport Concessions Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "snack",
+        "lunch",
+        "takeout"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "nachos",
+        "sharp-chips",
+        "jalapeno",
+        "cheese-grease",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airport nachos warning",
+        "nacho cheese jalapeño diarrhea",
+        "crispy tortilla chips crohns"
+      ],
+      "whyItWorks": "Hard, razor-sharp corn tortilla chips that shatter into jagged shards, smothered in hydrogenated cheese sauce and fiery pickled jalapeño wheels with seeds. Severe mechanical scrape hazard and acute capsaicin motility trigger.",
+      "prepOrOrderInstructions": "Skip stadium-style terminal nachos. Choose plain potato crisps or soft pretzels.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-terminal-crispy-nachos-jalapeno-cheese-warning.json"
+    },
+    {
       "id": "whole-globe-artichoke-leaves-warning",
       "name": "WARNING: Whole Globe Artichoke Leaves & Spiny Tips",
       "categoryFolder": "produce-sides",
@@ -87486,6 +88518,45 @@
       "prepOrOrderInstructions": "Never shake crushed red pepper flakes onto pizza or pasta. Stick to dried oregano and grated aged parmesan.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/drinks-sauces/crushed-red-pepper-pizza-flakes-warning.json"
+    },
+    {
+      "id": "inflight-pressurized-carbonated-soda-can-warning",
+      "name": "CRITICAL WARNING: Full-Strength In-Flight Carbonated Sodas (Boyle's Law Colic Expansion)",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Airline In-Flight Warning",
+      "crohnsScore": 1.2,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 0,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "inflight",
+        "travel",
+        "carbonated-soda",
+        "boyles-law",
+        "cabin-pressure",
+        "colic-pain",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "drinking soda on airplane warning",
+        "carbonation cabin pressure bloat",
+        "airplane gas expansion crohns"
+      ],
+      "whyItWorks": "CLINICAL WARNING: According to Boyle's Law, when aircraft cabin altitude drops to equivalent 6,000–8,000 feet, free gas in the human intestinal tract naturally expands by 25% to 30%. Drinking full-strength carbonated sodas introduces immense volumes of dissolved CO2 that aggressively expand in the bowel, causing severe gas colic, excruciating distension, and trapped gas at strictures.",
+      "prepOrOrderInstructions": "Never drink full-can carbonated sodas or sparkling seltzers on airplanes. Stick to still bottled water or diluted juices.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/inflight-pressurized-carbonated-soda-can-warning.json"
     },
     {
       "id": "panera-broccoli-cheddar-soup-bread-bowl-warning",
@@ -87723,6 +88794,85 @@
         "Grapefruit juice, zest, and segments (strict medication & gut contraindication)"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/1923-californian-grapefruit-cake-avoid.json"
+    },
+    {
+      "id": "airport-hudson-news-raw-nut-trail-mix-warning",
+      "name": "CRITICAL WARNING: Airport Hudson News Trail Mixes (Raw Almonds, Cashews & Stricture Hazard)",
+      "categoryFolder": "snacks-desserts",
+      "brandOrRestaurant": "Hudson News / Terminal Warning",
+      "crohnsScore": 1,
+      "mealTypes": [
+        "snack",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "trail-mix",
+        "whole-nuts",
+        "bezoar-hazard",
+        "stricture-blockage",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airport trail mix warning",
+        "hudson news nuts danger",
+        "trail mix bowel obstruction",
+        "raw nuts stricture hazard flight"
+      ],
+      "whyItWorks": "EMERGENCY CLINICAL OBSTRUCTION HAZARD: Bags of mixed raw almonds, cashews, dried cranberries, and raisins. Chewed nut shards are razor-sharp and pass largely intact, forming dense phytobezoars that can wedge in strictures at 35,000 feet—an in-flight medical emergency.",
+      "prepOrOrderInstructions": "NEVER consume whole nut trail mixes while traveling with Crohn's or strictures. Choose smooth nut butters or hard-boiled eggs.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/snacks-desserts/airport-hudson-news-raw-nut-trail-mix-warning.json"
+    },
+    {
+      "id": "airport-terminal-spicy-bloody-mary-cocktail-warning",
+      "name": "CRITICAL WARNING: Airport Lounge Spicy Bloody Mary Cocktail",
+      "categoryFolder": "drinks-sauces",
+      "brandOrRestaurant": "Airport Lounge / Terminal Bar Warning",
+      "crohnsScore": 1,
+      "mealTypes": [
+        "drink",
+        "takeout"
+      ],
+      "region": "American",
+      "costTier": 3,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": false,
+      "tags": [
+        "warning",
+        "airport",
+        "travel",
+        "bloody-mary",
+        "alcohol",
+        "horseradish",
+        "hot-sauce",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "airport bloody mary warning",
+        "bloody mary diarrhea",
+        "spicy cocktail flight crohns attack"
+      ],
+      "whyItWorks": "A catastrophic quad-threat for gut inflammation: 1) Vodka alcohol increases gut mucosal permeability; 2) Concentrated tomato acid burns ulcers; 3) Grated horseradish and Tabasco capsaicin spark intestinal hypermotility; 4) Stringy raw celery stalk garnishes pose stricture hazards.",
+      "prepOrOrderInstructions": "Never drink Bloody Marys before flying. Order non-alcoholic still water or hot herbal tea.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/drinks-sauces/airport-terminal-spicy-bloody-mary-cocktail-warning.json"
     },
     {
       "id": "dutch-bros-rebel-energy-drink-blue-razz-warning",

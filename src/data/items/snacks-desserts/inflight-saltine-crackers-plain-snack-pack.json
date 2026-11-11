@@ -1,0 +1,36 @@
+{
+  "id": "inflight-saltine-crackers-plain-snack-pack",
+  "name": "In-Flight Plain Saltine Crackers (Airline Snack Pack)",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Keebler / Nabisco / Airline Service",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "inflight",
+    "travel",
+    "saltines",
+    "soda-crackers",
+    "nausea-relief",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airline saltine crackers",
+    "flight crackers nausea",
+    "plain saltines airplane"
+  ],
+  "whyItWorks": "Simple baking soda crackers made with enriched white flour and salt. Absorbs excess gastric juices, settles flight turbulence nausea, and provides quick, harmless glucose without roughage.",
+  "prepOrOrderInstructions": "Request an extra pack of saltine crackers from the galley attendant if you feel stomach churn or hunger between meal services.",
+  "safetyTier": "flare-safe"
+}

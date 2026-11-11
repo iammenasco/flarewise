@@ -1,0 +1,37 @@
+{
+  "id": "airport-terminal-fresh-ripe-yellow-banana",
+  "name": "Airport Terminal Fresh Ripe Yellow Banana",
+  "categoryFolder": "produce-sides",
+  "brandOrRestaurant": "Airport Kiosk / Starbucks / Grab & Go",
+  "crohnsScore": 9.5,
+  "mealTypes": [
+    "snack",
+    "breakfast",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "banana",
+    "potassium",
+    "soluble-fiber",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airport banana",
+    "terminal fresh fruit banana",
+    "travel fruit crohns safe"
+  ],
+  "whyItWorks": "Nature's portable gastrointestinal medicine. The thick protective peel keeps it sanitary in airports. Rich in soluble pectin and potassium to prevent travel cramping and dehydration.",
+  "prepOrOrderInstructions": "Pick a fully yellow banana with light brown speckles (avoid green unripe bananas with resistant starch). Available at Starbucks counter or fruit baskets.",
+  "safetyTier": "flare-safe"
+}

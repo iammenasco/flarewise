@@ -1,0 +1,37 @@
+{
+  "id": "airport-terminal-plain-scrambled-eggs-toast",
+  "name": "Airport Terminal Diner Plain Scrambled Eggs with White Toast",
+  "categoryFolder": "breakfast",
+  "brandOrRestaurant": "Terminal Diner / Sit-Down Gate Cafe",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "breakfast",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "scrambled-eggs",
+    "white-toast",
+    "sit-down",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airport scrambled eggs",
+    "terminal diner breakfast",
+    "plain eggs airport"
+  ],
+  "whyItWorks": "Freshly scrambled eggs cooked dry or in a touch of butter, served with dry white toast and jelly. Soft, warm, and highly comforting before boarding a cross-country flight.",
+  "prepOrOrderInstructions": "Order: 'Two scrambled eggs cooked plain—NO bacon, NO sausage, NO hash browns—with dry white toast and butter on the side.'",
+  "safetyTier": "flare-safe"
+}

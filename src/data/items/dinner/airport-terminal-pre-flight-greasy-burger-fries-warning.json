@@ -1,0 +1,39 @@
+{
+  "id": "airport-terminal-pre-flight-greasy-burger-fries-warning",
+  "name": "WARNING: Terminal Pre-Flight Fast-Food Bacon Burger & Fries",
+  "categoryFolder": "dinner",
+  "brandOrRestaurant": "Terminal Fast-Food Warning",
+  "crohnsScore": 1.8,
+  "mealTypes": [
+    "dinner",
+    "lunch",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "fast-food",
+    "greasy-burger",
+    "bacon-cheese",
+    "delayed-gastric-emptying",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airport burger and fries warning",
+    "pre flight greasy food diarrhea",
+    "eating fast food before flying crohns"
+  ],
+  "whyItWorks": "Consuming 70g+ of fryer oil, bacon grease, melted cheese, and raw onion rings immediately before boarding a flight delays gastric emptying. In a seated posture for hours under altitude expansion, this induces severe nausea, acid reflux, and sudden gastrocolic urgency.",
+  "prepOrOrderInstructions": "Avoid greasy fast food at the gate. Eat plain grilled turkey sandwiches, bananas, or eggs.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "airport-terminal-cheddar-string-cheese-stick",
+  "name": "Airport Terminal Sharp Cheddar or Mozzarella String Cheese Stick",
+  "categoryFolder": "snacks-desserts",
+  "brandOrRestaurant": "Sargento / Frigo / Terminal Cooler",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "snack",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 0,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "airport",
+    "travel",
+    "string-cheese",
+    "low-lactose",
+    "protein-snack",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "airport string cheese",
+    "cheese stick terminal",
+    "low lactose travel snack"
+  ],
+  "whyItWorks": "Individually sealed pasteurized cheese sticks in terminal cooler cases. Aged cheddar and part-skim mozzarella have less than 0.1g lactose per stick, providing 6g–7g of clean protein with zero GI distress.",
+  "prepOrOrderInstructions": "Buy a pair from the grab-and-go refrigerator before boarding.",
+  "safetyTier": "flare-safe"
+}

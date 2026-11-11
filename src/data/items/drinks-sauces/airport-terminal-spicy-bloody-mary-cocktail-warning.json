@@ -1,0 +1,38 @@
+{
+  "id": "airport-terminal-spicy-bloody-mary-cocktail-warning",
+  "name": "CRITICAL WARNING: Airport Lounge Spicy Bloody Mary Cocktail",
+  "categoryFolder": "drinks-sauces",
+  "brandOrRestaurant": "Airport Lounge / Terminal Bar Warning",
+  "crohnsScore": 1,
+  "mealTypes": [
+    "drink",
+    "takeout"
+  ],
+  "region": "American",
+  "costTier": 3,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": false,
+  "tags": [
+    "warning",
+    "airport",
+    "travel",
+    "bloody-mary",
+    "alcohol",
+    "horseradish",
+    "hot-sauce",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "airport bloody mary warning",
+    "bloody mary diarrhea",
+    "spicy cocktail flight crohns attack"
+  ],
+  "whyItWorks": "A catastrophic quad-threat for gut inflammation: 1) Vodka alcohol increases gut mucosal permeability; 2) Concentrated tomato acid burns ulcers; 3) Grated horseradish and Tabasco capsaicin spark intestinal hypermotility; 4) Stringy raw celery stalk garnishes pose stricture hazards.",
+  "prepOrOrderInstructions": "Never drink Bloody Marys before flying. Order non-alcoholic still water or hot herbal tea.",
+  "safetyTier": "danger-zone"
+}
