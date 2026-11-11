@@ -1,0 +1,35 @@
+{
+  "id": "explore-cuisine-black-bean-spaghetti-warning",
+  "name": "WARNING: Black Bean Spaghetti (Extreme Insoluble Legume Fiber)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Explore Cuisine / Warning",
+  "crohnsScore": 2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 12,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "black-bean-pasta",
+    "extreme-fiber",
+    "gas-bomb",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "black bean spaghetti warning",
+    "black bean pasta crohns flare",
+    "12g fiber pasta danger"
+  ],
+  "whyItWorks": "An extreme fiber bomb containing 12g of dense, indigestible black bean fiber per serving. In an inflamed gut or strictured intestine, this creates massive fermentation pressure and severe transit friction.",
+  "prepOrOrderInstructions": "Completely avoid black bean pasta. It is one of the single most disruptive pasta substitutes for inflammatory bowel disease.",
+  "safetyTier": "danger-zone"
+}

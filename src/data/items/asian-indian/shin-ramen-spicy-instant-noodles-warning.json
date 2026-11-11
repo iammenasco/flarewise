@@ -1,0 +1,36 @@
+{
+  "id": "shin-ramen-spicy-instant-noodles-warning",
+  "name": "WARNING: Nongshim Shin Ramyun Spicy Instant Noodles",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Nongshim / Asian Grocery Warning",
+  "crohnsScore": 1.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Korean",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "instant-ramen",
+    "shin-ramen",
+    "extreme-spice",
+    "deep-fried-noodles",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "shin ramyun warning",
+    "spicy instant ramen crohns flare",
+    "nongshim ramen danger"
+  ],
+  "whyItWorks": "Deep-fried flash-dehydrated noodle cake accompanied by a fierce red chili powder soup base with dried garlic, scallions, and intense capsaicin extract. Triggers extreme chemical burning, mucosal spasms, and acute watery diarrhea.",
+  "prepOrOrderInstructions": "Strictly avoid spicy instant ramen packets. If craving ramen, choose plain unspiced rice noodles in clear bone broth.",
+  "safetyTier": "danger-zone"
+}

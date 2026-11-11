@@ -1,0 +1,35 @@
+{
+  "id": "barilla-gluten-free-rotini-pasta",
+  "name": "Barilla Gluten-Free Rotini Pasta (Cooked Soft)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Barilla",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "gluten-free",
+    "rotini",
+    "low-fat",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "barilla rotini gluten free",
+    "gf spiral pasta",
+    "crohns safe rotini"
+  ],
+  "whyItWorks": "Spiral shape holds gentle olive oil or bone broth nicely. Low-fiber corn and rice starch gelatinizes thoroughly, reducing digestive workload on inflamed small bowel mucosa.",
+  "prepOrOrderInstructions": "Boil for 9–10 minutes until soft. Drain, rinse lightly with warm water to remove excess sticky surface starch, and serve warm.",
+  "safetyTier": "flare-safe"
+}

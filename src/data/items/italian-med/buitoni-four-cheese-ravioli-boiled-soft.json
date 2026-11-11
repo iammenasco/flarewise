@@ -1,0 +1,35 @@
+{
+  "id": "buitoni-four-cheese-ravioli-boiled-soft",
+  "name": "Buitoni Four Cheese Ravioli (Boiled Soft, Mild Butter Toss)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Buitoni",
+  "crohnsScore": 8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "ravioli",
+    "cheese",
+    "pasta",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "buitoni cheese ravioli",
+    "four cheese ravioli gentle",
+    "soft ravioli remission"
+  ],
+  "whyItWorks": "Tender refrigerated egg pasta filled with smooth ricotta and parmesan. Provides soft protein and calories in remission; avoid heavy red sauces or garlic.",
+  "prepOrOrderInstructions": "Gently boil for 6 minutes in water. Drain carefully and toss with 1 tsp butter and fresh chopped sage or parmesan.",
+  "safetyTier": "low-risk"
+}

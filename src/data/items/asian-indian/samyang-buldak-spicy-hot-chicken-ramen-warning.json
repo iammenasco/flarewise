@@ -1,0 +1,37 @@
+{
+  "id": "samyang-buldak-spicy-hot-chicken-ramen-warning",
+  "name": "CRITICAL WARNING: Samyang Buldak Hot Chicken Spicy Ramen (Extreme Capsaicin)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Samyang / Warning",
+  "crohnsScore": 1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Korean",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "buldak",
+    "extreme-spice",
+    "chemical-burn",
+    "fire-noodles",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "buldak ramen warning",
+    "samyang 2x spicy danger",
+    "fire noodles colitis hospital",
+    "extreme spicy ramen crohns"
+  ],
+  "whyItWorks": "Rated at 4,400 to 10,000+ Scoville Heat Units. The sauce contains concentrated habanero and red pepper oleoresin that causes severe chemical mucosal trauma, severe rectal tenesmus, and intense gastrointestinal pain even in healthy guts.",
+  "prepOrOrderInstructions": "NEVER consume Buldak fire noodles. This product has sent multiple IBD patients to urgent care with acute intestinal inflammation.",
+  "safetyTier": "danger-zone"
+}

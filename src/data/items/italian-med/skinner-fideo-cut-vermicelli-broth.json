@@ -1,0 +1,35 @@
+{
+  "id": "skinner-fideo-cut-vermicelli-broth",
+  "name": "Skinner Fideo Cut Spaghetti / Vermicelli in Broth",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Skinner / San Giorgio",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Mexican/Southwest",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "fideo",
+    "vermicelli",
+    "comfort-food",
+    "mild-soup",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "fideo noodles",
+    "sopa de fideo plain",
+    "cut vermicelli broth"
+  ],
+  "whyItWorks": "Short 1-inch cut thin vermicelli noodles that cook rapidly in broth. Their diminutive size eliminates any stricture hazard or heavy chewing needs.",
+  "prepOrOrderInstructions": "Toast lightly in 1 tsp olive oil, then add 2 cups mild chicken broth and simmer for 6 minutes until tender (sopa seca or sopa aguada style without spicy chili).",
+  "safetyTier": "flare-safe"
+}

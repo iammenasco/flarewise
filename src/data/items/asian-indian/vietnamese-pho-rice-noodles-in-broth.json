@@ -1,0 +1,37 @@
+{
+  "id": "vietnamese-pho-rice-noodles-in-broth",
+  "name": "Vietnamese Pho Rice Noodles (Banh Pho in Mild Bone Broth)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Three Ladies Brand / Pho Bistro",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pho",
+    "rice-noodles",
+    "gluten-free",
+    "broth",
+    "restaurant",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "vietnamese pho noodles",
+    "banh pho rice noodles",
+    "pho for crohns flare"
+  ],
+  "whyItWorks": "Flat white rice noodles softened in deeply nourishing simmered beef or chicken bone broth. Naturally gluten-free, ultra low in fiber, and hydrating with essential electrolytes.",
+  "prepOrOrderInstructions": "Order plain pho with tender well-done brisket or poached chicken. Request NO jalapeños, NO raw onions, and NO raw bean sprouts.",
+  "safetyTier": "flare-safe"
+}

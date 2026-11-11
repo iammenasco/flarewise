@@ -1,0 +1,35 @@
+{
+  "id": "muellers-elbow-macaroni-well-cooked",
+  "name": "Mueller's Enriched Elbow Macaroni (Well-Cooked & Soft)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Mueller's",
+  "crohnsScore": 9,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "macaroni",
+    "elbows",
+    "comfort-food",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "muellers elbow macaroni",
+    "plain cooked macaroni",
+    "soft elbows crohns"
+  ],
+  "whyItWorks": "Classic enriched semolina macaroni elbows cooked past al dente to fully hydrate starch granules. Gentle on inflamed intestinal walls.",
+  "prepOrOrderInstructions": "Boil for 8–9 minutes in salted water until soft. Drain and serve with a pat of butter, olive oil, or smooth lactose-free cheddar sauce.",
+  "safetyTier": "flare-safe"
+}

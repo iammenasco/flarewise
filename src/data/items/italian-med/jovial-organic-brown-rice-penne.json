@@ -1,0 +1,35 @@
+{
+  "id": "jovial-organic-brown-rice-penne",
+  "name": "Jovial 100% Organic Brown Rice Penne (Cooked Soft)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Jovial Foods",
+  "crohnsScore": 8.6,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "gluten-free",
+    "brown-rice",
+    "organic",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "jovial brown rice penne",
+    "organic gf pasta",
+    "jovial pasta ibd"
+  ],
+  "whyItWorks": "Traditional Tuscan bronze-die pressed brown rice pasta. Provides clean whole grain carbohydrates without wheat fructans. Must be cooked until soft to ensure ease of breakdown.",
+  "prepOrOrderInstructions": "Boil in plenty of salted water for 11–12 minutes. Test a piece to ensure the center core is tender before draining.",
+  "safetyTier": "low-risk"
+}

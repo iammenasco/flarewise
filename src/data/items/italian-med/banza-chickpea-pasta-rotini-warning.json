@@ -1,0 +1,37 @@
+{
+  "id": "banza-chickpea-pasta-rotini-warning",
+  "name": "WARNING: Banza Chickpea Pasta (High GOS Fiber & Fermentation Trigger)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Banza / Warning",
+  "crohnsScore": 2.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "chickpea-pasta",
+    "banza",
+    "high-fiber",
+    "fodmap",
+    "gas-trigger",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "banza chickpea pasta warning",
+    "chickpea pasta bloat",
+    "banza stomach pain crohns"
+  ],
+  "whyItWorks": "While marketed as a healthy gluten-free alternative, chickpea flour is loaded with galactooligosaccharides (GOS) and 8g of dense legume fiber per serving. Fermentation by colonic bacteria creates violent intestinal bloating, severe gas pains, and loose stools.",
+  "prepOrOrderInstructions": "Avoid pulse and chickpea-based pastas. Choose Barilla Gluten-Free (corn/rice) or Jovial brown rice pasta for smooth, painless digestion.",
+  "safetyTier": "danger-zone"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "spicy-penne-arrabbiata-crushed-pepper-warning",
+  "name": "WARNING: Penne all'Arrabbiata (Spicy Red Pepper Flakes & Acidic Marinara)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Italian Dining / Warning",
+  "crohnsScore": 2.4,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "arrabbiata",
+    "spicy",
+    "chili-flakes",
+    "capsaicin",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "penne arrabbiata warning",
+    "spicy italian pasta ibd",
+    "chili pepper pasta flare"
+  ],
+  "whyItWorks": "Arrabbiata literally translates to 'angry pasta' due to heavy amounts of dried chili flakes and whole chili seeds cooked in acidic garlic tomato sauce. Capsaicin sparks gut motility while coarse chili seeds scrape inflamed tissue.",
+  "prepOrOrderInstructions": "Never order Arrabbiata or spicy devil sauces. Choose pasta tossed with mild extra virgin olive oil, gentle butter, or mild strained seedless marinara.",
+  "safetyTier": "danger-zone"
+}

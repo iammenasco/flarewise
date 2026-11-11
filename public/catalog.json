@@ -1,8 +1,8 @@
 {
   "name": "Flarewise",
   "description": "Crohn's-friendly food catalog. Static JSON export for humans, apps, and AI agents.",
-  "builtAt": "2026-11-11T20:13:44.858Z",
-  "itemCount": 2003,
+  "builtAt": "2026-11-11T20:16:29.160Z",
+  "itemCount": 2033,
   "schemaTitle": "CrohnsFoodItem",
   "schemaPath": "src/data/schema.json",
   "rubricPath": "/rubric.json",
@@ -1721,6 +1721,44 @@
         "Contains wheat (gluten); choose Cream of Rice if co-diagnosed with celiac disease."
       ],
       "_sourcePath": "src/data/items/breakfast/nabisco-cream-of-wheat-original-farina.json"
+    },
+    {
+      "id": "de-cecco-pastina-stelline-star-pasta",
+      "name": "De Cecco Stelline Pastina (Tender Tiny Star Pasta)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "De Cecco / Ronzoni",
+      "crohnsScore": 9.6,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pastina",
+        "comfort-food",
+        "low-residue",
+        "soothing",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "stelline pastina",
+        "de cecco star pasta",
+        "baby pastina broth",
+        "italian penicillin"
+      ],
+      "whyItWorks": "The quintessential Italian gut-healing comfort food. Tiny star pasta cooked directly in homemade chicken bone broth until creamy and tender. Requires virtually zero digestive breakdown.",
+      "prepOrOrderInstructions": "Simmer 1/3 cup stelline in 1.5 cups salted chicken bone broth for 6–7 minutes until broth is absorbed and pasta is velvety soft.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/de-cecco-pastina-stelline-star-pasta.json"
     },
     {
       "id": "fresh-atlantic-salmon-fillet-pan-seared",
@@ -5020,6 +5058,42 @@
       "_sourcePath": "src/data/items/high-protein/isopure-unflavored-zero-carb-whey-isolate.json"
     },
     {
+      "id": "japanese-somen-thin-wheat-noodles-chilled",
+      "name": "Japanese Somen Noodles (Ultra-Thin Wheat Noodles in Mild Dashi)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Hakubaku / J-Basket",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "somen",
+        "japanese-noodles",
+        "ultra-thin",
+        "soothing",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "japanese somen",
+        "hiyashi somen plain",
+        "thin somen noodles crohns"
+      ],
+      "whyItWorks": "Crafted from fine white wheat flour and stretched paper-thin. Cooks in just 90 seconds into silken strands that are exceptionally soothing on irritable bowel mucosa.",
+      "prepOrOrderInstructions": "Boil somen noodles for 90 seconds. Rinse in cold water to remove starch, then serve warm in mild bonito/kombu dashi with a dash of tamari.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/japanese-somen-thin-wheat-noodles-chilled.json"
+    },
+    {
       "id": "kirkland-signature-canned-pink-salmon-wild-alaska",
       "name": "Kirkland Signature Wild Alaska Pink Salmon (Canned in Water)",
       "categoryFolder": "high-protein",
@@ -5460,6 +5534,42 @@
       "_sourcePath": "src/data/items/dinner/holiday-feast-skinless-turkey-smooth-potatoes.json"
     },
     {
+      "id": "skinner-fideo-cut-vermicelli-broth",
+      "name": "Skinner Fideo Cut Spaghetti / Vermicelli in Broth",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Skinner / San Giorgio",
+      "crohnsScore": 9.4,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Mexican/Southwest",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "fideo",
+        "vermicelli",
+        "comfort-food",
+        "mild-soup",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "fideo noodles",
+        "sopa de fideo plain",
+        "cut vermicelli broth"
+      ],
+      "whyItWorks": "Short 1-inch cut thin vermicelli noodles that cook rapidly in broth. Their diminutive size eliminates any stricture hazard or heavy chewing needs.",
+      "prepOrOrderInstructions": "Toast lightly in 1 tsp olive oil, then add 2 cups mild chicken broth and simmer for 6 minutes until tender (sopa seca or sopa aguada style without spicy chili).",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/skinner-fideo-cut-vermicelli-broth.json"
+    },
+    {
       "id": "smarties-candy-rolls",
       "name": "Smarties Candy Rolls (Powdered Dextrose Wafers)",
       "categoryFolder": "snacks-desserts",
@@ -5818,6 +5928,80 @@
         "Never choose whole wheat pasta during flares; whole wheat pasta has coarse insoluble bran."
       ],
       "_sourcePath": "src/data/items/dinner/barilla-classic-white-spaghetti-pasta.json"
+    },
+    {
+      "id": "barilla-ditalini-soup-pasta-tender",
+      "name": "Barilla Ditalini Small Soup Pasta",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Barilla",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ditalini",
+        "soup-pasta",
+        "low-residue",
+        "tender",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "barilla ditalini",
+        "tubetti pasta broth",
+        "small soup pasta crohns"
+      ],
+      "whyItWorks": "Small thimble-shaped pasta tubes that soften thoroughly in broth. Excellent vehicle for chicken bone broth and soft peeled cooked zucchini.",
+      "prepOrOrderInstructions": "Boil 10 minutes in chicken broth until tender and plump.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/barilla-ditalini-soup-pasta-tender.json"
+    },
+    {
+      "id": "barilla-gluten-free-penne-pasta",
+      "name": "Barilla Gluten-Free Penne Pasta (Corn & Rice Blend, Cooked Tender)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Barilla",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pasta",
+        "gluten-free",
+        "corn-rice",
+        "low-fiber",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "barilla gluten free penne",
+        "gf pasta crohns",
+        "corn rice pasta flare",
+        "easy digest pasta"
+      ],
+      "whyItWorks": "Formulated with non-GMO white corn, yellow corn, and white rice flour. Naturally free of inflammatory wheat gluten, virtually free of insoluble fiber (1g per serving), and cooks up smooth and tender.",
+      "prepOrOrderInstructions": "Boil in salted water for 10–11 minutes until fully tender, past the tough al dente stage. Toss with olive oil, melted ghee, or mild seedless marinara.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/barilla-gluten-free-penne-pasta.json"
     },
     {
       "id": "butterball-93-7-lean-ground-turkey",
@@ -7058,6 +7242,42 @@
       "_sourcePath": "src/data/items/asian-indian/takara-sushi-logan-grilled-hamachi-kama.json"
     },
     {
+      "id": "thai-kitchen-thin-rice-vermicelli-noodles",
+      "name": "Thai Kitchen Thin Rice Vermicelli Noodles (Mai Fun)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Thai Kitchen / A Taste of Thai",
+      "crohnsScore": 9.3,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "rice-vermicelli",
+        "mai-fun",
+        "gluten-free",
+        "quick-cooking",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "rice vermicelli",
+        "mai fun noodles",
+        "thai kitchen thin rice noodles"
+      ],
+      "whyItWorks": "Extremely fine threads of white rice flour that rehydrate in hot water within 3 minutes. Zero gluten, less than 1g fiber per serving, and very easy on strictures.",
+      "prepOrOrderInstructions": "Soak noodles in boiling water for 3 minutes until tender. Drain and add to warm chicken or vegetable broth.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/thai-kitchen-thin-rice-vermicelli-noodles.json"
+    },
+    {
       "id": "wendys-plain-baked-potato-no-skin",
       "name": "Wendy's Plain Baked Potato (Flesh Only)",
       "categoryFolder": "lunch",
@@ -7176,6 +7396,42 @@
         "If grabbing a Greek yogurt parfait from the cooler, take a lactase tablet and pick around any nut/seed granola"
       ],
       "_sourcePath": "src/data/items/breakfast/bamboohr-thomas2go-morning-oatmeal-yogurt-bar.json"
+    },
+    {
+      "id": "barilla-gluten-free-rotini-pasta",
+      "name": "Barilla Gluten-Free Rotini Pasta (Cooked Soft)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Barilla",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pasta",
+        "gluten-free",
+        "rotini",
+        "low-fat",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "barilla rotini gluten free",
+        "gf spiral pasta",
+        "crohns safe rotini"
+      ],
+      "whyItWorks": "Spiral shape holds gentle olive oil or bone broth nicely. Low-fiber corn and rice starch gelatinizes thoroughly, reducing digestive workload on inflamed small bowel mucosa.",
+      "prepOrOrderInstructions": "Boil for 9–10 minutes until soft. Drain, rinse lightly with warm water to remove excess sticky surface starch, and serve warm.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/barilla-gluten-free-rotini-pasta.json"
     },
     {
       "id": "canned-pears-in-light-juice",
@@ -7975,6 +8231,42 @@
       "_sourcePath": "src/data/items/breakfast/lactaid-100-lactose-free-milk.json"
     },
     {
+      "id": "manischewitz-wide-egg-noodles-tender",
+      "name": "Manischewitz Wide Homestyle Egg Noodles",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Manischewitz",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "egg-noodles",
+        "kosher",
+        "soup-noodles",
+        "comfort-food",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "manischewitz egg noodles",
+        "wide noodles chicken soup",
+        "kosher egg noodles"
+      ],
+      "whyItWorks": "Classic soup noodles made with durum wheat and eggs. Cooked in chicken soup, they absorb healing broth and provide gentle, non-abrasive fuel.",
+      "prepOrOrderInstructions": "Drop directly into boiling chicken soup for 7–8 minutes until plump and soft.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/manischewitz-wide-egg-noodles-tender.json"
+    },
+    {
       "id": "babybel-original-mini-cheese-wheels",
       "name": "Mini Babybel Original Semisoft Cheese Wheels",
       "categoryFolder": "snacks-desserts",
@@ -8176,6 +8468,42 @@
       "prepOrOrderInstructions": "Slice into 1/2-inch rounds and pan-sear in a skillet with olive oil for 4 minutes per side until lightly golden. Top with sensitive marinara.",
       "safetyTier": "flare-safe",
       "_sourcePath": "src/data/items/dinner/san-gennaro-traditional-plain-polenta-roll.json"
+    },
+    {
+      "id": "san-giorgio-egg-ribbon-noodles-buttered",
+      "name": "San Giorgio Enriched Egg Ribbon Noodles (Buttered)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "San Giorgio / No Yolks",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "egg-noodles",
+        "comfort-food",
+        "butter-noodles",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "buttered egg noodles",
+        "san giorgio ribbon noodles",
+        "soft egg noodles crohns"
+      ],
+      "whyItWorks": "Egg-enriched wheat ribbon noodles soften into a tender, melt-in-your-mouth texture. Highly digestible source of gentle calories and complex carbs during low-residue recovery.",
+      "prepOrOrderInstructions": "Boil broad egg noodles in salted water for 8 minutes until tender. Toss with 1 tsp butter or ghee and sea salt.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/san-giorgio-egg-ribbon-noodles-buttered.json"
     },
     {
       "id": "schar-gluten-free-artisan-baker-white-bread",
@@ -8500,6 +8828,44 @@
         "Ask for sauces/dressings on the side so you can skip citrus vinaigrettes and spicy chipotle crema"
       ],
       "_sourcePath": "src/data/items/dinner/vessel-kitchen-sandy-midvale-oren-roast-chicken-mashed-sweet-potato.json"
+    },
+    {
+      "id": "vietnamese-pho-rice-noodles-in-broth",
+      "name": "Vietnamese Pho Rice Noodles (Banh Pho in Mild Bone Broth)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Three Ladies Brand / Pho Bistro",
+      "crohnsScore": 9.2,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pho",
+        "rice-noodles",
+        "gluten-free",
+        "broth",
+        "restaurant",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "vietnamese pho noodles",
+        "banh pho rice noodles",
+        "pho for crohns flare"
+      ],
+      "whyItWorks": "Flat white rice noodles softened in deeply nourishing simmered beef or chicken bone broth. Naturally gluten-free, ultra low in fiber, and hydrating with essential electrolytes.",
+      "prepOrOrderInstructions": "Order plain pho with tender well-done brisket or poached chicken. Request NO jalapeños, NO raw onions, and NO raw bean sprouts.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/vietnamese-pho-rice-noodles-in-broth.json"
     },
     {
       "id": "vita-coco-pure-coconut-water",
@@ -9743,6 +10109,43 @@
       "_sourcePath": "src/data/items/produce-sides/roasted-acorn-squash-halves-tender.json"
     },
     {
+      "id": "ronzoni-angel-hair-capellini-olive-oil",
+      "name": "Ronzoni Angel Hair Capellini (With Olive Oil & Sea Salt)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Ronzoni / Barilla",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pasta",
+        "capellini",
+        "angel-hair",
+        "low-residue",
+        "tender",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "angel hair pasta olive oil",
+        "capellini crohns",
+        "buttered angel hair"
+      ],
+      "whyItWorks": "Extremely delicate, ultra-thin strands of enriched semolina pasta that soften completely in minutes. Minimal chewing required, passing smoothly through the digestive tract with zero rough edges.",
+      "prepOrOrderInstructions": "Boil for 4–5 minutes until soft. Drain and toss immediately with extra virgin olive oil, sea salt, and a pinch of aged grated parmesan.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/ronzoni-angel-hair-capellini-olive-oil.json"
+    },
+    {
       "id": "silk-unsweetened-almond-milk",
       "name": "Silk Unsweetened Plain Almond Milk (Ultra-Filtered)",
       "categoryFolder": "breakfast",
@@ -9823,6 +10226,42 @@
         "Avoid garlic-parmesan or spicy buffalo varieties during sensitive digestive periods."
       ],
       "_sourcePath": "src/data/items/snacks-desserts/snack-factory-pretzel-crisps-original.json"
+    },
+    {
+      "id": "chinese-broad-rice-noodles-ho-fun-steamed",
+      "name": "Steamed Wide Rice Noodles (Ho Fun with Tamari & Sesame)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Asian Market / Cantonese Home Style",
+      "crohnsScore": 9.1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Chinese",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "ho-fun",
+        "rice-noodles",
+        "gluten-free",
+        "cantonese",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "ho fun noodles",
+        "wide flat rice noodles",
+        "chow fun plain noodles"
+      ],
+      "whyItWorks": "Steamed wide flat sheets of white rice noodles. Soft, slippery, and gentle, requiring almost no mechanical digestion.",
+      "prepOrOrderInstructions": "Steam fresh ho fun noodles or simmer briefly in broth until soft and slippery. Toss with a splash of tamari and toasted sesame oil.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/asian-indian/chinese-broad-rice-noodles-ho-fun-steamed.json"
     },
     {
       "id": "steamed-tender-crookneck-squash",
@@ -13334,6 +13773,42 @@
         "Take a lactase enzyme for the mashed potatoes and biscuits, and remove the seasoned chicken skin if sensitive"
       ],
       "_sourcePath": "src/data/items/dinner/knotts-mrs-knotts-roasted-half-chicken-mashed-potatoes.json"
+    },
+    {
+      "id": "muellers-elbow-macaroni-well-cooked",
+      "name": "Mueller's Enriched Elbow Macaroni (Well-Cooked & Soft)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Mueller's",
+      "crohnsScore": 9,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 1.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "macaroni",
+        "elbows",
+        "comfort-food",
+        "low-residue",
+        "flare-safe"
+      ],
+      "searchKeywords": [
+        "muellers elbow macaroni",
+        "plain cooked macaroni",
+        "soft elbows crohns"
+      ],
+      "whyItWorks": "Classic enriched semolina macaroni elbows cooked past al dente to fully hydrate starch granules. Gentle on inflamed intestinal walls.",
+      "prepOrOrderInstructions": "Boil for 8–9 minutes in salted water until soft. Drain and serve with a pat of butter, olive oil, or smooth lactose-free cheddar sauce.",
+      "safetyTier": "flare-safe",
+      "_sourcePath": "src/data/items/italian-med/muellers-elbow-macaroni-well-cooked.json"
     },
     {
       "id": "near-east-original-plain-couscous",
@@ -18424,6 +18899,42 @@
       "_sourcePath": "src/data/items/breakfast/general-mills-original-cheerios.json"
     },
     {
+      "id": "gia-russa-potato-gnocchi-boiled-soft",
+      "name": "Gia Russa Potato Gnocchi (Pillowy Soft, Boiled)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Gia Russa / De Cecco",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "gnocchi",
+        "potato",
+        "pillowy",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "gia russa gnocchi",
+        "potato gnocchi plain",
+        "boiled gnocchi ibd"
+      ],
+      "whyItWorks": "Tender dumplings made from mashed potatoes and wheat flour. Soft, pillowy texture digests easily when boiled until they float and tossed in gentle olive oil.",
+      "prepOrOrderInstructions": "Drop into boiling salted water. As soon as they float to the top (2–3 minutes), simmer for 1 more minute to ensure complete softness, then gently scoop out.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/italian-med/gia-russa-potato-gnocchi-boiled-soft.json"
+    },
+    {
       "id": "coopers-bear-lake-west-grilled-chicken-breast",
       "name": "Grilled Marinated Chicken Breast with Steamed Rice",
       "categoryFolder": "dinner",
@@ -18694,6 +19205,43 @@
       "prepOrOrderInstructions": "Dissolve in the mouth slowly; never bite.",
       "safetyTier": "low-risk",
       "_sourcePath": "src/data/items/snacks-desserts/jolly-rancher-hard-candy-original.json"
+    },
+    {
+      "id": "jovial-organic-grain-free-cassava-pasta",
+      "name": "Jovial Grain-Free Cassava Penne (AIP Friendly)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Jovial Foods",
+      "crohnsScore": 8.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 3,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pasta",
+        "grain-free",
+        "cassava",
+        "aip-friendly",
+        "hypoallergenic",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "jovial cassava pasta",
+        "grain free penne",
+        "aip pasta crohns"
+      ],
+      "whyItWorks": "Made solely with organic cassava flour and water. Completely grain-free, corn-free, and wheat-free; excellent hypoallergenic staple for patients on strict elimination protocols.",
+      "prepOrOrderInstructions": "Boil in salted water for 12–13 minutes stirring occasionally. Cassava pasta cooks slightly firmer, so give it extra time until fully tender.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/italian-med/jovial-organic-grain-free-cassava-pasta.json"
     },
     {
       "id": "rice-krispies-treats-marshmallow-square",
@@ -22656,6 +23204,42 @@
       "_sourcePath": "src/data/items/produce-sides/homemade-smooth-garlic-free-hummus.json"
     },
     {
+      "id": "jovial-organic-brown-rice-penne",
+      "name": "Jovial 100% Organic Brown Rice Penne (Cooked Soft)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Jovial Foods",
+      "crohnsScore": 8.6,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "pasta",
+        "gluten-free",
+        "brown-rice",
+        "organic",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "jovial brown rice penne",
+        "organic gf pasta",
+        "jovial pasta ibd"
+      ],
+      "whyItWorks": "Traditional Tuscan bronze-die pressed brown rice pasta. Provides clean whole grain carbohydrates without wheat fructans. Must be cooked until soft to ensure ease of breakdown.",
+      "prepOrOrderInstructions": "Boil in plenty of salted water for 11–12 minutes. Test a piece to ensure the center core is tender before draining.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/italian-med/jovial-organic-brown-rice-penne.json"
+    },
+    {
       "id": "kikkoman-sweet-teriyaki-marinade",
       "name": "Kikkoman Sweet Teriyaki Glaze & Marinade (Strained)",
       "categoryFolder": "drinks-sauces",
@@ -26188,6 +26772,41 @@
       "whyItWorks": "A tender, boneless grilled chicken breast served on a soft white burger bun provides high-quality lean protein without batter, grease, or high-fiber roughage.",
       "prepOrOrderInstructions": "Order plain (grilled chicken breast and bun only). Skip lettuce, tomato, raw red onion, pickles, and fry sauce.",
       "_sourcePath": "src/data/items/lunch/mortys-cafe-logan-grilled-chicken-sandwich.json"
+    },
+    {
+      "id": "hakubaku-organic-soba-noodles-buckwheat",
+      "name": "Hakubaku Organic Soba Noodles (Buckwheat & Wheat Blend)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Hakubaku",
+      "crohnsScore": 8.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Japanese",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "soba",
+        "buckwheat",
+        "japanese",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "hakubaku soba",
+        "buckwheat noodles",
+        "soba noodles crohns"
+      ],
+      "whyItWorks": "Nutty Japanese soba noodles providing soluble rutin bioflavonoids and clean carbs. When boiled tender, they digest cleanly in remission.",
+      "prepOrOrderInstructions": "Boil for 4–5 minutes in unsalted water. Rinse well under running cold water to wash away starch, then serve chilled or warm in mild dipping broth.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/asian-indian/hakubaku-organic-soba-noodles-buckwheat.json"
     },
     {
       "id": "ham-swiss-hawaiian-sliders",
@@ -37850,6 +38469,42 @@
         "Check placards for chili or bean soups"
       ],
       "_sourcePath": "src/data/items/lunch/cabanas-marceline-daily-soup-station.json"
+    },
+    {
+      "id": "buitoni-four-cheese-ravioli-boiled-soft",
+      "name": "Buitoni Four Cheese Ravioli (Boiled Soft, Mild Butter Toss)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Buitoni",
+      "crohnsScore": 8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "ravioli",
+        "cheese",
+        "pasta",
+        "comfort-food",
+        "low-risk"
+      ],
+      "searchKeywords": [
+        "buitoni cheese ravioli",
+        "four cheese ravioli gentle",
+        "soft ravioli remission"
+      ],
+      "whyItWorks": "Tender refrigerated egg pasta filled with smooth ricotta and parmesan. Provides soft protein and calories in remission; avoid heavy red sauces or garlic.",
+      "prepOrOrderInstructions": "Gently boil for 6 minutes in water. Drain carefully and toss with 1 tsp butter and fresh chopped sage or parmesan.",
+      "safetyTier": "low-risk",
+      "_sourcePath": "src/data/items/italian-med/buitoni-four-cheese-ravioli-boiled-soft.json"
     },
     {
       "id": "buttermilk-brioche-french-toast",
@@ -72326,6 +72981,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/traditional-garlic-heavy-marinara-warning.json"
     },
     {
+      "id": "al-dente-firm-pasta-undercooked-warning",
+      "name": "WARNING: Al Dente Undercooked Pasta (Resistant Starch & Hard Core)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Italian Dining / Warning",
+      "crohnsScore": 4.8,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "al-dente",
+        "firm-pasta",
+        "undercooked",
+        "resistant-starch",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "al dente pasta warning",
+        "firm pasta hard to digest",
+        "undercooked pasta gas"
+      ],
+      "whyItWorks": "Chewy al dente pasta has an ungelatinized, dense starch core. In healthy people this acts as beneficial resistant starch; in IBD patients with impaired digestion, ungelatinized starch escapes small bowel absorption and triggers rapid bacterial fermentation and bloating.",
+      "prepOrOrderInstructions": "Always cook pasta 1–2 minutes past the standard al dente package directions until tender throughout. When ordering at Italian restaurants, request pasta 'ben cotta' (well cooked).",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/al-dente-firm-pasta-undercooked-warning.json"
+    },
+    {
       "id": "whole-grain-brown-rice-bran-warning",
       "name": "Whole Grain Brown Rice (Insoluble Bran Coat Warning)",
       "categoryFolder": "dinner",
@@ -78126,6 +78819,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/snickers-original-candy-bar-warning.json"
     },
     {
+      "id": "whole-wheat-100-percent-spaghetti-warning",
+      "name": "WARNING: 100% Whole Wheat Spaghetti & Whole Grain Pasta",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Barilla Whole Grain / Bionaturae / Warning",
+      "crohnsScore": 3.2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 1,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 7,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "whole-wheat",
+        "insoluble-fiber",
+        "roughage",
+        "scratchy-bran",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "whole wheat pasta warning",
+        "whole grain spaghetti ibd flare",
+        "brown pasta gut irritation"
+      ],
+      "whyItWorks": "Whole wheat pasta contains dense, sharp fragments of wheat bran that pass intact into the intestine. During inflammation, these microscopic jagged edges physically abrade raw mucosal tissue, worsening ulcer bleeding and cramping.",
+      "prepOrOrderInstructions": "Strictly avoid 100% whole wheat pasta during flares. Switch to refined white semolina pastina, white rice noodles, or corn/rice gluten-free pasta.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/whole-wheat-100-percent-spaghetti-warning.json"
+    },
+    {
       "id": "raw-sugar-snap-peas-pod-warning",
       "name": "WARNING: Raw Sugar Snap Peas & Fibrous Snow Pea Pods",
       "categoryFolder": "produce-sides",
@@ -78979,6 +79709,43 @@
       "_sourcePath": "src/data/items/dinner/christmas-merrytime-marmalade-ham-cheddar-croquettes.json"
     },
     {
+      "id": "cold-pasta-salad-raw-vegetables-warning",
+      "name": "WARNING: Deli Cold Pasta Salad (Retrograded Resistant Starch & Raw Veggies)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Deli Counter / Picnic Warning",
+      "crohnsScore": 3,
+      "mealTypes": [
+        "lunch",
+        "snack"
+      ],
+      "region": "American",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "cold-pasta",
+        "pasta-salad",
+        "resistant-starch",
+        "raw-veggies",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "cold pasta salad warning",
+        "chilled macaroni salad gas",
+        "resistant starch pasta ibd"
+      ],
+      "whyItWorks": "When pasta cools, its starch molecules recrystallize into Type 3 Resistant Starch (RS3), which completely resists digestion in the small intestine. Mixed with raw crunchy peppers, onions, and oily vinaigrette, it triggers severe gas bloating.",
+      "prepOrOrderInstructions": "Always eat pasta warm and freshly cooked. Skip chilled pasta salads from delis or buffets.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/cold-pasta-salad-raw-vegetables-warning.json"
+    },
+    {
       "id": "triscuit-original-woven-wheat-hazard-warning",
       "name": "Triscuit Original Whole Wheat Crackers (Abrasive Woven Wheat Hazard)",
       "categoryFolder": "snacks-desserts",
@@ -79364,6 +80131,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/vega-one-all-in-one-shake-warning.json"
     },
     {
+      "id": "banza-chickpea-pasta-rotini-warning",
+      "name": "WARNING: Banza Chickpea Pasta (High GOS Fiber & Fermentation Trigger)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Banza / Warning",
+      "crohnsScore": 2.8,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "American",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 8,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "chickpea-pasta",
+        "banza",
+        "high-fiber",
+        "fodmap",
+        "gas-trigger",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "banza chickpea pasta warning",
+        "chickpea pasta bloat",
+        "banza stomach pain crohns"
+      ],
+      "whyItWorks": "While marketed as a healthy gluten-free alternative, chickpea flour is loaded with galactooligosaccharides (GOS) and 8g of dense legume fiber per serving. Fermentation by colonic bacteria creates violent intestinal bloating, severe gas pains, and loose stools.",
+      "prepOrOrderInstructions": "Avoid pulse and chickpea-based pastas. Choose Barilla Gluten-Free (corn/rice) or Jovial brown rice pasta for smooth, painless digestion.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/banza-chickpea-pasta-rotini-warning.json"
+    },
+    {
       "id": "raw-asparagus-woody-spears-warning",
       "name": "WARNING: Raw Asparagus Stalks & Fibrous Woody Bottoms",
       "categoryFolder": "produce-sides",
@@ -79475,6 +80280,81 @@
       "prepOrOrderInstructions": "STRICTLY AVOID during flares, strictures, or active proctitis. The capsaicin and hot oil provoke immediate intestinal burning and urgency.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/lunch/chick-fil-a-spicy-deluxe-sandwich-warning.json"
+    },
+    {
+      "id": "toleran-organic-red-lentil-penne-warning",
+      "name": "WARNING: Red Lentil Penne & Pulse Pastas (High FODMAP Fermentation)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Tolerant / Barilla Red Lentil / Warning",
+      "crohnsScore": 2.7,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 9,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "lentil-pasta",
+        "pulse-pasta",
+        "high-fiber",
+        "gas-trigger",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "red lentil pasta warning",
+        "lentil penne gas pain",
+        "pulse pasta ibd danger"
+      ],
+      "whyItWorks": "100% red lentil flour pasta packs 9g of legume fiber and high oligosaccharide concentrations per serving. Triggers severe osmotic diarrhea, rapid gas distension, and tenesmus in active IBD.",
+      "prepOrOrderInstructions": "Avoid red lentil and legume-based pastas. Opt for low-residue white rice noodles or enriched white semolina.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/toleran-organic-red-lentil-penne-warning.json"
+    },
+    {
+      "id": "olive-garden-fettuccine-alfredo-heavy-cream-warning",
+      "name": "WARNING: Restaurant Fettuccine Alfredo (Heavy Cream, Butter & Garlic Overload)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Olive Garden / Casual Dining Warning",
+      "crohnsScore": 2.6,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": false,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "alfredo",
+        "heavy-fat",
+        "lactose-bomb",
+        "garlic",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "fettuccine alfredo warning",
+        "olive garden alfredo diarrhea",
+        "heavy cream pasta ibd trigger"
+      ],
+      "whyItWorks": "A single serving of commercial Fettuccine Alfredo packs 50g–80g of heavy saturated fat from heavy whipping cream, parmesan, and butter, combined with heavy garlic puree. Triggers powerful gastrocolic dumping reflexes, steatorrhea, and severe urgency.",
+      "prepOrOrderInstructions": "Skip commercial Alfredo sauces. Order plain penne or fettuccine with a small side of olive oil or clear broth and grilled plain chicken.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/olive-garden-fettuccine-alfredo-heavy-cream-warning.json"
     },
     {
       "id": "animators-arugula-beet-orange-salad",
@@ -79711,6 +80591,44 @@
       "_sourcePath": "src/data/items/drinks-sauces/suja-organic-green-delight-cold-pressed-juice-warning.json"
     },
     {
+      "id": "traditional-pasta-puttanesca-capers-olives-warning",
+      "name": "WARNING: Pasta alla Puttanesca (Capers, Olives, Anchovies & Hot Pepper)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Italian Dining / Warning",
+      "crohnsScore": 2.5,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "puttanesca",
+        "high-sodium",
+        "spicy",
+        "acidic",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "pasta alla puttanesca warning",
+        "puttanesca sauce crohns",
+        "salty caper olive pasta"
+      ],
+      "whyItWorks": "Pungent sauce containing crushed hot chili peppers, briny pickled capers, whole black olives, and acidic tomato sauce. Extreme osmolarity from brine and sodium combined with capsaicin burns intestinal lining.",
+      "prepOrOrderInstructions": "Avoid Puttanesca sauce entirely. Stick to simple pastas with olive oil or pure chicken broth.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/traditional-pasta-puttanesca-capers-olives-warning.json"
+    },
+    {
       "id": "raw-jicama-sticks-insoluble-fiber-warning",
       "name": "WARNING: Raw Jicama Sticks (Woody Fiber & High Inulin/FOS)",
       "categoryFolder": "produce-sides",
@@ -79825,6 +80743,44 @@
       "prepOrOrderInstructions": "STRICTLY AVOID. Always choose Plain or French Toast/Cinnamon Swirl bagels without whole seeds.",
       "safetyTier": "danger-zone",
       "_sourcePath": "src/data/items/breakfast/thomas-everything-bagel-seeds-garlic-warning.json"
+    },
+    {
+      "id": "spicy-penne-arrabbiata-crushed-pepper-warning",
+      "name": "WARNING: Penne all'Arrabbiata (Spicy Red Pepper Flakes & Acidic Marinara)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Italian Dining / Warning",
+      "crohnsScore": 2.4,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "takeout"
+      ],
+      "region": "Italian/Med",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 3.5,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "arrabbiata",
+        "spicy",
+        "chili-flakes",
+        "capsaicin",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "penne arrabbiata warning",
+        "spicy italian pasta ibd",
+        "chili pepper pasta flare"
+      ],
+      "whyItWorks": "Arrabbiata literally translates to 'angry pasta' due to heavy amounts of dried chili flakes and whole chili seeds cooked in acidic garlic tomato sauce. Capsaicin sparks gut motility while coarse chili seeds scrape inflamed tissue.",
+      "prepOrOrderInstructions": "Never order Arrabbiata or spicy devil sauces. Choose pasta tossed with mild extra virgin olive oil, gentle butter, or mild strained seedless marinara.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/spicy-penne-arrabbiata-crushed-pepper-warning.json"
     },
     {
       "id": "ezekiel-4-9-sprouted-whole-grain-bread-warning",
@@ -81170,6 +82126,42 @@
       "_sourcePath": "src/data/items/snacks-desserts/captains-gala-orange-almond-cake.json"
     },
     {
+      "id": "explore-cuisine-black-bean-spaghetti-warning",
+      "name": "WARNING: Black Bean Spaghetti (Extreme Insoluble Legume Fiber)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Explore Cuisine / Warning",
+      "crohnsScore": 2,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 4,
+      "prepMethod": [
+        "stovetop"
+      ],
+      "fiberGramsPerServing": 12,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "black-bean-pasta",
+        "extreme-fiber",
+        "gas-bomb",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "black bean spaghetti warning",
+        "black bean pasta crohns flare",
+        "12g fiber pasta danger"
+      ],
+      "whyItWorks": "An extreme fiber bomb containing 12g of dense, indigestible black bean fiber per serving. In an inflamed gut or strictured intestine, this creates massive fermentation pressure and severe transit friction.",
+      "prepOrOrderInstructions": "Completely avoid black bean pasta. It is one of the single most disruptive pasta substitutes for inflammatory bowel disease.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/explore-cuisine-black-bean-spaghetti-warning.json"
+    },
+    {
       "id": "raw-collard-greens-tough-ribs-warning",
       "name": "WARNING: Raw Collard Greens & Leathery Leaf Stems",
       "categoryFolder": "produce-sides",
@@ -81628,6 +82620,43 @@
       "_sourcePath": "src/data/items/snacks-desserts/takis-fuego-rolled-tortilla-chips-warning.json"
     },
     {
+      "id": "shin-ramen-spicy-instant-noodles-warning",
+      "name": "WARNING: Nongshim Shin Ramyun Spicy Instant Noodles",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Nongshim / Asian Grocery Warning",
+      "crohnsScore": 1.5,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Korean",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "instant-ramen",
+        "shin-ramen",
+        "extreme-spice",
+        "deep-fried-noodles",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "shin ramyun warning",
+        "spicy instant ramen crohns flare",
+        "nongshim ramen danger"
+      ],
+      "whyItWorks": "Deep-fried flash-dehydrated noodle cake accompanied by a fierce red chili powder soup base with dried garlic, scallions, and intense capsaicin extract. Triggers extreme chemical burning, mucosal spasms, and acute watery diarrhea.",
+      "prepOrOrderInstructions": "Strictly avoid spicy instant ramen packets. If craving ramen, choose plain unspiced rice noodles in clear bone broth.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/shin-ramen-spicy-instant-noodles-warning.json"
+    },
+    {
       "id": "whole-globe-artichoke-leaves-warning",
       "name": "WARNING: Whole Globe Artichoke Leaves & Spiny Tips",
       "categoryFolder": "produce-sides",
@@ -81783,6 +82812,83 @@
         "Grapefruit juice, zest, and segments (strict medication & gut contraindication)"
       ],
       "_sourcePath": "src/data/items/snacks-desserts/1923-californian-grapefruit-cake-avoid.json"
+    },
+    {
+      "id": "samyang-buldak-spicy-hot-chicken-ramen-warning",
+      "name": "CRITICAL WARNING: Samyang Buldak Hot Chicken Spicy Ramen (Extreme Capsaicin)",
+      "categoryFolder": "asian-indian",
+      "brandOrRestaurant": "Samyang / Warning",
+      "crohnsScore": 1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Korean",
+      "costTier": 1,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 2,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "buldak",
+        "extreme-spice",
+        "chemical-burn",
+        "fire-noodles",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "buldak ramen warning",
+        "samyang 2x spicy danger",
+        "fire noodles colitis hospital",
+        "extreme spicy ramen crohns"
+      ],
+      "whyItWorks": "Rated at 4,400 to 10,000+ Scoville Heat Units. The sauce contains concentrated habanero and red pepper oleoresin that causes severe chemical mucosal trauma, severe rectal tenesmus, and intense gastrointestinal pain even in healthy guts.",
+      "prepOrOrderInstructions": "NEVER consume Buldak fire noodles. This product has sent multiple IBD patients to urgent care with acute intestinal inflammation.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/asian-indian/samyang-buldak-spicy-hot-chicken-ramen-warning.json"
+    },
+    {
+      "id": "shirataki-miracle-noodle-konjac-warning",
+      "name": "CRITICAL WARNING: Shirataki / Miracle Konjac Noodles (Stricture Obstruction Hazard)",
+      "categoryFolder": "italian-med",
+      "brandOrRestaurant": "Miracle Noodle / Skinny Pasta / Warning",
+      "crohnsScore": 1,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "region": "Global",
+      "costTier": 2,
+      "convenienceScore": 5,
+      "prepMethod": [
+        "ready-to-eat"
+      ],
+      "fiberGramsPerServing": 4,
+      "lactoseSafe": true,
+      "citrusFree": true,
+      "tags": [
+        "warning",
+        "shirataki",
+        "konjac",
+        "glucomannan",
+        "obstruction-hazard",
+        "bezoar-risk",
+        "danger-zone"
+      ],
+      "searchKeywords": [
+        "shirataki noodles warning",
+        "miracle noodle danger crohns",
+        "konjac noodle bowel obstruction",
+        "glucomannan stricture blockage"
+      ],
+      "whyItWorks": "EMERGENCY CLINICAL WARNING: Shirataki noodles are made of 100% glucomannan konjac fiber—a completely indigestible rubbery polysaccharide matrix that human enzymes cannot break down. In Crohn's disease, intestinal strictures, or an ileostomy, swallowed shirataki strands ball up and act like an immovable rubber plug, triggering acute surgical bowel obstruction.",
+      "prepOrOrderInstructions": "NEVER consume shirataki or konjac 'miracle noodles' if you have Crohn's disease, Ulcerative Colitis with narrowing, or an ostomy. Choose white rice noodles or gluten-free pasta instead.",
+      "safetyTier": "danger-zone",
+      "_sourcePath": "src/data/items/italian-med/shirataki-miracle-noodle-konjac-warning.json"
     },
     {
       "id": "til-we-meet-again-florida-citrus-spinach-salad",

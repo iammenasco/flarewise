@@ -1,0 +1,35 @@
+{
+  "id": "manischewitz-wide-egg-noodles-tender",
+  "name": "Manischewitz Wide Homestyle Egg Noodles",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Manischewitz",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "egg-noodles",
+    "kosher",
+    "soup-noodles",
+    "comfort-food",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "manischewitz egg noodles",
+    "wide noodles chicken soup",
+    "kosher egg noodles"
+  ],
+  "whyItWorks": "Classic soup noodles made with durum wheat and eggs. Cooked in chicken soup, they absorb healing broth and provide gentle, non-abrasive fuel.",
+  "prepOrOrderInstructions": "Drop directly into boiling chicken soup for 7–8 minutes until plump and soft.",
+  "safetyTier": "flare-safe"
+}

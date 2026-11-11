@@ -1,0 +1,37 @@
+{
+  "id": "barilla-gluten-free-penne-pasta",
+  "name": "Barilla Gluten-Free Penne Pasta (Corn & Rice Blend, Cooked Tender)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Barilla",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "gluten-free",
+    "corn-rice",
+    "low-fiber",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "barilla gluten free penne",
+    "gf pasta crohns",
+    "corn rice pasta flare",
+    "easy digest pasta"
+  ],
+  "whyItWorks": "Formulated with non-GMO white corn, yellow corn, and white rice flour. Naturally free of inflammatory wheat gluten, virtually free of insoluble fiber (1g per serving), and cooks up smooth and tender.",
+  "prepOrOrderInstructions": "Boil in salted water for 10–11 minutes until fully tender, past the tough al dente stage. Toss with olive oil, melted ghee, or mild seedless marinara.",
+  "safetyTier": "flare-safe"
+}

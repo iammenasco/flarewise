@@ -1,0 +1,35 @@
+{
+  "id": "thai-kitchen-thin-rice-vermicelli-noodles",
+  "name": "Thai Kitchen Thin Rice Vermicelli Noodles (Mai Fun)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Thai Kitchen / A Taste of Thai",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "rice-vermicelli",
+    "mai-fun",
+    "gluten-free",
+    "quick-cooking",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "rice vermicelli",
+    "mai fun noodles",
+    "thai kitchen thin rice noodles"
+  ],
+  "whyItWorks": "Extremely fine threads of white rice flour that rehydrate in hot water within 3 minutes. Zero gluten, less than 1g fiber per serving, and very easy on strictures.",
+  "prepOrOrderInstructions": "Soak noodles in boiling water for 3 minutes until tender. Drain and add to warm chicken or vegetable broth.",
+  "safetyTier": "flare-safe"
+}

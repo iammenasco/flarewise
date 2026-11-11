@@ -1,0 +1,36 @@
+{
+  "id": "jovial-organic-grain-free-cassava-pasta",
+  "name": "Jovial Grain-Free Cassava Penne (AIP Friendly)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Jovial Foods",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 3,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "grain-free",
+    "cassava",
+    "aip-friendly",
+    "hypoallergenic",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "jovial cassava pasta",
+    "grain free penne",
+    "aip pasta crohns"
+  ],
+  "whyItWorks": "Made solely with organic cassava flour and water. Completely grain-free, corn-free, and wheat-free; excellent hypoallergenic staple for patients on strict elimination protocols.",
+  "prepOrOrderInstructions": "Boil in salted water for 12–13 minutes stirring occasionally. Cassava pasta cooks slightly firmer, so give it extra time until fully tender.",
+  "safetyTier": "low-risk"
+}

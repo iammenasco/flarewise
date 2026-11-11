@@ -1,0 +1,36 @@
+{
+  "id": "cold-pasta-salad-raw-vegetables-warning",
+  "name": "WARNING: Deli Cold Pasta Salad (Retrograded Resistant Starch & Raw Veggies)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Deli Counter / Picnic Warning",
+  "crohnsScore": 3,
+  "mealTypes": [
+    "lunch",
+    "snack"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.8,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "cold-pasta",
+    "pasta-salad",
+    "resistant-starch",
+    "raw-veggies",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "cold pasta salad warning",
+    "chilled macaroni salad gas",
+    "resistant starch pasta ibd"
+  ],
+  "whyItWorks": "When pasta cools, its starch molecules recrystallize into Type 3 Resistant Starch (RS3), which completely resists digestion in the small intestine. Mixed with raw crunchy peppers, onions, and oily vinaigrette, it triggers severe gas bloating.",
+  "prepOrOrderInstructions": "Always eat pasta warm and freshly cooked. Skip chilled pasta salads from delis or buffets.",
+  "safetyTier": "danger-zone"
+}

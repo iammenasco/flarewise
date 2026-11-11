@@ -1,0 +1,35 @@
+{
+  "id": "gia-russa-potato-gnocchi-boiled-soft",
+  "name": "Gia Russa Potato Gnocchi (Pillowy Soft, Boiled)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Gia Russa / De Cecco",
+  "crohnsScore": 8.8,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "gnocchi",
+    "potato",
+    "pillowy",
+    "comfort-food",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "gia russa gnocchi",
+    "potato gnocchi plain",
+    "boiled gnocchi ibd"
+  ],
+  "whyItWorks": "Tender dumplings made from mashed potatoes and wheat flour. Soft, pillowy texture digests easily when boiled until they float and tossed in gentle olive oil.",
+  "prepOrOrderInstructions": "Drop into boiling salted water. As soon as they float to the top (2–3 minutes), simmer for 1 more minute to ensure complete softness, then gently scoop out.",
+  "safetyTier": "low-risk"
+}

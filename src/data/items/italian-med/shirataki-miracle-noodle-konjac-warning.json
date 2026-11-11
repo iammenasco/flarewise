@@ -1,0 +1,38 @@
+{
+  "id": "shirataki-miracle-noodle-konjac-warning",
+  "name": "CRITICAL WARNING: Shirataki / Miracle Konjac Noodles (Stricture Obstruction Hazard)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Miracle Noodle / Skinny Pasta / Warning",
+  "crohnsScore": 1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Global",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 4,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "shirataki",
+    "konjac",
+    "glucomannan",
+    "obstruction-hazard",
+    "bezoar-risk",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "shirataki noodles warning",
+    "miracle noodle danger crohns",
+    "konjac noodle bowel obstruction",
+    "glucomannan stricture blockage"
+  ],
+  "whyItWorks": "EMERGENCY CLINICAL WARNING: Shirataki noodles are made of 100% glucomannan konjac fiber—a completely indigestible rubbery polysaccharide matrix that human enzymes cannot break down. In Crohn's disease, intestinal strictures, or an ileostomy, swallowed shirataki strands ball up and act like an immovable rubber plug, triggering acute surgical bowel obstruction.",
+  "prepOrOrderInstructions": "NEVER consume shirataki or konjac 'miracle noodles' if you have Crohn's disease, Ulcerative Colitis with narrowing, or an ostomy. Choose white rice noodles or gluten-free pasta instead.",
+  "safetyTier": "danger-zone"
+}

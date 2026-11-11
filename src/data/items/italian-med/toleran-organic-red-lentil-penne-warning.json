@@ -1,0 +1,36 @@
+{
+  "id": "toleran-organic-red-lentil-penne-warning",
+  "name": "WARNING: Red Lentil Penne & Pulse Pastas (High FODMAP Fermentation)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Tolerant / Barilla Red Lentil / Warning",
+  "crohnsScore": 2.7,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 9,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "lentil-pasta",
+    "pulse-pasta",
+    "high-fiber",
+    "gas-trigger",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "red lentil pasta warning",
+    "lentil penne gas pain",
+    "pulse pasta ibd danger"
+  ],
+  "whyItWorks": "100% red lentil flour pasta packs 9g of legume fiber and high oligosaccharide concentrations per serving. Triggers severe osmotic diarrhea, rapid gas distension, and tenesmus in active IBD.",
+  "prepOrOrderInstructions": "Avoid red lentil and legume-based pastas. Opt for low-residue white rice noodles or enriched white semolina.",
+  "safetyTier": "danger-zone"
+}

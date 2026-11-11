@@ -1,0 +1,36 @@
+{
+  "id": "ronzoni-angel-hair-capellini-olive-oil",
+  "name": "Ronzoni Angel Hair Capellini (With Olive Oil & Sea Salt)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Ronzoni / Barilla",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "pasta",
+    "capellini",
+    "angel-hair",
+    "low-residue",
+    "tender",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "angel hair pasta olive oil",
+    "capellini crohns",
+    "buttered angel hair"
+  ],
+  "whyItWorks": "Extremely delicate, ultra-thin strands of enriched semolina pasta that soften completely in minutes. Minimal chewing required, passing smoothly through the digestive tract with zero rough edges.",
+  "prepOrOrderInstructions": "Boil for 4–5 minutes until soft. Drain and toss immediately with extra virgin olive oil, sea salt, and a pinch of aged grated parmesan.",
+  "safetyTier": "flare-safe"
+}

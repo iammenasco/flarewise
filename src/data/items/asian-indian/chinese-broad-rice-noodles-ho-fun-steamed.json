@@ -1,0 +1,35 @@
+{
+  "id": "chinese-broad-rice-noodles-ho-fun-steamed",
+  "name": "Steamed Wide Rice Noodles (Ho Fun with Tamari & Sesame)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Asian Market / Cantonese Home Style",
+  "crohnsScore": 9.1,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Chinese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ho-fun",
+    "rice-noodles",
+    "gluten-free",
+    "cantonese",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "ho fun noodles",
+    "wide flat rice noodles",
+    "chow fun plain noodles"
+  ],
+  "whyItWorks": "Steamed wide flat sheets of white rice noodles. Soft, slippery, and gentle, requiring almost no mechanical digestion.",
+  "prepOrOrderInstructions": "Steam fresh ho fun noodles or simmer briefly in broth until soft and slippery. Toss with a splash of tamari and toasted sesame oil.",
+  "safetyTier": "flare-safe"
+}

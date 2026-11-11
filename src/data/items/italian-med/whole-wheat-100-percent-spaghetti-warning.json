@@ -1,0 +1,36 @@
+{
+  "id": "whole-wheat-100-percent-spaghetti-warning",
+  "name": "WARNING: 100% Whole Wheat Spaghetti & Whole Grain Pasta",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Barilla Whole Grain / Bionaturae / Warning",
+  "crohnsScore": 3.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 7,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "whole-wheat",
+    "insoluble-fiber",
+    "roughage",
+    "scratchy-bran",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "whole wheat pasta warning",
+    "whole grain spaghetti ibd flare",
+    "brown pasta gut irritation"
+  ],
+  "whyItWorks": "Whole wheat pasta contains dense, sharp fragments of wheat bran that pass intact into the intestine. During inflammation, these microscopic jagged edges physically abrade raw mucosal tissue, worsening ulcer bleeding and cramping.",
+  "prepOrOrderInstructions": "Strictly avoid 100% whole wheat pasta during flares. Switch to refined white semolina pastina, white rice noodles, or corn/rice gluten-free pasta.",
+  "safetyTier": "danger-zone"
+}

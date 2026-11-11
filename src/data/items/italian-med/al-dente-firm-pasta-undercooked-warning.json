@@ -1,0 +1,37 @@
+{
+  "id": "al-dente-firm-pasta-undercooked-warning",
+  "name": "WARNING: Al Dente Undercooked Pasta (Resistant Starch & Hard Core)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Italian Dining / Warning",
+  "crohnsScore": 4.8,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "al-dente",
+    "firm-pasta",
+    "undercooked",
+    "resistant-starch",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "al dente pasta warning",
+    "firm pasta hard to digest",
+    "undercooked pasta gas"
+  ],
+  "whyItWorks": "Chewy al dente pasta has an ungelatinized, dense starch core. In healthy people this acts as beneficial resistant starch; in IBD patients with impaired digestion, ungelatinized starch escapes small bowel absorption and triggers rapid bacterial fermentation and bloating.",
+  "prepOrOrderInstructions": "Always cook pasta 1–2 minutes past the standard al dente package directions until tender throughout. When ordering at Italian restaurants, request pasta 'ben cotta' (well cooked).",
+  "safetyTier": "danger-zone"
+}

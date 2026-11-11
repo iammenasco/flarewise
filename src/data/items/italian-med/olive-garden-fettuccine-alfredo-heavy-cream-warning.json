@@ -1,0 +1,37 @@
+{
+  "id": "olive-garden-fettuccine-alfredo-heavy-cream-warning",
+  "name": "WARNING: Restaurant Fettuccine Alfredo (Heavy Cream, Butter & Garlic Overload)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Olive Garden / Casual Dining Warning",
+  "crohnsScore": 2.6,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": false,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "alfredo",
+    "heavy-fat",
+    "lactose-bomb",
+    "garlic",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "fettuccine alfredo warning",
+    "olive garden alfredo diarrhea",
+    "heavy cream pasta ibd trigger"
+  ],
+  "whyItWorks": "A single serving of commercial Fettuccine Alfredo packs 50g–80g of heavy saturated fat from heavy whipping cream, parmesan, and butter, combined with heavy garlic puree. Triggers powerful gastrocolic dumping reflexes, steatorrhea, and severe urgency.",
+  "prepOrOrderInstructions": "Skip commercial Alfredo sauces. Order plain penne or fettuccine with a small side of olive oil or clear broth and grilled plain chicken.",
+  "safetyTier": "danger-zone"
+}

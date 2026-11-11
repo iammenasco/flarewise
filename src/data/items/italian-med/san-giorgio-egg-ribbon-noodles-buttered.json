@@ -1,0 +1,35 @@
+{
+  "id": "san-giorgio-egg-ribbon-noodles-buttered",
+  "name": "San Giorgio Enriched Egg Ribbon Noodles (Buttered)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "San Giorgio / No Yolks",
+  "crohnsScore": 9.2,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "American",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "egg-noodles",
+    "comfort-food",
+    "butter-noodles",
+    "low-residue",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "buttered egg noodles",
+    "san giorgio ribbon noodles",
+    "soft egg noodles crohns"
+  ],
+  "whyItWorks": "Egg-enriched wheat ribbon noodles soften into a tender, melt-in-your-mouth texture. Highly digestible source of gentle calories and complex carbs during low-residue recovery.",
+  "prepOrOrderInstructions": "Boil broad egg noodles in salted water for 8 minutes until tender. Toss with 1 tsp butter or ghee and sea salt.",
+  "safetyTier": "flare-safe"
+}

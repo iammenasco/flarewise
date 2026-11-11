@@ -1,0 +1,35 @@
+{
+  "id": "japanese-somen-thin-wheat-noodles-chilled",
+  "name": "Japanese Somen Noodles (Ultra-Thin Wheat Noodles in Mild Dashi)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Hakubaku / J-Basket",
+  "crohnsScore": 9.4,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "somen",
+    "japanese-noodles",
+    "ultra-thin",
+    "soothing",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "japanese somen",
+    "hiyashi somen plain",
+    "thin somen noodles crohns"
+  ],
+  "whyItWorks": "Crafted from fine white wheat flour and stretched paper-thin. Cooks in just 90 seconds into silken strands that are exceptionally soothing on irritable bowel mucosa.",
+  "prepOrOrderInstructions": "Boil somen noodles for 90 seconds. Rinse in cold water to remove starch, then serve warm in mild bonito/kombu dashi with a dash of tamari.",
+  "safetyTier": "flare-safe"
+}

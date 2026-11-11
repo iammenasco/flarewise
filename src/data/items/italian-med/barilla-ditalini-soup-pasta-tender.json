@@ -1,0 +1,35 @@
+{
+  "id": "barilla-ditalini-soup-pasta-tender",
+  "name": "Barilla Ditalini Small Soup Pasta",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Barilla",
+  "crohnsScore": 9.3,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Italian/Med",
+  "costTier": 1,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "ditalini",
+    "soup-pasta",
+    "low-residue",
+    "tender",
+    "flare-safe"
+  ],
+  "searchKeywords": [
+    "barilla ditalini",
+    "tubetti pasta broth",
+    "small soup pasta crohns"
+  ],
+  "whyItWorks": "Small thimble-shaped pasta tubes that soften thoroughly in broth. Excellent vehicle for chicken bone broth and soft peeled cooked zucchini.",
+  "prepOrOrderInstructions": "Boil 10 minutes in chicken broth until tender and plump.",
+  "safetyTier": "flare-safe"
+}

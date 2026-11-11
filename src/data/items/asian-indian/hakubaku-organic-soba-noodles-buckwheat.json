@@ -1,0 +1,34 @@
+{
+  "id": "hakubaku-organic-soba-noodles-buckwheat",
+  "name": "Hakubaku Organic Soba Noodles (Buckwheat & Wheat Blend)",
+  "categoryFolder": "asian-indian",
+  "brandOrRestaurant": "Hakubaku",
+  "crohnsScore": 8.5,
+  "mealTypes": [
+    "lunch",
+    "dinner"
+  ],
+  "region": "Japanese",
+  "costTier": 2,
+  "convenienceScore": 4,
+  "prepMethod": [
+    "stovetop"
+  ],
+  "fiberGramsPerServing": 2,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "soba",
+    "buckwheat",
+    "japanese",
+    "low-risk"
+  ],
+  "searchKeywords": [
+    "hakubaku soba",
+    "buckwheat noodles",
+    "soba noodles crohns"
+  ],
+  "whyItWorks": "Nutty Japanese soba noodles providing soluble rutin bioflavonoids and clean carbs. When boiled tender, they digest cleanly in remission.",
+  "prepOrOrderInstructions": "Boil for 4–5 minutes in unsalted water. Rinse well under running cold water to wash away starch, then serve chilled or warm in mild dipping broth.",
+  "safetyTier": "low-risk"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "traditional-pasta-puttanesca-capers-olives-warning",
+  "name": "WARNING: Pasta alla Puttanesca (Capers, Olives, Anchovies & Hot Pepper)",
+  "categoryFolder": "italian-med",
+  "brandOrRestaurant": "Italian Dining / Warning",
+  "crohnsScore": 2.5,
+  "mealTypes": [
+    "lunch",
+    "dinner",
+    "takeout"
+  ],
+  "region": "Italian/Med",
+  "costTier": 2,
+  "convenienceScore": 5,
+  "prepMethod": [
+    "ready-to-eat"
+  ],
+  "fiberGramsPerServing": 3.5,
+  "lactoseSafe": true,
+  "citrusFree": true,
+  "tags": [
+    "warning",
+    "puttanesca",
+    "high-sodium",
+    "spicy",
+    "acidic",
+    "danger-zone"
+  ],
+  "searchKeywords": [
+    "pasta alla puttanesca warning",
+    "puttanesca sauce crohns",
+    "salty caper olive pasta"
+  ],
+  "whyItWorks": "Pungent sauce containing crushed hot chili peppers, briny pickled capers, whole black olives, and acidic tomato sauce. Extreme osmolarity from brine and sodium combined with capsaicin burns intestinal lining.",
+  "prepOrOrderInstructions": "Avoid Puttanesca sauce entirely. Stick to simple pastas with olive oil or pure chicken broth.",
+  "safetyTier": "danger-zone"
+}
