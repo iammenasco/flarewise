@@ -17,9 +17,16 @@ export const STORAGE_KEYS = {
   personalStatus: 'flarewise_personal_status',
   showServerCard: 'flarewise_show_server_card',
   theme: 'flarewise_theme',
+  /** ISO timestamp for last local prefs mutation (Gist LWW). */
+  prefsUpdatedAt: 'flarewise_prefs_updated_at',
   submitDraft: 'flarewise_submit_draft',
   submitQueue: 'flarewise_submit_queue',
 } as const
+
+/** Backup JSON shape: preferences plus optional `updatedAt` for sync. */
+export type PreferencesBackup = CatalogPreferences & {
+  updatedAt?: string
+}
 
 /** Legacy SoftScore / crohns-era keys — migrated once on load. */
 const LEGACY_KEYS: Partial<Record<keyof typeof STORAGE_KEYS, string>> = {
@@ -125,6 +132,36 @@ export function loadPreferences(): CatalogPreferences {
   }
 }
 
+export function loadPrefsUpdatedAt(): string {
+  if (typeof window === 'undefined') return new Date(0).toISOString()
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.prefsUpdatedAt)
+    if (raw) {
+      const parsed = JSON.parse(raw) as unknown
+      if (typeof parsed === 'string' && Number.isFinite(Date.parse(parsed))) {
+        return parsed
+      }
+    }
+  } catch {
+    /* fall through */
+  }
+  return new Date(0).toISOString()
+}
+
+export function savePrefsUpdatedAt(updatedAt: string) {
+  if (typeof window === 'undefined') return
+  localStorage.setItem(
+    STORAGE_KEYS.prefsUpdatedAt,
+    JSON.stringify(updatedAt),
+  )
+}
+
+export function touchPrefsUpdatedAt(): string {
+  const updatedAt = new Date().toISOString()
+  savePrefsUpdatedAt(updatedAt)
+  return updatedAt
+}
+
 export function savePreferences(prefs: CatalogPreferences) {
   localStorage.setItem(STORAGE_KEYS.starred, JSON.stringify(prefs.starredIds))
   localStorage.setItem(STORAGE_KEYS.grocery, JSON.stringify(prefs.groceryIds))
@@ -145,25 +182,58 @@ export function savePreferences(prefs: CatalogPreferences) {
   localStorage.setItem(STORAGE_KEYS.theme, JSON.stringify(prefs.theme))
 }
 
-export function exportPreferences(prefs: CatalogPreferences): string {
-  return JSON.stringify(prefs, null, 2)
+export function exportPreferences(
+  prefs: CatalogPreferences,
+  updatedAt?: string,
+): string {
+  const payload: PreferencesBackup = {
+    ...prefs,
+    updatedAt: updatedAt ?? new Date().toISOString(),
+  }
+  return JSON.stringify(payload, null, 2)
 }
 
-export function importPreferences(raw: string): CatalogPreferences | null {
+/**
+ * Parse backup JSON into preferences (+ optional updatedAt).
+ * Unknown/extra keys like `updatedAt` are not stored in CatalogPreferences.
+ */
+export function importPreferences(raw: string): PreferencesBackup | null {
   try {
-    const parsed = JSON.parse(raw) as CatalogPreferences
+    const parsed = JSON.parse(raw) as PreferencesBackup
     if (!parsed || typeof parsed !== 'object') return null
+    const updatedAt =
+      typeof parsed.updatedAt === 'string' &&
+      Number.isFinite(Date.parse(parsed.updatedAt))
+        ? parsed.updatedAt
+        : undefined
     return {
       ...defaultPreferences,
-      ...parsed,
+      starredIds: Array.isArray(parsed.starredIds) ? parsed.starredIds : [],
+      groceryIds: Array.isArray(parsed.groceryIds) ? parsed.groceryIds : [],
+      checkedGroceryIngredients: Array.isArray(
+        parsed.checkedGroceryIngredients,
+      )
+        ? parsed.checkedGroceryIngredients
+        : [],
+      minScore:
+        typeof parsed.minScore === 'number'
+          ? parsed.minScore
+          : defaultPreferences.minScore,
       guardrails: { ...defaultGuardrails, ...parsed.guardrails },
       personalStatus: parsed.personalStatus ?? {},
       showServerCard: Boolean(parsed.showServerCard),
       theme: isThemePreference(parsed.theme) ? parsed.theme : 'system',
+      ...(updatedAt ? { updatedAt } : {}),
     }
   } catch {
     return null
   }
+}
+
+/** Strip sync metadata for applying into app state. */
+export function prefsFromBackup(backup: PreferencesBackup): CatalogPreferences {
+  const { updatedAt: _updatedAt, ...prefs } = backup
+  return prefs
 }
 
 export function loadSubmitDraft(): CrohnsFoodItem | null {

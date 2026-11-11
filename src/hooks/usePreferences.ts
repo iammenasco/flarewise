@@ -4,7 +4,11 @@ import {
   exportPreferences,
   importPreferences,
   loadPreferences,
+  loadPrefsUpdatedAt,
+  prefsFromBackup,
   savePreferences,
+  savePrefsUpdatedAt,
+  touchPrefsUpdatedAt,
 } from '../lib/storage'
 import type {
   CatalogPreferences,
@@ -17,6 +21,11 @@ export function usePreferences() {
   const [prefs, setPrefs] = useState<CatalogPreferences>(() =>
     typeof window === 'undefined' ? defaultPreferences : loadPreferences(),
   )
+  const [updatedAt, setUpdatedAt] = useState<string>(() =>
+    typeof window === 'undefined'
+      ? new Date(0).toISOString()
+      : loadPrefsUpdatedAt(),
+  )
   const [ready] = useState(() => typeof window !== 'undefined')
 
   useEffect(() => {
@@ -24,8 +33,15 @@ export function usePreferences() {
     savePreferences(prefs)
   }, [prefs, ready])
 
+  function mutate(
+    updater: (prev: CatalogPreferences) => CatalogPreferences,
+  ) {
+    setUpdatedAt(touchPrefsUpdatedAt())
+    setPrefs(updater)
+  }
+
   function toggleStar(id: string) {
-    setPrefs((prev) => ({
+    mutate((prev) => ({
       ...prev,
       starredIds: prev.starredIds.includes(id)
         ? prev.starredIds.filter((x) => x !== id)
@@ -34,7 +50,7 @@ export function usePreferences() {
   }
 
   function toggleGrocery(id: string) {
-    setPrefs((prev) => ({
+    mutate((prev) => ({
       ...prev,
       groceryIds: prev.groceryIds.includes(id)
         ? prev.groceryIds.filter((x) => x !== id)
@@ -43,11 +59,11 @@ export function usePreferences() {
   }
 
   function setMinScore(minScore: number) {
-    setPrefs((prev) => ({ ...prev, minScore }))
+    mutate((prev) => ({ ...prev, minScore }))
   }
 
   function setGuardrails(patch: Partial<Guardrails>) {
-    setPrefs((prev) => {
+    mutate((prev) => {
       const next = { ...prev.guardrails, ...patch }
       if ('showDangerZone' in patch) {
         next.hideDangerZone = !patch.showDangerZone
@@ -57,15 +73,15 @@ export function usePreferences() {
   }
 
   function setShowServerCard(showServerCard: boolean) {
-    setPrefs((prev) => ({ ...prev, showServerCard }))
+    mutate((prev) => ({ ...prev, showServerCard }))
   }
 
   function setTheme(theme: ThemePreference) {
-    setPrefs((prev) => ({ ...prev, theme }))
+    mutate((prev) => ({ ...prev, theme }))
   }
 
   function setPersonalStatus(id: string, status: PersonalStatus | undefined) {
-    setPrefs((prev) => {
+    mutate((prev) => {
       const personalStatus = { ...prev.personalStatus }
       if (!status) delete personalStatus[id]
       else personalStatus[id] = status
@@ -74,7 +90,7 @@ export function usePreferences() {
   }
 
   function toggleCheckedIngredient(ingredient: string) {
-    setPrefs((prev) => ({
+    mutate((prev) => ({
       ...prev,
       checkedGroceryIngredients: prev.checkedGroceryIngredients.includes(
         ingredient,
@@ -85,7 +101,7 @@ export function usePreferences() {
   }
 
   function clearGrocery() {
-    setPrefs((prev) => ({
+    mutate((prev) => ({
       ...prev,
       groceryIds: [],
       checkedGroceryIngredients: [],
@@ -93,7 +109,7 @@ export function usePreferences() {
   }
 
   function downloadBackup() {
-    const blob = new Blob([exportPreferences(prefs)], {
+    const blob = new Blob([exportPreferences(prefs, updatedAt)], {
       type: 'application/json',
     })
     const url = URL.createObjectURL(blob)
@@ -106,12 +122,27 @@ export function usePreferences() {
 
   function restoreBackup(raw: string) {
     const next = importPreferences(raw)
-    if (next) setPrefs(next)
-    return Boolean(next)
+    if (!next) return false
+    const at = next.updatedAt ?? new Date().toISOString()
+    savePrefsUpdatedAt(at)
+    setUpdatedAt(at)
+    setPrefs(prefsFromBackup(next))
+    return true
+  }
+
+  /** Apply remote prefs without advancing local updatedAt past the remote stamp. */
+  function applySyncedPrefs(
+    next: CatalogPreferences,
+    remoteUpdatedAt: string,
+  ) {
+    savePrefsUpdatedAt(remoteUpdatedAt)
+    setUpdatedAt(remoteUpdatedAt)
+    setPrefs(next)
   }
 
   return {
     prefs,
+    updatedAt,
     ready,
     toggleStar,
     toggleGrocery,
@@ -124,5 +155,6 @@ export function usePreferences() {
     clearGrocery,
     downloadBackup,
     restoreBackup,
+    applySyncedPrefs,
   }
 }

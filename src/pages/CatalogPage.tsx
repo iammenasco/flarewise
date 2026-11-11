@@ -8,6 +8,7 @@ import { FoodDrawer } from '../components/FoodDrawer'
 import { GroceryPanel } from '../components/GroceryPanel'
 import { PickForMe } from '../components/PickForMe'
 import { SearchScope } from '../components/SearchScope'
+import { BackupRestorePanel } from '../components/BackupRestorePanel'
 import { VenueMenuBar } from '../components/VenueMenuBar'
 import { foodById } from '../data'
 import { pickForMe, useCatalogFilters } from '../hooks/useCatalogFilters'
@@ -31,6 +32,7 @@ import { countPendingSubmissions, loadSubmitQueue } from '../lib/storage'
 export function CatalogPage() {
   const {
     prefs,
+    updatedAt,
     toggleStar,
     toggleGrocery,
     setMinScore,
@@ -42,6 +44,7 @@ export function CatalogPage() {
     clearGrocery,
     downloadBackup,
     restoreBackup,
+    applySyncedPrefs,
   } = usePreferences()
 
   useTheme(prefs.theme)
@@ -419,34 +422,13 @@ export function CatalogPage() {
             </div>
           ) : null}
 
-          <details className="panel rounded-2xl p-3 text-sm">
-            <summary className="cursor-pointer font-semibold text-[var(--brand-ink)]">
-              Backup & restore (local only)
-            </summary>
-            <div className="mt-3 flex flex-wrap gap-2">
-              <button
-                type="button"
-                className="rounded-xl bg-[var(--brand-soft)] px-3 py-2 font-semibold text-[var(--brand-ink)]"
-                onClick={downloadBackup}
-              >
-                Download backup
-              </button>
-              <label className="rounded-xl bg-[var(--brand-soft)] px-3 py-2 font-semibold text-[var(--brand-ink)]">
-                Import backup
-                <input
-                  type="file"
-                  accept="application/json,.json"
-                  className="hidden"
-                  onChange={async (e) => {
-                    const file = e.target.files?.[0]
-                    if (!file) return
-                    const text = await file.text()
-                    restoreBackup(text)
-                  }}
-                />
-              </label>
-            </div>
-          </details>
+          <BackupRestorePanel
+            prefs={prefs}
+            updatedAt={updatedAt}
+            downloadBackup={downloadBackup}
+            restoreBackup={restoreBackup}
+            applySyncedPrefs={applySyncedPrefs}
+          />
 
           <footer className="muted space-y-2 px-1 pb-2 pt-4 text-center text-[11px] leading-relaxed">
             <p>
