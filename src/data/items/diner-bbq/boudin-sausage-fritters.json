@@ -1,32 +1,46 @@
 {
+  "id": "boudin-sausage-fritters",
   "name": "Boudin Sausage Fritters",
   "categoryFolder": "diner-bbq",
-  "crohnsScore": 7.5,
-  "safetyTier": "low-risk",
+  "brandOrRestaurant": "Disney Wonder · Tiana's Place",
+  "crohnsScore": 5.5,
+  "safetyTier": "danger-zone",
   "mealTypes": [
-    "lunch",
-    "dinner"
+    "dinner",
+    "snack"
   ],
   "region": "American",
   "costTier": 2,
-  "convenienceScore": 3,
+  "convenienceScore": 5,
   "prepMethod": [
-    "skillet"
+    "ready-to-eat"
   ],
   "fiberGramsPerServing": 2,
-  "lactoseSafe": true,
+  "lactoseSafe": false,
   "citrusFree": true,
   "tags": [
     "sausage",
     "pork",
-    "fried"
+    "fried",
+    "cajun",
+    "warning",
+    "disney-cruise",
+    "disney-wonder",
+    "tianas-place"
   ],
   "searchKeywords": [
     "boudin",
-    "sausage",
-    "fritters"
+    "sausage fritters",
+    "tianas place",
+    "disney wonder",
+    "cajun appetizer"
   ],
-  "whyItWorks": "A protein-dense option.",
-  "prepOrOrderInstructions": "Minimize greasy intake.",
-  "id": "boudin-sausage-fritters"
+  "whyItWorks": "Deep-fried breaded pork and rice boudin balls carry Cajun cayenne spice, diced aromatics, and heavy fryer oil that can trigger cramping and urgency.",
+  "prepOrOrderInstructions": "Avoid during flares. In solid remission, share a single fritter to test spice and grease tolerance, and skip the spicy Cajun dipping aioli.",
+  "flareEmergencySwap": "Order the Sautéed Gulf Shrimp and Grits (ask for mild/no Cajun spice) or plain white rice with roasted chicken instead.",
+  "watchOuts": [
+    "Cayenne / Cajun spice blend",
+    "Deep-fried breading grease",
+    "Diced onion/bell pepper in boudin filling"
+  ]
 }
