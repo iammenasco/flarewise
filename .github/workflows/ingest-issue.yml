@@ -55,7 +55,11 @@ jobs:
           ISSUE_NUMBER="${{ github.event.issue.number }}"
           git commit -m "feat(data): add food from issue #${ISSUE_NUMBER}" \
             -m "Automated ingestion from approved issue #${ISSUE_NUMBER}."
-          # Rebase once if another serialized ingest landed first.
+          # Production build dirties public/ (catalog export) without committing it.
+          # A dirty tree blocks `git pull --rebase` on the non-fast-forward retry path
+          # (seen 2026-11-10 bulk approve: "cannot pull with rebase: You have unstaged changes").
+          git reset --hard HEAD
+          # Rebase if another serialized ingest (or a late main tip) landed first.
           for attempt in 1 2 3; do
             if git push origin HEAD:main; then
               break
@@ -64,7 +68,8 @@ jobs:
               echo "Push still rejected after retries."
               exit 1
             fi
-            git pull --rebase origin main
+            git fetch origin main
+            git rebase origin/main
           done
           echo "sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
       - name: Close issue
