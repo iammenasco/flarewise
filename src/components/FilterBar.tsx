@@ -17,6 +17,7 @@ interface FilterBarProps {
   citrusFreeOnly: boolean
   cruiseMode: boolean
   showDangerZone: boolean
+  showServerCard: boolean
   onToggleGuardrail: (
     key:
       | 'lactoseSafeOnly'
@@ -26,6 +27,7 @@ interface FilterBarProps {
       | 'cruiseMode'
       | 'showDangerZone',
   ) => void
+  onToggleShowServerCard: () => void
   onSelectDestination: (destinationTag: string) => void
   onClearExtra: () => void
 }
@@ -88,7 +90,9 @@ export function FilterPanel({
   citrusFreeOnly,
   cruiseMode,
   showDangerZone,
+  showServerCard,
   onToggleGuardrail,
+  onToggleShowServerCard,
   onSelectDestination,
   onClearExtra,
 }: FilterBarProps) {
@@ -269,6 +273,21 @@ export function FilterPanel({
         <p className="muted mt-1.5 text-xs">
           Avoid foods stay hidden unless you turn this on — they are reference
           warnings, not recommendations.
+        </p>
+      </div>
+
+      <div>
+        <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
+          Extras
+        </p>
+        <div className="flex flex-wrap gap-1.5">
+          <Chip active={showServerCard} onClick={onToggleShowServerCard}>
+            Server card on food details
+          </Chip>
+        </div>
+        <p className="muted mt-1.5 text-xs">
+          Off by default — turns on a high-contrast order card you can show a
+          server, plus one-tap copy of the prep script.
         </p>
       </div>
 

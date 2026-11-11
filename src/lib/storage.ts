@@ -8,6 +8,7 @@ export const STORAGE_KEYS = {
   minScore: 'flarewise_min_score',
   guardrails: 'flarewise_guardrails',
   personalStatus: 'flarewise_personal_status',
+  showServerCard: 'flarewise_show_server_card',
   submitDraft: 'flarewise_submit_draft',
   submitQueue: 'flarewise_submit_queue',
 } as const
@@ -47,6 +48,7 @@ export const defaultPreferences: CatalogPreferences = {
   minScore: 9,
   guardrails: defaultGuardrails,
   personalStatus: {},
+  showServerCard: false,
 }
 
 function readJson<T>(key: string, fallback: T): T {
@@ -98,6 +100,7 @@ export function loadPreferences(): CatalogPreferences {
     minScore: readJson(STORAGE_KEYS.minScore, 6.5),
     guardrails,
     personalStatus: readJson(STORAGE_KEYS.personalStatus, {}),
+    showServerCard: readJson(STORAGE_KEYS.showServerCard, false),
   }
 }
 
@@ -114,6 +117,10 @@ export function savePreferences(prefs: CatalogPreferences) {
     STORAGE_KEYS.personalStatus,
     JSON.stringify(prefs.personalStatus),
   )
+  localStorage.setItem(
+    STORAGE_KEYS.showServerCard,
+    JSON.stringify(prefs.showServerCard),
+  )
 }
 
 export function exportPreferences(prefs: CatalogPreferences): string {
@@ -129,6 +136,7 @@ export function importPreferences(raw: string): CatalogPreferences | null {
       ...parsed,
       guardrails: { ...defaultGuardrails, ...parsed.guardrails },
       personalStatus: parsed.personalStatus ?? {},
+      showServerCard: Boolean(parsed.showServerCard),
     }
   } catch {
     return null

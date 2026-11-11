@@ -23,6 +23,7 @@ export function CatalogPage() {
     toggleGrocery,
     setMinScore,
     setGuardrails,
+    setShowServerCard,
     setPersonalStatus,
     toggleCheckedIngredient,
     clearGrocery,
@@ -416,6 +417,7 @@ export function CatalogPage() {
               citrusFreeOnly={prefs.guardrails.citrusFreeOnly}
               cruiseMode={prefs.guardrails.cruiseMode}
               showDangerZone={prefs.guardrails.showDangerZone}
+              showServerCard={prefs.showServerCard}
               onToggleGuardrail={(key) => {
                 if (key === 'showDangerZone') {
                   setGuardrails({ showDangerZone: !prefs.guardrails.showDangerZone })
@@ -427,6 +429,9 @@ export function CatalogPage() {
                 }
                 setGuardrails({ [key]: !prefs.guardrails[key] })
               }}
+              onToggleShowServerCard={() =>
+                setShowServerCard(!prefs.showServerCard)
+              }
               onSelectDestination={selectDestination}
               onClearExtra={clearExtraFilters}
             />
@@ -449,6 +454,7 @@ export function CatalogPage() {
         personalStatus={
           selected ? prefs.personalStatus[selected.id] : undefined
         }
+        showServerCard={prefs.showServerCard}
         onClose={() => setSelected(null)}
         onToggleStar={() => selected && toggleStar(selected.id)}
         onToggleCart={() => selected && toggleGrocery(selected.id)}
