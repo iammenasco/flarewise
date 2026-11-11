@@ -104,7 +104,7 @@ describe('itemPassesFilters', () => {
     ).toBe(true)
   })
 
-  it('hides cruise and theme-park vacation items by default (when cruiseMode is false) and shows only vacation items when cruiseMode is true', () => {
+  it('Everyday scope hides vacation items; legacy cruiseMode at Everyday unlocks them', () => {
     const cruiseItem: CrohnsFoodItem = {
       ...baseItem,
       id: 'creamy-butternut-squash-soup',
@@ -120,13 +120,13 @@ describe('itemPassesFilters', () => {
       id: 'knotts-mrs-knotts-roasted-chicken',
       tags: ['chicken', 'vacation', 'knotts-berry-farm'],
     }
-    // Unselected by default: everyday item passes, vacation items are hidden
+    // Everyday default: everyday item passes, vacation items are hidden
     expect(itemPassesFilters(baseItem, emptyFilters, openPrefs)).toBe(true)
     expect(itemPassesFilters(cruiseItem, emptyFilters, openPrefs)).toBe(false)
     expect(itemPassesFilters(disneylandItem, emptyFilters, openPrefs)).toBe(false)
     expect(itemPassesFilters(knottsItem, emptyFilters, openPrefs)).toBe(false)
 
-    // Selected (cruiseMode / Vacation mode = true): vacation items pass, everyday item is hidden
+    // Legacy Everyday + cruiseMode pref still unlocks vacation catalogs
     const vacationPrefs = {
       ...openPrefs,
       guardrails: { ...openPrefs.guardrails, cruiseMode: true },
@@ -136,7 +136,7 @@ describe('itemPassesFilters', () => {
     expect(itemPassesFilters(knottsItem, emptyFilters, vacationPrefs)).toBe(true)
     expect(itemPassesFilters(baseItem, emptyFilters, vacationPrefs)).toBe(false)
 
-    // Destination tag filter inside Vacation mode (theme parks & cruise ships)
+    // Destination tag filter inside a vacation unlock
     expect(
       itemPassesFilters(
         disneylandItem,
@@ -173,7 +173,7 @@ describe('itemPassesFilters', () => {
     expect(defaultPreferences.guardrails.cruiseMode).toBe(false)
   })
 
-  it('scopes Theme parks and Cruise places to vacation menus only', () => {
+  it('Parks and Cruise search scopes unlock only their vacation catalogs', () => {
     const parkItem: CrohnsFoodItem = {
       ...baseItem,
       id: 'bengal-skewer',
@@ -192,7 +192,7 @@ describe('itemPassesFilters', () => {
       ...emptyFilters,
       place: 'cruise',
     }
-    // Place itself unlocks vacation browsing even if cruiseMode pref is false.
+    // Scope itself unlocks vacation browsing even if cruiseMode pref is false.
     expect(itemPassesFilters(parkItem, parkFilters, openPrefs)).toBe(true)
     expect(itemPassesFilters(cruiseItem, parkFilters, openPrefs)).toBe(false)
     expect(itemPassesFilters(baseItem, parkFilters, openPrefs)).toBe(false)
@@ -331,7 +331,7 @@ describe('countActiveFilters', () => {
     ).toBe(1)
   })
 
-  it('counts non-home place and venue', () => {
+  it('counts non-Everyday search scope and venue', () => {
     expect(
       countActiveFilters(
         {
@@ -342,5 +342,14 @@ describe('countActiveFilters', () => {
         openPrefs.guardrails,
       ),
     ).toBe(2)
+  })
+
+  it('does not double-count Parks/Cruise scope via cruiseMode', () => {
+    expect(
+      countActiveFilters(
+        { ...emptyFilters, place: 'cruise' },
+        { ...openPrefs.guardrails, cruiseMode: true },
+      ),
+    ).toBe(1)
   })
 })

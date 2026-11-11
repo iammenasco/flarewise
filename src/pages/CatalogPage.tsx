@@ -7,8 +7,8 @@ import { FoodCard } from '../components/FoodCard'
 import { FoodDrawer } from '../components/FoodDrawer'
 import { GroceryPanel } from '../components/GroceryPanel'
 import { PickForMe } from '../components/PickForMe'
+import { SearchScope } from '../components/SearchScope'
 import { VenueMenuBar } from '../components/VenueMenuBar'
-import { WhereDial } from '../components/WhereDial'
 import { foodById } from '../data'
 import { pickForMe, useCatalogFilters } from '../hooks/useCatalogFilters'
 import { useJustReconnected } from '../hooks/useOnline'
@@ -126,36 +126,17 @@ export function CatalogPage() {
     setPickerOpen(true)
   }
 
-  function selectPlace(place: PlaceContextId) {
+  function selectScope(place: PlaceContextId) {
     const ctx = getPlaceContext(place)
     const nextTag =
       filters.tag && isVacationTag(filters.tag) && !ctx.vacation
         ? ''
         : filters.tag
+    // Keep cruiseMode aligned with scope for legacy prefs / filter counting.
     setGuardrails({ cruiseMode: ctx.vacation })
     patch({
       place,
       tag: nextTag,
-      venue: '',
-    })
-  }
-
-  function toggleVacationMode() {
-    const next = !prefs.guardrails.cruiseMode
-    setGuardrails({ cruiseMode: next })
-    if (next) {
-      const place =
-        filters.place === 'cruise' || filters.place === 'theme-parks'
-          ? filters.place
-          : 'theme-parks'
-      patch({ place, venue: '' })
-      return
-    }
-    const clearVacationTag =
-      filters.tag && isVacationTag(filters.tag) ? '' : filters.tag
-    patch({
-      place: 'home',
-      tag: clearVacationTag,
       venue: '',
     })
   }
@@ -275,25 +256,34 @@ export function CatalogPage() {
       </header>
 
       <div className="shrink-0 space-y-2 border-b border-[var(--line)] pb-2">
-        <label className="panel flex items-center gap-2 rounded-xl px-3 py-2 shadow-sm">
-          <Search className="h-4 w-4 shrink-0 text-[var(--brand)]" />
-          <input
-            value={filters.q}
-            onChange={(e) => patch({ q: e.target.value })}
-            placeholder="Search cereal, noodles, takeout…"
-            className="w-full bg-transparent text-sm outline-none placeholder:text-[var(--brand-ink)]/40"
-          />
-          {filters.q ? (
-            <button
-              type="button"
-              aria-label="Clear search"
-              className="rounded-full p-0.5 text-[var(--brand-ink)]/45"
-              onClick={() => patch({ q: '' })}
-            >
-              <X className="h-4 w-4" />
-            </button>
-          ) : null}
-        </label>
+        <div className="panel space-y-2 rounded-xl px-3 py-2 shadow-sm">
+          <label className="flex items-center gap-2">
+            <Search className="h-4 w-4 shrink-0 text-[var(--brand)]" />
+            <input
+              value={filters.q}
+              onChange={(e) => patch({ q: e.target.value })}
+              placeholder={
+                filters.place === 'theme-parks'
+                  ? 'Search park menus…'
+                  : filters.place === 'cruise'
+                    ? 'Search ship menus…'
+                    : 'Search cereal, noodles, takeout…'
+              }
+              className="w-full bg-transparent text-sm outline-none placeholder:text-[var(--brand-ink)]/40"
+            />
+            {filters.q ? (
+              <button
+                type="button"
+                aria-label="Clear search"
+                className="rounded-full p-0.5 text-[var(--brand-ink)]/45"
+                onClick={() => patch({ q: '' })}
+              >
+                <X className="h-4 w-4" />
+              </button>
+            ) : null}
+          </label>
+          <SearchScope place={filters.place} onPlace={selectScope} />
+        </div>
 
         <div className="panel flex items-center gap-2 rounded-xl px-2.5 py-2 shadow-sm">
           <FlareDial minScore={prefs.minScore} onMinScore={setMinScore} />
@@ -312,8 +302,6 @@ export function CatalogPage() {
             ) : null}
           </button>
         </div>
-
-        <WhereDial place={filters.place} onPlace={selectPlace} />
 
         <div className="flex items-center justify-between gap-2">
           <ModeChips
@@ -490,20 +478,11 @@ export function CatalogPage() {
               toasterOvenOnly={prefs.guardrails.toasterOvenOnly}
               grabAndGoOnly={prefs.guardrails.grabAndGoOnly}
               citrusFreeOnly={prefs.guardrails.citrusFreeOnly}
-              cruiseMode={
-                prefs.guardrails.cruiseMode ||
-                filters.place === 'theme-parks' ||
-                filters.place === 'cruise'
-              }
               showDangerZone={prefs.guardrails.showDangerZone}
               showServerCard={prefs.showServerCard}
               onToggleGuardrail={(key) => {
                 if (key === 'showDangerZone') {
                   setGuardrails({ showDangerZone: !prefs.guardrails.showDangerZone })
-                  return
-                }
-                if (key === 'cruiseMode') {
-                  toggleVacationMode()
                   return
                 }
                 setGuardrails({ [key]: !prefs.guardrails[key] })
