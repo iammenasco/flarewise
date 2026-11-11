@@ -1,4 +1,5 @@
 {
+  "id": "grilled-sourdough-ham-cheese",
   "name": "Grilled Sourdough Ham & Cheese",
   "categoryFolder": "lunch",
   "crohnsScore": 9,
@@ -8,29 +9,41 @@
     "dinner"
   ],
   "region": "American",
-  "costTier": 2,
-  "convenienceScore": 2,
+  "costTier": 1,
+  "convenienceScore": 4,
   "prepMethod": [
-    "skillet"
+    "skillet",
+    "toaster-oven"
   ],
-  "fiberGramsPerServing": 2,
-  "lactoseSafe": false,
+  "fiberGramsPerServing": 1,
+  "lactoseSafe": true,
   "citrusFree": true,
+  "groceryIngredients": [
+    "White Sourdough Bread",
+    "Deli Ham",
+    "Plain Havarti or Swiss Cheese",
+    "Butter"
+  ],
   "tags": [
     "sandwich",
     "melt",
     "ham",
     "cheese",
-    "sourdough"
+    "sourdough",
+    "swiss",
+    "havarti",
+    "toaster-oven"
   ],
   "searchKeywords": [
-    "grilled",
-    "ham",
-    "cheese",
-    "sourdough",
-    "melt"
+    "grilled ham and cheese",
+    "sourdough melt",
+    "hot ham and cheese",
+    "toastie"
   ],
-  "whyItWorks": "Provides satisfying protein and fat with easily digestible sourdough bread.",
-  "prepOrOrderInstructions": "Butter the sourdough slices and grill in a skillet over medium heat until the cheese is melted and the bread is golden brown.",
-  "id": "grilled-sourdough-ham-cheese"
+  "whyItWorks": "Long-fermented white sourdough and naturally aged Swiss, Havarti, or sharp cheddar (~0g lactose) melt into a low-residue, high-protein hot sandwich with ~1g fiber.",
+  "prepOrOrderInstructions": "Layer thin-sliced deli ham and plain Swiss, Havarti, or aged cheddar between buttered white sourdough slices. Grill in a skillet or bake in the toaster oven at 375F until crisp and melted.",
+  "watchOuts": [
+    "Whole-grain or seeded sourdough",
+    "Unaged American cheese if lactose sensitive"
+  ]
 }
