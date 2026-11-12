@@ -1,5 +1,4 @@
 import type { ReactNode } from 'react'
-import { Monitor, Moon, Sun } from 'lucide-react'
 import {
   CRUISE_SHIP_CHIPS,
   PLACE_CONTEXTS,
@@ -8,10 +7,9 @@ import {
   type PlaceContextId,
 } from '../lib/filters'
 import { MEAL_CHIPS, REGION_CHIPS, costLabel } from '../lib/score'
-import { THEME_PREFERENCES, type ThemePreference } from '../lib/theme'
 import type { CatalogFilters, ModeFilter } from '../hooks/useCatalogFilters'
 
-interface FilterBarProps {
+interface FilterPanelProps {
   filters: CatalogFilters
   onPatch: (patch: Partial<CatalogFilters>) => void
   lactoseSafeOnly: boolean
@@ -19,8 +17,6 @@ interface FilterBarProps {
   grabAndGoOnly: boolean
   citrusFreeOnly: boolean
   showDangerZone: boolean
-  showServerCard: boolean
-  theme: ThemePreference
   onToggleGuardrail: (
     key:
       | 'lactoseSafeOnly'
@@ -29,20 +25,11 @@ interface FilterBarProps {
       | 'citrusFreeOnly'
       | 'showDangerZone',
   ) => void
-  onToggleShowServerCard: () => void
-  onTheme: (theme: ThemePreference) => void
   onSelectVacation: (place: PlaceContextId) => void
   onSelectDestination: (destinationTag: string) => void
-  onClearExtra: () => void
 }
 
-const THEME_ICONS = {
-  system: Monitor,
-  light: Sun,
-  dark: Moon,
-} as const
-
-function Chip({
+export function Chip({
   active,
   children,
   onClick,
@@ -99,15 +86,10 @@ export function FilterPanel({
   grabAndGoOnly,
   citrusFreeOnly,
   showDangerZone,
-  showServerCard,
-  theme,
   onToggleGuardrail,
-  onToggleShowServerCard,
-  onTheme,
   onSelectVacation,
   onSelectDestination,
-  onClearExtra,
-}: FilterBarProps) {
+}: FilterPanelProps) {
   const parksScope = filters.place === 'theme-parks'
   const cruiseScope = filters.place === 'cruise'
   const vacationScope = parksScope || cruiseScope
@@ -291,52 +273,6 @@ export function FilterPanel({
         <p className="muted mt-1.5 text-xs">
           Off by default. Unlock Parks or Cruise for destination menus.
         </p>
-      </div>
-
-      <button type="button" className="btn btn-ghost w-full" onClick={onClearExtra}>
-        Clear filters
-      </button>
-
-      <div>
-        <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[var(--brand)]">
-          Preferences
-        </p>
-        <div className="space-y-2.5">
-          <div>
-            <div className="flex flex-wrap gap-1.5">
-              <Chip active={showServerCard} onClick={onToggleShowServerCard}>
-                Server card on food details
-              </Chip>
-            </div>
-            <p className="muted mt-1.5 text-xs">
-              High-contrast order card for servers, plus one-tap prep copy.
-            </p>
-          </div>
-          <div>
-            <p className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-[var(--brand-ink)]/70">
-              Appearance
-            </p>
-            <div
-              className="flex flex-wrap gap-1.5"
-              role="radiogroup"
-              aria-label="Appearance"
-            >
-              {THEME_PREFERENCES.map((item) => {
-                const Icon = THEME_ICONS[item.id]
-                return (
-                  <Chip
-                    key={item.id}
-                    active={theme === item.id}
-                    onClick={() => onTheme(item.id)}
-                  >
-                    <Icon className="h-3.5 w-3.5" aria-hidden />
-                    {item.label}
-                  </Chip>
-                )
-              })}
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   )

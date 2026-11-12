@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { Plus, Search, SlidersHorizontal, Sparkles, X } from 'lucide-react'
+import { Plus, Search, Settings, SlidersHorizontal, Sparkles, X } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { FilterPanel, ModeChips } from '../components/FilterBar'
 import { FlareDial } from '../components/FlareDial'
@@ -8,7 +8,7 @@ import { FoodDrawer } from '../components/FoodDrawer'
 import { GroceryPanel } from '../components/GroceryPanel'
 import { PickForMe } from '../components/PickForMe'
 import { SearchScope } from '../components/SearchScope'
-import { BackupRestorePanel } from '../components/BackupRestorePanel'
+import { SettingsPanel } from '../components/SettingsPanel'
 import { VenueMenuBar } from '../components/VenueMenuBar'
 import { foodById } from '../data'
 import { pickForMe, useCatalogFilters } from '../hooks/useCatalogFilters'
@@ -54,6 +54,7 @@ export function CatalogPage() {
 
   const [pickerOpen, setPickerOpen] = useState(false)
   const [filtersOpen, setFiltersOpen] = useState(false)
+  const [settingsOpen, setSettingsOpen] = useState(false)
   const [visibleCount, setVisibleCount] = useState(40)
   const [picks, setPicks] = useState(() => pickForMe(filtered))
   const [buildInfo, setBuildInfo] = useState<{ builtAt?: string } | null>(null)
@@ -336,6 +337,14 @@ export function CatalogPage() {
               </span>
             ) : null}
           </button>
+          <button
+            type="button"
+            onClick={() => setSettingsOpen(true)}
+            className="btn btn-ghost shrink-0 self-center !min-h-10 !px-2.5 !text-xs"
+            aria-label="Open settings"
+          >
+            <Settings className="h-4 w-4" />
+          </button>
         </div>
 
         <div className="flex items-center justify-between gap-2">
@@ -422,14 +431,6 @@ export function CatalogPage() {
             </div>
           ) : null}
 
-          <BackupRestorePanel
-            prefs={prefs}
-            updatedAt={updatedAt}
-            downloadBackup={downloadBackup}
-            restoreBackup={restoreBackup}
-            applySyncedPrefs={applySyncedPrefs}
-          />
-
           <footer className="muted space-y-2 px-1 pb-2 pt-4 text-center text-[11px] leading-relaxed">
             <p>
               Flarewise is open source — free to use, fork, and improve. It is not
@@ -473,8 +474,8 @@ export function CatalogPage() {
             className="absolute inset-0 bg-[var(--brand-ink)]/40"
             onClick={() => setFiltersOpen(false)}
           />
-          <div className="panel safe-bottom relative z-10 max-h-[80vh] w-full max-w-lg overflow-y-auto rounded-t-3xl p-4 shadow-2xl sm:rounded-3xl">
-            <div className="mb-3 flex items-center justify-between">
+          <div className="panel safe-bottom relative z-10 flex max-h-[80vh] w-full max-w-lg flex-col rounded-t-3xl shadow-2xl sm:rounded-3xl">
+            <div className="flex shrink-0 items-center justify-between px-4 pt-4">
               <h2 className="brand-font text-xl text-[var(--brand-ink)]">Filters</h2>
               <button
                 type="button"
@@ -485,38 +486,92 @@ export function CatalogPage() {
                 <X className="h-5 w-5" />
               </button>
             </div>
-            <FilterPanel
-              filters={filters}
-              onPatch={patch}
-              lactoseSafeOnly={prefs.guardrails.lactoseSafeOnly}
-              toasterOvenOnly={prefs.guardrails.toasterOvenOnly}
-              grabAndGoOnly={prefs.guardrails.grabAndGoOnly}
-              citrusFreeOnly={prefs.guardrails.citrusFreeOnly}
-              showDangerZone={prefs.guardrails.showDangerZone}
-              showServerCard={prefs.showServerCard}
-              theme={prefs.theme}
-              onToggleGuardrail={(key) => {
-                if (key === 'showDangerZone') {
-                  setGuardrails({ showDangerZone: !prefs.guardrails.showDangerZone })
-                  return
+            <div className="min-h-0 flex-1 overflow-y-auto px-4 py-3">
+              <FilterPanel
+                filters={filters}
+                onPatch={patch}
+                lactoseSafeOnly={prefs.guardrails.lactoseSafeOnly}
+                toasterOvenOnly={prefs.guardrails.toasterOvenOnly}
+                grabAndGoOnly={prefs.guardrails.grabAndGoOnly}
+                citrusFreeOnly={prefs.guardrails.citrusFreeOnly}
+                showDangerZone={prefs.guardrails.showDangerZone}
+                onToggleGuardrail={(key) => {
+                  if (key === 'showDangerZone') {
+                    setGuardrails({
+                      showDangerZone: !prefs.guardrails.showDangerZone,
+                    })
+                    return
+                  }
+                  setGuardrails({ [key]: !prefs.guardrails[key] })
+                }}
+                onSelectVacation={selectVacation}
+                onSelectDestination={selectDestination}
+              />
+            </div>
+            <div className="flex shrink-0 gap-2 border-t border-[var(--line)] px-4 pt-3">
+              <button
+                type="button"
+                className="btn btn-ghost flex-1 !rounded-xl"
+                onClick={clearExtraFilters}
+              >
+                Clear
+              </button>
+              <button
+                type="button"
+                className="flex-[1.6] rounded-xl bg-[var(--brand)] px-4 py-3 font-semibold text-white"
+                onClick={() => setFiltersOpen(false)}
+              >
+                Show {filtered.length} food{filtered.length === 1 ? '' : 's'}
+              </button>
+            </div>
+          </div>
+        </div>
+      ) : null}
+
+      {settingsOpen ? (
+        <div className="fixed inset-0 z-40 flex items-end justify-center sm:items-center">
+          <button
+            type="button"
+            aria-label="Close settings"
+            className="absolute inset-0 bg-[var(--brand-ink)]/40"
+            onClick={() => setSettingsOpen(false)}
+          />
+          <div className="panel safe-bottom relative z-10 flex max-h-[80vh] w-full max-w-lg flex-col rounded-t-3xl shadow-2xl sm:rounded-3xl">
+            <div className="flex shrink-0 items-center justify-between px-4 pt-4">
+              <h2 className="brand-font text-xl text-[var(--brand-ink)]">
+                Settings
+              </h2>
+              <button
+                type="button"
+                className="rounded-full p-2 hover:bg-[var(--brand-soft)]"
+                onClick={() => setSettingsOpen(false)}
+                aria-label="Close"
+              >
+                <X className="h-5 w-5" />
+              </button>
+            </div>
+            <div className="min-h-0 flex-1 overflow-y-auto px-4 py-3">
+              <SettingsPanel
+                prefs={prefs}
+                updatedAt={updatedAt}
+                onToggleShowServerCard={() =>
+                  setShowServerCard(!prefs.showServerCard)
                 }
-                setGuardrails({ [key]: !prefs.guardrails[key] })
-              }}
-              onToggleShowServerCard={() =>
-                setShowServerCard(!prefs.showServerCard)
-              }
-              onTheme={setTheme}
-              onSelectVacation={selectVacation}
-              onSelectDestination={selectDestination}
-              onClearExtra={clearExtraFilters}
-            />
-            <button
-              type="button"
-              className="mt-4 w-full rounded-xl bg-[var(--brand)] px-4 py-3 font-semibold text-white"
-              onClick={() => setFiltersOpen(false)}
-            >
-              Show {filtered.length} food{filtered.length === 1 ? '' : 's'}
-            </button>
+                onTheme={setTheme}
+                downloadBackup={downloadBackup}
+                restoreBackup={restoreBackup}
+                applySyncedPrefs={applySyncedPrefs}
+              />
+            </div>
+            <div className="shrink-0 border-t border-[var(--line)] px-4 pt-3">
+              <button
+                type="button"
+                className="w-full rounded-xl bg-[var(--brand)] px-4 py-3 font-semibold text-white"
+                onClick={() => setSettingsOpen(false)}
+              >
+                Done
+              </button>
+            </div>
           </div>
         </div>
       ) : null}
