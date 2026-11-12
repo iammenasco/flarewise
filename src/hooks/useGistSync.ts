@@ -105,8 +105,11 @@ export function useGistSync(opts: {
   }, [config, runReconcile])
 
   // Debounced push when local prefs change after the first reconcile.
+  // Depend on connected (not config): persistConfig updates lastSyncedAt after
+  // each push, and that must not re-arm another push.
+  const connected = Boolean(config)
   useEffect(() => {
-    if (!config || !opts.online) return
+    if (!connected || !opts.online) return
     if (!initialPullDoneRef.current) return
     if (applyingRemoteRef.current) return
     if (Date.now() < suppressPushUntilRef.current) return
@@ -143,7 +146,7 @@ export function useGistSync(opts: {
     return () => {
       if (pushTimerRef.current) clearTimeout(pushTimerRef.current)
     }
-  }, [config, opts.online, opts.prefs, opts.updatedAt, persistConfig])
+  }, [connected, opts.online, opts.prefs, opts.updatedAt, persistConfig])
 
   async function connectCreate() {
     const token = tokenInput.trim()
