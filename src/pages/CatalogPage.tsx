@@ -228,18 +228,28 @@ export function CatalogPage() {
               </p>
             </div>
           </div>
-          <Link
-            to="/submit"
-            className="btn btn-primary shrink-0"
-            title={
-              online
-                ? 'Submit a food'
-                : 'Draft offline — GitHub submit when you are back online'
-            }
-          >
-            <Plus className="h-4 w-4" />
-            Add
-          </Link>
+          <div className="flex shrink-0 items-center gap-1.5">
+            <button
+              type="button"
+              onClick={() => setSettingsOpen(true)}
+              className="btn btn-ghost !min-h-10 !px-2.5"
+              aria-label="Open settings"
+            >
+              <Settings className="h-4 w-4" />
+            </button>
+            <Link
+              to="/submit"
+              className="btn btn-primary"
+              title={
+                online
+                  ? 'Submit a food'
+                  : 'Draft offline — GitHub submit when you are back online'
+              }
+            >
+              <Plus className="h-4 w-4" />
+              Add
+            </Link>
+          </div>
         </div>
         {!online ? (
           <p className="muted mt-2 text-xs">
@@ -336,14 +346,6 @@ export function CatalogPage() {
                 {activeFilterCount}
               </span>
             ) : null}
-          </button>
-          <button
-            type="button"
-            onClick={() => setSettingsOpen(true)}
-            className="btn btn-ghost shrink-0 self-center !min-h-10 !px-2.5 !text-xs"
-            aria-label="Open settings"
-          >
-            <Settings className="h-4 w-4" />
           </button>
         </div>
 

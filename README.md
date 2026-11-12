@@ -58,7 +58,7 @@ Default job URL param: `job=make`. Predicates live in `src/lib/filters.ts`
 
 ### Backup & Gist sync
 
-Settings (gear next to Filters) → **Backup & restore**:
+Settings (gear next to Add) → **Backup & restore**:
 
 1. **Download / Import** — always works offline; plain JSON of your preferences.
 2. **Optional secret Gist sync** — create a [fine-grained PAT](https://github.com/settings/personal-access-tokens) with **Gists: Read and write** only → **Create secret gist** (first device) or paste token + gist id → **Attach existing** (second device). Changes debounce-push while the tab is open; load pulls with last-write-wins on `updatedAt`. Disconnect clears the local token only (does not delete the gist).
