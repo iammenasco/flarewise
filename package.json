@@ -37,6 +37,9 @@
     "tailwindcss": "^4.1.13",
     "typescript": "~7.0.2",
     "vite": "^8.3.6",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.12"
+  },
+  "overrides": {
+    "fast-json-patch": "3.1.1"
   }
 }
