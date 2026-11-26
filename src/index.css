@@ -1,28 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap');
 @import 'tailwindcss';
+@import 'iammenasco-blue/surfaces.css';
 
 @custom-variant dark (&:where(html[data-theme='dark'] &));
 
 :root,
 html[data-theme='light'] {
-  --brand: #368dda;
+  --brand: var(--ib-primary);
   --brand-ink: #163a63;
   --brand-soft: #e8f2fb;
   --brand-wash: #f3f8fd;
   --surface: rgba(255, 255, 255, 0.92);
-  --surface-solid: #ffffff;
+  --surface-solid: var(--ib-surface);
   --elevated: rgba(255, 255, 255, 0.85);
-  --line: rgba(22, 58, 99, 0.14);
-  --muted: rgba(22, 58, 99, 0.72);
+  --line: var(--ib-border);
+  --muted: var(--ib-muted);
   --touch: 2.75rem;
   --page-top: #e8f2fb;
   --thumb-ring: #ffffff;
-  --selection: rgba(54, 141, 218, 0.25);
-  --focus-ring: rgba(54, 141, 218, 0.45);
-  --scrollbar: rgba(54, 141, 218, 0.35);
+  --selection: rgba(var(--iammenasco-blue-rgb), 0.25);
+  --focus-ring: var(--ib-focus-ring);
+  --scrollbar: rgba(var(--iammenasco-blue-rgb), 0.35);
   --page-gradient:
-    radial-gradient(1200px 600px at 10% -10%, rgba(54, 141, 218, 0.22), transparent 55%),
-    radial-gradient(900px 500px at 100% 0%, rgba(54, 141, 218, 0.12), transparent 50%),
+    radial-gradient(1200px 600px at 10% -10%, rgba(var(--iammenasco-blue-rgb), 0.22), transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, rgba(var(--iammenasco-blue-rgb), 0.12), transparent 50%),
     linear-gradient(180deg, #e8f2fb 0%, #eef5fb 42%, #f5f9fc 100%);
   color: var(--brand-ink);
   font-family: Manrope, ui-sans-serif, system-ui, sans-serif;
@@ -38,22 +39,22 @@ html[data-theme='light'] {
 }
 
 html[data-theme='dark'] {
-  --brand: #5ba4e8;
-  --brand-ink: #e8f2fb;
+  --brand: var(--ib-primary-hover);
+  --brand-ink: var(--ib-text);
   --brand-soft: #1a3f66;
   --brand-wash: #132f4d;
   --surface: rgba(18, 42, 68, 0.94);
   --surface-solid: #163555;
   --elevated: rgba(22, 53, 85, 0.92);
-  --line: rgba(232, 242, 251, 0.16);
-  --muted: rgba(232, 242, 251, 0.68);
+  --line: var(--ib-border);
+  --muted: var(--ib-muted);
   --page-top: #0f2740;
   --thumb-ring: #163555;
-  --selection: rgba(91, 164, 232, 0.35);
-  --focus-ring: rgba(91, 164, 232, 0.5);
-  --scrollbar: rgba(91, 164, 232, 0.45);
+  --selection: rgba(var(--iammenasco-blue-rgb), 0.35);
+  --focus-ring: var(--ib-focus-ring);
+  --scrollbar: var(--ib-border-strong);
   --page-gradient:
-    radial-gradient(1200px 600px at 10% -10%, rgba(54, 141, 218, 0.28), transparent 55%),
+    radial-gradient(1200px 600px at 10% -10%, rgba(var(--iammenasco-blue-rgb), 0.28), transparent 55%),
     radial-gradient(900px 500px at 100% 0%, rgba(22, 58, 99, 0.55), transparent 50%),
     linear-gradient(180deg, #0f2740 0%, #12314d 42%, #0d2136 100%);
   background-color: var(--page-top);

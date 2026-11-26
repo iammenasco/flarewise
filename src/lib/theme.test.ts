@@ -1,10 +1,12 @@
 import { describe, expect, it } from 'vitest'
+import { HEX, RGB } from 'iammenasco-blue'
 import {
   faviconHrefForTheme,
   isThemePreference,
   resolveTheme,
   systemPrefersDark,
 } from './theme'
+import { FEELING_TRACK_GRADIENT } from './score'
 
 describe('theme', () => {
   it('resolves system from OS preference', () => {
@@ -37,5 +39,11 @@ describe('theme', () => {
       svg: './favicon-dark.svg',
       png: './favicon.png',
     })
+  })
+
+  it('aligns canonical iammenasco-blue #368dda dial stop with package tokens', () => {
+    expect(HEX).toBe('#368dda')
+    expect(RGB).toEqual({ r: 54, g: 141, b: 218 })
+    expect(FEELING_TRACK_GRADIENT).toContain(`rgb(${RGB.r}, ${RGB.g}, ${RGB.b})`)
   })
 })

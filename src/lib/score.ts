@@ -1,3 +1,4 @@
+import { RGB as IAMMENASCO_BLUE_RGB } from 'iammenasco-blue'
 import type { SafetyTier } from '../types'
 import rubric from '../data/rubric.json'
 
@@ -76,11 +77,13 @@ export function tierChipClass(tier: SafetyTier, feeling = 5): string {
   }
 }
 
+const BRAND_RGB_CSS = `${IAMMENASCO_BLUE_RGB.r}, ${IAMMENASCO_BLUE_RGB.g}, ${IAMMENASCO_BLUE_RGB.b}`
+
 /** Today dial only: bad (red) → good (green). */
 const FEELING_STOPS: { t: number; rgb: [number, number, number] }[] = [
   { t: 0, rgb: [225, 29, 72] }, // rose — rough day
   { t: 0.35, rgb: [245, 158, 11] }, // amber
-  { t: 0.55, rgb: [54, 141, 218] }, // brand #368dda
+  { t: 0.55, rgb: [IAMMENASCO_BLUE_RGB.r, IAMMENASCO_BLUE_RGB.g, IAMMENASCO_BLUE_RGB.b] }, // brand #368dda
   { t: 0.78, rgb: [20, 184, 166] }, // teal
   { t: 1, rgb: [16, 185, 129] }, // emerald — feeling great
 ]
@@ -114,7 +117,7 @@ export function scaleColor(feeling: number): string {
 }
 
 export const FEELING_TRACK_GRADIENT =
-  'linear-gradient(90deg, rgb(225, 29, 72) 0%, rgb(245, 158, 11) 35%, rgb(54, 141, 218) 55%, rgb(20, 184, 166) 78%, rgb(16, 185, 129) 100%)'
+  `linear-gradient(90deg, rgb(225, 29, 72) 0%, rgb(245, 158, 11) 35%, rgb(${BRAND_RGB_CSS}) 55%, rgb(20, 184, 166) 78%, rgb(16, 185, 129) 100%)`
 
 /**
  * Submit-form “how gentle” dial — calm brand/emerald, no alarm red.
